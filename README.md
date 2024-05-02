@@ -9,7 +9,10 @@ pip install -r requirements.txt
 
 ## Usage
 ```commandline
+# 台股 0050
 python main.py --stock_id 0050.tw --period 1y --strategy SmaCross
+# 美股 SPY
+python main.py --stock_id SPY --period 1y --strategy SmaCross
 ```
 
 The result plot will show in pop-up browser. Detail stats will show in logs.

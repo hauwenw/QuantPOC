@@ -2,10 +2,16 @@
 
 ## Installation (Mac)
 
-```commandline
-brew install ta-lib
-pip install -r requirements.txt
-```
+Python version 3.11.9
+
+1. Install TA-Lib
+
+   - Mac: `brew install ta-lib`
+   - Windows: follow https://pypi.org/project/TA-Lib/
+
+2. Install Python dependencies
+   - `pip install -r requirements.txt`
+
 
 ## Usage
 ```commandline

@@ -55,7 +55,7 @@ markets = ['上市']  # '上市', '上櫃'
 types = ['股票']  # '特別股', 'ETF', '臺灣存託憑證(TDR)', '上市認購(售)權證', '受益證券-不動產投資信託', '股票'
 
 targets = [c for c in twstock.codes if twstock.codes[c].market in markets and twstock.codes[c].type in types]
-# targets = ['2330']
+# targets = ['2236']
 
 heap = []
 runtime_summary = dict(
@@ -76,6 +76,7 @@ for target in targets:
     try:
         # get EPS df
         api = DataLoader()
+        api.login_by_token()
         df = api.taiwan_stock_financial_statement(
             stock_id=target,
             start_date='2019-01-01',
@@ -105,12 +106,12 @@ for target in targets:
                             constraint=lambda param: param.low_pe < param.high_pe)
 
         # only keep best 10 stock
-        heapq.heappush(heap, (
-            stats['Expectancy [%]'], stats['Return [%]'], stock_id, stats['_strategy'].low_pe,
-            stats['_strategy'].high_pe))
+        if stats['Expectancy [%]'] > 0:
+            heapq.heappush(heap, (
+                stats['Expectancy [%]'] * -1, stats['Return [%]'], stock_id, stats['_strategy'].low_pe,
+                stats['_strategy'].high_pe))
+
         runtime_summary['processed'] += 1
-        if len(heap) > 20:
-            heapq.heappop(heap)
     except Exception as e:
         runtime_summary['failed'] += 1
         runtime_summary['failed_stock'].append(stock_id)
@@ -121,7 +122,7 @@ with open('output.csv', 'w', newline='') as csvfile:
     csvwriter.writerow(['stock_id', 'low_pe', 'high_pe', 'Expectancy [%]', 'Return [%]'])
     while heap:
         expectancy, return_percent, stock_id, low_pe, high_pe = heapq.heappop(heap)
-        csvwriter.writerow([stock_id, low_pe, high_pe, expectancy, return_percent])
+        csvwriter.writerow([stock_id, low_pe, high_pe, expectancy * -1, return_percent])
 
 end_time = time.time()
 runtime_summary['duration'] = end_time - start_time

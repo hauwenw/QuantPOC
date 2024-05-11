@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No.18, Datong 1st Road
+address2	Guanyin District
+city	Taoyuan City
+zip	328417
+country	Taiwan
+phone	886 3 483 7937
+fax	886 3 483 7949
+website	https://www.emctw.com/en-global
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Elite Material Co., Ltd. produces and sells copper clad laminates, electronic-industrial specialty chemical and raw materials, and electronic components in Taiwan, China, and internationally. It also offers printed circuit board; and engages in prepreg business. The company engages in electronics, telecommunications equipment, and batteries wholesale and retail business; generates and distributes power; manufactures machinery; and engages in import/ export business. Its products are used in various industries, including mobile devices; cloud data centers; infrastructure network; electric vehicle, and autonomous driving applications. Elite Material Co. Ltd. was incorporated in 1992 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ding-Yu  Dong', 'age': 63, 'title': 'President, CEO & Chairman', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Monica  Lin', 'title': 'Accounting & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Chio  Chang', 'title': 'Director of Human Resources Division & Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sho-Chang  Sun', 'age': 61, 'title': 'Senior Vice President', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi-Cheng  Lin', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	422.5
+open	427.5
+dayLow	413.0
+dayHigh	427.5
+regularMarketPreviousClose	422.5
+regularMarketOpen	427.5
+regularMarketDayLow	413.0
+regularMarketDayHigh	427.5
+dividendRate	8.41
+dividendYield	0.0202
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	0.6039
+fiveYearAvgDividendYield	3.47
+beta	1.063
+trailingPE	29.842182
+forwardPE	14.68408
+volume	3393335
+regularMarketVolume	3393335
+averageVolume	8149742
+averageVolume10days	6400429
+averageDailyVolume10Day	6400429
+bid	415.5
+ask	416.0
+marketCap	143219654656
+fiftyTwoWeekLow	160.5
+fiftyTwoWeekHigh	550.0
+priceToSalesTrailing12Months	3.057665
+fiftyDayAverage	423.01
+twoHundredDayAverage	418.96
+currency	TWD
+enterpriseValue	141209534464
+profitMargins	0.14917
+floatShares	299091510
+sharesOutstanding	344278016
+heldPercentInsiders	0.19469999
+heldPercentInstitutions	0.37915
+impliedSharesOutstanding	349196000
+bookValue	75.619
+priceToBook	5.5012627
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	3.124
+netIncomeToCommon	6986894848
+trailingEps	13.94
+forwardEps	28.33
+pegRatio	0.66
+lastSplitFactor	1.025:1
+lastSplitDate	1312416000	 (2011-08-04 08:00:00)
+enterpriseToRevenue	3.015
+enterpriseToEbitda	13.432
+52WeekChange	1.5365853
+SandP52WeekChange	0.26265144
+lastDividendValue	8.406831
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2383.TW
+underlyingSymbol	2383.TW
+shortName	ELITE MATERIAL CO
+longName	Elite Material Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c41c9d76-9a38-364c-baa3-cbb5a93c858d
+messageBoardId	finmb_9845934
+gmtOffSetMilliseconds	28800000
+currentPrice	416.0
+targetHighPrice	675.0
+targetLowPrice	450.0
+targetMeanPrice	547.35
+targetMedianPrice	550.0
+recommendationMean	1.8
+recommendationKey	buy
+numberOfAnalystOpinions	11
+totalCash	12625446912
+totalCashPerShare	36.76
+ebitda	10512707584
+totalDebt	10965901312
+quickRatio	1.039
+currentRatio	1.286
+totalRevenue	46839549952
+debtToEquity	42.234
+revenuePerShare	138.46
+returnOnAssets	0.10795999
+returnOnEquity	0.30528998
+freeCashflow	436105984
+operatingCashflow	2595752960
+earningsGrowth	3.103
+revenueGrowth	0.753
+grossMargins	0.28819
+ebitdaMargins	0.22444001
+operatingMargins	0.19653
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     -20730.474083      707514.102643     1667621.790818
+Tax Rate For Calcs                                                   0.193743           0.204248           0.237283
+Normalized EBITDA                                                7254768000.0       7704149000.0       5505872000.0
+Total Unusual Items                                                 -107000.0          3464000.0          7028000.0
+Total Unusual Items Excluding Goodwill                              -107000.0          3464000.0          7028000.0
+Net Income From Continuing Operation Net Minority Interest       5072874000.0       5493218000.0       3688999000.0
+Reconciled Depreciation                                           774483000.0        719394000.0        608613000.0
+Reconciled Cost Of Revenue                                      28962487000.0      28431472000.0      20160757000.0
+EBITDA                                                           7254661000.0       7707613000.0       5512900000.0
+EBIT                                                             6480178000.0       6988219000.0       4904287000.0
+Net Interest Income                                              -121713000.0        -24071000.0         13542000.0
+Interest Expense                                                  184123000.0         76323000.0         60724000.0
+Interest Income                                                    62410000.0         52252000.0         74266000.0
+Normalized Income                                           5072960269.525917  5490461514.102643  3683638621.790818
+Net Income From Continuing And Discontinued Operation            5072874000.0       5493218000.0       3688999000.0
+Total Expenses                                                  32447195000.0      31580870000.0      22524363000.0
+Diluted Average Shares                                            343390000.0        333719000.0        334028000.0
+Basic Average Shares                                              332918000.0        332918000.0        325594000.0
+Diluted EPS                                                             14.86              16.46              11.07
+Basic EPS                                                               15.24               16.5              11.33
+Diluted NI Availto Com Stockholders                              5072874000.0       5493218000.0       3688999000.0
+Net Income Common Stockholders                                   5072874000.0       5493218000.0       3688999000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0
+Net Income                                                       5072874000.0       5493218000.0       3688999000.0
+Minority Interests                                                 -3366000.0         -6939000.0         -5271000.0
+Net Income Including Noncontrolling Interests                    5076240000.0       5500157000.0       3694270000.0
+Net Income Continuous Operations                                 5076240000.0       5500157000.0       3694270000.0
+Tax Provision                                                    1219815000.0       1411739000.0       1149293000.0
+Pretax Income                                                    6296055000.0       6911896000.0       4843563000.0
+Other Non Operating Income Expenses                               192521000.0         23291000.0        157482000.0
+Special Income Charges                                              -107000.0          3464000.0          7028000.0
+Write Off                                                            107000.0         -3464000.0         -7028000.0
+Net Non Operating Interest Income Expense                        -121713000.0        -24071000.0         13542000.0
+Interest Expense Non Operating                                    184123000.0         76323000.0         60724000.0
+Interest Income Non Operating                                      62410000.0         52252000.0         74266000.0
+Operating Income                                                 6225354000.0       6919156000.0       4676423000.0
+Operating Expense                                                3484708000.0       3149398000.0       2363606000.0
+Research And Development                                          953132000.0        770530000.0        582679000.0
+Selling General And Administration                               2531576000.0       2378868000.0       1780927000.0
+Selling And Marketing Expense                                    1227895000.0       1114301000.0        866698000.0
+General And Administrative Expense                               1303681000.0       1264567000.0        914229000.0
+Gross Profit                                                     9710062000.0      10068554000.0       7040029000.0
+Cost Of Revenue                                                 28962487000.0      28431472000.0      20160757000.0
+Total Revenue                                                   38672549000.0      38500026000.0      27200786000.0
+Operating Revenue                                               38672549000.0      38500026000.0      27200786000.0

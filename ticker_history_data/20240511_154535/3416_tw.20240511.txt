@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 111-6, Shing-De Road
+address2	9th Floor San-chung District
+city	New Taipei City
+zip	24158
+country	Taiwan
+phone	886 2 8511 0288
+fax	886 2 8511 1108
+website	https://www.winmate.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Winmate Inc. engages in the research and development, manufacture, and sales of rugged display equipment and rugged mobile computer in Europe, Asia, the United States, and internationally. The company offers enterprise mobility products, including rugged laptops, handheld computers, and tablets; windows and android vehicle mounted computers; standalone panel PC HMI, industrial panel PCs, stainless panel PCs, rugged Panel PCs, ATEX grade rugged computers, HMI, and bar type panel PC products; and healthcare rugged tablets and displays. It also provides multi-touch, open frame, chassis, panel mount, front IP65, power over ethernet touch, USB Type-C, stainless, G-WIN, rear mount, ATEX grade, SDI series, rack mount, bar type, and LCD scaler board display products; embedded computing/peripherals products, such as box PC, IoT gateway, rack server, embedded board, and power converter board products; defense rugged handheld computers, rugged tablets, panel PCs, displays, and servers; and marine panel PC, display, and embedded computing products. It serves food and hygienic, warehousing and logistics, healthcare, heavy duty, robot controller, industrial automation, energy and utility, marine, renewable energy, metals and mining, automotive technology, public safety, defense, self-service kiosks, transportation, IIOT and edge computing, government, and infrastructure sectors. Winmate Inc. was incorporated in 1996 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Allan  Lin', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Yen', 'title': 'VP of General Administration Division & Officer of Financial', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eddie  Liu', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Yeh', 'title': 'Vice President of Sales Division & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	146.5
+open	147.0
+dayLow	144.0
+dayHigh	147.0
+regularMarketPreviousClose	146.5
+regularMarketOpen	147.0
+regularMarketDayLow	144.0
+regularMarketDayHigh	147.0
+dividendRate	4.76
+dividendYield	0.0322
+exDividendDate	1688083200	 (2023-06-30 08:00:00)
+payoutRatio	0.7207
+fiveYearAvgDividendYield	4.6
+beta	0.23
+trailingPE	21.752266
+forwardPE	14.007783
+volume	487774
+regularMarketVolume	487774
+averageVolume	555839
+averageVolume10days	586657
+averageDailyVolume10Day	586657
+bid	144.0
+ask	144.5
+marketCap	11278367744
+fiftyTwoWeekLow	110.0
+fiftyTwoWeekHigh	162.5
+priceToSalesTrailing12Months	4.3402824
+fiftyDayAverage	140.8
+twoHundredDayAverage	128.5875
+trailingAnnualDividendRate	5.2
+trailingAnnualDividendYield	0.03549488
+currency	TWD
+enterpriseValue	10299599872
+profitMargins	0.19471
+sharesOutstanding	78322000
+heldPercentInsiders	0.53837
+heldPercentInstitutions	0.00918
+impliedSharesOutstanding	78322000
+bookValue	39.205
+priceToBook	3.6730008
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.203
+netIncomeToCommon	505952000
+trailingEps	6.62
+forwardEps	10.28
+lastSplitFactor	1100:1000
+lastSplitDate	1406678400	 (2014-07-30 08:00:00)
+enterpriseToRevenue	3.964
+enterpriseToEbitda	17.03
+52WeekChange	0.26872241
+SandP52WeekChange	0.26265144
+lastDividendValue	4.763855
+lastDividendDate	1688083200	 (2023-06-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3416.TW
+underlyingSymbol	3416.TW
+shortName	WINMATE COMMUNICATION INC
+longName	Winmate Inc.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5823fb53-b3d3-39a4-a7c5-e9a74f071d3d
+messageBoardId	finmb_22071067
+gmtOffSetMilliseconds	28800000
+currentPrice	144.0
+targetHighPrice	185.0
+targetLowPrice	137.5
+targetMeanPrice	161.25
+targetMedianPrice	161.25
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	1277037056
+totalCashPerShare	16.329
+ebitda	604779008
+totalDebt	119604000
+quickRatio	2.206
+currentRatio	2.885
+totalRevenue	2598533120
+debtToEquity	3.901
+revenuePerShare	33.989
+returnOnAssets	0.09449001
+returnOnEquity	0.18053
+freeCashflow	208491504
+operatingCashflow	644681024
+earningsGrowth	-0.206
+revenueGrowth	-0.137
+grossMargins	0.39984
+ebitdaMargins	0.23274
+operatingMargins	0.22688
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -367572.006227    -409958.418255    -214100.326855    -123909.975875
+Tax Rate For Calcs                                                  0.182963          0.197475          0.168716          0.167446
+Normalized EBITDA                                                659733000.0       610799000.0       494817000.0       348257000.0
+Total Unusual Items                                               -2009000.0        -2076000.0        -1269000.0         -740000.0
+Total Unusual Items Excluding Goodwill                            -2009000.0        -2076000.0        -1269000.0         -740000.0
+Net Income From Continuing Operation Net Minority Interest       505952000.0       452429000.0       364706000.0       256062000.0
+Reconciled Depreciation                                           34828000.0        38024000.0        49424000.0        39630000.0
+Reconciled Cost Of Revenue                                      1559529000.0      1716454000.0      1663514000.0      1200518000.0
+EBITDA                                                           657724000.0       608723000.0       493548000.0       347517000.0
+EBIT                                                             622896000.0       570699000.0       444124000.0       307887000.0
+Net Interest Income                                               18538000.0         1516000.0          212000.0         -325000.0
+Interest Expense                                                   3644000.0         6942000.0         5398000.0          325000.0
+Interest Income                                                   22182000.0         8458000.0         5610000.0               NaN
+Normalized Income                                           507593427.993773  454095041.581745  365760899.673145  256678090.024125
+Net Income From Continuing And Discontinued Operation            505952000.0       452429000.0       364706000.0       256062000.0
+Total Expenses                                                  2018423000.0      2160521000.0      2063193000.0      1553403000.0
+Diluted Average Shares                                            80288000.0        80442000.0        79814000.0        72829000.0
+Basic Average Shares                                              76452000.0        72640000.0        72470000.0        72216000.0
+Diluted EPS                                                             6.33              5.68              4.62              3.52
+Basic EPS                                                               6.62              6.23              5.03              3.55
+Diluted NI Availto Com Stockholders                              505952000.0       452429000.0       364706000.0       256062000.0
+Net Income Common Stockholders                                   505952000.0       452429000.0       364706000.0       256062000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       505952000.0       452429000.0       364706000.0       256062000.0
+Net Income Including Noncontrolling Interests                    505952000.0       452429000.0       364706000.0       256062000.0
+Net Income Continuous Operations                                 505952000.0       452429000.0       364706000.0       256062000.0
+Tax Provision                                                    113300000.0       111328000.0        74020000.0        51500000.0
+Pretax Income                                                    619252000.0       563757000.0       438726000.0       307562000.0
+Other Non Operating Income Expenses                               33291000.0        67448000.0          586000.0        17775000.0
+Special Income Charges                                            -2009000.0        -2076000.0        -1269000.0         -740000.0
+Write Off                                                          2009000.0         2076000.0         1269000.0          740000.0
+Net Non Operating Interest Income Expense                         18538000.0         1516000.0          212000.0         -325000.0
+Interest Expense Non Operating                                     3644000.0         6942000.0         5398000.0          325000.0
+Interest Income Non Operating                                     22182000.0         8458000.0         5610000.0               NaN
+Operating Income                                                 580110000.0       498775000.0       438434000.0       292122000.0
+Operating Expense                                                458894000.0       444067000.0       399679000.0       352885000.0
+Other Operating Expenses                                                 NaN               NaN         -167000.0          155000.0
+Research And Development                                         192207000.0       184770000.0       175016000.0       158004000.0
+Selling General And Administration                               266687000.0       259297000.0       224663000.0       194881000.0
+Selling And Marketing Expense                                    128240000.0       124252000.0       114118000.0       103664000.0
+General And Administrative Expense                               138447000.0       135045000.0       110545000.0        91217000.0
+Gross Profit                                                    1039004000.0       942842000.0       838113000.0       645007000.0
+Cost Of Revenue                                                 1559529000.0      1716454000.0      1663514000.0      1200518000.0
+Total Revenue                                                   2598533000.0      2659296000.0      2501627000.0      1845525000.0
+Operating Revenue                                               2598533000.0      2659296000.0      2501627000.0      1845525000.0

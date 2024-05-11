@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No.3, Zhongshan North Road
+address2	1-20th Floor, Section 2 Lane 39
+city	Taipei
+country	Taiwan
+phone	886 2 2523 8000
+website	https://www.silkshotelgroup.com
+industry	Lodging
+industryKey	lodging
+industryDisp	Lodging
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Formosa International Hotels Corporation operates hotels in Taiwan and internationally. It operates hotels under the Regent Taipei, Silks Place, Wellspring By Silks, Silks Club, and Just Sleep brands; and restaurants under the Silks Palace, Spice Market, Just Grill, and Garden Villa brand names. Formosa International Hotels Corporation was founded in 1990 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Siliang  Pan', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wun Yun  Wang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wei-Cheng  Wu', 'title': 'GM & Group COO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chien-Nan  Tsao', 'title': 'Financial Controller & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yaping  Xue', 'title': 'General Manager and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	237.0
+open	237.5
+dayLow	237.5
+dayHigh	244.0
+regularMarketPreviousClose	237.0
+regularMarketOpen	237.5
+regularMarketDayLow	237.5
+regularMarketDayHigh	244.0
+dividendRate	9.01
+dividendYield	0.037100002
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.77919996
+fiveYearAvgDividendYield	5.85
+trailingPE	21.002594
+forwardPE	18.606432
+volume	912470
+regularMarketVolume	912470
+averageVolume	430184
+averageVolume10days	931850
+averageDailyVolume10Day	931850
+bid	242.5
+ask	243.0
+marketCap	30958929920
+fiftyTwoWeekLow	188.0
+fiftyTwoWeekHigh	334.5
+priceToSalesTrailing12Months	4.5706315
+fiftyDayAverage	222.72
+twoHundredDayAverage	219.135
+trailingAnnualDividendRate	11.382
+trailingAnnualDividendYield	0.048025317
+currency	TWD
+enterpriseValue	29743073280
+profitMargins	0.21831
+floatShares	50190373
+sharesOutstanding	127403000
+heldPercentInsiders	0.60214
+heldPercentInstitutions	0.10130999
+impliedSharesOutstanding	129177000
+bookValue	28.415
+priceToBook	8.551821
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.175
+netIncomeToCommon	1478708992
+trailingEps	11.57
+forwardEps	13.06
+pegRatio	1.0
+lastSplitFactor	1084.01:1000
+lastSplitDate	1439856000	 (2015-08-18 08:00:00)
+enterpriseToRevenue	4.391
+enterpriseToEbitda	13.865
+52WeekChange	-0.122743666
+SandP52WeekChange	0.26265144
+lastDividendValue	9.0073
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2707.TW
+underlyingSymbol	2707.TW
+shortName	FORMOSA INTERNATIONAL HOTELS CO
+longName	Formosa International Hotels Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1155ac35-5bdb-311f-8f14-5fc90741965e
+messageBoardId	finmb_9503105
+gmtOffSetMilliseconds	28800000
+currentPrice	243.0
+targetHighPrice	260.0
+targetLowPrice	222.0
+targetMeanPrice	241.0
+targetMedianPrice	241.0
+recommendationMean	2.5
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	4458129920
+totalCashPerShare	34.944
+ebitda	2145261056
+totalDebt	2818622976
+quickRatio	1.19
+currentRatio	1.212
+totalRevenue	6773447168
+debtToEquity	70.355
+revenuePerShare	53.142
+returnOnAssets	0.10901
+returnOnEquity	0.39955002
+freeCashflow	2550983424
+operatingCashflow	1036691008
+earningsGrowth	0.173
+revenueGrowth	0.005
+grossMargins	0.37333
+ebitdaMargins	0.31672
+operatingMargins	0.28726998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.200144      0.221199      0.067355      0.168268
+Normalized EBITDA                                           2554173000.0  1955388000.0  3104196000.0  1639335000.0
+Net Income From Continuing Operation Net Minority Interest  1415555000.0   902897000.0  2177298000.0   660058000.0
+Reconciled Depreciation                                      594130000.0   590217000.0   625680000.0   662200000.0
+Reconciled Cost Of Revenue                                  4250900000.0  3732706000.0  3598461000.0  3892470000.0
+EBITDA                                                      2554173000.0  1955388000.0  3104196000.0  1639335000.0
+EBIT                                                        1960043000.0  1365171000.0  2478516000.0   977135000.0
+Net Interest Income                                            7195000.0   -30931000.0   -50619000.0   -49702000.0
+Interest Expense                                              51358000.0    60983000.0    76981000.0    96000000.0
+Interest Income                                               58553000.0    30052000.0    26362000.0    46298000.0
+Normalized Income                                           1415555000.0   902897000.0  2177298000.0   660058000.0
+Net Income From Continuing And Discontinued Operation       1415555000.0   902897000.0  2177298000.0   660058000.0
+Total Expenses                                              4921905000.0  4376285000.0  4392505000.0  4688837000.0
+Diluted Average Shares                                       127862000.0   127793000.0   132270000.0   136654000.0
+Basic Average Shares                                         127403000.0   127403000.0   127403000.0   127402000.0
+Diluted EPS                                                        11.07          7.07         16.53          4.96
+Basic EPS                                                          11.11          7.09         17.09          5.18
+Diluted NI Availto Com Stockholders                         1415555000.0   902897000.0  2177298000.0   660058000.0
+Net Income Common Stockholders                              1415555000.0   902897000.0  2177298000.0   660058000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  1415555000.0   902897000.0  2177298000.0   660058000.0
+Minority Interests                                          -111118000.0  -112806000.0   -62481000.0   -72810000.0
+Net Income Including Noncontrolling Interests               1526673000.0  1015703000.0  2239779000.0   732868000.0
+Net Income Continuous Operations                            1526673000.0  1015703000.0  2239779000.0   732868000.0
+Tax Provision                                                382012000.0   288485000.0   161756000.0   148267000.0
+Pretax Income                                               1908685000.0  1304188000.0  2401535000.0   881135000.0
+Other Non Operating Income Expenses                           36338000.0   101295000.0  1901413000.0   187533000.0
+Net Non Operating Interest Income Expense                      7195000.0   -30931000.0   -50619000.0   -49702000.0
+Interest Expense Non Operating                                51358000.0    60983000.0    76981000.0    96000000.0
+Interest Income Non Operating                                 58553000.0    30052000.0    26362000.0    46298000.0
+Operating Income                                            1843137000.0  1221038000.0   538189000.0   734073000.0
+Operating Expense                                            671005000.0   643579000.0   794044000.0   796367000.0
+Selling General And Administration                           671005000.0   643579000.0   794044000.0   796367000.0
+Selling And Marketing Expense                                 34424000.0    32773000.0   105340000.0   139702000.0
+General And Administrative Expense                           636581000.0   610806000.0   688704000.0   656665000.0
+Gross Profit                                                2514142000.0  1864617000.0  1332233000.0  1530440000.0
+Cost Of Revenue                                             4250900000.0  3732706000.0  3598461000.0  3892470000.0
+Total Revenue                                               6765042000.0  5597323000.0  4930694000.0  5422910000.0
+Operating Revenue                                           6765042000.0  5597323000.0  4930694000.0  5422910000.0

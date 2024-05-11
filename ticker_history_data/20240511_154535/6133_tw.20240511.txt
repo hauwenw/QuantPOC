@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 6, BeiShen Road
+address2	3rd Floor Lane 270 Sec. 3, ShenKeng District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2662 7300
+fax	886 2 2662 0642
+website	https://www.gbe.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Golden Bridge Electech Inc. engages in the design, manufacture, assembly, and sale of various cable products in Taiwan. The company offers interconnect solutions for automotive electronics, including electrical harness, interior and car body equipment, and interior lighting, as well as sensors and electronics, such as plugs and inlet to recharge batteries for electric and plug-in hybrid vehicles. It also provides communication solutions comprising microphones, speakers, headsets, two-way radios, handheld devices, and intercom systems, as well as programming, cloning, and GPS cables. In addition, the company offers cables, cable assemblies, and integrated system solutions for a range of industrial sectors, including factory automation, drive technology, instrumentation, measurement and sensor technology, audio and video, and high temperature. Further, it provides high bandwidth data and termination cables for datacom and telecom markets; Thunderbolt cables, which connects to host systems or devices; Thunderbolt connector that offers concurrent support for PCI; various signal/control cables for power systems; and ultrasound transducer probe cables for medical device applications, such as ultrasound, radiography, patient monitoring, operating theatre robotics, oncology, nuclear medicine, computer tomography, endoscopy, dental equipment, magnetic resonance tomography, and cosmetic applications. Golden Bridge Electech Inc. was founded in 1976 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mai Sheng Lin', 'title': 'Chairman of The Board and President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jun Qi Tong', 'title': 'Financial Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	13.95
+open	13.95
+dayLow	13.6
+dayHigh	13.95
+regularMarketPreviousClose	13.95
+regularMarketOpen	13.95
+regularMarketDayLow	13.6
+regularMarketDayHigh	13.95
+dividendRate	0.5
+dividendYield	0.036199998
+exDividendDate	1694476800	 (2023-09-12 08:00:00)
+payoutRatio	5.5556
+fiveYearAvgDividendYield	2.21
+beta	0.841
+trailingPE	153.33333
+volume	274166
+regularMarketVolume	274166
+averageVolume	403299
+averageVolume10days	318679
+averageDailyVolume10Day	318679
+bid	13.75
+ask	13.85
+marketCap	1614682880
+fiftyTwoWeekLow	12.5
+fiftyTwoWeekHigh	20.6
+priceToSalesTrailing12Months	1.6028808
+fiftyDayAverage	14.066
+twoHundredDayAverage	14.80025
+currency	TWD
+enterpriseValue	1786637312
+profitMargins	0.011
+sharesOutstanding	117006000
+heldPercentInsiders	0.41798002
+impliedSharesOutstanding	121882000
+bookValue	9.499
+priceToBook	1.4527845
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	11083000
+trailingEps	0.09
+lastSplitFactor	103.9866:100
+lastSplitDate	1222041600	 (2008-09-22 08:00:00)
+enterpriseToRevenue	1.774
+enterpriseToEbitda	68.315
+52WeekChange	-0.25203252
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1694476800	 (2023-09-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6133.TW
+underlyingSymbol	6133.TW
+shortName	GOLDEN BRIDGE ELECTECH INC
+longName	Golden Bridge Electech Inc.
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	497c710e-ce62-38af-b5ca-e2004ac7701e
+messageBoardId	finmb_9846110
+gmtOffSetMilliseconds	28800000
+currentPrice	13.8
+recommendationKey	none
+totalCash	454012992
+totalCashPerShare	3.88
+ebitda	26153000
+totalDebt	625961984
+quickRatio	0.887
+currentRatio	1.211
+totalRevenue	1007363008
+debtToEquity	56.318
+revenuePerShare	8.609
+returnOnAssets	0.00278
+returnOnEquity	0.009509999
+freeCashflow	250219120
+operatingCashflow	293291008
+revenueGrowth	-0.239
+grossMargins	0.19363001
+ebitdaMargins	0.02596
+operatingMargins	-0.00508
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31    2022-12-31    2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                  674839.262752           0.0      126600.0    -304400.0
+Tax Rate For Calcs                                                0.321352      0.169954           0.2          0.2
+Normalized EBITDA                                               56213000.0   152014000.0   -11571000.0   39962000.0
+Total Unusual Items                                              2100000.0           0.0      633000.0   -1522000.0
+Total Unusual Items Excluding Goodwill                           2100000.0           0.0      633000.0   -1522000.0
+Net Income From Continuing Operation Net Minority Interest      11083000.0    90895000.0   -56159000.0    1919000.0
+Reconciled Depreciation                                         28760000.0    32759000.0    36469000.0   38494000.0
+Reconciled Cost Of Revenue                                     812306000.0  1110443000.0   940338000.0  799891000.0
+EBITDA                                                          58313000.0   152014000.0   -10938000.0   38440000.0
+EBIT                                                            29553000.0   119255000.0   -47407000.0     -54000.0
+Net Interest Income                                             -4291000.0    -7995000.0     -284000.0    1388000.0
+Interest Expense                                                13222000.0     9749000.0     5693000.0    4270000.0
+Interest Income                                                  8931000.0     1754000.0     5409000.0    5658000.0
+Normalized Income                                           9657839.262752    90895000.0   -56665400.0    3136600.0
+Net Income From Continuing And Discontinued Operation           11083000.0    90895000.0   -56159000.0    1919000.0
+Total Expenses                                                1000476000.0  1303403000.0  1130028000.0  995960000.0
+Diluted Average Shares                                                 NaN   117153000.0   117006000.0  117035000.0
+Basic Average Shares                                                   NaN   117006000.0   117006000.0  117006000.0
+Diluted EPS                                                            NaN          0.78         -0.48         0.02
+Basic EPS                                                              NaN          0.78         -0.48         0.02
+Diluted NI Availto Com Stockholders                             11083000.0    90895000.0   -56159000.0    1919000.0
+Net Income Common Stockholders                                  11083000.0    90895000.0   -56159000.0    1919000.0
+Otherunder Preferred Stock Dividend                                    0.0           0.0           0.0          0.0
+Net Income                                                      11083000.0    90895000.0   -56159000.0    1919000.0
+Net Income Including Noncontrolling Interests                   11083000.0    90895000.0   -56159000.0    1919000.0
+Net Income Continuous Operations                                11083000.0    90895000.0   -56159000.0    1919000.0
+Tax Provision                                                    5248000.0    18611000.0     3059000.0   -6243000.0
+Pretax Income                                                   16331000.0   109506000.0   -53100000.0   -4324000.0
+Other Non Operating Income Expenses                             12739000.0    35604000.0    10728000.0   44481000.0
+Special Income Charges                                           2100000.0           0.0      633000.0   -1522000.0
+Write Off                                                       -2100000.0           0.0     -633000.0    1522000.0
+Net Non Operating Interest Income Expense                       -4291000.0    -7995000.0     -284000.0    1388000.0
+Interest Expense Non Operating                                  13222000.0     9749000.0     5693000.0    4270000.0
+Interest Income Non Operating                                    8931000.0     1754000.0     5409000.0    5658000.0
+Operating Income                                                 6887000.0    81508000.0   -64375000.0  -48461000.0
+Operating Expense                                              188170000.0   192960000.0   189690000.0  196069000.0
+Research And Development                                        29625000.0    29547000.0    32375000.0   30526000.0
+Selling General And Administration                             158545000.0   163413000.0   157315000.0  165543000.0
+Selling And Marketing Expense                                   70711000.0    79618000.0    79128000.0   88047000.0
+General And Administrative Expense                              87834000.0    83795000.0    78187000.0   77496000.0
+Gross Profit                                                   195057000.0   274468000.0   125315000.0  147608000.0
+Cost Of Revenue                                                812306000.0  1110443000.0   940338000.0  799891000.0
+Total Revenue                                                 1007363000.0  1384911000.0  1065653000.0  947499000.0
+Operating Revenue                                             1007363000.0  1384911000.0  1065653000.0  947499000.0

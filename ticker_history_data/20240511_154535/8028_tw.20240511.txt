@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	Hsinchu Science-Based Industrial Park
+address2	No. 6, Li-Hsin Road East District
+city	Hsinchu City
+zip	30078
+country	Taiwan
+phone	886 3 564 1888
+website	https://www.psi.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Phoenix Silicon International Corporation operates in the wafer and energy industries in Taiwan. The company offers wafer reclaims for semiconductor IC manufacturing process monitoring; and wafer thinning products for conduction resistance, ultra-thin packaging or sealing, and flip chip thick metal packaging. It also provides lithium battery products. The company was founded in 1997 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tsai  Tony', 'title': 'President & Chairperson', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fn  Huang', 'title': 'VP of Administrative Department, Financial Officer & Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Megan  Yang', 'title': 'Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Annie  Chen', 'title': 'Chief Information Security Officer & Director of Legal Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'CM  Ho', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	52.6
+open	52.6
+dayLow	52.0
+dayHigh	52.8
+regularMarketPreviousClose	52.6
+regularMarketOpen	52.6
+regularMarketDayLow	52.0
+regularMarketDayHigh	52.8
+dividendRate	1.77
+dividendYield	0.0339
+exDividendDate	1686182400	 (2023-06-08 08:00:00)
+payoutRatio	0.8871
+fiveYearAvgDividendYield	4.24
+beta	0.927
+trailingPE	26.2
+forwardPE	25.31401
+volume	760740
+regularMarketVolume	760740
+averageVolume	2103444
+averageVolume10days	2641040
+averageDailyVolume10Day	2641040
+bid	52.4
+ask	52.5
+marketCap	9045707776
+fiftyTwoWeekLow	48.65
+fiftyTwoWeekHigh	64.06907
+priceToSalesTrailing12Months	2.7183063
+fiftyDayAverage	52.668
+twoHundredDayAverage	52.569332
+currency	TWD
+enterpriseValue	12162425856
+profitMargins	0.093760006
+floatShares	133184254
+sharesOutstanding	172628000
+heldPercentInsiders	0.19715999
+heldPercentInstitutions	0.03508
+impliedSharesOutstanding	172628000
+bookValue	22.797
+priceToBook	2.298548
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.959
+netIncomeToCommon	311993984
+trailingEps	2.0
+forwardEps	2.07
+lastSplitFactor	1060:1000
+lastSplitDate	1658361600	 (2022-07-21 08:00:00)
+enterpriseToRevenue	3.655
+enterpriseToEbitda	11.828
+52WeekChange	-0.05742234
+SandP52WeekChange	0.26265144
+lastDividendValue	1.77422
+lastDividendDate	1686182400	 (2023-06-08 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8028.TW
+underlyingSymbol	8028.TW
+shortName	PHOENIX SILICON INTERNATIONAL C
+longName	Phoenix Silicon International Corporation
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c7fc7bd5-d875-3735-8cd2-0d78d1250b43
+messageBoardId	finmb_20960055
+gmtOffSetMilliseconds	28800000
+currentPrice	52.4
+recommendationKey	none
+totalCash	1551126016
+totalCashPerShare	8.985
+ebitda	1028286976
+totalDebt	4667843072
+quickRatio	2.082
+currentRatio	2.371
+totalRevenue	3327699968
+debtToEquity	118.611
+revenuePerShare	21.502
+returnOnAssets	0.01613
+returnOnEquity	0.09008
+freeCashflow	-429371008
+operatingCashflow	686649024
+earningsGrowth	-0.983
+revenueGrowth	-0.12
+grossMargins	0.22734
+ebitdaMargins	0.30901
+operatingMargins	0.05263
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0       8336.655626      -51400.0
+Tax Rate For Calcs                                              0.108683      0.127215          0.027423           0.2
+Normalized EBITDA                                           1224530000.0  1006301000.0       849645000.0   681992000.0
+Total Unusual Items                                                  NaN           0.0          304000.0     -257000.0
+Total Unusual Items Excluding Goodwill                               NaN           0.0          304000.0     -257000.0
+Net Income From Continuing Operation Net Minority Interest   311994000.0   325251000.0       273365000.0   197033000.0
+Reconciled Depreciation                                      813152000.0   603016000.0       566658000.0   495161000.0
+Reconciled Cost Of Revenue                                  2571184000.0  2306263000.0      1984744000.0  1732382000.0
+EBITDA                                                      1224530000.0  1006301000.0       849949000.0   681735000.0
+EBIT                                                         411378000.0   403285000.0       283291000.0   186574000.0
+Net Interest Income                                          -52720000.0   -27687000.0       -19793000.0   -26831000.0
+Interest Expense                                              61341000.0    30626000.0        20922000.0    29919000.0
+Interest Income                                                8621000.0     2939000.0         1129000.0     3088000.0
+Normalized Income                                            311994000.0   325251000.0  273069336.655626   197238600.0
+Net Income From Continuing And Discontinued Operation        311994000.0   325251000.0       235654000.0   134553000.0
+Total Expenses                                              3098279000.0  2830062000.0      2419136000.0  2119814000.0
+Diluted Average Shares                                               NaN   162710000.0       167491821.0   165977533.0
+Basic Average Shares                                                 NaN   150180000.0       150935704.0   150934811.0
+Diluted EPS                                                          NaN          2.06          1.478517      0.883391
+Basic EPS                                                            NaN          2.17          1.557371      0.892689
+Diluted NI Availto Com Stockholders                          311994000.0   325251000.0       235654000.0   134553000.0
+Net Income Common Stockholders                               311994000.0   325251000.0       235654000.0   134553000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                   311994000.0   325251000.0       235654000.0   134553000.0
+Minority Interests                                                   NaN           0.0        18191000.0    18995000.0
+Net Income Including Noncontrolling Interests                311994000.0   325251000.0       217463000.0   115558000.0
+Net Income Discontinuous Operations                                  NaN           0.0       -37711000.0   -62480000.0
+Net Income Continuous Operations                             311994000.0   325251000.0       255174000.0   178038000.0
+Tax Provision                                                 38043000.0    47408000.0         7195000.0   -21383000.0
+Pretax Income                                                350037000.0   372659000.0       262369000.0   156655000.0
+Other Non Operating Income Expenses                          176751000.0   116155000.0        49608000.0    35972000.0
+Special Income Charges                                               NaN           0.0          304000.0     -257000.0
+Write Off                                                            NaN           0.0         -304000.0      257000.0
+Net Non Operating Interest Income Expense                    -52720000.0   -27687000.0       -19793000.0   -26831000.0
+Interest Expense Non Operating                                61341000.0    30626000.0        20922000.0    29919000.0
+Interest Income Non Operating                                  8621000.0     2939000.0         1129000.0     3088000.0
+Operating Income                                             229421000.0   307991000.0       232250000.0   147771000.0
+Operating Expense                                            527095000.0   523799000.0       434392000.0   387432000.0
+Research And Development                                     128948000.0   143324000.0       132689000.0   129086000.0
+Selling General And Administration                           398147000.0   380475000.0       301703000.0   258346000.0
+Selling And Marketing Expense                                 42712000.0    40262000.0        36034000.0    37798000.0
+General And Administrative Expense                           355435000.0   340213000.0       265669000.0   220548000.0
+Gross Profit                                                 756516000.0   831790000.0       666642000.0   535203000.0
+Cost Of Revenue                                             2571184000.0  2306263000.0      1984744000.0  1732382000.0
+Total Revenue                                               3327700000.0  3138053000.0      2651386000.0  2267585000.0
+Operating Revenue                                           3327700000.0  3138053000.0      2651386000.0  2267585000.0

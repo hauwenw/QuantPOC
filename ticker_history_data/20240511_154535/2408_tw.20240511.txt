@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 98, Nanlin Road
+address2	Dake Vil. Taishan District
+city	New Taipei City
+zip	243
+country	Taiwan
+phone	886 2 2904 5858
+fax	886 2 2908 0327
+website	https://www.nanya.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Nanya Technology Corporation researches, develops, manufactures, and sells semiconductor products in Taiwan, Japan, China, the United States, and internationally. It offers standard dynamic random access memory (DRAM), low power DRAM, MCP and eMCP, and KGD products, as well as modules; and other memory products. The company also engages in the import and export of its machinery, equipment, and raw materials. Its products have applications in home and entertainment, office and enterprise, smartphones, portable, data centers, industrial, consumer electronics, servers, personal computers, and automotive. The company was incorporated in 1995 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Pei-Ing  Lee', 'age': 68, 'title': 'President & Director', 'yearBorn': 1955, 'fiscalYear': 2012, 'totalPay': 5049000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Philip  Jao', 'title': 'Finance Officer & Corporate Governance Supervisor', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Chi  Kuo', 'title': 'Accounting Officer & Supervisor', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhi Xiang  Wu', 'title': 'VP of Planning & Administration Management and Representative Director', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rex  Chuang', 'title': 'VP of Marketing & FAE and Representative Director', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rex  Chen', 'title': 'Assistant Vice President of Global Sales', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lin-Chin  Su', 'age': 65, 'title': 'Executive VP & Director', 'yearBorn': 1958, 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huang  Hank', 'title': 'Chief Information Security Officer', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chao-Lin  Niu', 'title': 'Chief Internal Auditor', 'fiscalYear': 2012, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1356912000
+maxAge	86400
+priceHint	2
+previousClose	64.0
+open	64.2
+dayLow	63.4
+dayHigh	64.8
+regularMarketPreviousClose	64.0
+regularMarketOpen	64.2
+regularMarketDayLow	63.4
+regularMarketDayHigh	64.8
+dividendRate	2.13
+dividendYield	0.033099998
+exDividendDate	1687910400	 (2023-06-28 08:00:00)
+payoutRatio	1.8151
+fiveYearAvgDividendYield	4.87
+beta	1.081
+forwardPE	11.338029
+volume	11774311
+regularMarketVolume	11774311
+averageVolume	18468323
+averageVolume10days	13549564
+averageDailyVolume10Day	13549564
+bid	64.4
+ask	64.5
+marketCap	199518928896
+fiftyTwoWeekLow	60.6
+fiftyTwoWeekHigh	80.3
+priceToSalesTrailing12Months	6.0515294
+fiftyDayAverage	66.224
+twoHundredDayAverage	68.665
+currency	TWD
+profitMargins	-0.21146
+floatShares	1157598680
+sharesOutstanding	3098119936
+heldPercentInsiders	0.62579
+heldPercentInstitutions	0.14494
+impliedSharesOutstanding	3098119936
+bookValue	53.879
+priceToBook	1.1952709
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-6972000256
+trailingEps	-2.25
+forwardEps	5.68
+pegRatio	5.28
+lastSplitFactor	0.100084:1
+lastSplitDate	1409011200	 (2014-08-26 08:00:00)
+52WeekChange	0.007824779
+SandP52WeekChange	0.26265144
+lastDividendValue	2.130363
+lastDividendDate	1687910400	 (2023-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2408.TW
+underlyingSymbol	2408.TW
+shortName	NANYA TECHNOLOGY CORPORATION
+longName	Nanya Technology Corporation
+firstTradeDateEpochUtc	966560400	 (2000-08-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3831d770-ecc7-33b5-94e5-c417cef21026
+messageBoardId	finmb_6314453
+gmtOffSetMilliseconds	28800000
+currentPrice	64.4
+targetHighPrice	95.0
+targetLowPrice	60.0
+targetMeanPrice	85.8
+targetMedianPrice	90.0
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	10
+totalRevenue	32970000384
+revenuePerShare	10.662
+revenueGrowth	0.479
+grossMargins	-0.12757
+operatingMargins	-0.30706
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.305011       0.133807       0.177129       0.145161
+Normalized EBITDA                                            4766879000.0  32173002000.0  43084887000.0  23455049000.0
+Total Unusual Items                                                   NaN            NaN            NaN            0.0
+Total Unusual Items Excluding Goodwill                                NaN            NaN            NaN            0.0
+Net Income From Continuing Operation Net Minority Interest  -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Reconciled Depreciation                                     15325620000.0  15246537000.0  15293790000.0  14450715000.0
+Reconciled Cost Of Revenue                                  34375146000.0  35610181000.0  48560210000.0  45313936000.0
+EBITDA                                                       4766879000.0  32173002000.0  43084887000.0  23455049000.0
+EBIT                                                       -10558741000.0  16926465000.0  27791097000.0   9004334000.0
+Net Interest Income                                          3013702000.0   1345641000.0    250185000.0    668118000.0
+Interest Expense                                              145936000.0     49125000.0     23667000.0     13117000.0
+Interest Income                                              3159638000.0   1394766000.0    273852000.0    681235000.0
+Normalized Income                                           -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Net Income From Continuing And Discontinued Operation       -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Total Expenses                                              44352497000.0  45949806000.0  58417835000.0  52571040000.0
+Diluted Average Shares                                       3098073000.0   3120876000.0   3109578000.0   3082364000.0
+Basic Average Shares                                         3098073000.0   3097571000.0   3087329000.0   3065482000.0
+Diluted EPS                                                          -2.4           4.68           7.35           2.49
+Basic EPS                                                            -2.4           4.72            7.4           2.51
+Diluted NI Availto Com Stockholders                         -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Net Income Common Stockholders                              -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                  -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Net Income Including Noncontrolling Interests               -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Net Income Continuous Operations                            -7439634000.0  14619031000.0  22849015000.0   7686041000.0
+Tax Provision                                               -3265043000.0   2258309000.0   4918415000.0   1305176000.0
+Pretax Income                                              -10704677000.0  16877340000.0  27767430000.0   8991217000.0
+Other Non Operating Income Expenses                           548500000.0   3955637000.0   -190055000.0   -578270000.0
+Special Income Charges                                                NaN            NaN            NaN            0.0
+Write Off                                                             NaN            NaN            NaN            0.0
+Net Non Operating Interest Income Expense                    3013702000.0   1345641000.0    250185000.0    668118000.0
+Interest Expense Non Operating                                145936000.0     49125000.0     23667000.0     13117000.0
+Interest Income Non Operating                                3159638000.0   1394766000.0    273852000.0    681235000.0
+Operating Income                                           -14460191000.0  11002469000.0  27186323000.0   8434474000.0
+Operating Expense                                            9977351000.0  10339625000.0   9857625000.0   7257104000.0
+Research And Development                                     7576011000.0   7841499000.0   7499780000.0   5137872000.0
+Selling General And Administration                           2401340000.0   2498126000.0   2357845000.0   2119232000.0
+Selling And Marketing Expense                                 589341000.0    754103000.0    827171000.0    791263000.0
+General And Administrative Expense                           1811999000.0   1744023000.0   1530674000.0   1327969000.0
+Gross Profit                                                -4482840000.0  21342094000.0  37043948000.0  15691578000.0
+Cost Of Revenue                                             34375146000.0  35610181000.0  48560210000.0  45313936000.0
+Total Revenue                                               29892306000.0  56952275000.0  85604158000.0  61005514000.0
+Operating Revenue                                           29892306000.0  56952275000.0  85604158000.0  61005514000.0

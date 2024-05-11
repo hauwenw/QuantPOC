@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No 134, Baoqiao Road
+address2	Lane 235 Xindian District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 2662 2338
+fax	886 2 2662 3632
+website	https://www.everfocus.com.tw
+industry	Security & Protection Services
+industryKey	security-protection-services
+industryDisp	Security & Protection Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	EverFocus Electronics Corporation engages in the research and development, manufacture, marketing, and service of CCTV surveillance systems, CCD cameras, and digital image processing equipment worldwide. The company offers industrial computers, CCTV surveillance, including server system, edge computer, camera, software, accessories, mobile digital video recorder, and analog cameras; USB, analog and mobile analog, network, and specialty cameras; and AMR, AV over IP, and intelligent connectivity products. It also provides software solutions, such as fleet management software, central management software, management viewer, and mobile apps; and accessories, including keyboard, ez.tool, bracket, test monitor, storage, junction box, PoE switch, and camera housing. In addition, the company offers AI edge computing solutions, such as railway inspection, railway station, and AI-driven factory workforce; industrial automotive solutions, consisting of digital recorder, GPS tracking and fleet management, and traffic flow improvements; traffic control/management solutions; smart surveillance for campus, hospitals, community, and retail shops; and AV-over-IP solutions, such as lecture capture, smart campus, meeting recordings, content management systems, and speaker tracking solutions for conferences. EverFocus Electronics Corporation was founded in 1995 and is headquartered in New Taipei City, Taiwan.
+irWebsite	http://www.everfocus.com.tw/investor.htm
+maxAge	86400
+priceHint	2
+previousClose	24.8
+open	26.0
+dayLow	25.0
+dayHigh	26.0
+regularMarketPreviousClose	24.8
+regularMarketOpen	26.0
+regularMarketDayLow	25.0
+regularMarketDayHigh	26.0
+exDividendDate	1279584000	 (2010-07-20 08:00:00)
+fiveYearAvgDividendYield	6.39
+beta	0.786
+forwardPE	36.231884
+volume	55081
+regularMarketVolume	55081
+averageVolume	102751
+averageVolume10days	91610
+averageDailyVolume10Day	91610
+bid	25.0
+ask	25.15
+marketCap	1670024960
+fiftyTwoWeekLow	18.8
+fiftyTwoWeekHigh	34.1
+priceToSalesTrailing12Months	4.519016
+fiftyDayAverage	25.15
+twoHundredDayAverage	24.0435
+currency	TWD
+enterpriseValue	1624211968
+profitMargins	-0.13253
+floatShares	47171526
+sharesOutstanding	66801000
+heldPercentInsiders	0.43912998
+impliedSharesOutstanding	69682600
+bookValue	8.873
+priceToBook	2.8175364
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-48977000
+trailingEps	-0.73
+forwardEps	0.69
+lastSplitFactor	783.982:1000
+lastSplitDate	1635379200	 (2021-10-28 08:00:00)
+enterpriseToRevenue	4.395
+enterpriseToEbitda	-26.012
+52WeekChange	0.29533684
+SandP52WeekChange	0.26265144
+lastDividendValue	3.092519
+lastDividendDate	1279584000	 (2010-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5484.TW
+underlyingSymbol	5484.TW
+shortName	EVER FOCUS ELECTRONICS
+longName	EverFocus Electronics Corporation
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dd848ac2-a98e-354f-972c-931e0bf04f71
+messageBoardId	finmb_9896885
+gmtOffSetMilliseconds	28800000
+currentPrice	25.0
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	202780000
+totalCashPerShare	3.036
+ebitda	-62442000
+totalDebt	156967008
+quickRatio	1.041
+currentRatio	1.754
+totalRevenue	369555008
+debtToEquity	26.481
+revenuePerShare	5.532
+returnOnAssets	-0.04812
+returnOnEquity	-0.07966
+freeCashflow	-6081500
+operatingCashflow	25081000
+revenueGrowth	-0.139
+grossMargins	0.21608
+ebitdaMargins	-0.16896999
+operatingMargins	-0.22777
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31       2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                    412600.0   -130487.633502   -1209000.0      14200.0
+Tax Rate For Calcs                                                  0.2         0.023157          0.2          0.2
+Normalized EBITDA                                           -17508000.0      -65348000.0  -16042000.0  -29909000.0
+Total Unusual Items                                           2063000.0       -5635000.0   -6045000.0      71000.0
+Total Unusual Items Excluding Goodwill                        2063000.0       -5635000.0   -6045000.0      71000.0
+Net Income From Continuing Operation Net Minority Interest  -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Reconciled Depreciation                                      10284000.0        7357000.0    7217000.0    9798000.0
+Reconciled Cost Of Revenue                                  289701000.0      237581000.0  353241000.0  250937000.0
+EBITDA                                                      -15445000.0      -70983000.0  -22087000.0  -29838000.0
+EBIT                                                        -25729000.0      -78340000.0  -29304000.0  -39636000.0
+Net Interest Income                                          -1075000.0       -2471000.0   -2185000.0    -208000.0
+Interest Expense                                              5495000.0        3494000.0    2226000.0     797000.0
+Interest Income                                               4420000.0        1023000.0      41000.0     589000.0
+Normalized Income                                           -50627400.0 -74434487.633502  -28741000.0  -48136800.0
+Net Income From Continuing And Discontinued Operation       -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Total Expenses                                              440719000.0      382399000.0  486400000.0  393495000.0
+Diluted Average Shares                                              NaN       63497000.0   54827000.0   54826753.0
+Basic Average Shares                                                NaN       63497000.0   54827000.0   54826753.0
+Diluted EPS                                                         NaN            -1.26        -0.63    -0.876596
+Basic EPS                                                           NaN            -1.26        -0.63    -0.876596
+Diluted NI Availto Com Stockholders                         -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Net Income Common Stockholders                              -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Otherunder Preferred Stock Dividend                                 0.0              0.0          0.0          0.0
+Net Income                                                  -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Minority Interests                                                  NaN              NaN          NaN          0.0
+Net Income Including Noncontrolling Interests               -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Net Income Continuous Operations                            -48977000.0      -79939000.0  -33577000.0  -48080000.0
+Tax Provision                                                17753000.0       -1895000.0    2047000.0    7647000.0
+Pretax Income                                               -31224000.0      -81834000.0  -31530000.0  -40433000.0
+Other Non Operating Income Expenses                          38394000.0      -23638000.0   12955000.0   42746000.0
+Special Income Charges                                        2063000.0       -5635000.0   -6045000.0      71000.0
+Write Off                                                    -2063000.0        5635000.0    6045000.0     -71000.0
+Net Non Operating Interest Income Expense                    -1075000.0       -2471000.0   -2185000.0    -208000.0
+Interest Expense Non Operating                                5495000.0        3494000.0    2226000.0     797000.0
+Interest Income Non Operating                                 4420000.0        1023000.0      41000.0     589000.0
+Operating Income                                            -71164000.0      -50090000.0  -36255000.0  -83042000.0
+Operating Expense                                           151018000.0      144818000.0  133159000.0  142558000.0
+Research And Development                                     47898000.0       43558000.0   39840000.0   43514000.0
+Selling General And Administration                          103120000.0      101260000.0   93319000.0   99044000.0
+Selling And Marketing Expense                                46823000.0       43563000.0   44777000.0   51995000.0
+General And Administrative Expense                           56297000.0       57697000.0   48542000.0   47049000.0
+Gross Profit                                                 79854000.0       94728000.0   96904000.0   59516000.0
+Cost Of Revenue                                             289701000.0      237581000.0  353241000.0  250937000.0
+Total Revenue                                               369555000.0      332309000.0  450145000.0  310453000.0
+Operating Revenue                                           369555000.0      332309000.0  450145000.0  310453000.0

@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 35, Qiao'an Street
+address2	10th Floor Zhonghe District
+city	New Taipei City
+zip	235026
+country	Taiwan
+phone	886 2 8245 6186
+fax	886 2 8245 3100
+website	https://www.elaser.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Elite Advanced Laser Corporation provides electronic manufacturing services in Taiwan. The company offers assembly and testing services for optoelectronic, optical information, and optical and RF communication devices; and sensor assembly and testing services. It also provides visible laser diodes. The company was founded in 2000 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Tianzeng  Song', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kun Ming Lin', 'title': 'Vice President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cong Ming Liang', 'title': 'Vice President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	65.0
+open	66.9
+dayLow	64.9
+dayHigh	67.5
+regularMarketPreviousClose	65.0
+regularMarketOpen	66.9
+regularMarketDayLow	64.9
+regularMarketDayHigh	67.5
+dividendRate	0.5
+dividendYield	0.0076
+exDividendDate	1687737600	 (2023-06-26 08:00:00)
+payoutRatio	8.333301
+fiveYearAvgDividendYield	3.01
+beta	0.823
+trailingPE	1096.6667
+forwardPE	12.345217
+volume	3658377
+regularMarketVolume	3658377
+averageVolume	11299024
+averageVolume10days	3916564
+averageDailyVolume10Day	3916564
+bid	66.1
+ask	66.2
+marketCap	9585809408
+fiftyTwoWeekLow	35.2
+fiftyTwoWeekHigh	81.9
+priceToSalesTrailing12Months	1.7754139
+fiftyDayAverage	69.416
+twoHundredDayAverage	59.6375
+currency	TWD
+enterpriseValue	10034357248
+profitMargins	-0.01411
+sharesOutstanding	145680992
+heldPercentInsiders	0.089940004
+heldPercentInstitutions	0.13328
+impliedSharesOutstanding	145912000
+bookValue	26.117
+priceToBook	2.5194318
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-76156000
+trailingEps	0.06
+forwardEps	5.33
+lastSplitFactor	1100:1000
+lastSplitDate	1532390400	 (2018-07-24 08:00:00)
+enterpriseToRevenue	1.858
+enterpriseToEbitda	9.85
+52WeekChange	0.8666667
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1687737600	 (2023-06-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3450.TW
+underlyingSymbol	3450.TW
+shortName	ELITE ADVANCED LASER CORP
+longName	Elite Advanced Laser Corporation
+firstTradeDateEpochUtc	1144803600	 (2006-04-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	39c04475-9737-3555-885a-66e9c563a927
+messageBoardId	finmb_22226008
+gmtOffSetMilliseconds	28800000
+currentPrice	65.8
+recommendationKey	none
+totalCash	1984987008
+totalCashPerShare	13.626
+ebitda	1018713984
+totalDebt	282452992
+quickRatio	1.793
+currentRatio	2.126
+totalRevenue	5399197184
+debtToEquity	4.742
+revenuePerShare	37.062
+returnOnAssets	0.01235
+returnOnEquity	0.02162
+freeCashflow	-174137632
+operatingCashflow	695350016
+revenueGrowth	-0.053
+grossMargins	0.14915
+ebitdaMargins	0.18868
+operatingMargins	0.05071
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     172000.0   -7455304.660809   -2353378.193826     917247.050334
+Tax Rate For Calcs                                                   0.2          0.281779          0.271314          0.298972
+Normalized EBITDA                                           1151735000.0      1743346000.0      1756590000.0      1410680000.0
+Total Unusual Items                                             860000.0       -26458000.0        -8674000.0         3068000.0
+Total Unusual Items Excluding Goodwill                          860000.0       -26458000.0        -8674000.0         3068000.0
+Net Income From Continuing Operation Net Minority Interest   -76156000.0       191824000.0       371053000.0       240882000.0
+Reconciled Depreciation                                      877605000.0       806173000.0       658641000.0       594923000.0
+Reconciled Cost Of Revenue                                  4593894000.0      5483792000.0      5504874000.0      4782103000.0
+EBITDA                                                      1152595000.0      1716888000.0      1747916000.0      1413748000.0
+EBIT                                                         274990000.0       910715000.0      1089275000.0       818825000.0
+Net Interest Income                                           35127000.0         8933000.0         1894000.0        12650000.0
+Interest Expense                                               7680000.0         8039000.0         4252000.0         3987000.0
+Interest Income                                               42807000.0        16972000.0         6146000.0        16637000.0
+Normalized Income                                            -76844000.0  210826695.339191  377373621.806174  238731247.050334
+Net Income From Continuing And Discontinued Operation        -76156000.0       191824000.0       371053000.0       240882000.0
+Total Expenses                                              5218683000.0      6140832000.0      6075469000.0      5323452000.0
+Diluted Average Shares                                       145681000.0       146856000.0       146801000.0       146453000.0
+Basic Average Shares                                         145681000.0       145681000.0       145681000.0       145681000.0
+Diluted EPS                                                        -0.52              1.31              2.51              1.62
+Basic EPS                                                          -0.52              1.32              2.55              1.65
+Diluted NI Availto Com Stockholders                          -76156000.0       191824000.0       371053000.0       240882000.0
+Net Income Common Stockholders                               -76156000.0       191824000.0       371053000.0       240882000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0               0.0
+Net Income                                                   -76156000.0       191824000.0       371053000.0       240882000.0
+Minority Interests                                          -207957000.0      -456497000.0      -419588000.0      -330342000.0
+Net Income Including Noncontrolling Interests                131801000.0       648321000.0       790641000.0       571224000.0
+Net Income Continuous Operations                             131801000.0       648321000.0       790641000.0       571224000.0
+Tax Provision                                                135509000.0       254355000.0       294382000.0       243614000.0
+Pretax Income                                                267310000.0       902676000.0      1085023000.0       814838000.0
+Other Non Operating Income Expenses                           29159000.0       270617000.0       -41232000.0       -97251000.0
+Special Income Charges                                          860000.0       -26458000.0        -8674000.0         3068000.0
+Write Off                                                      -860000.0        26458000.0         8674000.0        -3068000.0
+Net Non Operating Interest Income Expense                     35127000.0         8933000.0         1894000.0        12650000.0
+Interest Expense Non Operating                                 7680000.0         8039000.0         4252000.0         3987000.0
+Interest Income Non Operating                                 42807000.0        16972000.0         6146000.0        16637000.0
+Operating Income                                             180514000.0       634949000.0      1122071000.0       885124000.0
+Operating Expense                                            624789000.0       657040000.0       570595000.0       541349000.0
+Other Operating Expenses                                       7609000.0        31481000.0               NaN               NaN
+Research And Development                                     178529000.0       142626000.0       149862000.0       147213000.0
+Selling General And Administration                           438651000.0       482933000.0       420733000.0       394136000.0
+Selling And Marketing Expense                                 55460000.0        42439000.0        44165000.0        45635000.0
+General And Administrative Expense                           383191000.0       440494000.0       376568000.0       348501000.0
+Gross Profit                                                 805303000.0      1291989000.0      1692666000.0      1426473000.0
+Cost Of Revenue                                             4593894000.0      5483792000.0      5504874000.0      4782103000.0
+Total Revenue                                               5399197000.0      6775781000.0      7197540000.0      6208576000.0
+Operating Revenue                                           5399197000.0      6775781000.0      7197540000.0      6208576000.0

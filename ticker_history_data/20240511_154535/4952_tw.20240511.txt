@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	No. 19, Industry East Road IV
+city	Hsinchu City
+zip	30077
+country	Taiwan
+phone	886 3 666 2118
+fax	886 3 666 2117
+website	https://www.generalplus.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Generalplus Technology Inc. engages in the research, development, design, manufacturing, and sale of integrated circuit products in Taiwan and internationally. It offers channel speech/tone synthesizers, sound processors, controllers, and one battery speech synthesizers; LCD controllers and drivers; multimedia processors; automobile video recorders; motor, touch, wireless, and remote controllers, as well as other microcontroller units; flash memory products; and audio amplifiers, linear regulators, ADC and microphone pre-amplifiers, I/O bus extenders, USB bridge and socket servers, touch applications, USB headset solutions, and three-axis accelerometers. The company was founded in 1993 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chou-Chye  Huang', 'title': 'Executive Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Chia', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Liu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Lee', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jacky  Chen', 'title': 'Marketing Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching Hung  Hui', 'title': 'Head of Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	51.9
+open	52.0
+dayLow	51.1
+dayHigh	52.0
+regularMarketPreviousClose	51.9
+regularMarketOpen	52.0
+regularMarketDayLow	51.1
+regularMarketDayHigh	52.0
+dividendRate	5.0
+dividendYield	0.096499994
+exDividendDate	1688083200	 (2023-06-30 08:00:00)
+payoutRatio	2.7778
+fiveYearAvgDividendYield	7.19
+beta	0.454
+trailingPE	28.777779
+forwardPE	15.014492
+volume	332261
+regularMarketVolume	332261
+averageVolume	396263
+averageVolume10days	355810
+averageDailyVolume10Day	355810
+bid	51.8
+ask	51.9
+marketCap	5636668928
+fiftyTwoWeekLow	47.25
+fiftyTwoWeekHigh	59.3
+priceToSalesTrailing12Months	2.601102
+fiftyDayAverage	49.415
+twoHundredDayAverage	51.39025
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.096339114
+currency	TWD
+enterpriseValue	4740779008
+profitMargins	0.07752
+floatShares	56599554
+sharesOutstanding	108816000
+heldPercentInsiders	0.52645
+heldPercentInstitutions	0.031240001
+impliedSharesOutstanding	109932000
+bookValue	19.389
+priceToBook	2.671618
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.358
+netIncomeToCommon	167984992
+trailingEps	1.8
+forwardEps	3.45
+enterpriseToRevenue	2.188
+enterpriseToEbitda	19.333
+52WeekChange	-0.03358209
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1688083200	 (2023-06-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4952.TW
+underlyingSymbol	4952.TW
+shortName	GENERALPLUS TECHNOLOGY INC
+longName	Generalplus Technology Inc.
+firstTradeDateEpochUtc	1320109200	 (2011-11-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0deac278-550c-316d-a40b-4053fff0fe60
+messageBoardId	finmb_109954722
+gmtOffSetMilliseconds	28800000
+currentPrice	51.8
+recommendationKey	none
+totalCash	957809984
+totalCashPerShare	8.802
+ebitda	245216992
+totalDebt	61920000
+quickRatio	2.604
+currentRatio	3.829
+totalRevenue	2167031040
+debtToEquity	2.929
+revenuePerShare	19.915
+returnOnAssets	0.03438
+returnOnEquity	0.07281
+freeCashflow	342095360
+operatingCashflow	478304000
+earningsGrowth	-0.378
+revenueGrowth	0.017
+grossMargins	0.37944
+ebitdaMargins	0.11316
+operatingMargins	0.054109998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                               0.10013       0.16522       0.17801      0.144134
+Normalized EBITDA                                            295524000.0   798877000.0   894423000.0   428756000.0
+Total Unusual Items                                                  NaN           NaN           0.0           0.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           0.0           0.0
+Net Income From Continuing Operation Net Minority Interest   167985000.0   579378000.0   658713000.0   282037000.0
+Reconciled Depreciation                                      100633000.0   103263000.0    90959000.0    95546000.0
+Reconciled Cost Of Revenue                                  1344777000.0  1724457000.0  1953675000.0  1910243000.0
+EBITDA                                                       295524000.0   798877000.0   894423000.0   428756000.0
+EBIT                                                         194891000.0   695614000.0   803464000.0   333210000.0
+Net Interest Income                                            5845000.0    10339000.0     7856000.0     6052000.0
+Interest Expense                                               8214000.0     1565000.0     2100000.0     3676000.0
+Interest Income                                               14059000.0    11904000.0     9956000.0     9728000.0
+Normalized Income                                            167985000.0   579378000.0   658713000.0   282037000.0
+Net Income From Continuing And Discontinued Operation        167985000.0   579378000.0   658713000.0   282037000.0
+Total Expenses                                              1999361000.0  2538802000.0  2790419000.0  2576305000.0
+Diluted Average Shares                                       109596000.0   111506000.0   110972000.0   110105000.0
+Basic Average Shares                                         108816000.0   108816000.0   108816000.0   108816000.0
+Diluted EPS                                                         1.53           5.2          5.94          2.56
+Basic EPS                                                           1.54          5.32          6.05          2.59
+Diluted NI Availto Com Stockholders                          167985000.0   579378000.0   658713000.0   282037000.0
+Net Income Common Stockholders                               167985000.0   579378000.0   658713000.0   282037000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   167985000.0   579378000.0   658713000.0   282037000.0
+Net Income Including Noncontrolling Interests                167985000.0   579378000.0   658713000.0   282037000.0
+Net Income Continuous Operations                             167985000.0   579378000.0   658713000.0   282037000.0
+Tax Provision                                                 18692000.0   114671000.0   142651000.0    47497000.0
+Pretax Income                                                186677000.0   694049000.0   801364000.0   329534000.0
+Other Non Operating Income Expenses                           13162000.0    53138000.0     3019000.0      110000.0
+Special Income Charges                                               NaN           NaN           0.0           0.0
+Net Non Operating Interest Income Expense                      5845000.0    10339000.0     7856000.0     6052000.0
+Interest Expense Non Operating                                 8214000.0     1565000.0     2100000.0     3676000.0
+Interest Income Non Operating                                 14059000.0    11904000.0     9956000.0     9728000.0
+Operating Income                                             167670000.0   630572000.0   790489000.0   323372000.0
+Operating Expense                                            654584000.0   814345000.0   836744000.0   666062000.0
+Other Operating Expenses                                        143000.0        7000.0      -78000.0           NaN
+Research And Development                                     447618000.0   565521000.0   578808000.0   453835000.0
+Selling General And Administration                           206823000.0   248817000.0   258014000.0   212227000.0
+Selling And Marketing Expense                                 84231000.0    98269000.0    99220000.0    87635000.0
+General And Administrative Expense                           122592000.0   150548000.0   158794000.0   124592000.0
+Gross Profit                                                 822254000.0  1444917000.0  1627233000.0   989434000.0
+Cost Of Revenue                                             1344777000.0  1724457000.0  1953675000.0  1910243000.0
+Total Revenue                                               2167031000.0  3169374000.0  3580908000.0  2899677000.0
+Operating Revenue                                           2167031000.0  3169374000.0  3580908000.0  2899677000.0

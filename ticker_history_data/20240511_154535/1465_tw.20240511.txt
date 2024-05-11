@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.62-5 Xining North Road
+address2	7th Floor-1
+city	Taipei
+zip	103
+country	Taiwan
+phone	886 2 7733 5833
+fax	886 2 2552 7446
+website	https://www.wisher.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Wisher Industrial Co., Ltd. engages in the manufacture and sale of fabrics in Taiwan. The company was founded in 1972 and is based in Taipei, Taiwan.
+fullTimeEmployees	167
+maxAge	86400
+priceHint	2
+previousClose	15.6
+open	15.6
+dayLow	15.45
+dayHigh	15.7
+regularMarketPreviousClose	15.6
+regularMarketOpen	15.6
+regularMarketDayLow	15.45
+regularMarketDayHigh	15.7
+dividendRate	0.85
+dividendYield	0.0545
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.9444
+fiveYearAvgDividendYield	4.72
+beta	0.301
+trailingPE	17.333334
+volume	106138
+regularMarketVolume	106138
+averageVolume	155795
+averageVolume10days	209988
+averageDailyVolume10Day	209988
+bid	15.55
+ask	15.6
+marketCap	1616269184
+fiftyTwoWeekLow	12.8
+fiftyTwoWeekHigh	15.85
+priceToSalesTrailing12Months	2.7753544
+fiftyDayAverage	15.087
+twoHundredDayAverage	13.93125
+currency	TWD
+enterpriseValue	1292797824
+profitMargins	0.09904
+sharesOutstanding	103607000
+heldPercentInsiders	0.4682
+impliedSharesOutstanding	106290000
+bookValue	15.958
+priceToBook	0.9775661
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	57680000
+trailingEps	0.9
+lastSplitFactor	1200:1000
+lastSplitDate	1409184000	 (2014-08-28 08:00:00)
+enterpriseToRevenue	2.22
+enterpriseToEbitda	49.302
+52WeekChange	0.087108016
+SandP52WeekChange	0.26265144
+lastDividendValue	0.85
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1465.TW
+underlyingSymbol	1465.TW
+shortName	WISHER INDUSTRIAL CO
+longName	Wisher Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2d570772-6076-394c-b34f-75a5e8338ab4
+messageBoardId	finmb_9870798
+gmtOffSetMilliseconds	28800000
+currentPrice	15.6
+recommendationKey	none
+totalCash	418476000
+totalCashPerShare	4.039
+ebitda	26222000
+totalDebt	95000000
+quickRatio	2.233
+currentRatio	3.147
+totalRevenue	582364992
+debtToEquity	5.746
+revenuePerShare	5.621
+returnOnAssets	-0.0013600001
+returnOnEquity	0.03457
+freeCashflow	3563250
+operatingCashflow	107479000
+revenueGrowth	-0.267
+grossMargins	0.12202
+ebitdaMargins	0.045029998
+operatingMargins	-0.01895
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                    30367.716065    -29632.174377    -232400.0          0.0
+Tax Rate For Calcs                                                 0.015784         0.044897          0.2     0.314804
+Normalized EBITDA                                                87314000.0      126997000.0  -69477000.0  -20949000.0
+Total Unusual Items                                               1924000.0        -660000.0   -1162000.0          0.0
+Total Unusual Items Excluding Goodwill                            1924000.0        -660000.0   -1162000.0          0.0
+Net Income From Continuing Operation Net Minority Interest       57680000.0       96750000.0  -95903000.0  -25072000.0
+Reconciled Depreciation                                          30425000.0       25020000.0   22711000.0   15143000.0
+Reconciled Cost Of Revenue                                      511304000.0      527470000.0  408776000.0  386665000.0
+EBITDA                                                           89238000.0      126337000.0  -70639000.0  -20949000.0
+EBIT                                                             58813000.0      101317000.0  -93350000.0  -36092000.0
+Net Interest Income                                              51540000.0       21056000.0    8849000.0    5490000.0
+Interest Expense                                                   208000.0          19000.0     939000.0     499000.0
+Interest Income                                                  51748000.0       21075000.0    9788000.0    5989000.0
+Normalized Income                                           55786367.716065  97380367.825623  -94973400.0  -25072000.0
+Net Income From Continuing And Discontinued Operation            57680000.0       96750000.0  -95903000.0  -25072000.0
+Total Expenses                                                  588583000.0      613187000.0  471281000.0  442001000.0
+Diluted Average Shares                                                  NaN      103607000.0  103607000.0  104466667.0
+Basic Average Shares                                                    NaN      103607000.0  103607000.0  104466667.0
+Diluted EPS                                                             NaN             0.93        -0.93        -0.24
+Basic EPS                                                               NaN             0.93        -0.93        -0.24
+Diluted NI Availto Com Stockholders                              57680000.0       96750000.0  -95903000.0  -25072000.0
+Net Income Common Stockholders                                   57680000.0       96750000.0  -95903000.0  -25072000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0          0.0          0.0
+Net Income                                                       57680000.0       96750000.0  -95903000.0  -25072000.0
+Minority Interests                                                      NaN              NaN          NaN          0.0
+Net Income Including Noncontrolling Interests                    57680000.0       96750000.0  -95903000.0  -25072000.0
+Net Income Discontinuous Operations                                     NaN              NaN          NaN          0.0
+Net Income Continuous Operations                                 57680000.0       96750000.0  -95903000.0  -25072000.0
+Tax Provision                                                      925000.0        4548000.0    1614000.0  -11519000.0
+Pretax Income                                                    58605000.0      101298000.0  -94289000.0  -36591000.0
+Other Non Operating Income Expenses                              11359000.0       82355000.0  -71989000.0  -42051000.0
+Special Income Charges                                            1924000.0        -660000.0   -1162000.0          0.0
+Write Off                                                        -1924000.0         660000.0    1162000.0          0.0
+Net Non Operating Interest Income Expense                        51540000.0       21056000.0    8849000.0    5490000.0
+Interest Expense Non Operating                                     208000.0          19000.0     939000.0     499000.0
+Interest Income Non Operating                                    51748000.0       21075000.0    9788000.0    5989000.0
+Operating Income                                                 -6218000.0       -1453000.0  -29756000.0  -16719000.0
+Operating Expense                                                77279000.0       85717000.0   62505000.0   55336000.0
+Research And Development                                          3598000.0        3829000.0    4900000.0    5033000.0
+Selling General And Administration                               73681000.0       81888000.0   57605000.0   50303000.0
+Selling And Marketing Expense                                    45902000.0       47453000.0   38133000.0   36905000.0
+General And Administrative Expense                               27779000.0       34435000.0   19472000.0   13398000.0
+Gross Profit                                                     71061000.0       84264000.0   32749000.0   38617000.0
+Cost Of Revenue                                                 511304000.0      527470000.0  408776000.0  386665000.0
+Total Revenue                                                   582365000.0      611734000.0  441525000.0  425282000.0
+Operating Revenue                                               582365000.0      611734000.0  441525000.0  425282000.0

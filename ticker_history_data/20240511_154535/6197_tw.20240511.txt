@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 176, Jian-Yi Road
+address2	9th Floor 235 Chung Ho Dist
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 8227 1658
+fax	886 2 8227 1636
+website	https://www.jpcco.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Jess-link Products Co., Ltd. provides various electronic products and components in Taiwan, China, the United States, Japan, Thailand, and internationally. The company operates through Electronic Products Components Manufacturing, Electronic Peripheral Sales, and Others segments. It offers datacenter/networking/telecom solutions, including server/storage, AI/GPU server, switch/TOR, data center cabling, 5G/6G/broadband, ISP and cable, and cooling solutions; and smart connection industry solutions for factory automation, robotics, medical equipment, energy, EV, and gaming/graphic card/CE. The company also provides electronic products comprising customized peripheral and Internet of Things products; connector and cable assemblies; and other cables. In addition, it sells integrated circuit sockets and computer connectors; distributes and trades in communication and network apparatus; and wholesales and trades in electronic materials. Further, the company engages in the trade, and import and export of various computer software and hardware and its peripherals; and manufacture and wholesale of wireless communication equipment and apparatus, data storage and processing equipment, wired communication equipment, and apparatus and printers. Jess-link Products Co., Ltd. was incorporated in 1992 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shu-Mei  Chang', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Ping  Cheng', 'title': 'Corporate Governance Officer & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-San  Chang', 'title': 'Chief Information Security Officer & COO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun-Hsing  He', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	151.0
+open	152.0
+dayLow	146.0
+dayHigh	152.0
+regularMarketPreviousClose	151.0
+regularMarketOpen	152.0
+regularMarketDayLow	146.0
+regularMarketDayHigh	152.0
+dividendRate	3.2
+dividendYield	0.0218
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.512
+fiveYearAvgDividendYield	6.6
+beta	0.549
+trailingPE	23.52
+volume	4294589
+regularMarketVolume	4294589
+averageVolume	5858641
+averageVolume10days	5536168
+averageDailyVolume10Day	5536168
+bid	146.0
+ask	146.5
+marketCap	17946642432
+fiftyTwoWeekLow	53.5
+fiftyTwoWeekHigh	179.0
+priceToSalesTrailing12Months	3.6167178
+fiftyDayAverage	130.982
+twoHundredDayAverage	91.9595
+trailingAnnualDividendRate	4.2
+trailingAnnualDividendYield	0.027814569
+currency	TWD
+enterpriseValue	16584795136
+profitMargins	0.12805
+floatShares	76639412
+sharesOutstanding	122086000
+heldPercentInsiders	0.37995
+heldPercentInstitutions	0.06416
+impliedSharesOutstanding	122937000
+bookValue	27.452
+priceToBook	5.354801
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.635
+netIncomeToCommon	635395008
+trailingEps	6.25
+lastSplitFactor	1.1:1
+lastSplitDate	1282176000	 (2010-08-19 08:00:00)
+enterpriseToRevenue	3.342
+enterpriseToEbitda	23.037
+52WeekChange	1.7071824
+SandP52WeekChange	0.26265144
+lastDividendValue	3.2
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6197.TW
+underlyingSymbol	6197.TW
+shortName	JESS-LINK PRODUCTS CO
+longName	Jess-link Products Co., Ltd.
+firstTradeDateEpochUtc	1099875600	 (2004-11-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a9dc2c38-6bf8-3eb3-9a89-e43d0fce551b
+messageBoardId	finmb_9768804
+gmtOffSetMilliseconds	28800000
+currentPrice	147.0
+recommendationKey	none
+totalCash	1700737024
+totalCashPerShare	13.931
+ebitda	719910016
+totalDebt	206543008
+quickRatio	1.978
+currentRatio	2.363
+totalRevenue	4962135040
+debtToEquity	5.929
+revenuePerShare	40.645
+returnOnAssets	0.08049
+returnOnEquity	0.19879
+freeCashflow	392622240
+operatingCashflow	671795968
+earningsGrowth	2.635
+revenueGrowth	0.256
+grossMargins	0.2895
+ebitdaMargins	0.14508
+operatingMargins	0.16721001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31      2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -250211.672843   -2869993.989035   -3082780.2518   -1806142.280253
+Tax Rate For Calcs                                                  0.185205          0.182872        0.174474          0.183309
+Normalized EBITDA                                                955870000.0       700979000.0     610608000.0       457807000.0
+Total Unusual Items                                               -1351000.0       -15694000.0     -17669000.0        -9853000.0
+Total Unusual Items Excluding Goodwill                            -1351000.0       -15694000.0     -17669000.0        -9853000.0
+Net Income From Continuing Operation Net Minority Interest       635395000.0       439816000.0     373477000.0       260410000.0
+Reconciled Depreciation                                          130644000.0       136871000.0     122504000.0       110205000.0
+Reconciled Cost Of Revenue                                      3525604000.0      3239329000.0    2814182000.0      2632170000.0
+EBITDA                                                           954519000.0       685285000.0     592939000.0       447954000.0
+EBIT                                                             823875000.0       548414000.0     470435000.0       337749000.0
+Net Interest Income                                               22010000.0        16044000.0      11232000.0        10118000.0
+Interest Expense                                                  13464000.0         3410000.0       4033000.0         6663000.0
+Interest Income                                                   35474000.0        19454000.0      15265000.0        16781000.0
+Normalized Income                                           636495788.327157  452640006.010965  388063219.7482  268456857.719747
+Net Income From Continuing And Discontinued Operation            635395000.0       439816000.0     373477000.0       260410000.0
+Total Expenses                                                  4319574000.0      3945396000.0    3490310000.0      3192375000.0
+Diluted Average Shares                                           123351000.0       123609000.0     123036000.0       123021000.0
+Basic Average Shares                                             122086000.0       122086000.0     122086000.0       122086000.0
+Diluted EPS                                                             5.15              3.56            3.04              2.12
+Basic EPS                                                                5.2               3.6            3.06              2.13
+Diluted NI Availto Com Stockholders                              635395000.0       439816000.0     373477000.0       260410000.0
+Net Income Common Stockholders                                   635395000.0       439816000.0     373477000.0       260410000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0             0.0               0.0
+Net Income                                                       635395000.0       439816000.0     373477000.0       260410000.0
+Minority Interests                                               -24924000.0        -5522000.0     -11550000.0        -9985000.0
+Net Income Including Noncontrolling Interests                    660319000.0       445338000.0     385027000.0       270395000.0
+Net Income Continuous Operations                                 660319000.0       445338000.0     385027000.0       270395000.0
+Tax Provision                                                    150092000.0        99666000.0      81375000.0        60691000.0
+Pretax Income                                                    810411000.0       545004000.0     466402000.0       331086000.0
+Other Non Operating Income Expenses                              146595000.0       150977000.0      94337000.0       -60416000.0
+Special Income Charges                                            -1351000.0       -15694000.0     -17669000.0        -9853000.0
+Write Off                                                          1351000.0        15694000.0      17669000.0         9853000.0
+Net Non Operating Interest Income Expense                         22010000.0        16044000.0      11232000.0        10118000.0
+Interest Expense Non Operating                                    13464000.0         3410000.0       4033000.0         6663000.0
+Interest Income Non Operating                                     35474000.0        19454000.0      15265000.0        16781000.0
+Operating Income                                                 642561000.0       394032000.0     376518000.0       390147000.0
+Operating Expense                                                793970000.0       706067000.0     676128000.0       560205000.0
+Research And Development                                         163891000.0       151244000.0     133028000.0        97853000.0
+Selling General And Administration                               630079000.0       554823000.0     543100000.0       462352000.0
+Selling And Marketing Expense                                    325523000.0       345132000.0     339391000.0       258110000.0
+General And Administrative Expense                               304556000.0       209691000.0     203709000.0       204242000.0
+Gross Profit                                                    1436531000.0      1100099000.0    1052646000.0       950352000.0
+Cost Of Revenue                                                 3525604000.0      3239329000.0    2814182000.0      2632170000.0
+Total Revenue                                                   4962135000.0      4339428000.0    3866828000.0      3582522000.0
+Operating Revenue                                               4962135000.0      4339428000.0    3866828000.0      3582522000.0

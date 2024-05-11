@@ -1,0 +1,139 @@
+=== Ticker Info ===
+address1	No. 268, Gaotiezhanqian West Road
+address2	Room 8, 3rd Floor Section 1 Zhongli District
+city	Taoyuan City
+country	Taiwan
+website	https://www.abonmax.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Abonmax Co., Ltd, an integrated optoelectronic display company, engages in the production and sale of electronic components and appliances, and audio-visual electronic products in Taiwan, China, and internationally. The company offers electric assisted bicycles; e-bike mid-mounted powertrain and e-scooter efficient motors; memory devices, such as flash drives, micro-SD cards, and solid-state drives; MDLs; interactive whiteboards, intelligent displays, self-organized liquid crystal, touch display, and touch panel modules; and portable monitors. It also provides electric vehicle motor drive control units, battery management systems, vehicle system control units, instrument display unit, etc.; glass cutting and edging processing equipment; and engages in the provision of electronic assembly foundry services. The company was formerly known as Pal Wonn (Taiwan) Co., Ltd. and changed its name to Abonmax Co., Ltd in December 2017. Abonmax Co., Ltd was founded in 1978 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Zhen Zhen  Liu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Ren  Lin', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fu-Ci  Gsiang', 'title': 'Executive Assistant & Natural In-Person Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	19.1
+open	19.1
+dayLow	19.0
+dayHigh	19.2
+regularMarketPreviousClose	19.1
+regularMarketOpen	19.1
+regularMarketDayLow	19.0
+regularMarketDayHigh	19.2
+beta	0.651
+volume	40001
+regularMarketVolume	40001
+averageVolume	84693
+averageVolume10days	34349
+averageDailyVolume10Day	34349
+bid	19.1
+ask	19.25
+marketCap	839961664
+fiftyTwoWeekLow	15.7
+fiftyTwoWeekHigh	22.9
+priceToSalesTrailing12Months	1.6388088
+fiftyDayAverage	19.964
+twoHundredDayAverage	18.9905
+currency	TWD
+enterpriseValue	983051584
+profitMargins	-0.04743
+floatShares	28203023
+sharesOutstanding	43748000
+heldPercentInsiders	0.51232
+impliedSharesOutstanding	43977600
+bookValue	5.338
+priceToBook	3.596853
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-24309000
+trailingEps	-0.56
+lastSplitFactor	734:1000
+lastSplitDate	1545350400	 (2018-12-21 08:00:00)
+enterpriseToRevenue	1.918
+enterpriseToEbitda	-23.301
+52WeekChange	-0.06341463
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	2429.TW
+underlyingSymbol	2429.TW
+shortName	ABONMAX CO LTD
+longName	Abonmax Co., Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1d7c315e-a806-3995-84d1-639aeac9faad
+messageBoardId	finmb_9844120
+gmtOffSetMilliseconds	28800000
+currentPrice	19.2
+recommendationKey	none
+totalCash	62644000
+totalCashPerShare	1.432
+ebitda	-42190000
+totalDebt	191316992
+quickRatio	1.177
+currentRatio	1.737
+totalRevenue	512544000
+debtToEquity	77.167
+revenuePerShare	11.716
+returnOnAssets	-0.07937
+returnOnEquity	-0.18211001
+freeCashflow	-330000
+operatingCashflow	-1456000
+revenueGrowth	-0.143
+grossMargins	0.04681
+ebitdaMargins	-0.08231
+operatingMargins	-0.32759997
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   -862400.0     -74600.0    -151400.0    -982800.0
+Tax Rate For Calcs                                                  0.2          0.2          0.2          0.2
+Normalized EBITDA                                            38483000.0   21175000.0   62046000.0   33518000.0
+Total Unusual Items                                          -4312000.0    -373000.0    -757000.0   -4914000.0
+Total Unusual Items Excluding Goodwill                       -4312000.0    -373000.0    -757000.0   -4914000.0
+Net Income From Continuing Operation Net Minority Interest  -24309000.0  -49706000.0    2127000.0  -61017000.0
+Reconciled Depreciation                                      55244000.0   53694000.0   54830000.0   60672000.0
+Reconciled Cost Of Revenue                                  488554000.0  462928000.0  839053000.0  823287000.0
+EBITDA                                                       34171000.0   20802000.0   61289000.0   28604000.0
+EBIT                                                        -21073000.0  -32892000.0    6459000.0  -32068000.0
+Net Interest Income                                         -15877000.0  -11713000.0  -10832000.0   -9451000.0
+Interest Expense                                             17004000.0   11970000.0   10924000.0    9587000.0
+Interest Income                                               1127000.0     257000.0      92000.0     136000.0
+Normalized Income                                           -20859400.0  -49407600.0    2732600.0  -57085800.0
+Net Income From Continuing And Discontinued Operation       -24309000.0  -49706000.0    2127000.0  -61017000.0
+Total Expenses                                              588714000.0  561322000.0  983910000.0  955308000.0
+Diluted Average Shares                                              NaN   40164000.0   39748000.0   37371000.0
+Basic Average Shares                                                NaN   39748000.0   39748000.0   36736000.0
+Diluted EPS                                                         NaN        -1.24         0.05        -1.63
+Basic EPS                                                           NaN        -1.24         0.05        -1.63
+Diluted NI Availto Com Stockholders                         -24309000.0  -49706000.0    2127000.0  -61017000.0
+Net Income Common Stockholders                              -24309000.0  -49706000.0    2127000.0  -61017000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                  -24309000.0  -49706000.0    2127000.0  -61017000.0
+Minority Interests                                           25031000.0    3225000.0   11536000.0    8526000.0
+Net Income Including Noncontrolling Interests               -49340000.0  -52931000.0   -9409000.0  -69543000.0
+Net Income Continuous Operations                            -49340000.0  -52931000.0   -9409000.0  -69543000.0
+Tax Provision                                                11263000.0    8069000.0    4944000.0   27888000.0
+Pretax Income                                               -38077000.0  -44862000.0   -4465000.0  -41655000.0
+Other Non Operating Income Expenses                          58282000.0    7807000.0   14638000.0   27624000.0
+Special Income Charges                                       -4312000.0    -373000.0    -757000.0   -4914000.0
+Write Off                                                     4312000.0     373000.0     757000.0    4914000.0
+Net Non Operating Interest Income Expense                   -15877000.0  -11713000.0  -10832000.0   -9451000.0
+Interest Expense Non Operating                               17004000.0   11970000.0   10924000.0    9587000.0
+Interest Income Non Operating                                 1127000.0     257000.0      92000.0     136000.0
+Operating Income                                            -76170000.0  -40583000.0   -7322000.0  -54914000.0
+Operating Expense                                           100160000.0   98394000.0  144857000.0  132021000.0
+Research And Development                                     13334000.0   15616000.0   35777000.0   24766000.0
+Selling General And Administration                           86826000.0   82778000.0  109080000.0  107255000.0
+Selling And Marketing Expense                                29607000.0   31801000.0   46039000.0   43169000.0
+General And Administrative Expense                           57219000.0   50977000.0   63041000.0   64086000.0
+Gross Profit                                                 23990000.0   57811000.0  137535000.0   77107000.0
+Cost Of Revenue                                             488554000.0  462928000.0  839053000.0  823287000.0
+Total Revenue                                               512544000.0  520739000.0  976588000.0  900394000.0
+Operating Revenue                                           512544000.0  520739000.0  976588000.0  900394000.0

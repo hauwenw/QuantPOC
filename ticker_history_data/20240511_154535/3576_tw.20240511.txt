@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	No. 7, Li-Hsin 3rd Road
+city	Hsinchu City
+zip	30078
+country	Taiwan
+phone	886 3 578 0011
+fax	886 3 578 1255
+website	https://www.urecorp.com
+industry	Solar
+industryKey	solar
+industryDisp	Solar
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	United Renewable Energy Co., Ltd. engages in the research, design, development, manufacture, and sale of solar cells and related systems, solar power generation modules, and wafers in Taiwan, Europe, the United States, and internationally. It operates through Solar Energy, System, and Other segments. The company offers solar modules, energy storage systems, including industrial ESS container with UL9540, lithium-ion UPS, and energy management systems, as well as hydrogen fuel cell motorcycle. It also engages in the construction of solar power plants, electronic component manufacturing and selling, and solar and agriculture related businesses; and importing and exporting activities. The company was formerly known as Neo Solar Power Corp. United Renewable Energy Co., Ltd. was incorporated in 2005 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Chum-Sam  Hong Ph.D.', 'age': 73, 'title': 'Co-Founder, Chairman, Chief Strategy Officer & Acting CEO', 'yearBorn': 1950, 'fiscalYear': 2021, 'totalPay': 8767000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lay-Lay  Pan', 'title': 'CFO & Vice President of Finance', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Betty  Chan', 'title': 'Accounting Officer & Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shelly  Yen', 'title': 'Investor Relations Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Zabrina  Hsu', 'title': 'VP of Legal & Chief Information Security Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	11.4
+open	11.6
+dayLow	11.4
+dayHigh	11.85
+regularMarketPreviousClose	11.4
+regularMarketOpen	11.6
+regularMarketDayLow	11.4
+regularMarketDayHigh	11.85
+dividendRate	0.1
+dividendYield	0.0088
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+beta	0.872
+forwardPE	8.769231
+volume	11242181
+regularMarketVolume	11242181
+averageVolume	7857317
+averageVolume10days	5206472
+averageDailyVolume10Day	5206472
+bid	11.4
+ask	11.45
+marketCap	18544721920
+fiftyTwoWeekLow	10.9
+fiftyTwoWeekHigh	20.65
+priceToSalesTrailing12Months	1.4816543
+fiftyDayAverage	11.792
+twoHundredDayAverage	13.9295
+currency	TWD
+enterpriseValue	24085245952
+profitMargins	-0.31072
+floatShares	1375873946
+sharesOutstanding	1626729984
+heldPercentInsiders	0.089420006
+heldPercentInstitutions	0.15312
+impliedSharesOutstanding	1662089984
+bookValue	7.924
+priceToBook	1.4386673
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-3888980992
+trailingEps	-2.39
+forwardEps	1.3
+lastSplitFactor	565.8124:1000
+lastSplitDate	1627516800	 (2021-07-29 08:00:00)
+enterpriseToRevenue	1.924
+enterpriseToEbitda	-12.877
+52WeekChange	-0.43564355
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3576.TW
+underlyingSymbol	3576.TW
+shortName	UNITED RENEWABLE ENERGY CO LTD
+longName	United Renewable Energy Co., Ltd.
+firstTradeDateEpochUtc	1231722000	 (2009-01-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6f4ea48e-f9db-323b-9163-c2279800dd16
+messageBoardId	finmb_34647702
+gmtOffSetMilliseconds	28800000
+currentPrice	11.4
+recommendationKey	none
+totalCash	6854177792
+totalCashPerShare	4.26
+ebitda	-1870387968
+totalDebt	12241462272
+quickRatio	0.871
+currentRatio	1.113
+totalRevenue	12516227072
+debtToEquity	93.409
+revenuePerShare	7.694
+returnOnAssets	-0.05913
+returnOnEquity	-0.25925
+freeCashflow	2979477248
+operatingCashflow	4427982848
+revenueGrowth	-0.59
+grossMargins	-0.14125
+ebitdaMargins	-0.14944
+operatingMargins	-0.73607004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    -5328000.0     -809466.298552     -8656600.0      4481000.0
+Tax Rate For Calcs                                                    0.2           0.008131            0.2            0.2
+Normalized EBITDA                                           -2079817000.0       2545473000.0    295473000.0  -3038763000.0
+Total Unusual Items                                           -26640000.0        -99547000.0    -43283000.0     22405000.0
+Total Unusual Items Excluding Goodwill                        -26640000.0        -99547000.0    -43283000.0     22405000.0
+Net Income From Continuing Operation Net Minority Interest  -3888981000.0        993643000.0  -1288203000.0  -6139015000.0
+Reconciled Depreciation                                      1235351000.0       1222519000.0   1202256000.0   2067133000.0
+Reconciled Cost Of Revenue                                  14284087000.0      16665854000.0  13573589000.0  13387510000.0
+EBITDA                                                      -2106457000.0       2445926000.0    252190000.0  -3016358000.0
+EBIT                                                        -3341808000.0       1223407000.0   -950066000.0  -5083491000.0
+Net Interest Income                                          -310501000.0       -266181000.0   -385285000.0   -634011000.0
+Interest Expense                                              350992000.0        276964000.0    390719000.0    651941000.0
+Interest Income                                                40491000.0         10783000.0      5434000.0     17930000.0
+Normalized Income                                           -3867669000.0  1092380533.701448  -1253576600.0  -6156939000.0
+Net Income From Continuing And Discontinued Operation       -3888981000.0        993643000.0  -1288203000.0  -6139015000.0
+Total Expenses                                              15469230000.0      17969333000.0  15079871000.0  17147696000.0
+Diluted Average Shares                                       1626729000.0       1772120000.0   1526215000.0   1522352000.0
+Basic Average Shares                                         1626729000.0       1626649000.0   1526215000.0   1522352000.0
+Diluted EPS                                                         -2.39               0.57          -0.84          -4.08
+Basic EPS                                                           -2.39               0.61          -0.84          -4.08
+Diluted NI Availto Com Stockholders                         -3888981000.0        993643000.0  -1288203000.0  -6139015000.0
+Net Income Common Stockholders                              -3888981000.0        993643000.0  -1288203000.0  -6139015000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0            0.0            0.0
+Net Income                                                  -3888981000.0        993643000.0  -1288203000.0  -6139015000.0
+Minority Interests                                             25977000.0         54896000.0     53384000.0     23292000.0
+Net Income Including Noncontrolling Interests               -3914958000.0        938747000.0  -1341587000.0  -6162307000.0
+Net Income Continuous Operations                            -3914958000.0        938747000.0  -1341587000.0  -6162307000.0
+Tax Provision                                                 222158000.0          7696000.0       802000.0    426875000.0
+Pretax Income                                               -3692800000.0        946443000.0  -1340785000.0  -5735432000.0
+Other Non Operating Income Expenses                          -410239000.0        466798000.0   -119126000.0   -455478000.0
+Special Income Charges                                        -26640000.0        -99547000.0    -43283000.0     22405000.0
+Write Off                                                      26640000.0         99547000.0     43283000.0    -22405000.0
+Net Non Operating Interest Income Expense                    -310501000.0       -266181000.0   -385285000.0   -634011000.0
+Interest Expense Non Operating                                350992000.0        276964000.0    390719000.0    651941000.0
+Interest Income Non Operating                                  40491000.0         10783000.0      5434000.0     17930000.0
+Operating Income                                            -2953003000.0        838718000.0   -777463000.0  -4636662000.0
+Operating Expense                                            1185143000.0       1303479000.0   1506282000.0   3760186000.0
+Other Operating Expenses                                              NaN                NaN    102597000.0   1978107000.0
+Research And Development                                       88148000.0         70392000.0    101435000.0    176893000.0
+Selling General And Administration                           1096995000.0       1233087000.0   1302250000.0   1605186000.0
+Selling And Marketing Expense                                 397591000.0        526995000.0    465493000.0    514828000.0
+General And Administrative Expense                            699404000.0        706092000.0    836757000.0   1090358000.0
+Gross Profit                                                -1767860000.0       2142197000.0    728819000.0   -876476000.0
+Cost Of Revenue                                             14284087000.0      16665854000.0  13573589000.0  13387510000.0
+Total Revenue                                               12516227000.0      18808051000.0  14302408000.0  12511034000.0
+Operating Revenue                                           12516227000.0      18808051000.0  14302408000.0  12511034000.0

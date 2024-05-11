@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 97, Xintai 5th Road
+address2	10th Floor Section 1 Xizhi District
+city	New Taipei City
+zip	22175
+country	Taiwan
+phone	886 2 2697 2986
+fax	886 2 2697 2168
+website	https://www.dfi.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	DFI Inc. designs, manufactures, and sells board and system-level products for embedded applications worldwide. It offers industrial motherboards; system-on-modules, including mini and compact modules, basic and Qseven modules, carrier boards, and smart display modules; and industrial computers, including fanless, high-performance, medical computing, in-vehicle railway, and gaming embedded systems, as well as pre-configured systems and chassis and digital signage OPS/OPS+ computers. The company also provides industrial panel PCs and displays comprising fanless touch panel, high-performance touch panel, transportation touch panel, medical and industrial panel PCs, and displays, as well as bar type panel PCs and displays and industrial and touch displays. In addition, it provides OEM/ODM services; BIOS and operating system (OS) customization services, and software customization services; and design manufacturing and reliable technical services. The company's products are used in industry automation, medical, gaming, transportation, energy, mission-critical, and intelligent retail industries. DFI Inc. was founded in 1981 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chia-Hung  Su', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Min  Huang', 'title': 'Senior Director & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Crystal  Tseng', 'title': 'Director of System Product Management', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.dfi.com.tw/Investor/Investor_information_tw.jsp
+maxAge	86400
+priceHint	2
+previousClose	65.1
+open	65.3
+dayLow	65.1
+dayHigh	65.8
+regularMarketPreviousClose	65.1
+regularMarketOpen	65.3
+regularMarketDayLow	65.1
+regularMarketDayHigh	65.8
+dividendRate	4.0
+dividendYield	0.061300002
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	1.5810001
+fiveYearAvgDividendYield	6.15
+beta	0.38
+trailingPE	25.77075
+forwardPE	13.471073
+volume	47418
+regularMarketVolume	47418
+averageVolume	49822
+averageVolume10days	68232
+averageDailyVolume10Day	68232
+bid	65.1
+ask	65.2
+marketCap	7464682496
+fiftyTwoWeekLow	62.0
+fiftyTwoWeekHigh	86.1
+priceToSalesTrailing12Months	0.81277686
+fiftyDayAverage	65.728
+twoHundredDayAverage	66.387
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.04608295
+currency	TWD
+enterpriseValue	9898510336
+profitMargins	0.03938
+sharesOutstanding	114489000
+heldPercentInsiders	0.82174003
+heldPercentInstitutions	0.00083
+impliedSharesOutstanding	114489000
+bookValue	27.619
+priceToBook	2.3606937
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	378179008
+trailingEps	2.53
+forwardEps	4.84
+lastSplitFactor	1.01:1
+lastSplitDate	1250121600	 (2009-08-13 08:00:00)
+enterpriseToRevenue	1.078
+enterpriseToEbitda	13.306
+52WeekChange	-0.06051874
+SandP52WeekChange	0.26265144
+lastDividendValue	4.0
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2397.TW
+underlyingSymbol	2397.TW
+shortName	DFI
+longName	DFI Inc.
+firstTradeDateEpochUtc	948070800	 (2000-01-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e3c7f2bb-77d7-3b00-8c3f-328dabe7b06c
+messageBoardId	finmb_12720605
+gmtOffSetMilliseconds	28800000
+currentPrice	65.2
+recommendationKey	none
+totalCash	1514770048
+totalCashPerShare	13.231
+ebitda	743891008
+totalDebt	2127751936
+quickRatio	1.192
+currentRatio	1.88
+totalRevenue	9184172032
+debtToEquity	42.701
+revenuePerShare	80.219
+returnOnAssets	0.030569999
+returnOnEquity	0.0679
+freeCashflow	2072645760
+operatingCashflow	1573894016
+grossMargins	0.26513
+ebitdaMargins	0.081
+operatingMargins	0.059320003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   3213147.751555   -3379977.061422    1265238.435344   10347286.823524
+Tax Rate For Calcs                                                  0.276662          0.217908          0.205096          0.221361
+Normalized EBITDA                                                865522000.0      1252512000.0      1264609000.0       759430000.0
+Total Unusual Items                                               11614000.0       -15511000.0         6169000.0        46744000.0
+Total Unusual Items Excluding Goodwill                            11614000.0       -15511000.0         6169000.0        46744000.0
+Net Income From Continuing Operation Net Minority Interest       378179000.0       606789000.0       615903000.0       405046000.0
+Reconciled Depreciation                                          310712000.0       319326000.0       259894000.0       177319000.0
+Reconciled Cost Of Revenue                                      6749159000.0      8249758000.0     10770010000.0      6240423000.0
+EBITDA                                                           877136000.0      1237001000.0      1270778000.0       806174000.0
+EBIT                                                             566424000.0       917675000.0      1010884000.0       628855000.0
+Net Interest Income                                              -45782000.0       -48104000.0       -22104000.0        -9828000.0
+Interest Expense                                                  59140000.0        53890000.0        24776000.0        15178000.0
+Interest Income                                                   13358000.0         5786000.0         2672000.0         5350000.0
+Normalized Income                                           369778147.751555  618920022.938578  610999238.435344  368649286.823524
+Net Income From Continuing And Discontinued Operation            361685000.0       528230000.0       615903000.0       405046000.0
+Total Expenses                                                  8651000000.0     10136670000.0     12791737000.0      7748141000.0
+Diluted Average Shares                                           114489000.0       114489000.0       115492000.0       115235000.0
+Basic Average Shares                                             114489000.0       114489000.0       114489000.0       114489000.0
+Diluted EPS                                                             3.14              4.58              5.33              3.51
+Basic EPS                                                               3.16              4.61              5.38              3.54
+Diluted NI Availto Com Stockholders                              361685000.0       528230000.0       615903000.0       405046000.0
+Net Income Common Stockholders                                   361685000.0       528230000.0       615903000.0       405046000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       361685000.0       528230000.0       615903000.0       405046000.0
+Minority Interests                                                11241000.0       -68770000.0      -167958000.0       -72787000.0
+Net Income Including Noncontrolling Interests                    350444000.0       597000000.0       783861000.0       477833000.0
+Net Income Discontinuous Operations                              -16494000.0       -78559000.0               NaN               NaN
+Net Income Continuous Operations                                 366938000.0       675559000.0       783861000.0       477833000.0
+Tax Provision                                                    140346000.0       188226000.0       202247000.0       135844000.0
+Pretax Income                                                    507284000.0       863785000.0       986108000.0       613677000.0
+Other Non Operating Income Expenses                                8280000.0        72183000.0       481600000.0       -24620000.0
+Special Income Charges                                            11614000.0       -15511000.0         6169000.0        46744000.0
+Write Off                                                        -11614000.0        15511000.0        -6169000.0       -46744000.0
+Net Non Operating Interest Income Expense                        -45782000.0       -48104000.0       -22104000.0        -9828000.0
+Interest Expense Non Operating                                    59140000.0        53890000.0        24776000.0        15178000.0
+Interest Income Non Operating                                     13358000.0         5786000.0         2672000.0         5350000.0
+Operating Income                                                 533172000.0       855217000.0       520443000.0       601381000.0
+Operating Expense                                               1901841000.0      1886912000.0      2021727000.0      1507718000.0
+Research And Development                                         460534000.0       462335000.0       430347000.0       405350000.0
+Selling General And Administration                              1441307000.0      1424577000.0      1591380000.0      1102368000.0
+Selling And Marketing Expense                                    953343000.0       961301000.0      1184807000.0       746508000.0
+General And Administrative Expense                               487964000.0       463276000.0       406573000.0       355860000.0
+Gross Profit                                                    2435013000.0      2742129000.0      2542170000.0      2109099000.0
+Cost Of Revenue                                                 6749159000.0      8249758000.0     10770010000.0      6240423000.0
+Total Revenue                                                   9184172000.0     10991887000.0     13312180000.0      8349522000.0
+Operating Revenue                                               9184172000.0     10991887000.0     13312180000.0      8349522000.0

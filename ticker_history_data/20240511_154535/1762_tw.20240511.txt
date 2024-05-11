@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 1 Tung-Hsing Street
+address2	Shu-Lin District
+city	New Taipei City
+zip	23850
+country	Taiwan
+phone	886 2 8684 3318
+fax	886 8 6843 202
+website	https://www.ccsb.com.tw
+industry	Biotechnology
+industryKey	biotechnology
+industryDisp	Biotechnology
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Chunghwa Chemical Synthesis & Biotech Co., Ltd. engages in the research, development, manufacture, and sale of active pharmaceutical ingredients (APIs) in Taiwan and the United States. It offers API products, which include immunosuppressant, oncology, anti-virus, immunomodulating agents, and other products, as well as peptide drugs. The company also develops bulk pharmaceutical products, such as anti-anxiety agents, antidiabetics, laxatives, antifungals, antihistamines, antiseptics, antiulcerants, cardiovascular drugs, skeletal, muscle relaxants, hypolipaemics, antineoplastic, antihyperlipedemias, and immunosuppressant products, as well as provides research and development, and contract manufacturing services to new drug developers and generic drug companies. The company was formerly known as China Chemical Synthesis Industry Co., Ltd. Chunghwa Chemical Synthesis & Biotech Co., Ltd. was founded in 1964 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chung-Hsin  Huang', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan-Chieh  Wang', 'title': 'Manager of Finance & Treasury Dept., and Head of Accounting & Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-Jie  Liao', 'title': 'Manager of Human Resource Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Sheng  Hong', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	46.2
+open	46.2
+dayLow	46.2
+dayHigh	47.3
+regularMarketPreviousClose	46.2
+regularMarketOpen	46.2
+regularMarketDayLow	46.2
+regularMarketDayHigh	47.3
+dividendRate	1.3
+dividendYield	0.0275
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	0.38349998
+fiveYearAvgDividendYield	2.21
+beta	0.733
+trailingPE	13.952802
+forwardPE	17.649254
+volume	248297
+regularMarketVolume	248297
+averageVolume	285297
+averageVolume10days	144082
+averageDailyVolume10Day	144082
+bid	47.55
+ask	47.3
+marketCap	3668588032
+fiftyTwoWeekLow	43.6
+fiftyTwoWeekHigh	101.0
+priceToSalesTrailing12Months	1.7582995
+fiftyDayAverage	47.849
+twoHundredDayAverage	55.3175
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.017316017
+currency	TWD
+enterpriseValue	4606849024
+profitMargins	0.12697
+floatShares	55985135
+sharesOutstanding	77560000
+heldPercentInsiders	0.40914002
+heldPercentInstitutions	0.01862
+impliedSharesOutstanding	77643504
+bookValue	43.195
+priceToBook	1.0950341
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.365
+netIncomeToCommon	264908992
+trailingEps	3.39
+forwardEps	2.68
+enterpriseToRevenue	2.208
+enterpriseToEbitda	9.723
+52WeekChange	-0.49139786
+SandP52WeekChange	0.26265144
+lastDividendValue	1.3
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1762.TW
+underlyingSymbol	1762.TW
+shortName	CHUNGHWA CHEMICAL SYNTHESIS BIO
+longName	Chunghwa Chemical Synthesis & Biotech Co., Ltd.
+firstTradeDateEpochUtc	1292806800	 (2010-12-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9588a935-52c7-3ccc-8031-67a9162f76cc
+messageBoardId	finmb_42915199
+gmtOffSetMilliseconds	28800000
+currentPrice	47.3
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	269568992
+totalCashPerShare	3.476
+ebitda	473814016
+totalDebt	1207830016
+quickRatio	0.634
+currentRatio	2.15
+totalRevenue	2086440960
+debtToEquity	36.052
+revenuePerShare	26.901
+returnOnAssets	0.03605
+returnOnEquity	0.080970004
+freeCashflow	-647701248
+operatingCashflow	-66274000
+earningsGrowth	-0.36
+revenueGrowth	-0.16
+grossMargins	0.36297
+ebitdaMargins	0.22709
+operatingMargins	0.11703
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0    3684850.849898   -3559891.391503           0.0
+Tax Rate For Calcs                                              0.205639          0.200864          0.194052      0.181815
+Normalized EBITDA                                            545931000.0       743721000.0       651272000.0   786208000.0
+Total Unusual Items                                                  0.0        18345000.0       -18345000.0           0.0
+Total Unusual Items Excluding Goodwill                               0.0        18345000.0       -18345000.0           0.0
+Net Income From Continuing Operation Net Minority Interest   264909000.0       465865000.0       400778000.0   531873000.0
+Reconciled Depreciation                                      193005000.0       169049000.0       131993000.0   131154000.0
+Reconciled Cost Of Revenue                                  1329133000.0      1155387000.0       985314000.0   856836000.0
+EBITDA                                                       545931000.0       762066000.0       632927000.0   786208000.0
+EBIT                                                         352926000.0       593017000.0       500934000.0   655054000.0
+Net Interest Income                                          -12168000.0        -5205000.0        -3140000.0    -4333000.0
+Interest Expense                                              19439000.0         9712000.0         3321000.0     4757000.0
+Interest Income                                                7271000.0         4507000.0          181000.0      424000.0
+Normalized Income                                            264909000.0  451204850.849898  415563108.608497   531873000.0
+Net Income From Continuing And Discontinued Operation        264909000.0       465865000.0       400778000.0   531873000.0
+Total Expenses                                              1805632000.0      1671957000.0      1477882000.0  1274669000.0
+Diluted Average Shares                                               NaN        78500000.0        78318000.0    78331000.0
+Basic Average Shares                                                 NaN        77560000.0        77560000.0    77560000.0
+Diluted EPS                                                          NaN              5.93              5.12          6.79
+Basic EPS                                                            NaN              6.01              5.17          6.86
+Diluted NI Availto Com Stockholders                          264909000.0       465865000.0       400778000.0   531873000.0
+Net Income Common Stockholders                               264909000.0       465865000.0       400778000.0   531873000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0           0.0
+Net Income                                                   264909000.0       465865000.0       400778000.0   531873000.0
+Minority Interests                                                   0.0         -275000.0         -272000.0     -190000.0
+Net Income Including Noncontrolling Interests                264909000.0       466140000.0       401050000.0   532063000.0
+Net Income Continuous Operations                             264909000.0       466140000.0       401050000.0   532063000.0
+Tax Provision                                                 68578000.0       117165000.0        96563000.0   118234000.0
+Pretax Income                                                333487000.0       583305000.0       497613000.0   650297000.0
+Other Non Operating Income Expenses                           28340000.0        73878000.0        12178000.0   347814000.0
+Special Income Charges                                               0.0        18345000.0       -18345000.0           0.0
+Write Off                                                            0.0       -18345000.0        18345000.0           0.0
+Net Non Operating Interest Income Expense                    -12168000.0        -5205000.0        -3140000.0    -4333000.0
+Interest Expense Non Operating                                19439000.0         9712000.0         3321000.0     4757000.0
+Interest Income Non Operating                                  7271000.0         4507000.0          181000.0      424000.0
+Operating Income                                             280809000.0       445187000.0       456820000.0   268920000.0
+Operating Expense                                            476499000.0       516570000.0       492568000.0   417833000.0
+Research And Development                                     242696000.0       244789000.0       252674000.0   215729000.0
+Selling General And Administration                           233803000.0       271781000.0       239894000.0   202104000.0
+Selling And Marketing Expense                                129176000.0       162468000.0       144667000.0   109696000.0
+General And Administrative Expense                           104627000.0       109313000.0        95227000.0    92408000.0
+Gross Profit                                                 757308000.0       961757000.0       949388000.0   686753000.0
+Cost Of Revenue                                             1329133000.0      1155387000.0       985314000.0   856836000.0
+Total Revenue                                               2086441000.0      2117144000.0      1934702000.0  1543589000.0
+Operating Revenue                                           2086441000.0      2117144000.0      1934702000.0  1543589000.0

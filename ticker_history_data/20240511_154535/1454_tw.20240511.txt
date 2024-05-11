@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 70-1 Xinung North Road
+address2	8th Floor Datong District
+city	Taipei
+zip	103601
+country	Taiwan
+phone	886 2 2556 8282
+website	https://www.ttfco.com
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Taiwan Taffeta Fabric Co., Ltd. engages in the production and sale of polyester fabrics in Taiwan. The company offers textured yarn products, including monofilament and multifilament yarns; and polyester, nylon, interwoven/blended, and recycled materials, as well as specialty fabrics, such as jacquard, triple cloth, and heavy fabrics. It also provides functional fabrics comprising moisture wicking, waterproof and breathable, stretch, thermal, cooling, anti-odor and antibacterial, skin-friendly and comfort, and UV cut fabrics. The company's products are used in smart casual, urban outdoor, and furniture and bedding applications. Taiwan Taffeta Fabric Co., Ltd. was founded in 1973 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yaoming  Zhuang', 'title': 'GM & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.5
+open	15.7
+dayLow	15.4
+dayHigh	15.7
+regularMarketPreviousClose	15.5
+regularMarketOpen	15.7
+regularMarketDayLow	15.4
+regularMarketDayHigh	15.7
+dividendRate	0.25
+dividendYield	0.016
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	0.7143
+fiveYearAvgDividendYield	2.51
+trailingPE	44.57143
+volume	68400
+regularMarketVolume	68400
+averageVolume	47502
+averageVolume10days	59489
+averageDailyVolume10Day	59489
+bid	15.45
+ask	15.55
+marketCap	1905072000
+fiftyTwoWeekLow	14.8
+fiftyTwoWeekHigh	19.65
+priceToSalesTrailing12Months	1.2372285
+fiftyDayAverage	15.942
+twoHundredDayAverage	16.66325
+trailingAnnualDividendRate	0.25
+trailingAnnualDividendYield	0.016129032
+currency	TWD
+enterpriseValue	1596451456
+profitMargins	0.02713
+floatShares	97243327
+sharesOutstanding	122120000
+heldPercentInsiders	0.47708
+impliedSharesOutstanding	123321000
+bookValue	13.285
+priceToBook	1.1742567
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	41771000
+trailingEps	0.35
+lastSplitFactor	1.05:1
+lastSplitDate	1316044800	 (2011-09-15 08:00:00)
+enterpriseToRevenue	1.037
+enterpriseToEbitda	30.266
+52WeekChange	0.016286612
+SandP52WeekChange	0.26265144
+lastDividendValue	0.25
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1454.TW
+underlyingSymbol	1454.TW
+shortName	TAIWAN TAFFETA FABRIC
+longName	Taiwan Taffeta Fabric Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cd1bf9bb-f276-35d9-8864-fca6e387a48b
+messageBoardId	finmb_9637562
+gmtOffSetMilliseconds	28800000
+currentPrice	15.6
+recommendationKey	none
+totalCash	444592000
+totalCashPerShare	3.713
+ebitda	52748000
+totalDebt	173210000
+quickRatio	1.626
+currentRatio	3.065
+totalRevenue	1539789952
+debtToEquity	10.889
+revenuePerShare	12.182
+returnOnAssets	-0.00667
+returnOnEquity	0.02649
+freeCashflow	44809000
+operatingCashflow	104109000
+revenueGrowth	0.072
+grossMargins	0.093109995
+ebitdaMargins	0.03426
+operatingMargins	-0.00987
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    2989800.0   -360011.053425       99800.0    -77265.565438
+Tax Rate For Calcs                                                   0.2         0.326097           0.2         0.351207
+Normalized EBITDA                                             83287000.0      122076000.0    66159000.0       13037000.0
+Total Unusual Items                                           14949000.0       -1104000.0      499000.0        -220000.0
+Total Unusual Items Excluding Goodwill                        14949000.0       -1104000.0      499000.0        -220000.0
+Net Income From Continuing Operation Net Minority Interest    19536000.0       32190000.0     5133000.0      -38296000.0
+Reconciled Depreciation                                       79648000.0       71961000.0    66143000.0       69895000.0
+Reconciled Cost Of Revenue                                  1374396000.0     1607171000.0  1446530000.0     1173098000.0
+EBITDA                                                        98236000.0      120972000.0    66658000.0       12817000.0
+EBIT                                                          18588000.0       49011000.0      515000.0      -57078000.0
+Net Interest Income                                            5191000.0        -347000.0     -979000.0       -1813000.0
+Interest Expense                                               2180000.0        1243000.0     2040000.0        1947000.0
+Interest Income                                                7371000.0         896000.0     1061000.0         134000.0
+Normalized Income                                              7576800.0  32933988.946575     4733800.0 -38153265.565438
+Net Income From Continuing And Discontinued Operation         19536000.0       32190000.0     5133000.0      -38296000.0
+Total Expenses                                              1535918000.0     1767053000.0  1586147000.0     1301507000.0
+Diluted Average Shares                                       122155000.0      122196000.0   122120000.0      123390000.0
+Basic Average Shares                                         122120000.0      122120000.0   122120000.0      123390000.0
+Diluted EPS                                                         0.16             0.26          0.04            -0.31
+Basic EPS                                                           0.16             0.26          0.04            -0.31
+Diluted NI Availto Com Stockholders                           19536000.0       32190000.0     5133000.0      -38296000.0
+Net Income Common Stockholders                                19536000.0       32190000.0     5133000.0      -38296000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0           0.0              0.0
+Net Income                                                    19536000.0       32190000.0     5133000.0      -38296000.0
+Minority Interests                                               -1000.0          -1000.0           0.0          -1000.0
+Net Income Including Noncontrolling Interests                 19537000.0       32191000.0     5133000.0      -38295000.0
+Net Income Continuous Operations                              19537000.0       32191000.0     5133000.0      -38295000.0
+Tax Provision                                                 -3129000.0       15577000.0    -6658000.0      -20730000.0
+Pretax Income                                                 16408000.0       47768000.0    -1525000.0      -59025000.0
+Other Non Operating Income Expenses                           13174000.0        6604000.0     8866000.0       38354000.0
+Special Income Charges                                         -417000.0        -369000.0     -136000.0         -85000.0
+Write Off                                                       417000.0         369000.0      136000.0          85000.0
+Net Non Operating Interest Income Expense                      5191000.0        -347000.0     -979000.0       -1813000.0
+Interest Expense Non Operating                                 2180000.0        1243000.0     2040000.0        1947000.0
+Interest Income Non Operating                                  7371000.0         896000.0     1061000.0         134000.0
+Operating Income                                             -22375000.0       29227000.0   -11328000.0      -96579000.0
+Operating Expense                                            161522000.0      159882000.0   139617000.0      128409000.0
+Other Operating Expenses                                        632000.0        -989000.0      555000.0         435000.0
+Research And Development                                       9907000.0        8787000.0     8763000.0        8721000.0
+Selling General And Administration                           150983000.0      152084000.0   130299000.0      119253000.0
+Selling And Marketing Expense                                 86335000.0       90380000.0    75561000.0       66418000.0
+General And Administrative Expense                            64648000.0       61704000.0    54738000.0       52835000.0
+Gross Profit                                                 139147000.0      189109000.0   128289000.0       31830000.0
+Cost Of Revenue                                             1374396000.0     1607171000.0  1446530000.0     1173098000.0
+Total Revenue                                               1513543000.0     1796280000.0  1574819000.0     1204928000.0
+Operating Revenue                                           1513543000.0     1796280000.0  1574819000.0     1204928000.0

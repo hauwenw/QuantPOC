@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 5, Taiyuan 1st Street
+address2	11F-1 Hsinchu County
+city	Zhubei City
+zip	302
+country	Taiwan
+phone	886 3 552 6500
+fax	886 3 552 6501
+website	https://www.sitronix.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Sitronix Technology Corporation, a fabless semiconductor company, offers display driver integrated circuits (ICs). It offers industrial display driver ICs, automotive display driver ICs, projected capacitive touch controller ICs, and medium-size TFT-LCD driver ICs, as well as alternator regulators. The company also provides AIoT device display driver chip solutions for smart home, medical, and wearable mobile device applications. It sells its products in Africa, Latin America, Southeast Asia, and other regions. Sitronix Technology Corporation was incorporated in 1992 and is headquartered in Zhubei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ying Wen  Mao', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Fang  Hsu', 'title': 'Head of Finance & Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Meng-Huang  Liu', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'T. F. Mao', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Sheng  Lin', 'title': 'C.R.O', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. I-Hsi  Cheng', 'title': 'Director & CRO', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.sitronix.com.tw/Chinese/investor.htm
+maxAge	86400
+priceHint	2
+previousClose	269.0
+open	269.0
+dayLow	265.0
+dayHigh	271.0
+regularMarketPreviousClose	269.0
+regularMarketOpen	269.0
+regularMarketDayLow	265.0
+regularMarketDayHigh	271.0
+dividendRate	22.0
+dividendYield	0.081499994
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	1.4785
+fiveYearAvgDividendYield	6.66
+beta	0.718
+trailingPE	18.14516
+forwardPE	6.2951736
+volume	1026477
+regularMarketVolume	1026477
+averageVolume	1568257
+averageVolume10days	716554
+averageDailyVolume10Day	716554
+bid	269.5
+ask	270.5
+marketCap	32273369088
+fiftyTwoWeekLow	206.0
+fiftyTwoWeekHigh	323.0
+priceToSalesTrailing12Months	1.9298917
+fiftyDayAverage	287.02
+twoHundredDayAverage	277.8
+trailingAnnualDividendRate	12.0
+trailingAnnualDividendYield	0.044609666
+currency	TWD
+enterpriseValue	27153369088
+profitMargins	0.11113
+floatShares	104380358
+sharesOutstanding	119531000
+heldPercentInsiders	0.11350001
+heldPercentInstitutions	0.38406
+impliedSharesOutstanding	120410000
+bookValue	91.986
+priceToBook	2.9352293
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.167
+netIncomeToCommon	1858340992
+trailingEps	14.88
+forwardEps	42.89
+lastSplitFactor	1.01999:1
+lastSplitDate	1281571200	 (2010-08-12 08:00:00)
+enterpriseToRevenue	1.624
+enterpriseToEbitda	9.571
+52WeekChange	0.25581396
+SandP52WeekChange	0.26265144
+lastDividendValue	22.0
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8016.TW
+underlyingSymbol	8016.TW
+shortName	SITRONIX TECHNOLOGY CORP
+longName	Sitronix Technology Corporation
+firstTradeDateEpochUtc	1072314000	 (2003-12-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f824982a-1f0f-3399-a1e0-16c7f007e10d
+messageBoardId	finmb_9638168
+gmtOffSetMilliseconds	28800000
+currentPrice	270.0
+recommendationKey	none
+totalCash	8871585792
+totalCashPerShare	74.22
+ebitda	2837099008
+totalDebt	151788992
+quickRatio	2.318
+currentRatio	3.176
+totalRevenue	16722890752
+debtToEquity	1.04
+revenuePerShare	139.523
+returnOnAssets	0.07915
+returnOnEquity	0.16461
+freeCashflow	2380261120
+operatingCashflow	4298216960
+earningsGrowth	0.174
+revenueGrowth	0.177
+grossMargins	0.34167
+ebitdaMargins	0.16965
+operatingMargins	0.15115
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     172188.757104     -130163.972155        -427.376719
+Tax Rate For Calcs                                                   0.171503           0.153314           0.142459
+Normalized EBITDA                                                5513415000.0       8720487000.0       2855665000.0
+Total Unusual Items                                                 1004000.0          -849000.0            -3000.0
+Total Unusual Items Excluding Goodwill                              1004000.0          -849000.0            -3000.0
+Net Income From Continuing Operation Net Minority Interest       3610165000.0       6005760000.0       1384818000.0
+Reconciled Depreciation                                           404022000.0        360743000.0        324942000.0
+Reconciled Cost Of Revenue                                       9773803000.0       9904534000.0       9018737000.0
+EBITDA                                                           5514419000.0       8719638000.0       2855662000.0
+EBIT                                                             5110397000.0       8358895000.0       2530720000.0
+Net Interest Income                                                93546000.0         45774000.0         36604000.0
+Interest Expense                                                    3919000.0          5123000.0          7094000.0
+Interest Income                                                    97465000.0         50897000.0         43698000.0
+Normalized Income                                           3609333188.757104  6006478836.027845  1384820572.623281
+Net Income From Continuing And Discontinued Operation            3610165000.0       6005760000.0       1384818000.0
+Total Expenses                                                  13286307000.0      14097924000.0      11421511000.0
+Diluted Average Shares                                            122092000.0        121839000.0        121055000.0
+Basic Average Shares                                              119928000.0        120036000.0        120131000.0
+Diluted EPS                                                             29.57              49.29              11.44
+Basic EPS                                                                30.1              50.03              11.53
+Diluted NI Availto Com Stockholders                              3610165000.0       6005760000.0       1384818000.0
+Net Income Common Stockholders                                   3610165000.0       6005760000.0       1384818000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0
+Net Income                                                       3610165000.0       6005760000.0       1384818000.0
+Minority Interests                                               -620538000.0      -1067258000.0       -779295000.0
+Net Income Including Noncontrolling Interests                    4230703000.0       7073018000.0       2164113000.0
+Net Income Continuous Operations                                 4230703000.0       7073018000.0       2164113000.0
+Tax Provision                                                     875775000.0       1280754000.0        359513000.0
+Pretax Income                                                    5106478000.0       8353772000.0       2523626000.0
+Other Non Operating Income Expenses                               270408000.0        151101000.0        103974000.0
+Special Income Charges                                              1004000.0          -849000.0            -3000.0
+Write Off                                                          -1004000.0           849000.0             3000.0
+Net Non Operating Interest Income Expense                          93546000.0         45774000.0         36604000.0
+Interest Expense Non Operating                                      3919000.0          5123000.0          7094000.0
+Interest Income Non Operating                                      97465000.0         50897000.0         43698000.0
+Operating Income                                                 4741520000.0       8157746000.0       2383051000.0
+Operating Expense                                                3512504000.0       4193390000.0       2402774000.0
+Other Operating Expenses                                           -1339000.0         -8448000.0        -92524000.0
+Research And Development                                         2502919000.0       2928328000.0       1677211000.0
+Selling General And Administration                               1010924000.0       1273510000.0        818087000.0
+Selling And Marketing Expense                                     316064000.0        423043000.0        257452000.0
+General And Administrative Expense                                694860000.0        850467000.0        560635000.0
+Gross Profit                                                     8254024000.0      12351136000.0       4785825000.0
+Cost Of Revenue                                                  9773803000.0       9904534000.0       9018737000.0
+Total Revenue                                                   18027827000.0      22255670000.0      13804562000.0
+Operating Revenue                                               18027827000.0      22255670000.0      13804562000.0

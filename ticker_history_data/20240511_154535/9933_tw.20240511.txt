@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	89, Zhongshan North Road
+address2	Section 6
+city	Taipei
+zip	111046
+country	Taiwan
+phone	886 2 2833 9999
+fax	886 2 2833 8833
+website	https://www.ctci.com
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	CTCI Corporation engages in designing, surveying, construction, and inspection of engineering and construction plants, machinery and equipment, and environmental protection projects. The company operates through Construction Engineering Department, Environmental Resource Department, Sales Department, and Other Operating Departments segments. It offers services, such as project management; feasibility study and front-end engineering design; engineering; procurement; fabrication; construction; commissioning; intelligent solutions; automation and control; clean room and mechanical, electrical, and plumbing engineering solutions; intelligent structure jacking and movement; ground freezing; and operations and maintenance services. The company also provides stationery equipment, including pressure vessels; piping pre-fabrication and heat exchangers; prefabricated parts of package equipment; and assists with engineering works comprising basic design, equipment sizing, engineering, and shop drawings; and performs equipment inspection/revamping, plant shut-down inspection, and plant maintenance works. In addition, it offers chemical additives consisting of antifouling agents, anti-polymerization additives, and corrosion inhibitors for petrochemical plants; antifoam, antifouling, and emulsion breaking additives, as well as corrosion inhibitors for refinery plants; and heavy metal chelate agents, heavy metal stabilizers, boiler water treatment additives, and active carbon products for incineration plants. Further, the company provides intelligent energy management system, an integrated software that monitors, analyzes, adjusts, and manages energy consumption. It serves the hydrocarbon, petrochemical, power, environmental, refinery, transportation, technology facility, and industrial markets, as well as LNG receiving terminals. It operates in Middle East, China, the United States, Southeast Asia, and India. CTCI Corporation was incorporation in 1979 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yixian  Li', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Shyan  Lee', 'title': 'President & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melissa  Liu', 'title': 'Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ai-Cheng  Ho', 'title': 'VP & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Gino  Tsai', 'title': 'VP & Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yin-Fan  Liu', 'title': 'VP, Chief Legal Officer & Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'James  Wang', 'title': 'VP and Head of Marketing & Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min-Li  Lee', 'title': 'Senior VP & Head of EPC Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Chu  Hung', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Wei  Chung', 'title': 'Senior VP & Head of Hydrocarbon Business Operations', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.ctci.com.tw/WWW/CTCI/ctci_003/message.aspx
+maxAge	86400
+priceHint	2
+previousClose	47.55
+open	47.95
+dayLow	47.9
+dayHigh	48.75
+regularMarketPreviousClose	47.55
+regularMarketOpen	47.95
+regularMarketDayLow	47.9
+regularMarketDayHigh	48.75
+dividendRate	1.9
+dividendYield	0.038900003
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	0.7707
+fiveYearAvgDividendYield	5.29
+beta	0.173
+trailingPE	19.817072
+forwardPE	13.069705
+volume	4947179
+regularMarketVolume	4947179
+averageVolume	4726198
+averageVolume10days	8207457
+averageDailyVolume10Day	8207457
+bid	48.7
+ask	48.75
+marketCap	39389511680
+fiftyTwoWeekLow	38.6
+fiftyTwoWeekHigh	54.5
+priceToSalesTrailing12Months	0.38047498
+fiftyDayAverage	47.379
+twoHundredDayAverage	42.80375
+trailingAnnualDividendRate	2.06
+trailingAnnualDividendYield	0.043322816
+currency	TWD
+enterpriseValue	40549507072
+profitMargins	0.01827
+floatShares	579199234
+sharesOutstanding	807990016
+heldPercentInsiders	0.27907
+heldPercentInstitutions	0.17591
+impliedSharesOutstanding	814702976
+bookValue	22.462
+priceToBook	2.1703322
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.325
+netIncomeToCommon	1891315968
+trailingEps	2.46
+forwardEps	3.73
+pegRatio	1.18
+lastSplitFactor	101.2:100
+lastSplitDate	1219881600	 (2008-08-28 08:00:00)
+enterpriseToRevenue	0.392
+enterpriseToEbitda	9.937
+52WeekChange	0.19485295
+SandP52WeekChange	0.26265144
+lastDividendValue	1.896001
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9933.TW
+underlyingSymbol	9933.TW
+shortName	CTCI CORP
+longName	CTCI Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f81d9584-89f2-345d-a8e8-e89ba8417135
+messageBoardId	finmb_4483758
+gmtOffSetMilliseconds	28800000
+currentPrice	48.75
+targetHighPrice	55.0
+targetLowPrice	51.0
+targetMeanPrice	53.0
+targetMedianPrice	53.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	32010702848
+totalCashPerShare	39.888
+ebitda	4080782080
+totalDebt	28684998656
+quickRatio	1.001
+currentRatio	1.079
+totalRevenue	103527202816
+debtToEquity	125.928
+revenuePerShare	130.933
+returnOnAssets	0.02007
+returnOnEquity	0.12800999
+freeCashflow	1417163648
+operatingCashflow	2963016960
+earningsGrowth	0.291
+revenueGrowth	0.154
+grossMargins	0.05175
+ebitdaMargins	0.039419997
+operatingMargins	0.02375
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                  -51751679.776794      625221.550001            0.0            0.0
+Tax Rate For Calcs                                                   0.184587           0.175772       0.207849        0.26013
+Normalized EBITDA                                                5747885000.0       5448510000.0   4460177000.0   3077307000.0
+Total Unusual Items                                              -280364000.0          3557000.0            NaN            NaN
+Total Unusual Items Excluding Goodwill                           -280364000.0          3557000.0            NaN            NaN
+Net Income From Continuing Operation Net Minority Interest       1891316000.0       2379298000.0   1642175000.0    766548000.0
+Reconciled Depreciation                                          1217092000.0       1161636000.0   1149177000.0   1028818000.0
+Reconciled Cost Of Revenue                                      98169881000.0      89720344000.0  66538507000.0  51914759000.0
+EBITDA                                                           5467521000.0       5452067000.0   4460177000.0   3077307000.0
+EBIT                                                             4250429000.0       4290431000.0   3311000000.0   2048489000.0
+Net Interest Income                                              -395835000.0       -172074000.0   -177486000.0   -170195000.0
+Interest Expense                                                  748734000.0        322988000.0    277472000.0    284469000.0
+Interest Income                                                   352899000.0        150914000.0     99986000.0    114274000.0
+Normalized Income                                           2119928320.223206  2376366221.550001   1642175000.0    766548000.0
+Net Income From Continuing And Discontinued Operation            1891316000.0       2379298000.0   1642175000.0    766548000.0
+Total Expenses                                                  99967878000.0      91559092000.0  68365167000.0  53501130000.0
+Diluted Average Shares                                            803248000.0        786271000.0    763795000.0    762741000.0
+Basic Average Shares                                              790686000.0        776193000.0    762316000.0    762074000.0
+Diluted EPS                                                              2.35               3.03           2.15            1.0
+Basic EPS                                                                2.39               3.07           2.15           1.01
+Diluted NI Availto Com Stockholders                              1891316000.0       2379298000.0   1642175000.0    766548000.0
+Net Income Common Stockholders                                   1891316000.0       2379298000.0   1642175000.0    766548000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0            0.0            0.0
+Net Income                                                       1891316000.0       2379298000.0   1642175000.0    766548000.0
+Minority Interests                                               -964010000.0       -890779000.0   -760836000.0   -538598000.0
+Net Income Including Noncontrolling Interests                    2855326000.0       3270077000.0   2403011000.0   1305146000.0
+Net Income Continuous Operations                                 2855326000.0       3270077000.0   2403011000.0   1305146000.0
+Tax Provision                                                     646369000.0        697366000.0    630517000.0    458874000.0
+Pretax Income                                                    3501695000.0       3967443000.0   3033528000.0   1764020000.0
+Other Non Operating Income Expenses                               192477000.0        344142000.0    813525000.0    -29268000.0
+Special Income Charges                                           -280364000.0          3557000.0            NaN            NaN
+Write Off                                                         280364000.0         -3557000.0            NaN            NaN
+Net Non Operating Interest Income Expense                        -395835000.0       -172074000.0   -177486000.0   -170195000.0
+Interest Expense Non Operating                                    748734000.0        322988000.0    277472000.0    284469000.0
+Interest Income Non Operating                                     352899000.0        150914000.0     99986000.0    114274000.0
+Operating Income                                                 3559323000.0       3541476000.0   2175247000.0   2057279000.0
+Operating Expense                                                1797997000.0       1838748000.0   1826660000.0   1586371000.0
+Research And Development                                          132252000.0        136925000.0    124999000.0    113706000.0
+Selling General And Administration                               1665745000.0       1701823000.0   1701661000.0   1472665000.0
+General And Administrative Expense                               1665745000.0       1701823000.0   1701661000.0   1472665000.0
+Gross Profit                                                     5357320000.0       5380224000.0   4001907000.0   3643650000.0
+Cost Of Revenue                                                 98169881000.0      89720344000.0  66538507000.0  51914759000.0
+Total Revenue                                                  103527201000.0      95100568000.0  70540414000.0  55558409000.0
+Operating Revenue                                              103527201000.0      95100568000.0  70540414000.0  55558409000.0

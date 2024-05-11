@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 7-1, Jhongsing Road
+address2	Tucheng District
+city	New Taipei City
+zip	23678
+country	Taiwan
+phone	886 2 2268 0389
+fax	886 2 2268 1086
+website	https://www.gwinstek.com
+industry	Scientific & Technical Instruments
+industryKey	scientific-technical-instruments
+industryDisp	Scientific & Technical Instruments
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Good Will Instrument Co., Ltd. manufactures and markets electrical test and measurement instruments for educational and industrial manufacturing markets. It offers handheld oscilloscopes, digital storage oscilloscopes, and oscilloscope training kits; spectrum analyzers, RF training systems, and EMI solution packages; and signal generators comprising arbitrary function, RF signal, DDS function, and analog function generators, as well as other signal sources. The company also provides DC and AC power supplies, and DC and AC/DC electronic loads; bench-top and hand-held digital multi-meters, and digital clamp meters; LCR meters; safety, leakage current, and AC ground bond testers, as well as multiplex scanner boxes; data acquisition systems; and other meters comprising DC milli-Ohm meters, AC power meters, digital IC testers, precision current shunt and automatic distortion meter, AC millvolt meters, frequency counters, battery meters, and logic probe and pulsers. In addition, it offers accessories, such as oscilloscope, function generator, spectrum analyzer, power and load, and T & M accessories and racks; and power electronic modules and training systems. The company sells its products in approximately 80 countries worldwide. Good Will Instrument Co., Ltd. was founded in 1975 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chao Ming  Zhang', 'title': 'GM & Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jian Ming  Huang', 'title': 'Deputy General Manager of Overseas Sales Division and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yue Ru  Liao', 'title': 'Associate and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.8
+open	43.8
+dayLow	42.0
+dayHigh	43.8
+regularMarketPreviousClose	43.8
+regularMarketOpen	43.8
+regularMarketDayLow	42.0
+regularMarketDayHigh	43.8
+dividendRate	2.0
+dividendYield	0.047399998
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.6826
+fiveYearAvgDividendYield	5.72
+beta	0.294
+trailingPE	14.40273
+forwardPE	15.234657
+volume	1114845
+regularMarketVolume	1114845
+averageVolume	608226
+averageVolume10days	1395643
+averageDailyVolume10Day	1395643
+bid	42.15
+ask	42.2
+marketCap	6120984064
+fiftyTwoWeekLow	32.45
+fiftyTwoWeekHigh	48.5
+priceToSalesTrailing12Months	2.0875378
+fiftyDayAverage	42.215
+twoHundredDayAverage	37.985
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.0456621
+currency	TWD
+enterpriseValue	5939160576
+profitMargins	0.13205
+floatShares	130923774
+sharesOutstanding	145047008
+heldPercentInsiders	0.59064996
+heldPercentInstitutions	0.00882
+impliedSharesOutstanding	147528992
+bookValue	18.166
+priceToBook	2.323021
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+earningsQuarterlyGrowth	-0.062
+netIncomeToCommon	387195008
+trailingEps	2.93
+forwardEps	2.77
+lastSplitFactor	1050:1000
+lastSplitDate	1472601600	 (2016-08-31 08:00:00)
+enterpriseToRevenue	2.026
+enterpriseToEbitda	11.655
+52WeekChange	0.25408614
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2423.TW
+underlyingSymbol	2423.TW
+shortName	GOOD WILL INSTRUMENT
+longName	Good Will Instrument Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	83fe3149-9874-3a9b-b373-28b7ad000b03
+messageBoardId	finmb_8163462
+gmtOffSetMilliseconds	28800000
+currentPrice	42.2
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	524769984
+totalCashPerShare	3.618
+ebitda	509599008
+totalDebt	342947008
+quickRatio	1.357
+currentRatio	2.518
+totalRevenue	2932154880
+debtToEquity	13.015
+revenuePerShare	20.215
+returnOnAssets	0.073130004
+returnOnEquity	0.15038
+freeCashflow	336141376
+operatingCashflow	449468000
+earningsGrowth	-0.061
+revenueGrowth	-0.025
+grossMargins	0.50402
+ebitdaMargins	0.17379999
+operatingMargins	0.16489
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -661890.095163    -529548.879908     911173.458877    2068425.320078
+Tax Rate For Calcs                                                  0.228553          0.238643          0.284831          0.273457
+Normalized EBITDA                                                649642000.0       619170000.0       487360000.0       347446000.0
+Total Unusual Items                                               -2896000.0        -2219000.0         3199000.0         7564000.0
+Total Unusual Items Excluding Goodwill                            -2896000.0        -2219000.0         3199000.0         7564000.0
+Net Income From Continuing Operation Net Minority Interest       428271000.0       403724000.0       289537000.0       199070000.0
+Reconciled Depreciation                                           86213000.0        82904000.0        81991000.0        79029000.0
+Reconciled Cost Of Revenue                                      1467187000.0      1440023000.0      1280752000.0      1191144000.0
+EBITDA                                                           646746000.0       616951000.0       490559000.0       355010000.0
+EBIT                                                             560533000.0       534047000.0       408568000.0       275981000.0
+Net Interest Income                                               -5380000.0        -3778000.0        -3717000.0        -1985000.0
+Interest Expense                                                   5380000.0         3778000.0         3717000.0         1985000.0
+Normalized Income                                           430505109.904837  405413451.120092  287249173.458877  193574425.320078
+Net Income From Continuing And Discontinued Operation            428271000.0       403724000.0       289537000.0       199070000.0
+Total Expenses                                                  2478343000.0      2434433000.0      2232358000.0      2064750000.0
+Diluted Average Shares                                                   NaN       146651000.0       146205000.0       145847000.0
+Basic Average Shares                                                     NaN       145047000.0       145047000.0       145047000.0
+Diluted EPS                                                              NaN              2.75              1.98              1.36
+Basic EPS                                                                NaN              2.78               2.0              1.37
+Diluted NI Availto Com Stockholders                              428271000.0       403724000.0       289537000.0       199070000.0
+Net Income Common Stockholders                                   428271000.0       403724000.0       289537000.0       199070000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       428271000.0       403724000.0       289537000.0       199070000.0
+Minority Interests                                                       NaN               NaN               0.0               0.0
+Net Income Including Noncontrolling Interests                    428271000.0       403724000.0       289537000.0       199070000.0
+Net Income Continuous Operations                                 428271000.0       403724000.0       289537000.0       199070000.0
+Tax Provision                                                    126882000.0       126545000.0       115314000.0        74926000.0
+Pretax Income                                                    555153000.0       530269000.0       404851000.0       273996000.0
+Other Non Operating Income Expenses                               17323000.0        85114000.0        29506000.0        30818000.0
+Special Income Charges                                            -2896000.0        -2219000.0         3199000.0         7564000.0
+Write Off                                                          2896000.0         2219000.0        -3199000.0        -7564000.0
+Net Non Operating Interest Income Expense                         -5380000.0        -3778000.0        -3717000.0        -1985000.0
+Interest Expense Non Operating                                     5380000.0         3778000.0         3717000.0         1985000.0
+Operating Income                                                 546388000.0       451152000.0       376804000.0       241390000.0
+Operating Expense                                               1011156000.0       994410000.0       951606000.0       873606000.0
+Other Operating Expenses                                                 NaN               NaN               NaN           -2000.0
+Research And Development                                         244351000.0       240705000.0       221539000.0       194514000.0
+Selling General And Administration                               766805000.0       753705000.0       730067000.0       679094000.0
+Selling And Marketing Expense                                    475519000.0       468496000.0       464228000.0       439822000.0
+General And Administrative Expense                               291286000.0       285209000.0       265839000.0       239272000.0
+Gross Profit                                                    1557544000.0      1445562000.0      1328410000.0      1114996000.0
+Cost Of Revenue                                                 1467187000.0      1440023000.0      1280752000.0      1191144000.0
+Total Revenue                                                   3024731000.0      2885585000.0      2609162000.0      2306140000.0
+Operating Revenue                                               3024731000.0      2885585000.0      2609162000.0      2306140000.0

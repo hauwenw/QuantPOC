@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 296, Xinyi Road
+address2	3rd Floor Section 4 Da¡¦an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2706 2191
+website	https://www.heysong.com.tw
+industry	Beverages - Non-Alcoholic
+industryKey	beverages-non-alcoholic
+industryDisp	Beverages - Non - Alcoholic
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Hey Song Corporation produces, distributes, and sells beverages primarily in Taiwan. It offers carbonated drinks under the HeySong Sarsaparilla, C&C, and HeySong Soda brands; coffee under the Wincafe brand; tea under the HeySong ExploringTea, HeySong Camellia Green Tea, and HeySong Tea brands; and sports drinks under the HeySong FIN brand. The company also provides liqueur drinks under the CHOYA brand; sake under the Kuromatsu Hakushika Sake, Takashimizu, and KENBISHI brands; Chinese spirits under the 58 KinKao brand; and wine under the Hardys, EVO, Kumala, Banrock Station, Bocopa, Sgarzi Luigi, KOALA FOREST, Vina Del Pedregal, Huat-Guiraud, Hugo Casanova, Raymond Huet, Petaluma, Grant Burge, Arras, ST.Hallett, and PPB brands. In addition, it offers juices under the HeySong Juice and Oasis Juice brands; and water and Remy Cointreau products. Hey Song Corporation was founded in 1925 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chi-Chun  Chang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chu-Tsan  Du', 'title': 'Director of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Lun  LI', 'title': 'Director of Sales Division 1&2', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Chang  Chang', 'title': 'Special Assistant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Hsiu  Chien', 'title': 'Manager of General Affairs Department & Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.0
+open	43.1
+dayLow	42.85
+dayHigh	43.1
+regularMarketPreviousClose	43.0
+regularMarketOpen	43.1
+regularMarketDayLow	42.85
+regularMarketDayHigh	43.1
+dividendRate	1.9
+dividendYield	0.0442
+exDividendDate	1719792000	 (2024-07-01 08:00:00)
+payoutRatio	0.7725
+fiveYearAvgDividendYield	4.93
+beta	0.186
+trailingPE	18.454937
+volume	92845
+regularMarketVolume	92845
+averageVolume	187852
+averageVolume10days	186398
+averageDailyVolume10Day	186398
+bid	43.0
+ask	43.05
+marketCap	17280452608
+fiftyTwoWeekLow	36.75
+fiftyTwoWeekHigh	43.5
+priceToSalesTrailing12Months	1.6338573
+fiftyDayAverage	41.32
+twoHundredDayAverage	39.72575
+trailingAnnualDividendRate	1.9
+trailingAnnualDividendYield	0.044186044
+currency	TWD
+enterpriseValue	16435395584
+profitMargins	0.08968
+floatShares	269213383
+sharesOutstanding	401871008
+heldPercentInsiders	0.24004999
+heldPercentInstitutions	0.02421
+impliedSharesOutstanding	404216000
+bookValue	46.398
+priceToBook	0.92676413
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.09
+netIncomeToCommon	948446976
+trailingEps	2.33
+lastSplitFactor	0.75:1
+lastSplitDate	1383177600	 (2013-10-31 08:00:00)
+enterpriseToRevenue	1.554
+enterpriseToEbitda	15.764
+52WeekChange	0.1637348
+SandP52WeekChange	0.26265144
+lastDividendValue	1.9
+lastDividendDate	1719792000	 (2024-07-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1234.TW
+underlyingSymbol	1234.TW
+shortName	HEY SONG
+longName	Hey Song Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b44ebcb1-1e4c-3955-b017-a8657efe80ec
+messageBoardId	finmb_9571469
+gmtOffSetMilliseconds	28800000
+currentPrice	43.0
+recommendationKey	none
+totalCash	1614318976
+totalCashPerShare	4.017
+ebitda	1042609024
+totalDebt	769262016
+quickRatio	1.494
+currentRatio	4.669
+totalRevenue	10576476160
+debtToEquity	4.126
+revenuePerShare	26.318
+returnOnAssets	0.01972
+returnOnEquity	0.05128
+freeCashflow	539372352
+operatingCashflow	1287920000
+earningsGrowth	-0.074
+revenueGrowth	0.007
+grossMargins	0.2804
+ebitdaMargins	0.098579995
+operatingMargins	0.045110002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     21979.375809     354397.581354      76327.125293     139733.054839
+Tax Rate For Calcs                                                  0.207353          0.190127          0.204083          0.140013
+Normalized EBITDA                                               1563604000.0      1458398000.0      1365505000.0      1399953000.0
+Total Unusual Items                                                 106000.0         1864000.0          374000.0          998000.0
+Total Unusual Items Excluding Goodwill                              106000.0         1864000.0          374000.0          998000.0
+Net Income From Continuing Operation Net Minority Interest       948447000.0       886135000.0       796809000.0       890163000.0
+Reconciled Depreciation                                          350921000.0       352332000.0       355965000.0       353162000.0
+Reconciled Cost Of Revenue                                      7610784000.0      6879679000.0      6662016000.0      6569791000.0
+EBITDA                                                          1563710000.0      1460262000.0      1365879000.0      1400951000.0
+EBIT                                                            1212789000.0      1107930000.0      1009914000.0      1047789000.0
+Net Interest Income                                               -1788000.0        -6654000.0        -1837000.0        -5964000.0
+Interest Expense                                                  16233000.0        13764000.0         8793000.0        12700000.0
+Interest Income                                                   14445000.0         7110000.0         6956000.0         6736000.0
+Normalized Income                                           948362979.375809  884625397.581354  796511327.125293  889304733.054839
+Net Income From Continuing And Discontinued Operation            948447000.0       886135000.0       796809000.0       890163000.0
+Total Expenses                                                  9858606000.0      8965490000.0      8617308000.0      8590407000.0
+Diluted Average Shares                                           402208000.0       402247000.0       402204000.0       402241000.0
+Basic Average Shares                                             401871000.0       401871000.0       401871000.0       401871000.0
+Diluted EPS                                                             2.36               2.2              1.98              2.21
+Basic EPS                                                               2.36              2.21              1.98              2.22
+Diluted NI Availto Com Stockholders                              948447000.0       886135000.0       796809000.0       890163000.0
+Net Income Common Stockholders                                   948447000.0       886135000.0       796809000.0       890163000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       948447000.0       886135000.0       796809000.0       890163000.0
+Net Income Including Noncontrolling Interests                    948447000.0       886135000.0       796809000.0       890163000.0
+Net Income Continuous Operations                                 948447000.0       886135000.0       796809000.0       890163000.0
+Tax Provision                                                    248109000.0       208031000.0       204312000.0       144926000.0
+Pretax Income                                                   1196556000.0      1094166000.0      1001121000.0      1035089000.0
+Other Non Operating Income Expenses                              475875000.0       491744000.0       420139000.0       388876000.0
+Special Income Charges                                              106000.0         1864000.0          374000.0          998000.0
+Write Off                                                          -106000.0        -1864000.0         -374000.0         -998000.0
+Net Non Operating Interest Income Expense                         -1788000.0        -6654000.0        -1837000.0        -5964000.0
+Interest Expense Non Operating                                    16233000.0        13764000.0         8793000.0        12700000.0
+Interest Income Non Operating                                     14445000.0         7110000.0         6956000.0         6736000.0
+Operating Income                                                 717870000.0       593007000.0       605566000.0       614538000.0
+Operating Expense                                               2247822000.0      2085811000.0      1955292000.0      2020616000.0
+Research And Development                                          57512000.0        55731000.0        52053000.0        56594000.0
+Selling General And Administration                              2190310000.0      2030080000.0      1903239000.0      1964022000.0
+Selling And Marketing Expense                                   1488998000.0      1422698000.0      1329682000.0      1361175000.0
+General And Administrative Expense                               701312000.0       607382000.0       573557000.0       602847000.0
+Gross Profit                                                    2965692000.0      2678818000.0      2560858000.0      2635154000.0
+Cost Of Revenue                                                 7610784000.0      6879679000.0      6662016000.0      6569791000.0
+Total Revenue                                                  10576476000.0      9558497000.0      9222874000.0      9204945000.0
+Operating Revenue                                              10576476000.0      9558497000.0      9222874000.0      9204945000.0

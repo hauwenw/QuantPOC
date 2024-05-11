@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No.37, Ji-Hu Road
+address2	12th Floor Nei-Hu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8751 6888
+fax	886 2 2798 3260
+website	https://www.ttc.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Taita Chemical Company, Limited produces and sells styrenics in Taiwan, Hong Kong, Mainland China, Southeastern/Central Asia, Europe, and North America. The company operates through two segments, Plastic Raw Materials and Glass Wool. It offers acrylonitrile-butadiene-styrene resin, a terpolymer and styrene-acrylonitrile resin, a biopolymer under the TAITALAC brand; general purpose and high impact polystyrene resins under the TAITAREX brand name for use in food containers, CD cases, stationary, toys, insulation boards, business machines, electric and electrical appliances, and consumer goods; and expandable polystyrene resins under the TAITACELL brand name. The company also provides glass wool materials; and engages in cubic printing, a process for applying decorative pattern to 3-dimensional products in various applications, including auto parts, home electronic appliances, IT products, home decoration, sport goods, stationery and gifts, and others. Taita Chemical Company, Limited was incorporated in 1960 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yi-Gui  Wu', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1952, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Chi  Wu', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kai-Hui  Chuang', 'title': 'Head of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yen  Tai-Ming', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liang-Wei  Hsu', 'title': 'Head of Audit', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.2
+open	15.25
+dayLow	15.1
+dayHigh	15.3
+regularMarketPreviousClose	15.2
+regularMarketOpen	15.25
+regularMarketDayLow	15.1
+regularMarketDayHigh	15.3
+dividendRate	0.5
+dividendYield	0.0328
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	9.5238
+beta	0.72
+forwardPE	52.58621
+volume	792430
+regularMarketVolume	792430
+averageVolume	659161
+averageVolume10days	666124
+averageDailyVolume10Day	666124
+bid	15.25
+ask	15.3
+marketCap	6063201792
+fiftyTwoWeekLow	14.85
+fiftyTwoWeekHigh	21.0
+priceToSalesTrailing12Months	0.39875156
+fiftyDayAverage	15.576
+twoHundredDayAverage	16.78975
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.019736843
+currency	TWD
+enterpriseValue	4539453952
+profitMargins	-0.01799
+floatShares	236635831
+sharesOutstanding	397587008
+heldPercentInsiders	0.41255
+heldPercentInstitutions	0.0145000005
+impliedSharesOutstanding	400220000
+bookValue	16.721
+priceToBook	0.91202676
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-273536992
+trailingEps	-0.77
+forwardEps	0.29
+lastSplitFactor	1050:1000
+lastSplitDate	1658966400	 (2022-07-28 08:00:00)
+enterpriseToRevenue	0.299
+enterpriseToEbitda	-17.507
+52WeekChange	-0.21994883
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1309.TW
+underlyingSymbol	1309.TW
+shortName	TAITA CHEMICAL
+longName	Taita Chemical Company, Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2284a608-3f2b-3817-8850-7027673a402d
+messageBoardId	finmb_9870686
+gmtOffSetMilliseconds	28800000
+currentPrice	15.25
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2382507008
+totalCashPerShare	5.992
+ebitda	-259292992
+totalDebt	858758976
+quickRatio	2.241
+currentRatio	2.872
+totalRevenue	15205462016
+debtToEquity	12.918
+revenuePerShare	38.244
+returnOnAssets	-0.03201
+returnOnEquity	-0.03949
+freeCashflow	-584681344
+operatingCashflow	-243159008
+revenueGrowth	0.057
+grossMargins	0.02865
+ebitdaMargins	-0.01705
+operatingMargins	-0.025910001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    386240.650613    -542186.761307      392988.523928            0.0
+Tax Rate For Calcs                                                  0.209458          0.243024           0.231578         0.2265
+Normalized EBITDA                                               -112599000.0       762068000.0       2612411000.0   2708791000.0
+Total Unusual Items                                                1844000.0        -2231000.0          1697000.0            NaN
+Total Unusual Items Excluding Goodwill                             1844000.0        -2231000.0          1697000.0            NaN
+Net Income From Continuing Operation Net Minority Interest      -273537000.0       412078000.0       1849932000.0   1919818000.0
+Reconciled Depreciation                                          215407000.0       208628000.0        201501000.0    205799000.0
+Reconciled Cost Of Revenue                                     14769885000.0     16323674000.0      17385209000.0  12375109000.0
+EBITDA                                                          -110755000.0       759837000.0       2614108000.0   2708791000.0
+EBIT                                                            -326162000.0       551209000.0       2412607000.0   2502992000.0
+Net Interest Income                                               25240000.0        35602000.0         36690000.0     12049000.0
+Interest Expense                                                  19850000.0         6835000.0          5163000.0     21003000.0
+Interest Income                                                   45090000.0        42437000.0         41853000.0     33052000.0
+Normalized Income                                          -274994759.349387  413766813.238693  1848627988.523928   1919818000.0
+Net Income From Continuing And Discontinued Operation           -273537000.0       412078000.0       1849932000.0   1919818000.0
+Total Expenses                                                 15671703000.0     17856111000.0      18525490000.0  13076918000.0
+Diluted Average Shares                                                   NaN       397970000.0        398380000.0    398294400.0
+Basic Average Shares                                                     NaN       397587000.0        397587000.0    397586700.0
+Diluted EPS                                                              NaN              1.04               4.64       4.819048
+Basic EPS                                                                NaN              1.04               4.65       4.828571
+Diluted NI Availto Com Stockholders                             -273537000.0       412078000.0       1849932000.0   1919818000.0
+Net Income Common Stockholders                                  -273537000.0       412078000.0       1849932000.0   1919818000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0                0.0            0.0
+Net Income                                                      -273537000.0       412078000.0       1849932000.0   1919818000.0
+Net Income Including Noncontrolling Interests                   -273537000.0       412078000.0       1849932000.0   1919818000.0
+Net Income Continuous Operations                                -273537000.0       412078000.0       1849932000.0   1919818000.0
+Tax Provision                                                    -72475000.0       132296000.0        557512000.0    562171000.0
+Pretax Income                                                   -346012000.0       544374000.0       2407444000.0   2481989000.0
+Other Non Operating Income Expenses                              103500000.0       280654000.0         48494000.0     -8364000.0
+Special Income Charges                                             1844000.0        -2231000.0          1697000.0            NaN
+Write Off                                                         -1844000.0         2231000.0         -1697000.0            NaN
+Net Non Operating Interest Income Expense                         25240000.0        35602000.0         36690000.0     12049000.0
+Interest Expense Non Operating                                    19850000.0         6835000.0          5163000.0     21003000.0
+Interest Income Non Operating                                     45090000.0        42437000.0         41853000.0     33052000.0
+Operating Income                                                -466241000.0       227688000.0       2245675000.0   2421463000.0
+Operating Expense                                                901818000.0      1532437000.0       1140281000.0    701809000.0
+Research And Development                                          15832000.0        15312000.0         18546000.0     20523000.0
+Selling General And Administration                               885986000.0      1517125000.0       1121735000.0    681286000.0
+Selling And Marketing Expense                                    681200000.0      1332808000.0        953213000.0    514070000.0
+General And Administrative Expense                               204786000.0       184317000.0        168522000.0    167216000.0
+Gross Profit                                                     435577000.0      1760125000.0       3385956000.0   3123272000.0
+Cost Of Revenue                                                14769885000.0     16323674000.0      17385209000.0  12375109000.0
+Total Revenue                                                  15205462000.0     18083799000.0      20771165000.0  15498381000.0
+Operating Revenue                                              15205462000.0     18083799000.0      20771165000.0  15498381000.0

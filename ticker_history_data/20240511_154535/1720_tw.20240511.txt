@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 6-20, Tuku
+address2	Tuku Village Sinying District
+city	Tainan City
+zip	73055
+country	Taiwan
+phone	886 6 636 1511
+fax	886 6 632 9953
+website	https://www.standard.com.tw
+industry	Drug Manufacturers - Specialty & Generic
+industryKey	drug-manufacturers-specialty-generic
+industryDisp	Drug Manufacturers - Specialty & Generic
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Standard Chemical & Pharmaceutical Co. Ltd. engages in the manufacture and sale of pharmaceutical products, supplements, and APIs in Taiwan. It offers various pharmaceutical products, including circulatory system, digestive system, respiratory system, antihistamine, C.N.S, metabolism, anti-microbial, and skin and mucous membrane drugs, as well as human and veterinary APIs, and excipients. The company was founded in 1967 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tzu-Ting  Fan', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chin Wen  Chang', 'title': 'Financial Officer, Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Tsai  Fan', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	66.0
+open	66.5
+dayLow	66.5
+dayHigh	67.7
+regularMarketPreviousClose	66.0
+regularMarketOpen	66.5
+regularMarketDayLow	66.5
+regularMarketDayHigh	67.7
+dividendRate	2.5
+dividendYield	0.0383
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	0.5274
+fiveYearAvgDividendYield	4.23
+beta	0.143
+trailingPE	14.21941
+forwardPE	13.534137
+volume	2029126
+regularMarketVolume	2029126
+averageVolume	609579
+averageVolume10days	576878
+averageDailyVolume10Day	576878
+bid	67.3
+ask	67.4
+marketCap	12044110848
+fiftyTwoWeekLow	58.1
+fiftyTwoWeekHigh	79.6
+priceToSalesTrailing12Months	1.9302177
+fiftyDayAverage	64.912
+twoHundredDayAverage	64.418
+trailingAnnualDividendRate	2.7
+trailingAnnualDividendYield	0.040909093
+currency	TWD
+enterpriseValue	13684610048
+profitMargins	0.1338
+floatShares	86624673
+sharesOutstanding	178696000
+heldPercentInsiders	0.54566
+heldPercentInstitutions	0.01012
+impliedSharesOutstanding	180132000
+bookValue	29.654
+priceToBook	2.2728806
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.075
+netIncomeToCommon	834886016
+trailingEps	4.74
+forwardEps	4.98
+lastSplitFactor	1.07:1
+lastSplitDate	1313712000	 (2011-08-19 08:00:00)
+enterpriseToRevenue	2.193
+enterpriseToEbitda	8.667
+52WeekChange	0.0044709444
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1720.TW
+underlyingSymbol	1720.TW
+shortName	STANDARD CHEM & PHARM CO
+longName	Standard Chemical & Pharmaceutical Co. Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c3e649d2-4802-311a-81a9-f8bb71fdfa22
+messageBoardId	finmb_9844307
+gmtOffSetMilliseconds	28800000
+currentPrice	67.4
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	2275533056
+totalCashPerShare	12.734
+ebitda	1578976000
+totalDebt	1327885952
+quickRatio	1.558
+currentRatio	2.285
+totalRevenue	6239768064
+debtToEquity	16.318
+revenuePerShare	34.918
+returnOnAssets	0.07106
+returnOnEquity	0.14871
+freeCashflow	437125248
+operatingCashflow	1336523008
+earningsGrowth	-0.075
+revenueGrowth	0.006
+grossMargins	0.43678
+ebitdaMargins	0.25305
+operatingMargins	0.19281
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -3133955.093565    -162504.155857    1227284.567624
+Tax Rate For Calcs                                                  0.175946          0.174548          0.190661
+Normalized EBITDA                                               1735125000.0      1242995000.0      1007848000.0
+Total Unusual Items                                              -17812000.0         -931000.0         6437000.0
+Total Unusual Items Excluding Goodwill                           -17812000.0         -931000.0         6437000.0
+Net Income From Continuing Operation Net Minority Interest       815408000.0       706734000.0       524172000.0
+Reconciled Depreciation                                          298605000.0       221064000.0       233786000.0
+Reconciled Cost Of Revenue                                      3363755000.0      2536209000.0      2385562000.0
+EBITDA                                                          1717313000.0      1242064000.0      1014285000.0
+EBIT                                                            1418708000.0      1021000000.0       780499000.0
+Net Interest Income                                               10819000.0        -3003000.0         3631000.0
+Interest Expense                                                  18775000.0         7250000.0         7572000.0
+Interest Income                                                   29594000.0         4247000.0        11203000.0
+Normalized Income                                           830086044.906435  707502495.844143  518962284.567624
+Net Income From Continuing And Discontinued Operation            815408000.0       706734000.0       524172000.0
+Total Expenses                                                  4715135000.0      3726469000.0      3605250000.0
+Diluted Average Shares                                           178885000.0       178918000.0       178878000.0
+Basic Average Shares                                             178696000.0       178696000.0       178686000.0
+Diluted EPS                                                             4.56              3.95              2.93
+Basic EPS                                                               4.56              3.95              2.93
+Diluted NI Availto Com Stockholders                              815408000.0       706734000.0       524172000.0
+Net Income Common Stockholders                                   815408000.0       706734000.0       524172000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0
+Net Income                                                       815408000.0       706734000.0       524172000.0
+Minority Interests                                              -338212000.0      -130068000.0      -101388000.0
+Net Income Including Noncontrolling Interests                   1153620000.0       836802000.0       625560000.0
+Net Income Continuous Operations                                1153620000.0       836802000.0       625560000.0
+Tax Provision                                                    246313000.0       176948000.0       147367000.0
+Pretax Income                                                   1399933000.0      1013750000.0       772927000.0
+Other Non Operating Income Expenses                              209327000.0       146228000.0        59662000.0
+Special Income Charges                                           -17812000.0         -931000.0         6437000.0
+Write Off                                                         17812000.0          931000.0        -6437000.0
+Net Non Operating Interest Income Expense                         10819000.0        -3003000.0         3631000.0
+Interest Expense Non Operating                                    18775000.0         7250000.0         7572000.0
+Interest Income Non Operating                                     29594000.0         4247000.0        11203000.0
+Operating Income                                                1136233000.0       877613000.0       700150000.0
+Operating Expense                                               1351380000.0      1190260000.0      1219688000.0
+Research And Development                                         251878000.0       241788000.0       227211000.0
+Selling General And Administration                              1099502000.0       948472000.0       992477000.0
+Selling And Marketing Expense                                    746173000.0       675925000.0       708480000.0
+General And Administrative Expense                               353329000.0       272547000.0       283997000.0
+Gross Profit                                                    2487613000.0      2067873000.0      1919838000.0
+Cost Of Revenue                                                 3363755000.0      2536209000.0      2385562000.0
+Total Revenue                                                   5851368000.0      4604082000.0      4305400000.0
+Operating Revenue                                               5851368000.0      4604082000.0      4305400000.0

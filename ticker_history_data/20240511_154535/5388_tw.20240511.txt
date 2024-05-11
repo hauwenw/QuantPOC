@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	Nankang Software Park
+address2	8th Floor No. 3-1, YuanQu Street
+city	Taipei
+zip	115
+country	Taiwan
+phone	886 2 2655 3988
+fax	886 2 6615 8898
+website	https://www.sercomm.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Sercomm Corporation researches, develops, manufactures, and sells networking communication software and equipment in North America, Europe, and the Asia Pacific. The company offers LTE/5G mobility solutions, including small cells, CBRS, private LTE, LTE-M/NB-IoT modules, and LTE/5G terminals; broadband access solutions, such as DOCSIS, FTTx, xDSL, broadband routers, and residential LTE/5G gateways; and IoT solutions comprising IP cameras, IoT gateways, mobile IoT devices, low power IoT sensors, and IoT cloud. It also provides enterprise equipment that include WiFi access points, business routers, switches, and IP phones; and home connectivity and entertainment products that include WiFi mesh extenders and OTT set-top boxes. In addition, the company offers consultation and customer services for network communication products; sells IT products and software; provides quotation, tender, general import, and export business services; and leases real estate properties. Further, it manufactures and sells routers, operating systems, and related software. Sercomm Corporation was incorporated in 1992 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wei  Wang', 'title': 'CEO & Chairman', 'fiscalYear': 2022, 'totalPay': 18122000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ben  Lin', 'title': 'Co-Founder, President & Director', 'fiscalYear': 2022, 'totalPay': 7270000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Bo Yuan  Wang Ph.D.', 'title': 'Co-Founder, Honorary Chairman & Director', 'fiscalYear': 2022, 'totalPay': 7270000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Liou', 'title': 'CFO & Chief of Staff', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Max  Cheng', 'title': 'Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Lee', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wang  Dean', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Huang', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Ru  Lee', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng-Zhe  Xu', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+irWebsite	http://www.sercomm.com/SWI/GUI/IR.htm
+maxAge	86400
+priceHint	2
+previousClose	115.0
+open	115.5
+dayLow	114.0
+dayHigh	115.5
+regularMarketPreviousClose	115.0
+regularMarketOpen	115.5
+regularMarketDayLow	114.0
+regularMarketDayHigh	115.5
+dividendRate	5.0
+dividendYield	0.0437
+exDividendDate	1711670400	 (2024-03-29 08:00:00)
+payoutRatio	1.0371
+fiveYearAvgDividendYield	3.66
+trailingPE	12.5
+forwardPE	8.917445
+volume	2846905
+regularMarketVolume	2846905
+averageVolume	5450668
+averageVolume10days	3635536
+averageDailyVolume10Day	3635536
+bid	114.5
+ask	115.0
+marketCap	33540483072
+fiftyTwoWeekLow	83.8
+fiftyTwoWeekHigh	151.5
+priceToSalesTrailing12Months	0.53138626
+fiftyDayAverage	132.57
+twoHundredDayAverage	126.035
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.04347826
+currency	TWD
+enterpriseValue	28282746880
+profitMargins	0.04047
+floatShares	248723159
+sharesOutstanding	292929984
+heldPercentInsiders	0.07998
+heldPercentInstitutions	0.29002002
+impliedSharesOutstanding	292929984
+bookValue	49.5
+priceToBook	2.3131313
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.333
+netIncomeToCommon	2554682880
+trailingEps	9.16
+forwardEps	12.84
+pegRatio	1.04
+lastSplitFactor	104:100
+lastSplitDate	1219276800	 (2008-08-21 08:00:00)
+enterpriseToRevenue	0.448
+enterpriseToEbitda	7.207
+52WeekChange	0.35023582
+SandP52WeekChange	0.26265144
+lastDividendValue	4.999911
+lastDividendDate	1711670400	 (2024-03-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5388.TW
+underlyingSymbol	5388.TW
+shortName	SERCOMM CORP
+longName	Sercomm Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b4157781-2e7d-384f-9638-6e72a219d76d
+messageBoardId	finmb_7910754
+gmtOffSetMilliseconds	28800000
+currentPrice	114.5
+targetHighPrice	180.0
+targetLowPrice	142.0
+targetMeanPrice	157.5
+targetMedianPrice	154.0
+recommendationMean	1.4
+recommendationKey	strong_buy
+numberOfAnalystOpinions	4
+totalCash	12454326272
+totalCashPerShare	43.411
+ebitda	3924300032
+totalDebt	7898732032
+quickRatio	0.871
+currentRatio	1.376
+totalRevenue	63118835712
+debtToEquity	55.664
+revenuePerShare	235.613
+returnOnAssets	0.04577
+returnOnEquity	0.21741
+freeCashflow	1699771648
+operatingCashflow	1928377984
+earningsGrowth	0.188
+revenueGrowth	0.034
+grossMargins	0.17309
+ebitdaMargins	0.06217
+operatingMargins	0.0529
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   -7673943.068902    -1145707.448955    2030800.364865   -5449379.43374
+Tax Rate For Calcs                                                   0.200547           0.173566          0.160158         0.187994
+Normalized EBITDA                                                4210547000.0       3383758000.0      1925445000.0     1916901000.0
+Total Unusual Items                                               -38265000.0         -6601000.0        12680000.0      -28987000.0
+Total Unusual Items Excluding Goodwill                            -38265000.0         -6601000.0        12680000.0      -28987000.0
+Net Income From Continuing Operation Net Minority Interest       2386305000.0       1919423000.0       861201000.0      907327000.0
+Reconciled Depreciation                                           922247000.0        894223000.0       833024000.0      708472000.0
+Reconciled Cost Of Revenue                                      52322193000.0      55954909000.0     38231263000.0    30657660000.0
+EBITDA                                                           4172282000.0       3377157000.0      1938125000.0     1887914000.0
+EBIT                                                             3250035000.0       2482934000.0      1105101000.0     1179442000.0
+Net Interest Income                                              -137211000.0       -120529000.0       -53100000.0      -10025000.0
+Interest Expense                                                  262002000.0        173590000.0        78969000.0       70305000.0
+Interest Income                                                   124791000.0         53061000.0        25869000.0       60280000.0
+Normalized Income                                           2416896056.931098  1924878292.551045  850551800.364865  930864620.56626
+Net Income From Continuing And Discontinued Operation            2386305000.0       1919423000.0       861201000.0      907327000.0
+Total Expenses                                                  59432714000.0      62149503000.0     42859021000.0    34932255000.0
+Diluted Average Shares                                            271051000.0        265684000.0       260897000.0      255020000.0
+Basic Average Shares                                              260359000.0        253558000.0       250412000.0      247872000.0
+Diluted EPS                                                               8.8               7.22               3.3             3.56
+Basic EPS                                                                9.17               7.57              3.44             3.66
+Diluted NI Availto Com Stockholders                              2386305000.0       1919423000.0       861201000.0      907327000.0
+Net Income Common Stockholders                                   2386305000.0       1919423000.0       861201000.0      907327000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0              0.0
+Net Income                                                       2386305000.0       1919423000.0       861201000.0      907327000.0
+Minority Interests                                                 -2486000.0         10902000.0         -588000.0        6701000.0
+Net Income Including Noncontrolling Interests                    2388791000.0       1908521000.0       861789000.0      900626000.0
+Net Income Continuous Operations                                 2388791000.0       1908521000.0       861789000.0      900626000.0
+Tax Provision                                                     599242000.0        400823000.0       164343000.0      208511000.0
+Pretax Income                                                    2988033000.0       2309344000.0      1026132000.0     1109137000.0
+Other Non Operating Income Expenses                                12456000.0          9083000.0        27814000.0      -16358000.0
+Special Income Charges                                            -38265000.0         -6601000.0        12680000.0      -28987000.0
+Write Off                                                          38265000.0          6601000.0       -12680000.0       28987000.0
+Net Non Operating Interest Income Expense                        -137211000.0       -120529000.0       -53100000.0      -10025000.0
+Interest Expense Non Operating                                    262002000.0        173590000.0        78969000.0       70305000.0
+Interest Income Non Operating                                     124791000.0         53061000.0        25869000.0       60280000.0
+Operating Income                                                 3151779000.0       2424217000.0      1040487000.0     1164026000.0
+Operating Expense                                                7110521000.0       6194594000.0      4627758000.0     4274595000.0
+Research And Development                                         3127890000.0       2815066000.0      2303713000.0     2071038000.0
+Selling General And Administration                               3982631000.0       3379528000.0      2324045000.0     2203557000.0
+Selling And Marketing Expense                                    2636545000.0       2228297000.0      1489426000.0     1354310000.0
+General And Administrative Expense                               1346086000.0       1151231000.0       834619000.0      849247000.0
+Gross Profit                                                    10262300000.0       8618811000.0      5668245000.0     5438621000.0
+Cost Of Revenue                                                 52322193000.0      55954909000.0     38231263000.0    30657660000.0
+Total Revenue                                                   62584493000.0      64573720000.0     43899508000.0    36096281000.0
+Operating Revenue                                               62584493000.0      64573720000.0     43899508000.0    36096281000.0

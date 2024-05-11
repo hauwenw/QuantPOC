@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No.25 Wende Road
+address2	Guishan Township
+city	Taoyuan City
+zip	33383
+country	Taiwan
+phone	886 3 328 4170
+fax	886 3 328 4155
+website	https://www.chem.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Chung-Hsin Electric and Machinery Manufacturing Corp. manufactures and sells electric motors and generators in Taiwan and internationally. It operates through Electricity Power, Service, and Engineering and Other segments. The company offers power equipment and machinery; power automation products; and electricity meter products; system engineering; and generators and air conditioning systems. It provides electrical and mechanical, and property management services; energy management services; and engages in urban regeneration. In addition, the company offers fuel cell products, dispenser, and smart micro grids; machine tool aerospace parts, semiconductor equipment parts, pressure vessel fabrication, cases components, and power distribution boxes, as well as control boxes, train door, road noise barrier, MRT platform screen door, and precision machining components. Chung-Hsin Electric and Machinery Manufacturing Corp. was founded in 1956 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Fu-Nein  Chiang', 'title': 'COO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Chuan  Kuo', 'title': 'President & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Chen  Wu', 'title': 'Director of Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Chuan  Chang', 'title': 'VP, Group GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Song-Qin  Shen', 'title': 'Group GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Chung  Lin', 'title': 'VP & Group COO', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.chem.com.tw/c_investor_c.aspx
+maxAge	86400
+priceHint	2
+previousClose	179.5
+open	181.0
+dayLow	177.5
+dayHigh	183.0
+regularMarketPreviousClose	179.5
+regularMarketOpen	181.0
+regularMarketDayLow	177.5
+regularMarketDayHigh	183.0
+dividendRate	3.31
+dividendYield	0.0186
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	0.9154
+fiveYearAvgDividendYield	3.55
+beta	0.805
+trailingPE	49.30748
+forwardPE	17.925478
+volume	10718256
+regularMarketVolume	10718256
+averageVolume	53369675
+averageVolume10days	17612603
+averageDailyVolume10Day	17612603
+bid	178.0
+ask	178.5
+marketCap	87945166848
+fiftyTwoWeekLow	93.0
+fiftyTwoWeekHigh	221.0
+priceToSalesTrailing12Months	3.9713557
+fiftyDayAverage	181.14
+twoHundredDayAverage	130.1895
+trailingAnnualDividendRate	3.6
+trailingAnnualDividendYield	0.02005571
+currency	TWD
+enterpriseValue	98944131072
+profitMargins	0.071609996
+floatShares	396449918
+sharesOutstanding	494073984
+heldPercentInsiders	0.20717
+heldPercentInstitutions	0.079569995
+impliedSharesOutstanding	496857984
+bookValue	31.886
+priceToBook	5.5823874
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.053
+netIncomeToCommon	1585694976
+trailingEps	3.61
+forwardEps	9.93
+lastSplitFactor	0.875:1
+lastSplitDate	1417046400	 (2014-11-27 08:00:00)
+enterpriseToRevenue	4.468
+enterpriseToEbitda	18.376
+52WeekChange	0.70334923
+SandP52WeekChange	0.26265144
+lastDividendValue	3.31366
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1513.TW
+underlyingSymbol	1513.TW
+shortName	CHUNG HSIN ELECTRIC & MACHINERY
+longName	Chung-Hsin Electric and Machinery Manufacturing Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0f7e8906-b1ec-3b3a-bde1-ada361c42ae2
+messageBoardId	finmb_12719001
+gmtOffSetMilliseconds	28800000
+currentPrice	178.0
+targetHighPrice	250.0
+targetLowPrice	104.0
+targetMeanPrice	207.6
+targetMedianPrice	240.0
+recommendationMean	1.3
+recommendationKey	strong_buy
+numberOfAnalystOpinions	5
+totalCash	3781538048
+totalCashPerShare	7.654
+ebitda	5384353792
+totalDebt	14584498176
+quickRatio	0.597
+currentRatio	1.26
+totalRevenue	22144872448
+debtToEquity	91.438
+revenuePerShare	45.331
+returnOnAssets	0.06389
+returnOnEquity	0.10816
+freeCashflow	6232283136
+operatingCashflow	7213170176
+earningsGrowth	0.047
+revenueGrowth	0.218
+grossMargins	0.28986
+ebitdaMargins	0.24314
+operatingMargins	0.16726999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -25913382.676182    -4743502.391391     -144559.448864      282090.801169
+Tax Rate For Calcs                                                   0.338533           0.202385           0.204758           0.139029
+Normalized EBITDA                                                5590899000.0       5949226000.0       4623815000.0       3608922000.0
+Total Unusual Items                                               -76546000.0        -23438000.0          -706000.0          2029000.0
+Total Unusual Items Excluding Goodwill                            -76546000.0        -23438000.0          -706000.0          2029000.0
+Net Income From Continuing Operation Net Minority Interest       1585695000.0       2434238000.0       1956092000.0       1527368000.0
+Reconciled Depreciation                                          2849937000.0       2597527000.0       2057059000.0       1734562000.0
+Reconciled Cost Of Revenue                                      15725953000.0      13802437000.0      13729807000.0      12105150000.0
+EBITDA                                                           5514353000.0       5925788000.0       4623109000.0       3610951000.0
+EBIT                                                             2664416000.0       3328261000.0       2566050000.0       1876389000.0
+Net Interest Income                                              -224894000.0       -216411000.0        -77518000.0        -61781000.0
+Interest Expense                                                  267554000.0        235919000.0         86953000.0         74584000.0
+Interest Income                                                    42660000.0         19508000.0          9435000.0         12803000.0
+Normalized Income                                           1636327617.323818  2452932497.608609  1956653440.551136  1525621090.801169
+Net Income From Continuing And Discontinued Operation            1585695000.0       2434238000.0       1956092000.0       1527368000.0
+Total Expenses                                                  17681829000.0      15672312000.0      15349493000.0      13671845000.0
+Diluted Average Shares                                                    NaN        493891000.0        492692000.0        449332000.0
+Basic Average Shares                                                      NaN        467105000.0        467095000.0        424902000.0
+Diluted EPS                                                               NaN               4.95                4.0                3.4
+Basic EPS                                                                 NaN               5.21               4.19               3.59
+Diluted NI Availto Com Stockholders                              1585695000.0       2434238000.0       1956092000.0       1527368000.0
+Net Income Common Stockholders                                   1585695000.0       2434238000.0       1956092000.0       1527368000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1585695000.0       2434238000.0       1956092000.0       1527368000.0
+Minority Interests                                                   251000.0        -32260000.0        -15389000.0        -23933000.0
+Net Income Including Noncontrolling Interests                    1585444000.0       2466498000.0       1971481000.0       1551301000.0
+Net Income Continuous Operations                                 1585444000.0       2466498000.0       1971481000.0       1551301000.0
+Tax Provision                                                     811418000.0        625844000.0        507616000.0        250504000.0
+Pretax Income                                                    2396862000.0       3092342000.0       2479097000.0       1801805000.0
+Other Non Operating Income Expenses                             -1896884000.0        273032000.0       -158223000.0        -31030000.0
+Special Income Charges                                            -76546000.0        -23438000.0          -706000.0          2029000.0
+Write Off                                                          76546000.0         23438000.0           706000.0         -2029000.0
+Net Non Operating Interest Income Expense                        -224894000.0       -216411000.0        -77518000.0        -61781000.0
+Interest Expense Non Operating                                    267554000.0        235919000.0         86953000.0         74584000.0
+Interest Income Non Operating                                      42660000.0         19508000.0          9435000.0         12803000.0
+Operating Income                                                 4463043000.0       2874573000.0       2677774000.0       1718944000.0
+Operating Expense                                                1955876000.0       1869875000.0       1619686000.0       1566695000.0
+Research And Development                                          334061000.0        232306000.0        213615000.0        241839000.0
+Selling General And Administration                               1621815000.0       1637569000.0       1406071000.0       1324856000.0
+Selling And Marketing Expense                                     448266000.0        418074000.0        449970000.0        405162000.0
+General And Administrative Expense                               1173549000.0       1219495000.0        956101000.0        919694000.0
+Gross Profit                                                     6418919000.0       4744448000.0       4297460000.0       3285639000.0
+Cost Of Revenue                                                 15725953000.0      13802437000.0      13729807000.0      12105150000.0
+Total Revenue                                                   22144872000.0      18546885000.0      18027267000.0      15390789000.0
+Operating Revenue                                               22144872000.0      18546885000.0      18027267000.0      15390789000.0

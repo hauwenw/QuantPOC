@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	No. 999, Dongda Road
+address2	Section 2 Daya District
+city	Taichung
+zip	428
+country	Taiwan
+phone	886 4 2566 7100
+website	https://www.johnsonfitness.com.tw
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Johnson Health Tech. Co., Ltd. engages in the manufacture and sale of sports and fitness equipment in the Americas, Europe, Asia, and internationally. It offers cardiovascular and weight training equipment, and related electronic components, as well as video transmission and streaming service; researches, develops, manufactures, and trades in massage chairs; and sells food products. The company was incorporated in 1975 and is based in Taichung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jason  Lo', 'age': 55, 'title': 'CEO & Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Chan', 'title': 'Head of Corporate Governance, Financial Director Substitute & Principal Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacky  Lee', 'title': 'Senior Manager & Head of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. May  Lo', 'age': 50, 'title': 'Deputy GM & Director', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerry  Chen', 'title': 'Senior Manager & Head of Audit Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiao-Ci  Fang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Hung  Fang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	91.3
+open	91.3
+dayLow	90.7
+dayHigh	93.5
+regularMarketPreviousClose	91.3
+regularMarketOpen	91.3
+regularMarketDayLow	90.7
+regularMarketDayHigh	93.5
+dividendRate	0.6
+dividendYield	0.0064999997
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.14930001
+fiveYearAvgDividendYield	2.05
+beta	0.395
+trailingPE	22.910448
+forwardPE	16.073298
+volume	2064373
+regularMarketVolume	2064373
+averageVolume	1458134
+averageVolume10days	2643237
+averageDailyVolume10Day	2643237
+bid	92.0
+ask	92.2
+marketCap	27899113472
+fiftyTwoWeekLow	56.1
+fiftyTwoWeekHigh	93.5
+priceToSalesTrailing12Months	0.73284566
+fiftyDayAverage	75.548
+twoHundredDayAverage	72.314
+currency	TWD
+enterpriseValue	41705467904
+profitMargins	0.01865
+floatShares	90873456
+sharesOutstanding	302921984
+heldPercentInsiders	0.74351996
+heldPercentInstitutions	0.02953
+impliedSharesOutstanding	302921984
+bookValue	31.832
+priceToBook	2.8933148
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.224
+netIncomeToCommon	709827968
+trailingEps	4.02
+forwardEps	5.73
+pegRatio	0.95
+lastSplitFactor	1005:1000
+lastSplitDate	1440633600	 (2015-08-27 08:00:00)
+enterpriseToRevenue	1.096
+enterpriseToEbitda	23.017
+52WeekChange	0.59067357
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1736.TW
+underlyingSymbol	1736.TW
+shortName	JOHNSON HEALTH TECH
+longName	Johnson Health Tech .Co., Ltd.
+firstTradeDateEpochUtc	1042074000	 (2003-01-09 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	794fe006-2769-3962-8375-62c8d369c52f
+messageBoardId	finmb_7923787
+gmtOffSetMilliseconds	28800000
+currentPrice	92.1
+targetHighPrice	185.0
+targetLowPrice	93.3
+targetMeanPrice	139.15
+targetMedianPrice	139.15
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	2358013952
+totalCashPerShare	7.784
+ebitda	1811976960
+totalDebt	16157529088
+quickRatio	0.732
+currentRatio	1.303
+totalRevenue	38069563392
+debtToEquity	167.445
+revenuePerShare	125.674
+returnOnAssets	0.02063
+returnOnEquity	0.07416
+freeCashflow	2661017088
+operatingCashflow	3842551040
+earningsGrowth	0.219
+revenueGrowth	0.107
+grossMargins	0.48404
+ebitdaMargins	0.0476
+operatingMargins	0.099300005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -27453600.0   -4768517.947603 -151000615.540623  -12060722.752868
+Tax Rate For Calcs                                                    0.2          0.259102          0.392981          0.233744
+Normalized EBITDA                                            3247219000.0      1784770000.0      1751651000.0      2174165000.0
+Total Unusual Items                                          -137268000.0       -18404000.0      -384244000.0       -51598000.0
+Total Unusual Items Excluding Goodwill                       -137268000.0       -18404000.0      -384244000.0       -51598000.0
+Net Income From Continuing Operation Net Minority Interest    709828000.0       429024000.0        38148000.0       679293000.0
+Reconciled Depreciation                                      1397999000.0      1206580000.0      1040225000.0       984007000.0
+Reconciled Cost Of Revenue                                  19642253000.0     19006576000.0     16873072000.0     14969269000.0
+EBITDA                                                       3109951000.0      1766366000.0      1367407000.0      2122567000.0
+EBIT                                                         1711952000.0       559786000.0       327182000.0      1138560000.0
+Net Interest Income                                          -183284000.0       -91008000.0       -11069000.0        17213000.0
+Interest Expense                                              377470000.0       256180000.0       163482000.0       163228000.0
+Interest Income                                               194186000.0       165172000.0       152413000.0       180441000.0
+Normalized Income                                             819642400.0  442659482.052397  271391384.459377  718830277.247132
+Net Income From Continuing And Discontinued Operation         709828000.0       429024000.0        38148000.0       679293000.0
+Total Expenses                                              36689980000.0     33809477000.0     30240896000.0     27385069000.0
+Diluted Average Shares                                                NaN       302628000.0       302589000.0       302663000.0
+Basic Average Shares                                                  NaN       302628000.0       302589000.0       302663000.0
+Diluted EPS                                                           NaN              1.42              0.13              2.24
+Basic EPS                                                             NaN              1.42              0.13              2.24
+Diluted NI Availto Com Stockholders                           709828000.0       429024000.0        38148000.0       679293000.0
+Net Income Common Stockholders                                709828000.0       429024000.0        38148000.0       679293000.0
+Otherunder Preferred Stock Dividend                                   0.0               0.0               0.0               0.0
+Net Income                                                    709828000.0       429024000.0        38148000.0       679293000.0
+Minority Interests                                               391000.0       204083000.0       -61221000.0       -68061000.0
+Net Income Including Noncontrolling Interests                 709437000.0       224941000.0        99369000.0       747354000.0
+Net Income Continuous Operations                              709437000.0       224941000.0        99369000.0       747354000.0
+Tax Provision                                                 625045000.0        78665000.0        64331000.0       227978000.0
+Pretax Income                                                1334482000.0       303606000.0       163700000.0       975332000.0
+Other Non Operating Income Expenses                           275451000.0       609548000.0        20581000.0        28030000.0
+Special Income Charges                                       -137268000.0       -18404000.0      -384244000.0       -51598000.0
+Write Off                                                     137268000.0        18404000.0       384244000.0        51598000.0
+Net Non Operating Interest Income Expense                    -183284000.0       -91008000.0       -11069000.0        17213000.0
+Interest Expense Non Operating                                377470000.0       256180000.0       163482000.0       163228000.0
+Interest Income Non Operating                                 194186000.0       165172000.0       152413000.0       180441000.0
+Operating Income                                             1379583000.0      -196530000.0       538432000.0       981687000.0
+Operating Expense                                           17047727000.0     14802901000.0     13367824000.0     12415800000.0
+Research And Development                                     1061934000.0       913224000.0       808652000.0       785536000.0
+Selling General And Administration                          15985793000.0     13889677000.0     12559172000.0     11630264000.0
+Selling And Marketing Expense                                8355546000.0      6814394000.0      6417337000.0      6186531000.0
+General And Administrative Expense                           7630247000.0      7075283000.0      6141835000.0      5443733000.0
+Gross Profit                                                18427310000.0     14606371000.0     13906256000.0     13397487000.0
+Cost Of Revenue                                             19642253000.0     19006576000.0     16873072000.0     14969269000.0
+Total Revenue                                               38069563000.0     33612947000.0     30779328000.0     28366756000.0
+Operating Revenue                                           38069563000.0     33612947000.0     30779328000.0     28366756000.0

@@ -1,0 +1,166 @@
+=== Ticker Info ===
+address1	No. 19-9, San Chong Road
+address2	5th Floor Nan-Kang
+city	Taipei
+zip	11501
+country	Taiwan
+phone	886 2 2655 3333
+fax	886 2 2655 2212
+website	https://www.teco.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	TECO Electric & Machinery Co., Ltd. manufactures, installs, wholesales, and retails electronic and telecommunications equipment, office equipment, and home appliances in Taiwan, the United States, China, and internationally. It offers low, medium, and high voltage motors and inverters; motor and drive products; gear reducers; explosion proof motors; AC SVO; motion control and programmable logic controllers; human machine interfaces; automated guided vehicle smart platforms; and industrial motor drive products. The company also provides residential and commercial air conditioners, machine room air conditioners, chillers, and energy saving systems; project management, design, construction, and maintenance services for air conditioning engineering; fridges, washers, and TVs; inverter DC fans, air purifiers, vacuums, blenders, microwaves, and ovens; inverter condensing, evaporator, and brine units; and project management, design, procurement, construction, and maintenance services for the construction of IDC, offshore wind and solar power systems, energy storage systems, micro grids, development projects, civil and traffic engineering, medical biotechnology and factory buildings, etc. In addition, it offers switchboards, generator sets, and power distribution equipment; design and construction service for energy transmission and distribution systems; solar-powered battery chargers, overhead line and street lamp switches, fuse link and housing/factory market-electromagnetic switches, no-fuse and leakage circuit breakers, communication ammeters, etc.; home delivery and other professional logistics and distribution services; designs, develops, produces, and sells communication products; information software, data processing, and electronic information supply services; dispatches manpower; develops, rents, and sells residential properties and buildings; and invests in financial commodities. The company was incorporated in 1956 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Thomas  Fann', 'age': 61, 'title': 'President', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tommy  Wu', 'title': 'Accounting Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Tsung  Huang', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hong-Hsiang  Lin', 'title': 'Executive Consultant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	55.8
+open	55.8
+dayLow	54.6
+dayHigh	56.4
+regularMarketPreviousClose	55.8
+regularMarketOpen	55.8
+regularMarketDayLow	54.6
+regularMarketDayHigh	56.4
+dividendRate	1.5
+dividendYield	0.0272
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	0.5435
+fiveYearAvgDividendYield	3.56
+beta	0.295
+trailingPE	19.963768
+forwardPE	15.477528
+volume	13403430
+regularMarketVolume	13403430
+averageVolume	24002209
+averageVolume10days	12694120
+averageDailyVolume10Day	12694120
+bid	55.1
+ask	55.2
+marketCap	116221321216
+fiftyTwoWeekLow	43.2
+fiftyTwoWeekHigh	63.5
+priceToSalesTrailing12Months	1.9567966
+fiftyDayAverage	55.113
+twoHundredDayAverage	49.6865
+trailingAnnualDividendRate	2.2
+trailingAnnualDividendYield	0.039426524
+currency	TWD
+enterpriseValue	114299977728
+profitMargins	0.09816
+floatShares	1541738954
+sharesOutstanding	2109280000
+heldPercentInsiders	0.24563
+heldPercentInstitutions	0.29479998
+impliedSharesOutstanding	2151010048
+bookValue	37.998
+priceToBook	1.4500762
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.086
+netIncomeToCommon	5830061056
+trailingEps	2.76
+forwardEps	3.56
+pegRatio	2.66
+lastSplitFactor	109.04:100
+lastSplitDate	993600000	 (2001-06-27 08:00:00)
+enterpriseToRevenue	1.924
+enterpriseToEbitda	14.196
+52WeekChange	0.16861081
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1504.TW
+underlyingSymbol	1504.TW
+shortName	TECO ELECTRIC & MACHINERY CO
+longName	TECO Electric & Machinery Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7a90823a-308f-3a29-99fd-2de391f3350c
+messageBoardId	finmb_878388
+gmtOffSetMilliseconds	28800000
+currentPrice	55.1
+targetHighPrice	71.0
+targetLowPrice	50.0
+targetMeanPrice	60.0
+targetMedianPrice	61.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	5
+totalCash	24000241664
+totalCashPerShare	11.378
+ebitda	8051757056
+totalDebt	15784477696
+quickRatio	1.76
+currentRatio	2.319
+totalRevenue	59393662976
+debtToEquity	18.26
+revenuePerShare	28.158
+returnOnAssets	0.0328
+returnOnEquity	0.0733
+freeCashflow	3648812032
+operatingCashflow	6232906752
+earningsGrowth	0.07
+revenueGrowth	-0.046
+grossMargins	0.25159
+ebitdaMargins	0.13557
+operatingMargins	0.10501
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -5267130.144218   -12990850.260752      500475.902318    -4398170.622499
+Tax Rate For Calcs                                                   0.234721           0.263715           0.105608           0.133667
+Normalized EBITDA                                               10606640000.0       7478495000.0       8152936000.0       6679658000.0
+Total Unusual Items                                               -22440000.0        -49261000.0          4739000.0        -32904000.0
+Total Unusual Items Excluding Goodwill                            -22440000.0        -49261000.0          4739000.0        -32904000.0
+Net Income From Continuing Operation Net Minority Interest       5830061000.0       3457667000.0       5013134000.0       3511358000.0
+Reconciled Depreciation                                          1987657000.0       1803446000.0       1802195000.0       2005511000.0
+Reconciled Cost Of Revenue                                      44451003000.0      45129917000.0      39812612000.0      35066082000.0
+EBITDA                                                          10584200000.0       7429234000.0       8157675000.0       6646754000.0
+EBIT                                                             8596543000.0       5625788000.0       6355480000.0       4641243000.0
+Net Interest Income                                               296824000.0         29114000.0        -76251000.0        -46569000.0
+Interest Expense                                                  322399000.0        203963000.0        203602000.0        241495000.0
+Interest Income                                                   619223000.0        233077000.0        127351000.0        194926000.0
+Normalized Income                                           5847233869.855782  3493937149.739248  5008895475.902318  3539863829.377501
+Net Income From Continuing And Discontinued Operation            5830061000.0       3457667000.0       5013134000.0       3511358000.0
+Total Expenses                                                  52697550000.0      53182950000.0      47484054000.0      42246951000.0
+Diluted Average Shares                                                    NaN       2109284000.0       2105523000.0       1939447000.0
+Basic Average Shares                                                      NaN       2109284000.0       2105523000.0       1939447000.0
+Diluted EPS                                                               NaN               1.64               2.38               1.81
+Basic EPS                                                                 NaN               1.64               2.38               1.81
+Diluted NI Availto Com Stockholders                              5830061000.0       3457667000.0       5013134000.0       3511358000.0
+Net Income Common Stockholders                                   5830061000.0       3457667000.0       5013134000.0       3511358000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       5830061000.0       3457667000.0       5013134000.0       3511358000.0
+Minority Interests                                               -501971000.0       -534343000.0       -489057000.0       -300290000.0
+Net Income Including Noncontrolling Interests                    6332032000.0       3992010000.0       5502191000.0       3811648000.0
+Net Income Continuous Operations                                 6332032000.0       3992010000.0       5502191000.0       3811648000.0
+Tax Provision                                                    1942112000.0       1429815000.0        649687000.0        588100000.0
+Pretax Income                                                    8274144000.0       5421825000.0       6151878000.0       4399748000.0
+Other Non Operating Income Expenses                              1279719000.0        119427000.0       2263226000.0        917355000.0
+Special Income Charges                                            -22440000.0        -49261000.0          4739000.0        -32904000.0
+Other Special Charges                                              -9351000.0         -8354000.0         -9518000.0         -8263000.0
+Write Off                                                          31791000.0         57615000.0          4779000.0         41167000.0
+Net Non Operating Interest Income Expense                         296824000.0         29114000.0        -76251000.0        -46569000.0
+Interest Expense Non Operating                                    322399000.0        203963000.0        203602000.0        241495000.0
+Interest Income Non Operating                                     619223000.0        233077000.0        127351000.0        194926000.0
+Operating Income                                                 6696111000.0       5132266000.0       3764333000.0       3576479000.0
+Operating Expense                                                8246547000.0       8053033000.0       7671442000.0       7180869000.0
+Other Operating Expenses                                                  NaN                NaN         -1164000.0          1255000.0
+Research And Development                                         1133493000.0       1144263000.0       1112911000.0       1027177000.0
+Selling General And Administration                               7113054000.0       6908770000.0       6558531000.0       6153692000.0
+Selling And Marketing Expense                                    4492287000.0       4412306000.0       4028985000.0       3895315000.0
+General And Administrative Expense                               2620767000.0       2496464000.0       2529546000.0       2258377000.0
+Gross Profit                                                    14942658000.0      13185299000.0      11435775000.0      10757348000.0
+Cost Of Revenue                                                 44451003000.0      45129917000.0      39812612000.0      35066082000.0
+Total Revenue                                                   59393661000.0      58315216000.0      51248387000.0      45823430000.0
+Operating Revenue                                               59393661000.0      58315216000.0      51248387000.0      45823430000.0

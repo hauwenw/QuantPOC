@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	No. 65, Zhongzheng Road
+address2	8th Floor Yonghe District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2929 5373
+fax	886 2 2929 5371
+website	https://www.kayeetv.com
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kayee International Group Co., Ltd., through its subsidiaries, develops, manufactures, and sells body care products, household goods, sports equipment, electronic and electrical appliances, and kitchenware products. The company offers health and beauty life products, including leggings, bras, pillows, wireless TV hearing earphones, briefs, slim shapers, and skirts; and outdoor living products, such as multi-tools flashlights, rollers, lanterns, solar lights, air fresheners, infrared sensor lights, ironing devices, motion sensor solar power lights, moving flame candles, solar LED ground spotlights, stainless steel solar gutter lights, turbo sweepers, expandable hoses, spin products, and star lasers. It also provides fitness life products comprising body shapers, torso training products, vertical exercise bikes, electric treadmills, multi-function benches, and jumping fitness products; appliances that include smokeless grills, airwave fryers, wall heaters, rice cookers with steamers, air fryer ovens, wall heaters, and USB rechargeable vacuum food sealer; and kitchen products. The company sells its products through TV shopping, shopping channels, retail stores, mail order, online shopping and other channels. It operates in the United States, Europe, Asia, and internationally. Kayee International Group Co., Ltd. was founded in 2012 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Chiao-Erh  Chi', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Po Hsi  Wu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun Shu  Lee', 'title': 'Vice President of Administration', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.35
+open	25.9
+dayLow	24.95
+dayHigh	25.9
+regularMarketPreviousClose	25.35
+regularMarketOpen	25.9
+regularMarketDayLow	24.95
+regularMarketDayHigh	25.9
+exDividendDate	1626825600	 (2021-07-21 08:00:00)
+beta	-0.159
+volume	135051
+regularMarketVolume	135051
+averageVolume	55433
+averageVolume10days	78302
+averageDailyVolume10Day	78302
+bid	25.1
+ask	25.35
+marketCap	1154667136
+fiftyTwoWeekLow	24.15
+fiftyTwoWeekHigh	33.9
+priceToSalesTrailing12Months	2.860133
+fiftyDayAverage	27.447
+twoHundredDayAverage	28.83825
+currency	TWD
+enterpriseValue	427836160
+profitMargins	-0.19816999
+floatShares	44751893
+sharesOutstanding	45549000
+heldPercentInsiders	0.38989
+impliedSharesOutstanding	45728300
+bookValue	18.871
+priceToBook	1.343331
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-80004000
+trailingEps	-1.76
+enterpriseToRevenue	1.06
+enterpriseToEbitda	-3.079
+52WeekChange	-0.22713417
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1626825600	 (2021-07-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2939.TW
+underlyingSymbol	2939.TW
+shortName	KAYEE INTERNATIONAL GROUP CO LT
+longName	Kayee International Group Co., Ltd
+firstTradeDateEpochUtc	1502154000	 (2017-08-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f3d97398-5044-3994-a7d6-b7621f661818
+messageBoardId	finmb_423275839
+gmtOffSetMilliseconds	28800000
+currentPrice	25.35
+recommendationKey	none
+totalCash	741180032
+totalCashPerShare	16.272
+ebitda	-138966000
+totalDebt	14349000
+quickRatio	16.358
+currentRatio	16.629
+totalRevenue	403711008
+debtToEquity	1.669
+revenuePerShare	8.863
+returnOnAssets	-0.088719994
+returnOnEquity	-0.08899
+freeCashflow	40946376
+operatingCashflow	77227000
+revenueGrowth	-0.622
+grossMargins	0.23346001
+ebitdaMargins	-0.34422
+operatingMargins	-0.25847
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                 -12904200.0  -8110512.421998      760200.0   -14308200.0
+Tax Rate For Calcs                                                  0.2         0.385169           0.2           0.2
+Normalized EBITDA                                             7962000.0       95019000.0   -17790000.0   161209000.0
+Total Unusual Items                                         -64521000.0      -21057000.0     3801000.0   -71541000.0
+Total Unusual Items Excluding Goodwill                      -64521000.0      -21057000.0     3801000.0   -71541000.0
+Net Income From Continuing Operation Net Minority Interest  -80004000.0       26275000.0   -48273000.0     9328000.0
+Reconciled Depreciation                                      13045000.0       37503000.0    33035000.0    33869000.0
+Reconciled Cost Of Revenue                                  309459000.0      643875000.0   957535000.0  1326402000.0
+EBITDA                                                      -56559000.0       73962000.0   -13989000.0    89668000.0
+EBIT                                                        -69604000.0       36459000.0   -47024000.0    55799000.0
+Net Interest Income                                          32356000.0        9521000.0     -807000.0     4827000.0
+Interest Expense                                               981000.0        2165000.0     3050000.0     3753000.0
+Interest Income                                              33337000.0       11686000.0     2243000.0     8580000.0
+Normalized Income                                           -28387200.0  39221487.578002   -51313800.0    66560800.0
+Net Income From Continuing And Discontinued Operation       -80004000.0       26275000.0   -48273000.0     9328000.0
+Total Expenses                                              481250000.0      872429000.0  1189492000.0  1687062000.0
+Diluted Average Shares                                              NaN       45549000.0    45540566.0    45968000.0
+Basic Average Shares                                                NaN       45549000.0    45540566.0    45963000.0
+Diluted EPS                                                         NaN             0.58         -1.06           0.2
+Basic EPS                                                           NaN             0.58         -1.06           0.2
+Diluted NI Availto Com Stockholders                         -80004000.0       26275000.0   -48273000.0     9328000.0
+Net Income Common Stockholders                              -80004000.0       26275000.0   -48273000.0     9328000.0
+Otherunder Preferred Stock Dividend                                 0.0              0.0           0.0           0.0
+Net Income                                                  -80004000.0       26275000.0   -48273000.0     9328000.0
+Minority Interests                                                  0.0        5190000.0     6353000.0     6214000.0
+Net Income Including Noncontrolling Interests               -80004000.0       21085000.0   -54626000.0     3114000.0
+Net Income Continuous Operations                            -80004000.0       21085000.0   -54626000.0     3114000.0
+Tax Provision                                                 9419000.0       13209000.0     4552000.0    48932000.0
+Pretax Income                                               -70585000.0       34294000.0   -50074000.0    52046000.0
+Other Non Operating Income Expenses                          39119000.0       83573000.0     5628000.0     7517000.0
+Special Income Charges                                      -64521000.0      -21057000.0    -1141000.0   -59387000.0
+Write Off                                                    64521000.0       21057000.0     1141000.0    59387000.0
+Net Non Operating Interest Income Expense                    32356000.0        9521000.0     -807000.0     4827000.0
+Interest Expense Non Operating                                 981000.0        2165000.0     3050000.0     3753000.0
+Interest Income Non Operating                                33337000.0       11686000.0     2243000.0     8580000.0
+Operating Income                                            -77539000.0      -37743000.0   -35118000.0   150720000.0
+Operating Expense                                           171791000.0      228554000.0   231957000.0   360660000.0
+Other Operating Expenses                                            NaN        -457000.0     2945000.0    94614000.0
+Research And Development                                            0.0        1278000.0     2826000.0     6038000.0
+Selling General And Administration                          171791000.0      227276000.0   226186000.0   260008000.0
+Selling And Marketing Expense                                94320000.0      135901000.0   128453000.0   161621000.0
+General And Administrative Expense                           77471000.0       91375000.0    97733000.0    98387000.0
+Gross Profit                                                 94252000.0      190811000.0   196839000.0   511380000.0
+Cost Of Revenue                                             309459000.0      643875000.0   957535000.0  1326402000.0
+Total Revenue                                               403711000.0      834686000.0  1154374000.0  1837782000.0
+Operating Revenue                                           403711000.0      834686000.0  1154374000.0  1837782000.0

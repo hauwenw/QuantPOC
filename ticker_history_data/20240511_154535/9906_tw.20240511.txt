@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 6, Minquan 2nd Road
+address2	27th Floor Qianzhen District
+city	Kaohsiung
+zip	80661
+country	Taiwan
+phone	886 7 537 8899
+fax	886 7 537 7699
+website	https://www.hsinbaba.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Hsin Ba Ba Corporation plans, designs, develops, sells, and rents commercial and residential buildings. It manufactures, processes, and trades paper containers, their parts, and machinery; and is involved in printing business, such as printing on metal, glass, and aluminum foil. The company was incorporated in 1967 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jionghui  Huang', 'title': 'Chairman and General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhenyu  Li', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chenru  Xu', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	87.5
+open	87.6
+dayLow	85.6
+dayHigh	89.2
+regularMarketPreviousClose	87.5
+regularMarketOpen	87.6
+regularMarketDayLow	85.6
+regularMarketDayHigh	89.2
+dividendRate	4.57
+dividendYield	0.052800003
+exDividendDate	1693785600	 (2023-09-04 08:00:00)
+payoutRatio	0.7496
+beta	0.759
+trailingPE	14.196721
+volume	505120
+regularMarketVolume	505120
+averageVolume	460237
+averageVolume10days	653014
+averageDailyVolume10Day	653014
+bid	86.5
+ask	86.6
+marketCap	7217590272
+fiftyTwoWeekLow	47.2
+fiftyTwoWeekHigh	101.0
+priceToSalesTrailing12Months	1.936093
+fiftyDayAverage	77.866
+twoHundredDayAverage	61.258
+currency	TWD
+enterpriseValue	13740910592
+profitMargins	0.13961
+floatShares	42873820
+sharesOutstanding	83344000
+heldPercentInsiders	0.76225996
+heldPercentInstitutions	0.00042
+impliedSharesOutstanding	87919400
+bookValue	18.084
+priceToBook	4.7887635
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	520444992
+trailingEps	6.1
+lastSplitFactor	1117.715:1000
+lastSplitDate	1535414400	 (2018-08-28 08:00:00)
+enterpriseToRevenue	3.686
+enterpriseToEbitda	19.468
+52WeekChange	0.7494949
+SandP52WeekChange	0.26265144
+lastDividendValue	4.572276
+lastDividendDate	1693785600	 (2023-09-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9906.TW
+underlyingSymbol	9906.TW
+shortName	HSIN BA BA CORPORATION
+longName	Hsin Ba Ba Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f2f565ee-7eb3-3ce6-87c8-dbb706358b4f
+messageBoardId	finmb_10758989
+gmtOffSetMilliseconds	28800000
+currentPrice	86.6
+recommendationKey	none
+totalCash	248062000
+totalCashPerShare	2.976
+ebitda	705809984
+totalDebt	6771381760
+quickRatio	0.036
+currentRatio	1.285
+totalRevenue	3727915008
+debtToEquity	449.26
+revenuePerShare	44.729
+returnOnAssets	0.043330003
+returnOnEquity	0.3653
+freeCashflow	1682614272
+operatingCashflow	1786141056
+revenueGrowth	-0.676
+grossMargins	0.28959
+ebitdaMargins	0.18933001
+operatingMargins	-0.16181
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0          0.0
+Tax Rate For Calcs                                              0.224314      0.227143           0.2          0.0
+Normalized EBITDA                                            718916000.0   588900000.0   295184000.0  -47806000.0
+Net Income From Continuing Operation Net Minority Interest   520445000.0   423413000.0   261770000.0  -88994000.0
+Reconciled Depreciation                                        9553000.0     8468000.0     7565000.0    5383000.0
+Reconciled Cost Of Revenue                                  2648365000.0  2097155000.0   950613000.0  126075000.0
+EBITDA                                                       718916000.0   588900000.0   295184000.0  -47806000.0
+EBIT                                                         709363000.0   580432000.0   287619000.0  -53189000.0
+Net Interest Income                                          -36529000.0   -32233000.0   -40655000.0  -35626000.0
+Interest Expense                                              38415000.0    32578000.0    40827000.0   35805000.0
+Interest Income                                                1886000.0      345000.0      172000.0     179000.0
+Normalized Income                                            520445000.0   423413000.0   261770000.0  -88994000.0
+Net Income From Continuing And Discontinued Operation        520445000.0   423413000.0   261770000.0  -88994000.0
+Total Expenses                                              3023034000.0  2397379000.0  1133988000.0  218239000.0
+Diluted Average Shares                                               NaN    83465000.0    83366242.0   83344000.0
+Basic Average Shares                                                 NaN    83344000.0    83366242.0   83344000.0
+Diluted EPS                                                          NaN          5.07          3.14        -1.07
+Basic EPS                                                            NaN          5.08          3.14        -1.07
+Diluted NI Availto Com Stockholders                          520445000.0   423413000.0   261770000.0  -88994000.0
+Net Income Common Stockholders                               520445000.0   423413000.0   261770000.0  -88994000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0          0.0
+Net Income                                                   520445000.0   423413000.0   261770000.0  -88994000.0
+Net Income Including Noncontrolling Interests                520445000.0   423413000.0   261770000.0  -88994000.0
+Net Income Continuous Operations                             520445000.0   423413000.0   261770000.0  -88994000.0
+Tax Provision                                                150503000.0   124441000.0   -14978000.0          0.0
+Pretax Income                                                670948000.0   547854000.0   246792000.0  -88994000.0
+Other Non Operating Income Expenses                            2596000.0     3615000.0     6267000.0   -2957000.0
+Net Non Operating Interest Income Expense                    -36529000.0   -32233000.0   -40655000.0  -35626000.0
+Interest Expense Non Operating                                38415000.0    32578000.0    40827000.0   35805000.0
+Interest Income Non Operating                                  1886000.0      345000.0      172000.0     179000.0
+Operating Income                                             704881000.0   576472000.0   281180000.0  -50411000.0
+Operating Expense                                            374669000.0   300224000.0   183375000.0   92164000.0
+Selling General And Administration                           374669000.0   300224000.0   183375000.0   92164000.0
+Selling And Marketing Expense                                231526000.0   188377000.0    86976000.0   18200000.0
+General And Administrative Expense                           143143000.0   111847000.0    96399000.0   73964000.0
+Gross Profit                                                1079550000.0   876696000.0   464555000.0   41753000.0
+Cost Of Revenue                                             2648365000.0  2097155000.0   950613000.0  126075000.0
+Total Revenue                                               3727915000.0  2973851000.0  1415168000.0  167828000.0
+Operating Revenue                                           3727915000.0  2973851000.0  1415168000.0  167828000.0

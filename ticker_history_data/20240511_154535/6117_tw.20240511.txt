@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 57, Nan Shang Road
+address2	Lane 350 Guishan District
+city	Taoyuan City
+zip	333014
+country	Taiwan
+phone	886 3 322 9898
+fax	886 3 352 7317
+website	https://www.in-win.com/
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	In Win Development Inc. processes, manufactures, and trades in computer and peripheral equipment in Russia, the United States, Japan, Taiwan, and internationally. It offers gaming and computer chassis, gaming and PC power supplies, IPC/servers, and cooling fans, as well as full, mid, mini, and micro tower chassis products. The company engages in the manufacturing, baking, and trading of mechanical hardware parts and plastic products; cloud platform construction planning with software deployment; general trade transaction; and production and sale of electronic components. It offers its products through distributors, online stores, resellers, retailer shops, and SIs. In Win Development Inc. was incorporated in 1985 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Guohui  Huang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	90.4
+open	90.6
+dayLow	86.4
+dayHigh	92.2
+regularMarketPreviousClose	90.4
+regularMarketOpen	90.6
+regularMarketDayLow	86.4
+regularMarketDayHigh	92.2
+exDividendDate	1532476800	 (2018-07-25 08:00:00)
+fiveYearAvgDividendYield	2.04
+beta	0.971
+trailingPE	89.21569
+volume	10041454
+regularMarketVolume	10041454
+averageVolume	8221977
+averageVolume10days	6964843
+averageDailyVolume10Day	6964843
+bid	90.5
+ask	91.0
+marketCap	8067149824
+fiftyTwoWeekLow	14.35
+fiftyTwoWeekHigh	114.5
+priceToSalesTrailing12Months	3.405506
+fiftyDayAverage	83.014
+twoHundredDayAverage	61.416
+currency	TWD
+enterpriseValue	9033152512
+profitMargins	0.038259998
+sharesOutstanding	88650000
+heldPercentInsiders	0.60026
+impliedSharesOutstanding	88758200
+bookValue	13.704
+priceToBook	6.6403966
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	90626000
+trailingEps	1.02
+lastSplitFactor	118:100
+lastSplitDate	1089763200	 (2004-07-14 08:00:00)
+enterpriseToRevenue	3.813
+enterpriseToEbitda	36.0
+52WeekChange	5.275862
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1532476800	 (2018-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6117.TW
+underlyingSymbol	6117.TW
+shortName	IN-WIN DEVELOPMENT INC
+longName	In Win Development Inc.
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6c506d4d-7192-3441-90b2-22522c3e99d7
+messageBoardId	finmb_9830163
+gmtOffSetMilliseconds	28800000
+currentPrice	91.0
+recommendationKey	none
+totalCash	660099008
+totalCashPerShare	7.446
+ebitda	250920992
+totalDebt	1621688064
+quickRatio	0.76
+currentRatio	1.164
+totalRevenue	2368855040
+debtToEquity	133.007
+revenuePerShare	26.721
+returnOnAssets	0.02012
+returnOnEquity	0.07497
+freeCashflow	275351264
+operatingCashflow	449808000
+revenueGrowth	0.329
+grossMargins	0.23353
+ebitdaMargins	0.10593
+operatingMargins	0.14278
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  -455206.552402      1482.878014     -445200.0      142600.0
+Tax Rate For Calcs                                                 0.055854         0.003652           0.2           0.2
+Normalized EBITDA                                               337516000.0      265188000.0    75841000.0    76262000.0
+Total Unusual Items                                              -8150000.0         406000.0    -2226000.0      713000.0
+Total Unusual Items Excluding Goodwill                           -8150000.0         406000.0    -2226000.0      713000.0
+Net Income From Continuing Operation Net Minority Interest       90626000.0       54729000.0   -87063000.0   -76364000.0
+Reconciled Depreciation                                         199967000.0      188616000.0   151684000.0   149945000.0
+Reconciled Cost Of Revenue                                     1815667000.0     1924111000.0  1923129000.0  1785858000.0
+EBITDA                                                          329366000.0      265594000.0    73615000.0    76975000.0
+EBIT                                                            129399000.0       76978000.0   -78069000.0   -72970000.0
+Net Interest Income                                             -30940000.0      -26012000.0   -13770000.0    -8613000.0
+Interest Expense                                                 35815000.0       29612000.0    18351000.0    15761000.0
+Interest Income                                                   4875000.0        3600000.0     4581000.0     7148000.0
+Normalized Income                                           98320793.447598  54324482.878014   -85282200.0   -76934400.0
+Net Income From Continuing And Discontinued Operation            90626000.0       54729000.0   -87063000.0   -76364000.0
+Total Expenses                                                 2244920000.0     2386260000.0  2392420000.0  2273856000.0
+Diluted Average Shares                                                  NaN       88650000.0    88650000.0    88650000.0
+Basic Average Shares                                                    NaN       88650000.0    88650000.0    88650000.0
+Diluted EPS                                                             NaN             0.62         -0.98         -0.86
+Basic EPS                                                               NaN             0.62         -0.98         -0.86
+Diluted NI Availto Com Stockholders                              90626000.0       54729000.0   -87063000.0   -76364000.0
+Net Income Common Stockholders                                   90626000.0       54729000.0   -87063000.0   -76364000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0           0.0           0.0
+Net Income                                                       90626000.0       54729000.0   -87063000.0   -76364000.0
+Minority Interests                                                2269000.0        7536000.0    13050000.0    14939000.0
+Net Income Including Noncontrolling Interests                    88357000.0       47193000.0  -100113000.0   -91303000.0
+Net Income Continuous Operations                                 88357000.0       47193000.0  -100113000.0   -91303000.0
+Tax Provision                                                     5227000.0         173000.0     3693000.0     2572000.0
+Pretax Income                                                    93584000.0       47366000.0   -96420000.0   -88731000.0
+Other Non Operating Income Expenses                               8739000.0       61568000.0      562000.0    -9969000.0
+Special Income Charges                                           -8150000.0         406000.0    -2226000.0      713000.0
+Write Off                                                         8150000.0        -406000.0     2226000.0     -713000.0
+Net Non Operating Interest Income Expense                       -30940000.0      -26012000.0   -13770000.0    -8613000.0
+Interest Expense Non Operating                                   35815000.0       29612000.0    18351000.0    15761000.0
+Interest Income Non Operating                                     4875000.0        3600000.0     4581000.0     7148000.0
+Operating Income                                                123935000.0       11404000.0   -80986000.0   -70862000.0
+Operating Expense                                               429253000.0      462149000.0   469291000.0   487998000.0
+Research And Development                                         85511000.0      101387000.0   121401000.0   126687000.0
+Selling General And Administration                              343742000.0      360762000.0   347890000.0   361311000.0
+Selling And Marketing Expense                                   155418000.0      165955000.0   136116000.0   147501000.0
+General And Administrative Expense                              188324000.0      194807000.0   211774000.0   213810000.0
+Gross Profit                                                    553188000.0      473553000.0   388305000.0   417136000.0
+Cost Of Revenue                                                1815667000.0     1924111000.0  1923129000.0  1785858000.0
+Total Revenue                                                  2368855000.0     2397664000.0  2311434000.0  2202994000.0
+Operating Revenue                                              2368855000.0     2397664000.0  2311434000.0  2202994000.0

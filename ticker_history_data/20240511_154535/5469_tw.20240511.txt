@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 9, Gongye 4th Road
+address2	Guanyin District
+city	Taoyuan City
+zip	328
+country	Taiwan
+phone	886 3 483 8500
+fax	886 3 483 8400
+website	https://tw.hannstarboard.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	HannStar Board Corporation manufactures, assembles, and sells printed circuit boards (PCBs) in Taiwan. It operates through PCB, EMS, and Other segments. The company offers double-sided, multi-layer, thick copper, high-density interconnect, and SLC multi-layer PCB products. Its products are used in games, televisions, liquid crystal displays, personal computers, networking and automotive products, set up boxes, servers, and other applications. The company is also involved in the investment; enterprise real estate management; developing, leasing, and selling residential buildings; manufacture of mechanical equipment and electronic parts; waste recycling, sale, and waste water treatment; property management; industrial plant rental; and mold assembly and manufacturing businesses. The company was formerly known as Pacific Science and Technology Industrial Co., Ltd. and changed its name to HannStar Board Corporation in December 1998. The company was incorporated in 1989 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Heng  Chiao', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng-Kuo  Tao', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pei-Chi  Chien', 'title': 'Financial Officer, Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Feng  Tsai', 'title': 'Manager & President of Business Dept. (Taiwan)', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun Tang  Lee', 'title': 'Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.hannstarboard.com/wps/wcm/connect/english/TW/Investor+Relations/
+maxAge	86400
+priceHint	2
+previousClose	55.1
+open	55.3
+dayLow	54.6
+dayHigh	55.5
+regularMarketPreviousClose	55.1
+regularMarketOpen	55.3
+regularMarketDayLow	54.6
+regularMarketDayHigh	55.5
+dividendRate	2.4
+dividendYield	0.0437
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.4752
+fiveYearAvgDividendYield	4.41
+beta	0.662
+trailingPE	10.871287
+forwardPE	9.07438
+volume	2680125
+regularMarketVolume	2680125
+averageVolume	5950264
+averageVolume10days	2407138
+averageDailyVolume10Day	2407138
+bid	54.6
+ask	55.3
+marketCap	28846710784
+fiftyTwoWeekLow	38.7
+fiftyTwoWeekHigh	70.0
+priceToSalesTrailing12Months	0.67123216
+fiftyDayAverage	57.9
+twoHundredDayAverage	56.52025
+currency	TWD
+enterpriseValue	41194770432
+profitMargins	0.06235
+floatShares	262688021
+sharesOutstanding	525440992
+heldPercentInsiders	0.50113
+heldPercentInstitutions	0.16138001
+impliedSharesOutstanding	529248992
+bookValue	57.937
+priceToBook	0.947581
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.464
+netIncomeToCommon	2679653120
+trailingEps	5.05
+forwardEps	6.05
+lastSplitFactor	1019.956:1000
+lastSplitDate	1563235200	 (2019-07-16 08:00:00)
+enterpriseToRevenue	0.959
+enterpriseToEbitda	4.467
+52WeekChange	0.4076923
+SandP52WeekChange	0.26265144
+lastDividendValue	2.4
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5469.TW
+underlyingSymbol	5469.TW
+shortName	HANNSTAR BOARD CORP
+longName	HannStar Board Corporation
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5651dffd-53db-3b47-b6ae-a92619ccb64f
+messageBoardId	finmb_10837017
+gmtOffSetMilliseconds	28800000
+currentPrice	54.9
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	22005100544
+totalCashPerShare	41.642
+ebitda	9221056512
+totalDebt	20312164352
+quickRatio	1.419
+currentRatio	1.748
+totalRevenue	42975756288
+debtToEquity	45.653
+revenuePerShare	81.326
+returnOnAssets	0.05607
+returnOnEquity	0.10743
+freeCashflow	6784711168
+operatingCashflow	9970557952
+earningsGrowth	-0.465
+revenueGrowth	-0.094
+grossMargins	0.24972
+ebitdaMargins	0.21455999
+operatingMargins	0.16017
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     -83756.131328   -14960618.07432     -859054.339492    -7784176.210876
+Tax Rate For Calcs                                                   0.351917          0.355892           0.275691           0.292166
+Normalized EBITDA                                                9957454000.0      9945344000.0      10404781000.0       8386925000.0
+Total Unusual Items                                                 -238000.0       -42037000.0         -3116000.0        -26643000.0
+Total Unusual Items Excluding Goodwill                              -238000.0       -42037000.0         -3116000.0        -26643000.0
+Net Income From Continuing Operation Net Minority Interest       2679653000.0      3208703000.0       3724959000.0       3163613000.0
+Reconciled Depreciation                                          2541342000.0      2445996000.0       2130660000.0       2306526000.0
+Reconciled Cost Of Revenue                                      32243956000.0     38323922000.0      45762955000.0      36110210000.0
+EBITDA                                                           9957216000.0      9903307000.0      10401665000.0       8360282000.0
+EBIT                                                             7415874000.0      7457311000.0       8271005000.0       6053756000.0
+Net Interest Income                                               615264000.0       198137000.0        158843000.0         24961000.0
+Interest Expense                                                  416697000.0       260725000.0        178456000.0        267944000.0
+Interest Income                                                  1031961000.0       458862000.0        337299000.0        292905000.0
+Normalized Income                                           2679807243.868672  3235779381.92568  3727215945.660508  3182471823.789124
+Net Income From Continuing And Discontinued Operation            2679653000.0      3208703000.0       3724959000.0       3163613000.0
+Total Expenses                                                  36056108000.0     42267965000.0      50388169000.0      40314045000.0
+Diluted Average Shares                                                    NaN       532035000.0        530989000.0        516454000.0
+Basic Average Shares                                                      NaN       528441000.0        528136000.0        514086000.0
+Diluted EPS                                                               NaN              6.03               7.02               6.13
+Basic EPS                                                                 NaN              6.07               7.05               6.15
+Diluted NI Availto Com Stockholders                              2679653000.0      3208703000.0       3724959000.0       3163613000.0
+Net Income Common Stockholders                                   2679653000.0      3208703000.0       3724959000.0       3163613000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0                0.0
+Net Income                                                       2679653000.0      3208703000.0       3724959000.0       3163613000.0
+Minority Interests                                              -1856398000.0     -1426678000.0      -2136544000.0       -931782000.0
+Net Income Including Noncontrolling Interests                    4536051000.0      4635381000.0       5861503000.0       4095395000.0
+Net Income Discontinuous Operations                                       0.0               0.0                NaN                NaN
+Net Income Continuous Operations                                 4536051000.0      4635381000.0       5861503000.0       4095395000.0
+Tax Provision                                                    2463126000.0      2561205000.0       2231046000.0       1690417000.0
+Pretax Income                                                    6999177000.0      7196586000.0       8092549000.0       5785812000.0
+Other Non Operating Income Expenses                               170474000.0      1302548000.0       1220220000.0        197742000.0
+Special Income Charges                                              -238000.0       -42037000.0         -3116000.0        -26643000.0
+Write Off                                                            238000.0        42037000.0          3116000.0         26643000.0
+Net Non Operating Interest Income Expense                         615264000.0       198137000.0        158843000.0         24961000.0
+Interest Expense Non Operating                                    416697000.0       260725000.0        178456000.0        267944000.0
+Interest Income Non Operating                                    1031961000.0       458862000.0        337299000.0        292905000.0
+Operating Income                                                 6919649000.0      5419971000.0       6611518000.0       5390225000.0
+Operating Expense                                                3812152000.0      3944043000.0       4625214000.0       4203835000.0
+Research And Development                                          351941000.0       387193000.0        401921000.0        385541000.0
+Selling General And Administration                               3460211000.0      3556850000.0       4223293000.0       3818294000.0
+Selling And Marketing Expense                                    1029194000.0      1112711000.0       1286107000.0       1039462000.0
+General And Administrative Expense                               2431017000.0      2444139000.0       2937186000.0       2778832000.0
+Gross Profit                                                    10731801000.0      9364014000.0      11236732000.0       9594060000.0
+Cost Of Revenue                                                 32243956000.0     38323922000.0      45762955000.0      36110210000.0
+Total Revenue                                                   42975757000.0     47687936000.0      56999687000.0      45704270000.0
+Operating Revenue                                               42975757000.0     47687936000.0      56999687000.0      45704270000.0

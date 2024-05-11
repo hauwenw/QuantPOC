@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.8, Xingye Road
+address2	Lukang Township
+city	Lukang
+zip	505
+country	Taiwan
+phone	886 4 781 0355
+fax	886 4 781 0863
+website	https://www.yccco.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Y.C.C. Parts Mfg. Co., Ltd. manufactures, imports, exports, and trades in automobiles parts in Taiwan, China, and internationally. The company provides bumpers, grilles, head lamp mounting panels, valances, head lamps, and other products. It also engages in the operating and reinvesting related businesses. The company was incorporated in 1986 and is based in Lukang, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Shi Yun Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	78.0
+open	78.1
+dayLow	75.1
+dayHigh	80.5
+regularMarketPreviousClose	78.0
+regularMarketOpen	78.1
+regularMarketDayLow	75.1
+regularMarketDayHigh	80.5
+dividendRate	3.0
+dividendYield	0.039300002
+exDividendDate	1693958400	 (2023-09-06 08:00:00)
+payoutRatio	0.5119
+fiveYearAvgDividendYield	4.88
+beta	0.575
+trailingPE	13.020478
+forwardPE	23.76947
+volume	1053474
+regularMarketVolume	1053474
+averageVolume	661437
+averageVolume10days	1426587
+averageDailyVolume10Day	1426587
+bid	76.1
+ask	76.5
+marketCap	5655661568
+fiftyTwoWeekLow	43.15
+fiftyTwoWeekHigh	85.1
+priceToSalesTrailing12Months	2.7572331
+fiftyDayAverage	71.912
+twoHundredDayAverage	62.59075
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.03846154
+currency	TWD
+enterpriseValue	5578194432
+profitMargins	0.21239
+floatShares	32259452
+sharesOutstanding	74124000
+heldPercentInsiders	0.68207
+heldPercentInstitutions	0.00525
+impliedSharesOutstanding	77463904
+bookValue	53.234
+priceToBook	1.4332945
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	435660992
+trailingEps	5.86
+forwardEps	3.21
+lastSplitFactor	1.055:1
+lastSplitDate	1314835200	 (2011-09-01 08:00:00)
+enterpriseToRevenue	2.719
+enterpriseToEbitda	7.227
+52WeekChange	0.7580645
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1693958400	 (2023-09-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1339.TW
+underlyingSymbol	1339.TW
+shortName	Y.C.C. PARTS MFG CO LTD
+longName	Y.C.C. Parts Mfg. Co., Ltd.
+firstTradeDateEpochUtc	1335229200	 (2012-04-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b07399ba-6fd8-348f-b5cd-4984d25ab36e
+messageBoardId	finmb_48767696
+gmtOffSetMilliseconds	28800000
+currentPrice	76.3
+recommendationKey	none
+totalCash	812004992
+totalCashPerShare	10.955
+ebitda	771811968
+totalDebt	638462016
+quickRatio	1.599
+currentRatio	2.059
+totalRevenue	2051208960
+debtToEquity	15.796
+revenuePerShare	27.673
+returnOnAssets	0.04586
+returnOnEquity	0.110080004
+freeCashflow	112170248
+operatingCashflow	805619008
+revenueGrowth	0.088
+grossMargins	0.33613
+ebitdaMargins	0.37627
+operatingMargins	0.26817
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   8564716.303847   -4192558.993064   -1123024.230367    -101836.471793
+Tax Rate For Calcs                                                  0.205335          0.239424          0.250619          0.330638
+Normalized EBITDA                                                896366000.0       947139000.0       540691000.0       508731000.0
+Total Unusual Items                                               41711000.0       -17511000.0        -4481000.0         -308000.0
+Total Unusual Items Excluding Goodwill                            41711000.0       -17511000.0        -4481000.0         -308000.0
+Net Income From Continuing Operation Net Minority Interest       435661000.0       408560000.0       135753000.0       117679000.0
+Reconciled Depreciation                                          376599000.0       376078000.0       347229000.0       313500000.0
+Reconciled Cost Of Revenue                                      1361742000.0      1490296000.0      1472524000.0      1483398000.0
+EBITDA                                                           938077000.0       929628000.0       536210000.0       508423000.0
+EBIT                                                             561478000.0       553550000.0       188981000.0       194923000.0
+Net Interest Income                                               17324000.0        -7576000.0       -15991000.0        -8121000.0
+Interest Expense                                                  17269000.0        26327000.0        18575000.0        16226000.0
+Interest Income                                                   34593000.0        18751000.0         2584000.0         8105000.0
+Normalized Income                                           402514716.303847  421878441.006936  139110975.769633  117885163.528207
+Net Income From Continuing And Discontinued Operation            435661000.0       408560000.0       135753000.0       117679000.0
+Total Expenses                                                  1691057000.0      1823245000.0      1739130000.0      1770150000.0
+Diluted Average Shares                                                   NaN        74336000.0        74285000.0        74272000.0
+Basic Average Shares                                                     NaN        74124000.0        74124000.0        74124000.0
+Diluted EPS                                                              NaN               5.5              1.83              1.58
+Basic EPS                                                                NaN              5.51              1.83              1.59
+Diluted NI Availto Com Stockholders                              435661000.0       408560000.0       135753000.0       117679000.0
+Net Income Common Stockholders                                   435661000.0       408560000.0       135753000.0       117679000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       435661000.0       408560000.0       135753000.0       117679000.0
+Minority Interests                                                 3197000.0         7567000.0         8054000.0        -1934000.0
+Net Income Including Noncontrolling Interests                    432464000.0       400993000.0       127699000.0       119613000.0
+Net Income Continuous Operations                                 432464000.0       400993000.0       127699000.0       119613000.0
+Tax Provision                                                    111745000.0       126230000.0        42707000.0        59084000.0
+Pretax Income                                                    544209000.0       527223000.0       170406000.0       178697000.0
+Other Non Operating Income Expenses                              125022000.0       354797000.0        11908000.0      -163625000.0
+Special Income Charges                                            41711000.0       -17511000.0        -4481000.0         -308000.0
+Write Off                                                        -41711000.0        17511000.0         4481000.0          308000.0
+Net Non Operating Interest Income Expense                         17324000.0        -7576000.0       -15991000.0        -8121000.0
+Interest Expense Non Operating                                    17269000.0        26327000.0        18575000.0        16226000.0
+Interest Income Non Operating                                     34593000.0        18751000.0         2584000.0         8105000.0
+Operating Income                                                 360152000.0       197513000.0       178970000.0       350751000.0
+Operating Expense                                                329315000.0       332949000.0       266606000.0       286752000.0
+Research And Development                                          69766000.0        70601000.0        37564000.0        31247000.0
+Selling General And Administration                               259549000.0       262348000.0       229042000.0       255505000.0
+Selling And Marketing Expense                                    146205000.0       126108000.0       113494000.0       127736000.0
+General And Administrative Expense                               113344000.0       136240000.0       115548000.0       127769000.0
+Gross Profit                                                     689467000.0       530462000.0       445576000.0       637503000.0
+Cost Of Revenue                                                 1361742000.0      1490296000.0      1472524000.0      1483398000.0
+Total Revenue                                                   2051209000.0      2020758000.0      1918100000.0      2120901000.0
+Operating Revenue                                               2051209000.0      2020758000.0      1918100000.0      2120901000.0

@@ -1,0 +1,141 @@
+=== Ticker Info ===
+address1	No. 18, Wuquan 7th Road
+address2	3rd Floor Wugu District
+city	New Taipei City
+zip	248
+country	Taiwan
+phone	886 2 2299 1907
+website	https://www.soly-tech.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Solytech Enterprise Corporation engages in the manufacture and sale of switching power supplies and PC enclosures in Taiwan and internationally. The company offers chassis, such as gaming, microATX, slim microATX, mini-ITX, and ATX cases chassis, as well as rackmount chassis; air purification components; and power cords and adapters for RV camp power, marine shore, and generator use. It also provides cooling products, such as fans; electric adjustable desk converters; and supply chain services, including electronics design, manufacturing, mold design, metal stamping, plastic injection, painting, and assembly. The company was founded in 1982 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Xiang  Zheng', 'title': 'GM, COO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lin Da Jun', 'title': 'Finance and Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi Wei Qiu', 'title': 'Special Assistant to General Manager and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.8
+open	15.7
+dayLow	15.3
+dayHigh	15.8
+regularMarketPreviousClose	15.8
+regularMarketOpen	15.7
+regularMarketDayLow	15.3
+regularMarketDayHigh	15.8
+beta	1.455
+volume	908148
+regularMarketVolume	908148
+averageVolume	1559989
+averageVolume10days	700451
+averageDailyVolume10Day	700451
+bid	15.4
+ask	15.45
+marketCap	2316391168
+fiftyTwoWeekLow	8.73
+fiftyTwoWeekHigh	23.65
+priceToSalesTrailing12Months	9.025768
+fiftyDayAverage	15.938
+twoHundredDayAverage	17.1835
+currency	TWD
+enterpriseValue	1168025856
+profitMargins	-0.16816999
+sharesOutstanding	150415008
+heldPercentInsiders	0.20587999
+heldPercentInstitutions	0.00339
+impliedSharesOutstanding	150415008
+bookValue	9.503
+priceToBook	1.6205407
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-43160000
+trailingEps	-0.23
+lastSplitFactor	1.0269:1
+lastSplitDate	1280102400	 (2010-07-26 08:00:00)
+enterpriseToRevenue	4.551
+enterpriseToEbitda	-17.374
+52WeekChange	0.70921195
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	1471.TW
+underlyingSymbol	1471.TW
+shortName	SOLYTECH ENTERPRISE CORPORATION
+longName	Solytech Enterprise Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	225ee863-fcbf-3141-9720-ff29a56473f2
+messageBoardId	finmb_9870704
+gmtOffSetMilliseconds	28800000
+currentPrice	15.4
+recommendationKey	none
+totalCash	1227730944
+totalCashPerShare	8.162
+ebitda	-67229000
+totalDebt	6065000
+quickRatio	11.309
+currentRatio	12.129
+totalRevenue	256642000
+debtToEquity	0.404
+revenuePerShare	1.706
+returnOnAssets	-0.03128
+returnOnEquity	-0.02796
+freeCashflow	16965376
+operatingCashflow	101763000
+revenueGrowth	0.069
+grossMargins	0.12201
+ebitdaMargins	-0.26196
+operatingMargins	-0.19121
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    830600.0   -1988600.0      51600.0    -448595.670166
+Tax Rate For Calcs                                                  0.2          0.2          0.2          0.056335
+Normalized EBITDA                                           -18560000.0 -123770000.0    3891000.0       478104000.0
+Total Unusual Items                                           4153000.0   -9943000.0     258000.0        -7963000.0
+Total Unusual Items Excluding Goodwill                        4153000.0   -9943000.0     258000.0        -7963000.0
+Net Income From Continuing Operation Net Minority Interest  -43160000.0 -157283000.0  -18526000.0       396101000.0
+Reconciled Depreciation                                      27873000.0   22381000.0   21156000.0        41466000.0
+Reconciled Cost Of Revenue                                  225330000.0  240544000.0  348022000.0       976899000.0
+EBITDA                                                      -14407000.0 -133713000.0    4149000.0       470141000.0
+EBIT                                                        -42280000.0 -156094000.0  -17007000.0       428675000.0
+Net Interest Income                                          33278000.0    5641000.0   -1080000.0        -8480000.0
+Interest Expense                                               445000.0    1175000.0    1526000.0         8936000.0
+Interest Income                                              33723000.0    6816000.0     446000.0          456000.0
+Normalized Income                                           -46482400.0 -149328600.0  -18732400.0  403615404.329834
+Net Income From Continuing And Discontinued Operation       -43160000.0 -157283000.0  -18526000.0       396101000.0
+Total Expenses                                              345679000.0  380757000.0  497215000.0      1182567000.0
+Diluted Average Shares                                      150415000.0  150415000.0  150415000.0       150415000.0
+Basic Average Shares                                        150415000.0  150415000.0  150415000.0       150415000.0
+Diluted EPS                                                       -0.29        -1.05    -0.123166              2.63
+Basic EPS                                                         -0.29        -1.05        -0.12              2.63
+Diluted NI Availto Com Stockholders                         -43160000.0 -157283000.0  -18526000.0       396101000.0
+Net Income Common Stockholders                              -43160000.0 -157283000.0  -18526000.0       396101000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0               0.0
+Net Income                                                  -43160000.0 -157283000.0  -18526000.0       396101000.0
+Minority Interests                                              13000.0      16000.0      12000.0            8000.0
+Net Income Including Noncontrolling Interests               -43173000.0 -157299000.0  -18538000.0       396093000.0
+Net Income Continuous Operations                            -43173000.0 -157299000.0  -18538000.0       396093000.0
+Tax Provision                                                  448000.0      30000.0       5000.0        23646000.0
+Pretax Income                                               -42725000.0 -157269000.0  -18533000.0       419739000.0
+Other Non Operating Income Expenses                           8881000.0  -10199000.0  123688000.0       533383000.0
+Special Income Charges                                        4153000.0   -9943000.0     258000.0        -7963000.0
+Write Off                                                    -4153000.0    9943000.0    -258000.0         7963000.0
+Net Non Operating Interest Income Expense                    33278000.0    5641000.0   -1080000.0        -8480000.0
+Interest Expense Non Operating                                 445000.0    1175000.0    1526000.0         8936000.0
+Interest Income Non Operating                                33723000.0    6816000.0     446000.0          456000.0
+Operating Income                                            -89037000.0 -142768000.0 -141399000.0       -97201000.0
+Operating Expense                                           120349000.0  140213000.0  149193000.0       205668000.0
+Research And Development                                      7750000.0   10279000.0   11064000.0         9724000.0
+Selling General And Administration                          112599000.0  129934000.0  138129000.0       195944000.0
+Selling And Marketing Expense                                28633000.0   31269000.0   29480000.0        25899000.0
+General And Administrative Expense                           83966000.0   98665000.0  108649000.0       170045000.0
+Gross Profit                                                 31312000.0   -2555000.0    7794000.0       108467000.0
+Cost Of Revenue                                             225330000.0  240544000.0  348022000.0       976899000.0
+Total Revenue                                               256642000.0  237989000.0  355816000.0      1085366000.0
+Operating Revenue                                           256642000.0  237989000.0  355816000.0      1085366000.0

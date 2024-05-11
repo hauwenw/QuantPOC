@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 22, Jianguo East Road
+address2	Taoyuan District
+city	Taoyuan City
+zip	330
+country	Taiwan
+phone	886 3 375 9888
+fax	886 3 375 6966
+website	https://www.fsp-group.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	FSP Technology Inc. engages in manufacture and sale of power supply products and electronic components in Taiwan and internationally. The company's products include adapters, open frames, IPC PSU, battery chargers, and UPS, as well as medical PSU, energy storage system, SSL LED drivers, and display PSUs. Its products are used in medical and gaming power supply, PD charger, smart manufacturing, 5G, smart life, battery charger, UPS, and ESS applications. The company was founded in 1993 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ya-Jen  Cheng', 'title': 'Chairman of the Board, President, Managerial Officer & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fu-Jung  Li', 'title': 'Financial Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsi-Yun  Sang', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Ruey  Chen', 'title': 'President of Kaohsiung Branch', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fu Rong Li', 'title': 'Treasurer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.fsp-group.com.tw/english/6_financial/1_law.asp
+maxAge	86400
+priceHint	2
+previousClose	61.1
+open	61.5
+dayLow	60.8
+dayHigh	62.0
+regularMarketPreviousClose	61.1
+regularMarketOpen	61.5
+regularMarketDayLow	60.8
+regularMarketDayHigh	62.0
+dividendRate	3.2
+dividendYield	0.0525
+exDividendDate	1718841600	 (2024-06-20 08:00:00)
+payoutRatio	1.1377
+fiveYearAvgDividendYield	6.57
+trailingPE	18.233534
+volume	809085
+regularMarketVolume	809085
+averageVolume	1755791
+averageVolume10days	1096427
+averageDailyVolume10Day	1096427
+bid	60.9
+ask	61.0
+marketCap	11404256256
+fiftyTwoWeekLow	47.25
+fiftyTwoWeekHigh	72.0
+priceToSalesTrailing12Months	0.9159127
+fiftyDayAverage	59.09
+twoHundredDayAverage	52.8885
+currency	TWD
+enterpriseValue	7470249472
+profitMargins	0.050580002
+floatShares	113224949
+sharesOutstanding	187262000
+heldPercentInsiders	0.40752998
+heldPercentInstitutions	0.0431
+impliedSharesOutstanding	191220000
+bookValue	75.853
+priceToBook	0.8028688
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.365
+netIncomeToCommon	629736000
+trailingEps	3.34
+lastSplitFactor	0.82:1
+lastSplitDate	1444694400	 (2015-10-13 08:00:00)
+enterpriseToRevenue	0.6
+enterpriseToEbitda	13.768
+52WeekChange	0.2661122
+SandP52WeekChange	0.26265144
+lastDividendValue	3.2
+lastDividendDate	1718841600	 (2024-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3015.TW
+underlyingSymbol	3015.TW
+shortName	FSP TECHNOLOGY INC.
+longName	FSP Technology Inc.
+firstTradeDateEpochUtc	1034816400	 (2002-10-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9f03e309-5c9c-320c-bfd6-4ec1f9c06a4f
+messageBoardId	finmb_9829346
+gmtOffSetMilliseconds	28800000
+currentPrice	60.9
+recommendationKey	none
+totalCash	4835343872
+totalCashPerShare	25.875
+ebitda	542569984
+totalDebt	511187008
+quickRatio	1.578
+currentRatio	2.002
+totalRevenue	12451248128
+debtToEquity	3.504
+revenuePerShare	66.373
+returnOnAssets	0.01039
+returnOnEquity	0.04638
+freeCashflow	324220864
+operatingCashflow	695430976
+earningsGrowth	0.386
+revenueGrowth	-0.26
+grossMargins	0.18608999
+ebitdaMargins	0.04358
+operatingMargins	-0.00195
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -3098673.657428    1062232.657783     160216.620862   -2230724.739948
+Tax Rate For Calcs                                                  0.182522          0.168876          0.165856          0.259055
+Normalized EBITDA                                               1209144000.0      1336855000.0      1315561000.0      1276733000.0
+Total Unusual Items                                              -16977000.0         6290000.0          966000.0        -8611000.0
+Total Unusual Items Excluding Goodwill                           -16977000.0         6290000.0          966000.0        -8611000.0
+Net Income From Continuing Operation Net Minority Interest       599238000.0       722439000.0       754082000.0       669314000.0
+Reconciled Depreciation                                          385512000.0       374350000.0       344581000.0       320748000.0
+Reconciled Cost Of Revenue                                     10773503000.0     11587346000.0     14225200000.0     12730131000.0
+EBITDA                                                          1192167000.0      1343145000.0      1316527000.0      1268122000.0
+EBIT                                                             806655000.0       968795000.0       971946000.0       947374000.0
+Net Interest Income                                               50315000.0        10127000.0        12002000.0        10553000.0
+Interest Expense                                                  24146000.0        17028000.0        11346000.0        13330000.0
+Interest Income                                                   74461000.0        27155000.0        23348000.0        23883000.0
+Normalized Income                                           613116326.342572  717211232.657783  753276216.620862  675694275.260052
+Net Income From Continuing And Discontinued Operation            599238000.0       722439000.0       754082000.0       669314000.0
+Total Expenses                                                 12691740000.0     13360099000.0     15978462000.0     14322731000.0
+Diluted Average Shares                                           188826000.0       189306000.0       188889000.0       190005000.0
+Basic Average Shares                                             187262000.0       187262000.0       187262000.0       188632000.0
+Diluted EPS                                                             3.17              3.82              3.99              3.52
+Basic EPS                                                                3.2              3.86              4.03              3.55
+Diluted NI Availto Com Stockholders                              599238000.0       722439000.0       754082000.0       669314000.0
+Net Income Common Stockholders                                   599238000.0       722439000.0       754082000.0       669314000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       599238000.0       722439000.0       754082000.0       669314000.0
+Minority Interests                                               -40446000.0       -68597000.0       -47197000.0       -22761000.0
+Net Income Including Noncontrolling Interests                    639684000.0       791036000.0       801279000.0       692075000.0
+Net Income Continuous Operations                                 639684000.0       791036000.0       801279000.0       692075000.0
+Tax Provision                                                    142825000.0       160731000.0       159321000.0       241969000.0
+Pretax Income                                                    782509000.0       951767000.0       960600000.0       934044000.0
+Other Non Operating Income Expenses                              258877000.0       395967000.0       272558000.0       455324000.0
+Special Income Charges                                           -16977000.0         6290000.0          966000.0        -8611000.0
+Write Off                                                         16977000.0        -6290000.0         -966000.0         8611000.0
+Net Non Operating Interest Income Expense                         50315000.0        10127000.0        12002000.0        10553000.0
+Interest Expense Non Operating                                    24146000.0        17028000.0        11346000.0        13330000.0
+Interest Income Non Operating                                     74461000.0        27155000.0        23348000.0        23883000.0
+Operating Income                                                 487841000.0       535771000.0       671790000.0       473729000.0
+Operating Expense                                               1918237000.0      1772753000.0      1753262000.0      1592600000.0
+Other Operating Expenses                                                 NaN               NaN          847000.0         2781000.0
+Research And Development                                         559978000.0       481663000.0       455887000.0       451578000.0
+Selling General And Administration                              1358259000.0      1291090000.0      1297375000.0      1141022000.0
+Selling And Marketing Expense                                    710183000.0       622750000.0       620915000.0       531862000.0
+General And Administrative Expense                               648076000.0       668340000.0       676460000.0       609160000.0
+Gross Profit                                                    2406078000.0      2308524000.0      2425052000.0      2066329000.0
+Cost Of Revenue                                                10773503000.0     11587346000.0     14225200000.0     12730131000.0
+Total Revenue                                                  13179581000.0     13895870000.0     16650252000.0     14796460000.0
+Operating Revenue                                              13179581000.0     13895870000.0     16650252000.0     14796460000.0

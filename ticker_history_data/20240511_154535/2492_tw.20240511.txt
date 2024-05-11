@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 566-1
+address2	Gaoshi Road Yangmei District
+city	Taoyuan
+zip	32668
+country	Taiwan
+phone	886-3-475-8711
+fax	886-3-475-7130
+website	https://www.passivecomponent.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Walsin Technology Corporation develops, manufactures, and sells of passive electronic components in Taiwan and internationally. It provides chip capacitors, chip resistors, semiconductive capacitor elements, ceramic dielectric powders, and magnetic elements. It also researches, develops, manufactures, and sells integrated electrical protection component, hybrid microwave antenna module, electric capacitors, thick film printed circuit board, multilayered dielectric filters, EMI filters, and multilayer type microwave communication component and module; sensing control and radio frequency components; and trades electronic parts. Additionally, it offers transformer, coils, and rectifier diode; computers and peripheral output devices, communication products and components, antenna wholesale, and after sales service. Further, It provides marketing, warehousing, and commission agency services. The company's products are used in mobile communication, networking, automotive, industrial, power supply, IoT, green energy, PC and peripheral, and lighting applications. Walsin Technology Corporation was incorporated in 1970 and is headquartered in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Tsan  Tseng', 'title': 'President and R&D Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tse-Kuang  Yeh', 'title': 'Head of Financial & Accounting and Assistant VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yeh-Jeng  Chen', 'title': 'Assistant VP, Legal Counsel, Chief Legal Officer & Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui Chang  Huang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui-Jung  Chang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Hsiung  Peng', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	113.0
+open	114.0
+dayLow	112.0
+dayHigh	114.5
+regularMarketPreviousClose	113.0
+regularMarketOpen	114.0
+regularMarketDayLow	112.0
+regularMarketDayHigh	114.5
+dividendRate	2.41
+dividendYield	0.021300001
+exDividendDate	1690502400	 (2023-07-28 08:00:00)
+payoutRatio	0.515
+fiveYearAvgDividendYield	4.6
+beta	1.341
+trailingPE	24.197002
+forwardPE	6.5017266
+volume	1189400
+regularMarketVolume	1189400
+averageVolume	4044799
+averageVolume10days	4165569
+averageDailyVolume10Day	4165569
+bid	113.0
+ask	113.5
+marketCap	54782853120
+fiftyTwoWeekLow	89.3
+fiftyTwoWeekHigh	143.5
+priceToSalesTrailing12Months	1.6703275
+fiftyDayAverage	110.45
+twoHundredDayAverage	110.5305
+currency	TWD
+enterpriseValue	71804829696
+profitMargins	0.060510002
+floatShares	297097771
+sharesOutstanding	484804000
+heldPercentInsiders	0.37824002
+heldPercentInstitutions	0.07
+impliedSharesOutstanding	489020000
+bookValue	96.079
+priceToBook	1.1761155
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	1984595968
+trailingEps	4.67
+forwardEps	17.38
+lastSplitFactor	0.937838:1
+lastSplitDate	1504742400	 (2017-09-07 08:00:00)
+enterpriseToRevenue	2.189
+enterpriseToEbitda	10.72
+52WeekChange	0.18697476
+SandP52WeekChange	0.26265144
+lastDividendValue	2.40495
+lastDividendDate	1690502400	 (2023-07-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2492.TW
+underlyingSymbol	2492.TW
+shortName	WALSIN TECHNOLOGY CORP
+longName	Walsin Technology Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	07db1ce7-89a3-3d69-b161-ce28d61a5027
+messageBoardId	finmb_9649231
+gmtOffSetMilliseconds	28800000
+currentPrice	113.0
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	20129095680
+totalCashPerShare	41.52
+ebitda	6698442240
+totalDebt	27114907648
+quickRatio	1.199
+currentRatio	1.492
+totalRevenue	32797671424
+debtToEquity	47.893
+revenuePerShare	67.651
+returnOnAssets	0.01205
+returnOnEquity	0.04824
+freeCashflow	3439909120
+operatingCashflow	8493716992
+revenueGrowth	0.074
+grossMargins	0.17797
+ebitdaMargins	0.20424
+operatingMargins	0.08703
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   40226015.867172   -79707328.928829    56290772.993472    42387943.815513
+Tax Rate For Calcs                                                   0.237282           0.351231           0.158578           0.201129
+Normalized EBITDA                                                8820881000.0       9601928000.0      15142167000.0      12495709000.0
+Total Unusual Items                                               169528000.0       -226937000.0        354973000.0        210750000.0
+Total Unusual Items Excluding Goodwill                            169528000.0       -226937000.0        354973000.0        210750000.0
+Net Income From Continuing Operation Net Minority Interest       1984596000.0       1650587000.0       7931941000.0       6632254000.0
+Reconciled Depreciation                                          5113109000.0       5573022000.0       4638904000.0       3485887000.0
+Reconciled Cost Of Revenue                                      26960516000.0      28997415000.0      29596325000.0      24356194000.0
+EBITDA                                                           8990409000.0       9374991000.0      15497140000.0      12706459000.0
+EBIT                                                             3877300000.0       3801969000.0      10858236000.0       9220572000.0
+Net Interest Income                                               674942000.0        250636000.0        258345000.0        156676000.0
+Interest Expense                                                  392495000.0        264076000.0        208322000.0        185765000.0
+Interest Income                                                  1067437000.0        514712000.0        466667000.0        342441000.0
+Normalized Income                                           1855294015.867172  1797816671.071171  7633258772.993472  6463891943.815513
+Net Income From Continuing And Discontinued Operation            1984596000.0       1650587000.0       7931941000.0       6632254000.0
+Total Expenses                                                  31002360000.0      33236230000.0      33709126000.0      27685710000.0
+Diluted Average Shares                                            508093000.0        507740000.0        507625000.0        495009000.0
+Basic Average Shares                                              484804000.0        484804000.0        485067000.0        485536000.0
+Diluted EPS                                                               4.0               3.35              15.72              13.44
+Basic EPS                                                                4.09                3.4              16.35              13.66
+Diluted NI Availto Com Stockholders                              1984596000.0       1650587000.0       7931941000.0       6632254000.0
+Net Income Common Stockholders                                   1984596000.0       1650587000.0       7931941000.0       6632254000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1984596000.0       1650587000.0       7931941000.0       6632254000.0
+Minority Interests                                               -673326000.0       -644688000.0      -1029135000.0       -585391000.0
+Net Income Including Noncontrolling Interests                    2657922000.0       2295275000.0       8961076000.0       7217645000.0
+Net Income Continuous Operations                                 2657922000.0       2295275000.0       8961076000.0       7217645000.0
+Tax Provision                                                     826883000.0       1242618000.0       1688838000.0       1817162000.0
+Pretax Income                                                    3484805000.0       3537893000.0      10649914000.0       9034807000.0
+Other Non Operating Income Expenses                                26384000.0         49807000.0        154748000.0        165576000.0
+Special Income Charges                                             16696000.0        -13323000.0         -2220000.0        -18815000.0
+Other Special Charges                                             -16696000.0         13323000.0          2220000.0         18815000.0
+Restructuring And Mergern Acquisition                                     NaN                NaN                NaN        -52009000.0
+Net Non Operating Interest Income Expense                         674942000.0        250636000.0        258345000.0        156676000.0
+Interest Expense Non Operating                                    392495000.0        264076000.0        208322000.0        185765000.0
+Interest Income Non Operating                                    1067437000.0        514712000.0        466667000.0        342441000.0
+Operating Income                                                 1795311000.0       2060933000.0       8399582000.0       7913539000.0
+Operating Expense                                                4041844000.0       4238815000.0       4112801000.0       3329516000.0
+Research And Development                                         1040016000.0       1133114000.0       1054647000.0        863275000.0
+Selling General And Administration                               3001828000.0       3105701000.0       3058154000.0       2466241000.0
+Selling And Marketing Expense                                    1647608000.0       1754720000.0       1763056000.0       1353707000.0
+General And Administrative Expense                               1354220000.0       1350981000.0       1295098000.0       1112534000.0
+Gross Profit                                                     5837155000.0       6299748000.0      12512383000.0      11243055000.0
+Cost Of Revenue                                                 26960516000.0      28997415000.0      29596325000.0      24356194000.0
+Total Revenue                                                   32797671000.0      35297163000.0      42108708000.0      35599249000.0
+Operating Revenue                                               32797671000.0      35297163000.0      42108708000.0      35599249000.0

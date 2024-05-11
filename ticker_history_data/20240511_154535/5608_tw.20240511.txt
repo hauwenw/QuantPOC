@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 167, Fusing North Road
+address2	16th Floor Song-Shan District
+city	Taipei
+zip	10547
+country	Taiwan
+phone	886 2 8712 1888
+fax	886 2 8712 7298
+website	https://www.swnav.com.tw
+industry	Marine Shipping
+industryKey	marine-shipping
+industryDisp	Marine Shipping
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Shih Wei Navigation Co., Ltd. operates as a dry cargo shipping company in Taiwan. It engages in the shipping transportation, shipping agency, and ship management and chartering, as well as ship sale and purchase activities. The company trades in various types of bulk cargo, such as iron ore, coal, grains, steel products, cement clinker, machineries, wooden products, chemical products, wood pulp, and equipment, as well as industrial materials and logs. The company operates a fleet of 37 vessels. Shih Wei Navigation Co., Ltd. was founded in 1985 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shin-Chyi  Lan', 'title': 'Chairwoman of the Board & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kang-Lun  Hsu', 'title': 'CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiu-Ching  Lin', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-Ying  Lin', 'title': 'Assistant Vice President of Accounting Division - Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.3
+open	20.3
+dayLow	19.7
+dayHigh	20.95
+regularMarketPreviousClose	20.3
+regularMarketOpen	20.3
+regularMarketDayLow	19.7
+regularMarketDayHigh	20.95
+dividendRate	1.5
+dividendYield	0.0723
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	1.5945
+fiveYearAvgDividendYield	6.33
+beta	1.364
+forwardPE	1.877828
+volume	19249552
+regularMarketVolume	19249552
+averageVolume	3230477
+averageVolume10days	8476882
+averageDailyVolume10Day	8476882
+bid	20.75
+ask	20.8
+marketCap	8077373440
+fiftyTwoWeekLow	17.3
+fiftyTwoWeekHigh	25.15
+priceToSalesTrailing12Months	2.3337374
+fiftyDayAverage	19.202
+twoHundredDayAverage	19.4545
+currency	TWD
+enterpriseValue	14970901504
+profitMargins	-0.13753
+floatShares	317287007
+sharesOutstanding	389271008
+heldPercentInsiders	0.20073
+heldPercentInstitutions	0.0325
+impliedSharesOutstanding	394503008
+bookValue	24.363
+priceToBook	0.8517013
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.523
+netIncomeToCommon	-476000000
+trailingEps	-1.31
+forwardEps	11.05
+lastSplitFactor	659.332:1000
+lastSplitDate	1550188800	 (2019-02-15 08:00:00)
+enterpriseToRevenue	4.325
+enterpriseToEbitda	12.088
+52WeekChange	-0.11906397
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5608.TW
+underlyingSymbol	5608.TW
+shortName	SHIH WEI NAVIGATION
+longName	Shih Wei Navigation Co., Ltd.
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	41a165a4-2707-3690-9c01-baa29c0375d9
+messageBoardId	finmb_9755634
+gmtOffSetMilliseconds	28800000
+currentPrice	20.75
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3411976960
+totalCashPerShare	8.765
+ebitda	1238541952
+totalDebt	10085370880
+quickRatio	0.663
+currentRatio	0.795
+totalRevenue	3461132032
+debtToEquity	103.932
+revenuePerShare	9.174
+returnOnAssets	-0.00452
+returnOnEquity	-0.05747
+freeCashflow	247368880
+operatingCashflow	411600000
+earningsGrowth	-0.573
+revenueGrowth	-0.362
+grossMargins	0.03932
+ebitdaMargins	0.35784
+operatingMargins	-0.01585
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31         2022-12-31         2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    2714200.0    14115036.731843    31059118.604959   -13824400.0
+Tax Rate For Calcs                                                   0.2           0.204453           0.172327           0.2
+Normalized EBITDA                                           1513058000.0       4157096000.0       3699470000.0   908563000.0
+Total Unusual Items                                           13571000.0         69038000.0        180234000.0   -69122000.0
+Total Unusual Items Excluding Goodwill                        13571000.0         69038000.0        180234000.0   -69122000.0
+Net Income From Continuing Operation Net Minority Interest  -476000000.0       2028642000.0       2002509000.0  -912015000.0
+Reconciled Depreciation                                     1405750000.0       1389158000.0       1300089000.0  1442574000.0
+Reconciled Cost Of Revenue                                  3325045000.0       3545284000.0       2949779000.0  3136862000.0
+EBITDA                                                      1526629000.0       4226134000.0       3879704000.0   839441000.0
+EBIT                                                         120879000.0       2836976000.0       2579615000.0  -603133000.0
+Net Interest Income                                         -430090000.0       -336697000.0       -266881000.0  -397462000.0
+Interest Expense                                             614485000.0        405979000.0        267941000.0   399432000.0
+Interest Income                                              184395000.0         69282000.0          1060000.0     1970000.0
+Normalized Income                                           -486856800.0  1973719036.731843  1853334118.604959  -856717400.0
+Net Income From Continuing And Discontinued Operation       -476000000.0       2028642000.0       2002509000.0  -912015000.0
+Total Expenses                                              3628340000.0       3887070000.0       3261575000.0  3358721000.0
+Diluted Average Shares                                               NaN        335893000.0        282965352.0   284827963.0
+Basic Average Shares                                                 NaN        333651000.0        281861264.0   284827963.0
+Diluted EPS                                                          NaN               6.04           7.081224     -3.206157
+Basic EPS                                                            NaN               6.08           7.101059     -3.206157
+Diluted NI Availto Com Stockholders                         -476000000.0       2028642000.0       2002509000.0  -912015000.0
+Net Income Common Stockholders                              -476000000.0       2028642000.0       2002509000.0  -912015000.0
+Otherunder Preferred Stock Dividend                                  0.0                0.0                0.0           0.0
+Net Income                                                  -476000000.0       2028642000.0       2002509000.0  -912015000.0
+Minority Interests                                            95888000.0         94670000.0         89198000.0    95153000.0
+Net Income Including Noncontrolling Interests               -571888000.0       1933972000.0       1913311000.0 -1007168000.0
+Net Income Continuous Operations                            -571888000.0       1933972000.0       1913311000.0 -1007168000.0
+Tax Provision                                                 78282000.0        497025000.0        398363000.0     4603000.0
+Pretax Income                                               -493606000.0       2430997000.0       2311674000.0 -1002565000.0
+Other Non Operating Income Expenses                           73576000.0         73979000.0         84602000.0    85019000.0
+Special Income Charges                                        13172000.0         71155000.0        179523000.0   -69106000.0
+Other Special Charges                                        -23237000.0        -71155000.0       -179523000.0    15730000.0
+Write Off                                                            NaN                NaN                0.0    33483000.0
+Impairment Of Capital Assets                                  10065000.0                0.0                0.0    19893000.0
+Net Non Operating Interest Income Expense                   -430090000.0       -336697000.0       -266881000.0  -397462000.0
+Interest Expense Non Operating                               614485000.0        405979000.0        267941000.0   399432000.0
+Interest Income Non Operating                                184395000.0         69282000.0          1060000.0     1970000.0
+Operating Income                                            -167208000.0       2828743000.0       2271144000.0  -687898000.0
+Operating Expense                                            303295000.0        341786000.0        311796000.0   221859000.0
+Other Operating Expenses                                             NaN                NaN        311796000.0   221859000.0
+Selling General And Administration                           303295000.0        341786000.0        311796000.0           NaN
+General And Administrative Expense                           303295000.0        341786000.0        311796000.0           NaN
+Gross Profit                                                 136087000.0       3170529000.0       2582940000.0  -466039000.0
+Cost Of Revenue                                             3325045000.0       3545284000.0       2949779000.0  3136862000.0
+Total Revenue                                               3461132000.0       6715813000.0       5532719000.0  2670823000.0
+Operating Revenue                                           3461132000.0       6715813000.0       5532719000.0  2670823000.0

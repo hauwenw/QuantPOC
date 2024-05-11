@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 5, Central 1st Road
+address2	Cianjhen Dist
+city	Kaohsiung
+country	Taiwan
+phone	886 7 812 4832
+fax	886 7 815 2468
+website	https://www.edtc.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Emerging Display Technologies Corp. produces and sells capacitive touch panels and liquid crystal displays (LCD) in Taiwan, Europe, the United States, and internationally. The company offers thin-film transistor (TFT), super-twisted nematic (STN) character and graphic, TFT with capacitive touch, STN display, and FSTN display technologies using various methods of driver electronics on various modules, such as chip on glass, chip on board, chip on flex, tape automated bonding, and flexible print circuit board. It also provides smart embedded modules that offers components to control the display and touchscreen, as well as various interfaces. The company used its products in industrial equipment, smart home control devices, healthcare equipment, handheld devices, and information appliance products. Emerging Display Technologies Corp. was founded in 1983 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tai-Kuang  Wang', 'title': 'President, CEO & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sandy  Huang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-He  Kuo', 'title': 'Accounting Officer & Deputy Manager of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Chung  Yu', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ying-Lan  Liu', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Hsiung  Hsieh', 'title': "VP, Chairman's Special Assistant, Corporate Governance Officer, Secretary & Representative Director", 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	31.95
+open	32.0
+dayLow	31.85
+dayHigh	32.1
+regularMarketPreviousClose	31.95
+regularMarketOpen	32.0
+regularMarketDayLow	31.85
+regularMarketDayHigh	32.1
+dividendRate	1.6
+dividendYield	0.0499
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	0.5735
+fiveYearAvgDividendYield	5.02
+beta	0.298
+trailingPE	11.487455
+forwardPE	11.365249
+volume	573551
+regularMarketVolume	573551
+averageVolume	1646389
+averageVolume10days	543805
+averageDailyVolume10Day	543805
+bid	32.0
+ask	32.05
+marketCap	4763078656
+fiftyTwoWeekLow	27.5
+fiftyTwoWeekHigh	44.8
+priceToSalesTrailing12Months	1.0857941
+fiftyDayAverage	32.671
+twoHundredDayAverage	31.89475
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.050078247
+currency	TWD
+enterpriseValue	3406276608
+profitMargins	0.095319994
+sharesOutstanding	148614000
+heldPercentInsiders	0.1975
+heldPercentInstitutions	0.055910002
+impliedSharesOutstanding	149080000
+bookValue	17.416
+priceToBook	1.8402617
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.11
+netIncomeToCommon	418152992
+trailingEps	2.79
+forwardEps	2.82
+lastSplitFactor	104.98:100
+lastSplitDate	1186963200	 (2007-08-13 08:00:00)
+enterpriseToRevenue	0.776
+enterpriseToEbitda	6.697
+52WeekChange	0.12456143
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3038.TW
+underlyingSymbol	3038.TW
+shortName	EMERGING DISPLAY TECHNOLOGIES C
+longName	Emerging Display Technologies Corp.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	62948299-a4dd-3337-a820-529454280290
+messageBoardId	finmb_1432336
+gmtOffSetMilliseconds	28800000
+currentPrice	32.05
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	1851917056
+totalCashPerShare	12.461
+ebitda	508593984
+totalDebt	455304000
+quickRatio	2.528
+currentRatio	3.424
+totalRevenue	4386723840
+debtToEquity	17.325
+revenuePerShare	29.518
+returnOnAssets	0.06664
+returnOnEquity	0.16893
+freeCashflow	376697504
+operatingCashflow	667731968
+earningsGrowth	-0.122
+revenueGrowth	-0.22
+grossMargins	0.23040001
+ebitdaMargins	0.11594
+operatingMargins	0.13785
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -20699.603749     -40653.76497     -19213.642675    -842631.340087
+Tax Rate For Calcs                                                  0.171071         0.161324          0.117156          0.149988
+Normalized EBITDA                                                591218000.0      577870000.0       342189000.0       367242000.0
+Total Unusual Items                                                -121000.0        -252000.0         -164000.0        -5618000.0
+Total Unusual Items Excluding Goodwill                             -121000.0        -252000.0         -164000.0        -5618000.0
+Net Income From Continuing Operation Net Minority Interest       418153000.0      420003000.0       237280000.0       233466000.0
+Reconciled Depreciation                                           73456000.0       66485000.0        64924000.0        76152000.0
+Reconciled Cost Of Revenue                                      3376002000.0     3775258000.0      3470218000.0      2951432000.0
+EBITDA                                                           591097000.0      577618000.0       342025000.0       361624000.0
+EBIT                                                             517641000.0      511133000.0       277101000.0       285472000.0
+Net Interest Income                                               29938000.0       -1362000.0        -7933000.0        -1664000.0
+Interest Expense                                                  12658000.0       10372000.0         9177000.0        11363000.0
+Interest Income                                                   42596000.0        9010000.0         1244000.0         9699000.0
+Normalized Income                                           418253300.396251  420214346.23503  237424786.357325  238241368.659913
+Net Income From Continuing And Discontinued Operation            418153000.0      420003000.0       237280000.0       233466000.0
+Total Expenses                                                  3936685000.0     4308286000.0      3916384000.0      3397729000.0
+Diluted Average Shares                                                   NaN      150086000.0       149500000.0       149575000.0
+Basic Average Shares                                                     NaN      148614000.0       148614000.0       148613000.0
+Diluted EPS                                                              NaN              2.8              1.59              1.56
+Basic EPS                                                                NaN             2.83               1.6              1.57
+Diluted NI Availto Com Stockholders                              418153000.0      420003000.0       237280000.0       233466000.0
+Net Income Common Stockholders                                   418153000.0      420003000.0       237280000.0       233466000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                       418153000.0      420003000.0       237280000.0       233466000.0
+Minority Interests                                                 -442000.0          27000.0          745000.0          470000.0
+Net Income Including Noncontrolling Interests                    418595000.0      419976000.0       236535000.0       232996000.0
+Net Income Continuous Operations                                 418595000.0      419976000.0       236535000.0       232996000.0
+Tax Provision                                                     86388000.0       80785000.0        31389000.0        41113000.0
+Pretax Income                                                    504983000.0      500761000.0       267924000.0       274109000.0
+Other Non Operating Income Expenses                               25127000.0      117955000.0         9002000.0       -58179000.0
+Special Income Charges                                             -121000.0        -252000.0         -164000.0        -5618000.0
+Write Off                                                           121000.0         252000.0          164000.0         5618000.0
+Net Non Operating Interest Income Expense                         29938000.0       -1362000.0        -7933000.0        -1664000.0
+Interest Expense Non Operating                                    12658000.0       10372000.0         9177000.0        11363000.0
+Interest Income Non Operating                                     42596000.0        9010000.0         1244000.0         9699000.0
+Operating Income                                                 450039000.0      384420000.0       267019000.0       339570000.0
+Operating Expense                                                560683000.0      533028000.0       446166000.0       446297000.0
+Other Operating Expenses                                          -4344000.0       -4086000.0        -3861000.0        -4064000.0
+Research And Development                                         147382000.0      128388000.0       116966000.0       115565000.0
+Selling General And Administration                               417645000.0      408726000.0       333061000.0       334796000.0
+Selling And Marketing Expense                                    255917000.0      245762000.0       204557000.0       200931000.0
+General And Administrative Expense                               161728000.0      162964000.0       128504000.0       133865000.0
+Gross Profit                                                    1010722000.0      917448000.0       713185000.0       785867000.0
+Cost Of Revenue                                                 3376002000.0     3775258000.0      3470218000.0      2951432000.0
+Total Revenue                                                   4386724000.0     4692706000.0      4183403000.0      3737299000.0
+Operating Revenue                                               4386724000.0     4692706000.0      4183403000.0      3737299000.0

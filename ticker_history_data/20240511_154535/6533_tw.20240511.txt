@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 1, Gongdao 5th Road
+address2	10th Floor Section 3 East District
+city	Hsinchu
+zip	300042
+country	Taiwan
+phone	886 3 572 6533
+fax	886 3 572 6535
+website	https://www.andestech.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Andes Technology Corporation engages in the research and development, design, manufacture, and sale of embedded processor intellectual property (IP), SoC platform solutions, hardware development platform, and software development toolchains in Taiwan and internationally. The company offers AndeStar Architecture, a patented 32-bit/64-bit RISC-style CPU architecture; AndesCore, a series of 32-bit/64-bit CPUs for use in embedded applications; AndesAIRE, a solutions designed for edge and end-point inference; Andes Custom Extension that allows designers design their CPU instructions on the already performance optimized AndesCore processors; and AndeShape Platform that contains various categories of products for system development with AndesCore processors. It also provides AndeSight IDE, an eclipse-based IDE that offers solutions to develop embedded applications; and AndeSoft SW Stack, which provides a set of software components, such as real-time operating system, Linux kernel and drivers, libraries, middleware, and application frameworks. Andes Technology Corporation was incorporated in 2005 is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jyh-Ming  Lin', 'title': 'Co-Founder, Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Hong-Men  Su', 'title': 'Co-founder, President, CTO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Kai  Tsai', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Han-Chang  Chou', 'title': 'Corporate Governance Officer, VP of Finance & ADM Service Division Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guang-Heng  Wang', 'title': 'General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Emerson  Hsiao', 'title': 'Senior Vice President of Andes Technology USA Cooperation', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-Chih  Tseng', 'title': 'Senior Vice President of Technical & New Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Ching  Hsiao', 'title': 'Chief Information Security Officer and Senior VP of R&D', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thang  Tran', 'title': 'Principal Architect', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	375.5
+open	380.0
+dayLow	368.0
+dayHigh	380.0
+regularMarketPreviousClose	375.5
+regularMarketOpen	380.0
+regularMarketDayLow	368.0
+regularMarketDayHigh	380.0
+dividendRate	1.5
+dividendYield	0.004
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	1.2294999
+beta	1.817
+forwardPE	51.595005
+volume	502586
+regularMarketVolume	502586
+averageVolume	1150399
+averageVolume10days	467357
+averageDailyVolume10Day	467357
+bid	372.0
+ask	372.5
+marketCap	18842171392
+fiftyTwoWeekLow	368.0
+fiftyTwoWeekHigh	573.0
+priceToSalesTrailing12Months	17.8123
+fiftyDayAverage	423.71
+twoHundredDayAverage	439.2575
+currency	TWD
+enterpriseValue	15984702464
+profitMargins	-0.09616
+floatShares	39470298
+sharesOutstanding	50651000
+heldPercentInsiders	0.16115999
+heldPercentInstitutions	0.26913
+impliedSharesOutstanding	51515100
+bookValue	94.982
+priceToBook	3.9165316
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-101718000
+trailingEps	-2.01
+forwardEps	7.21
+lastSplitFactor	1050:1000
+lastSplitDate	1535328000	 (2018-08-27 08:00:00)
+enterpriseToRevenue	15.111
+enterpriseToEbitda	-559.493
+52WeekChange	-0.11323005
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6533.TW
+underlyingSymbol	6533.TW
+shortName	ANDES TECHNOLOGY CORPORATION
+longName	Andes Technology Corporation
+firstTradeDateEpochUtc	1438822800	 (2015-08-06 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6987e031-37c5-36c5-b18d-3ee7cf356f46
+messageBoardId	finmb_128452652
+gmtOffSetMilliseconds	28800000
+currentPrice	372.0
+targetHighPrice	658.0
+targetLowPrice	420.0
+targetMeanPrice	536.5
+targetMedianPrice	534.0
+recommendationMean	2.6
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	2968090112
+totalCashPerShare	58.599
+ebitda	-28570000
+totalDebt	110620000
+quickRatio	8.638
+currentRatio	9.037
+totalRevenue	1057817984
+debtToEquity	2.299
+revenuePerShare	20.884
+returnOnAssets	-0.03119
+returnOnEquity	-0.02076
+freeCashflow	-933811776
+operatingCashflow	-69133000
+revenueGrowth	0.312
+grossMargins	0.99921995
+ebitdaMargins	-0.02701
+operatingMargins	-0.02293
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   -5866800.0     103207.067101         87.334519  -3390086.947532
+Tax Rate For Calcs                                                   0.2          0.072477          0.087335         0.091703
+Normalized EBITDA                                            204866000.0       579210000.0       326580000.0      179562000.0
+Total Unusual Items                                          -29334000.0         1424000.0            1000.0      -36968000.0
+Total Unusual Items Excluding Goodwill                       -29334000.0         1424000.0            1000.0      -36968000.0
+Net Income From Continuing Operation Net Minority Interest  -101718000.0       355937000.0       161665000.0       35142000.0
+Reconciled Depreciation                                      272400000.0       195154000.0       147663000.0      101862000.0
+Reconciled Cost Of Revenue                                      823000.0          731000.0         1471000.0        1183000.0
+EBITDA                                                       175532000.0       580634000.0       326581000.0      142594000.0
+EBIT                                                         -96868000.0       385480000.0       178918000.0       40732000.0
+Net Interest Income                                          151491000.0        61045000.0         2450000.0        1227000.0
+Interest Expense                                               2224000.0         1730000.0         1783000.0        2042000.0
+Interest Income                                              153715000.0        62775000.0         4233000.0        3269000.0
+Normalized Income                                            -78250800.0  354616207.067101  161664087.334519  68719913.052468
+Net Income From Continuing And Discontinued Operation       -101718000.0       355937000.0       161665000.0       35142000.0
+Total Expenses                                              1296978000.0      1002413000.0       661115000.0      506422000.0
+Diluted Average Shares                                               NaN        50851000.0        45087000.0       42660000.0
+Basic Average Shares                                                 NaN        50651000.0        45062000.0       42651000.0
+Diluted EPS                                                          NaN               7.0              3.59             0.82
+Basic EPS                                                            NaN              7.03              3.59             0.82
+Diluted NI Availto Com Stockholders                         -101718000.0       355937000.0       161665000.0       35142000.0
+Net Income Common Stockholders                              -101718000.0       355937000.0       161665000.0       35142000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0              0.0
+Net Income                                                  -101718000.0       355937000.0       161665000.0       35142000.0
+Net Income Including Noncontrolling Interests               -101718000.0       355937000.0       161665000.0       35142000.0
+Net Income Continuous Operations                            -101718000.0       355937000.0       161665000.0       35142000.0
+Tax Provision                                                  2626000.0        27813000.0        15470000.0        3548000.0
+Pretax Income                                                -99092000.0       383750000.0       177135000.0       38690000.0
+Other Non Operating Income Expenses                           17911000.0       391873000.0        16021000.0        -159000.0
+Special Income Charges                                       -29334000.0         1424000.0            1000.0      -36968000.0
+Write Off                                                     29334000.0        -1424000.0           -1000.0       36968000.0
+Net Non Operating Interest Income Expense                    151491000.0        61045000.0         2450000.0        1227000.0
+Interest Expense Non Operating                                 2224000.0         1730000.0         1783000.0        2042000.0
+Interest Income Non Operating                                153715000.0        62775000.0         4233000.0        3269000.0
+Operating Income                                            -239160000.0       -70592000.0       158663000.0       74590000.0
+Operating Expense                                           1296155000.0      1001682000.0       659644000.0      505239000.0
+Research And Development                                     766251000.0       559679000.0       343835000.0      237084000.0
+Selling General And Administration                           529904000.0       442003000.0       315809000.0      268155000.0
+Selling And Marketing Expense                                343100000.0       312604000.0       230775000.0      194810000.0
+General And Administrative Expense                           186804000.0       129399000.0        85034000.0       73345000.0
+Gross Profit                                                1056995000.0       931090000.0       818307000.0      579829000.0
+Cost Of Revenue                                                 823000.0          731000.0         1471000.0        1183000.0
+Total Revenue                                               1057818000.0       931821000.0       819778000.0      581012000.0
+Operating Revenue                                           1057818000.0       931821000.0       819778000.0      581012000.0

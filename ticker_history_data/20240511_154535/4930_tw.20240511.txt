@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.333, Tiding Avenue
+address2	6th Floor Section 1 Neihu District
+city	Taipei
+zip	11494
+country	Taiwan
+phone	886 2 2795 6898
+fax	886 2 2795 6656
+website	https://www.starcomgistic.com
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Star Comgistic Capital Co., Ltd. manufactures and sells household appliances in Taiwan and internationally. It offers green energy products, coffee machines, grills, electric irons, electric hot pots, ovens, jump toasters, electric heaters, electric fans, juicer machine motor products, food preparations, home comfort, garment care, etc. The company also designs and manufactures molds related products; processes and manufactures non-ferrous metal composite materials; new alloy materials with feeding materials; and offers catering services. In addition, it sells raw materials, molds, machinery equipment, and spare parts, as well as semi-finished products; and is involved in the import, export, and wholesale of various small household electrical appliances. Further, the company engages in the real estate investment, management, and leasing businesses. Star Comgistic Capital Co., Ltd. was founded in 2009 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jidian  Lin', 'age': 54, 'title': 'Chairman & Manager', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	34.4
+open	34.6
+dayLow	34.6
+dayHigh	35.15
+regularMarketPreviousClose	34.4
+regularMarketOpen	34.6
+regularMarketDayLow	34.6
+regularMarketDayHigh	35.15
+dividendRate	2.3
+dividendYield	0.0657
+exDividendDate	1711584000	 (2024-03-28 08:00:00)
+payoutRatio	0.6069
+beta	0.643
+trailingPE	9.234829
+volume	208410
+regularMarketVolume	208410
+averageVolume	401124
+averageVolume10days	169372
+averageDailyVolume10Day	169372
+bid	35.0
+ask	35.1
+marketCap	2800000000
+fiftyTwoWeekLow	24.6
+fiftyTwoWeekHigh	38.0
+priceToSalesTrailing12Months	0.40551406
+fiftyDayAverage	34.932
+twoHundredDayAverage	30.5545
+trailingAnnualDividendRate	2.3
+trailingAnnualDividendYield	0.06686046
+currency	TWD
+enterpriseValue	709872000
+profitMargins	0.04183
+floatShares	80000000
+sharesOutstanding	80000000
+heldPercentInsiders	0.57629
+heldPercentInstitutions	0.01026
+impliedSharesOutstanding	83032096
+bookValue	40.314
+priceToBook	0.86818475
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.669
+netIncomeToCommon	288804000
+trailingEps	3.79
+lastSplitFactor	595.6814:1000
+lastSplitDate	1647475200	 (2022-03-17 08:00:00)
+enterpriseToRevenue	0.103
+enterpriseToEbitda	1.229
+52WeekChange	0.39999998
+SandP52WeekChange	0.26265144
+lastDividendValue	2.3
+lastDividendDate	1711584000	 (2024-03-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4930.TW
+underlyingSymbol	4930.TW
+shortName	STAR COMGISTIC CAPITAL CO. LTD.
+longName	Star Comgistic Capital Co., Ltd.
+firstTradeDateEpochUtc	1277082000	 (2010-06-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5a4f231a-3cbb-39d3-8d05-094deede3f94
+messageBoardId	finmb_85224985
+gmtOffSetMilliseconds	28800000
+currentPrice	35.0
+recommendationKey	none
+totalCash	6729311232
+totalCashPerShare	84.116
+ebitda	577480000
+totalDebt	1716306048
+quickRatio	2.615
+currentRatio	2.938
+totalRevenue	6904816128
+debtToEquity	27.917
+revenuePerShare	86.31
+returnOnAssets	0.023039998
+returnOnEquity	0.100030005
+freeCashflow	180799744
+operatingCashflow	995632000
+earningsGrowth	0.676
+revenueGrowth	0.218
+grossMargins	0.186
+ebitdaMargins	0.083629996
+operatingMargins	0.04738
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -2097630.186381    1594819.918266    1204706.916363    -539472.120666
+Tax Rate For Calcs                                                  0.236273          0.191157          0.214475          0.251502
+Normalized EBITDA                                               1135354000.0      1018216000.0      1368181000.0      1273857000.0
+Total Unusual Items                                               -8878000.0         8343000.0         5617000.0        -2145000.0
+Total Unusual Items Excluding Goodwill                            -8878000.0         8343000.0         5617000.0        -2145000.0
+Net Income From Continuing Operation Net Minority Interest       288804000.0       264504000.0       428149000.0       310653000.0
+Reconciled Depreciation                                          216244000.0       246680000.0       286894000.0       306868000.0
+Reconciled Cost Of Revenue                                      5620497000.0      6105548000.0      8912363000.0      7718693000.0
+EBITDA                                                          1126476000.0      1026559000.0      1373798000.0      1271712000.0
+EBIT                                                             910232000.0       779879000.0      1086904000.0       964844000.0
+Net Interest Income                                              -17185000.0       -31572000.0       -51470000.0       -65925000.0
+Interest Expense                                                 118736000.0       128497000.0       120876000.0       130875000.0
+Interest Income                                                  101551000.0        96925000.0        69406000.0        64950000.0
+Normalized Income                                           295584369.813619  257755819.918266  423736706.916363  312258527.879334
+Net Income From Continuing And Discontinued Operation            288804000.0       264504000.0       428149000.0       298911000.0
+Total Expenses                                                  6462196000.0      6935883000.0      9809489000.0      8644848000.0
+Diluted Average Shares                                                   NaN        82837000.0       134538000.0       134613000.0
+Basic Average Shares                                                     NaN        82678000.0       134300000.0       134300000.0
+Diluted EPS                                                              NaN              3.19              3.18              2.22
+Basic EPS                                                                NaN               3.2              3.19              2.23
+Diluted NI Availto Com Stockholders                              288804000.0       264504000.0       428149000.0       298911000.0
+Net Income Common Stockholders                                   288804000.0       264504000.0       428149000.0       298911000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       288804000.0       264504000.0       428149000.0       298911000.0
+Minority Interests                                              -315683000.0      -262362000.0      -330690000.0      -313571000.0
+Net Income Including Noncontrolling Interests                    604487000.0       526866000.0       758839000.0       612482000.0
+Net Income Discontinuous Operations                                      NaN               NaN               0.0       -11742000.0
+Net Income Continuous Operations                                 604487000.0       526866000.0       758839000.0       624224000.0
+Tax Provision                                                    187009000.0       124516000.0       207189000.0       209745000.0
+Pretax Income                                                    791496000.0       651382000.0       966028000.0       833969000.0
+Other Non Operating Income Expenses                              371227000.0       206996000.0       312107000.0        88869000.0
+Special Income Charges                                            -8878000.0         8343000.0         5617000.0        -2145000.0
+Write Off                                                          8878000.0        -8343000.0        -5617000.0         2145000.0
+Net Non Operating Interest Income Expense                        -17185000.0       -31572000.0       -51470000.0       -65925000.0
+Interest Expense Non Operating                                   118736000.0       128497000.0       120876000.0       130875000.0
+Interest Income Non Operating                                    101551000.0        96925000.0        69406000.0        64950000.0
+Operating Income                                                 442620000.0       464238000.0       698259000.0       822029000.0
+Operating Expense                                                841699000.0       830335000.0       897126000.0       926155000.0
+Research And Development                                         266587000.0       270000000.0       258085000.0       260485000.0
+Selling General And Administration                               575112000.0       560335000.0       639041000.0       665670000.0
+Selling And Marketing Expense                                    237529000.0       226064000.0       282278000.0       210102000.0
+General And Administrative Expense                               337583000.0       334271000.0       356763000.0       455568000.0
+Gross Profit                                                    1284319000.0      1294573000.0      1595385000.0      1748184000.0
+Cost Of Revenue                                                 5620497000.0      6105548000.0      8912363000.0      7718693000.0
+Total Revenue                                                   6904816000.0      7400121000.0     10507748000.0      9466877000.0
+Operating Revenue                                               6904816000.0      7400121000.0     10507748000.0      9466877000.0

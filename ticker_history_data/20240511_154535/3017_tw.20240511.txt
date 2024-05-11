@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 24, Wuquan 2nd Road
+address2	7th floor Room 3 Xinzhuang District
+city	New Taipei City
+zip	242
+country	Taiwan
+phone	886 2 2299 6930
+fax	886 2 2299 6929
+website	https://www.avc.co
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Asia Vital Components Co., Ltd. provides thermal solutions worldwide. The company offers DC, EC, and thin centrifugal fans; and fan arrays, far-end radiators, radiators, compressor radiators, heat sinks, and heat pipes/vapor chambers. It also designs and manufactures PC related casing systems. In addition, it offers camera modules, hinges, and touch panel products. Further, it manufactures motherboards; and provides system assembly and machine cooling programs. The company's products are used in various areas, including computers, communication equipment, energy, cars, transportation, and other fields of industrial cooling. Asia Vital Components Co., Ltd. was incorporated in 1991 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Hang  Shen', 'age': 59, 'title': 'Chairman, President, CEO & GM', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi Cheng  Chen', 'title': 'VP & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu Hua  Lin', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Fen  Li', 'title': 'Director of Human Resource Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Chen  Chen', 'age': 59, 'title': 'VP & Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiu-Mao  Huang', 'age': 49, 'title': 'VP & Director', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jui Pin  Wang', 'age': 61, 'title': 'VP & Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu Mei  Chen', 'title': 'Head of Corporate Quality Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Ying  Kuo', 'title': 'Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	654.0
+open	657.0
+dayLow	637.0
+dayHigh	658.0
+regularMarketPreviousClose	654.0
+regularMarketOpen	657.0
+regularMarketDayLow	637.0
+regularMarketDayHigh	658.0
+dividendRate	5.0
+dividendYield	0.0078
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.3362
+fiveYearAvgDividendYield	2.49
+beta	0.838
+trailingPE	42.905178
+forwardPE	23.726294
+volume	8465613
+regularMarketVolume	8465613
+averageVolume	16754404
+averageVolume10days	15996424
+averageDailyVolume10Day	15996424
+bid	638.0
+ask	639.0
+marketCap	244551794688
+fiftyTwoWeekLow	168.5
+fiftyTwoWeekHigh	698.0
+priceToSalesTrailing12Months	4.131336
+fiftyDayAverage	596.8
+twoHundredDayAverage	407.0775
+trailingAnnualDividendRate	7.0
+trailingAnnualDividendYield	0.010703363
+currency	TWD
+enterpriseValue	235495374848
+profitMargins	0.08962
+floatShares	325250034
+sharesOutstanding	383310016
+heldPercentInsiders	0.18943001
+heldPercentInstitutions	0.41257
+impliedSharesOutstanding	413732000
+bookValue	57.472
+priceToBook	11.101058
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.545
+netIncomeToCommon	5304713216
+trailingEps	14.87
+forwardEps	26.89
+lastSplitFactor	1.04976:1
+lastSplitDate	1348531200	 (2012-09-25 08:00:00)
+enterpriseToRevenue	3.978
+enterpriseToEbitda	26.05
+52WeekChange	2.7309942
+SandP52WeekChange	0.26265144
+lastDividendValue	4.9958
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3017.TW
+underlyingSymbol	3017.TW
+shortName	ASIA VITAL COMPONENTS CO LTD
+longName	Asia Vital Components Co., Ltd.
+firstTradeDateEpochUtc	1033347600	 (2002-09-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c2b2b96c-b64e-30e6-9e1f-d904251b3abc
+messageBoardId	finmb_9857962
+gmtOffSetMilliseconds	28800000
+currentPrice	638.0
+targetHighPrice	950.0
+targetLowPrice	460.0
+targetMeanPrice	747.5
+targetMedianPrice	752.5
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	26956969984
+totalCashPerShare	70.327
+ebitda	9040013312
+totalDebt	14083170304
+quickRatio	0.927
+currentRatio	1.49
+totalRevenue	59194355712
+debtToEquity	54.487
+revenuePerShare	157.41
+returnOnAssets	0.070199996
+returnOnEquity	0.26875
+freeCashflow	4768351232
+operatingCashflow	10324206592
+earningsGrowth	0.306
+revenueGrowth	0.131
+grossMargins	0.20928
+ebitdaMargins	0.15272
+operatingMargins	0.14451
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -12539654.123908    -6422467.395723    -2524886.764539     5696275.679856
+Tax Rate For Calcs                                                   0.275464           0.288339           0.301623           0.292612
+Normalized EBITDA                                               10458251000.0       8499232000.0       6499001000.0       4335551000.0
+Total Unusual Items                                               -45522000.0        -22274000.0         -8371000.0         19467000.0
+Total Unusual Items Excluding Goodwill                            -45522000.0        -22274000.0         -8371000.0         19467000.0
+Net Income From Continuing Operation Net Minority Interest       5304713000.0       4162261000.0       2900627000.0       1915846000.0
+Reconciled Depreciation                                          1954001000.0       1715939000.0       1576534000.0       1236066000.0
+Reconciled Cost Of Revenue                                      46806236000.0      45166937000.0      38947058000.0      33433811000.0
+EBITDA                                                          10412729000.0       8476958000.0       6490630000.0       4355018000.0
+EBIT                                                             8458728000.0       6761019000.0       4914096000.0       3118952000.0
+Net Interest Income                                               -45789000.0       -184189000.0       -119658000.0       -151325000.0
+Interest Expense                                                  433646000.0        272269000.0        146049000.0        186050000.0
+Interest Income                                                   387857000.0         88080000.0         26391000.0         34725000.0
+Normalized Income                                           5337695345.876092  4178112532.604277  2906473113.235461  1902075275.679856
+Net Income From Continuing And Discontinued Operation            5304713000.0       4162261000.0       2900627000.0       1915846000.0
+Total Expenses                                                  51727735000.0      49688561000.0      42497319000.0      36405402000.0
+Diluted Average Shares                                                    NaN        356520000.0        358907729.0        358706421.0
+Basic Average Shares                                                      NaN        353310000.0        357407530.0        357407530.0
+Diluted EPS                                                               NaN              11.67            8.08622           5.338091
+Basic EPS                                                                 NaN              11.78           8.115876           5.357862
+Diluted NI Availto Com Stockholders                              5304713000.0       4162261000.0       2900627000.0       1915846000.0
+Net Income Common Stockholders                                   5304713000.0       4162261000.0       2900627000.0       1915846000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       5304713000.0       4162261000.0       2900627000.0       1915846000.0
+Minority Interests                                               -509751000.0       -455528000.0       -429267000.0       -158854000.0
+Net Income Including Noncontrolling Interests                    5814464000.0       4617789000.0       3329894000.0       2074700000.0
+Net Income Continuous Operations                                 5814464000.0       4617789000.0       3329894000.0       2074700000.0
+Tax Provision                                                    2210618000.0       1870961000.0       1438153000.0        858202000.0
+Pretax Income                                                    8025082000.0       6488750000.0       4768047000.0       2932902000.0
+Other Non Operating Income Expenses                               568590000.0        328610000.0         43905000.0       -207831000.0
+Special Income Charges                                            -45522000.0        -22274000.0         -8371000.0         19467000.0
+Write Off                                                          45522000.0         22274000.0          8371000.0        -19467000.0
+Net Non Operating Interest Income Expense                         -45789000.0       -184189000.0       -119658000.0       -151325000.0
+Interest Expense Non Operating                                    433646000.0        272269000.0        146049000.0        186050000.0
+Interest Income Non Operating                                     387857000.0         88080000.0         26391000.0         34725000.0
+Operating Income                                                 7466621000.0       6327993000.0       4835420000.0       3260132000.0
+Operating Expense                                                4921499000.0       4521624000.0       3550261000.0       2971591000.0
+Research And Development                                         3128895000.0       2884592000.0       2364731000.0       1929062000.0
+Selling General And Administration                               1792604000.0       1637032000.0       1185530000.0       1042529000.0
+Selling And Marketing Expense                                     989645000.0        880457000.0        631902000.0        589645000.0
+General And Administrative Expense                                802959000.0        756575000.0        553628000.0        452884000.0
+Gross Profit                                                    12388120000.0      10849617000.0       8385681000.0       6231723000.0
+Cost Of Revenue                                                 46806236000.0      45166937000.0      38947058000.0      33433811000.0
+Total Revenue                                                   59194356000.0      56016554000.0      47332739000.0      39665534000.0
+Operating Revenue                                               59194356000.0      56016554000.0      47332739000.0      39665534000.0

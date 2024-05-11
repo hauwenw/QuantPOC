@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	480, Chung Shing Road
+address2	Shin-Wu District
+city	Taoyuan City
+zip	32749
+country	Taiwan
+phone	886 3 477 2797
+fax	886 3 487 0042
+website	https://www.chihlien.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chih Lien Industrial Co., Ltd. engages in the manufacturing, processing, trading, and sale of various steel wires and steel bars in Taiwan and internationally. The company offers high and low carbon, free cutting, bearing, alloy, spring, and cold heading steel wires, as well as free cutting, carbon, tool, alloy, spring, and stainless-steel bars. Its products are used in industrial machinery, precision parts, bicycles, motorcycles, automobiles, tools, household products, electronics, OA machines, springs, furniture, construction, and other industries. Chih Lien Industrial Co., Ltd. was founded in 1973 and is headquartered in Taoyuan City, Taiwan.
+fullTimeEmployees	169
+companyOfficers	[{'maxAge': 1, 'name': 'Lin Xin An', 'title': 'Acting General Manager', 'fiscalYear': 2022, 'totalPay': 1359000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huan  Zhang', 'title': 'Deputy Manager', 'fiscalYear': 2022, 'totalPay': 1414000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ren-Ho  Hsieh', 'title': 'Founder', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming Yuan  Qiu', 'title': 'Accounting Supervisor, Treasurer, Head of Corporate Gov. & Associate Manager of Management Office', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jing Jia  He', 'title': 'Head of Internal Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	21.2
+open	21.4
+dayLow	20.9
+dayHigh	21.4
+regularMarketPreviousClose	21.2
+regularMarketOpen	21.4
+regularMarketDayLow	20.9
+regularMarketDayHigh	21.4
+dividendRate	0.35
+dividendYield	0.0167
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	20.0
+fiveYearAvgDividendYield	4.96
+beta	0.288
+volume	10904
+regularMarketVolume	10904
+averageVolume	44960
+averageVolume10days	23103
+averageDailyVolume10Day	23103
+bid	20.9
+ask	21.3
+marketCap	2037750016
+fiftyTwoWeekLow	15.1
+fiftyTwoWeekHigh	23.55
+priceToSalesTrailing12Months	2.2235765
+fiftyDayAverage	21.736
+twoHundredDayAverage	19.71025
+currency	TWD
+enterpriseValue	2540262912
+profitMargins	-0.05978
+sharesOutstanding	97500000
+heldPercentInsiders	0.74473
+impliedSharesOutstanding	103395000
+bookValue	11.29
+priceToBook	1.8511957
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-54787000
+trailingEps	-0.41
+lastSplitFactor	1:1.6072
+lastSplitDate	1132185600	 (2005-11-17 08:00:00)
+enterpriseToRevenue	2.772
+enterpriseToEbitda	104.611
+52WeekChange	0.16759777
+SandP52WeekChange	0.26265144
+lastDividendValue	0.35
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2024.TW
+underlyingSymbol	2024.TW
+shortName	CHIH LIEN INDUSTRIAL CO
+longName	Chih Lien Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	92a606ce-1f03-3d0f-a8e8-7c368984fc91
+messageBoardId	finmb_20334510
+gmtOffSetMilliseconds	28800000
+currentPrice	20.9
+recommendationKey	none
+totalCash	124758000
+totalCashPerShare	1.28
+ebitda	24283000
+totalDebt	627270976
+quickRatio	0.924
+currentRatio	2.333
+totalRevenue	916428992
+debtToEquity	56.986
+revenuePerShare	9.399
+returnOnAssets	-0.01396
+returnOnEquity	-0.04784
+freeCashflow	307597888
+operatingCashflow	288392992
+revenueGrowth	0.033
+grossMargins	0.01995
+ebitdaMargins	0.026500002
+operatingMargins	-0.02602
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31       2022-12-31        2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                    -41200.0    -18602.836038     306962.294642     96687.37261
+Tax Rate For Calcs                                                  0.2          0.20003          0.198424        0.131547
+Normalized EBITDA                                            35335000.0      144490000.0       256164000.0     119662000.0
+Total Unusual Items                                           -206000.0         -93000.0         1547000.0        735000.0
+Total Unusual Items Excluding Goodwill                        -206000.0         -93000.0         1547000.0        735000.0
+Net Income From Continuing Operation Net Minority Interest  -54787000.0       47219000.0       143349000.0      26843000.0
+Reconciled Depreciation                                      71811000.0       71736000.0        71806000.0      77513000.0
+Reconciled Cost Of Revenue                                  898144000.0     1032615000.0      1263203000.0    1084077000.0
+EBITDA                                                       35129000.0      144397000.0       257711000.0     120397000.0
+EBIT                                                        -36682000.0       72661000.0       185905000.0      42884000.0
+Net Interest Income                                         -15834000.0      -13152000.0        -6856000.0     -11534000.0
+Interest Expense                                             17715000.0       13635000.0         7071000.0      11975000.0
+Interest Income                                               1881000.0         483000.0          215000.0        441000.0
+Normalized Income                                           -54622200.0  47293397.163962  142108962.294642  26204687.37261
+Net Income From Continuing And Discontinued Operation       -54787000.0       47219000.0       143349000.0      26843000.0
+Total Expenses                                              961418000.0     1105779000.0      1344156000.0    1146218000.0
+Diluted Average Shares                                       97500000.0       97599000.0        97693000.0      97545000.0
+Basic Average Shares                                         97500000.0       97500000.0        97500000.0      97500000.0
+Diluted EPS                                                       -0.56             0.48              1.47            0.28
+Basic EPS                                                         -0.56             0.48              1.47            0.28
+Diluted NI Availto Com Stockholders                         -54787000.0       47219000.0       143349000.0      26843000.0
+Net Income Common Stockholders                              -54787000.0       47219000.0       143349000.0      26843000.0
+Otherunder Preferred Stock Dividend                                 0.0              0.0               0.0             0.0
+Net Income                                                  -54787000.0       47219000.0       143349000.0      26843000.0
+Net Income Including Noncontrolling Interests               -54787000.0       47219000.0       143349000.0      26843000.0
+Net Income Continuous Operations                            -54787000.0       47219000.0       143349000.0      26843000.0
+Tax Provision                                                  390000.0       11807000.0        35485000.0       4066000.0
+Pretax Income                                               -54397000.0       59026000.0       178834000.0      30909000.0
+Other Non Operating Income Expenses                           6363000.0         947000.0         2073000.0       7514000.0
+Special Income Charges                                        -245000.0         -58000.0          139000.0      -1875000.0
+Write Off                                                      245000.0          58000.0         -139000.0       1875000.0
+Net Non Operating Interest Income Expense                   -15834000.0      -13152000.0        -6856000.0     -11534000.0
+Interest Expense Non Operating                               17715000.0       13635000.0         7071000.0      11975000.0
+Interest Income Non Operating                                 1881000.0         483000.0          215000.0        441000.0
+Operating Income                                            -44989000.0       62819000.0       182295000.0      38212000.0
+Operating Expense                                            63274000.0       73164000.0        80953000.0      62141000.0
+Selling General And Administration                           63274000.0       73164000.0        80953000.0      62141000.0
+Selling And Marketing Expense                                31009000.0       38486000.0        45422000.0      34801000.0
+General And Administrative Expense                           32265000.0       34678000.0        35531000.0      27340000.0
+Gross Profit                                                 18285000.0      135983000.0       263248000.0     100353000.0
+Cost Of Revenue                                             898144000.0     1032615000.0      1263203000.0    1084077000.0
+Total Revenue                                               916429000.0     1168598000.0      1526451000.0    1184430000.0
+Operating Revenue                                           916429000.0     1168598000.0      1526451000.0    1184430000.0

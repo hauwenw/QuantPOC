@@ -1,0 +1,172 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	No. 8, Li-Hsin Road 6
+city	Hsinchu City
+zip	300096
+country	Taiwan
+phone	886 3 563 6688
+fax	886 3 563 7000
+website	https://www.tsmc.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides a range of wafer fabrication processes, including processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also offers customer and engineering support services; manufactures masks; and invests in technology start-up companies; researches, designs, develops, manufactures, packages, tests, and sells color filters; and provides investment services. Its products are used in high performance computing, smartphones, Internet of things, automotive, and digital consumer electronics. The company was incorporated in 1987 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. C. C.  Wei', 'title': 'Vice Chairman & CEO', 'fiscalYear': 2023, 'totalPay': 459800000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-Chau  Huang', 'title': 'Senior VP of Finance & CFO', 'fiscalYear': 2023, 'totalPay': 88200000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Y. P. Chyn', 'title': 'Executive VP of Operations & Overseas Operations Office and Co-COO', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Y. J. Mii', 'title': 'Executive VP of Research & Development and Co-COO', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Horng-Dar  Lin', 'title': 'Vice President of Corporate Information Technology & Chief Information Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeff  Su', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sylvia  Fang', 'title': 'Senior VP of Legal, General Counsel & Corporate Governance Officer', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Elizabeth  Sun', 'title': 'Senior Director of Corporate Communication Division', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li Mei  He Ho', 'title': 'Senior Vice President of Human Resources', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Wei-Jen  Lo', 'title': 'Senior Vice President of Corporate Strategy Development', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1703980800
+irWebsite	http://www.tsmc.com/english/investorRelations/index.htm
+maxAge	86400
+priceHint	2
+previousClose	796.0
+open	803.0
+dayLow	798.0
+dayHigh	807.0
+regularMarketPreviousClose	796.0
+regularMarketOpen	803.0
+regularMarketDayLow	798.0
+regularMarketDayHigh	807.0
+dividendRate	14.0
+dividendYield	0.0175
+exDividendDate	1718236800	 (2024-06-13 08:00:00)
+payoutRatio	0.36490002
+fiveYearAvgDividendYield	2.4
+beta	1.24
+trailingPE	23.86905
+forwardPE	16.441164
+volume	26365113
+regularMarketVolume	26365113
+averageVolume	41730476
+averageVolume10days	30409044
+averageDailyVolume10Day	30409044
+bid	802.0
+ask	803.0
+marketCap	20799870205952
+fiftyTwoWeekLow	494.5
+fiftyTwoWeekHigh	826.0
+priceToSalesTrailing12Months	9.261895
+fiftyDayAverage	773.98
+twoHundredDayAverage	624.38
+trailingAnnualDividendRate	10.0
+trailingAnnualDividendYield	0.012562814
+currency	TWD
+enterpriseValue	19871228231680
+profitMargins	0.38161
+floatShares	24174020400
+sharesOutstanding	25934999552
+heldPercentInstitutions	0.42796
+impliedSharesOutstanding	26099200000
+bookValue	140.213
+priceToBook	5.719869
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.089
+netIncomeToCommon	856995659776
+trailingEps	33.6
+forwardEps	48.78
+pegRatio	1.01
+lastSplitFactor	1.005:1
+lastSplitDate	1247616000	 (2009-07-15 08:00:00)
+enterpriseToRevenue	8.848
+enterpriseToEbitda	13.148
+52WeekChange	0.6185671
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1718236800	 (2024-06-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2330.TW
+underlyingSymbol	2330.TW
+shortName	TAIWAN SEMICONDUCTOR MANUFACTUR
+longName	Taiwan Semiconductor Manufacturing Company Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b6844710-30a4-30d3-8c32-2bd2ca535487
+messageBoardId	finmb_380075
+gmtOffSetMilliseconds	28800000
+currentPrice	802.0
+targetHighPrice	1080.0
+targetLowPrice	688.0
+targetMeanPrice	917.29
+targetMedianPrice	924.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	24
+totalCash	1922655977472
+totalCashPerShare	74.148
+ebitda	1511369474048
+totalDebt	968039989248
+quickRatio	2.07
+currentRatio	2.39
+totalRevenue	2245746753536
+debtToEquity	26.408
+revenuePerShare	86.61
+returnOnAssets	0.10837
+returnOnEquity	0.25332
+freeCashflow	329548398592
+operatingCashflow	1293033406464
+earningsGrowth	0.09
+revenueGrowth	0.165
+grossMargins	0.53573
+ebitdaMargins	0.67299
+operatingMargins	0.42018002
+financialCurrency	TWD
+trailingPegRatio	1.4057
+
+=== Financials ===
+                                                                   2023-12-31           2022-12-31           2021-12-31           2020-12-31
+Tax Effect Of Unusual Items                                  438032126.937512     450827904.043119      612107018.32178      804146627.81107
+Tax Rate For Calcs                                                   0.130998              0.13179             0.105809             0.126103
+Normalized EBITDA                                             1520163000000.0      1589655700000.0      1085060100000.0       912175500000.0
+Total Unusual Items                                              3343800000.0         3420800000.0         5785000000.0         6376900000.0
+Total Unusual Items Excluding Goodwill                           3343800000.0         3420800000.0         5785000000.0         6376900000.0
+Net Income From Continuing Operation Net Minority Interest     851740000000.0       992923400000.0       592359200000.0       510744000000.0
+Reconciled Depreciation                                        532190900000.0       437254300000.0       422394900000.0       331724600000.0
+Reconciled Cost Of Revenue                                     986625200000.0       915536500000.0       767877700000.0       628124700000.0
+EBITDA                                                        1523506800000.0      1593076500000.0      1090845100000.0       918552400000.0
+EBIT                                                           991315900000.0      1155822200000.0       668450200000.0       586827800000.0
+Net Interest Income                                             48294500000.0        10672200000.0          294600000.0         6936900000.0
+Interest Expense                                                11999400000.0        11750000000.0         5414200000.0         2081500000.0
+Interest Income                                                 60293900000.0        22422200000.0         5708800000.0         9018400000.0
+Normalized Income                                           848834232126.9375  989953427904.043091  587186307018.321777  505171246627.811096
+Net Income From Continuing And Discontinued Operation          851740000000.0       992923400000.0       592359200000.0       510744000000.0
+Total Expenses                                                1240270200000.0      1142612400000.0       937434100000.0       772471100000.0
+Total Operating Income As Reported                             921465600000.0      1121278900000.0       649980900000.0       566783700000.0
+Diluted Average Shares                                          25929300000.0        25929400000.0        25930300000.0        25930300000.0
+Basic Average Shares                                            25929200000.0        25929200000.0        25930300000.0        25930300000.0
+Diluted EPS                                                             32.85                38.29                22.84                 19.7
+Basic EPS                                                               32.85                38.29                22.84                 19.7
+Diluted NI Availto Com Stockholders                            851740000000.0       992923400000.0       592359200000.0       510744000000.0
+Net Income Common Stockholders                                 851740000000.0       992923400000.0       592359200000.0       510744000000.0
+Net Income                                                     851740000000.0       992923400000.0       592359200000.0       510744000000.0
+Minority Interests                                                712300000.0         -371300000.0         -521400000.0         -264000000.0
+Net Income Including Noncontrolling Interests                  851027700000.0       993294700000.0       592880600000.0       511008000000.0
+Net Income Continuous Operations                               851027700000.0       993294700000.0       592880600000.0       511008000000.0
+Tax Provision                                                  128288800000.0       150777500000.0        70155400000.0        73738300000.0
+Pretax Income                                                  979316500000.0      1144072200000.0       663036000000.0       584746300000.0
+Other Income Expense                                             9556400000.0        12121100000.0        12760500000.0        11025700000.0
+Other Non Operating Income Expenses                              1412400000.0         1020500000.0         1462800000.0         1086800000.0
+Special Income Charges                                              6200000.0            -900000.0           -1300000.0             900000.0
+Gain On Sale Of Business                                           15700000.0                  0.0                  0.0                  0.0
+Write Off                                                           9500000.0             900000.0            1300000.0            -900000.0
+Earnings From Equity Interest                                    4800200000.0         7679800000.0         5512700000.0         3562000000.0
+Gain On Sale Of Security                                         3337600000.0         3421700000.0         5786300000.0         6376000000.0
+Net Non Operating Interest Income Expense                       48294500000.0        10672200000.0          294600000.0         6936900000.0
+Total Other Finance Cost                                                  NaN                  NaN         -294000000.0        -6937000000.0
+Interest Expense Non Operating                                  11999400000.0        11750000000.0         5414200000.0         2081500000.0
+Interest Income Non Operating                                   60293900000.0        22422200000.0         5708800000.0         9018400000.0
+Operating Income                                               921465600000.0      1121278900000.0       649980900000.0       566783700000.0
+Operating Expense                                              253645000000.0       227075900000.0       169556400000.0       144346400000.0
+Other Operating Expenses                                         -188700000.0          368400000.0          333400000.0         -710000000.0
+Research And Development                                       182370200000.0       163262200000.0       124734800000.0       109486000000.0
+Selling General And Administration                              71463500000.0        63445300000.0        44488200000.0        35570400000.0
+Selling And Marketing Expense                                   10590700000.0         9920500000.0         7558600000.0         7112800000.0
+General And Administrative Expense                              60872800000.0        53524800000.0        36929600000.0        28457600000.0
+Other Gand A                                                    60872800000.0        53524800000.0        36929600000.0        28457600000.0
+Gross Profit                                                  1175110600000.0      1348354800000.0       819537300000.0       711130100000.0
+Cost Of Revenue                                                986625200000.0       915536500000.0       767877700000.0       628124700000.0
+Total Revenue                                                 2161735800000.0      2263891300000.0      1587415000000.0      1339254800000.0
+Operating Revenue                                             2161735800000.0      2263891300000.0      1587415000000.0      1339254800000.0

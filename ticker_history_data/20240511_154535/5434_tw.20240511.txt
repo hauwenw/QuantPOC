@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 483, Tiding Boulevard
+address2	Section 2 Neihu District
+city	Taipei
+zip	11493
+country	Taiwan
+phone	886 2 8797 8020
+fax	886 2 8751 0011
+website	https://www.topco-global.com
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Topco Scientific Co.,Ltd. provides precision materials, manufacturing equipment, and components for semiconductor and opto-electronic industries in Taiwan, China, and internationally. The company offers quartz wafer carrier plates, such as synthetic quartz wafer and quartz substrate; furnace quartz, and quartz crucible for single crystal and polycrystalline; and chemicals, such as CMP, photoresist, and specialty gases and chemicals. It also provides wafers, wafer carriers, and wafer related supplies; photomask and mask carriers; electronic materials, such as protective, packaging, thermal conductive, conductive, and special application materials; SiC and GaN epi wafers and substrates, and Sic reclaim wafers; power device electrical analysis instruments; and IC foundry services. In addition, the company offers turbo compressor and blower, metal additive manufacturing equipment, atmospheric pressure plasma, APK/UPK system, horizontal and vertical tube cleaner, high pressure clean system, fire extinguishing systems, and organic solvent dehydration and recycling system, as well as LCD related equipment and services. The company was founded in 1990 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Simon  Tseng', 'title': 'President, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Lee', 'title': 'President, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joyce  Lu', 'title': 'CEO, CFO & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. De Yi  Chen', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Wu', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eugene  Lee', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Jan  Chang', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qing Fu  Yang', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fa Xiang  Tan', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry  Ho', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	257.0
+open	265.0
+dayLow	256.5
+dayHigh	266.5
+regularMarketPreviousClose	257.0
+regularMarketOpen	265.0
+regularMarketDayLow	256.5
+regularMarketDayHigh	266.5
+dividendRate	10.0
+dividendYield	0.0388
+exDividendDate	1686182400	 (2023-06-08 08:00:00)
+payoutRatio	0.6671
+fiveYearAvgDividendYield	5.33
+trailingPE	17.211475
+forwardPE	13.614775
+volume	2191075
+regularMarketVolume	2191075
+averageVolume	1867683
+averageVolume10days	1932568
+averageDailyVolume10Day	1932568
+bid	257.0
+ask	258.5
+marketCap	48684601344
+fiftyTwoWeekLow	162.0
+fiftyTwoWeekHigh	272.5
+priceToSalesTrailing12Months	0.99942344
+fiftyDayAverage	231.56
+twoHundredDayAverage	191.8175
+trailingAnnualDividendRate	9.0
+trailingAnnualDividendYield	0.035019454
+currency	TWD
+enterpriseValue	50040733696
+profitMargins	0.058920003
+floatShares	161466041
+sharesOutstanding	188700000
+heldPercentInsiders	0.15847
+heldPercentInstitutions	0.20961
+impliedSharesOutstanding	188700000
+bookValue	75.696
+priceToBook	3.4083703
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.047
+netIncomeToCommon	2870127104
+trailingEps	14.99
+forwardEps	18.95
+lastSplitFactor	1020:1000
+lastSplitDate	1471219200	 (2016-08-15 08:00:00)
+enterpriseToRevenue	1.027
+enterpriseToEbitda	13.537
+52WeekChange	0.40081692
+SandP52WeekChange	0.26265144
+lastDividendValue	10.0
+lastDividendDate	1686182400	 (2023-06-08 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5434.TW
+underlyingSymbol	5434.TW
+shortName	TOPCO SCIENTIFIC CO
+longName	Topco Scientific Co.,Ltd.
+firstTradeDateEpochUtc	959216400	 (2000-05-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	edbe764a-05b5-3335-bda9-41aa877b09f2
+messageBoardId	finmb_9870534
+gmtOffSetMilliseconds	28800000
+currentPrice	258.0
+targetHighPrice	240.0
+targetLowPrice	170.0
+targetMeanPrice	212.67
+targetMedianPrice	228.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	4323696128
+totalCashPerShare	22.928
+ebitda	3696713984
+totalDebt	5477750784
+quickRatio	0.928
+currentRatio	1.315
+totalRevenue	48712687616
+debtToEquity	37.754
+revenuePerShare	261.462
+returnOnAssets	0.06683
+returnOnEquity	0.21669
+freeCashflow	-1254317824
+operatingCashflow	3105060096
+earningsGrowth	-0.01
+revenueGrowth	-0.045
+grossMargins	0.13557
+ebitdaMargins	0.075890005
+operatingMargins	0.0733
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   14310141.383462    61010732.682483     6494524.955351    19718858.229541
+Tax Rate For Calcs                                                   0.264802           0.275019           0.243068           0.193051
+Normalized EBITDA                                                4404976000.0       4529075000.0       3427505000.0       2792132000.0
+Total Unusual Items                                                54041000.0        221842000.0         26719000.0        102143000.0
+Total Unusual Items Excluding Goodwill                             54041000.0        221842000.0         26719000.0        102143000.0
+Net Income From Continuing Operation Net Minority Interest       2835024000.0       3018478000.0       2294458000.0       2068350000.0
+Reconciled Depreciation                                           478982000.0        456080000.0        380146000.0        307679000.0
+Reconciled Cost Of Revenue                                      42854655000.0      46452851000.0      37456762000.0      31863244000.0
+EBITDA                                                           4459017000.0       4750917000.0       3454224000.0       2894275000.0
+EBIT                                                             3980035000.0       4294837000.0       3074078000.0       2586596000.0
+Net Interest Income                                               -12981000.0         -1177000.0        -10499000.0         -6318000.0
+Interest Expense                                                   99567000.0         53106000.0         34229000.0         27170000.0
+Interest Income                                                    86586000.0         51929000.0         23730000.0         20852000.0
+Normalized Income                                           2795293141.383462  2857646732.682483  2274233524.955351  1985925858.229541
+Net Income From Continuing And Discontinued Operation            2835024000.0       3018478000.0       2294458000.0       2068350000.0
+Total Expenses                                                  46063234000.0      49748656000.0      40117341000.0      34106575000.0
+Diluted Average Shares                                            189159000.0        183932000.0        184367690.0        184538910.0
+Basic Average Shares                                              184616000.0        181700000.0        183003973.0        183003973.0
+Diluted EPS                                                             15.03              16.41          12.440719          11.209554
+Basic EPS                                                               15.36              16.61          12.540006          11.298913
+Diluted NI Availto Com Stockholders                              2835024000.0       3018478000.0       2294458000.0       2068350000.0
+Net Income Common Stockholders                                   2835024000.0       3018478000.0       2294458000.0       2068350000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2835024000.0       3018478000.0       2294458000.0       2068350000.0
+Minority Interests                                                -17890000.0        -56697000.0         -6502000.0          3025000.0
+Net Income Including Noncontrolling Interests                    2852914000.0       3075175000.0       2300960000.0       2065325000.0
+Net Income Continuous Operations                                 2852914000.0       3075175000.0       2300960000.0       2065325000.0
+Tax Provision                                                    1027554000.0       1166556000.0        738889000.0        494101000.0
+Pretax Income                                                    3880468000.0       4241731000.0       3039849000.0       2559426000.0
+Other Non Operating Income Expenses                                66838000.0         55255000.0         50473000.0         35221000.0
+Special Income Charges                                            -26108000.0        -26653000.0        -35951000.0         94545000.0
+Other Special Charges                                              26108000.0         26653000.0         25922000.0        -94545000.0
+Write Off                                                                 0.0                0.0         10029000.0                0.0
+Net Non Operating Interest Income Expense                         -12981000.0         -1177000.0        -10499000.0         -6318000.0
+Interest Expense Non Operating                                     99567000.0         53106000.0         34229000.0         27170000.0
+Interest Income Non Operating                                      86586000.0         51929000.0         23730000.0         20852000.0
+Operating Income                                                 3210221000.0       3229559000.0       2551625000.0       2061419000.0
+Operating Expense                                                3208579000.0       3295805000.0       2660579000.0       2243331000.0
+Other Operating Expenses                                                  NaN                NaN          -292000.0          -292000.0
+Research And Development                                          117479000.0        156411000.0        101172000.0        100230000.0
+Selling General And Administration                               3091100000.0       3139394000.0       2559407000.0       2143101000.0
+Selling And Marketing Expense                                    1660981000.0       1617562000.0       1320250000.0       1135327000.0
+General And Administrative Expense                               1430119000.0       1521832000.0       1239157000.0       1007774000.0
+Gross Profit                                                     6418800000.0       6525364000.0       5212204000.0       4304750000.0
+Cost Of Revenue                                                 42854655000.0      46452851000.0      37456762000.0      31863244000.0
+Total Revenue                                                   49273455000.0      52978215000.0      42668966000.0      36167994000.0
+Operating Revenue                                               49273455000.0      52978215000.0      42668966000.0      36167994000.0

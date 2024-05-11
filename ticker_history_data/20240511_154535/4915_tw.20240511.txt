@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 669 Ruiguang Road
+address2	Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 2798 9008
+fax	886 2 8797 7675
+website	https://www.primax.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Primax Electronics Ltd., together with its subsidiaries, manufactures and sells computer peripherals and non-computer peripherals in China, Europe, the Americas, and internationally. The company offers gaming/PC peripherals, lighting solutions, wireless charging solutions, docking stations, smart access solutions, and digital door locks/door bells; in-car connected cameras, intelligent gateways, smart sensors and trackers, advanced driver assistance systems camera modules, smartphone camera modules, home IoT cameras, surveillance cameras, multi-function printers, and content creation devices. It also provides gaming headsets, gaming TWS, smart speakers, professional loudspeakers, transducers, and smart conference products; and integrated software and hardware for intelligent manufacturing. In addition, the company offers mobile device components and business devices; speakers, speaker accessories, and their components; computer mice products, keyboards, track pads, etc.; and digital camera modules, mobile phone accessories, scanners, shredders, amplifiers, audio systems, etc. Primax Electronics Ltd. was founded in 1984 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jia-Bin  Duh', 'age': 65, 'title': 'GM, Chairperson & Chief Strategy Officer', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Tai  Pan', 'title': 'Vice Chairperson & GM of Business Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yin-Yi  Hsiao', 'title': 'CFO & Senior Vice GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. You-Min  Kuo', 'title': 'General Manager of Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-chuan  Chang', 'title': 'Head of Accounting & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cherryie  Chen', 'title': 'Investor Relation Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yen-Chou  Chou', 'title': 'Senior Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Chen  Su', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching-Der  Wang', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Lin  Hsueh', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	96.0
+open	96.4
+dayLow	93.5
+dayHigh	96.4
+regularMarketPreviousClose	96.0
+regularMarketOpen	96.4
+regularMarketDayLow	93.5
+regularMarketDayHigh	96.4
+dividendRate	3.9
+dividendYield	0.041100003
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.71440005
+fiveYearAvgDividendYield	5.08
+trailingPE	17.380953
+forwardPE	13.217271
+volume	4227844
+regularMarketVolume	4227844
+averageVolume	6174306
+averageVolume10days	7408765
+averageDailyVolume10Day	7408765
+bid	94.9
+ask	95.0
+marketCap	43932246016
+fiftyTwoWeekLow	60.4
+fiftyTwoWeekHigh	99.8
+priceToSalesTrailing12Months	0.7388526
+fiftyDayAverage	84.38
+twoHundredDayAverage	71.153
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.041666668
+currency	TWD
+enterpriseValue	36629217280
+profitMargins	0.04224
+floatShares	427046859
+sharesOutstanding	462932000
+heldPercentInsiders	0.0397
+heldPercentInstitutions	0.48918
+impliedSharesOutstanding	474676000
+bookValue	40.092
+priceToBook	2.367056
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.048
+netIncomeToCommon	2511762944
+trailingEps	5.46
+forwardEps	7.18
+pegRatio	1.35
+enterpriseToRevenue	0.616
+enterpriseToEbitda	8.513
+52WeekChange	0.5380875
+SandP52WeekChange	0.26265144
+lastDividendValue	3.900556
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4915.TW
+underlyingSymbol	4915.TW
+shortName	PRIMAX ELECTRONICS LTD(NEW)
+longName	Primax Electronics Ltd.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ac5a2340-1b91-3ec1-bf79-017ed35eb5fe
+messageBoardId	finmb_1001903
+gmtOffSetMilliseconds	28800000
+currentPrice	94.9
+targetHighPrice	110.0
+targetLowPrice	70.0
+targetMeanPrice	92.64
+targetMedianPrice	100.0
+recommendationMean	2.1
+recommendationKey	buy
+numberOfAnalystOpinions	7
+totalCash	13367380992
+totalCashPerShare	29.432
+ebitda	4302735872
+totalDebt	4741853184
+quickRatio	1.087
+currentRatio	1.427
+totalRevenue	59460091904
+debtToEquity	23.288
+revenuePerShare	131.249
+returnOnAssets	0.036429998
+returnOnEquity	0.13543999
+freeCashflow	5481241088
+operatingCashflow	7907284992
+earningsGrowth	0.033
+revenueGrowth	-0.07
+grossMargins	0.16087
+ebitdaMargins	0.07236
+operatingMargins	0.04304
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    6986302.335129   -19173459.603347     2313734.332729     1946208.477359
+Tax Rate For Calcs                                                   0.193757           0.209427           0.210148           0.215527
+Normalized EBITDA                                                5291150000.0       5897355000.0       5141464000.0       4883418000.0
+Total Unusual Items                                                36057000.0        -91552000.0         11010000.0          9030000.0
+Total Unusual Items Excluding Goodwill                             36057000.0        -91552000.0         11010000.0          9030000.0
+Net Income From Continuing Operation Net Minority Interest       2485289000.0       2742609000.0       2298282000.0       1919265000.0
+Reconciled Depreciation                                          1913382000.0       1887322000.0       1940959000.0       2229636000.0
+Reconciled Cost Of Revenue                                      50907102000.0      68256490000.0      62270246000.0      60129865000.0
+EBITDA                                                           5327207000.0       5805803000.0       5152474000.0       4892448000.0
+EBIT                                                             3413825000.0       3918481000.0       3211515000.0       2662812000.0
+Net Interest Income                                               213560000.0       -194327000.0        -63213000.0        -42919000.0
+Interest Expense                                                  147453000.0        289517000.0        181552000.0        184375000.0
+Interest Income                                                   361013000.0         95190000.0        118339000.0        141456000.0
+Normalized Income                                           2456218302.335129  2814987540.396653  2289585734.332729  1912181208.477359
+Net Income From Continuing And Discontinued Operation            2485289000.0       2742609000.0       2298282000.0       1919265000.0
+Total Expenses                                                  57781476000.0      75804440000.0      68848254000.0      65950172000.0
+Diluted Average Shares                                                    NaN        455337000.0        451819000.0        449909000.0
+Basic Average Shares                                                      NaN        449522000.0        447640000.0        445829000.0
+Diluted EPS                                                               NaN               6.02               5.09               4.27
+Basic EPS                                                                 NaN                6.1               5.13                4.3
+Diluted NI Availto Com Stockholders                              2485289000.0       2742609000.0       2298282000.0       1919265000.0
+Net Income Common Stockholders                                   2485289000.0       2742609000.0       2298282000.0       1919265000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2485289000.0       2742609000.0       2298282000.0       1919265000.0
+Minority Interests                                               -148200000.0       -126352000.0        -94939000.0        -25002000.0
+Net Income Including Noncontrolling Interests                    2633489000.0       2868961000.0       2393221000.0       1944267000.0
+Net Income Continuous Operations                                 2633489000.0       2868961000.0       2393221000.0       1944267000.0
+Tax Provision                                                     632883000.0        760003000.0        636742000.0        534170000.0
+Pretax Income                                                    3266372000.0       3628964000.0       3029963000.0       2478437000.0
+Other Non Operating Income Expenses                               309829000.0        521007000.0        342122000.0        305738000.0
+Special Income Charges                                             36057000.0        -91552000.0         11010000.0          9030000.0
+Write Off                                                         -36057000.0         91552000.0        -11010000.0         -9030000.0
+Net Non Operating Interest Income Expense                         213560000.0       -194327000.0        -63213000.0        -42919000.0
+Interest Expense Non Operating                                    147453000.0        289517000.0        181552000.0        184375000.0
+Interest Income Non Operating                                     361013000.0         95190000.0        118339000.0        141456000.0
+Operating Income                                                 2706926000.0       3436325000.0       2801595000.0       2290767000.0
+Operating Expense                                                6874374000.0       7547950000.0       6578008000.0       5820307000.0
+Research And Development                                         3089186000.0       3366095000.0       2907911000.0       2555565000.0
+Selling General And Administration                               3785188000.0       4181855000.0       3670097000.0       3264742000.0
+Selling And Marketing Expense                                    1710326000.0       1868828000.0       1654914000.0       1354432000.0
+General And Administrative Expense                               2074862000.0       2313027000.0       2015183000.0       1910310000.0
+Gross Profit                                                     9581300000.0      10984275000.0       9379603000.0       8111074000.0
+Cost Of Revenue                                                 50907102000.0      68256490000.0      62270246000.0      60129865000.0
+Total Revenue                                                   60488402000.0      79240765000.0      71649849000.0      68240939000.0
+Operating Revenue                                               60488402000.0      79240765000.0      71649849000.0      68240939000.0

@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	No.37, JiHu Road
+address2	12th Floor NeiHu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8751 6888
+fax	886 2 2659 9516
+website	https://www.cgpc.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	China General Plastics Corporation manufactures and markets petrochemical products in Asia, the United States, Oceania, Europe, the Middle East, and Africa. It operates through VCM Products and PVC Products segments. The company offers PVC resins for use in various applications, including injection and blowing molding, hollow vacuum forming, rigid and shrinkable films, soft and semi-rigid products, rigid pipes, hoses, wire and cable insulation, high impact flexible products, high impact sheets, and high voltage wires; PVC compound products comprising soft and rigid type compounds; construction products, such as PVC pipes and fittings, waterproofing membranes, anti-corrosion liners, PVC wall/partition boards, PVC panels, etc. It also provides flexible, rigid, printed, and laminated films and sheets; furniture lamination films; synthetic leather products for use in shoes, furniture, marine, vehicles, sports equipment, and medical care applications, as well as stain resistance materials; and green materials that include VERDOR GREEN leather/film, and VERDA GREEN and POLYTEX GREEN leather. China General Plastics Corporation was incorporated in 1964 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yi-Gui  Wu', 'age': 71, 'title': 'Chairman & CEO', 'yearBorn': 1952, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kang Nien  Chiang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Chih  Chen', 'title': 'Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.8
+open	17.85
+dayLow	17.75
+dayHigh	18.0
+regularMarketPreviousClose	17.8
+regularMarketOpen	17.85
+regularMarketDayLow	17.75
+regularMarketDayHigh	18.0
+dividendRate	0.3
+dividendYield	0.0168
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	2.1429
+fiveYearAvgDividendYield	5.33
+trailingPE	127.85714
+forwardPE	105.29411
+volume	679225
+regularMarketVolume	679225
+averageVolume	1385086
+averageVolume10days	1283755
+averageDailyVolume10Day	1283755
+bid	17.9
+ask	17.95
+marketCap	10400794624
+fiftyTwoWeekLow	17.75
+fiftyTwoWeekHigh	26.95
+priceToSalesTrailing12Months	0.81053483
+fiftyDayAverage	18.603
+twoHundredDayAverage	21.85975
+trailingAnnualDividendRate	0.35
+trailingAnnualDividendYield	0.019662922
+currency	TWD
+enterpriseValue	13687012352
+profitMargins	0.00607
+floatShares	421956442
+sharesOutstanding	581049984
+heldPercentInsiders	0.3502
+heldPercentInstitutions	0.14568
+impliedSharesOutstanding	589187968
+bookValue	15.087
+priceToBook	1.1864519
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	77898000
+trailingEps	0.14
+forwardEps	0.17
+lastSplitFactor	1050:1000
+lastSplitDate	1630540800	 (2021-09-02 08:00:00)
+enterpriseToRevenue	1.067
+enterpriseToEbitda	18.065
+52WeekChange	-0.22844827
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1305.TW
+underlyingSymbol	1305.TW
+shortName	CHINA GENERAL PLASTICS CORP
+longName	China General Plastics Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	01eddca0-46de-308b-a75d-2a196a7fe664
+messageBoardId	finmb_9858908
+gmtOffSetMilliseconds	28800000
+currentPrice	17.9
+targetHighPrice	20.0
+targetLowPrice	20.0
+targetMeanPrice	20.0
+targetMedianPrice	20.0
+recommendationMean	2.8
+recommendationKey	hold
+numberOfAnalystOpinions	2
+totalCash	3369646080
+totalCashPerShare	5.32
+ebitda	757673984
+totalDebt	5084539904
+quickRatio	1.101
+currentRatio	1.769
+totalRevenue	12832014336
+debtToEquity	49.894
+revenuePerShare	21.597
+returnOnAssets	-0.00063
+returnOnEquity	0.0095
+freeCashflow	180500752
+operatingCashflow	1225153024
+revenueGrowth	-0.232
+grossMargins	0.08959
+ebitdaMargins	0.05905
+operatingMargins	-0.03445
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0     -197554.870013            0.0
+Tax Rate For Calcs                                               0.156155       0.347007           0.204297        0.17255
+Normalized EBITDA                                            1307259000.0    225081000.0       4018325000.0   2867348000.0
+Total Unusual Items                                                   NaN            0.0          -967000.0            NaN
+Total Unusual Items Excluding Goodwill                                NaN            0.0          -967000.0            NaN
+Net Income From Continuing Operation Net Minority Interest    341916000.0   -370247000.0       2468676000.0   1634184000.0
+Reconciled Depreciation                                       771196000.0    715454000.0        705030000.0    694623000.0
+Reconciled Cost Of Revenue                                  12030536000.0  16959318000.0      15181144000.0  10373858000.0
+EBITDA                                                       1307259000.0    225081000.0       4017358000.0   2867348000.0
+EBIT                                                          536063000.0   -490373000.0       3312328000.0   2172725000.0
+Net Interest Income                                           -38487000.0    -16683000.0         -3059000.0     -3505000.0
+Interest Expense                                               69539000.0     26810000.0          5294000.0      7387000.0
+Interest Income                                                31052000.0     10127000.0          2235000.0      3882000.0
+Normalized Income                                             341916000.0   -370247000.0  2469445445.129987   1634184000.0
+Net Income From Continuing And Discontinued Operation         341916000.0   -370247000.0       2468676000.0   1634184000.0
+Total Expenses                                              13247450000.0  18621949000.0      16903400000.0  11589020000.0
+Diluted Average Shares                                        581190000.0    581050000.0        581909000.0    581560142.0
+Basic Average Shares                                          581050000.0    581050000.0        581050000.0    581560142.0
+Diluted EPS                                                          0.59          -0.64               4.24           2.81
+Basic EPS                                                            0.59          -0.64               4.25           2.81
+Diluted NI Availto Com Stockholders                           341916000.0   -370247000.0       2468676000.0   1634184000.0
+Net Income Common Stockholders                                341916000.0   -370247000.0       2468676000.0   1634184000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                0.0            0.0
+Net Income                                                    341916000.0   -370247000.0       2468676000.0   1634184000.0
+Minority Interests                                            -51758000.0    -32530000.0       -162742000.0   -157526000.0
+Net Income Including Noncontrolling Interests                 393674000.0   -337717000.0       2631418000.0   1791710000.0
+Net Income Discontinuous Operations                                   NaN            NaN                NaN      4273000.0
+Net Income Continuous Operations                              393674000.0   -337717000.0       2631418000.0   1791710000.0
+Tax Provision                                                  72850000.0   -179466000.0        675616000.0    373628000.0
+Pretax Income                                                 466524000.0   -517183000.0       3307034000.0   2165338000.0
+Other Non Operating Income Expenses                            56702000.0    473762000.0        -29223000.0      1007000.0
+Special Income Charges                                                NaN            0.0          -967000.0            NaN
+Write Off                                                             NaN            0.0           967000.0            NaN
+Net Non Operating Interest Income Expense                     -38487000.0    -16683000.0         -3059000.0     -3505000.0
+Interest Expense Non Operating                                 69539000.0     26810000.0          5294000.0      7387000.0
+Interest Income Non Operating                                  31052000.0     10127000.0          2235000.0      3882000.0
+Operating Income                                              459855000.0   -984470000.0       3318124000.0   2144128000.0
+Operating Expense                                            1216914000.0   1662631000.0       1722256000.0   1215162000.0
+Research And Development                                       72928000.0     72479000.0         77173000.0     68776000.0
+Selling General And Administration                           1143986000.0   1590152000.0       1645083000.0   1146386000.0
+Selling And Marketing Expense                                 850949000.0   1259086000.0       1353416000.0    874540000.0
+General And Administrative Expense                            293037000.0    331066000.0        291667000.0    271846000.0
+Gross Profit                                                 1676769000.0    678161000.0       5040380000.0   3359290000.0
+Cost Of Revenue                                             12030536000.0  16959318000.0      15181144000.0  10373858000.0
+Total Revenue                                               13707305000.0  17637479000.0      20221524000.0  13733148000.0
+Operating Revenue                                           13707305000.0  17637479000.0      20221524000.0  13733148000.0

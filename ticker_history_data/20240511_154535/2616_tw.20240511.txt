@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 33, Minsheng Road
+address2	14F-1 Section 1 Banqiao District
+city	New Taipei City
+zip	220
+country	Taiwan
+phone	886 2 2959 6668
+fax	886 2 2959 6669
+website	https://w3.slc.com.tw
+industry	Specialty Retail
+industryKey	specialty-retail
+industryDisp	Specialty Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Shan-Loong Transportation Co., Ltd engages in freight transportation, container trucking, truck repair and maintenance, gas station, and import and export business in Taiwan and internationally. The company provides the container, bulk, fuel, and hazardous material transportation services. It also offers container loading/unloading, warehouse management, order processing, temperature warehousing, delivery, and reverse logistics, as well as handling, picking, and processing services. In addition, the company provides customs brokerage services; sea, air, and land shipping services; and product storage management services. Further, it owns a network of 76 gas stations that offers fuels, such as diesel and octane, as well as provides car and scooter wash services. The company was formerly known as Wang Pai Transportation Co., Ltd. and changed its name to Shan-Loong Transportation Co., Ltd in 1982. Shan-Loong Transportation Co., Ltd was incorporated in 1976 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Wei-Teng  Hsiao', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng-Chang  Ou', 'title': 'Financial Officer & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Lung  Chen', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Van', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	26.95
+open	26.95
+dayLow	26.9
+dayHigh	27.0
+regularMarketPreviousClose	26.95
+regularMarketOpen	26.95
+regularMarketDayLow	26.9
+regularMarketDayHigh	27.0
+dividendRate	1.6
+dividendYield	0.0594
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	3.3332999
+fiveYearAvgDividendYield	6.18
+beta	0.144
+trailingPE	56.145836
+volume	87463
+regularMarketVolume	87463
+averageVolume	204667
+averageVolume10days	88431
+averageDailyVolume10Day	88431
+bid	26.9
+ask	27.0
+marketCap	3663286528
+fiftyTwoWeekLow	26.6
+fiftyTwoWeekHigh	33.0
+priceToSalesTrailing12Months	0.22304617
+fiftyDayAverage	27.724
+twoHundredDayAverage	29.7805
+trailingAnnualDividendRate	0.43
+trailingAnnualDividendYield	0.015955472
+currency	TWD
+enterpriseValue	4886273024
+profitMargins	0.00397
+sharesOutstanding	135928992
+heldPercentInsiders	0.45667
+heldPercentInstitutions	0.01509
+impliedSharesOutstanding	136684992
+bookValue	35.949
+priceToBook	0.7496731
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	65250000
+trailingEps	0.48
+lastSplitFactor	104.95:100
+lastSplitDate	1185494400	 (2007-07-27 08:00:00)
+enterpriseToRevenue	0.298
+enterpriseToEbitda	11.296
+52WeekChange	-0.16820985
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2616.TW
+underlyingSymbol	2616.TW
+shortName	SHAN LOONG TRANSPORTATION CO
+longName	Shan-Loong Transportation Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5d39772a-df7a-3ecb-8129-e436361cb5d6
+messageBoardId	finmb_9829923
+gmtOffSetMilliseconds	28800000
+currentPrice	26.95
+recommendationKey	none
+totalCash	1871607040
+totalCashPerShare	13.769
+ebitda	432575008
+totalDebt	2896719872
+quickRatio	0.877
+currentRatio	1.119
+totalRevenue	16423894016
+debtToEquity	56.973
+revenuePerShare	120.828
+returnOnAssets	-0.00215
+returnOnEquity	0.01638
+freeCashflow	641943360
+operatingCashflow	1097193984
+revenueGrowth	-0.037
+grossMargins	0.07422
+ebitdaMargins	0.02634
+operatingMargins	-0.00877
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   817384.423053   -2993401.320111      59721.594656   -1323177.978197
+Tax Rate For Calcs                                                  0.06061           0.14082          0.174115          0.179755
+Normalized EBITDA                                               594943000.0       889883000.0      1035734000.0       999172000.0
+Total Unusual Items                                              13486000.0       -21257000.0          343000.0        -7361000.0
+Total Unusual Items Excluding Goodwill                           13486000.0       -21257000.0          343000.0        -7361000.0
+Net Income From Continuing Operation Net Minority Interest       65250000.0       288250000.0       415507000.0       371334000.0
+Reconciled Depreciation                                         468272000.0       485924000.0       491023000.0       492938000.0
+Reconciled Cost Of Revenue                                    15204944000.0     17099612000.0     17026406000.0     14211824000.0
+EBITDA                                                          608429000.0       868626000.0      1036077000.0       991811000.0
+EBIT                                                            140157000.0       382702000.0       545054000.0       498873000.0
+Net Interest Income                                             -35064000.0       -30352000.0       -26158000.0       -31213000.0
+Interest Expense                                                 52168000.0        37125000.0        30987000.0        35732000.0
+Interest Income                                                  17104000.0         6773000.0         4829000.0         4519000.0
+Normalized Income                                           52581384.423053  306513598.679889  415223721.594656  377371822.021803
+Net Income From Continuing And Discontinued Operation            65250000.0       288250000.0       415507000.0       371334000.0
+Total Expenses                                                16459591000.0     18389267000.0     18436552000.0     15568366000.0
+Diluted Average Shares                                                  NaN       136725000.0       136635000.0       136495000.0
+Basic Average Shares                                                    NaN       135928000.0       135928000.0       135928000.0
+Diluted EPS                                                             NaN              2.11              3.04              2.72
+Basic EPS                                                               NaN              2.12              3.06              2.73
+Diluted NI Availto Com Stockholders                              65250000.0       288250000.0       415507000.0       371334000.0
+Net Income Common Stockholders                                   65250000.0       288250000.0       415507000.0       371334000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                       65250000.0       288250000.0       415507000.0       371334000.0
+Minority Interests                                              -17406000.0        -8663000.0        -9053000.0        -8555000.0
+Net Income Including Noncontrolling Interests                    82656000.0       296913000.0       424560000.0       379889000.0
+Net Income Continuous Operations                                 82656000.0       296913000.0       424560000.0       379889000.0
+Tax Provision                                                     5333000.0        48664000.0        89507000.0        83252000.0
+Pretax Income                                                    87989000.0       345577000.0       514067000.0       463141000.0
+Other Non Operating Income Expenses                              45581000.0        79591000.0        56640000.0        44021000.0
+Special Income Charges                                           13486000.0       -21257000.0          343000.0        -7361000.0
+Other Special Charges                                           -13486000.0          992000.0         -343000.0         7376000.0
+Write Off                                                               0.0        20265000.0               0.0          -15000.0
+Net Non Operating Interest Income Expense                       -35064000.0       -30352000.0       -26158000.0       -31213000.0
+Interest Expense Non Operating                                   52168000.0        37125000.0        30987000.0        35732000.0
+Interest Income Non Operating                                    17104000.0         6773000.0         4829000.0         4519000.0
+Operating Income                                                -35697000.0       129496000.0       375611000.0       387134000.0
+Operating Expense                                              1254647000.0      1289655000.0      1410146000.0      1356542000.0
+Selling General And Administration                             1254647000.0      1289655000.0      1410146000.0      1356542000.0
+Selling And Marketing Expense                                   546918000.0       540784000.0       535529000.0       540683000.0
+General And Administrative Expense                              707729000.0       748871000.0       874617000.0       815859000.0
+Gross Profit                                                   1218950000.0      1419151000.0      1785757000.0      1743676000.0
+Cost Of Revenue                                               15204944000.0     17099612000.0     17026406000.0     14211824000.0
+Total Revenue                                                 16423894000.0     18518763000.0     18812163000.0     15955500000.0
+Operating Revenue                                             16423894000.0     18518763000.0     18812163000.0     15955500000.0

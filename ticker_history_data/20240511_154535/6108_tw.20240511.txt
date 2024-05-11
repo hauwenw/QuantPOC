@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 6 Lane 84
+address2	Junying Street Shulin District
+city	New Taipei City
+zip	23863
+country	Taiwan
+phone	886 2 2683 2626
+fax	886 2 2683 8440
+website	https://www.apcb.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	APCB Inc., together with its subsidiaries, prints, manufactures, processes, and trades circuit boards in the United States, Europe, and Asia. The company offers double-sided printed circuit boards, multi-layer printed circuit boards, flexible printed circuit boards, and other related products. It also provides software design and development services; and engages in general trade and investment businesses. APCB Inc. was founded in 1970 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Zhenghong  Cai', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.1
+open	20.1
+dayLow	20.0
+dayHigh	20.15
+regularMarketPreviousClose	20.1
+regularMarketOpen	20.1
+regularMarketDayLow	20.0
+regularMarketDayHigh	20.15
+dividendRate	0.5
+dividendYield	0.0249
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	1.4706
+fiveYearAvgDividendYield	5.98
+beta	0.477
+trailingPE	59.11765
+forwardPE	6.767677
+volume	218166
+regularMarketVolume	218166
+averageVolume	863016
+averageVolume10days	176940
+averageDailyVolume10Day	176940
+bid	20.05
+ask	20.1
+marketCap	3213970176
+fiftyTwoWeekLow	17.25
+fiftyTwoWeekHigh	24.6
+priceToSalesTrailing12Months	0.5400757
+fiftyDayAverage	21.325
+twoHundredDayAverage	20.557
+currency	TWD
+enterpriseValue	2805885952
+profitMargins	0.00913
+sharesOutstanding	159899008
+heldPercentInsiders	0.32377
+heldPercentInstitutions	0.03446
+impliedSharesOutstanding	161088992
+bookValue	22.284
+priceToBook	0.90199244
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	54307000
+trailingEps	0.34
+forwardEps	2.97
+lastSplitFactor	110:100
+lastSplitDate	1218672000	 (2008-08-14 08:00:00)
+enterpriseToRevenue	0.472
+enterpriseToEbitda	9.516
+52WeekChange	0.15850139
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6108.TW
+underlyingSymbol	6108.TW
+shortName	APCB INC
+longName	APCB Inc.
+firstTradeDateEpochUtc	1230598800	 (2008-12-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e6545736-4bac-358a-8f7b-03ff8f08ab7c
+messageBoardId	finmb_20502393
+gmtOffSetMilliseconds	28800000
+currentPrice	20.1
+recommendationKey	none
+totalCash	4417956864
+totalCashPerShare	27.63
+ebitda	294854016
+totalDebt	4009872896
+quickRatio	1.234
+currentRatio	1.359
+totalRevenue	5950962176
+debtToEquity	112.538
+revenuePerShare	37.217
+returnOnAssets	-0.00496
+returnOnEquity	0.01513
+freeCashflow	264039248
+operatingCashflow	96895000
+revenueGrowth	-0.056
+grossMargins	0.097600006
+ebitdaMargins	0.04955
+operatingMargins	-0.0211
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  2055832.572452      614600.0   -2266490.507564     -345600.0
+Tax Rate For Calcs                                                 0.315118           0.2          0.255667           0.2
+Normalized EBITDA                                               576130000.0   504857000.0       822031000.0   493275000.0
+Total Unusual Items                                               6524000.0     3073000.0        -8865000.0    -1728000.0
+Total Unusual Items Excluding Goodwill                            6524000.0     3073000.0        -8865000.0    -1728000.0
+Net Income From Continuing Operation Net Minority Interest       54307000.0    34874000.0       240415000.0   -83160000.0
+Reconciled Depreciation                                         381960000.0   394696000.0       432642000.0   492245000.0
+Reconciled Cost Of Revenue                                     5370160000.0  6444508000.0      7839298000.0  7321298000.0
+EBITDA                                                          582654000.0   507930000.0       813166000.0   491547000.0
+EBIT                                                            200694000.0   113234000.0       380524000.0     -698000.0
+Net Interest Income                                              -6799000.0   -57295000.0       -52240000.0   -64520000.0
+Interest Expense                                                121400000.0    79454000.0        57530000.0    80966000.0
+Interest Income                                                 114601000.0    22159000.0         5290000.0    16446000.0
+Normalized Income                                           49838832.572452    32415600.0  247013509.492436   -81777600.0
+Net Income From Continuing And Discontinued Operation            54307000.0    34874000.0       240415000.0   -83160000.0
+Total Expenses                                                 6027532000.0  7100718000.0      8618796000.0  8073341000.0
+Diluted Average Shares                                                  NaN   160372000.0       160980000.0   159899000.0
+Basic Average Shares                                                    NaN   159899000.0       159899000.0   159899000.0
+Diluted EPS                                                             NaN          0.22              1.49         -0.52
+Basic EPS                                                               NaN          0.22               1.5         -0.52
+Diluted NI Availto Com Stockholders                              54307000.0    34874000.0       240415000.0   -83160000.0
+Net Income Common Stockholders                                   54307000.0    34874000.0       240415000.0   -83160000.0
+Otherunder Preferred Stock Dividend                                     0.0           0.0               0.0           0.0
+Net Income                                                       54307000.0    34874000.0       240415000.0   -83160000.0
+Net Income Including Noncontrolling Interests                    54307000.0    34874000.0       240415000.0   -83160000.0
+Net Income Continuous Operations                                 54307000.0    34874000.0       240415000.0   -83160000.0
+Tax Provision                                                    24987000.0    -1094000.0        82579000.0     1496000.0
+Pretax Income                                                    79294000.0    33780000.0       322994000.0   -81664000.0
+Other Non Operating Income Expenses                             156139000.0   233777000.0      -101137000.0  -250242000.0
+Special Income Charges                                            6524000.0     3073000.0        -8865000.0    -1728000.0
+Write Off                                                        -6524000.0    -3073000.0         8865000.0     1728000.0
+Net Non Operating Interest Income Expense                        -6799000.0   -57295000.0       -52240000.0   -64520000.0
+Interest Expense Non Operating                                  121400000.0    79454000.0        57530000.0    80966000.0
+Interest Income Non Operating                                   114601000.0    22159000.0         5290000.0    16446000.0
+Operating Income                                                -76570000.0  -145775000.0       485236000.0   234826000.0
+Operating Expense                                               657372000.0   656210000.0       779498000.0   752043000.0
+Selling General And Administration                              657372000.0   656210000.0       779498000.0   752043000.0
+Selling And Marketing Expense                                   200761000.0   217663000.0       244733000.0   269932000.0
+General And Administrative Expense                              456611000.0   438547000.0       534765000.0   482111000.0
+Gross Profit                                                    580802000.0   510435000.0      1264734000.0   986869000.0
+Cost Of Revenue                                                5370160000.0  6444508000.0      7839298000.0  7321298000.0
+Total Revenue                                                  5950962000.0  6954943000.0      9104032000.0  8308167000.0
+Operating Revenue                                              5950962000.0  6954943000.0      9104032000.0  8308167000.0

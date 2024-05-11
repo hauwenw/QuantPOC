@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 200, Zhonghuan Road
+address2	Section 3 Xinzhuang District
+city	New Taipei City
+zip	24242
+country	Taiwan
+phone	886 2 8522 9788
+fax	886 2 8522 9789
+website	https://www.abilitycorp.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ability Enterprise Co., Ltd. manufactures and trades digital cameras, optical product components, and imaging peripheral products. The company offers consumer imaging products, such as digital still, sports, and wearable cameras; AIoT cameras and sensors; and automotive camera products, include in-cabin and advanced driving assistance system cameras, and camera monitor systems. It serves customers primarily in the United States, Brazil, Europe, China, and Japan. The company was incorporated in 1965 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Hsiao-Chi  Chang', 'title': 'President, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Tien  Lin', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsin-Chun  Lin', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ko-Jen  Cheng', 'title': 'Investor Relations Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Ling  Huang', 'title': 'Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.vqti.com.tw/NEWSCENTER.asp?lv_rfnbr=3
+maxAge	86400
+priceHint	2
+previousClose	41.05
+open	41.85
+dayLow	40.8
+dayHigh	42.35
+regularMarketPreviousClose	41.05
+regularMarketOpen	41.85
+regularMarketDayLow	40.8
+regularMarketDayHigh	42.35
+dividendRate	0.45
+dividendYield	0.0106
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.2616
+fiveYearAvgDividendYield	2.99
+beta	0.662
+trailingPE	24.593023
+forwardPE	-74.210526
+volume	19094976
+regularMarketVolume	19094976
+averageVolume	13909527
+averageVolume10days	20000889
+averageDailyVolume10Day	20000889
+bid	42.25
+ask	42.3
+marketCap	12162689024
+fiftyTwoWeekLow	19.45
+fiftyTwoWeekHigh	45.65
+priceToSalesTrailing12Months	2.4654992
+fiftyDayAverage	32.574
+twoHundredDayAverage	26.24175
+currency	TWD
+enterpriseValue	9679536128
+profitMargins	0.05567
+floatShares	250781404
+sharesOutstanding	287534016
+heldPercentInsiders	0.27854002
+heldPercentInstitutions	0.051420003
+impliedSharesOutstanding	288972000
+bookValue	22.424
+priceToBook	1.8863717
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	274624992
+trailingEps	1.72
+forwardEps	-0.57
+lastSplitFactor	0.599884:1
+lastSplitDate	1446681600	 (2015-11-05 08:00:00)
+enterpriseToRevenue	1.962
+enterpriseToEbitda	31.017
+52WeekChange	1.1363637
+SandP52WeekChange	0.26265144
+lastDividendValue	0.45
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2374.TW
+underlyingSymbol	2374.TW
+shortName	ABILITY ENTERPRISE CO LTD
+longName	Ability Enterprise Co., Ltd.
+firstTradeDateEpochUtc	1127955600	 (2005-09-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dde01dee-a2d3-3804-9460-85c97bd8e0f2
+messageBoardId	finmb_9858980
+gmtOffSetMilliseconds	28800000
+currentPrice	42.3
+recommendationKey	none
+totalCash	3194910976
+totalCashPerShare	11.111
+ebitda	312071008
+totalDebt	404952992
+quickRatio	1.731
+currentRatio	2.109
+totalRevenue	4933154816
+debtToEquity	5.995
+revenuePerShare	17.305
+returnOnAssets	0.00856
+returnOnEquity	0.03635
+freeCashflow	415707872
+operatingCashflow	820945984
+revenueGrowth	0.026
+grossMargins	0.26514998
+ebitdaMargins	0.063260004
+operatingMargins	0.066149995
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                   3654718.07572   -2308873.962968    -929018.856649      -8616.3118
+Tax Rate For Calcs                                                 0.196818          0.158838          0.218541        0.034465
+Normalized EBITDA                                               509572000.0       440255000.0      1151182000.0    -200823000.0
+Total Unusual Items                                              18569000.0       -14536000.0        -4251000.0       -250000.0
+Total Unusual Items Excluding Goodwill                           18569000.0       -14536000.0        -4251000.0       -250000.0
+Net Income From Continuing Operation Net Minority Interest      274625000.0       135363000.0       684119000.0    -459802000.0
+Reconciled Depreciation                                         216620000.0       214319000.0       215051000.0     246900000.0
+Reconciled Cost Of Revenue                                     3625112000.0      4112724000.0      2699501000.0    2855114000.0
+EBITDA                                                          528141000.0       425719000.0      1146931000.0    -201073000.0
+EBIT                                                            311521000.0       211400000.0       931880000.0    -447973000.0
+Net Interest Income                                              89278000.0        18586000.0         -321000.0      12806000.0
+Interest Expense                                                  9486000.0         5524000.0         9871000.0      12810000.0
+Interest Income                                                  98764000.0        24110000.0         9550000.0      25616000.0
+Normalized Income                                           259710718.07572  147590126.037032  687440981.143351 -459560616.3118
+Net Income From Continuing And Discontinued Operation           274625000.0       135363000.0       684119000.0    -459802000.0
+Total Expenses                                                 4829427000.0      5294800000.0      3902476000.0    4058065000.0
+Diluted Average Shares                                                  NaN       285321000.0       285456000.0     282363000.0
+Basic Average Shares                                                    NaN       283143000.0       282363000.0     282363000.0
+Diluted EPS                                                             NaN              0.47               2.4           -1.63
+Basic EPS                                                               NaN              0.48              2.42           -1.63
+Diluted NI Availto Com Stockholders                             274625000.0       135363000.0       684119000.0    -459802000.0
+Net Income Common Stockholders                                  274625000.0       135363000.0       684119000.0    -459802000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0             0.0
+Net Income                                                      274625000.0       135363000.0       684119000.0    -459802000.0
+Minority Interests                                               32036000.0       -37812000.0       -36393000.0     -14900000.0
+Net Income Including Noncontrolling Interests                   242589000.0       173175000.0       720512000.0    -444902000.0
+Net Income Continuous Operations                                242589000.0       173175000.0       720512000.0    -444902000.0
+Tax Provision                                                    59446000.0        32701000.0       201497000.0     -15881000.0
+Pretax Income                                                   302035000.0       205876000.0       922009000.0    -460783000.0
+Other Non Operating Income Expenses                              80520000.0       200534000.0      1247103000.0     139283000.0
+Special Income Charges                                           18569000.0       -14536000.0        -4251000.0       -250000.0
+Write Off                                                       -18569000.0        14536000.0         4251000.0        250000.0
+Net Non Operating Interest Income Expense                        89278000.0        18586000.0         -321000.0      12806000.0
+Interest Expense Non Operating                                    9486000.0         5524000.0         9871000.0      12810000.0
+Interest Income Non Operating                                    98764000.0        24110000.0         9550000.0      25616000.0
+Operating Income                                                103728000.0        -8843000.0      -327107000.0    -616048000.0
+Operating Expense                                              1204315000.0      1182076000.0      1202975000.0    1202951000.0
+Research And Development                                        625073000.0       593903000.0       633633000.0     637095000.0
+Selling General And Administration                              579242000.0       588173000.0       569342000.0     565856000.0
+Selling And Marketing Expense                                   146161000.0       116955000.0       103749000.0     113390000.0
+General And Administrative Expense                              433081000.0       471218000.0       465593000.0     452466000.0
+Gross Profit                                                   1308043000.0      1173233000.0       875868000.0     586903000.0
+Cost Of Revenue                                                3625112000.0      4112724000.0      2699501000.0    2855114000.0
+Total Revenue                                                  4933155000.0      5285957000.0      3575369000.0    3442017000.0
+Operating Revenue                                              4933155000.0      5285957000.0      3575369000.0    3442017000.0

@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 4, Lane 17
+address2	Section 3, Nanshan Road Lujhu District
+city	Taoyuan City
+zip	33851
+country	Taiwan
+phone	886 3 324 6169
+website	https://www.tai.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	TA-I Technology Co., Ltd. manufactures and supplies chip resistors in Taiwan and internationally. The company provides a range of chip resistors, including automotive-grade metal current sensor, precision thin film, surge, sulfur-resistant, high power, high voltage, arrays, miniature types 01005 and 0201, and other products; and circuit protection products, such as fuse products. Its components are applied to products in the field of 3C, including motherboards, notebooks, LCD TVs, STBs, scanners, video cards, lan cards, sound cards, mobile phones, digital cameras, LCDs, etc. The company serves automotive, industrial, alternative energy, computer peripherals, and consumer electronics industries. TA-I Technology Co., Ltd. was founded in 1989 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cai-Bao  Jiang', 'title': 'Chairman of the Board & President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	48.8
+open	48.9
+dayLow	48.3
+dayHigh	49.25
+regularMarketPreviousClose	48.8
+regularMarketOpen	48.9
+regularMarketDayLow	48.3
+regularMarketDayHigh	49.25
+dividendRate	2.0
+dividendYield	0.040900003
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	0.692
+fiveYearAvgDividendYield	5.34
+trailingPE	16.937716
+forwardPE	6.7517242
+volume	154821
+regularMarketVolume	154821
+averageVolume	190616
+averageVolume10days	351809
+averageDailyVolume10Day	351809
+bid	48.85
+ask	48.95
+marketCap	7084582912
+fiftyTwoWeekLow	44.0
+fiftyTwoWeekHigh	51.2
+priceToSalesTrailing12Months	1.5543036
+fiftyDayAverage	46.873
+twoHundredDayAverage	46.5415
+currency	TWD
+enterpriseValue	6666415616
+profitMargins	0.09205
+sharesOutstanding	144731008
+heldPercentInsiders	0.3073
+heldPercentInstitutions	0.042540003
+impliedSharesOutstanding	145472992
+bookValue	46.291
+priceToBook	1.057441
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.593
+netIncomeToCommon	419571008
+trailingEps	2.89
+forwardEps	7.25
+lastSplitFactor	750:1000
+lastSplitDate	1569456000	 (2019-09-26 08:00:00)
+enterpriseToRevenue	1.463
+enterpriseToEbitda	6.597
+52WeekChange	0.05155742
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2478.TW
+underlyingSymbol	2478.TW
+shortName	TA-I TECHNOLOGY
+longName	TA-I Technology Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	295e0cef-35dc-3f08-9bef-5b363e576f39
+messageBoardId	finmb_9845263
+gmtOffSetMilliseconds	28800000
+currentPrice	48.95
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2048647936
+totalCashPerShare	14.133
+ebitda	1010574016
+totalDebt	1517213952
+quickRatio	1.472
+currentRatio	2.379
+totalRevenue	4558043136
+debtToEquity	22.271
+revenuePerShare	31.46
+returnOnAssets	0.0294
+returnOnEquity	0.06288
+freeCashflow	357550240
+operatingCashflow	1202343936
+earningsGrowth	0.614
+revenueGrowth	-0.033
+grossMargins	0.20445
+ebitdaMargins	0.22171
+operatingMargins	0.08243
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1901085.570804      94306.205922    2313295.721562    -610984.332311
+Tax Rate For Calcs                                                  0.296859          0.149455          0.185941          0.045416
+Normalized EBITDA                                               1134906000.0      1324085000.0      1716690000.0      1214597000.0
+Total Unusual Items                                               -6404000.0          631000.0        12441000.0       -13453000.0
+Total Unusual Items Excluding Goodwill                            -6404000.0          631000.0        12441000.0       -13453000.0
+Net Income From Continuing Operation Net Minority Interest       369935000.0       623463000.0       942950000.0       661631000.0
+Reconciled Depreciation                                          575698000.0       572721000.0       547355000.0       488907000.0
+Reconciled Cost Of Revenue                                      3642024000.0      3875939000.0      4520334000.0      4097284000.0
+EBITDA                                                          1128502000.0      1324716000.0      1729131000.0      1201144000.0
+EBIT                                                             552804000.0       751995000.0      1181776000.0       712237000.0
+Net Interest Income                                               30938000.0        17568000.0         2265000.0         3823000.0
+Interest Expense                                                  20730000.0        11686000.0        10928000.0        10219000.0
+Interest Income                                                   51668000.0        29254000.0        13193000.0        14042000.0
+Normalized Income                                           374437914.429196  622926306.205922  932822295.721562  674473015.667689
+Net Income From Continuing And Discontinued Operation            369935000.0       623463000.0       942950000.0       661631000.0
+Total Expenses                                                  4117401000.0      4463528000.0      5136851000.0      4626571000.0
+Diluted Average Shares                                           145746763.0       145989595.0       144730505.0       142422102.0
+Basic Average Shares                                             144731339.0       144489895.0       142772378.0       140800932.0
+Diluted EPS                                                             2.54              4.27              6.52              4.65
+Basic EPS                                                               2.56              4.31               6.6               4.7
+Diluted NI Availto Com Stockholders                              369935000.0       623463000.0       942950000.0       661631000.0
+Net Income Common Stockholders                                   369935000.0       623463000.0       942950000.0       661631000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       369935000.0       623463000.0       942950000.0       661631000.0
+Minority Interests                                                -4188000.0        -6203000.0       -10189000.0        -8504000.0
+Net Income Including Noncontrolling Interests                    374123000.0       629666000.0       953139000.0       670135000.0
+Net Income Continuous Operations                                 374123000.0       629666000.0       953139000.0       670135000.0
+Tax Provision                                                    157951000.0       110643000.0       217709000.0        31883000.0
+Pretax Income                                                    532074000.0       740309000.0      1170848000.0       702018000.0
+Other Non Operating Income Expenses                               16930000.0          322000.0        19909000.0        38691000.0
+Special Income Charges                                             -234000.0         2687000.0        10122000.0       -15083000.0
+Other Special Charges                                               234000.0        -1335000.0        -5279000.0        -7049000.0
+Write Off                                                                0.0               0.0               0.0         1532000.0
+Impairment Of Capital Assets                                             0.0        -1352000.0        -4843000.0        20600000.0
+Restructuring And Mergern Acquisition                                    NaN               NaN               NaN               0.0
+Net Non Operating Interest Income Expense                         30938000.0        17568000.0         2265000.0         3823000.0
+Interest Expense Non Operating                                    20730000.0        11686000.0        10928000.0        10219000.0
+Interest Income Non Operating                                     51668000.0        29254000.0        13193000.0        14042000.0
+Operating Income                                                 477380000.0       559066000.0      1178102000.0       768268000.0
+Operating Expense                                                475377000.0       587589000.0       616517000.0       529287000.0
+Research And Development                                          70540000.0        56359000.0        48062000.0        37765000.0
+Selling General And Administration                               404837000.0       531230000.0       568455000.0       491522000.0
+Selling And Marketing Expense                                    165144000.0       199070000.0       200880000.0       148085000.0
+General And Administrative Expense                               239693000.0       332160000.0       367575000.0       343437000.0
+Gross Profit                                                     952757000.0      1146655000.0      1794619000.0      1297555000.0
+Cost Of Revenue                                                 3642024000.0      3875939000.0      4520334000.0      4097284000.0
+Total Revenue                                                   4594781000.0      5022594000.0      6314953000.0      5394839000.0
+Operating Revenue                                               4594781000.0      5022594000.0      6314953000.0      5394839000.0

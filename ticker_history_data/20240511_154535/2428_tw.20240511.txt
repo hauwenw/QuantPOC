@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 93, Dashun 1st Road
+address2	8th Floor Zuoying District
+city	Kaohsiung
+zip	81357
+country	Taiwan
+phone	886 7 557 7660
+fax	886 7 557 0560
+website	https://www.thinking.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Thinking Electronic Industrial Co., Ltd. manufactures, processes, and sells electric devices, thermistors, varistors, and wires in Taiwan, China, and internationally. It offers NTC thermistors, ceramic PTC thermistors, polymer PTC resettable fuse, temperature sensors, metal oxide varistors, gas discharge tubes, ESD TVS and suppressors, TVS diodes, spark gap protectors, and thyristor surge suppressors. The company's products are used in automotive, telecom equipment, industrial, power supply, smart home appliances and lighting, consumer electronics, renewable energy, medical, and security applications. Thinking Electronic Industrial Co., Ltd. was incorporated in 1979 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yi-Sheng  Ho', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Fang  Hung', 'title': 'Manager of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Hui  Chang', 'title': 'Head of Plant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	171.5
+open	171.5
+dayLow	169.0
+dayHigh	171.5
+regularMarketPreviousClose	171.5
+regularMarketOpen	171.5
+regularMarketDayLow	169.0
+regularMarketDayHigh	171.5
+dividendRate	5.4
+dividendYield	0.0317
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	0.5177
+fiveYearAvgDividendYield	3.86
+trailingPE	16.347075
+forwardPE	13.309914
+volume	449513
+regularMarketVolume	449513
+averageVolume	616464
+averageVolume10days	588971
+averageDailyVolume10Day	588971
+bid	170.0
+ask	170.5
+marketCap	21843265536
+fiftyTwoWeekLow	136.0
+fiftyTwoWeekHigh	182.5
+priceToSalesTrailing12Months	3.1568072
+fiftyDayAverage	165.85
+twoHundredDayAverage	157.48
+trailingAnnualDividendRate	5.2
+trailingAnnualDividendYield	0.030320698
+currency	TWD
+enterpriseValue	18774833152
+profitMargins	0.19268
+floatShares	66858293
+sharesOutstanding	128113000
+heldPercentInsiders	0.48378
+heldPercentInstitutions	0.104119994
+impliedSharesOutstanding	128521000
+bookValue	78.393
+priceToBook	2.1749392
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.1
+netIncomeToCommon	1333223936
+trailingEps	10.43
+forwardEps	12.81
+lastSplitFactor	109:100
+lastSplitDate	1188172800	 (2007-08-27 08:00:00)
+enterpriseToRevenue	2.713
+enterpriseToEbitda	10.006
+52WeekChange	0.15986395
+SandP52WeekChange	0.26265144
+lastDividendValue	5.4
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2428.TW
+underlyingSymbol	2428.TW
+shortName	THINKING ELECTRONIC INDL
+longName	Thinking Electronic Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	20bcb35d-cddd-3720-aed8-340cad9ea6fc
+messageBoardId	finmb_9844949
+gmtOffSetMilliseconds	28800000
+currentPrice	170.5
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	4441384960
+totalCashPerShare	35.027
+ebitda	1876305024
+totalDebt	1462307968
+quickRatio	3.575
+currentRatio	4.397
+totalRevenue	6919416832
+debtToEquity	14.514
+revenuePerShare	54.352
+returnOnAssets	0.0704
+returnOnEquity	0.13814999
+freeCashflow	808572224
+operatingCashflow	2051577984
+earningsGrowth	0.112
+revenueGrowth	-0.092
+grossMargins	0.39441
+ebitdaMargins	0.27117002
+operatingMargins	0.23669
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -1653388.339476    -1049094.163665      537281.606273     -487164.512168
+Tax Rate For Calcs                                                   0.238825           0.226391           0.263373           0.260655
+Normalized EBITDA                                                2137371000.0       2200032000.0       2490726000.0       2162279000.0
+Total Unusual Items                                                -6923000.0         -4634000.0          2040000.0         -1869000.0
+Total Unusual Items Excluding Goodwill                             -6923000.0         -4634000.0          2040000.0         -1869000.0
+Net Income From Continuing Operation Net Minority Interest       1307803000.0       1373833000.0       1577307000.0       1385016000.0
+Reconciled Depreciation                                           391063000.0        381479000.0        321867000.0        283976000.0
+Reconciled Cost Of Revenue                                       4333369000.0       4829759000.0       4261024000.0       3205653000.0
+EBITDA                                                           2130448000.0       2195398000.0       2492766000.0       2160410000.0
+EBIT                                                             1739385000.0       1813919000.0       2170899000.0       1876434000.0
+Net Interest Income                                               101905000.0         83652000.0         76958000.0         69613000.0
+Interest Expense                                                   16838000.0         17175000.0         11565000.0          9101000.0
+Interest Income                                                   118743000.0        100827000.0         88523000.0         78714000.0
+Normalized Income                                           1313072611.660524  1377417905.836335  1575804281.606273  1386397835.487832
+Net Income From Continuing And Discontinued Operation            1307803000.0       1373833000.0       1577307000.0       1385016000.0
+Total Expenses                                                   5477768000.0       6058324000.0       5377660000.0       4075247000.0
+Diluted Average Shares                                            128613000.0        128819000.0        128765000.0        128515000.0
+Basic Average Shares                                              128113000.0        128113000.0        128113000.0        128113000.0
+Diluted EPS                                                             10.17              10.66              12.25              10.78
+Basic EPS                                                               10.21              10.72              12.31              10.81
+Diluted NI Availto Com Stockholders                              1307803000.0       1373833000.0       1577307000.0       1385016000.0
+Net Income Common Stockholders                                   1307803000.0       1373833000.0       1577307000.0       1385016000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1307803000.0       1373833000.0       1577307000.0       1385016000.0
+Minority Interests                                                 -3356000.0        -16145000.0        -13316000.0          4413000.0
+Net Income Including Noncontrolling Interests                    1311159000.0       1389978000.0       1590623000.0       1380603000.0
+Net Income Continuous Operations                                 1311159000.0       1389978000.0       1590623000.0       1380603000.0
+Tax Provision                                                     411388000.0        406766000.0        568711000.0        486730000.0
+Pretax Income                                                    1722547000.0       1796744000.0       2159334000.0       1867333000.0
+Other Non Operating Income Expenses                                28197000.0        312915000.0        -42459000.0        -45422000.0
+Special Income Charges                                             -6923000.0         -4634000.0          2040000.0         -1869000.0
+Write Off                                                           6923000.0          4634000.0         -2040000.0          1869000.0
+Net Non Operating Interest Income Expense                         101905000.0         83652000.0         76958000.0         69613000.0
+Interest Expense Non Operating                                     16838000.0         17175000.0         11565000.0          9101000.0
+Interest Income Non Operating                                     118743000.0        100827000.0         88523000.0         78714000.0
+Operating Income                                                 1599368000.0       1404811000.0       2122795000.0       1845011000.0
+Operating Expense                                                1144399000.0       1228565000.0       1116636000.0        869594000.0
+Research And Development                                          360706000.0        326395000.0        298071000.0        225072000.0
+Selling General And Administration                                783693000.0        902170000.0        818565000.0        644522000.0
+Selling And Marketing Expense                                     338346000.0        298181000.0        282129000.0        223193000.0
+General And Administrative Expense                                445347000.0        603989000.0        536436000.0        421329000.0
+Gross Profit                                                     2743767000.0       2633376000.0       3239431000.0       2714605000.0
+Cost Of Revenue                                                  4333369000.0       4829759000.0       4261024000.0       3205653000.0
+Total Revenue                                                    7077136000.0       7463135000.0       7500455000.0       5920258000.0
+Operating Revenue                                                7077136000.0       7463135000.0       7500455000.0       5920258000.0

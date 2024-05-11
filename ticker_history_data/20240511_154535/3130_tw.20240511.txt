@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 119-1, Baozhong Road
+address2	10th Floor Xindian District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2912 6104
+fax	886 2 2912 6021
+website	https://corp.104.com.tw
+industry	Staffing & Employment Services
+industryKey	staffing-employment-services
+industryDisp	Staffing & Employment Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	104 Corporation provides information technology, general advertising, employment, and human resource consultancy services in Taiwan and internationally. The company offers career matchmaking services for job seekers; executive recruiting; educational; HR management systems; and senior care bank services. The company also offers electronic information, general advertising services, employment services, manpower dispatch, management consultancy, and consulting services; and technical consultancy and services, as well as develops network technologies. In addition, it is involved in collecting, coordinating, publishing, and consulting human resource information; designing and developing computer software, multimedia, and network systems; and designing and producing advertising. The company was formerly known as Fu-Hwa International Market Development Consultant Ltd. and changed its name to 104 Corporation in August 2000. 104 Corporation was incorporated in 1993 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Bin Fang Hong', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wendy  Chiang', 'title': 'Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Weber  Chung', 'title': 'Senior Vice President of Human Resources & Administration General Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joe  Chen', 'title': 'Senior Vice President of Online General Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Chin', 'title': 'Senior Vice President of Headhunter Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. -  James', 'title': 'Senior VP & CIO of Information Services Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shelly  Wu', 'title': 'CSO and GM of 104 Middle-aged & Elderly Job Bank', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.104.com.tw/project/104investor/investor_index_01.htm
+maxAge	86400
+priceHint	2
+previousClose	243.0
+open	243.0
+dayLow	241.0
+dayHigh	250.5
+regularMarketPreviousClose	243.0
+regularMarketOpen	243.0
+regularMarketDayLow	241.0
+regularMarketDayHigh	250.5
+dividendRate	13.42
+dividendYield	0.0554
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	1.0049
+fiveYearAvgDividendYield	5.38
+beta	0.204
+trailingPE	18.113773
+forwardPE	23.960396
+volume	43754
+regularMarketVolume	43754
+averageVolume	24212
+averageVolume10days	19517
+averageDailyVolume10Day	19517
+bid	241.5
+ask	242.5
+marketCap	8032149504
+fiftyTwoWeekLow	199.0
+fiftyTwoWeekHigh	250.5
+priceToSalesTrailing12Months	3.4481535
+fiftyDayAverage	227.62
+twoHundredDayAverage	213.8325
+trailingAnnualDividendRate	13.61
+trailingAnnualDividendYield	0.05600823
+currency	TWD
+enterpriseValue	5279708160
+profitMargins	0.19385
+sharesOutstanding	33190700
+heldPercentInsiders	0.60918
+heldPercentInstitutions	0.11648
+impliedSharesOutstanding	33411000
+bookValue	49.955
+priceToBook	4.84436
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.149
+netIncomeToCommon	451564000
+trailingEps	13.36
+forwardEps	10.1
+lastSplitFactor	121.25:100
+lastSplitDate	1120521600	 (2005-07-05 08:00:00)
+enterpriseToRevenue	2.267
+enterpriseToEbitda	9.531
+52WeekChange	0.13084114
+SandP52WeekChange	0.26265144
+lastDividendValue	13.415188
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3130.TW
+underlyingSymbol	3130.TW
+shortName	104 CORP
+longName	104 Corporation
+firstTradeDateEpochUtc	1140138000	 (2006-02-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2e093eae-2fe2-3ec9-a0f0-aa5b78520bad
+messageBoardId	finmb_20297001
+gmtOffSetMilliseconds	28800000
+currentPrice	242.0
+recommendationKey	none
+totalCash	2899603968
+totalCashPerShare	87.364
+ebitda	553956992
+totalDebt	147332000
+quickRatio	1.7
+currentRatio	1.73
+totalRevenue	2329405952
+debtToEquity	8.886
+revenuePerShare	70.184
+returnOnAssets	0.09408
+returnOnEquity	0.27277002
+freeCashflow	466756512
+operatingCashflow	662512000
+earningsGrowth	0.143
+revenueGrowth	0.085
+grossMargins	0.86873
+ebitdaMargins	0.23781
+operatingMargins	0.16906999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -311306.608868    -195020.000344    -183585.845731    -136188.947252
+Tax Rate For Calcs                                                  0.178912          0.154532          0.097704          0.153193
+Normalized EBITDA                                                630561000.0       595132000.0       478056000.0       378100000.0
+Total Unusual Items                                               -1740000.0        -1262000.0        -1879000.0         -889000.0
+Total Unusual Items Excluding Goodwill                            -1740000.0        -1262000.0        -1879000.0         -889000.0
+Net Income From Continuing Operation Net Minority Interest       451564000.0       445260000.0       370436000.0       258736000.0
+Reconciled Depreciation                                           77337000.0        69258000.0        68192000.0        73614000.0
+Reconciled Cost Of Revenue                                       305783000.0       229268000.0       181562000.0       182170000.0
+EBITDA                                                           628821000.0       593870000.0       476177000.0       377211000.0
+EBIT                                                             551484000.0       524612000.0       407985000.0       303597000.0
+Net Interest Income                                               30650000.0        15875000.0         9850000.0        10750000.0
+Interest Expense                                                   1526000.0          871000.0          970000.0         1084000.0
+Interest Income                                                   32176000.0        16746000.0        10820000.0        11834000.0
+Normalized Income                                           452992693.391132  446326979.999656  372131414.154269  259488811.052748
+Net Income From Continuing And Discontinued Operation            451564000.0       445260000.0       370436000.0       258736000.0
+Total Expenses                                                  1812672000.0      1675521000.0      1454026000.0      1346327000.0
+Diluted Average Shares                                            33462000.0        33454000.0        33427000.0        33397000.0
+Basic Average Shares                                              33190000.0        33190000.0        33190000.0        33190000.0
+Diluted EPS                                                            13.49             13.31             11.08              7.75
+Basic EPS                                                              13.61             13.42             11.16               7.8
+Diluted NI Availto Com Stockholders                              451564000.0       445260000.0       370436000.0       258736000.0
+Net Income Common Stockholders                                   451564000.0       445260000.0       370436000.0       258736000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       451564000.0       445260000.0       370436000.0       258736000.0
+Minority Interests                                                       0.0         2454000.0         3188000.0         2566000.0
+Net Income Including Noncontrolling Interests                    451564000.0       442806000.0       367248000.0       256170000.0
+Net Income Continuous Operations                                 451564000.0       442806000.0       367248000.0       256170000.0
+Tax Provision                                                     98394000.0        80935000.0        39767000.0        46343000.0
+Pretax Income                                                    549958000.0       523741000.0       407015000.0       302513000.0
+Other Non Operating Income Expenses                               10085000.0         5401000.0         2091000.0         4498000.0
+Special Income Charges                                            -1740000.0        -1262000.0        -1879000.0         -889000.0
+Write Off                                                          1740000.0         1262000.0         1879000.0          889000.0
+Net Non Operating Interest Income Expense                         30650000.0        15875000.0         9850000.0        10750000.0
+Interest Expense Non Operating                                     1526000.0          871000.0          970000.0         1084000.0
+Interest Income Non Operating                                     32176000.0        16746000.0        10820000.0        11834000.0
+Operating Income                                                 516734000.0       503727000.0       396953000.0       288154000.0
+Operating Expense                                               1506889000.0      1446253000.0      1272464000.0      1164157000.0
+Research And Development                                         288822000.0       247587000.0       387370000.0       344472000.0
+Selling General And Administration                              1218067000.0      1198666000.0       885094000.0       819685000.0
+Selling And Marketing Expense                                    959077000.0       951308000.0       722639000.0       656817000.0
+General And Administrative Expense                               258990000.0       247358000.0       162455000.0       162868000.0
+Gross Profit                                                    2023623000.0      1949980000.0      1669417000.0      1452311000.0
+Cost Of Revenue                                                  305783000.0       229268000.0       181562000.0       182170000.0
+Total Revenue                                                   2329406000.0      2179248000.0      1850979000.0      1634481000.0
+Operating Revenue                                               2329406000.0      2179248000.0      1850979000.0      1634481000.0

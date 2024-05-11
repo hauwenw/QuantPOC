@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 12, Ronggong South Road
+address2	Guanyin District
+city	Taoyuan City
+zip	328
+country	Taiwan
+phone	886 3 473 6566
+fax	886 3 473 5259
+website	https://www.sdti.com.tw
+industry	Pollution & Treatment Controls
+industryKey	pollution-treatment-controls
+industryDisp	Pollution & Treatment Controls
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Super Dragon Technology Co., Ltd. provides waste treatment and recycling services. It offers precious metal recycling, semiconductor parts cleaning, semiconductor application materials manufacturing and sales, waste recycling, environmental advisory, big data center, and analytical laboratory services. The company was formerly known as Super Dragon Engineering Co., Ltd. and changed its name to Super Dragon Technology Co., Ltd. in November 1999. The company was founded in 1996 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jie Xin Wu', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Root  Zhang', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	29.4
+open	30.2
+dayLow	29.6
+dayHigh	30.6
+regularMarketPreviousClose	29.4
+regularMarketOpen	30.2
+regularMarketDayLow	29.6
+regularMarketDayHigh	30.6
+exDividendDate	1384819200	 (2013-11-19 08:00:00)
+beta	0.946
+volume	1399145
+regularMarketVolume	1399145
+averageVolume	2777426
+averageVolume10days	1205556
+averageDailyVolume10Day	1205556
+bid	30.35
+ask	30.4
+marketCap	3137523200
+fiftyTwoWeekLow	20.8
+fiftyTwoWeekHigh	42.1
+priceToSalesTrailing12Months	2.7520154
+fiftyDayAverage	27.909
+twoHundredDayAverage	24.64825
+currency	TWD
+enterpriseValue	4457592320
+profitMargins	-0.0717
+floatShares	103208229
+sharesOutstanding	103208000
+heldPercentInsiders	0.6068
+heldPercentInstitutions	0.0016500001
+impliedSharesOutstanding	103208000
+bookValue	12.72
+priceToBook	2.389937
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-81739000
+trailingEps	-0.79
+lastSplitFactor	1.05111:1
+lastSplitDate	1317945600	 (2011-10-07 08:00:00)
+enterpriseToRevenue	3.91
+enterpriseToEbitda	-303.155
+52WeekChange	0.14716983
+SandP52WeekChange	0.26265144
+lastDividendValue	0.299921
+lastDividendDate	1384819200	 (2013-11-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9955.TW
+underlyingSymbol	9955.TW
+shortName	SUPER DRAGON TECHNOLOGY CO
+longName	Super Dragon Technology Co., Ltd
+firstTradeDateEpochUtc	1200877200	 (2008-01-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a1f202e7-197b-3afb-8196-f82e1dd122ec
+messageBoardId	finmb_9571266
+gmtOffSetMilliseconds	28800000
+currentPrice	30.4
+recommendationKey	none
+totalCash	96281000
+totalCashPerShare	0.933
+ebitda	-14704000
+totalDebt	1416343040
+quickRatio	0.164
+currentRatio	0.731
+totalRevenue	1140082048
+debtToEquity	107.888
+revenuePerShare	11.046
+returnOnAssets	-0.0163
+returnOnEquity	-0.06034
+freeCashflow	60607124
+operatingCashflow	40768000
+revenueGrowth	0.076
+grossMargins	0.0347
+ebitdaMargins	-0.0128999995
+operatingMargins	-0.0756
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.0           0.0           0.0      0.003475
+Normalized EBITDA                                             13717000.0   -18172000.0   -31450000.0   -57578000.0
+Total Unusual Items                                                  0.0           0.0      655000.0           0.0
+Total Unusual Items Excluding Goodwill                               0.0           0.0      655000.0           0.0
+Net Income From Continuing Operation Net Minority Interest   -81739000.0   -98817000.0   -98383000.0  -123299000.0
+Reconciled Depreciation                                       64223000.0    60528000.0    53599000.0    51627000.0
+Reconciled Cost Of Revenue                                  1100525000.0  1160569000.0  1474047000.0  3038550000.0
+EBITDA                                                        13717000.0   -18172000.0   -30795000.0   -57578000.0
+EBIT                                                         -50506000.0   -78700000.0   -84394000.0  -109205000.0
+Net Interest Income                                          -27304000.0   -18231000.0   -13398000.0   -11904000.0
+Interest Expense                                              31233000.0    20117000.0    13993000.0    14528000.0
+Interest Income                                                3929000.0     1886000.0      595000.0     2624000.0
+Normalized Income                                            -81739000.0   -98817000.0   -99038000.0  -123299000.0
+Net Income From Continuing And Discontinued Operation        -81739000.0   -98817000.0   -98383000.0  -123299000.0
+Total Expenses                                              1214324000.0  1261462000.0  1571254000.0  3134633000.0
+Diluted Average Shares                                       103208000.0   103208000.0   103208000.0   103208000.0
+Basic Average Shares                                         103208000.0   103208000.0   103208000.0   103208000.0
+Diluted EPS                                                    -0.791983         -0.96      -0.95325     -1.194665
+Basic EPS                                                          -0.79         -0.96         -0.95         -1.19
+Diluted NI Availto Com Stockholders                          -81739000.0   -98817000.0   -98383000.0  -123299000.0
+Net Income Common Stockholders                               -81739000.0   -98817000.0   -98383000.0  -123299000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   -81739000.0   -98817000.0   -98383000.0  -123299000.0
+Minority Interests                                                   0.0           0.0        4000.0        4000.0
+Net Income Including Noncontrolling Interests                -81739000.0   -98817000.0   -98387000.0  -123303000.0
+Net Income Continuous Operations                             -81739000.0   -98817000.0   -98387000.0  -123303000.0
+Tax Provision                                                        0.0           0.0           0.0     -430000.0
+Pretax Income                                                -81739000.0   -98817000.0   -98387000.0  -123733000.0
+Other Non Operating Income Expenses                           15743000.0    19007000.0     1097000.0    17986000.0
+Special Income Charges                                               0.0           0.0      655000.0           0.0
+Write Off                                                            0.0           0.0     -655000.0           0.0
+Net Non Operating Interest Income Expense                    -27304000.0   -18231000.0   -13398000.0   -11904000.0
+Interest Expense Non Operating                                31233000.0    20117000.0    13993000.0    14528000.0
+Interest Income Non Operating                                  3929000.0     1886000.0      595000.0     2624000.0
+Operating Income                                             -74242000.0   -99554000.0   -87006000.0  -130057000.0
+Operating Expense                                            113799000.0   100893000.0    97207000.0    96083000.0
+Research And Development                                       4503000.0     2424000.0     4285000.0     2735000.0
+Selling General And Administration                           109296000.0    98469000.0    92922000.0    93348000.0
+Selling And Marketing Expense                                  4117000.0     5507000.0     4697000.0     8345000.0
+General And Administrative Expense                           105179000.0    92962000.0    88225000.0    85003000.0
+Gross Profit                                                  39557000.0     1339000.0    10201000.0   -33974000.0
+Cost Of Revenue                                             1100525000.0  1160569000.0  1474047000.0  3038550000.0
+Total Revenue                                               1140082000.0  1161908000.0  1484248000.0  3004576000.0
+Operating Revenue                                           1140082000.0  1161908000.0  1484248000.0  3004576000.0

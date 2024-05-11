@@ -1,0 +1,141 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre
+address2	Oleander Way 802, West Bay Road P.O. Box 32052
+city	Grand Cayman
+zip	KY1-1208
+country	Cayman Islands
+website	https://www.horngshiue.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	HORNG SHIUE HOLDING Co., Ltd. engages in the research and development, manufacture, processing, and trading of automotive sheet metal stamping dies and gauges in Mainland China and internationally. It also offers car-body sheet metal dies, including press die comprising sheet metal molds, injection molds, rubber molds, and forging molds for craft equipment in car parts manufacturing. In addition, the company provides after sales services, such as technique consulting. HORNG SHIUE HOLDING Co., Ltd. was founded in 2000 and is headquartered in Grand Cayman, Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wei-Yuan  Lin', 'title': 'Chairman of the Board & GM', 'fiscalYear': 2021, 'totalPay': 740000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Zhou  Xiao', 'title': 'CSO & Deputy GM', 'fiscalYear': 2021, 'totalPay': 380000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Fei  Ning', 'title': 'Head of financial department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guang-Rui  Chen', 'title': 'Chief Operating Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Che-Fu  Chang', 'title': 'Chief Internal Auditor & Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Te-Jen  Su', 'title': 'Secretary', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	13.8
+open	13.85
+dayLow	13.85
+dayHigh	15.1
+regularMarketPreviousClose	13.8
+regularMarketOpen	13.85
+regularMarketDayLow	13.85
+regularMarketDayHigh	15.1
+exDividendDate	1531872000	 (2018-07-18 08:00:00)
+beta	1.106
+volume	419770
+regularMarketVolume	419770
+averageVolume	271328
+averageVolume10days	109660
+averageDailyVolume10Day	109660
+bid	14.45
+ask	14.5
+marketCap	1005838912
+fiftyTwoWeekLow	13.4
+fiftyTwoWeekHigh	21.5
+priceToSalesTrailing12Months	0.6005941
+fiftyDayAverage	14.907
+twoHundredDayAverage	16.47875
+currency	TWD
+enterpriseValue	1516466176
+profitMargins	-0.08619001
+sharesOutstanding	69368200
+heldPercentInsiders	0.55377996
+impliedSharesOutstanding	70892800
+bookValue	9.782
+priceToBook	1.4823145
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-144338000
+trailingEps	-2.21
+enterpriseToRevenue	0.905
+enterpriseToEbitda	-57.083
+52WeekChange	-0.19889504
+SandP52WeekChange	0.26265144
+lastDividendValue	0.488264
+lastDividendDate	1531872000	 (2018-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2243.TW
+underlyingSymbol	2243.TW
+shortName	HORNG SHIUE HOLDING CO LTD
+longName	HORNG SHIUE HOLDING Co., Ltd.
+firstTradeDateEpochUtc	1506560400	 (2017-09-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fe82bcec-de39-3998-8413-1f75dd8df8fe
+messageBoardId	finmb_424918757
+gmtOffSetMilliseconds	28800000
+currentPrice	14.5
+recommendationKey	none
+totalCash	232116000
+totalCashPerShare	3.346
+ebitda	-26566000
+totalDebt	742665024
+quickRatio	0.29
+currentRatio	1.086
+totalRevenue	1674739968
+debtToEquity	109.44
+revenuePerShare	25.683
+returnOnAssets	-0.021979999
+returnOnEquity	-0.24681999
+freeCashflow	-4943750
+operatingCashflow	40907000
+revenueGrowth	0.8
+grossMargins	0.00667
+ebitdaMargins	-0.015859999
+operatingMargins	-0.10281
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -1019250.0     5283000.0     311794.876929  -10286966.137083
+Tax Rate For Calcs                                                  0.25          0.25          0.005406          0.109537
+Normalized EBITDA                                             27025000.0   142456000.0        59136000.0      -118884000.0
+Total Unusual Items                                           -4077000.0    21132000.0        57677000.0       -93913000.0
+Total Unusual Items Excluding Goodwill                        -4077000.0    21132000.0        57677000.0       -93913000.0
+Net Income From Continuing Operation Net Minority Interest  -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Reconciled Depreciation                                      111050000.0   113725000.0       116418000.0        69123000.0
+Reconciled Cost Of Revenue                                  1663574000.0  1561309000.0      1423172000.0       903291000.0
+EBITDA                                                        22948000.0   163588000.0       116813000.0      -212797000.0
+EBIT                                                         -88102000.0    49863000.0          395000.0      -281920000.0
+Net Interest Income                                          -33831000.0   -64639000.0       -78988000.0       -34828000.0
+Interest Expense                                              38545000.0    66700000.0        80308000.0        38017000.0
+Interest Income                                                4714000.0     2061000.0         1320000.0         3189000.0
+Normalized Income                                           -141280250.0   -44491000.0 -136846205.123071 -201265966.137083
+Net Income From Continuing And Discontinued Operation       -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Total Expenses                                              1786300000.0  1704531000.0      1567930000.0      1023391000.0
+Diluted Average Shares                                               NaN    45151000.0        44849676.0        44823051.0
+Basic Average Shares                                                 NaN    45151000.0        44849676.0        44823051.0
+Diluted EPS                                                          NaN         -0.65         -1.777282         -6.357202
+Basic EPS                                                            NaN         -0.65         -1.777282         -6.357202
+Diluted NI Availto Com Stockholders                         -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Net Income Common Stockholders                              -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                  -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Net Income Including Noncontrolling Interests               -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Net Income Continuous Operations                            -144338000.0   -28642000.0       -79481000.0      -284892000.0
+Tax Provision                                                 17691000.0    11805000.0         -432000.0       -35045000.0
+Pretax Income                                               -126647000.0   -16837000.0       -79913000.0      -319937000.0
+Other Non Operating Income Expenses                           22821000.0    33005000.0         9410000.0        74604000.0
+Special Income Charges                                        -4077000.0    21132000.0        57677000.0       -93913000.0
+Other Special Charges                                                NaN           NaN               NaN        -1677000.0
+Write Off                                                      4077000.0   -21132000.0       -57677000.0        93913000.0
+Net Non Operating Interest Income Expense                    -33831000.0   -64639000.0       -78988000.0       -34828000.0
+Interest Expense Non Operating                                38545000.0    66700000.0        80308000.0        38017000.0
+Interest Income Non Operating                                  4714000.0     2061000.0         1320000.0         3189000.0
+Operating Income                                            -111560000.0    -6335000.0       -68012000.0      -265800000.0
+Operating Expense                                            122726000.0   143222000.0       144758000.0       120100000.0
+Research And Development                                      17795000.0    51793000.0        42809000.0        26059000.0
+Selling General And Administration                           104931000.0    91429000.0       101949000.0        94041000.0
+Selling And Marketing Expense                                 19736000.0    12370000.0        20309000.0        11540000.0
+General And Administrative Expense                            85195000.0    79059000.0        81640000.0        82501000.0
+Gross Profit                                                  11166000.0   136887000.0        76746000.0      -145700000.0
+Cost Of Revenue                                             1663574000.0  1561309000.0      1423172000.0       903291000.0
+Total Revenue                                               1674740000.0  1698196000.0      1499918000.0       757591000.0
+Operating Revenue                                           1674740000.0  1698196000.0      1499918000.0       757591000.0

@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 136, Section 3
+address2	5th Floor Renai Road
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2709 2323
+website	https://www.sfworldwide.com
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Standard Foods Corporation manufactures and sells nutritious foods, edible oil, dairy products, and beverages in Taiwan and internationally. It offers baby cereal, oatmeal, fruit cereal, ready-to-eat cereal, sesame paste, milk powder, and other cereal products. The company also manufactures and sells computer peripherals and appliances, and cosmetics; and manages properties, as well as engages in the import and export businesses. In addition, it is involved in the investment and technical consultant on health technology activities, as well as provides technical transfers and services. The company was formerly known as Standard Foods Taiwan Ltd. and changed its name to Standard Foods Corporation in 2002. Standard Foods Corporation was founded in 1979 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Arthur  Tsao', 'title': 'CEO, President & Director', 'fiscalYear': 2021, 'totalPay': 5897000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lynn  Lee', 'title': 'Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Thomas  Huang', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yen-Lin  Cheng', 'title': 'Marketing Division Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui-Ming  Fong', 'title': 'Director of Human Resources', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yun-Yun  Yeh', 'title': 'Head of Audit', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	38.8
+open	39.0
+dayLow	39.0
+dayHigh	39.45
+regularMarketPreviousClose	38.8
+regularMarketOpen	39.0
+regularMarketDayLow	39.0
+regularMarketDayHigh	39.45
+dividendRate	1.29
+dividendYield	0.0328
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.95559996
+fiveYearAvgDividendYield	4.28
+beta	0.25
+trailingPE	29.148146
+forwardPE	14.574073
+volume	1378393
+regularMarketVolume	1378393
+averageVolume	536516
+averageVolume10days	671776
+averageDailyVolume10Day	671776
+bid	39.3
+ask	39.35
+marketCap	35746324480
+fiftyTwoWeekLow	37.0
+fiftyTwoWeekHigh	42.45
+priceToSalesTrailing12Months	1.2856486
+fiftyDayAverage	37.983
+twoHundredDayAverage	38.219
+trailingAnnualDividendRate	1.25
+trailingAnnualDividendYield	0.032216497
+currency	TWD
+enterpriseValue	32188581888
+profitMargins	0.04409
+floatShares	373460546
+sharesOutstanding	908419968
+heldPercentInsiders	0.58459
+heldPercentInstitutions	0.08971
+impliedSharesOutstanding	908419968
+bookValue	19.131
+priceToBook	2.056871
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.182
+netIncomeToCommon	1225773056
+trailingEps	1.35
+forwardEps	2.7
+lastSplitFactor	1040:1000
+lastSplitDate	1503273600	 (2017-08-21 08:00:00)
+enterpriseToRevenue	1.158
+enterpriseToEbitda	16.926
+52WeekChange	-0.027194083
+SandP52WeekChange	0.26265144
+lastDividendValue	1.29
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1227.TW
+underlyingSymbol	1227.TW
+shortName	STANDARD FOODS CORPORATION
+longName	Standard Foods Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	334d0b89-d20f-3d5e-9408-667ae61c4237
+messageBoardId	finmb_882370
+gmtOffSetMilliseconds	28800000
+currentPrice	39.35
+recommendationKey	none
+totalCash	5501153792
+totalCashPerShare	6.056
+ebitda	1901703040
+totalDebt	1661218048
+quickRatio	1.398
+currentRatio	2.253
+totalRevenue	27804116992
+debtToEquity	9.406
+revenuePerShare	30.607
+returnOnAssets	0.031689998
+returnOnEquity	0.07142
+freeCashflow	1216720512
+operatingCashflow	2091024000
+earningsGrowth	0.182
+revenueGrowth	-0.1
+grossMargins	0.22621
+ebitdaMargins	0.0684
+operatingMargins	0.04537
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -8451828.414147    -8815072.196956      995948.903494    -3637845.381748
+Tax Rate For Calcs                                                   0.209043            0.22778           0.206757           0.240837
+Normalized EBITDA                                                2385213000.0       2375646000.0       3880238000.0       5017622000.0
+Total Unusual Items                                               -40431000.0        -38700000.0          4817000.0        -15105000.0
+Total Unusual Items Excluding Goodwill                            -40431000.0        -38700000.0          4817000.0        -15105000.0
+Net Income From Continuing Operation Net Minority Interest       1225773000.0       1214098000.0       2456628000.0       3212801000.0
+Reconciled Depreciation                                           664831000.0        663914000.0        683030000.0        662469000.0
+Reconciled Cost Of Revenue                                      21514418000.0      22564224000.0      26075184000.0      24856790000.0
+EBITDA                                                           2344782000.0       2336946000.0       3885055000.0       5002517000.0
+EBIT                                                             1679951000.0       1673032000.0       3202025000.0       4340048000.0
+Net Interest Income                                               101127000.0         70440000.0         56649000.0         68570000.0
+Interest Expense                                                   76637000.0         61953000.0         49011000.0         51337000.0
+Interest Income                                                   177764000.0        132393000.0        105660000.0        119907000.0
+Normalized Income                                           1257752171.585853  1243982927.803044  2452806948.903494  3224268154.618252
+Net Income From Continuing And Discontinued Operation            1225773000.0       1214098000.0       2456628000.0       3212801000.0
+Total Expenses                                                  26403286000.0      27441245000.0      31330276000.0      30406960000.0
+Diluted Average Shares                                            909036000.0        909110000.0        909388000.0        909490000.0
+Basic Average Shares                                              908420000.0        908420000.0        908420000.0        908420000.0
+Diluted EPS                                                              1.35               1.34                2.7               3.53
+Basic EPS                                                                1.35               1.34                2.7               3.54
+Diluted NI Availto Com Stockholders                              1225773000.0       1214098000.0       2456628000.0       3212801000.0
+Net Income Common Stockholders                                   1225773000.0       1214098000.0       2456628000.0       3212801000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1225773000.0       1214098000.0       2456628000.0       3212801000.0
+Minority Interests                                                -42379000.0        -30010000.0        -44478000.0        -43029000.0
+Net Income Including Noncontrolling Interests                    1268152000.0       1244108000.0       2501106000.0       3255830000.0
+Net Income Continuous Operations                                 1268152000.0       1244108000.0       2501106000.0       3255830000.0
+Tax Provision                                                     335162000.0        366971000.0        651908000.0       1032881000.0
+Pretax Income                                                    1603314000.0       1611079000.0       3153014000.0       4288711000.0
+Other Non Operating Income Expenses                               141786000.0         97784000.0        114780000.0        175962000.0
+Special Income Charges                                            -40431000.0        -38700000.0          4817000.0        -15105000.0
+Write Off                                                          40431000.0         38700000.0         -4817000.0         15105000.0
+Net Non Operating Interest Income Expense                         101127000.0         70440000.0         56649000.0         68570000.0
+Interest Expense Non Operating                                     76637000.0         61953000.0         49011000.0         51337000.0
+Interest Income Non Operating                                     177764000.0        132393000.0        105660000.0        119907000.0
+Operating Income                                                 1400832000.0       1481555000.0       2976768000.0       4059284000.0
+Operating Expense                                                4888868000.0       4877021000.0       5255092000.0       5550170000.0
+Research And Development                                          184427000.0        171538000.0        177876000.0        166035000.0
+Selling General And Administration                               4704441000.0       4705483000.0       5077216000.0       5384135000.0
+Selling And Marketing Expense                                    3632400000.0       3740658000.0       4054211000.0       4232068000.0
+General And Administrative Expense                               1072041000.0        964825000.0       1023005000.0       1152067000.0
+Gross Profit                                                     6289700000.0       6358576000.0       8231860000.0       9609454000.0
+Cost Of Revenue                                                 21514418000.0      22564224000.0      26075184000.0      24856790000.0
+Total Revenue                                                   27804118000.0      28922800000.0      34307044000.0      34466244000.0
+Operating Revenue                                               27804118000.0      28922800000.0      34307044000.0      34466244000.0

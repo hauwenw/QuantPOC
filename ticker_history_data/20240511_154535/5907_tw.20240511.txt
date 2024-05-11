@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 237, Fuhsing South Road
+address2	13th Floor Section 2 Da¡¦an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2707 8833
+fax	886 2 2706 5229
+website	https://www.grandocean.com.tw
+industry	Department Stores
+industryKey	department-stores
+industryDisp	Department Stores
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Grand Ocean Retail Group Ltd. engages in the department store retail business in China. The company also offers management consulting services; and trades in cosmetics and furnishings. It operates stores in Shanghai, Fuzhou, Nanjing, Quanzhou, Wuhan, Hengyang, Yichang, Hefei and Shiyan. Grand Ocean Retail Group Ltd. was incorporated in 2002 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Qing Hai  Ng', 'age': 67, 'title': 'GM & Representative Director', 'yearBorn': 1956, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin Guo  Zhang', 'title': 'VP & Representative Director', 'fiscalYear': 2021, 'totalPay': 540000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Seng Chay  Lee', 'title': 'Director & Auditor General', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wai Tak  Yau', 'age': 63, 'title': 'Chief Financial Officer', 'yearBorn': 1960, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao  Li', 'title': 'Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	9.58
+open	9.59
+dayLow	9.57
+dayHigh	9.67
+regularMarketPreviousClose	9.58
+regularMarketOpen	9.59
+regularMarketDayLow	9.57
+regularMarketDayHigh	9.67
+exDividendDate	1631664000	 (2021-09-15 08:00:00)
+fiveYearAvgDividendYield	6.17
+beta	0.623
+volume	111230
+regularMarketVolume	111230
+averageVolume	290154
+averageVolume10days	224626
+averageDailyVolume10Day	224626
+bid	9.6
+ask	9.62
+marketCap	1806847616
+fiftyTwoWeekLow	8.22
+fiftyTwoWeekHigh	17.15
+priceToSalesTrailing12Months	0.47298026
+fiftyDayAverage	9.364
+twoHundredDayAverage	11.552
+currency	TWD
+enterpriseValue	14857513984
+profitMargins	-0.54553
+floatShares	84418554
+sharesOutstanding	187822000
+heldPercentInsiders	0.66642
+heldPercentInstitutions	0.00156
+impliedSharesOutstanding	197052992
+bookValue	25.944
+priceToBook	0.37079865
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-2083997056
+trailingEps	-10.66
+enterpriseToRevenue	3.889
+enterpriseToEbitda	69.736
+52WeekChange	-0.36079735
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1631664000	 (2021-09-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5907.TW
+underlyingSymbol	5907.TW
+shortName	GRAND OCEAN RETAIL GROUP LIMITE
+longName	Grand Ocean Retail Group Ltd.
+firstTradeDateEpochUtc	1338944400	 (2012-06-06 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0fa0e09e-d4d7-3b59-b3cf-7e80977ea353
+messageBoardId	finmb_33403990
+gmtOffSetMilliseconds	28800000
+currentPrice	9.62
+recommendationKey	none
+totalCash	1035286976
+totalCashPerShare	5.295
+ebitda	213054000
+totalDebt	14011793408
+quickRatio	0.204
+currentRatio	0.347
+totalRevenue	3820133120
+debtToEquity	276.214
+revenuePerShare	19.537
+returnOnAssets	-0.00605
+returnOnEquity	-0.33808997
+freeCashflow	1118311040
+operatingCashflow	1251053952
+revenueGrowth	0.088
+grossMargins	0.83212
+ebitdaMargins	0.055770002
+operatingMargins	-0.12880999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -35415500.0   -41975000.0      721500.0 -28921315.559139
+Tax Rate For Calcs                                                  0.25          0.25          0.25         0.364924
+Normalized EBITDA                                            520130000.0  1898602000.0  2112726000.0     1969001000.0
+Total Unusual Items                                         -141662000.0  -167900000.0     2886000.0      -79253000.0
+Total Unusual Items Excluding Goodwill                      -141662000.0  -167900000.0     2886000.0      -79253000.0
+Net Income From Continuing Operation Net Minority Interest -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Reconciled Depreciation                                     1551385000.0  1640129000.0  1508116000.0     1492102000.0
+Reconciled Cost Of Revenue                                   641318000.0   757826000.0  1433268000.0     1573658000.0
+EBITDA                                                       378468000.0  1730702000.0  2115612000.0     1889748000.0
+EBIT                                                       -1172917000.0    90573000.0   607496000.0      397646000.0
+Net Interest Income                                         -661085000.0  -678354000.0  -503821000.0     -533868000.0
+Interest Expense                                             688683000.0   704388000.0   529580000.0      560110000.0
+Interest Income                                               27598000.0    26034000.0    25759000.0       26242000.0
+Normalized Income                                          -1977750500.0  -706922000.0  -234299500.0 -52845315.559139
+Net Income From Continuing And Discontinued Operation      -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Total Expenses                                              4050145000.0  4104252000.0  4727881000.0     4531759000.0
+Diluted Average Shares                                               NaN   195531000.0   195531000.0      195531000.0
+Basic Average Shares                                                 NaN   195531000.0   195531000.0      195531000.0
+Diluted EPS                                                          NaN         -4.26         -1.19            -0.53
+Basic EPS                                                            NaN         -4.26         -1.19            -0.53
+Diluted NI Availto Com Stockholders                        -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Net Income Common Stockholders                             -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0              0.0
+Net Income                                                 -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Minority Interests                                                   NaN           NaN           NaN              0.0
+Net Income Including Noncontrolling Interests              -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Net Income Continuous Operations                           -2083997000.0  -832847000.0  -232135000.0     -103177000.0
+Tax Provision                                                222397000.0   219032000.0   310051000.0      -59287000.0
+Pretax Income                                              -1861600000.0  -613815000.0    77916000.0     -162464000.0
+Other Non Operating Income Expenses                         -813767000.0   195839000.0   150078000.0      191552000.0
+Special Income Charges                                      -141662000.0  -167900000.0     2886000.0      -79253000.0
+Write Off                                                    141662000.0   167900000.0    -2886000.0       79253000.0
+Net Non Operating Interest Income Expense                   -661085000.0  -678354000.0  -503821000.0     -533868000.0
+Interest Expense Non Operating                               688683000.0   704388000.0   529580000.0      560110000.0
+Interest Income Non Operating                                 27598000.0    26034000.0    25759000.0       26242000.0
+Operating Income                                            -230012000.0    45890000.0   431544000.0      259105000.0
+Operating Expense                                           3408827000.0  3346426000.0  3294613000.0     2958101000.0
+Selling General And Administration                          3408827000.0  3346426000.0  3294613000.0     2958101000.0
+Selling And Marketing Expense                               3408827000.0  3346426000.0  3294613000.0     2958101000.0
+Gross Profit                                                3178815000.0  3392316000.0  3726157000.0     3217206000.0
+Cost Of Revenue                                              641318000.0   757826000.0  1433268000.0     1573658000.0
+Total Revenue                                               3820133000.0  4150142000.0  5159425000.0     4790864000.0
+Operating Revenue                                           3820133000.0  4150142000.0  5159425000.0     4790864000.0

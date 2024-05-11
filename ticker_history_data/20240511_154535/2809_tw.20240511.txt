@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 506 Ximen Road
+address2	Section 1 West Central District
+city	Tainan City
+country	Taiwan
+phone	886 6 213 9171
+website	https://customer.ktb.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	King's Town Bank Co., Ltd., together with its subsidiaries, provides various personal and corporate banking products and services in Taiwan. It accepts check deposits and other deposits; issues financial bonds; and offers loan, bill discounting, investment business, and domestic and foreign exchange services. The company also provides draft acceptance, domestic and foreign letter of credit and guarantees, collection and advances, depository and agency services, and operates other business chartered by the government. In addition, it offers leasing, securities brokage, and construction management services. The company was founded in 1948 and is headquartered in Tainan City, Taiwan.
+fullTimeEmployees	1075
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hung-Liang  Chiang', 'title': 'President', 'fiscalYear': 2022, 'totalPay': 5634271, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Wei  Pan', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'totalPay': 9360171, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Chu  Pai', 'title': 'Chief Auditor', 'fiscalYear': 2022, 'totalPay': 2410871, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Cheng  Lin', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'totalPay': 3645444, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Chen  Tsai', 'title': 'Vice President of Human Resources Department and Strategy & Operations Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Hsuan  Chen', 'title': 'Chief of Accounting Department, Accounting Supervisor & Accounting Executive', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Ko  Yang', 'title': 'VP of Administration Department, Corporate Governance Director & Company Secretary', 'fiscalYear': 2022, 'totalPay': 1225822, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shui-Shan  Huang', 'title': 'Legal Affairs Department Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Chia  Chang', 'title': 'Senior Manager of Credit Assessment Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Sung  Shen', 'title': 'Senior Vice President of Information Technology Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	56.0
+open	56.4
+dayLow	56.4
+dayHigh	59.8
+regularMarketPreviousClose	56.0
+regularMarketOpen	56.4
+regularMarketDayLow	56.4
+regularMarketDayHigh	59.8
+dividendRate	1.1
+dividendYield	0.0184
+exDividendDate	1686096000	 (2023-06-07 08:00:00)
+payoutRatio	0.16540001
+fiveYearAvgDividendYield	4.41
+trailingPE	8.992481
+forwardPE	12.5630245
+volume	11789471
+regularMarketVolume	11789471
+averageVolume	4696427
+averageVolume10days	5167230
+averageDailyVolume10Day	5167230
+bid	59.7
+ask	59.8
+marketCap	66451550208
+fiftyTwoWeekLow	34.95
+fiftyTwoWeekHigh	59.8
+priceToSalesTrailing12Months	6.416059
+fiftyDayAverage	52.645
+twoHundredDayAverage	42.14225
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.05357143
+currency	TWD
+enterpriseValue	3001615616
+profitMargins	0.71306
+floatShares	664721064
+sharesOutstanding	1111229952
+heldPercentInsiders	0.36251998
+heldPercentInstitutions	0.084300004
+impliedSharesOutstanding	1120899968
+bookValue	47.313
+priceToBook	1.2639232
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.402
+netIncomeToCommon	7385244160
+trailingEps	6.65
+forwardEps	4.76
+enterpriseToRevenue	0.29
+52WeekChange	0.70370376
+SandP52WeekChange	0.26265144
+lastDividendValue	1.1
+lastDividendDate	1686096000	 (2023-06-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2809.TW
+underlyingSymbol	2809.TW
+shortName	KING'S TOWN BANK
+longName	King's Town Bank
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2f5f1968-c5cd-344e-8012-f92030b675c8
+messageBoardId	finmb_9794061
+gmtOffSetMilliseconds	28800000
+currentPrice	59.8
+targetHighPrice	51.0
+targetLowPrice	51.0
+targetMeanPrice	51.0
+targetMedianPrice	51.0
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	1
+totalCash	75852431360
+totalCashPerShare	68.388
+totalDebt	12527236096
+totalRevenue	10357066752
+revenuePerShare	9.314
+returnOnAssets	0.019170001
+returnOnEquity	0.15293
+operatingCashflow	17696208896
+earningsGrowth	1.406
+revenueGrowth	0.756
+operatingMargins	0.77264
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     904742.573215    -1959993.620066    10870640.17809       13059.340311
+Tax Rate For Calcs                                                    0.15653           0.249236          0.134468           0.123201
+Total Unusual Items                                                 5780000.0         -7864000.0        80842000.0           106000.0
+Total Unusual Items Excluding Goodwill                              5780000.0         -7864000.0        80842000.0           106000.0
+Net Income From Continuing Operation Net Minority Interest       6207101000.0       2210422000.0      5630303000.0       5490966000.0
+Reconciled Depreciation                                           153250000.0        139483000.0       127603000.0        132118000.0
+Net Interest Income                                              6180063000.0       6336015000.0      5880637000.0       5514689000.0
+Interest Expense                                                 4831680000.0       2211428000.0       871680000.0       1267131000.0
+Interest Income                                                 11011743000.0       8547443000.0      6752317000.0       6781820000.0
+Normalized Income                                           6202225742.573215  2216326006.379934  5560331640.17809  5490873059.340311
+Net Income From Continuing And Discontinued Operation            6207101000.0       2210422000.0      5630303000.0       5490966000.0
+Diluted Average Shares                                           1111234000.0       1117220000.0      1121574303.0       1120378000.0
+Basic Average Shares                                             1111234000.0       1117220000.0      1121574303.0       1120378000.0
+Diluted EPS                                                              5.59               1.98              5.02                4.9
+Basic EPS                                                                5.59               1.98              5.02                4.9
+Diluted NI Availto Com Stockholders                              6207101000.0       2210422000.0      5630303000.0       5490966000.0
+Net Income Common Stockholders                                   6207101000.0       2210422000.0      5630303000.0       5490966000.0
+Net Income                                                       6207101000.0       2210422000.0      5630303000.0       5490966000.0
+Minority Interests                                                        0.0                0.0               0.0            -5000.0
+Net Income Including Noncontrolling Interests                    6207101000.0       2210422000.0      5630303000.0       5490971000.0
+Net Income Continuous Operations                                 6207101000.0       2210422000.0      5630303000.0       5490971000.0
+Tax Provision                                                    1151904000.0        733809000.0       874715000.0        771551000.0
+Pretax Income                                                    7359005000.0       2944231000.0      6505018000.0       6262522000.0
+Other Non Operating Income Expenses                               145341000.0         67415000.0        43353000.0         50637000.0
+Special Income Charges                                             -3778000.0          3236000.0        82652000.0           106000.0
+Other Special Charges                                                -14000.0         -3236000.0          148000.0          -106000.0
+Write Off                                                                 NaN                NaN               0.0                0.0
+Impairment Of Capital Assets                                        3792000.0                0.0       -82800000.0                0.0
+Gain On Sale Of Security                                         1970631000.0      -2599014000.0      1460109000.0       1813406000.0
+Operating Expense                                                2529174000.0       2191456000.0      2024864000.0       1899734000.0
+Other Operating Expenses                                                  0.0                0.0               0.0                0.0
+Depreciation And Amortization In Income Statement                 153250000.0        139483000.0       127603000.0        132118000.0
+Amortization                                                        3321000.0          1212000.0               0.0                NaN
+Depreciation Income Statement                                     149929000.0        138271000.0       127603000.0        132118000.0
+Selling General And Administration                                980890000.0        884460000.0       751798000.0        710882000.0
+General And Administrative Expense                                980890000.0        884460000.0       751798000.0        710882000.0
+Rent And Landing Fees                                               6465000.0          5440000.0         6370000.0          3963000.0
+Total Revenue                                                    9830453000.0       5281719000.0     10135953000.0       8856177000.0
+Operating Revenue                                                9830453000.0       5281719000.0     10135953000.0       8856177000.0

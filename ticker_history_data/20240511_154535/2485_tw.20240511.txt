@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	512, Yuanshan Road
+address2	7th Floor Zhonghe District
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 2225 1929
+fax	886 2 2225 1447
+website	https://www.zinwell.com.tw
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Zinwell Corporation manufactures and sells digital cable/satellite/terrestrial receiving, broadcast and broadband communication, IPTV receiving, and wireless equipment in Taiwan. The company offers satellite and terrestrial products, such as digital channel stacking switches, low-noise block downconverters, and headend systems; digital home entertainment products, including wireless video senders, set top boxes, soundboxes, and soundbars; and residential broadband products, such as G.hn, G.fast, Wi-Fi, and MoCA, as well as 5G, 4G, IoT, and mmWave solutions. It also provides CATV/MATV transmission products consisting of optoelectronics, CATV outdoor amplifiers, CATV outdoor passives, CATV/MATV indoor amplifiers, CATV/MATV indoor passive devices, and satellite TV distribution devices. Zinwell Corporation was incorporated in 1981 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Hui  Lin', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 4620000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Shun  Ho', 'title': 'CFO, Accounting Supervisor, Assistant VP of Financial Division & Director', 'fiscalYear': 2021, 'totalPay': 600000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-Chou  Wu', 'title': 'Vice President of 3rd Business Division', 'fiscalYear': 2021, 'totalPay': 2051000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Fen  Huang', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+irWebsite	http://www.zinwell.com.tw/investor_quarterly.php
+maxAge	86400
+priceHint	2
+previousClose	19.9
+open	19.9
+dayLow	19.55
+dayHigh	19.9
+regularMarketPreviousClose	19.9
+regularMarketOpen	19.9
+regularMarketDayLow	19.55
+regularMarketDayHigh	19.9
+exDividendDate	1564617600	 (2019-08-01 08:00:00)
+fiveYearAvgDividendYield	3.8
+beta	0.532
+volume	908602
+regularMarketVolume	908602
+averageVolume	2092435
+averageVolume10days	750622
+averageDailyVolume10Day	750622
+bid	19.6
+ask	19.65
+marketCap	6226704384
+fiftyTwoWeekLow	18.5
+fiftyTwoWeekHigh	31.3
+priceToSalesTrailing12Months	1.0704626
+fiftyDayAverage	20.893
+twoHundredDayAverage	22.30125
+currency	TWD
+enterpriseValue	4815220224
+profitMargins	-0.0124
+floatShares	317689000
+sharesOutstanding	317688992
+heldPercentInsiders	0.13346
+heldPercentInstitutions	0.0502
+impliedSharesOutstanding	319280992
+bookValue	19.125
+priceToBook	1.0248367
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-72130000
+trailingEps	-0.23
+lastSplitFactor	118.083:100
+lastSplitDate	1216339200	 (2008-07-18 08:00:00)
+enterpriseToRevenue	0.828
+enterpriseToEbitda	24.928
+52WeekChange	0.042553186
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1564617600	 (2019-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2485.TW
+underlyingSymbol	2485.TW
+shortName	ZINWELL
+longName	Zinwell Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	20ee24cd-77cf-3750-9917-0cc6d213e164
+messageBoardId	finmb_7918051
+gmtOffSetMilliseconds	28800000
+currentPrice	19.6
+recommendationKey	none
+totalCash	1983634944
+totalCashPerShare	6.244
+ebitda	193162000
+totalDebt	361127008
+quickRatio	1.651
+currentRatio	2.494
+totalRevenue	5816835072
+debtToEquity	5.744
+revenuePerShare	18.31
+returnOnAssets	-0.01043
+returnOnEquity	-0.04496
+freeCashflow	998874112
+operatingCashflow	1353565952
+revenueGrowth	-0.358
+grossMargins	0.09982
+ebitdaMargins	0.033210002
+operatingMargins	4.0000003e-05
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -3897800.0     2388000.0     280537.128719    2234782.206605
+Tax Rate For Calcs                                                   0.2           0.2          0.050831          0.106261
+Normalized EBITDA                                            114139000.0   250473000.0      -152441000.0        48584000.0
+Total Unusual Items                                          -19489000.0    11940000.0         5519000.0        21031000.0
+Total Unusual Items Excluding Goodwill                       -19489000.0    11940000.0         5519000.0        21031000.0
+Net Income From Continuing Operation Net Minority Interest   -72130000.0      383000.0      -354207000.0      -151162000.0
+Reconciled Depreciation                                      354359000.0   284078000.0       243802000.0       244133000.0
+Reconciled Cost Of Revenue                                  5236211000.0  6085024000.0      6174568000.0      7665928000.0
+EBITDA                                                        94650000.0   262413000.0      -146922000.0        69615000.0
+EBIT                                                        -259709000.0   -21665000.0      -390724000.0      -174518000.0
+Net Interest Income                                           25437000.0    11582000.0        15739000.0        26673000.0
+Interest Expense                                               9669000.0      557000.0          119000.0          221000.0
+Interest Income                                               35106000.0    12139000.0        15858000.0        26894000.0
+Normalized Income                                            -56538800.0    -9169000.0 -359445462.871281 -169958217.793395
+Net Income From Continuing And Discontinued Operation        -72130000.0      383000.0      -354207000.0      -151162000.0
+Total Expenses                                              5946489000.0  6848342000.0      6775594000.0      8217232000.0
+Diluted Average Shares                                               NaN   317740000.0       317689000.0       317689000.0
+Basic Average Shares                                                 NaN   317689000.0       317689000.0       317689000.0
+Diluted EPS                                                          NaN      0.001205             -1.11             -0.48
+Basic EPS                                                            NaN      0.001206             -1.11             -0.48
+Diluted NI Availto Com Stockholders                          -72130000.0      383000.0      -354207000.0      -151162000.0
+Net Income Common Stockholders                               -72130000.0      383000.0      -354207000.0      -151162000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                   -72130000.0      383000.0      -354207000.0      -151162000.0
+Minority Interests                                           215185000.0    67744000.0        16769000.0         5009000.0
+Net Income Including Noncontrolling Interests               -287315000.0   -67361000.0      -370976000.0      -156171000.0
+Net Income Continuous Operations                            -287315000.0   -67361000.0      -370976000.0      -156171000.0
+Tax Provision                                                 17937000.0    45139000.0       -19867000.0       -18568000.0
+Pretax Income                                               -269378000.0   -22222000.0      -390843000.0      -174739000.0
+Other Non Operating Income Expenses                         -145672000.0   220563000.0        85950000.0        57427000.0
+Special Income Charges                                       -19489000.0    11940000.0         5519000.0        21031000.0
+Write Off                                                     19489000.0   -11940000.0        -5519000.0       -21031000.0
+Net Non Operating Interest Income Expense                     25437000.0    11582000.0        15739000.0        26673000.0
+Interest Expense Non Operating                                 9669000.0      557000.0          119000.0          221000.0
+Interest Income Non Operating                                 35106000.0    12139000.0        15858000.0        26894000.0
+Operating Income                                            -129654000.0  -266307000.0      -498051000.0      -279870000.0
+Operating Expense                                            710278000.0   763318000.0       601026000.0       551304000.0
+Research And Development                                     387411000.0   325180000.0       233576000.0       217654000.0
+Selling General And Administration                           322867000.0   438138000.0       367450000.0       333650000.0
+Selling And Marketing Expense                                101041000.0   223444000.0       168002000.0       107248000.0
+General And Administrative Expense                           221826000.0   214694000.0       199448000.0       226402000.0
+Gross Profit                                                 580624000.0   497011000.0       102975000.0       271434000.0
+Cost Of Revenue                                             5236211000.0  6085024000.0      6174568000.0      7665928000.0
+Total Revenue                                               5816835000.0  6582035000.0      6277543000.0      7937362000.0
+Operating Revenue                                           5816835000.0  6582035000.0      6277543000.0      7937362000.0

@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 1-1, Zhongshan Road
+address2	Lane 111 Sec. 3 Tanzi District
+city	Taichung
+zip	427018
+country	Taiwan
+phone	886 4 2534 7909
+fax	886 4 2532 7885
+website	https://www.siward.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Siward Crystal Technology Co., Ltd processes, manufactures, and sells quartz crystal oscillators and filters in Taiwan, Mainland China, Japan, Malaysia, the United States, Europe, and internationally. The company offers crystal products, including passive components quartz crystal, 32.768 kHz tuning fork crystal, and thermistor crystal units; crystal oscillator products, such as CMOS output oscillator, differential output oscillator, high-precision oscillator, low jitter oscillator, low phase noise oscillator, and 32.768 kHz oscillator; and temperature compensated crystal oscillator (TCXO) products comprising CMOS output TCXO, clipped-sine output TCXO, and low phase noise TCXO, which are used in IOT devices, GNSS/GPS, 5G telecommunications infrastructure, ADAS, and ?aerospace. It also provides voltage-controlled temperature compensated crystal oscillator, such as clipped-sine output VCTCXO; voltage-controlled crystal oscillator, including CMOS output VCXO; and RF bonded wafer products comprising multi-layer structure bonded wafers for SMR type filters, and BAW SMR filters. Its products are used in various applications, such as networking communications, mobile, PC/NB, consumers electronics, IoT, wearables, GPS, telecommunications, and automotives. Siward Crystal Technology Co., Ltd was founded in 1988 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	763
+companyOfficers	[{'maxAge': 1, 'name': 'Jung Meng Tseng', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ling-Ling  Huang', 'title': 'CFO & Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih Yun  Ku', 'title': 'Assistant VP, Product Controller, Supervisor & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ping Feng Liu', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	32.0
+open	32.05
+dayLow	31.7
+dayHigh	32.1
+regularMarketPreviousClose	32.0
+regularMarketOpen	32.05
+regularMarketDayLow	31.7
+regularMarketDayHigh	32.1
+dividendRate	2.2
+dividendYield	0.0688
+exDividendDate	1693353600	 (2023-08-30 08:00:00)
+payoutRatio	1.6541001
+fiveYearAvgDividendYield	4.87
+trailingPE	24.06015
+volume	467438
+regularMarketVolume	467438
+averageVolume	1332039
+averageVolume10days	328299
+averageDailyVolume10Day	328299
+bid	31.9
+ask	32.0
+marketCap	5101471744
+fiftyTwoWeekLow	29.2
+fiftyTwoWeekHigh	37.4
+priceToSalesTrailing12Months	2.2561064
+fiftyDayAverage	33.798
+twoHundredDayAverage	33.103
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.046875
+currency	TWD
+enterpriseValue	4620569600
+profitMargins	0.094
+sharesOutstanding	159420992
+heldPercentInsiders	0.14253001
+heldPercentInstitutions	0.02704
+impliedSharesOutstanding	159420992
+bookValue	25.144
+priceToBook	1.2726694
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.554
+netIncomeToCommon	212560000
+trailingEps	1.33
+lastSplitFactor	1.05:1
+lastSplitDate	1250553600	 (2009-08-18 08:00:00)
+enterpriseToRevenue	2.043
+enterpriseToEbitda	11.976
+52WeekChange	-0.069767416
+SandP52WeekChange	0.26265144
+lastDividendValue	2.2
+lastDividendDate	1693353600	 (2023-08-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2484.TW
+underlyingSymbol	2484.TW
+shortName	SIWARD CRYSTAL TECHNOLOGY CO
+longName	Siward Crystal Technology Co., Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	11314d77-d584-3ce8-889a-6087ff2e825c
+messageBoardId	finmb_12953790
+gmtOffSetMilliseconds	28800000
+currentPrice	32.0
+recommendationKey	none
+totalCash	1006744000
+totalCashPerShare	6.199
+ebitda	385822016
+totalDebt	423830016
+quickRatio	2.277
+currentRatio	3.647
+totalRevenue	2261184000
+debtToEquity	10.363
+revenuePerShare	14.107
+returnOnAssets	0.02073
+returnOnEquity	0.05177
+freeCashflow	216706128
+operatingCashflow	369408000
+earningsGrowth	-0.556
+revenueGrowth	-0.153
+grossMargins	0.2376
+ebitdaMargins	0.17063
+operatingMargins	0.00874
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     51009.241111   -5696624.285345   -9991627.932694   -2358637.530761
+Tax Rate For Calcs                                                   0.24061          0.218916          0.219201          0.214636
+Normalized EBITDA                                                594201000.0      1265082000.0       793644000.0       400577000.0
+Total Unusual Items                                                 212000.0       -26022000.0       -45582000.0       -10989000.0
+Total Unusual Items Excluding Goodwill                              212000.0       -26022000.0       -45582000.0       -10989000.0
+Net Income From Continuing Operation Net Minority Interest       260988000.0       768276000.0       405678000.0       161984000.0
+Reconciled Depreciation                                          237681000.0       242031000.0       219963000.0       177970000.0
+Reconciled Cost Of Revenue                                      1709033000.0      2012912000.0      2302779000.0      2058530000.0
+EBITDA                                                           594413000.0      1239060000.0       748062000.0       389588000.0
+EBIT                                                             356732000.0       997029000.0       528099000.0       211618000.0
+Net Interest Income                                                3648000.0        -7390000.0        -6700000.0        -3854000.0
+Interest Expense                                                  13375000.0        13687000.0         9037000.0         5595000.0
+Interest Income                                                   17023000.0         6297000.0         2337000.0         1741000.0
+Normalized Income                                           260827009.241111  788601375.714655  441268372.067306  170614362.469239
+Net Income From Continuing And Discontinued Operation            260988000.0       768276000.0       405678000.0       161984000.0
+Total Expenses                                                  2076458000.0      2438006000.0      2666166000.0      2378255000.0
+Diluted Average Shares                                           160240000.0       161153000.0       160217000.0       159970000.0
+Basic Average Shares                                             159421000.0       159421000.0       159421000.0       159421000.0
+Diluted EPS                                                             1.63              4.77              2.53              1.01
+Basic EPS                                                               1.64              4.82              2.54              1.02
+Diluted NI Availto Com Stockholders                              260988000.0       768276000.0       405678000.0       161984000.0
+Net Income Common Stockholders                                   260988000.0       768276000.0       405678000.0       161984000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       260988000.0       768276000.0       405678000.0       161984000.0
+Minority Interests                                                  246000.0          203000.0          395000.0          181000.0
+Net Income Including Noncontrolling Interests                    260742000.0       768073000.0       405283000.0       161803000.0
+Net Income Continuous Operations                                 260742000.0       768073000.0       405283000.0       161803000.0
+Tax Provision                                                     82615000.0       215269000.0       113779000.0        44220000.0
+Pretax Income                                                    343357000.0       983342000.0       519062000.0       206023000.0
+Other Non Operating Income Expenses                               37423000.0       165225000.0        -3287000.0       -13362000.0
+Special Income Charges                                              212000.0       -26022000.0       -45582000.0       -10989000.0
+Write Off                                                          -212000.0        26022000.0        45582000.0        10989000.0
+Net Non Operating Interest Income Expense                          3648000.0        -7390000.0        -6700000.0        -3854000.0
+Interest Expense Non Operating                                    13375000.0        13687000.0         9037000.0         5595000.0
+Interest Income Non Operating                                     17023000.0         6297000.0         2337000.0         1741000.0
+Operating Income                                                 278936000.0       825578000.0       560034000.0       212617000.0
+Operating Expense                                                367425000.0       425094000.0       363387000.0       319725000.0
+Research And Development                                         128924000.0       134061000.0       113487000.0        99587000.0
+Selling General And Administration                               238501000.0       291033000.0       249900000.0       220138000.0
+Selling And Marketing Expense                                     99798000.0       107932000.0       101831000.0        96474000.0
+General And Administrative Expense                               138703000.0       183101000.0       148069000.0       123664000.0
+Gross Profit                                                     646361000.0      1250672000.0       923421000.0       532342000.0
+Cost Of Revenue                                                 1709033000.0      2012912000.0      2302779000.0      2058530000.0
+Total Revenue                                                   2355394000.0      3263584000.0      3226200000.0      2590872000.0
+Operating Revenue                                               2355394000.0      3263584000.0      3226200000.0      2590872000.0

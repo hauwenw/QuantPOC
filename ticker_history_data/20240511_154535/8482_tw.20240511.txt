@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.97, Dunhua S. Road
+address2	2nd Floor Section 2 Da¡¦an District
+city	Taipei City
+zip	106
+country	Taiwan
+phone	886 2 7711 1060
+fax	886 2 7711 7288
+website	https://www.shaneglobal.com.tw
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Shane Global Holding Inc. research, develops, produces, and sells indoor furniture in Taiwan, the United States, Mainland China. The company offers sofas, chairs, beds, benches and ottomans, recliners and chaise, tables, cabinets; and sofa covers and other leather products. It sells its products to retail stores in North America. The company was founded in 2014 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shu-Yun  Hsieh', 'age': 47, 'title': 'President, CEO, GM & Director', 'yearBorn': 1976, 'fiscalYear': 2021, 'totalPay': 5532000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fang-Yi  Lin', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Fa  Li', 'title': 'Sales Director & Director of Business Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Qing  Chen', 'title': 'Director of Manufacturing Department', 'fiscalYear': 2021, 'totalPay': 4481000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Qun-Kai  Lin', 'title': 'Special Assistant to Chairman', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yun-Ru  Jiang', 'title': 'Accounting Supervisor & Financial Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	64.1
+open	62.1
+dayLow	62.1
+dayHigh	62.1
+regularMarketPreviousClose	64.1
+regularMarketOpen	62.1
+regularMarketDayLow	62.1
+regularMarketDayHigh	62.1
+dividendRate	6.22
+dividendYield	0.100200005
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	2.1672
+fiveYearAvgDividendYield	7.32
+beta	0.393
+trailingPE	21.63763
+volume	1001
+regularMarketVolume	1001
+averageVolume	6777
+averageVolume10days	3000
+averageDailyVolume10Day	3000
+bid	63.0
+ask	63.9
+marketCap	6672272384
+fiftyTwoWeekLow	60.0
+fiftyTwoWeekHigh	77.8
+priceToSalesTrailing12Months	1.8473175
+fiftyDayAverage	63.55
+twoHundredDayAverage	65.9965
+trailingAnnualDividendRate	2.3
+trailingAnnualDividendYield	0.035881434
+currency	TWD
+enterpriseValue	5992692224
+profitMargins	0.08545
+floatShares	16156354
+sharesOutstanding	107444000
+heldPercentInsiders	0.84695
+heldPercentInstitutions	0.0335
+impliedSharesOutstanding	107444000
+bookValue	30.455
+priceToBook	2.039074
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	308636992
+trailingEps	2.87
+enterpriseToRevenue	1.659
+enterpriseToEbitda	11.212
+52WeekChange	-0.13988918
+SandP52WeekChange	0.26265144
+lastDividendValue	6.22
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8482.TW
+underlyingSymbol	8482.TW
+shortName	SHANE GLOBAL HOLDING INC
+longName	Shane Global Holding Inc.
+firstTradeDateEpochUtc	1534294800	 (2018-08-15 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3ccfa911-976f-349d-abaa-6301261df4f1
+messageBoardId	finmb_344578127
+gmtOffSetMilliseconds	28800000
+currentPrice	62.1
+recommendationKey	none
+totalCash	812217984
+totalCashPerShare	7.559
+ebitda	534508992
+totalDebt	57145000
+quickRatio	1.045
+currentRatio	1.493
+totalRevenue	3611870976
+debtToEquity	1.707
+revenuePerShare	33.616
+returnOnAssets	0.05016
+returnOnEquity	0.08247
+freeCashflow	416510624
+operatingCashflow	710294016
+revenueGrowth	-0.295
+grossMargins	0.35477
+ebitdaMargins	0.14799
+operatingMargins	-0.01518
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -799934.453497   -2405859.541568   -2589088.653561   -1280560.677174
+Tax Rate For Calcs                                                  0.248736          0.121908          0.123661           0.05003
+Normalized EBITDA                                                574365000.0      1137005000.0      1130271000.0       843208000.0
+Total Unusual Items                                               -3216000.0       -19735000.0       -20937000.0       -25596000.0
+Total Unusual Items Excluding Goodwill                            -3216000.0       -19735000.0       -20937000.0       -25596000.0
+Net Income From Continuing Operation Net Minority Interest       308637000.0       834893000.0       856574000.0       651492000.0
+Reconciled Depreciation                                          178686000.0       152681000.0       129389000.0       129158000.0
+Reconciled Cost Of Revenue                                      2330496000.0      3255729000.0      3238113000.0      2451172000.0
+EBITDA                                                           571149000.0      1117270000.0      1109334000.0       817612000.0
+EBIT                                                             392463000.0       964589000.0       979945000.0       688454000.0
+Net Interest Income                                                8985000.0        -2417000.0          781000.0        10749000.0
+Interest Expense                                                   2877000.0         4490000.0         3436000.0         5380000.0
+Interest Income                                                   11862000.0         2073000.0         4217000.0        16129000.0
+Normalized Income                                           311053065.546503  852222140.458432  874921911.346439  675807439.322826
+Net Income From Continuing And Discontinued Operation            308637000.0       834893000.0       856574000.0       651492000.0
+Total Expenses                                                  3221249000.0      4220099000.0      4113962000.0      3134546000.0
+Diluted Average Shares                                                   NaN       107625000.0       107587000.0       107788000.0
+Basic Average Shares                                                     NaN       107444000.0       107444000.0       107709000.0
+Diluted EPS                                                              NaN              7.76              7.96              6.04
+Basic EPS                                                                NaN              7.77              7.97              6.05
+Diluted NI Availto Com Stockholders                              308637000.0       834893000.0       856574000.0       651492000.0
+Net Income Common Stockholders                                   308637000.0       834893000.0       856574000.0       651492000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       308637000.0       834893000.0       856574000.0       651492000.0
+Minority Interests                                                15955000.0        -8162000.0          821000.0         2592000.0
+Net Income Including Noncontrolling Interests                    292682000.0       843055000.0       855753000.0       648900000.0
+Net Income Continuous Operations                                 292682000.0       843055000.0       855753000.0       648900000.0
+Tax Provision                                                     96904000.0       117044000.0       120756000.0        34174000.0
+Pretax Income                                                    389586000.0       960099000.0       976509000.0       683074000.0
+Other Non Operating Income Expenses                               -6805000.0        88569000.0       139097000.0         2069000.0
+Special Income Charges                                            -3216000.0       -19735000.0       -20937000.0       -25596000.0
+Write Off                                                          3216000.0        19735000.0        20937000.0        25596000.0
+Net Non Operating Interest Income Expense                          8985000.0        -2417000.0          781000.0        10749000.0
+Interest Expense Non Operating                                     2877000.0         4490000.0         3436000.0         5380000.0
+Interest Income Non Operating                                     11862000.0         2073000.0         4217000.0        16129000.0
+Operating Income                                                 390622000.0       893682000.0       857568000.0       695852000.0
+Operating Expense                                                890753000.0       964370000.0       875849000.0       683374000.0
+Research And Development                                         102198000.0       146452000.0       102043000.0        42058000.0
+Selling General And Administration                               788555000.0       817918000.0       773806000.0       641316000.0
+Selling And Marketing Expense                                    279614000.0       327397000.0       351637000.0       287988000.0
+General And Administrative Expense                               508941000.0       490521000.0       422169000.0       353328000.0
+Gross Profit                                                    1281375000.0      1858052000.0      1733417000.0      1379226000.0
+Cost Of Revenue                                                 2330496000.0      3255729000.0      3238113000.0      2451172000.0
+Total Revenue                                                   3611871000.0      5113781000.0      4971530000.0      3830398000.0
+Operating Revenue                                               3611871000.0      5113781000.0      4971530000.0      3830398000.0

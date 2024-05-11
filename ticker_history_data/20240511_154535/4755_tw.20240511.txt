@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 21 Chung Shan North Road
+address2	7th Floor Sec. 2 Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2542 6789
+fax	886 2 2581 8686
+website	https://www.sfchem.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	San Fu Chemical Co., Ltd. manufactures and sells various chemical products primarily in Taiwan. The company operates through Fine Chemicals and Basic Chemicals segments. It offers fine chemical products, such as tetramethyl ammonium hydroxide, sodium hydroxide, potassium hydroxide, etchant, stripper, thinner and EBR, RGB rework, ammonium hydroxide, and hydrogen peroxide. The company also provides basic chemicals, including raw material of liquid crystal polymers, preservatives, water treatment and anti-corrosive reagents, and chemical raw materials. In addition, it offers food raw materials and additives, such as seasonings, preservatives, sweeteners, leavening agents, and starch and carbohydrate, as well as food quality improvement, fermentation, and food processing agents; and slurry. Further, the company engages in recycling of tetramethyl ammonium hydroxdie waste. Its products are used in wet chemicals, equipment, operation required by IC semiconductors, LCD, touch panels, LED, solar panels, and other industries; and etching and thinning of glass, foundry of polishing fluids, food Additives, food materials, and basic chemicals such as pHBA, cyclohexylamine, dicyclohexylamine, etc. San Fu Chemical Co., Ltd. was incorporated in 1952 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jie-Rong  Tsai', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Zhi  Xie', 'title': 'CFO and Asst. Vice President of Financial & Accounting Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tian-Bao  Su', 'title': 'VP of Basic Chemicals Division, Research & Development Officer and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yao-Ming  Wang', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsi Wu  Chun', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	149.0
+open	151.0
+dayLow	146.5
+dayHigh	151.0
+regularMarketPreviousClose	149.0
+regularMarketOpen	151.0
+regularMarketDayLow	146.5
+regularMarketDayHigh	151.0
+dividendRate	5.9
+dividendYield	0.040799998
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	1.2939
+fiveYearAvgDividendYield	4.19
+beta	1.255
+trailingPE	32.27571
+forwardPE	16.334442
+volume	179234
+regularMarketVolume	179234
+averageVolume	1025276
+averageVolume10days	267192
+averageDailyVolume10Day	267192
+bid	147.5
+ask	148.0
+marketCap	14854134784
+fiftyTwoWeekLow	120.0
+fiftyTwoWeekHigh	169.0
+priceToSalesTrailing12Months	2.9762073
+fiftyDayAverage	149.47
+twoHundredDayAverage	136.0025
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.013422819
+currency	TWD
+enterpriseValue	15634923520
+profitMargins	0.089049995
+floatShares	36013473
+sharesOutstanding	100706000
+heldPercentInsiders	0.65791
+heldPercentInstitutions	0.03164
+impliedSharesOutstanding	103553000
+bookValue	43.83
+priceToBook	3.3652747
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.603
+netIncomeToCommon	444457984
+trailingEps	4.57
+forwardEps	9.03
+enterpriseToRevenue	3.133
+enterpriseToEbitda	16.963
+52WeekChange	0.15686274
+SandP52WeekChange	0.26265144
+lastDividendValue	5.9
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4755.TW
+underlyingSymbol	4755.TW
+shortName	SAN FU CHEMICAL CO LTD
+longName	San Fu Chemical Co., Ltd.
+firstTradeDateEpochUtc	1363050000	 (2013-03-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	970ae768-d11d-394f-9c64-6c1c4a83d6e9
+messageBoardId	finmb_2563867
+gmtOffSetMilliseconds	28800000
+currentPrice	147.5
+targetHighPrice	189.0
+targetLowPrice	127.0
+targetMeanPrice	158.25
+targetMedianPrice	158.5
+recommendationMean	2.3
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	557387008
+totalCashPerShare	5.535
+ebitda	921718016
+totalDebt	1608444032
+quickRatio	0.638
+currentRatio	1.128
+totalRevenue	4990961152
+debtToEquity	36.179
+revenuePerShare	49.56
+returnOnAssets	0.04646
+returnOnEquity	0.09794
+freeCashflow	339486496
+operatingCashflow	1041017024
+earningsGrowth	0.603
+revenueGrowth	0.096
+grossMargins	0.20485
+ebitdaMargins	0.18468
+operatingMargins	0.15812
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0     -17898.774599   -1008453.363878           0.0
+Tax Rate For Calcs                                               0.23627          0.208125           0.18892      0.204586
+Normalized EBITDA                                           1004268000.0      1403779000.0      1127952000.0   772001000.0
+Total Unusual Items                                                  0.0          -86000.0        -5338000.0           0.0
+Total Unusual Items Excluding Goodwill                               0.0          -86000.0        -5338000.0           0.0
+Net Income From Continuing Operation Net Minority Interest   444458000.0       849365000.0       673643000.0   399473000.0
+Reconciled Depreciation                                      393237000.0       311823000.0       284073000.0   262851000.0
+Reconciled Cost Of Revenue                                  3968584000.0      4116036000.0      3584780000.0  2957612000.0
+EBITDA                                                      1004268000.0      1403693000.0      1122614000.0   772001000.0
+EBIT                                                         611031000.0      1091870000.0       838541000.0   509150000.0
+Net Interest Income                                          -22215000.0       -12337000.0        -8000000.0    -5664000.0
+Interest Expense                                              29721000.0        18997000.0         9141000.0     6930000.0
+Interest Income                                                7506000.0         6660000.0         1141000.0     1266000.0
+Normalized Income                                            444458000.0  849433101.225401  677972546.636122   399473000.0
+Net Income From Continuing And Discontinued Operation        444458000.0       849365000.0       673643000.0   399473000.0
+Total Expenses                                              4433044000.0      4688692000.0      4052683000.0  3347813000.0
+Diluted Average Shares                                       100820000.0       100902000.0       100827000.0    91704000.0
+Basic Average Shares                                         100706000.0       100706000.0       100706000.0    91553000.0
+Diluted EPS                                                         4.41              8.42              6.68          4.36
+Basic EPS                                                           4.41              8.43              6.69          4.36
+Diluted NI Availto Com Stockholders                          444458000.0       849365000.0       673643000.0   399473000.0
+Net Income Common Stockholders                               444458000.0       849365000.0       673643000.0   399473000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0           0.0
+Net Income                                                   444458000.0       849365000.0       673643000.0   399473000.0
+Minority Interests                                              494000.0         -216000.0          933000.0           0.0
+Net Income Including Noncontrolling Interests                443964000.0       849581000.0       672710000.0   399473000.0
+Net Income Continuous Operations                             443964000.0       849581000.0       672710000.0   399473000.0
+Tax Provision                                                137346000.0       223292000.0       156690000.0   102747000.0
+Pretax Income                                                581310000.0      1072873000.0       829400000.0   502220000.0
+Other Non Operating Income Expenses                           21636000.0        81781000.0        33299000.0    30855000.0
+Special Income Charges                                               0.0          -86000.0        -5338000.0           0.0
+Write Off                                                            0.0           86000.0         5710000.0           0.0
+Restructuring And Mergern Acquisition                                NaN               0.0         -372000.0           0.0
+Net Non Operating Interest Income Expense                    -22215000.0       -12337000.0        -8000000.0    -5664000.0
+Interest Expense Non Operating                                29721000.0        18997000.0         9141000.0     6930000.0
+Interest Income Non Operating                                  7506000.0         6660000.0         1141000.0     1266000.0
+Operating Income                                             557917000.0       929908000.0       727202000.0   470903000.0
+Operating Expense                                            464460000.0       572656000.0       467903000.0   390201000.0
+Research And Development                                      80609000.0        63301000.0        38615000.0    40907000.0
+Selling General And Administration                           383851000.0       509355000.0       429288000.0   349294000.0
+Selling And Marketing Expense                                214843000.0       286395000.0       256706000.0   204119000.0
+General And Administrative Expense                           169008000.0       222960000.0       172582000.0   145175000.0
+Gross Profit                                                1022377000.0      1502564000.0      1195105000.0   861104000.0
+Cost Of Revenue                                             3968584000.0      4116036000.0      3584780000.0  2957612000.0
+Total Revenue                                               4990961000.0      5618600000.0      4779885000.0  3818716000.0
+Operating Revenue                                           4990961000.0      5618600000.0      4779885000.0  3818716000.0

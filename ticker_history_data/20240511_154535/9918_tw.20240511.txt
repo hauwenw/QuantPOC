@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 100, Section 1
+address2	Yonghe Road Yonghe District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2921 7811
+website	https://www.shinshingas.com.tw
+industry	Utilities - Regulated Gas
+industryKey	utilities-regulated-gas
+industryDisp	Utilities - Regulated Gas
+sector	Utilities
+sectorKey	utilities
+sectorDisp	Utilities
+longBusinessSummary	Shin Shin Natural Gas Company Limited supplies natural gas in Taiwan. The company also engages in the manufacture, sale, import, and export of gas equipment; and planning and supervision of gas equipment and construction. It serves general and commercial customers. The company was founded in 1971 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Fu-Hua  Li', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Yang  Huang', 'title': 'Manager of Department of Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Wen  Li', 'title': 'Head of Personnel Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard H.  Wu', 'title': 'Representative Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. An-Yi  Chen', 'title': 'Acting Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huai-An  Liao', 'title': 'Head of Labor Safety and Health Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-chung  Huang', 'title': 'GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. I-Hsin  Chien', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	41.25
+open	41.85
+dayLow	41.45
+dayHigh	41.9
+regularMarketPreviousClose	41.25
+regularMarketOpen	41.85
+regularMarketDayLow	41.45
+regularMarketDayHigh	41.9
+dividendRate	1.0
+dividendYield	0.0241
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	0.5
+fiveYearAvgDividendYield	3.58
+beta	0.114
+trailingPE	20.725
+volume	7549
+regularMarketVolume	7549
+averageVolume	9665
+averageVolume10days	7002
+averageDailyVolume10Day	7002
+bid	41.3
+ask	41.55
+marketCap	7378472960
+fiftyTwoWeekLow	39.55
+fiftyTwoWeekHigh	44.0
+priceToSalesTrailing12Months	3.8183107
+fiftyDayAverage	40.932
+twoHundredDayAverage	40.63025
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.036363635
+currency	TWD
+enterpriseValue	4893324288
+profitMargins	0.18417
+floatShares	86902502
+sharesOutstanding	178008992
+heldPercentInsiders	0.56973
+heldPercentInstitutions	0.02848
+impliedSharesOutstanding	179944000
+bookValue	17.786
+priceToBook	2.3304849
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.967
+netIncomeToCommon	355884992
+trailingEps	2.0
+lastSplitFactor	160:100
+lastSplitDate	1284336000	 (2010-09-13 08:00:00)
+enterpriseToRevenue	2.532
+enterpriseToEbitda	9.005
+52WeekChange	0.0024183989
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9918.TW
+underlyingSymbol	9918.TW
+shortName	SHIN SHIN NATURAL GAS CO LTD
+longName	Shin Shin Natural Gas Company Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2c3b9cb0-e778-3e12-abbc-24e9c0bb9208
+messageBoardId	finmb_20344692
+gmtOffSetMilliseconds	28800000
+currentPrice	41.45
+recommendationKey	none
+totalCash	2490767104
+totalCashPerShare	13.992
+ebitda	543404224
+totalDebt	5594000
+quickRatio	2.313
+currentRatio	2.356
+totalRevenue	1932391936
+debtToEquity	0.177
+revenuePerShare	10.856
+returnOnAssets	0.03339
+returnOnEquity	0.11568
+freeCashflow	352963008
+operatingCashflow	498879008
+earningsGrowth	0.972
+revenueGrowth	0.003
+grossMargins	0.29235
+ebitdaMargins	0.28121
+operatingMargins	0.14673
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -725049.384789      48189.709164     181758.896184     160113.409126
+Tax Rate For Calcs                                                  0.146415          0.325606          0.141667          0.167658
+Normalized EBITDA                                                674146000.0       457414000.0       633814000.0       604684000.0
+Total Unusual Items                                               -4952000.0          148000.0         1283000.0          955000.0
+Total Unusual Items Excluding Goodwill                            -4952000.0          148000.0         1283000.0          955000.0
+Net Income From Continuing Operation Net Minority Interest       355885000.0       143859000.0       342395000.0       326745000.0
+Reconciled Depreciation                                          252075000.0       243980000.0       236106000.0       212973000.0
+Reconciled Cost Of Revenue                                      1367465000.0      1374486000.0      1298572000.0      1445167000.0
+EBITDA                                                           669194000.0       457562000.0       635097000.0       605639000.0
+EBIT                                                             417119000.0       213582000.0       398991000.0       392666000.0
+Net Interest Income                                               31176000.0        22258000.0        19978000.0        22176000.0
+Interest Expense                                                    189000.0          266000.0           84000.0          105000.0
+Interest Income                                                   31365000.0        22524000.0        20062000.0        22281000.0
+Normalized Income                                           360111950.615211  143759189.709164  341293758.896184  325950113.409126
+Net Income From Continuing And Discontinued Operation            355885000.0       143859000.0       342395000.0       326745000.0
+Total Expenses                                                  1636070000.0      1616271000.0      1534003000.0      1680079000.0
+Diluted Average Shares                                                   NaN       178122951.0       178219985.0       178238156.0
+Basic Average Shares                                                     NaN       178009590.0       178009590.0       178009590.0
+Diluted EPS                                                              NaN              0.81              1.92              1.83
+Basic EPS                                                                NaN              0.81              1.92              1.84
+Diluted NI Availto Com Stockholders                              355885000.0       143859000.0       342395000.0       326745000.0
+Net Income Common Stockholders                                   355885000.0       143859000.0       342395000.0       326745000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       355885000.0       143859000.0       342395000.0       326745000.0
+Net Income Including Noncontrolling Interests                    355885000.0       143859000.0       342395000.0       326745000.0
+Net Income Continuous Operations                                 355885000.0       143859000.0       342395000.0       326745000.0
+Tax Provision                                                     61045000.0        69457000.0        56512000.0        65816000.0
+Pretax Income                                                    416930000.0       213316000.0       398907000.0       392561000.0
+Other Non Operating Income Expenses                               94384000.0      -139129000.0       117482000.0        63140000.0
+Special Income Charges                                            -4952000.0          223000.0         1283000.0          955000.0
+Write Off                                                          4952000.0         -223000.0        -1283000.0         -955000.0
+Net Non Operating Interest Income Expense                         31176000.0        22258000.0        19978000.0        22176000.0
+Interest Expense Non Operating                                      189000.0          266000.0           84000.0          105000.0
+Interest Income Non Operating                                     31365000.0        22524000.0        20062000.0        22281000.0
+Operating Income                                                 296322000.0       330039000.0       260164000.0       306290000.0
+Operating Expense                                                268605000.0       241785000.0       235431000.0       234912000.0
+Selling General And Administration                               268605000.0       241785000.0       235431000.0       234912000.0
+Selling And Marketing Expense                                     74133000.0        71878000.0        63755000.0        67572000.0
+General And Administrative Expense                               194472000.0       169907000.0       171676000.0       167340000.0
+Gross Profit                                                     564927000.0       571824000.0       495595000.0       541202000.0
+Cost Of Revenue                                                 1367465000.0      1374486000.0      1298572000.0      1445167000.0
+Total Revenue                                                   1932392000.0      1946310000.0      1794167000.0      1986369000.0
+Operating Revenue                                               1932392000.0      1946310000.0      1794167000.0      1986369000.0

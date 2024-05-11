@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No.88, Zhongshan North Rd
+address2	16th Floor Section 6
+city	Taipei
+country	Taiwan
+phone	886 2 2834 2662
+fax	886 2 2836 6187
+website	https://www.seec.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Shihlin Electric & Engineering Corp. engages in the manufacture and sale of heavy electrical equipment, electrical machinery, electrical automotive equipment, and related parts in Taiwan, Mainland China, Vietnam, and internationally. It operates through Electric Distribution, Automobile Parts, Automation Equipment and Parts, and Others segments. The company offers automobile parts, such as alternators, starters, fuel pumps, wiper systems, fan motors, warm gear motors, clutch motors, exchange position motors, washer systems, ECU products, and power window switches; motorcycle parts, including AC generators, starters, and fuel pumps; and DC motors, which include gear, transaxle, DC, and right angle motors. It also provides breaker switchgear and systems consist of miniature circuit breakers, molded case circuit breakers, air circuit breakers, magnetic contactors/switches, manual motor starters, surge protective devices, and automatic transfer switches; and heavy electric systems, such as power and oil immersed transformers, cast resin transformers, pad and pole mounted transformers, PT/CT products, high voltage switches, capacitors, and switchgears. In addition, the company offers factory automation products, including AC drives, HMI products, AC servo motors and drives, and temperature controllers; and automatic handling systems, as well as digital products. Further, it is involved in the operating, sale, and maintenance of vending machines; manufacture and sale of aluminum alloy die-casting, lathe, cutting, and molding products; import and export trade business; competitive and recreational sports business; investment business; and sale and lease of commercial buildings. Shihlin Electric & Engineering Corp. was incorporated in 1955 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Han-Chang  Hsieh', 'title': 'President, MD, GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Yi  Shih', 'title': 'Chief Accountant, CFO, Chief VP of Finance Division & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsun-Ching  Yang', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bryant  Hsu', 'title': 'Vice GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiang-Chih  Cheng', 'title': 'Executive VP & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kawai  Toshio', 'title': 'MD & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tsong-Ming  Wu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Liang  Lin', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Jen  Tung', 'title': 'Executive VP & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	293.0
+open	293.5
+dayLow	280.5
+dayHigh	296.0
+regularMarketPreviousClose	293.0
+regularMarketOpen	293.5
+regularMarketDayLow	280.5
+regularMarketDayHigh	296.0
+dividendRate	2.0
+dividendYield	0.0070999996
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	0.44439998
+fiveYearAvgDividendYield	2.75
+beta	0.485
+trailingPE	62.860306
+forwardPE	27.766895
+volume	10146957
+regularMarketVolume	10146957
+averageVolume	24521742
+averageVolume10days	14603380
+averageDailyVolume10Day	14603380
+bid	283.0
+ask	283.5
+marketCap	147695566848
+fiftyTwoWeekLow	93.5
+fiftyTwoWeekHigh	358.0
+priceToSalesTrailing12Months	4.643421
+fiftyDayAverage	268.56
+twoHundredDayAverage	156.178
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.010238908
+currency	TWD
+enterpriseValue	146492719104
+profitMargins	0.07383
+floatShares	264065078
+sharesOutstanding	520972000
+heldPercentInsiders	0.51193
+heldPercentInstitutions	0.040349998
+impliedSharesOutstanding	533460992
+bookValue	62.24
+priceToBook	4.5549483
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.09
+netIncomeToCommon	2348269056
+trailingEps	4.51
+forwardEps	10.21
+lastSplitFactor	104:100
+lastSplitDate	993772800	 (2001-06-29 08:00:00)
+enterpriseToRevenue	4.606
+enterpriseToEbitda	45.661
+52WeekChange	1.4868422
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1503.TW
+underlyingSymbol	1503.TW
+shortName	SHIHLIN ELEC & ENGINEERING
+longName	Shihlin Electric & Engineering Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	52ddd111-38c7-3c07-a62f-07083bc11683
+messageBoardId	finmb_878569
+gmtOffSetMilliseconds	28800000
+currentPrice	283.5
+targetHighPrice	401.0
+targetLowPrice	220.0
+targetMeanPrice	310.5
+targetMedianPrice	310.5
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	2
+totalCash	3373417984
+totalCashPerShare	6.475
+ebitda	3208236032
+totalDebt	1451617024
+quickRatio	0.714
+currentRatio	1.319
+totalRevenue	31807490048
+debtToEquity	4.38
+revenuePerShare	61.054
+returnOnAssets	0.02987
+returnOnEquity	0.07956
+freeCashflow	2834211072
+operatingCashflow	4446075904
+earningsGrowth	0.09
+revenueGrowth	-0.065
+grossMargins	0.17819001
+ebitdaMargins	0.10086001
+operatingMargins	0.05466
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -697263.995266     4820588.189398    -5947519.74953    -7381679.873802
+Tax Rate For Calcs                                                   0.210209            0.22988          0.228014           0.272136
+Normalized EBITDA                                                3919222000.0       3502222000.0      3269788000.0       2981436000.0
+Total Unusual Items                                                -3317000.0         20970000.0       -26084000.0        -27125000.0
+Total Unusual Items Excluding Goodwill                             -3317000.0         20970000.0       -26084000.0        -27125000.0
+Net Income From Continuing Operation Net Minority Interest       2348269000.0       2009900000.0      1804914000.0       1526129000.0
+Reconciled Depreciation                                           757822000.0        731757000.0       745125000.0        724482000.0
+Reconciled Cost Of Revenue                                      26139696000.0      25517225000.0     22702222000.0      20945818000.0
+EBITDA                                                           3915905000.0       3523192000.0      3243704000.0       2954311000.0
+EBIT                                                             3158083000.0       2791435000.0      2498579000.0       2229829000.0
+Net Interest Income                                                -9455000.0        -13986000.0        -7466000.0        -15968000.0
+Interest Expense                                                   43762000.0         35826000.0        25153000.0         35813000.0
+Interest Income                                                    34307000.0         21840000.0        17687000.0         19845000.0
+Normalized Income                                           2350888736.004734  1993750588.189398  1825050480.25047  1545872320.126198
+Net Income From Continuing And Discontinued Operation            2348269000.0       2009900000.0      1804914000.0       1526129000.0
+Total Expenses                                                  29340055000.0      28524170000.0     25665693000.0      23702748000.0
+Rent Expense Supplemental                                         199808000.0        196954000.0       202711000.0        194404000.0
+Diluted Average Shares                                                    NaN        523219000.0       523281000.0        523417000.0
+Basic Average Shares                                                      NaN        520972000.0       520972000.0        520972000.0
+Diluted EPS                                                               NaN               3.84              3.45               2.92
+Basic EPS                                                                 NaN               3.86              3.46               2.93
+Diluted NI Availto Com Stockholders                              2348269000.0       2009900000.0      1804914000.0       1526129000.0
+Net Income Common Stockholders                                   2348269000.0       2009900000.0      1804914000.0       1526129000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0                0.0
+Net Income                                                       2348269000.0       2009900000.0      1804914000.0       1526129000.0
+Minority Interests                                               -111393000.0       -112249000.0      -104536000.0        -70817000.0
+Net Income Including Noncontrolling Interests                    2459662000.0       2122149000.0      1909450000.0       1596946000.0
+Net Income Continuous Operations                                 2459662000.0       2122149000.0      1909450000.0       1596946000.0
+Tax Provision                                                     654659000.0        633460000.0       563976000.0        597070000.0
+Pretax Income                                                    3114321000.0       2755609000.0      2473426000.0       2194016000.0
+Other Non Operating Income Expenses                               352143000.0        249988000.0       304667000.0         64484000.0
+Special Income Charges                                             -3317000.0         20970000.0       -26084000.0        -27125000.0
+Write Off                                                           3317000.0        -20970000.0        26084000.0         27125000.0
+Net Non Operating Interest Income Expense                          -9455000.0        -13986000.0        -7466000.0        -15968000.0
+Interest Expense Non Operating                                     43762000.0         35826000.0        25153000.0         35813000.0
+Interest Income Non Operating                                      34307000.0         21840000.0        17687000.0         19845000.0
+Operating Income                                                 2467436000.0       2233607000.0      2024117000.0       1981255000.0
+Operating Expense                                                3200359000.0       3006945000.0      2963471000.0       2756930000.0
+Research And Development                                          613594000.0        573913000.0       566899000.0        547667000.0
+Selling General And Administration                               2586765000.0       2433032000.0      2396572000.0       2209263000.0
+Selling And Marketing Expense                                    1327668000.0       1207423000.0      1166005000.0       1059032000.0
+General And Administrative Expense                               1259097000.0       1225609000.0      1230567000.0       1150231000.0
+Gross Profit                                                     5667795000.0       5240552000.0      4987588000.0       4738185000.0
+Cost Of Revenue                                                 26139696000.0      25517225000.0     22702222000.0      20945818000.0
+Total Revenue                                                   31807491000.0      30757777000.0     27689810000.0      25684003000.0
+Operating Revenue                                               31807491000.0      30757777000.0     27689810000.0      25684003000.0

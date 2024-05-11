@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No.5, Li-Hsin Road III
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	30078
+country	Taiwan
+phone	886 3 578 7888
+fax	886 3 578 7889
+website	https://www.faraday-tech.com
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Faraday Technology Corporation, together with its subsidiaries, operates as a fabless ASIC/SoC and silicon intellectual property (IP) provider in China, Taiwan, Japan, the United States, and internationally. The company offers ASIC/SoC design services; ASIC/SoC production turnkey services; ASIC EDA tools; and ASIC services. It also provides IP products, including library and memory compilers, processor cores, analog and IO, and SoC peripheral Ips; and IC designing, marketing, and customer services. The company offers ASIC design solutions for a range of applications comprising communications, multimedia, consumer, PC peripherals, industrial, AIoT. Faraday Technology Corporation was incorporated in 1993 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chia-Tsung  Hung', 'title': 'Chairman & Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Yung  Wang', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wen-Ju  Tseng', 'title': 'Chief Corporate Governance Officer, CFO, VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Chin  Lin', 'title': 'COO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Evan  Ke', 'title': 'Director of Marketing', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. K.H.  Lee', 'title': 'Vice Present of Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Ying  Li', 'title': 'Chief internal auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guo-Hua  Li', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng-Xing  Jian', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Samantha  Lu', 'title': 'Manager of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	276.5
+open	280.0
+dayLow	269.0
+dayHigh	281.5
+regularMarketPreviousClose	276.5
+regularMarketOpen	280.0
+regularMarketDayLow	269.0
+regularMarketDayHigh	281.5
+dividendRate	4.97
+dividendYield	0.0182
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	0.9132
+fiveYearAvgDividendYield	1.71
+trailingPE	50.276245
+forwardPE	25.16129
+volume	5559142
+regularMarketVolume	5559142
+averageVolume	9215410
+averageVolume10days	5479628
+averageDailyVolume10Day	5479628
+bid	273.0
+ask	273.5
+marketCap	71130152960
+fiftyTwoWeekLow	161.5
+fiftyTwoWeekHigh	459.5
+priceToSalesTrailing12Months	6.30478
+fiftyDayAverage	330.2806
+twoHundredDayAverage	348.89764
+trailingAnnualDividendRate	4.5
+trailingAnnualDividendYield	0.016274864
+currency	TWD
+enterpriseValue	58323107840
+profitMargins	0.12124
+floatShares	212570394
+sharesOutstanding	260550000
+heldPercentInsiders	0.13141
+heldPercentInstitutions	0.33016998
+impliedSharesOutstanding	260550000
+bookValue	54.862
+priceToBook	4.976122
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.442
+netIncomeToCommon	1367837056
+trailingEps	5.43
+forwardEps	10.85
+pegRatio	1.23
+lastSplitFactor	0.6:1
+lastSplitDate	1441929600	 (2015-09-11 08:00:00)
+enterpriseToRevenue	5.17
+enterpriseToEbitda	33.242
+52WeekChange	0.6595745
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3035.TW
+underlyingSymbol	3035.TW
+shortName	FARADAY TECHNOLOGY
+longName	Faraday Technology Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fa667187-4084-3593-bc62-deb071c55146
+messageBoardId	finmb_8342333
+gmtOffSetMilliseconds	28800000
+currentPrice	273.0
+targetHighPrice	488.0
+targetLowPrice	290.0
+targetMeanPrice	364.88
+targetMedianPrice	370.0
+recommendationMean	2.1
+recommendationKey	buy
+numberOfAnalystOpinions	11
+totalCash	10053808128
+totalCashPerShare	40.535
+ebitda	1754486016
+totalDebt	336209984
+quickRatio	3.162
+currentRatio	3.604
+totalRevenue	11281940480
+debtToEquity	2.412
+revenuePerShare	45.411
+returnOnAssets	0.06324
+returnOnEquity	0.11419
+freeCashflow	2417273600
+operatingCashflow	3496185088
+earningsGrowth	-0.443
+revenueGrowth	-0.21
+grossMargins	0.44747
+ebitdaMargins	0.15551
+operatingMargins	0.12275
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -1503813.356621    -2512037.122172    10632681.933378   -5432434.121347
+Tax Rate For Calcs                                                   0.245882           0.178907           0.141216          0.182732
+Normalized EBITDA                                                2591473000.0       3550592000.0       1837802000.0       783394000.0
+Total Unusual Items                                                -6116000.0        -14041000.0         75294000.0       -29729000.0
+Total Unusual Items Excluding Goodwill                             -6116000.0        -14041000.0         75294000.0       -29729000.0
+Net Income From Continuing Operation Net Minority Interest       1589472000.0       2454597000.0       1155930000.0       268446000.0
+Reconciled Depreciation                                           501706000.0        472712000.0        405054000.0       433843000.0
+Reconciled Cost Of Revenue                                       6658432000.0       6689746000.0       3995272000.0      2895681000.0
+EBITDA                                                           2585357000.0       3536551000.0       1913096000.0       753665000.0
+EBIT                                                             2083651000.0       3063839000.0       1508042000.0       319822000.0
+Net Interest Income                                                51917000.0         26808000.0          6755000.0         4231000.0
+Interest Expense                                                   13307000.0          6367000.0          5863000.0         6587000.0
+Interest Income                                                    65224000.0         33175000.0         12618000.0        10818000.0
+Normalized Income                                           1594084186.643379  2466125962.877828  1091268681.933378  292742565.878653
+Net Income From Continuing And Discontinued Operation            1589472000.0       2454597000.0       1155930000.0       268446000.0
+Total Expenses                                                  10003698000.0      10129700000.0       6758439000.0      5316466000.0
+Diluted Average Shares                                            250840967.0        252603537.0        250738410.0       250797732.0
+Basic Average Shares                                              249906895.0        249906895.0        249906895.0       249906895.0
+Diluted EPS                                                          6.335413           9.716953           4.614807          1.074136
+Basic EPS                                                            6.355305           9.826356           4.624752          1.074136
+Diluted NI Availto Com Stockholders                              1589472000.0       2454597000.0       1155930000.0       268446000.0
+Net Income Common Stockholders                                   1589472000.0       2454597000.0       1155930000.0       268446000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0               0.0
+Net Income                                                       1589472000.0       2454597000.0       1155930000.0       268446000.0
+Minority Interests                                                 28188000.0        -55871000.0       -134118000.0        12449000.0
+Net Income Including Noncontrolling Interests                    1561284000.0       2510468000.0       1290048000.0       255997000.0
+Net Income Continuous Operations                                 1561284000.0       2510468000.0       1290048000.0       255997000.0
+Tax Provision                                                     509060000.0        547004000.0        212131000.0        57238000.0
+Pretax Income                                                    2070344000.0       3057472000.0       1502179000.0       313235000.0
+Other Non Operating Income Expenses                                62667000.0        109250000.0         93368000.0       183483000.0
+Special Income Charges                                             -6116000.0        -14041000.0         75294000.0       -29729000.0
+Write Off                                                           6116000.0         14041000.0        -75294000.0        29729000.0
+Net Non Operating Interest Income Expense                          51917000.0         26808000.0          6755000.0         4231000.0
+Interest Expense Non Operating                                     13307000.0          6367000.0          5863000.0         6587000.0
+Interest Income Non Operating                                      65224000.0         33175000.0         12618000.0        10818000.0
+Operating Income                                                 1961876000.0       2935455000.0       1326762000.0       178841000.0
+Operating Expense                                                3345266000.0       3439954000.0       2763167000.0      2420785000.0
+Research And Development                                         2362449000.0       2422237000.0       2036866000.0      1853828000.0
+Selling General And Administration                                982817000.0       1017717000.0        726301000.0       566957000.0
+Selling And Marketing Expense                                     451535000.0        475455000.0        359836000.0       288482000.0
+General And Administrative Expense                                531282000.0        542262000.0        366465000.0       278475000.0
+Gross Profit                                                     5307142000.0       6375409000.0       4089929000.0      2599626000.0
+Cost Of Revenue                                                  6658432000.0       6689746000.0       3995272000.0      2895681000.0
+Total Revenue                                                   11965574000.0      13065155000.0       8085201000.0      5495307000.0
+Operating Revenue                                               11965574000.0      13065155000.0       8085201000.0      5495307000.0

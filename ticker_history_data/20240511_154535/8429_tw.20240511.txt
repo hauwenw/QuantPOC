@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	Ugland House
+address2	PO Box 309
+city	Grand Cayman
+zip	KY1-1104
+country	Cayman Islands
+website	https://www.jinligroup.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Jinli Group Holdings Limited designs, manufactures, and sells fashion casual and sports shoes in China. It also designs and sells casual wear, including jeans and accessories. The company sells its products through agents and footwear traders. Jinli Group Holdings Limited was incorporated in 2010 is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chun Lung  Chong', 'title': 'Chairman & GM', 'fiscalYear': 2021, 'totalPay': 560000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simon  Poon', 'title': 'Director of Finance', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	10.4
+open	10.4
+dayLow	10.35
+dayHigh	10.5
+regularMarketPreviousClose	10.4
+regularMarketOpen	10.4
+regularMarketDayLow	10.35
+regularMarketDayHigh	10.5
+exDividendDate	1598486400	 (2020-08-27 08:00:00)
+fiveYearAvgDividendYield	1.15
+beta	0.8
+forwardPE	5.122549
+volume	486011
+regularMarketVolume	486011
+averageVolume	330803
+averageVolume10days	606794
+averageDailyVolume10Day	606794
+bid	10.4
+ask	10.45
+marketCap	1941056256
+fiftyTwoWeekLow	9.5
+fiftyTwoWeekHigh	11.5
+priceToSalesTrailing12Months	9.243344
+fiftyDayAverage	9.9782
+twoHundredDayAverage	10.38975
+currency	TWD
+enterpriseValue	-3903679232
+profitMargins	-0.0665
+sharesOutstanding	185747008
+heldPercentInsiders	0.34742
+heldPercentInstitutions	0.01
+impliedSharesOutstanding	185747008
+bookValue	32.975
+priceToBook	0.31690675
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.642
+netIncomeToCommon	-13965000
+trailingEps	-0.14
+forwardEps	2.04
+lastSplitFactor	1017:1000
+lastSplitDate	1567382400	 (2019-09-02 08:00:00)
+enterpriseToRevenue	-18.589
+enterpriseToEbitda	152.238
+52WeekChange	-0.0141509175
+SandP52WeekChange	0.26265144
+lastDividendValue	0.02
+lastDividendDate	1598486400	 (2020-08-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8429.TW
+underlyingSymbol	8429.TW
+shortName	JINLI GROUP HOLDINGS LTD
+longName	Jinli Group Holdings Limited
+firstTradeDateEpochUtc	1355965200	 (2012-12-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	bdc26964-e849-383d-9015-3fb3075949a1
+messageBoardId	finmb_224013561
+gmtOffSetMilliseconds	28800000
+currentPrice	10.45
+recommendationKey	none
+totalCash	5880803840
+totalCashPerShare	31.66
+ebitda	-25642000
+totalDebt	35484000
+quickRatio	71.349
+currentRatio	71.475
+totalRevenue	209995008
+debtToEquity	0.579
+revenuePerShare	1.131
+returnOnAssets	-0.0038299998
+returnOnEquity	-0.00234
+freeCashflow	6737875
+operatingCashflow	26748000
+earningsGrowth	-0.642
+revenueGrowth	2.415
+grossMargins	0.04006
+ebitdaMargins	-0.12211
+operatingMargins	-0.24059999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                         0.0    -418620.694515  13710427.465868  -13026582.810075
+Tax Rate For Calcs                                                 0.25          0.085103          0.17617          0.098787
+Normalized EBITDA                                            12449000.0      -180229000.0       -4818000.0      -361705000.0
+Total Unusual Items                                                 0.0        -4919000.0       77825000.0      -131865000.0
+Total Unusual Items Excluding Goodwill                              0.0        -4919000.0       77825000.0      -131865000.0
+Net Income From Continuing Operation Net Minority Interest  -13965000.0      -201260000.0       22879000.0      -500856000.0
+Reconciled Depreciation                                      23727000.0        32981000.0       44628000.0        60824000.0
+Reconciled Cost Of Revenue                                  201582000.0       263057000.0      396791000.0       489299000.0
+EBITDA                                                       12449000.0      -185148000.0       73007000.0      -493570000.0
+EBIT                                                        -11278000.0      -218129000.0       28379000.0      -554394000.0
+Net Interest Income                                          34442000.0        35023000.0       35034000.0        35471000.0
+Interest Expense                                              1626000.0         1852000.0         985000.0          303000.0
+Interest Income                                              36068000.0        36875000.0       36019000.0        35774000.0
+Normalized Income                                           -13965000.0 -196759620.694515 -41235572.534132 -382017582.810075
+Net Income From Continuing And Discontinued Operation       -13965000.0      -201260000.0       22879000.0      -500856000.0
+Total Expenses                                              252134000.0       445322000.0      525179000.0       858377000.0
+Diluted Average Shares                                      174562500.0       185747000.0      185749000.0       185747000.0
+Basic Average Shares                                                NaN       185747000.0      185747000.0       185747000.0
+Diluted EPS                                                         NaN             -1.08             0.12              -2.7
+Basic EPS                                                           NaN             -1.08             0.12              -2.7
+Diluted NI Availto Com Stockholders                         -13965000.0      -201260000.0       22879000.0      -500856000.0
+Net Income Common Stockholders                              -13965000.0      -201260000.0       22879000.0      -500856000.0
+Otherunder Preferred Stock Dividend                                 0.0               0.0              0.0               0.0
+Net Income                                                  -13965000.0      -201260000.0       22879000.0      -500856000.0
+Minority Interests                                             518000.0               0.0         311000.0         -956000.0
+Net Income Including Noncontrolling Interests               -14483000.0      -201260000.0       22568000.0      -499900000.0
+Net Income Continuous Operations                            -14483000.0      -201260000.0       22568000.0      -499900000.0
+Tax Provision                                                 1579000.0       -18721000.0        4826000.0       -54797000.0
+Pretax Income                                               -12904000.0      -219981000.0       27394000.0      -554697000.0
+Other Non Operating Income Expenses                           1902000.0          525000.0        7637000.0        21819000.0
+Special Income Charges                                              0.0        -4919000.0       77825000.0      -131865000.0
+Other Special Charges                                               NaN        -3213000.0              NaN               NaN
+Write Off                                                           0.0         8132000.0      -77825000.0       131865000.0
+Net Non Operating Interest Income Expense                    34442000.0        35023000.0       35034000.0        35471000.0
+Interest Expense Non Operating                                1626000.0         1852000.0         985000.0          303000.0
+Interest Income Non Operating                                36068000.0        36875000.0       36019000.0        35774000.0
+Operating Income                                            -42139000.0      -232648000.0      -93102000.0      -480122000.0
+Operating Expense                                            50552000.0       182265000.0      128388000.0       369078000.0
+Research And Development                                      2497000.0        26290000.0       41604000.0        60715000.0
+Selling General And Administration                           48055000.0       155975000.0       86784000.0       308363000.0
+Selling And Marketing Expense                                 1428000.0         7109000.0        9195000.0       212812000.0
+General And Administrative Expense                           46627000.0       148866000.0       77589000.0        95551000.0
+Gross Profit                                                  8413000.0       -50383000.0       35286000.0      -111044000.0
+Cost Of Revenue                                             201582000.0       263057000.0      396791000.0       489299000.0
+Total Revenue                                               209995000.0       212674000.0      432077000.0       378255000.0
+Operating Revenue                                           209995000.0       212674000.0      432077000.0       378255000.0

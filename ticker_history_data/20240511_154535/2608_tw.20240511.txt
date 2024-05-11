@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	50 Xinsheng South Road
+address2	Section 1 14th Floor Zhongzheng District
+city	Taipei
+zip	10059
+country	Taiwan
+phone	886 2 3322 6888
+fax	886 2 3322 6777
+website	https://www.kerrytj.com
+industry	Trucking
+industryKey	trucking
+industryDisp	Trucking
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kerry TJ Logistics Company Limited provides integrated logistics services worldwide. The company also provides cold storage and temperature-controlled distribution services; and devanning, warehousing, sorting, retrieving, disposal, and customized value added services. In addition, it offers international freight forwarding, sea freight, air freight, sea and air joint freight, insurance brokerage, customs clearance, and courier services. The company serves customers in fashion and lifestyle, electronics and technology, food and beverage, FMCG, industrial and material science, automotive, and pharmaceutical and healthcare industries. Kerry TJ Logistics Company Limited was founded in 1954 and is based in Taipei City, Taiwan. Kerry TJ Logistics Company Limited is a subsidiary of Kerry Holding Limited.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hui-Wen  Juan', 'title': 'GM of Finance & Administration and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Li  Chen', 'title': 'Senior Manager of Finance & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tzu-Yang  Chou', 'title': 'Senior Assistant General Manager of Marketing & Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yao-Jen  Hsu', 'title': 'Assistant General Manager of Human Resources Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chang-Yi  Hung', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	42.6
+open	42.5
+dayLow	42.35
+dayHigh	43.3
+regularMarketPreviousClose	42.6
+regularMarketOpen	42.5
+regularMarketDayLow	42.35
+regularMarketDayHigh	43.3
+dividendRate	1.65
+dividendYield	0.0382
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.45450002
+fiveYearAvgDividendYield	3.93
+beta	0.508
+trailingPE	11.887053
+forwardPE	19.349777
+volume	860670
+regularMarketVolume	860670
+averageVolume	516360
+averageVolume10days	651248
+averageDailyVolume10Day	651248
+bid	43.15
+ask	43.2
+marketCap	20151050240
+fiftyTwoWeekLow	35.6
+fiftyTwoWeekHigh	43.85
+priceToSalesTrailing12Months	1.6746608
+fiftyDayAverage	39.715
+twoHundredDayAverage	38.0815
+currency	TWD
+enterpriseValue	27407972352
+profitMargins	0.14092
+floatShares	172654570
+sharesOutstanding	467000000
+heldPercentInsiders	0.63071996
+heldPercentInstitutions	0.02913
+impliedSharesOutstanding	467000000
+bookValue	26.57
+priceToBook	1.6240121
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.027
+netIncomeToCommon	1695694976
+trailingEps	3.63
+forwardEps	2.23
+lastSplitFactor	100.5:100
+lastSplitDate	1002758400	 (2001-10-11 08:00:00)
+enterpriseToRevenue	2.278
+enterpriseToEbitda	11.436
+52WeekChange	0.12369788
+SandP52WeekChange	0.26265144
+lastDividendValue	1.65
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2608.TW
+underlyingSymbol	2608.TW
+shortName	KERRY TJ LOGISTICS COMPANY LTD
+longName	Kerry TJ Logistics Company Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2377cc25-7732-36c5-9dd2-b25f0bbf51d7
+messageBoardId	finmb_20375475
+gmtOffSetMilliseconds	28800000
+currentPrice	43.15
+recommendationKey	none
+totalCash	1716542976
+totalCashPerShare	3.676
+ebitda	2396566016
+totalDebt	8331430912
+quickRatio	1.089
+currentRatio	1.128
+totalRevenue	12032914432
+debtToEquity	63.842
+revenuePerShare	25.766
+returnOnAssets	0.03895
+returnOnEquity	0.14534001
+freeCashflow	1302262144
+operatingCashflow	2459918080
+earningsGrowth	-0.023
+revenueGrowth	-0.012
+grossMargins	0.18176001
+ebitdaMargins	0.19917
+operatingMargins	0.13517
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.161412       0.189608       0.192088       0.202043
+Normalized EBITDA                                            3754554000.0   3153263000.0   3169588000.0   3220976000.0
+Net Income From Continuing Operation Net Minority Interest   1695695000.0   1240351000.0   1394789000.0   1497426000.0
+Reconciled Depreciation                                      1421528000.0   1334468000.0   1219610000.0   1146823000.0
+Reconciled Cost Of Revenue                                   9845780000.0  10384929000.0  10512838000.0   9674757000.0
+EBITDA                                                       3754554000.0   3153263000.0   3169588000.0   3220976000.0
+EBIT                                                         2333026000.0   1818795000.0   1949978000.0   2074153000.0
+Net Interest Income                                          -137068000.0   -130668000.0   -112875000.0   -104577000.0
+Interest Expense                                              148056000.0    133542000.0    113777000.0    106135000.0
+Interest Income                                                10988000.0      2874000.0       902000.0      1558000.0
+Normalized Income                                            1695695000.0   1240351000.0   1394789000.0   1497426000.0
+Net Income From Continuing And Discontinued Operation        1695695000.0   1240351000.0   1394789000.0   1497426000.0
+Total Expenses                                              10493957000.0  11052365000.0  11224272000.0  10382282000.0
+Diluted Average Shares                                                NaN    467462000.0    467470000.0    467521000.0
+Basic Average Shares                                                  NaN    467000000.0    467000000.0    467000000.0
+Diluted EPS                                                           NaN           2.65           2.98            3.2
+Basic EPS                                                             NaN           2.66           2.99           3.21
+Diluted NI Availto Com Stockholders                          1695695000.0   1240351000.0   1394789000.0   1497426000.0
+Net Income Common Stockholders                               1695695000.0   1240351000.0   1394789000.0   1497426000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   1695695000.0   1240351000.0   1394789000.0   1497426000.0
+Minority Interests                                           -136594000.0   -125364000.0    -88699000.0    -72968000.0
+Net Income Including Noncontrolling Interests                1832289000.0   1365715000.0   1483488000.0   1570394000.0
+Net Income Continuous Operations                             1832289000.0   1365715000.0   1483488000.0   1570394000.0
+Tax Provision                                                 352681000.0    319538000.0    352713000.0    397624000.0
+Pretax Income                                                2184970000.0   1685253000.0   1836201000.0   1968018000.0
+Other Non Operating Income Expenses                           775365000.0    132886000.0    131731000.0    110879000.0
+Net Non Operating Interest Income Expense                    -137068000.0   -130668000.0   -112875000.0   -104577000.0
+Interest Expense Non Operating                                148056000.0    133542000.0    113777000.0    106135000.0
+Interest Income Non Operating                                  10988000.0      2874000.0       902000.0      1558000.0
+Operating Income                                             1538957000.0   1677705000.0   1812125000.0   1961928000.0
+Operating Expense                                             648177000.0    667436000.0    711434000.0    707525000.0
+Other Operating Expenses                                      648177000.0    667436000.0    711434000.0    707525000.0
+Gross Profit                                                 2187134000.0   2345141000.0   2523559000.0   2669453000.0
+Cost Of Revenue                                              9845780000.0  10384929000.0  10512838000.0   9674757000.0
+Total Revenue                                               12032914000.0  12730070000.0  13036397000.0  12344210000.0
+Operating Revenue                                           12032914000.0  12730070000.0  13036397000.0  12344210000.0

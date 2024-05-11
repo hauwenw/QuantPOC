@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 407, Zhong Shan Road
+address2	10th Floor Section 2 Zhonghe District
+city	New Taipei City
+zip	23558
+country	Taiwan
+phone	886 2 8221 5588
+fax	886 2 8221 5680
+website	https://www.power-tech.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Powertech Industrial Co., Ltd., together with its subsidiaries, manufacture and sell electronic circuit power protection and smart home wireless remote control devices, wired and wireless communication equipment, and electronic modules and parts. The company provides IT surge protectors peripherals; power noise filters for audio and video devices; and IOT and smart home power safety systems to control the home power and security systems. It also manufactures and sells power outlets, wires, cables and power cords, plastic covers, circuit board modules, and radios, as well as electrical appliances, power outlets, wires, cables, and computer peripherals; and provides after-sales services. In addition, it engages in the investment, and trading and leasing activities; and provision of management consultancy services. It serves in the United States, Asia, Europe, Australia, and internationally. Powertech Industrial Co., Ltd. was incorporated in 2000 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yi-Xiong  Zhou', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 4423000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Ming  Lai', 'title': 'VP of Operation Division & Director', 'fiscalYear': 2021, 'totalPay': 1871000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin  Kuo', 'title': 'CFO, VP & Senior Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Ling  Ye', 'title': 'Vice President of Administration Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming-Te  Chen', 'title': 'Operation Division Sales Division Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Yeh', 'title': 'President of Sheng Shing (V.N) Factory', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	24.5
+open	24.65
+dayLow	23.6
+dayHigh	24.95
+regularMarketPreviousClose	24.5
+regularMarketOpen	24.65
+regularMarketDayLow	23.6
+regularMarketDayHigh	24.95
+exDividendDate	1629244800	 (2021-08-18 08:00:00)
+beta	0.387
+volume	1197934
+regularMarketVolume	1197934
+averageVolume	1321195
+averageVolume10days	877707
+averageDailyVolume10Day	877707
+bid	24.25
+ask	24.4
+marketCap	2345556992
+fiftyTwoWeekLow	15.15
+fiftyTwoWeekHigh	28.85
+priceToSalesTrailing12Months	1.5740156
+fiftyDayAverage	24.227
+twoHundredDayAverage	19.47725
+currency	TWD
+enterpriseValue	2223450880
+profitMargins	-0.05885
+floatShares	80372808
+sharesOutstanding	96724000
+heldPercentInsiders	0.49727002
+heldPercentInstitutions	0.0014399999
+impliedSharesOutstanding	99188304
+bookValue	11.828
+priceToBook	2.0502198
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-87698000
+trailingEps	-0.91
+lastSplitFactor	105:100
+lastSplitDate	1221177600	 (2008-09-12 08:00:00)
+enterpriseToRevenue	1.492
+enterpriseToEbitda	-82.14
+52WeekChange	0.469697
+SandP52WeekChange	0.26265144
+lastDividendValue	0.23
+lastDividendDate	1629244800	 (2021-08-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3296.TW
+underlyingSymbol	3296.TW
+shortName	POWERTECH INDUSTRIAL CO
+longName	Powertech Industrial Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d3472614-7081-3f91-b838-1ddbf36864aa
+messageBoardId	finmb_20386029
+gmtOffSetMilliseconds	28800000
+currentPrice	24.25
+recommendationKey	none
+totalCash	617747008
+totalCashPerShare	6.387
+ebitda	-27069000
+totalDebt	495640992
+quickRatio	1.318
+currentRatio	1.85
+totalRevenue	1490173952
+debtToEquity	43.322
+revenuePerShare	15.406
+returnOnAssets	-0.030050002
+returnOnEquity	-0.07326
+freeCashflow	236974256
+operatingCashflow	224932992
+revenueGrowth	-0.334
+grossMargins	0.19533001
+ebitdaMargins	-0.01816
+operatingMargins	-0.13376
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31    2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -525482.672035    -7444800.0    -129500.864379     -8785.750636
+Tax Rate For Calcs                                                 0.029922           0.2          0.022925         0.175715
+Normalized EBITDA                                               117874000.0   167016000.0       -28027000.0      138128000.0
+Total Unusual Items                                             -17562000.0   -37224000.0        -5649000.0         -50000.0
+Total Unusual Items Excluding Goodwill                          -17562000.0   -37224000.0        -5649000.0         -50000.0
+Net Income From Continuing Operation Net Minority Interest      -87698000.0   -66811000.0      -158253000.0       40493000.0
+Reconciled Depreciation                                         167645000.0   151284000.0       109222000.0       86093000.0
+Reconciled Cost Of Revenue                                     1199096000.0  2185698000.0      2908372000.0     2107509000.0
+EBITDA                                                          100312000.0   129792000.0       -33676000.0      138078000.0
+EBIT                                                            -67333000.0   -21492000.0      -142898000.0       51985000.0
+Net Interest Income                                             -11162000.0   -23269000.0       -15496000.0        5272000.0
+Interest Expense                                                 23070000.0    24768000.0        19068000.0        2860000.0
+Interest Income                                                  11908000.0     1499000.0         3572000.0        8132000.0
+Normalized Income                                          -70661482.672035   -37031800.0 -152733500.864379  40534214.249364
+Net Income From Continuing And Discontinued Operation           -87698000.0   -66811000.0      -158316000.0       22475000.0
+Total Expenses                                                 1584049000.0  2635450000.0      3351502000.0     2471059000.0
+Diluted Average Shares                                                  NaN    96724000.0        96534146.0       97231000.0
+Basic Average Shares                                                    NaN    96724000.0        96534146.0       97109000.0
+Diluted EPS                                                             NaN         -0.69             -1.64             0.23
+Basic EPS                                                               NaN         -0.69             -1.64             0.23
+Diluted NI Availto Com Stockholders                             -87698000.0   -66811000.0      -158316000.0       22475000.0
+Net Income Common Stockholders                                  -87698000.0   -66811000.0      -158316000.0       22475000.0
+Otherunder Preferred Stock Dividend                                     0.0           0.0               0.0              0.0
+Net Income                                                      -87698000.0   -66811000.0      -158316000.0       22475000.0
+Net Income Including Noncontrolling Interests                   -87698000.0   -66811000.0      -158316000.0       22475000.0
+Net Income Discontinuous Operations                                     NaN      -28000.0          -63000.0      -18018000.0
+Net Income Continuous Operations                                -87698000.0   -66811000.0      -158253000.0       40493000.0
+Tax Provision                                                    -2705000.0    20551000.0        -3713000.0        8632000.0
+Pretax Income                                                   -90403000.0   -46260000.0      -161966000.0       49125000.0
+Other Non Operating Income Expenses                              32196000.0    91150000.0        16527000.0        6317000.0
+Special Income Charges                                          -17562000.0   -37224000.0        -5649000.0         -50000.0
+Write Off                                                        17562000.0    37224000.0         5649000.0          50000.0
+Net Non Operating Interest Income Expense                       -11162000.0   -23269000.0       -15496000.0        5272000.0
+Interest Expense Non Operating                                   23070000.0    24768000.0        19068000.0        2860000.0
+Interest Income Non Operating                                    11908000.0     1499000.0         3572000.0        8132000.0
+Operating Income                                                -93875000.0   -76917000.0      -157348000.0       40679000.0
+Operating Expense                                               384953000.0   449752000.0       443130000.0      363550000.0
+Research And Development                                         84142000.0   104756000.0       119862000.0      112823000.0
+Selling General And Administration                              300811000.0   344996000.0       323268000.0      250727000.0
+Selling And Marketing Expense                                    55161000.0    99729000.0       103010000.0       67011000.0
+General And Administrative Expense                              245650000.0   245267000.0       220258000.0      183716000.0
+Gross Profit                                                    291078000.0   372835000.0       285782000.0      404229000.0
+Cost Of Revenue                                                1199096000.0  2185698000.0      2908372000.0     2107509000.0
+Total Revenue                                                  1490174000.0  2558533000.0      3194154000.0     2511738000.0
+Operating Revenue                                              1490174000.0  2558533000.0      3194154000.0     2511738000.0

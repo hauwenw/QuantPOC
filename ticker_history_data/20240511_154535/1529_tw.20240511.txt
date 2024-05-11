@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 114, Chenggong Road
+address2	7th Floor-1 North District
+city	Tainan City
+country	Taiwan
+phone	886 6 221 7189
+fax	886 6 221 3669
+website	https://www.luxe.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Luxe Green Energy Technology Co., Ltd. engages in the design, manufacture, installation, and trading of electrical products. It offers energy solutions, including solar power plant monitoring and maintenance systems, and DC distribution panels, as well as provides solar power plant construction and planning services. The company also offers electrical equipment comprising various transformers and matching system reactors. In addition, it provides switchboard solutions, such as solar power high voltage substations, high and low voltage switchboards, metal clad switchgear distributive panels, low voltage motor control centers, gas isolated switchgear facilities, and power centers, as well as test equipment, including electrical test benches, voltage-withstand test bedsteads, and temperature rise test panels. The company was formerly known as Klingon Aerospace Inc. and changed its name to Luxe Green Energy Technology Co., Ltd. in August 2022. Luxe Green Energy Technology Co., Ltd. was founded in 1978 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Lient-Sung  Chen', 'title': 'GM & President', 'fiscalYear': 2022, 'totalPay': 598000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Chang  Chien', 'title': 'VP, Accounting Supervisor & Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	34.45
+open	34.4
+dayLow	33.7
+dayHigh	34.5
+regularMarketPreviousClose	34.45
+regularMarketOpen	34.4
+regularMarketDayLow	33.7
+regularMarketDayHigh	34.5
+dividendRate	0.25
+dividendYield	0.0073
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.2747
+beta	0.716
+trailingPE	37.472527
+volume	1474052
+regularMarketVolume	1474052
+averageVolume	4244037
+averageVolume10days	2032395
+averageDailyVolume10Day	2032395
+bid	34.0
+ask	34.15
+marketCap	5134709760
+fiftyTwoWeekLow	28.6
+fiftyTwoWeekHigh	47.624325
+priceToSalesTrailing12Months	6.8247137
+fiftyDayAverage	34.686
+twoHundredDayAverage	33.1535
+currency	TWD
+enterpriseValue	5811236864
+profitMargins	0.18345
+floatShares	105859346
+sharesOutstanding	150578000
+heldPercentInsiders	0.39926997
+heldPercentInstitutions	0.00434
+impliedSharesOutstanding	154483008
+bookValue	11.707
+priceToBook	2.9127872
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	5.662
+netIncomeToCommon	138023008
+trailingEps	0.91
+lastSplitFactor	1035185.25:1000000
+lastSplitDate	1690416000	 (2023-07-27 08:00:00)
+enterpriseToRevenue	7.724
+enterpriseToEbitda	33.566
+52WeekChange	-0.016718209
+SandP52WeekChange	0.26265144
+lastDividendValue	0.25
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1529.TW
+underlyingSymbol	1529.TW
+shortName	LUXE GREEN ENERGY TECHNOLOGY CO
+longName	Luxe Green Energy Technology Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1f5e1cc8-b406-3031-acb2-5c2e960f8521
+messageBoardId	finmb_9845380
+gmtOffSetMilliseconds	28800000
+currentPrice	34.1
+recommendationKey	none
+totalCash	540243968
+totalCashPerShare	3.588
+ebitda	173131008
+totalDebt	1151364992
+quickRatio	1.737
+currentRatio	2.337
+totalRevenue	752369984
+debtToEquity	62.978
+revenuePerShare	4.997
+returnOnAssets	0.01925
+returnOnEquity	0.0817
+freeCashflow	-127084128
+operatingCashflow	150688000
+earningsGrowth	5.799
+revenueGrowth	1.783
+grossMargins	0.21011
+ebitdaMargins	0.23010999
+operatingMargins	0.10704
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                      2363.651681    -45231.429638       6429.835835     -46000.0
+Tax Rate For Calcs                                                  0.060606         0.174639          0.033664          0.2
+Normalized EBITDA                                                269730000.0      121721000.0       175224000.0  116331000.0
+Total Unusual Items                                                  39000.0        -259000.0          191000.0    -230000.0
+Total Unusual Items Excluding Goodwill                               39000.0        -259000.0          191000.0    -230000.0
+Net Income From Continuing Operation Net Minority Interest       138023000.0       45080000.0       112220000.0   62077000.0
+Reconciled Depreciation                                           92803000.0       54126000.0        48495000.0   44404000.0
+Reconciled Cost Of Revenue                                       594290000.0      161798000.0       175257000.0  500377000.0
+EBITDA                                                           269769000.0      121462000.0       175415000.0  116101000.0
+EBIT                                                             176966000.0       67336000.0       126920000.0   71697000.0
+Net Interest Income                                              -19170000.0       -9840000.0        -9684000.0  -10108000.0
+Interest Expense                                                  22659000.0       11077000.0        10208000.0   10361000.0
+Interest Income                                                    3489000.0        1237000.0          524000.0     253000.0
+Normalized Income                                           137986363.651681  45293768.570362  112035429.835835   62261000.0
+Net Income From Continuing And Discontinued Operation            138023000.0       45080000.0       112220000.0   62077000.0
+Total Expenses                                                   657860000.0      206528000.0       217758000.0  544568000.0
+Diluted Average Shares                                                   NaN      150645000.0       123055576.0  115254119.0
+Basic Average Shares                                                     NaN      150578000.0       122999676.0  115198737.0
+Diluted EPS                                                              NaN              0.3           0.90805     0.586829
+Basic EPS                                                                NaN              0.3           0.90805     0.586829
+Diluted NI Availto Com Stockholders                              138023000.0       45080000.0       112220000.0   62077000.0
+Net Income Common Stockholders                                   138023000.0       45080000.0       112220000.0   62077000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0          0.0
+Net Income                                                       138023000.0       45080000.0       112220000.0   62077000.0
+Minority Interests                                                -6932000.0       -1354000.0         -563000.0          0.0
+Net Income Including Noncontrolling Interests                    144955000.0       46434000.0       112783000.0   62077000.0
+Net Income Continuous Operations                                 144955000.0       46434000.0       112783000.0   62077000.0
+Tax Provision                                                      9352000.0        9825000.0         3929000.0    -741000.0
+Pretax Income                                                    154307000.0       56259000.0       116712000.0   61336000.0
+Other Non Operating Income Expenses                               78491000.0       -8635000.0        19517000.0    7094000.0
+Special Income Charges                                               39000.0        -259000.0          191000.0    -230000.0
+Write Off                                                           -39000.0         259000.0         -191000.0     230000.0
+Net Non Operating Interest Income Expense                        -19170000.0       -9840000.0        -9684000.0  -10108000.0
+Interest Expense Non Operating                                    22659000.0       11077000.0        10208000.0   10361000.0
+Interest Income Non Operating                                      3489000.0        1237000.0          524000.0     253000.0
+Operating Income                                                  94510000.0       74992000.0       106688000.0   64580000.0
+Operating Expense                                                 63570000.0       44730000.0        42501000.0   44191000.0
+Other Operating Expenses                                                 NaN              NaN          445000.0    5665000.0
+Research And Development                                           5033000.0        2752000.0         3890000.0    2959000.0
+Selling General And Administration                                58537000.0       41978000.0        38611000.0   35567000.0
+Selling And Marketing Expense                                      9308000.0       10151000.0         7130000.0    7687000.0
+General And Administrative Expense                                49229000.0       31827000.0        31481000.0   27880000.0
+Gross Profit                                                     158080000.0      119722000.0       149189000.0  108771000.0
+Cost Of Revenue                                                  594290000.0      161798000.0       175257000.0  500377000.0
+Total Revenue                                                    752370000.0      281520000.0       324446000.0  609148000.0
+Operating Revenue                                                752370000.0      281520000.0       324446000.0  609148000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 256, Chung Cheng Road
+address2	Section 3 Jen Teh District
+city	Tainan City
+country	Taiwan
+phone	886 6 279 1717
+fax	886 6 270 6442
+website	https://www.hanpin.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Hanpin Electron Co., Ltd. designs, manufactures, and sells electronic consumer products, professional audio products, and professional DJ equipment in Taiwan, China, Hong Kong, and Singapore. Its electronic consumer products include Hi-Fi turntables, 5 disc CD players, and CD players; professional audio products comprise power amplifiers, powered mixers, mixing consoles, equalizers, and public address systems; and professional DJ equipment consists of DJ turntables, CD/MP3 players, DJ mixers, SD/USB players, and MIDI controllers, as well as direct and belt drive turntables, media players, and channel tabletop mixers. Hanpin Electron Co., Ltd. was founded in 1965 and is headquartered in Tainan City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	46.85
+open	46.85
+dayLow	46.7
+dayHigh	47.45
+regularMarketPreviousClose	46.85
+regularMarketOpen	46.85
+regularMarketDayLow	46.7
+regularMarketDayHigh	47.45
+dividendRate	2.5
+dividendYield	0.052699998
+exDividendDate	1694563200	 (2023-09-13 08:00:00)
+payoutRatio	0.5459
+fiveYearAvgDividendYield	6.16
+trailingPE	10.349345
+volume	331716
+regularMarketVolume	331716
+averageVolume	678827
+averageVolume10days	494437
+averageDailyVolume10Day	494437
+bid	47.35
+ask	47.4
+marketCap	3791952640
+fiftyTwoWeekLow	30.9
+fiftyTwoWeekHigh	49.3
+priceToSalesTrailing12Months	1.4690471
+fiftyDayAverage	45.63
+twoHundredDayAverage	40.52975
+trailingAnnualDividendRate	2.8
+trailingAnnualDividendYield	0.05976521
+currency	TWD
+enterpriseValue	1730267776
+profitMargins	0.14418
+floatShares	70636312
+sharesOutstanding	79999000
+heldPercentInsiders	0.40537998
+heldPercentInstitutions	0.014140001
+impliedSharesOutstanding	81330896
+bookValue	32.315
+priceToBook	1.4668112
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.556
+netIncomeToCommon	372174016
+trailingEps	4.58
+lastSplitFactor	0.8:1
+lastSplitDate	1286150400	 (2010-10-04 08:00:00)
+enterpriseToRevenue	0.67
+enterpriseToEbitda	4.145
+52WeekChange	0.5265701
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1694563200	 (2023-09-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2488.TW
+underlyingSymbol	2488.TW
+shortName	HANPIN ELECTRONIC
+longName	Hanpin Electron Co., Ltd.
+firstTradeDateEpochUtc	1000947600	 (2001-09-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b26e0943-bb3c-37eb-acc6-0717f21fe6b7
+messageBoardId	finmb_20343994
+gmtOffSetMilliseconds	28800000
+currentPrice	47.4
+recommendationKey	none
+totalCash	2076669056
+totalCashPerShare	26.083
+ebitda	417440000
+totalDebt	33000000
+quickRatio	3.263
+currentRatio	3.981
+totalRevenue	2581232896
+debtToEquity	1.283
+revenuePerShare	32.363
+returnOnAssets	0.07121
+returnOnEquity	0.15049
+freeCashflow	514810368
+operatingCashflow	700012032
+earningsGrowth	0.553
+revenueGrowth	0.388
+grossMargins	0.2683
+ebitdaMargins	0.16172001
+operatingMargins	0.08592
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1607479.158745   -1871545.417203     669675.954354      83891.636572
+Tax Rate For Calcs                                                   0.22827          0.265807          0.286309           0.22135
+Normalized EBITDA                                                483573000.0       465983000.0       236585000.0       273339000.0
+Total Unusual Items                                                7042000.0        -7041000.0         2339000.0          379000.0
+Total Unusual Items Excluding Goodwill                             7042000.0        -7041000.0         2339000.0          379000.0
+Net Income From Continuing Operation Net Minority Interest       351127000.0       308685000.0       143295000.0       181579000.0
+Reconciled Depreciation                                           35080000.0        35309000.0        35999000.0        36523000.0
+Reconciled Cost Of Revenue                                      1803977000.0      2449953000.0      2067239000.0      1504546000.0
+EBITDA                                                           490615000.0       458942000.0       238924000.0       273718000.0
+EBIT                                                             455535000.0       423633000.0       202925000.0       237195000.0
+Net Interest Income                                               35526000.0        11253000.0         5547000.0        10772000.0
+Interest Expense                                                    548000.0         4904000.0         3916000.0         2937000.0
+Interest Income                                                   36074000.0        16157000.0         9463000.0        13709000.0
+Normalized Income                                           345692479.158745  313854454.582797  141625675.954354  181283891.636572
+Net Income From Continuing And Discontinued Operation            351127000.0       308685000.0       143295000.0       181579000.0
+Total Expenses                                                  2101197000.0      2765871000.0      2330366000.0      1761140000.0
+Diluted Average Shares                                            81233000.0        81384000.0        80703000.0        80835000.0
+Basic Average Shares                                              79999000.0        79999000.0        79999000.0        79999000.0
+Diluted EPS                                                             4.32              3.79              1.78              2.25
+Basic EPS                                                               4.39              3.86              1.79              2.27
+Diluted NI Availto Com Stockholders                              351127000.0       308685000.0       143295000.0       181579000.0
+Net Income Common Stockholders                                   351127000.0       308685000.0       143295000.0       181579000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       351127000.0       308685000.0       143295000.0       181579000.0
+Minority Interests                                                       0.0         1257000.0         1264000.0         -826000.0
+Net Income Including Noncontrolling Interests                    351127000.0       307428000.0       142031000.0       182405000.0
+Net Income Continuous Operations                                 351127000.0       307428000.0       142031000.0       182405000.0
+Tax Provision                                                    103860000.0       111301000.0        56978000.0        51853000.0
+Pretax Income                                                    454987000.0       418729000.0       199009000.0       234258000.0
+Other Non Operating Income Expenses                               51662000.0        95197000.0        35842000.0        46511000.0
+Special Income Charges                                             7042000.0        -7041000.0         2339000.0          379000.0
+Write Off                                                         -7042000.0         7041000.0        -2339000.0         -379000.0
+Net Non Operating Interest Income Expense                         35526000.0        11253000.0         5547000.0        10772000.0
+Interest Expense Non Operating                                      548000.0         4904000.0         3916000.0         2937000.0
+Interest Income Non Operating                                     36074000.0        16157000.0         9463000.0        13709000.0
+Operating Income                                                 360757000.0       319320000.0       155281000.0       176596000.0
+Operating Expense                                                297220000.0       315918000.0       263127000.0       256594000.0
+Research And Development                                          99275000.0       103299000.0        87583000.0        87052000.0
+Selling General And Administration                               197945000.0       212619000.0       175544000.0       169542000.0
+Selling And Marketing Expense                                     42284000.0        59357000.0        53990000.0        43581000.0
+General And Administrative Expense                               155661000.0       153262000.0       121554000.0       125961000.0
+Gross Profit                                                     657977000.0       635238000.0       418408000.0       433190000.0
+Cost Of Revenue                                                 1803977000.0      2449953000.0      2067239000.0      1504546000.0
+Total Revenue                                                   2461954000.0      3085191000.0      2485647000.0      1937736000.0
+Operating Revenue                                               2461954000.0      3085191000.0      2485647000.0      1937736000.0

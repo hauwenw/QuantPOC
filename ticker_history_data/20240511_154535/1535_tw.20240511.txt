@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 88 Chenggong 2nd Road
+address2	8th Floor Qianzhen Dist.
+city	Kaohsiung
+zip	806
+country	Taiwan
+phone	886 7 333 6138
+fax	886 7 336 3030
+website	https://www.ecotek.com.tw
+industry	Pollution & Treatment Controls
+industryKey	pollution-treatment-controls
+industryDisp	Pollution & Treatment Controls
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	China Ecotek Corporation provides planning, design, installation, maintenance, and environmental impact assessment services for environmental protection engineering, cogeneration engineering, and steel industry in Taiwan. It is also involved in the production and sale of machinery and equipment, such as steel equipment, railway vehicles, transportation equipment, and power generators, as well as aluminum products. In addition, the company offers construction technology consulting services; imports and exports equipment materials; and generates solar power. Further, it engages in the general investment activities. China Ecotek Corporation was founded in 1993 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Feng  Lee', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Min  Chuang', 'title': 'Assistant VP & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Ming  Hu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chien-Chih  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	73.0
+open	73.0
+dayLow	72.2
+dayHigh	73.0
+regularMarketPreviousClose	73.0
+regularMarketOpen	73.0
+regularMarketDayLow	72.2
+regularMarketDayHigh	73.0
+dividendRate	3.0
+dividendYield	0.041300002
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.6652
+fiveYearAvgDividendYield	4.23
+trailingPE	16.119732
+volume	252320
+regularMarketVolume	252320
+averageVolume	992078
+averageVolume10days	647284
+averageDailyVolume10Day	647284
+bid	72.6
+ask	72.7
+marketCap	8996115456
+fiftyTwoWeekLow	50.9
+fiftyTwoWeekHigh	97.5
+priceToSalesTrailing12Months	0.8686061
+fiftyDayAverage	73.89
+twoHundredDayAverage	59.9745
+trailingAnnualDividendRate	3.3
+trailingAnnualDividendYield	0.045205478
+currency	TWD
+enterpriseValue	7561702400
+profitMargins	0.054190002
+floatShares	49397837
+sharesOutstanding	123743000
+heldPercentInsiders	0.72499
+heldPercentInstitutions	0.04383
+impliedSharesOutstanding	123743000
+bookValue	30.517
+priceToBook	2.3822787
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.037
+netIncomeToCommon	561196992
+trailingEps	4.51
+lastSplitFactor	102:100
+lastSplitDate	1092268800	 (2004-08-12 08:00:00)
+enterpriseToRevenue	0.73
+enterpriseToEbitda	13.782
+52WeekChange	0.3953935
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1535.TW
+underlyingSymbol	1535.TW
+shortName	CHINA ECOTEK
+longName	China Ecotek Corporation
+firstTradeDateEpochUtc	947034000	 (2000-01-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	aa82144e-d3c5-3f2f-b21c-274037fb9109
+messageBoardId	finmb_9461015
+gmtOffSetMilliseconds	28800000
+currentPrice	72.7
+recommendationKey	none
+totalCash	1692059008
+totalCashPerShare	13.712
+ebitda	548681024
+totalDebt	282880992
+quickRatio	1.14
+currentRatio	1.468
+totalRevenue	10356956160
+debtToEquity	7.512
+revenuePerShare	83.812
+returnOnAssets	0.04705
+returnOnEquity	0.15121001
+freeCashflow	254928128
+operatingCashflow	205064000
+earningsGrowth	0.032
+revenueGrowth	0.298
+grossMargins	0.1003
+ebitdaMargins	0.05298
+operatingMargins	0.04203
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1002996.693203    1109913.770506    1680605.011194    1267629.562349
+Tax Rate For Calcs                                                  0.188038          0.149343          0.163531          0.175499
+Normalized EBITDA                                                746831000.0       665101000.0       531127000.0       290973000.0
+Total Unusual Items                                                5334000.0         7432000.0        10277000.0         7223000.0
+Total Unusual Items Excluding Goodwill                             5334000.0         7432000.0        10277000.0         7223000.0
+Net Income From Continuing Operation Net Minority Interest       556892000.0       520519000.0       403880000.0       197435000.0
+Reconciled Depreciation                                           64951000.0        59816000.0        57037000.0        56949000.0
+Reconciled Cost Of Revenue                                      8786581000.0      8031190000.0      7764125000.0      8318011000.0
+EBITDA                                                           752165000.0       672533000.0       541404000.0       298196000.0
+EBIT                                                             687214000.0       612717000.0       484367000.0       241247000.0
+Net Interest Income                                               89911000.0        58394000.0        47724000.0        55565000.0
+Interest Expense                                                   1354000.0          815000.0         1528000.0         1787000.0
+Interest Income                                                   91265000.0        59209000.0        49252000.0        57352000.0
+Normalized Income                                           552560996.693203  514196913.770506  395283605.011194  191479629.562349
+Net Income From Continuing And Discontinued Operation            556892000.0       520519000.0       403880000.0       197435000.0
+Total Expenses                                                  9294671000.0      8510547000.0      8228781000.0      8757251000.0
+Diluted Average Shares                                           124240000.0       124426000.0       124270769.0       123994000.0
+Basic Average Shares                                             123743000.0       123743000.0       123889571.0       123743000.0
+Diluted EPS                                                             4.48              4.18              3.25              1.59
+Basic EPS                                                                4.5              4.21              3.26               1.6
+Diluted NI Availto Com Stockholders                              556892000.0       520519000.0       403880000.0       197435000.0
+Net Income Common Stockholders                                   556892000.0       520519000.0       403880000.0       197435000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       556892000.0       520519000.0       403880000.0       197435000.0
+Net Income Including Noncontrolling Interests                    556892000.0       520519000.0       403880000.0       197435000.0
+Net Income Continuous Operations                                 556892000.0       520519000.0       403880000.0       197435000.0
+Tax Provision                                                    128968000.0        91383000.0        78959000.0        42025000.0
+Pretax Income                                                    685860000.0       611902000.0       482839000.0       239460000.0
+Other Non Operating Income Expenses                               -2185000.0       100685000.0        24071000.0         1795000.0
+Special Income Charges                                             5334000.0         7432000.0        10277000.0         7223000.0
+Other Special Charges                                             -6406000.0        -8184000.0       -10277000.0        -7223000.0
+Write Off                                                          1072000.0          752000.0               0.0               0.0
+Net Non Operating Interest Income Expense                         89911000.0        58394000.0        47724000.0        55565000.0
+Interest Expense Non Operating                                     1354000.0          815000.0         1528000.0         1787000.0
+Interest Income Non Operating                                     91265000.0        59209000.0        49252000.0        57352000.0
+Operating Income                                                 464655000.0       333506000.0       255832000.0        79109000.0
+Operating Expense                                                508090000.0       479357000.0       464656000.0       439240000.0
+Other Operating Expenses                                                 NaN               NaN        13527000.0        14385000.0
+Research And Development                                          12115000.0        14793000.0        16880000.0        10031000.0
+Selling General And Administration                               495975000.0       464564000.0       447776000.0       429209000.0
+Selling And Marketing Expense                                     37466000.0        39966000.0        56160000.0        49907000.0
+General And Administrative Expense                               458509000.0       424598000.0       391616000.0       379302000.0
+Gross Profit                                                     972745000.0       812863000.0       720488000.0       518349000.0
+Cost Of Revenue                                                 8786581000.0      8031190000.0      7764125000.0      8318011000.0
+Total Revenue                                                   9759326000.0      8844053000.0      8484613000.0      8836360000.0
+Operating Revenue                                               9759326000.0      8844053000.0      8484613000.0      8836360000.0

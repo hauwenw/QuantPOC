@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 179, ShanYing Road
+address2	Kwei Shan Ind. Park
+city	Taoyuan City
+zip	333
+country	Taiwan
+phone	886 3 350 0386
+fax	886 3 359 5536
+website	https://www.unimicron.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Unimicron Technology Corp. engages in the development, manufacturing, processing, and sale of printed circuit boards, electrical equipment, electronic products, and testing and burn-in systems for integrated circuit products worldwide. The company offers HDI, ELICs, multi-layer and rigid flex PCBs, and FPC; IC carriers, such as FCCSP, FCBGA, CSP, memory modules, and coreless; connectors, including PCBeam and X-Beam; and TP & ECRM products. It also engages in the food and restaurant business; manufacture and sales of food; business management consulting; property management; and trading businesses. Unimicron Technology Corp. was incorporated in 1990 and is based in Taoyuan City, Taiwan.
+fullTimeEmployees	29155
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tzyy Jang  Tseng', 'title': 'Chairman & Group CSO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Timothy  Lan', 'title': 'President of SBU, President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mike  Ma', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Shen', 'title': 'General Manager of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Denise  Hsu', 'title': 'Accounting Officer & Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Steve  Chiang', 'title': 'Head of PIW Market Development', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerry  Kuo', 'title': 'C.Q.O.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Webber  Wang', 'title': 'President of SBU', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Cheng', 'title': 'President of SBU', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kung  JiFu', 'title': 'C.D.O', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	190.5
+open	189.5
+dayLow	187.0
+dayHigh	191.5
+regularMarketPreviousClose	190.5
+regularMarketOpen	189.5
+regularMarketDayLow	187.0
+regularMarketDayHigh	191.5
+dividendRate	7.99
+dividendYield	0.0421
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	1.1948
+fiveYearAvgDividendYield	2.07
+beta	1.572
+trailingPE	28.400599
+forwardPE	12.92517
+volume	8731956
+regularMarketVolume	8731956
+averageVolume	17457395
+averageVolume10days	11855938
+averageDailyVolume10Day	11855938
+bid	189.5
+ask	190.0
+marketCap	289529593856
+fiftyTwoWeekLow	142.0
+fiftyTwoWeekHigh	208.0
+priceToSalesTrailing12Months	2.7873485
+fiftyDayAverage	184.43
+twoHundredDayAverage	175.6575
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.015748031
+currency	TWD
+enterpriseValue	276914536448
+profitMargins	0.09934
+floatShares	1263446438
+sharesOutstanding	1523840000
+heldPercentInsiders	0.15104
+heldPercentInstitutions	0.36493
+impliedSharesOutstanding	1540589952
+bookValue	62.069
+priceToBook	3.0611093
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.406
+netIncomeToCommon	10318485504
+trailingEps	6.69
+forwardEps	14.7
+pegRatio	0.62
+lastSplitFactor	101:100
+lastSplitDate	1218499200	 (2008-08-12 08:00:00)
+enterpriseToRevenue	2.666
+enterpriseToEbitda	12.283
+52WeekChange	0.21794868
+SandP52WeekChange	0.26265144
+lastDividendValue	7.992987
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3037.TW
+underlyingSymbol	3037.TW
+shortName	UNIMICRON TECHNOLOGY
+longName	Unimicron Technology Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e0bf4638-3bef-3416-b0ea-fbf48d11021b
+messageBoardId	finmb_9870522
+gmtOffSetMilliseconds	28800000
+currentPrice	190.0
+targetHighPrice	262.0
+targetLowPrice	120.0
+targetMeanPrice	225.42
+targetMedianPrice	237.5
+recommendationMean	1.9
+recommendationKey	buy
+numberOfAnalystOpinions	12
+totalCash	54800613376
+totalCashPerShare	35.962
+ebitda	22544982016
+totalDebt	36142206976
+quickRatio	1.678
+currentRatio	1.963
+totalRevenue	103872765952
+debtToEquity	35.917
+revenuePerShare	68.342
+returnOnAssets	0.021300001
+returnOnEquity	0.10614
+freeCashflow	-7030836224
+operatingCashflow	19505625088
+earningsGrowth	-0.407
+revenueGrowth	-0.006
+grossMargins	0.18417999
+ebitdaMargins	0.21704
+operatingMargins	0.05978
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0            0.0
+Tax Rate For Calcs                                                0.215078        0.216906        0.186691       0.147026
+Normalized EBITDA                                            31296661000.0   52048463000.0   26727961000.0  15567151000.0
+Net Income From Continuing Operation Net Minority Interest   11980052000.0   29618505000.0   13222256000.0   5461671000.0
+Reconciled Depreciation                                      15097174000.0   11726762000.0    9774147000.0   8856971000.0
+Reconciled Cost Of Revenue                                   83734548000.0   90056066000.0   80899930000.0  75064455000.0
+EBITDA                                                       31296661000.0   52048463000.0   26727961000.0  15567151000.0
+EBIT                                                         16199487000.0   40321701000.0   16953814000.0   6710180000.0
+Net Interest Income                                            745589000.0     212108000.0    -159928000.0   -282182000.0
+Interest Expense                                               624555000.0     446892000.0     324762000.0    476075000.0
+Interest Income                                               1370144000.0     659000000.0     164834000.0    193893000.0
+Normalized Income                                            11980052000.0   29618505000.0   13222256000.0   5461671000.0
+Net Income From Continuing And Discontinued Operation        11980052000.0   29618505000.0   13222256000.0   5461671000.0
+Total Expenses                                               95116232000.0  102317246000.0   91392456000.0  83875708000.0
+Diluted Average Shares                                        1541028000.0    1535260000.0    1472051000.0   1477272000.0
+Basic Average Shares                                          1520782000.0    1475260000.0    1472051000.0   1461383000.0
+Diluted EPS                                                           7.78           19.29            8.91            3.7
+Basic EPS                                                             7.88           20.08            8.98           3.74
+Diluted NI Availto Com Stockholders                          11980052000.0   29618505000.0   13222256000.0   5461671000.0
+Net Income Common Stockholders                               11980052000.0   29618505000.0   13222256000.0   5461671000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0            0.0
+Net Income                                                   11980052000.0   29618505000.0   13222256000.0   5461671000.0
+Minority Interests                                            -245050000.0   -1607212000.0    -302302000.0    144143000.0
+Net Income Including Noncontrolling Interests                12225102000.0   31225717000.0   13524558000.0   5317528000.0
+Net Income Continuous Operations                             12225102000.0   31225717000.0   13524558000.0   5317528000.0
+Tax Provision                                                 3349830000.0    8649092000.0    3104494000.0    916577000.0
+Pretax Income                                                15574932000.0   39874809000.0   16629052000.0   6234105000.0
+Other Non Operating Income Expenses                           6033344000.0    1521607000.0    3429812000.0   2498942000.0
+Net Non Operating Interest Income Expense                      745589000.0     212108000.0    -159928000.0   -282182000.0
+Interest Expense Non Operating                                 624555000.0     446892000.0     324762000.0    476075000.0
+Interest Income Non Operating                                 1370144000.0     659000000.0     164834000.0    193893000.0
+Operating Income                                              8919919000.0   38171926000.0   13170291000.0   4017113000.0
+Operating Expense                                            11381684000.0   12261180000.0   10492526000.0   8811253000.0
+Other Operating Expenses                                       -95685000.0    -104488000.0    -136515000.0    -48220000.0
+Research And Development                                      4923253000.0    5887256000.0    4715883000.0   3938461000.0
+Selling General And Administration                            6554116000.0    6478412000.0    5913158000.0   4921012000.0
+Selling And Marketing Expense                                 1423603000.0    1660534000.0    1534399000.0   1453543000.0
+General And Administrative Expense                            5130513000.0    4817878000.0    4378759000.0   3467469000.0
+Gross Profit                                                 20301603000.0   50433106000.0   23662817000.0  12828366000.0
+Cost Of Revenue                                              83734548000.0   90056066000.0   80899930000.0  75064455000.0
+Total Revenue                                               104036151000.0  140489172000.0  104562747000.0  87892821000.0
+Operating Revenue                                           104036151000.0  140489172000.0  104562747000.0  87892821000.0

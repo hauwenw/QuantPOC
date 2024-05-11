@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 131, Heping East Road
+address2	6th Floor Section 3 Da'an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2378 6789
+fax	886 2 2739 6710
+website	https://www.kedge.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kedge Construction Co., Ltd. constructs, develops, leases, and sells housing and building properties in Taiwan. The company engages in the electrical equipment and fire safety equipment installation, etc.; general investment activities; and undertaking of contracting business of residential property and public construction. Kedge Construction Co., Ltd. was founded in 1971 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yi-Fang  Huang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Hsuan  Chou', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Ya  Chen', 'title': 'Senior Assistant Vice President of Finance & Accountant Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsin Yu  Li', 'title': 'Assistant Manager of Legal Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fan Jiang  Bo-Zhen', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun-Ming  Chen', 'title': 'Executive Deputy GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi-Xiang  Xu', 'title': 'Information Security Chief Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	113.0
+open	113.0
+dayLow	108.5
+dayHigh	115.0
+regularMarketPreviousClose	113.0
+regularMarketOpen	113.0
+regularMarketDayLow	108.5
+regularMarketDayHigh	115.0
+dividendRate	4.15
+dividendYield	0.0382
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.4359
+fiveYearAvgDividendYield	6.28
+beta	0.402
+trailingPE	11.3970585
+forwardPE	24.004425
+volume	1060096
+regularMarketVolume	1060096
+averageVolume	846245
+averageVolume10days	2712816
+averageDailyVolume10Day	2712816
+bid	108.5
+ask	109.0
+marketCap	13098337280
+fiftyTwoWeekLow	62.89855
+fiftyTwoWeekHigh	132.5
+priceToSalesTrailing12Months	0.91645396
+fiftyDayAverage	94.14
+twoHundredDayAverage	80.314
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.03539823
+currency	TWD
+enterpriseValue	7855412736
+profitMargins	0.06929
+sharesOutstanding	120722000
+heldPercentInsiders	0.55979997
+heldPercentInstitutions	0.00637
+impliedSharesOutstanding	132071000
+bookValue	39.808
+priceToBook	2.7255828
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.36
+netIncomeToCommon	990345024
+trailingEps	9.52
+forwardEps	4.52
+lastSplitFactor	1035:1000
+lastSplitDate	1690416000	 (2023-07-27 08:00:00)
+enterpriseToRevenue	0.55
+enterpriseToEbitda	6.506
+52WeekChange	0.70664895
+SandP52WeekChange	0.26265144
+lastDividendValue	4.15
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2546.TW
+underlyingSymbol	2546.TW
+shortName	KEDGE CONSTRUCTION CO
+longName	Kedge Construction Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	089ab489-0a6d-329c-aae3-67d3b78ec04d
+messageBoardId	finmb_9829222
+gmtOffSetMilliseconds	28800000
+currentPrice	108.5
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	5365749248
+totalCashPerShare	44.447
+ebitda	1207460992
+totalDebt	122644000
+quickRatio	1.373
+currentRatio	1.558
+totalRevenue	14292411392
+debtToEquity	2.552
+revenuePerShare	118.391
+returnOnAssets	0.05998
+returnOnEquity	0.22027001
+freeCashflow	933572736
+operatingCashflow	1215476992
+earningsGrowth	-0.354
+revenueGrowth	-0.245
+grossMargins	0.105399996
+ebitdaMargins	0.08448
+operatingMargins	0.08841
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2022-12-31        2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0   -1493393.949604            0.0
+Tax Rate For Calcs                                               0.209565          0.197774       0.199117
+Normalized EBITDA                                            1347429000.0       951749000.0    797281000.0
+Total Unusual Items                                                   0.0        -7551000.0            0.0
+Total Unusual Items Excluding Goodwill                                0.0        -7551000.0            0.0
+Net Income From Continuing Operation Net Minority Interest   1047933000.0       740476000.0    626440000.0
+Reconciled Depreciation                                        17435000.0        19694000.0     12080000.0
+Reconciled Cost Of Revenue                                  12604056000.0      9580969000.0  13072318000.0
+EBITDA                                                       1347429000.0       944198000.0    797281000.0
+EBIT                                                         1329994000.0       924504000.0    785201000.0
+Net Interest Income                                            18649000.0         8578000.0      5271000.0
+Interest Expense                                                4223000.0         1457000.0      3009000.0
+Interest Income                                                22872000.0        10035000.0      8280000.0
+Normalized Income                                            1047933000.0  746533606.050396    626440000.0
+Net Income From Continuing And Discontinued Operation        1047933000.0       740476000.0    626440000.0
+Total Expenses                                              12922491000.0      9889106000.0  13360857000.0
+Rent Expense Supplemental                                       4775000.0         5189000.0      3466000.0
+Diluted Average Shares                                        122509845.0       121692195.0    121531459.0
+Basic Average Shares                                          120721365.0       120721365.0    120721986.0
+Diluted EPS                                                      8.550725          6.086957       5.155907
+Basic EPS                                                        8.676329          6.135266       5.191041
+Diluted NI Availto Com Stockholders                          1047933000.0       740476000.0    626440000.0
+Net Income Common Stockholders                               1047933000.0       740476000.0    626440000.0
+Otherunder Preferred Stock Dividend                                   0.0               0.0            0.0
+Net Income                                                   1047933000.0       740476000.0    626440000.0
+Minority Interests                                                -3000.0          -16000.0        -4000.0
+Net Income Including Noncontrolling Interests                1047936000.0       740492000.0    626444000.0
+Net Income Continuous Operations                             1047936000.0       740492000.0    626444000.0
+Tax Provision                                                 277835000.0       182555000.0    155748000.0
+Pretax Income                                                1325771000.0       923047000.0    782192000.0
+Other Non Operating Income Expenses                            25778000.0        44191000.0      7148000.0
+Special Income Charges                                                0.0        -7551000.0            0.0
+Write Off                                                             0.0         7551000.0            0.0
+Net Non Operating Interest Income Expense                      18649000.0         8578000.0      5271000.0
+Interest Expense Non Operating                                  4223000.0         1457000.0      3009000.0
+Interest Income Non Operating                                  22872000.0        10035000.0      8280000.0
+Operating Income                                             1282072000.0       883216000.0    769772000.0
+Operating Expense                                             318435000.0       308137000.0    288539000.0
+Selling General And Administration                            318435000.0       308137000.0    288539000.0
+General And Administrative Expense                            318435000.0       308137000.0    288539000.0
+Gross Profit                                                 1600507000.0      1191353000.0   1058311000.0
+Cost Of Revenue                                             12604056000.0      9580969000.0  13072318000.0
+Total Revenue                                               14204563000.0     10772322000.0  14130629000.0
+Operating Revenue                                           14204563000.0     10772322000.0  14130629000.0

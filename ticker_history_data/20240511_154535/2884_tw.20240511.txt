@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 115, Minsheng East Road
+address2	14th Floor and 1st Floor No. 117, Section 3
+city	Taipei
+zip	10546
+country	Taiwan
+phone	886 2 2175 1313
+website	https://www.esunfhc.com
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	E.SUN Financial Holding Company, Ltd. provides various financial banking products and services in Taiwan and internationally. It offers deposits and loans; bills/checks discounting, syndicated loans, domestic remittances, commercial acceptances, domestic letters of credit and guarantees, credit cards, and safe deposit boxes; and import and export negotiations, general inward and outward remittance, foreign currency deposits and loans, foreign currency guarantees, and exchange of foreign cash and traveler's checks. The company engages in the investment in securities, short-term bills broking, dealing, trading of financial derivatives, funds, insurance, and trust operations; and issuance of debentures, collection and payment of various bills, underwriting securities, and agent for services of the National Treasury Administration; and providing fiscal advisory services, dealing of corporate bonds and debentures, and electronic payment operations. In addition, the company involved in buying and selling securities, futures, warrants and options for clients, sub-brokerage of foreign securities, margin trading, electronic trading, and equity financing; advising companies to go public and undertake IPO/SPOs; and offering financial consultant services to implement business strategies; and trading securities with the firm's own money on the stock exchange, and futures and options. Further, the company invests in unlisted companies; assists transformation or restructuring of businesses; and provides industry information and help companies with fund-raising, M&As, strategic alliances, etc. Additionally, it involved in the retail sale of computer software; and provision of software design, data processing, digital information supply, business and security consultancy services, and real estate leasing and management services. The company was incorporated in 1992 and is based in Taipei, Taiwan.
+fullTimeEmployees	10157
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mao-Chin  Chen', 'title': 'President, Chief Strategy Officer & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fred  Chen', 'title': 'Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jhy-Hung  Ke', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jyh-Shing  Jang', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wan-Li  Hsieh', 'title': 'Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chiwei  Hsiao', 'title': 'VP & Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fion  Ouyang', 'title': 'Chief Compliance Officer & Head of Legal Compliance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Yu  Lin', 'title': 'Chief Marketing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jyh-Cherng  Wang', 'title': 'Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oliver  Hsieh', 'title': 'Chief Risk Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	27.9
+open	27.95
+dayLow	27.95
+dayHigh	28.5
+regularMarketPreviousClose	27.9
+regularMarketOpen	27.95
+regularMarketDayLow	27.95
+regularMarketDayHigh	28.5
+dividendRate	0.19
+dividendYield	0.0066000004
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.1353
+fiveYearAvgDividendYield	2.28
+beta	0.455
+trailingPE	20.357143
+forwardPE	18.269232
+volume	26292119
+regularMarketVolume	26292119
+averageVolume	25190779
+averageVolume10days	24751210
+averageDailyVolume10Day	24751210
+bid	28.45
+ask	28.5
+marketCap	446423990272
+fiftyTwoWeekLow	23.8
+fiftyTwoWeekHigh	28.5
+priceToSalesTrailing12Months	6.9753103
+fiftyDayAverage	26.77
+twoHundredDayAverage	25.3345
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.043010756
+currency	TWD
+enterpriseValue	427020976128
+profitMargins	0.33947
+floatShares	13787139520
+sharesOutstanding	15664000000
+heldPercentInsiders	0.05432
+heldPercentInstitutions	0.25256002
+impliedSharesOutstanding	15692900352
+bookValue	15.082
+priceToBook	1.8896698
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.422
+netIncomeToCommon	21726248960
+trailingEps	1.4
+forwardEps	1.56
+pegRatio	4.43
+lastSplitFactor	1037.8771:1000
+lastSplitDate	1690416000	 (2023-07-27 08:00:00)
+enterpriseToRevenue	6.672
+52WeekChange	0.16915
+SandP52WeekChange	0.26265144
+lastDividendValue	0.189386
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2884.TW
+underlyingSymbol	2884.TW
+shortName	E SUN FINANCIAL HOLDINGS
+longName	E.SUN Financial Holding Company, Ltd.
+firstTradeDateEpochUtc	1012266000	 (2002-01-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	292dfd5b-2fb1-3ffb-a54c-ef8e622cb029
+messageBoardId	finmb_8971546
+gmtOffSetMilliseconds	28800000
+currentPrice	28.5
+targetHighPrice	32.0
+targetLowPrice	22.3
+targetMeanPrice	26.37
+targetMedianPrice	26.2
+recommendationMean	2.8
+recommendationKey	hold
+numberOfAnalystOpinions	7
+totalCash	348332130304
+totalCashPerShare	22.238
+totalDebt	328752922624
+totalRevenue	64000589824
+revenuePerShare	4.157
+returnOnAssets	0.00611
+returnOnEquity	0.10033
+operatingCashflow	-93856948224
+earningsGrowth	0.369
+revenueGrowth	0.183
+operatingMargins	0.41022998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                     2371518.632366     -5570239.904612     -6059285.951729     -1941807.147437
+Tax Rate For Calcs                                                    0.179701            0.207095            0.140819            0.120864
+Total Unusual Items                                                 13197000.0         -26897000.0         -43029000.0         -16066000.0
+Total Unusual Items Excluding Goodwill                              13197000.0         -26897000.0         -43029000.0         -16066000.0
+Net Income From Continuing Operation Net Minority Interest       21726249000.0       15759000000.0       20558988000.0       18026592000.0
+Reconciled Depreciation                                           3889085000.0        3769340000.0        3592324000.0        3442951000.0
+Net Interest Income                                              29100179000.0       29618363000.0       25984324000.0       21338518000.0
+Interest Expense                                                 55336285000.0       24235627000.0        9497790000.0       14750803000.0
+Interest Income                                                  84436464000.0       53853990000.0       35482114000.0       36089321000.0
+Normalized Income                                           21715423518.632366  15780326760.095388  20595957714.048271  18040716192.852562
+Net Income From Continuing And Discontinued Operation            21726249000.0       15759000000.0       20558988000.0       18026592000.0
+Diluted Average Shares                                           15423261000.0       14834750000.0       14946421025.0       14924356213.0
+Basic Average Shares                                             15395397000.0       14811777000.0       14919307890.0       14896667427.0
+Diluted EPS                                                               1.41                1.06            1.375463            1.208081
+Basic EPS                                                                 1.41                1.06            1.375463            1.208081
+Diluted NI Availto Com Stockholders                              21726249000.0       15759000000.0       20558988000.0       18026592000.0
+Net Income Common Stockholders                                   21726249000.0       15759000000.0       20558988000.0       18026592000.0
+Net Income                                                       21726249000.0       15759000000.0       20558988000.0       18026592000.0
+Minority Interests                                                 -21518000.0         -22341000.0         -26515000.0         -21264000.0
+Net Income Including Noncontrolling Interests                    21747767000.0       15781341000.0       20585503000.0       18047856000.0
+Net Income Continuous Operations                                 21747767000.0       15781341000.0       20585503000.0       18047856000.0
+Tax Provision                                                     4764244000.0        4121857000.0        3373936000.0        2481236000.0
+Pretax Income                                                    26512011000.0       19903198000.0       23959439000.0       20529092000.0
+Special Income Charges                                              13197000.0         -26897000.0         -43029000.0         -16066000.0
+Write Off                                                          -13197000.0          26897000.0          43029000.0          16066000.0
+Gain On Sale Of Security                                         15675202000.0        4840025000.0        9559126000.0       14256205000.0
+Operating Expense                                                37305148000.0       32634581000.0       31541975000.0       32105783000.0
+Other Operating Expenses                                          -196628000.0        -191599000.0        -266423000.0        -388417000.0
+Depreciation And Amortization In Income Statement                 3889085000.0        3769340000.0        3592324000.0        3442951000.0
+Depreciation Income Statement                                     3889085000.0        3769340000.0        3592324000.0        3442951000.0
+Selling General And Administration                               17068434000.0       14746209000.0       13485365000.0       14834968000.0
+General And Administrative Expense                               17068434000.0       14746209000.0       13485365000.0       14834968000.0
+Total Revenue                                                    66485746000.0       54641217000.0       57674046000.0       55876693000.0
+Operating Revenue                                                66485746000.0       54641217000.0       57674046000.0       55876693000.0

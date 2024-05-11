@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No.550, Zhongxiao East Road
+address2	8th Floor Sec. 4 Xinyi Dist.
+city	Taipei
+zip	110
+country	Taiwan
+phone	886 2 2345 5588
+fax	886 2 2345 5590
+website	https://www.makalot.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Makalot Industrial Co., Ltd. engages in the design, manufacture, and sale of garments for men, women, and children in Taiwan. It offers trousers and shorts, T-shirts, dresses, shirts, pajamas and underwear, sportswear, skirts, vests, knitwear, and jackets. The company was incorporated in 1990 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsin-Peng  Chou', 'title': 'President, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Ching  Huang', 'title': 'VP of General Administration Office, Corporate MIS Div., Finance & Accounting and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Lieu', 'title': 'Chief Marketing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huang-Ching  Ho', 'title': 'Consultant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Jen  Huang', 'title': 'Senior Consultant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chiu-Ling  Chou', 'title': 'Senior Consultant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Lung  Chen', 'title': 'Executive Officer of Manufacturing RD Group, VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien  Wang', 'title': 'Senior Consultant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Feng  Sung', 'title': 'VP of Business Division I/ Business Div.V & Marketing Development Div. and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hong Ren Huang', 'title': 'President of the Shanghai Office & the China Market', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.makalot.com.tw/eng/investors_4_1.aspx
+maxAge	86400
+priceHint	2
+previousClose	387.5
+open	387.5
+dayLow	379.5
+dayHigh	387.5
+regularMarketPreviousClose	387.5
+regularMarketOpen	387.5
+regularMarketDayLow	379.5
+regularMarketDayHigh	387.5
+dividendRate	16.4
+dividendYield	0.0416
+exDividendDate	1711584000	 (2024-03-28 08:00:00)
+payoutRatio	0.8825
+fiveYearAvgDividendYield	4.1
+beta	0.845
+trailingPE	23.128424
+forwardPE	18.62745
+volume	1246811
+regularMarketVolume	1246811
+averageVolume	1657757
+averageVolume10days	1371490
+averageDailyVolume10Day	1371490
+bid	380.5
+ask	380.0
+marketCap	91905654784
+fiftyTwoWeekLow	214.0
+fiftyTwoWeekHigh	412.0
+priceToSalesTrailing12Months	2.8314621
+fiftyDayAverage	383.18
+twoHundredDayAverage	357.3125
+trailingAnnualDividendRate	16.4
+trailingAnnualDividendYield	0.04232258
+currency	TWD
+enterpriseValue	86883614720
+profitMargins	0.122959994
+floatShares	217755950
+sharesOutstanding	241856992
+heldPercentInsiders	0.05809
+heldPercentInstitutions	0.41984
+impliedSharesOutstanding	245867008
+bookValue	65.408
+priceToBook	5.809687
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.178
+netIncomeToCommon	3991194112
+trailingEps	16.43
+forwardEps	20.4
+pegRatio	1.73
+lastSplitFactor	1050:1000
+lastSplitDate	1563753600	 (2019-07-22 08:00:00)
+enterpriseToRevenue	2.677
+enterpriseToEbitda	16.557
+52WeekChange	0.66301966
+SandP52WeekChange	0.26265144
+lastDividendValue	16.4
+lastDividendDate	1711584000	 (2024-03-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1477.TW
+underlyingSymbol	1477.TW
+shortName	MAKALOT INDUSTRIAL CO
+longName	Makalot Industrial Co., Ltd.
+firstTradeDateEpochUtc	1043197200	 (2003-01-22 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	568ec9da-73f4-3a01-ba0c-f04a3e153535
+messageBoardId	finmb_5576958
+gmtOffSetMilliseconds	28800000
+currentPrice	380.0
+targetHighPrice	530.0
+targetLowPrice	360.0
+targetMeanPrice	441.08
+targetMedianPrice	432.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	13
+totalCash	8052281856
+totalCashPerShare	33.294
+ebitda	5247461888
+totalDebt	1713395968
+quickRatio	1.546
+currentRatio	2.142
+totalRevenue	32458725376
+debtToEquity	10.758
+revenuePerShare	134.206
+returnOnAssets	0.122700006
+returnOnEquity	0.25724
+freeCashflow	4295465984
+operatingCashflow	5785049088
+earningsGrowth	0.178
+revenueGrowth	0.104
+grossMargins	0.25775
+ebitdaMargins	0.16167
+operatingMargins	0.14275
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -1236176.161745     -117490.623448     4873776.921148    -7266859.043728
+Tax Rate For Calcs                                                   0.197409           0.228581           0.211876           0.234794
+Normalized EBITDA                                                5858749000.0       5350040000.0       3996414000.0       3345836000.0
+Total Unusual Items                                                -6262000.0          -514000.0         23003000.0        -30950000.0
+Total Unusual Items Excluding Goodwill                             -6262000.0          -514000.0         23003000.0        -30950000.0
+Net Income From Continuing Operation Net Minority Interest       3991194000.0       3514605000.0       2655010000.0       2056437000.0
+Reconciled Depreciation                                           547887000.0        562305000.0        530403000.0        534418000.0
+Reconciled Cost Of Revenue                                      24092380000.0      23826844000.0      22395751000.0      19352764000.0
+EBITDA                                                           5852487000.0       5349526000.0       4019417000.0       3314886000.0
+EBIT                                                             5304600000.0       4787221000.0       3489014000.0       2780468000.0
+Net Interest Income                                              -188520000.0       -155482000.0        -73540000.0        -48090000.0
+Interest Expense                                                  277118000.0        198274000.0         90682000.0         63668000.0
+Interest Income                                                    88598000.0         42792000.0         17142000.0         15578000.0
+Normalized Income                                           3996219823.838255  3515001509.376552  2636880776.921148  2080120140.956272
+Net Income From Continuing And Discontinued Operation            3991194000.0       3514605000.0       2655010000.0       2056437000.0
+Total Expenses                                                  27612776000.0      27650477000.0      25572388000.0      22227462000.0
+Diluted Average Shares                                                    NaN        243225260.0        238094000.0        221047000.0
+Basic Average Shares                                                      NaN        241886098.0        237155000.0        219857000.0
+Diluted EPS                                                               NaN              14.45              11.15                9.3
+Basic EPS                                                                 NaN              14.53               11.2               9.35
+Diluted NI Availto Com Stockholders                              3991194000.0       3514605000.0       2655010000.0       2056437000.0
+Net Income Common Stockholders                                   3991194000.0       3514605000.0       2655010000.0       2056437000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       3991194000.0       3514605000.0       2655010000.0       2056437000.0
+Minority Interests                                                -43817000.0        -25396000.0        -23298000.0        -22476000.0
+Net Income Including Noncontrolling Interests                    4035011000.0       3540001000.0       2678308000.0       2078913000.0
+Net Income Continuous Operations                                 4035011000.0       3540001000.0       2678308000.0       2078913000.0
+Tax Provision                                                     992471000.0       1048946000.0        720024000.0        637887000.0
+Pretax Income                                                    5027482000.0       4588947000.0       3398332000.0       2716800000.0
+Other Non Operating Income Expenses                               289019000.0        281603000.0         52027000.0         58799000.0
+Special Income Charges                                             -6262000.0          -514000.0         23003000.0        -30950000.0
+Write Off                                                           6262000.0           514000.0        -23003000.0         30950000.0
+Net Non Operating Interest Income Expense                        -188520000.0       -155482000.0        -73540000.0        -48090000.0
+Interest Expense Non Operating                                    277118000.0        198274000.0         90682000.0         63668000.0
+Interest Income Non Operating                                      88598000.0         42792000.0         17142000.0         15578000.0
+Operating Income                                                 4845950000.0       4432440000.0       3358117000.0       2696708000.0
+Operating Expense                                                3520396000.0       3823633000.0       3176637000.0       2874698000.0
+Selling General And Administration                               3520396000.0       3823633000.0       3176637000.0       2874698000.0
+Selling And Marketing Expense                                    1848699000.0       2038445000.0       1667000000.0       1525357000.0
+General And Administrative Expense                               1671697000.0       1785188000.0       1509637000.0       1349341000.0
+Gross Profit                                                     8366346000.0       8256073000.0       6534754000.0       5571406000.0
+Cost Of Revenue                                                 24092380000.0      23826844000.0      22395751000.0      19352764000.0
+Total Revenue                                                   32458726000.0      32082917000.0      28930505000.0      24924170000.0
+Operating Revenue                                               32458726000.0      32082917000.0      28930505000.0      24924170000.0

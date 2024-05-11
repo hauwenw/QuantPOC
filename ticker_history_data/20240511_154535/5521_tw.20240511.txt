@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No.102, Civic Boulevard
+address2	8th Floor Sec. 4 Da'an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2751 4188
+website	https://www.kseco.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kung Sing Engineering Corporation, together with its subsidiaries, engages in the construction business in Taiwan. Its projects include bridges, residential buildings, airports, roads, subways, tunnels, and railways. The company develops houses and buildings, as well as provides repairing of roads and bridges services. In addition, it is involved in dredging, rust-protection, drilling, waste disposal, and fitting out work services. Further, the company engages in window and door installation, interior decoration, light steel frame works, glass installation, kitchenware, bathroom equipment, and painting work services. Additionally, it provides water, piping, electrical, air conditioning, and fire equipment related services. Furthermore, the company is involved in civil projects, residence and factory lease, community development, land levy, real estate trading and rental services. It also engages in cement and concrete product, rail vehicle and transportation accessories business, as well as construction material, machine, and equipment sales. The company was incorporated in 1941 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chi-Ching  Chiang', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 3614000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Wang  Huang', 'title': 'Manager of Finance Department', 'fiscalYear': 2021, 'totalPay': 1848000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shu-Chiao  Wen', 'title': 'Accounting Supervisor', 'fiscalYear': 2021, 'totalPay': 1092000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Ching  Liu', 'title': 'Vice General Manager', 'fiscalYear': 2021, 'totalPay': 2202000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	13.85
+open	14.05
+dayLow	13.65
+dayHigh	14.05
+regularMarketPreviousClose	13.85
+regularMarketOpen	14.05
+regularMarketDayLow	13.65
+regularMarketDayHigh	14.05
+exDividendDate	1630972800	 (2021-09-07 08:00:00)
+beta	0.491
+trailingPE	97.85714
+volume	8005130
+regularMarketVolume	8005130
+averageVolume	16280586
+averageVolume10days	18373509
+averageDailyVolume10Day	18373509
+bid	13.7
+ask	13.75
+marketCap	6744236032
+fiftyTwoWeekLow	7.0
+fiftyTwoWeekHigh	15.95
+priceToSalesTrailing12Months	1.2615194
+fiftyDayAverage	13.67
+twoHundredDayAverage	11.18955
+currency	TWD
+enterpriseValue	6252302848
+profitMargins	0.0125899995
+sharesOutstanding	492280000
+heldPercentInsiders	0.32347
+heldPercentInstitutions	0.022750001
+impliedSharesOutstanding	497425984
+bookValue	10.97
+priceToBook	1.2488605
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.298
+netIncomeToCommon	67324000
+trailingEps	0.14
+lastSplitFactor	1100:1000
+lastSplitDate	1630972800	 (2021-09-07 08:00:00)
+enterpriseToRevenue	1.17
+enterpriseToEbitda	83.662
+52WeekChange	0.8266667
+SandP52WeekChange	0.26265144
+lastDividendValue	0.13
+lastDividendDate	1630972800	 (2021-09-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5521.TW
+underlyingSymbol	5521.TW
+shortName	KUNG SING ENGINEERING
+longName	Kung Sing Engineering Corporation
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d1201914-585c-3085-9234-5abc48fd481b
+messageBoardId	finmb_9754581
+gmtOffSetMilliseconds	28800000
+currentPrice	13.7
+recommendationKey	none
+totalCash	1485074944
+totalCashPerShare	3.017
+ebitda	74733000
+totalDebt	993142016
+quickRatio	1.242
+currentRatio	2.439
+totalRevenue	5346121216
+debtToEquity	18.391
+revenuePerShare	10.86
+returnOnAssets	0.00348
+returnOnEquity	0.0126
+freeCashflow	-802614016
+operatingCashflow	132527000
+earningsGrowth	-0.311
+revenueGrowth	0.362
+grossMargins	0.059380002
+ebitdaMargins	0.01398
+operatingMargins	0.015859999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31    2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -3566959.353756    -2840000.0   -12333800.0   -28206079.235991
+Tax Rate For Calcs                                                  0.042524           0.2           0.2           0.054544
+Normalized EBITDA                                                224337000.0   121058000.0   179343000.0       1661490000.0
+Total Unusual Items                                              -83882000.0   -14200000.0   -61669000.0       -517121000.0
+Total Unusual Items Excluding Goodwill                           -83882000.0   -14200000.0   -61669000.0       -517121000.0
+Net Income From Continuing Operation Net Minority Interest        67324000.0    10762000.0    35181000.0       1009573000.0
+Reconciled Depreciation                                           53693000.0    38748000.0    32851000.0         34597000.0
+Reconciled Cost Of Revenue                                      5028658000.0  4405589000.0  3299148000.0       5268115000.0
+EBITDA                                                           140455000.0   106858000.0   117674000.0       1144369000.0
+EBIT                                                              86762000.0    68110000.0    84823000.0       1109772000.0
+Net Interest Income                                                4266000.0    21659000.0    -4558000.0        -24179000.0
+Interest Expense                                                  16448000.0    10298000.0     6557000.0         44549000.0
+Interest Income                                                   20714000.0    31957000.0     1999000.0         20370000.0
+Normalized Income                                           147639040.646244    22122000.0    84516200.0  1498487920.764009
+Net Income From Continuing And Discontinued Operation             67324000.0    10762000.0    35181000.0       1009573000.0
+Total Expenses                                                  5217551000.0  4581225000.0  3474739000.0       5493541000.0
+Diluted Average Shares                                                   NaN   492802000.0   493126000.0        494711000.0
+Basic Average Shares                                                     NaN   492280000.0   492280000.0        492280000.0
+Diluted EPS                                                              NaN          0.02          0.07               2.04
+Basic EPS                                                                NaN          0.02          0.07               2.05
+Diluted NI Availto Com Stockholders                               67324000.0    10762000.0    35181000.0       1009573000.0
+Net Income Common Stockholders                                    67324000.0    10762000.0    35181000.0       1009573000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0           0.0                0.0
+Net Income                                                        67324000.0    10762000.0    35181000.0       1009573000.0
+Minority Interests                                                       NaN           0.0      894000.0          2452000.0
+Net Income Including Noncontrolling Interests                     67324000.0    10762000.0    34287000.0       1007121000.0
+Net Income Continuous Operations                                  67324000.0    10762000.0    34287000.0       1007121000.0
+Tax Provision                                                      2990000.0    47050000.0    43979000.0         58102000.0
+Pretax Income                                                     70314000.0    57812000.0    78266000.0       1065223000.0
+Other Non Operating Income Expenses                               21360000.0     6064000.0    12162000.0        -59666000.0
+Special Income Charges                                           -83882000.0   -14200000.0   -61669000.0       -517121000.0
+Write Off                                                         83882000.0    14200000.0    61669000.0        517121000.0
+Net Non Operating Interest Income Expense                          4266000.0    21659000.0    -4558000.0        -24179000.0
+Interest Expense Non Operating                                    16448000.0    10298000.0     6557000.0         44549000.0
+Interest Income Non Operating                                     20714000.0    31957000.0     1999000.0         20370000.0
+Operating Income                                                 128570000.0    44289000.0   132331000.0       1666189000.0
+Operating Expense                                                188893000.0   175636000.0   175591000.0        225426000.0
+Selling General And Administration                               188893000.0   175636000.0   175591000.0        225426000.0
+Selling And Marketing Expense                                      1417000.0     2020000.0     2057000.0          2212000.0
+General And Administrative Expense                               187476000.0   173616000.0   173534000.0        223214000.0
+Gross Profit                                                     317463000.0   219925000.0   307922000.0       1891615000.0
+Cost Of Revenue                                                 5028658000.0  4405589000.0  3299148000.0       5268115000.0
+Total Revenue                                                   5346121000.0  4625514000.0  3607070000.0       7159730000.0
+Operating Revenue                                               5346121000.0  4625514000.0  3607070000.0       7159730000.0

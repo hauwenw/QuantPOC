@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 88, Xintai 5th Road
+address2	8th Floor Sec. 1 Xizhi District
+city	New Taipei City
+zip	221
+country	Taiwan
+phone	886 2 2696 1234
+website	https://www.acer-group.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Acer Incorporated researches, designs, markets, and services personal computers (PCs), information technology (IT) products, and tablet products in the United States, Mainland China, Taiwan, and internationally. The company offers notebook and desktop PCs; LCD monitors; projectors; gaming and esports platform; gadgets; servers; cloud and E-business and services; and commercial and digital signage solutions, cyber security and datacenter, mobility, home appliances, beverages, and AI media. It also provides electronic information, insurance captive, cloud technology, system development and integration; intelligent transportation and electronic ticketing programs and services; and investment funds. In addition, the company repairs and maintains IT products; researches, designs, and develops Internet of Things platform; sells communication products, computer, apparatus system, and peripheral equipment; develops Internet of Beings and cloud technology; and integrates cloud technology, software, and hardware. Further, it researches, develops, and sells batteries and smart bicycle speedometers; sells commercial and cloud application software and services; and designs, develops, and sells computer software and hardware, as well as provides B2B virtual reality and advisory related services. Additionally, the company engages in solar optronics business; trading and distribution of synthetic and natural rubber, plastic resins, and related fillers; agency of video game console and peripherals; hotel management services; property management business; operates and maintains eSports platform; and human resources and project service, as well as provides intelligent medical examination and data interpretation analysis, medical big data, and health management and related information exchange services. It also sells health supplements and manufactures lithium batteries. Acer Incorporated was incorporated in 1976 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chun Shen  Chen', 'age': 62, 'title': 'Chairman & CEO', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zenrong  Shih Ph.D.', 'age': 79, 'title': 'Co-founder and Honorary Chairman', 'yearBorn': 1944, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meggy  Chen', 'age': 60, 'title': 'Corporate Chief Financial Officer', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shuguo  Kao', 'age': 54, 'title': 'Chief Operating Officer & President of IT Products Business', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Ling  Chen', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lydia  Wu', 'title': 'General Counsel & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Emmanuel  Fromont', 'title': 'Corporate VP & President of EMEA Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andrew  Hou', 'title': 'President of Pan-Asia Pacific Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Chien', 'title': 'President & Head of RD', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Connie  Lee', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	47.35
+open	48.0
+dayLow	47.1
+dayHigh	48.15
+regularMarketPreviousClose	47.35
+regularMarketOpen	48.0
+regularMarketDayLow	47.1
+regularMarketDayHigh	48.15
+dividendRate	1.6
+dividendYield	0.0335
+exDividendDate	1718841600	 (2024-06-20 08:00:00)
+payoutRatio	0.8021
+fiveYearAvgDividendYield	5.21
+beta	0.753
+trailingPE	25.561497
+forwardPE	21.339285
+volume	31193852
+regularMarketVolume	31193852
+averageVolume	39151462
+averageVolume10days	25678704
+averageDailyVolume10Day	25678704
+bid	47.8
+ask	47.5
+marketCap	143696838656
+fiftyTwoWeekLow	29.35
+fiftyTwoWeekHigh	56.3
+priceToSalesTrailing12Months	0.59549105
+fiftyDayAverage	45.972
+twoHundredDayAverage	41.27225
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.03379092
+currency	TWD
+enterpriseValue	108438265856
+profitMargins	0.02044
+floatShares	2864495355
+sharesOutstanding	3006210048
+heldPercentInsiders	0.03897
+heldPercentInstitutions	0.26977
+impliedSharesOutstanding	3028519936
+bookValue	24.857
+priceToBook	1.9229995
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	4931943936
+trailingEps	1.87
+forwardEps	2.24
+pegRatio	1.86
+lastSplitFactor	1001:1000
+lastSplitDate	1279497600	 (2010-07-19 08:00:00)
+enterpriseToRevenue	0.449
+enterpriseToEbitda	21.556
+52WeekChange	0.6148648
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1719273600	 (2024-06-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2353.TW
+underlyingSymbol	2353.TW
+shortName	ACER INC
+longName	Acer Incorporated
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3f418f46-579d-3207-8817-26668ffe6e3e
+messageBoardId	finmb_877313
+gmtOffSetMilliseconds	28800000
+currentPrice	47.8
+targetHighPrice	49.8
+targetLowPrice	24.8
+targetMeanPrice	33.94
+targetMedianPrice	31.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	7
+totalCash	55554936832
+totalCashPerShare	18.48
+ebitda	5030606848
+totalDebt	14680916992
+quickRatio	1.043
+currentRatio	1.47
+totalRevenue	241308139520
+debtToEquity	18.273
+revenuePerShare	80.405
+returnOnAssets	0.01328
+returnOnEquity	0.0747
+freeCashflow	8308564992
+operatingCashflow	12683540480
+revenueGrowth	0.055
+grossMargins	0.10701
+ebitdaMargins	0.02085
+operatingMargins	0.022090001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                0.277944        0.288364         0.26875        0.309878
+Normalized EBITDA                                             9858455000.0    9758203000.0   17287552000.0   10712152000.0
+Net Income From Continuing Operation Net Minority Interest    4931944000.0    5003688000.0   10897427000.0    6029287000.0
+Reconciled Depreciation                                       1776182000.0    1690698000.0    1515230000.0    1651748000.0
+Reconciled Cost Of Revenue                                  215484917000.0  245679257000.0  281814400000.0  246992862000.0
+EBITDA                                                        9858455000.0    9758203000.0   17287552000.0   10712152000.0
+EBIT                                                          8082273000.0    8067505000.0   15772322000.0    9060404000.0
+Net Interest Income                                           1776217000.0     342062000.0     -17732000.0     160159000.0
+Interest Expense                                               283478000.0     193684000.0     336677000.0     155301000.0
+Interest Income                                               2059695000.0     535746000.0     318945000.0     315460000.0
+Normalized Income                                             4931944000.0    5003688000.0   10897427000.0    6029287000.0
+Net Income From Continuing And Discontinued Operation         4931944000.0    5003688000.0   10897427000.0    6029287000.0
+Total Expenses                                              237082731000.0  268496047000.0  304842595000.0  268176639000.0
+Diluted Average Shares                                        3013657000.0    3026303000.0    3028288000.0    3029394000.0
+Basic Average Shares                                          3001145000.0    3001108000.0    3001108000.0    3006934000.0
+Diluted EPS                                                           1.64            1.65             3.6            1.99
+Basic EPS                                                             1.64            1.67            3.63            2.01
+Diluted NI Availto Com Stockholders                           4931944000.0    5003688000.0   10897427000.0    6029287000.0
+Net Income Common Stockholders                                4931944000.0    5003688000.0   10897427000.0    6029287000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0             0.0
+Net Income                                                    4931944000.0    5003688000.0   10897427000.0    6029287000.0
+Minority Interests                                            -699220000.0    -599604000.0    -389886000.0    -116323000.0
+Net Income Including Noncontrolling Interests                 5631164000.0    5603292000.0   11287313000.0    6145610000.0
+Net Income Continuous Operations                              5631164000.0    5603292000.0   11287313000.0    6145610000.0
+Tax Provision                                                 2167631000.0    2270529000.0    4148332000.0    2759493000.0
+Pretax Income                                                 7798795000.0    7873821000.0   15435645000.0    8905103000.0
+Other Non Operating Income Expenses                           1750332000.0     483239000.0    1222089000.0    -194406000.0
+Net Non Operating Interest Income Expense                     1776217000.0     342062000.0     -17732000.0     160159000.0
+Interest Expense Non Operating                                 283478000.0     193684000.0     336677000.0     155301000.0
+Interest Income Non Operating                                 2059695000.0     535746000.0     318945000.0     315460000.0
+Operating Income                                              4225411000.0    6927697000.0   14162861000.0    8935838000.0
+Operating Expense                                            21597814000.0   22816790000.0   23028195000.0   21183777000.0
+Other Operating Expenses                                       -60032000.0    -138073000.0    -112279000.0    -228773000.0
+Research And Development                                      2118397000.0    2448843000.0    2646170000.0    2382649000.0
+Selling General And Administration                           19539449000.0   20506020000.0   20494304000.0   19029901000.0
+Selling And Marketing Expense                                14204313000.0   15679457000.0   15492033000.0   14397099000.0
+General And Administrative Expense                            5335136000.0    4826563000.0    5002271000.0    4632802000.0
+Gross Profit                                                 25823225000.0   29744487000.0   37191056000.0   30119615000.0
+Cost Of Revenue                                             215484917000.0  245679257000.0  281814400000.0  246992862000.0
+Total Revenue                                               241308142000.0  275423744000.0  319005456000.0  277112477000.0
+Operating Revenue                                           241308142000.0  275423744000.0  319005456000.0  277112477000.0

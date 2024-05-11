@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre
+address2	Oleander Way 802, West Bay Road PO Box 32052
+city	Grand Cayman
+zip	KY1-1208
+country	Cayman Islands
+website	https://www.engley.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Cayman Engley Industrial Co., Ltd. produces and sells automobile parts in China and internationally. The company offers stamping products, hot-pressed products, mold designs, and manufacturing and related technical consulting services. It also engages in the development and manufacture of soft robot software; and general investment activities. Cayman Engley Industrial Co., Ltd. was founded in 1991 and is based in Grand Cayman, Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shang-Chi  Lin', 'age': 42, 'title': 'General Manager', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sheng Wen Huang', 'title': 'Financial Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	60.0
+open	59.7
+dayLow	59.4
+dayHigh	60.0
+regularMarketPreviousClose	60.0
+regularMarketOpen	59.7
+regularMarketDayLow	59.4
+regularMarketDayHigh	60.0
+dividendRate	0.46
+dividendYield	0.0077
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.21040002
+beta	0.975
+trailingPE	27.227272
+forwardPE	7.8403144
+volume	33000
+regularMarketVolume	33000
+averageVolume	74713
+averageVolume10days	67800
+averageDailyVolume10Day	67800
+bid	59.8
+ask	59.9
+marketCap	7208186368
+fiftyTwoWeekLow	54.5
+fiftyTwoWeekHigh	85.3
+priceToSalesTrailing12Months	0.297005
+fiftyDayAverage	58.09
+twoHundredDayAverage	59.4725
+trailingAnnualDividendRate	0.66
+trailingAnnualDividendYield	0.011000001
+currency	TWD
+enterpriseValue	20627306496
+profitMargins	0.00695
+sharesOutstanding	120337000
+heldPercentInsiders	0.67168
+heldPercentInstitutions	0.021070002
+impliedSharesOutstanding	120754000
+bookValue	98.129
+priceToBook	0.610421
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.194
+netIncomeToCommon	168694000
+trailingEps	2.2
+forwardEps	7.64
+enterpriseToRevenue	0.85
+enterpriseToEbitda	9.328
+52WeekChange	-0.1715076
+SandP52WeekChange	0.26265144
+lastDividendValue	0.462969
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2239.TW
+underlyingSymbol	2239.TW
+shortName	CAYMAN ENGLEY INDUSTRIAL CO. LT
+longName	Cayman Engley Industrial Co., Ltd.
+firstTradeDateEpochUtc	1442278800	 (2015-09-15 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2480b583-6092-33f5-b8c1-f2bf21f498ae
+messageBoardId	finmb_290587543
+gmtOffSetMilliseconds	28800000
+currentPrice	59.9
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	5858548224
+totalCashPerShare	48.685
+ebitda	2211377920
+totalDebt	13776971776
+quickRatio	0.67
+currentRatio	1.287
+totalRevenue	24269578240
+debtToEquity	79.593
+revenuePerShare	203.037
+returnOnAssets	0.010190001
+returnOnEquity	0.01512
+freeCashflow	185691376
+operatingCashflow	1608018944
+earningsGrowth	-0.174
+revenueGrowth	-0.038
+grossMargins	0.12925
+ebitdaMargins	0.091120005
+operatingMargins	0.03533
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     5359250.0  -10510057.338692    2028303.305326   -9523112.255902
+Tax Rate For Calcs                                                   0.25          0.238637          0.156638          0.173482
+Normalized EBITDA                                            2585626000.0      2117367000.0      2969139000.0      2716899000.0
+Total Unusual Items                                            21437000.0       -44042000.0        12949000.0       -54894000.0
+Total Unusual Items Excluding Goodwill                         21437000.0       -44042000.0        12949000.0       -54894000.0
+Net Income From Continuing Operation Net Minority Interest    168694000.0       139495000.0       665268000.0       480621000.0
+Reconciled Depreciation                                      1850958000.0      1646147000.0      1630100000.0      1392830000.0
+Reconciled Cost Of Revenue                                  21132784000.0     20379205000.0     17278161000.0     18187450000.0
+EBITDA                                                       2607063000.0      2073325000.0      2982088000.0      2662005000.0
+EBIT                                                          756105000.0       427178000.0      1351988000.0      1269175000.0
+Net Interest Income                                          -265241000.0      -133704000.0      -157433000.0      -258000000.0
+Interest Expense                                              315142000.0       166900000.0       189440000.0       270448000.0
+Interest Income                                                49901000.0        33196000.0        32007000.0        12448000.0
+Normalized Income                                             152616250.0  173026942.661308  654347303.305326  525991887.744098
+Net Income From Continuing And Discontinued Operation         168694000.0       139495000.0       665268000.0       480621000.0
+Total Expenses                                              23682752000.0     22720595000.0     19614109000.0     20320250000.0
+Diluted Average Shares                                        125829000.0       125827000.0       120084477.0       120584000.0
+Basic Average Shares                                          119533000.0       118209000.0       117955319.0       118007000.0
+Diluted EPS                                                          1.38              1.16              5.54              4.03
+Basic EPS                                                            1.41              1.18              5.64              4.07
+Diluted NI Availto Com Stockholders                           168694000.0       139495000.0       665268000.0       480621000.0
+Net Income Common Stockholders                                168694000.0       139495000.0       665268000.0       480621000.0
+Otherunder Preferred Stock Dividend                                   0.0               0.0               0.0               0.0
+Net Income                                                    168694000.0       139495000.0       665268000.0       480621000.0
+Minority Interests                                            -77522000.0       -58671000.0      -315181000.0      -344845000.0
+Net Income Including Noncontrolling Interests                 246216000.0       198166000.0       980449000.0       825466000.0
+Net Income Continuous Operations                              246216000.0       198166000.0       980449000.0       825466000.0
+Tax Provision                                                 194747000.0        62112000.0       182099000.0       173261000.0
+Pretax Income                                                 440963000.0       260278000.0      1162548000.0       998727000.0
+Other Non Operating Income Expenses                            25665000.0       272246000.0       634530000.0        43564000.0
+Special Income Charges                                         21437000.0       -44042000.0        12949000.0       -54894000.0
+Write Off                                                     -21437000.0        44042000.0       -12949000.0        54894000.0
+Net Non Operating Interest Income Expense                    -265241000.0      -133704000.0      -157433000.0      -258000000.0
+Interest Expense Non Operating                                315142000.0       166900000.0       189440000.0       270448000.0
+Interest Income Non Operating                                  49901000.0        33196000.0        32007000.0        12448000.0
+Operating Income                                              586827000.0        59838000.0       663104000.0      1323902000.0
+Operating Expense                                            2549968000.0      2341390000.0      2335948000.0      2132800000.0
+Research And Development                                      956645000.0       909651000.0       868489000.0       745575000.0
+Selling General And Administration                           1593323000.0      1431739000.0      1467459000.0      1387225000.0
+Selling And Marketing Expense                                 502946000.0       450074000.0       449373000.0       472782000.0
+General And Administrative Expense                           1090377000.0       981665000.0      1018086000.0       914443000.0
+Gross Profit                                                 3136795000.0      2401228000.0      2999052000.0      3456702000.0
+Cost Of Revenue                                             21132784000.0     20379205000.0     17278161000.0     18187450000.0
+Total Revenue                                               24269579000.0     22780433000.0     20277213000.0     21644152000.0
+Operating Revenue                                           24269579000.0     22780433000.0     20277213000.0     21644152000.0

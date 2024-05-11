@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No.100, Guanghua Street
+address2	Ji¡¦an Township
+city	Hualien City
+zip	97313
+country	Taiwan
+phone	886 3 842 1458
+fax	886 3 842 2843
+website	https://www.chp.com.tw
+industry	Paper & Paper Products
+industryKey	paper-paper-products
+industryDisp	Paper & Paper Products
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chung Hwa Pulp Corporation manufactures, sells, and distributes pulp, paper, paperboard, chemical products, and fertilizers in Taiwan and Mainland China. It operates in two segments, Pulp and Fine Paper, and Forestry. The company involved in the seedling cultivation and reforestation activities; sale and print of paper merchandise; retail sale of food products and groceries; special crop and edible fungus cultivation business; refractory materials, cement, and ready-mixed concrete products manufacturing; and refractory materials wholesale and sale of building materials. It also trades in paper products, as well as cargo and technic import and export business; engages in the environment equipment technology research and development; constructs wastewater, flue gas, noise and solid waste treatment, and pure water projects; and provides environment technology consulting services, as well as sells environment equipment and chemical raw materials. The company was incorporated in 1968 and is headquartered in Hualien City, Taiwan. Chung Hwa Pulp Corporation is a subsidiary of YFY Inc.
+fullTimeEmployees	2866
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ray  Chen', 'title': 'President & Director', 'fiscalYear': 2020, 'totalPay': 4015000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guu-Fong  Lin', 'title': 'CFO & Director', 'fiscalYear': 2020, 'totalPay': 4505000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rong-Ming  Lin', 'title': 'Executive Vice President of Cellulosic Materials Division', 'fiscalYear': 2020, 'totalPay': 3303000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung-Min  Huang', 'title': 'Accounting Manager', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yoshihiro  Akiyama', 'title': 'Chief Technical Officer of Special Materials Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wu  Casper', 'title': 'Chief Information Security Officer', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Lin', 'title': 'Finance Manager, Company Secretary & Corporate Governance Manager', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	22.65
+open	22.85
+dayLow	22.55
+dayHigh	22.85
+regularMarketPreviousClose	22.65
+regularMarketOpen	22.85
+regularMarketDayLow	22.55
+regularMarketDayHigh	22.85
+dividendRate	0.3
+dividendYield	0.013200001
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	1.3528999
+fiveYearAvgDividendYield	4.03
+beta	0.973
+forwardPE	760.0
+volume	2486376
+regularMarketVolume	2486376
+averageVolume	4485966
+averageVolume10days	6972911
+averageDailyVolume10Day	6972911
+bid	22.75
+ask	22.8
+marketCap	24781090816
+fiftyTwoWeekLow	20.4
+fiftyTwoWeekHigh	33.9
+priceToSalesTrailing12Months	1.1825606
+fiftyDayAverage	22.949
+twoHundredDayAverage	23.03175
+currency	TWD
+enterpriseValue	36109639680
+profitMargins	-0.02736
+floatShares	348174663
+sharesOutstanding	1086889984
+heldPercentInsiders	0.66984004
+heldPercentInstitutions	0.027490001
+impliedSharesOutstanding	1125280000
+bookValue	13.953
+priceToBook	1.6340572
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.793
+netIncomeToCommon	-573395008
+trailingEps	-0.53
+forwardEps	0.03
+lastSplitFactor	0.9019:1
+lastSplitDate	1444176000	 (2015-10-07 08:00:00)
+enterpriseToRevenue	1.723
+enterpriseToEbitda	118.513
+52WeekChange	-0.053941905
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1905.TW
+underlyingSymbol	1905.TW
+shortName	CHUNG HWA PULP
+longName	Chung Hwa Pulp Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fdfa0f70-0950-384e-a8ed-e67dbb9b85cb
+messageBoardId	finmb_183342820
+gmtOffSetMilliseconds	28800000
+currentPrice	22.8
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3406595072
+totalCashPerShare	3.134
+ebitda	304688000
+totalDebt	12416709632
+quickRatio	0.459
+currentRatio	1.132
+totalRevenue	20955451392
+debtToEquity	71.018
+revenuePerShare	19.28
+returnOnAssets	-0.015149999
+returnOnEquity	-0.031170001
+freeCashflow	-269102112
+operatingCashflow	112829000
+earningsGrowth	1.847
+revenueGrowth	-0.049
+grossMargins	0.052010003
+ebitdaMargins	0.01454
+operatingMargins	0.00866
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                   -556855.636341    -209466.518132   -4034358.292133    -15954800.0
+Tax Rate For Calcs                                                   0.20701          0.009518          0.116843            0.2
+Normalized EBITDA                                                753705000.0      1935782000.0      1847394000.0   1025929000.0
+Total Unusual Items                                               -2690000.0       -22008000.0       -34528000.0    -79774000.0
+Total Unusual Items Excluding Goodwill                            -2690000.0       -22008000.0       -34528000.0    -79774000.0
+Net Income From Continuing Operation Net Minority Interest      -573395000.0       445934000.0       488231000.0   -201797000.0
+Reconciled Depreciation                                         1214336000.0      1223412000.0      1198553000.0   1153888000.0
+Reconciled Cost Of Revenue                                     19864687000.0     21096585000.0     19632767000.0  17375251000.0
+EBITDA                                                           751015000.0      1913774000.0      1812866000.0    946155000.0
+EBIT                                                            -463321000.0       690362000.0       614313000.0   -207733000.0
+Net Interest Income                                             -196067000.0      -128562000.0       -81574000.0    -84212000.0
+Interest Expense                                                 235927000.0       145485000.0        89635000.0     95751000.0
+Interest Income                                                   39860000.0        16923000.0         8061000.0     11539000.0
+Normalized Income                                          -571261855.636341  467732533.481868  518724641.707867   -137977800.0
+Net Income From Continuing And Discontinued Operation           -573395000.0       445934000.0       488231000.0   -201797000.0
+Total Expenses                                                 21813774000.0     23408154000.0     21762793000.0  19007204000.0
+Diluted Average Shares                                                   NaN      1087248000.0      1087133000.0   1094406000.0
+Basic Average Shares                                                     NaN      1086891000.0      1086891000.0   1094406000.0
+Diluted EPS                                                              NaN              0.41              0.45          -0.18
+Basic EPS                                                                NaN              0.41              0.45          -0.18
+Diluted NI Availto Com Stockholders                             -573395000.0       445934000.0       488231000.0   -201797000.0
+Net Income Common Stockholders                                  -573395000.0       445934000.0       488231000.0   -201797000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0            0.0
+Net Income                                                      -573395000.0       445934000.0       488231000.0   -201797000.0
+Minority Interests                                               -18898000.0       -93757000.0        24858000.0    110595000.0
+Net Income Including Noncontrolling Interests                   -554497000.0       539691000.0       463373000.0   -312392000.0
+Net Income Continuous Operations                                -554497000.0       539691000.0       463373000.0   -312392000.0
+Tax Provision                                                   -144751000.0         5186000.0        61305000.0      8908000.0
+Pretax Income                                                   -699248000.0       544877000.0       524678000.0   -303484000.0
+Other Non Operating Income Expenses                              150833000.0        83816000.0        96693000.0     62340000.0
+Special Income Charges                                             5862000.0        18901000.0        22048000.0       304000.0
+Other Special Charges                                               -59000.0         -109000.0          -30000.0      -164000.0
+Restructuring And Mergern Acquisition                             -5803000.0       -18792000.0       -22018000.0      -140000.0
+Net Non Operating Interest Income Expense                       -196067000.0      -128562000.0       -81574000.0    -84212000.0
+Interest Expense Non Operating                                   235927000.0       145485000.0        89635000.0     95751000.0
+Interest Income Non Operating                                     39860000.0        16923000.0         8061000.0     11539000.0
+Operating Income                                                -858323000.0       242975000.0       269057000.0   -390510000.0
+Operating Expense                                               1949087000.0      2311569000.0      2130026000.0   1631953000.0
+Other Operating Expenses                                                 NaN               NaN        -3395000.0      -333000.0
+Research And Development                                         178224000.0       149499000.0       104754000.0    118418000.0
+Selling General And Administration                              1770863000.0      2162070000.0      2025272000.0   1513535000.0
+Selling And Marketing Expense                                   1457540000.0      1834629000.0      1660255000.0   1181986000.0
+General And Administrative Expense                               313323000.0       327441000.0       365017000.0    331549000.0
+Gross Profit                                                    1090764000.0      2554544000.0      2399083000.0   1241443000.0
+Cost Of Revenue                                                19864687000.0     21096585000.0     19632767000.0  17375251000.0
+Total Revenue                                                  20955451000.0     23651129000.0     22031850000.0  18616694000.0
+Operating Revenue                                              20955451000.0     23651129000.0     22031850000.0  18616694000.0

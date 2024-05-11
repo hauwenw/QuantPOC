@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No.468, Ruei Guang Rd
+address2	4th Floor Nei Hu
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 7723 5000
+website	https://www.fetnet.net
+industry	Telecom Services
+industryKey	telecom-services
+industryDisp	Telecom Services
+sector	Communication Services
+sectorKey	communication-services
+sectorDisp	Communication Services
+longBusinessSummary	Far EasTone Telecommunications Co., Ltd. engages in the provision of telecommunications and digital application services. It provides mobile services, including voice calls and data communication services; and fixed line communication services, which comprises domestic phone call services, long-distance call services, international call services, softphone services, etc. The company also offers professional telecommunication integrated, cloud, information security, and ICT integration services; and financial, investment, and property insurance agency services. In addition, it is involved in the provision of international simple resale and digital value-added, cellular phone equipment and accessories selling, enterprise information and communication integration services, etc., as well as digital entertainment and life services. Further, the company offers call center, energy technology, office equipment, data processing, electronic information services, as well as security and monitoring services via Internet. Additionally, it designs, researches, installs, and maintains computer software and system; film production and distribution. The company was incorporated in 1997 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Chee  Ching', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Lin', 'title': 'Executive VP of Finance & Facility Services Division and CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Kuo', 'title': 'Executive VP of Network Technologies & Operations Division, FET', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Hu', 'title': 'Executive VP of Information & Digital Transformation - Technology Division, FET', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vivian  Lee', 'title': 'Senior Vice President Legal & Procurement Division and Corporate Governance Officer & Deputy GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yaling  Lang', 'title': 'Senior Director of President Office, Human Resources & Corporate Communications', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charlene  Lin', 'title': 'Senior Vice President of President Office & Human Resources', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jan  Nilsson', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Iris  Su', 'title': 'Chief Auditor of Internal Audit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessie  Teng', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.fetnet.net/cs/Satellite/eCorporate/ecoInvestorService
+maxAge	86400
+priceHint	2
+previousClose	83.4
+open	83.4
+dayLow	83.1
+dayHigh	84.7
+regularMarketPreviousClose	83.4
+regularMarketOpen	83.4
+regularMarketDayLow	83.1
+regularMarketDayHigh	84.7
+dividendRate	3.25
+dividendYield	0.038399998
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	0.95309997
+fiveYearAvgDividendYield	4.84
+trailingPE	24.838709
+forwardPE	23.205479
+volume	6806086
+regularMarketVolume	6806086
+averageVolume	5194831
+averageVolume10days	5568018
+averageDailyVolume10Day	5568018
+bid	84.6
+ask	84.7
+marketCap	305402773504
+fiftyTwoWeekLow	69.2
+fiftyTwoWeekHigh	84.7
+priceToSalesTrailing12Months	3.0366616
+fiftyDayAverage	80.238
+twoHundredDayAverage	77.412
+trailingAnnualDividendRate	3.25
+trailingAnnualDividendYield	0.038968824
+currency	TWD
+enterpriseValue	426254041088
+profitMargins	0.114580005
+floatShares	2358344184
+sharesOutstanding	3605700096
+heldPercentInsiders	0.39778998
+heldPercentInstitutions	0.29068002
+impliedSharesOutstanding	3637139968
+bookValue	51.48
+priceToBook	1.6452991
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.122
+netIncomeToCommon	11523200000
+trailingEps	3.41
+forwardEps	3.65
+pegRatio	5.89
+lastSplitFactor	0.807953:1
+lastSplitDate	1205193600	 (2008-03-11 08:00:00)
+enterpriseToRevenue	4.238
+enterpriseToEbitda	14.562
+52WeekChange	0.0914948
+SandP52WeekChange	0.26265144
+lastDividendValue	3.25
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4904.TW
+underlyingSymbol	4904.TW
+shortName	FAR EASTONE TELECOMMUNICATIONS
+longName	Far EasTone Telecommunications Co., Ltd.
+firstTradeDateEpochUtc	1124845200	 (2005-08-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8ca65383-0f22-35c9-ba4a-a54852cf96a1
+messageBoardId	finmb_1711615
+gmtOffSetMilliseconds	28800000
+currentPrice	84.7
+targetHighPrice	100.0
+targetLowPrice	78.0
+targetMeanPrice	89.5
+targetMedianPrice	90.0
+recommendationMean	2.6
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	14797032448
+totalCashPerShare	4.101
+ebitda	29270689792
+totalDebt	133241094144
+quickRatio	0.502
+currentRatio	0.609
+totalRevenue	100571881472
+debtToEquity	70.89
+revenuePerShare	29.872
+returnOnAssets	0.0323
+returnOnEquity	0.091280006
+freeCashflow	20619292672
+operatingCashflow	28640204800
+earningsGrowth	0.929
+revenueGrowth	1.309
+grossMargins	0.30033
+ebitdaMargins	0.29104
+operatingMargins	0.13666001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -47093213.52124   -50805186.458946   -48882818.782243   -49857452.962913
+Tax Rate For Calcs                                                      0.183           0.191114           0.166676           0.171484
+Normalized EBITDA                                               32907290000.0      31062518000.0      29860219000.0      27739301000.0
+Total Unusual Items                                              -257340000.0       -265837000.0       -293280000.0       -290741000.0
+Total Unusual Items Excluding Goodwill                           -257340000.0       -265837000.0       -293280000.0       -290741000.0
+Net Income From Continuing Operation Net Minority Interest      11185918000.0       9607895000.0       9123795000.0       8354128000.0
+Reconciled Depreciation                                         18025793000.0      18158003000.0      17808800000.0      16561572000.0
+Reconciled Cost Of Revenue                                      65060442000.0      62094526000.0      59882004000.0      53567102000.0
+EBITDA                                                          32649950000.0      30796681000.0      29566939000.0      27448560000.0
+EBIT                                                            14624157000.0      12638678000.0      11758139000.0      10886988000.0
+Net Interest Income                                              -666962000.0       -574311000.0       -632874000.0       -627977000.0
+Interest Expense                                                  801401000.0        639597000.0        677354000.0        694520000.0
+Interest Income                                                   134439000.0         65286000.0         44480000.0         66543000.0
+Normalized Income                                           11396164786.47876  9822926813.541054  9368192181.217756  8595011547.037086
+Net Income From Continuing And Discontinued Operation           11185918000.0       9607895000.0       9123795000.0       8354128000.0
+Total Expenses                                                  79376548000.0      76252005000.0      74665607000.0      68172525000.0
+Diluted Average Shares                                           3277842000.0       3262513000.0       3262303000.0       3262291000.0
+Basic Average Shares                                             3274672000.0       3258501000.0       3258501000.0       3258501000.0
+Diluted EPS                                                              3.41               2.94                2.8               2.56
+Basic EPS                                                                3.42               2.95                2.8               2.56
+Diluted NI Availto Com Stockholders                             11185918000.0       9607895000.0       9123795000.0       8354128000.0
+Net Income Common Stockholders                                  11185918000.0       9607895000.0       9123795000.0       8354128000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                      11185918000.0       9607895000.0       9123795000.0       8354128000.0
+Minority Interests                                               -107274000.0        -97993000.0       -110086000.0        -90494000.0
+Net Income Including Noncontrolling Interests                   11293192000.0       9705888000.0       9233881000.0       8444622000.0
+Net Income Continuous Operations                                11293192000.0       9705888000.0       9233881000.0       8444622000.0
+Tax Provision                                                    2529564000.0       2293193000.0       1846904000.0       1747846000.0
+Pretax Income                                                   13822756000.0      11999081000.0      11080785000.0      10192468000.0
+Other Non Operating Income Expenses                               111715000.0        -51230000.0       1264268000.0       -355961000.0
+Special Income Charges                                           -257340000.0       -265837000.0       -293280000.0       -290741000.0
+Write Off                                                         257340000.0        265837000.0        293280000.0        290741000.0
+Net Non Operating Interest Income Expense                        -666962000.0       -574311000.0       -632874000.0       -627977000.0
+Interest Expense Non Operating                                    801401000.0        639597000.0        677354000.0        694520000.0
+Interest Income Non Operating                                     134439000.0         65286000.0         44480000.0         66543000.0
+Operating Income                                                14313869000.0      12899360000.0      10654401000.0      11328440000.0
+Operating Expense                                               14316106000.0      14157479000.0      14783603000.0      14605423000.0
+Other Operating Expenses                                         -827426000.0       -583435000.0       -218680000.0                NaN
+Selling General And Administration                              15143532000.0      14740914000.0      15002283000.0      14605423000.0
+Selling And Marketing Expense                                    9964050000.0       9951752000.0      10189588000.0       9981804000.0
+General And Administrative Expense                               5179482000.0       4789162000.0       4812695000.0       4623619000.0
+Gross Profit                                                    28629975000.0      27056839000.0      25438004000.0      25933863000.0
+Cost Of Revenue                                                 65060442000.0      62094526000.0      59882004000.0      53567102000.0
+Total Revenue                                                   93690417000.0      89151365000.0      85320008000.0      79500965000.0
+Operating Revenue                                               93690417000.0      89151365000.0      85320008000.0      79500965000.0

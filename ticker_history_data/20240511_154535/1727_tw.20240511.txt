@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No.15, Gongye 5th Road
+address2	Guanyin District
+city	Taoyuan City
+zip	328
+country	Taiwan
+phone	886 3 476 1266
+fax	886 3 476 1336
+website	https://www.chciw.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chung Hwa Chemical Industrial Works, Ltd. engages in the manufacture and sale of chemical products in Taiwan and internationally. The company provides basic chemicals, including acids, alkalis, and phosphates for use in water treatment, detergent, papermaking, textiles, PCB, etc.; and specialty chemicals, such as reactive UV absorbers, polymer additives, sulfonated monomers, catalysts, thermal paper materials, and surface active agents for dyes, plastics, chemical textiles, IC wafers, display panels, electronics, photoelectric markets, etc. It also offers electronic chemicals, which include solvent, stripper/ polymer remover, thinners, and metal etchants used in etching liquid cleaning in electronics industry and liquid transport equipment in electronic factories; and water treatment and biomass chemicals. The company was founded in 1956 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Kai En  Gan', 'title': 'Acting President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Ming  Chou', 'title': 'Accounting officer & Acting spokesperson', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	29.95
+open	29.95
+dayLow	29.15
+dayHigh	30.0
+regularMarketPreviousClose	29.95
+regularMarketOpen	29.95
+regularMarketDayLow	29.15
+regularMarketDayHigh	30.0
+dividendRate	0.73
+dividendYield	0.0247
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	4.5685
+fiveYearAvgDividendYield	3.85
+beta	0.824
+trailingPE	184.6875
+volume	546822
+regularMarketVolume	546822
+averageVolume	1741771
+averageVolume10days	767361
+averageDailyVolume10Day	767361
+bid	29.55
+ask	29.6
+marketCap	3500611072
+fiftyTwoWeekLow	26.15
+fiftyTwoWeekHigh	45.7
+priceToSalesTrailing12Months	2.0305462
+fiftyDayAverage	29.654
+twoHundredDayAverage	29.248
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.010016695
+currency	TWD
+enterpriseValue	3942182656
+profitMargins	0.02537
+sharesOutstanding	118464000
+heldPercentInsiders	0.47061002
+heldPercentInstitutions	0.00113
+impliedSharesOutstanding	118464000
+bookValue	15.541
+priceToBook	1.9014219
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	16382000
+trailingEps	0.16
+lastSplitFactor	1050:1000
+lastSplitDate	1439251200	 (2015-08-11 08:00:00)
+enterpriseToRevenue	2.287
+enterpriseToEbitda	19.158
+52WeekChange	-0.18144047
+SandP52WeekChange	0.26265144
+lastDividendValue	0.731022
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1727.TW
+underlyingSymbol	1727.TW
+shortName	CHUNG HWA CHEMICAL INDUSTRIAL W
+longName	Chung Hwa Chemical Industrial Works, Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2d9fbdc5-6f33-37cd-b552-48cd99f8db6c
+messageBoardId	finmb_9609723
+gmtOffSetMilliseconds	28800000
+currentPrice	29.55
+recommendationKey	none
+totalCash	209123008
+totalCashPerShare	1.765
+ebitda	205771952
+totalDebt	650686976
+quickRatio	0.881
+currentRatio	1.289
+totalRevenue	1723975040
+debtToEquity	35.344
+revenuePerShare	15.227
+returnOnAssets	0.00067000004
+returnOnEquity	0.0109399995
+freeCashflow	-120734496
+operatingCashflow	219050000
+revenueGrowth	-0.25
+grossMargins	0.11178
+ebitdaMargins	0.11936
+operatingMargins	-0.025190001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   -1653800.0    276229.596468      35640.332904   -407699.629825
+Tax Rate For Calcs                                                   0.2         0.278457          0.188573         0.121629
+Normalized EBITDA                                            231855000.0      268276000.0       356760000.0      208703000.0
+Total Unusual Items                                           -8269000.0         992000.0          189000.0       -3352000.0
+Total Unusual Items Excluding Goodwill                        -8269000.0         992000.0          189000.0       -3352000.0
+Net Income From Continuing Operation Net Minority Interest    16382000.0       39481000.0       127429000.0       32375000.0
+Reconciled Depreciation                                      207291000.0      196566000.0       186877000.0      180394000.0
+Reconciled Cost Of Revenue                                  1531261000.0     2024723000.0      1640333000.0     1579260000.0
+EBITDA                                                       223586000.0      269268000.0       356949000.0      205351000.0
+EBIT                                                          16295000.0       72702000.0       170072000.0       24957000.0
+Net Interest Income                                           -4987000.0       -7563000.0        -4409000.0       -4767000.0
+Interest Expense                                               5991000.0        7701000.0         4619000.0        6047000.0
+Interest Income                                                1004000.0         138000.0          210000.0        1280000.0
+Normalized Income                                             22997200.0  38765229.596468  127275640.332904  35319300.370175
+Net Income From Continuing And Discontinued Operation         43731000.0      119700000.0       201201000.0     -138130000.0
+Total Expenses                                              1712647000.0     2241452000.0      1853598000.0     1758344000.0
+Diluted Average Shares                                       113220492.0      108250000.0       108297244.0      109670264.0
+Basic Average Shares                                         108250000.0      108250000.0       108250000.0      109655708.0
+Diluted EPS                                                         0.39             1.09              1.86            -1.26
+Basic EPS                                                           0.39             1.11              1.86            -1.26
+Diluted NI Availto Com Stockholders                           43731000.0      119700000.0       201201000.0     -138130000.0
+Net Income Common Stockholders                                43731000.0      119700000.0       201201000.0     -138130000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0               0.0              0.0
+Net Income                                                    43731000.0      119700000.0       201201000.0     -138130000.0
+Minority Interests                                            -2322000.0       -7420000.0        -6824000.0       15765000.0
+Net Income Including Noncontrolling Interests                 46053000.0      127120000.0       208025000.0     -153895000.0
+Net Income Discontinuous Operations                           27349000.0       80219000.0        73772000.0     -170505000.0
+Net Income Continuous Operations                              18704000.0       46901000.0       134253000.0       16610000.0
+Tax Provision                                                 -8400000.0       18100000.0        31200000.0        2300000.0
+Pretax Income                                                 10304000.0       65001000.0       165453000.0       18910000.0
+Other Non Operating Income Expenses                           12232000.0        6355000.0        10340000.0       12423000.0
+Special Income Charges                                        -8269000.0         992000.0          189000.0       -3352000.0
+Write Off                                                      8269000.0        -992000.0         -189000.0        3352000.0
+Net Non Operating Interest Income Expense                     -4987000.0       -7563000.0        -4409000.0       -4767000.0
+Interest Expense Non Operating                                 5991000.0        7701000.0         4619000.0        6047000.0
+Interest Income Non Operating                                  1004000.0         138000.0          210000.0        1280000.0
+Operating Income                                              11328000.0       65217000.0       159333000.0       14606000.0
+Operating Expense                                            181386000.0      216729000.0       213265000.0      179084000.0
+Research And Development                                      24188000.0       23390000.0        28368000.0       25497000.0
+Selling General And Administration                           157198000.0      193339000.0       184897000.0      153587000.0
+Selling And Marketing Expense                                104096000.0      143866000.0       125972000.0      116479000.0
+General And Administrative Expense                            53102000.0       49473000.0        58925000.0       37108000.0
+Gross Profit                                                 192714000.0      281946000.0       372598000.0      193690000.0
+Cost Of Revenue                                             1531261000.0     2024723000.0      1640333000.0     1579260000.0
+Total Revenue                                               1723975000.0     2306669000.0      2012931000.0     1772950000.0
+Operating Revenue                                           1723975000.0     2306669000.0      2012931000.0     1772950000.0

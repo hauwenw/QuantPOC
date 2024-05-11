@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 3, Science Park
+address2	R&D Rd. II
+city	Hsinchu
+zip	30076
+country	Taiwan
+phone	886 3 578 3280
+fax	886 3 578 0408
+website	https://www.mirle.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Mirle Automation Corporation engages in the business of automation equipment systems and components. It offers automatic material handling systems, including clean room stocker, rail guided vehicle, AGV, and equipment front end module; automatic storage retrieval system such as shuttle cart, intelligent logistics locker, pallet type, and high-speed intelligent sortation system; intelligent control systems, including MIPC, DC servo drive, and IoT; special purpose equipments, such as high precision coating and laminating system, optical glass molding press, and vehicle curved glass panel laminating process equipment; intelligent information systems, including information security, predictive maintenance, big data analysis and AI image platform, warehouse and content management systems, and B2B supply chain e-invoice solutions. The company also provides semiconductor intelligent factory automation solution, such as foup and zip stocker, auto guide vehicle, conveyor RGV system, overhead hoist transfer, lifter, and material control system; intelligent automation systems, including FPD transport and vehicle glass panel intelligent protection system; intelligent factory logistics solutions, such as intelligent logistics center for retail industry, intelligence factory warehouse logistics center for manufacturing industry, warehouse management system solution, high-speed vertical handling system, high-speed intelligent sortation, and intelligent picking and packing system; intelligent factory solutions, including data security and intelligent factory monitor system; intelligent manufacturing CPS solution, such as intelligent control system, digital-twins, big data analysis, and war room; banking risk control; and technical services for intelligent factory and logistics automation. In addition, it offers product related construction planning, installation, consulting, and maintenance services. The company was incorporated in 1989 and is headquartered in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Houng  Sun Ph.D.', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Max  Lin', 'title': 'CFO & Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Kao', 'title': 'AVP of Technology Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hao-Sheng  Li', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	49.95
+open	49.7
+dayLow	48.6
+dayHigh	50.3
+regularMarketPreviousClose	49.95
+regularMarketOpen	49.7
+regularMarketDayLow	48.6
+regularMarketDayHigh	50.3
+dividendRate	1.8
+dividendYield	0.0367
+exDividendDate	1688342400	 (2023-07-03 08:00:00)
+payoutRatio	2.0
+fiveYearAvgDividendYield	5.89
+beta	0.544
+trailingPE	54.5
+forwardPE	9.016544
+volume	4247982
+regularMarketVolume	4247982
+averageVolume	8381338
+averageVolume10days	8302403
+averageDailyVolume10Day	8302403
+bid	49.05
+ask	49.1
+marketCap	9590796288
+fiftyTwoWeekLow	35.4
+fiftyTwoWeekHigh	58.5
+priceToSalesTrailing12Months	1.0882874
+fiftyDayAverage	45.068
+twoHundredDayAverage	39.41975
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.01001001
+currency	TWD
+enterpriseValue	11838029824
+profitMargins	0.01985
+floatShares	146302329
+sharesOutstanding	195531008
+heldPercentInsiders	0.23741
+heldPercentInstitutions	0.01472
+impliedSharesOutstanding	199008000
+bookValue	21.379
+priceToBook	2.2943075
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	4.429
+netIncomeToCommon	174971008
+trailingEps	0.9
+forwardEps	5.44
+lastSplitFactor	1020:1000
+lastSplitDate	1501027200	 (2017-07-26 08:00:00)
+enterpriseToRevenue	1.343
+enterpriseToEbitda	70.928
+52WeekChange	0.34199727
+SandP52WeekChange	0.26265144
+lastDividendValue	1.8
+lastDividendDate	1688342400	 (2023-07-03 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2464.TW
+underlyingSymbol	2464.TW
+shortName	MIRLE AUTOMATION
+longName	Mirle Automation Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6c78a8c1-b108-30de-9a32-43ea9d2711ce
+messageBoardId	finmb_9649221
+gmtOffSetMilliseconds	28800000
+currentPrice	49.05
+recommendationKey	none
+totalCash	1422072960
+totalCashPerShare	7.273
+ebitda	166900992
+totalDebt	3608688128
+quickRatio	1.114
+currentRatio	1.263
+totalRevenue	8812742656
+debtToEquity	85.092
+revenuePerShare	45.071
+returnOnAssets	0.00032000002
+returnOnEquity	0.042579997
+freeCashflow	-1562241024
+operatingCashflow	-662390976
+earningsGrowth	4.408
+revenueGrowth	-0.243
+grossMargins	0.17282
+ebitdaMargins	0.01894
+operatingMargins	-0.02777
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                 -19557906.536082     300915.450109    1162594.829711       7132.378979
+Tax Rate For Calcs                                                  0.251067          0.121533          0.138174          0.111443
+Normalized EBITDA                                                575181000.0       812141000.0       799512000.0       762048000.0
+Total Unusual Items                                              -77899000.0         2476000.0         8414000.0           64000.0
+Total Unusual Items Excluding Goodwill                           -77899000.0         2476000.0         8414000.0           64000.0
+Net Income From Continuing Operation Net Minority Interest       174971000.0       514724000.0       527896000.0       513367000.0
+Reconciled Depreciation                                          202433000.0       198139000.0       179668000.0       170683000.0
+Reconciled Cost Of Revenue                                      7289725000.0      8892088000.0      7816372000.0      7025359000.0
+EBITDA                                                           497282000.0       814617000.0       807926000.0       762112000.0
+EBIT                                                             294849000.0       616478000.0       628258000.0       591429000.0
+Net Interest Income                                              -26701000.0         2301000.0         9321000.0         9343000.0
+Interest Expense                                                  50819000.0        22178000.0        11658000.0        13656000.0
+Interest Income                                                   24118000.0        24479000.0        20979000.0        22999000.0
+Normalized Income                                           233312093.463918  512548915.450109  520644594.829711  513310132.378979
+Net Income From Continuing And Discontinued Operation            174971000.0       514724000.0       527896000.0       513367000.0
+Total Expenses                                                  8648707000.0     10414550000.0      9178419000.0      8239759000.0
+Diluted Average Shares                                           195622000.0       195719000.0       195700000.0       195730000.0
+Basic Average Shares                                             195531000.0       195531000.0       195531000.0       195531000.0
+Diluted EPS                                                             0.89              2.63               2.7              2.62
+Basic EPS                                                               0.89              2.63               2.7              2.63
+Diluted NI Availto Com Stockholders                              174971000.0       514724000.0       527896000.0       513367000.0
+Net Income Common Stockholders                                   174971000.0       514724000.0       527896000.0       513367000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       174971000.0       514724000.0       527896000.0       513367000.0
+Minority Interests                                                -7791000.0        -7349000.0        -3506000.0          -17000.0
+Net Income Including Noncontrolling Interests                    182762000.0       522073000.0       531402000.0       513384000.0
+Net Income Continuous Operations                                 182762000.0       522073000.0       531402000.0       513384000.0
+Tax Provision                                                     61268000.0        72227000.0        85198000.0        64389000.0
+Pretax Income                                                    244030000.0       594300000.0       616600000.0       577773000.0
+Other Non Operating Income Expenses                              233359000.0        12841000.0        24601000.0        51144000.0
+Special Income Charges                                           -77899000.0         2476000.0         8414000.0           64000.0
+Write Off                                                         77899000.0        -2476000.0        -8414000.0          -64000.0
+Net Non Operating Interest Income Expense                        -26701000.0         2301000.0         9321000.0         9343000.0
+Interest Expense Non Operating                                    50819000.0        22178000.0        11658000.0        13656000.0
+Interest Income Non Operating                                     24118000.0        24479000.0        20979000.0        22999000.0
+Operating Income                                                 164036000.0       354466000.0       682984000.0       668906000.0
+Operating Expense                                               1358982000.0      1522462000.0      1362047000.0      1214400000.0
+Other Operating Expenses                                          -6946000.0         3453000.0          537000.0        -1668000.0
+Research And Development                                         504103000.0       499116000.0       396118000.0       422972000.0
+Selling General And Administration                               861825000.0      1019893000.0       965392000.0       793096000.0
+Selling And Marketing Expense                                    303978000.0       483653000.0       454971000.0       360546000.0
+General And Administrative Expense                               557847000.0       536240000.0       510421000.0       432550000.0
+Gross Profit                                                    1523018000.0      1876928000.0      2045031000.0      1883306000.0
+Cost Of Revenue                                                 7289725000.0      8892088000.0      7816372000.0      7025359000.0
+Total Revenue                                                   8812743000.0     10769016000.0      9861403000.0      8908665000.0
+Operating Revenue                                               8812743000.0     10769016000.0      9861403000.0      8908665000.0

@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	Grand Pavilion
+address2	Hibiscus Way 802 West Bay Road PO Box 31119
+city	Grand Cayman
+zip	KY1-1205
+country	Cayman Islands
+website	https://tw.kingcan.net
+industry	Packaging & Containers
+industryKey	packaging-containers
+industryDisp	Packaging & Containers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Kingcan Holdings Limited manufactures and sells metal packaging containers and food cans in China. It also engages in trading activities. In addition, the company provides food and beverage canned filling OEM. It also exports its products. The company was incorporated in 2009 and is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Su-Cheng  Chuang', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 1180000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Lan  Lee', 'title': 'Executive VP, Corporate Governance Officer & Director', 'fiscalYear': 2021, 'totalPay': 1180000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Chung  Lan', 'title': 'Finance Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	14.2
+open	14.25
+dayLow	14.15
+dayHigh	14.25
+regularMarketPreviousClose	14.2
+regularMarketOpen	14.25
+regularMarketDayLow	14.15
+regularMarketDayHigh	14.25
+exDividendDate	1658793600	 (2022-07-26 08:00:00)
+fiveYearAvgDividendYield	1.78
+beta	0.571
+trailingPE	95.0
+forwardPE	25.446428
+volume	90672
+regularMarketVolume	90672
+averageVolume	138665
+averageVolume10days	110872
+averageDailyVolume10Day	110872
+bid	14.15
+ask	14.25
+marketCap	3112257024
+fiftyTwoWeekLow	13.25
+fiftyTwoWeekHigh	16.25
+priceToSalesTrailing12Months	0.37676996
+fiftyDayAverage	13.838
+twoHundredDayAverage	14.313
+trailingAnnualDividendRate	0.08
+trailingAnnualDividendYield	0.0056338026
+currency	TWD
+enterpriseValue	6135754752
+profitMargins	0.00385
+sharesOutstanding	218404000
+heldPercentInsiders	0.62883997
+heldPercentInstitutions	0.06525
+impliedSharesOutstanding	219210000
+bookValue	26.326
+priceToBook	0.54129
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.739
+netIncomeToCommon	31803000
+trailingEps	0.15
+forwardEps	0.56
+lastSplitFactor	1107:1000
+lastSplitDate	1500508800	 (2017-07-20 08:00:00)
+enterpriseToRevenue	0.743
+enterpriseToEbitda	10.219
+52WeekChange	-0.037162185
+SandP52WeekChange	0.26265144
+lastDividendValue	0.393394
+lastDividendDate	1658793600	 (2022-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8411.TW
+underlyingSymbol	8411.TW
+shortName	KINGCAN HOLDINGS LIMITED
+longName	Kingcan Holdings Limited
+firstTradeDateEpochUtc	1320109200	 (2011-11-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	193e98bc-93e4-361c-b16c-743854e504d3
+messageBoardId	finmb_83019813
+gmtOffSetMilliseconds	28800000
+currentPrice	14.25
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	1473016064
+totalCashPerShare	6.744
+ebitda	600428032
+totalDebt	4345713152
+quickRatio	0.8
+currentRatio	1.211
+totalRevenue	8260363776
+debtToEquity	73.65
+revenuePerShare	37.822
+returnOnAssets	0.00926
+returnOnEquity	0.00565
+freeCashflow	-451938752
+operatingCashflow	131994000
+earningsGrowth	-0.758
+revenueGrowth	-0.062
+grossMargins	0.102010004
+ebitdaMargins	0.07269
+operatingMargins	0.03915
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     575750.0     -197750.0   -1951301.749526    -1578250.0
+Tax Rate For Calcs                                                  0.25          0.25          0.127544          0.25
+Normalized EBITDA                                            704328000.0   277093000.0       831068000.0   540690000.0
+Total Unusual Items                                            2303000.0     -791000.0       -15299000.0    -6313000.0
+Total Unusual Items Excluding Goodwill                         2303000.0     -791000.0       -15299000.0    -6313000.0
+Net Income From Continuing Operation Net Minority Interest    31803000.0  -307756000.0       389869000.0    67130000.0
+Reconciled Depreciation                                      425033000.0   398885000.0       313879000.0   314394000.0
+Reconciled Cost Of Revenue                                  7417710000.0  7957964000.0      7007130000.0  5146124000.0
+EBITDA                                                       706631000.0   276302000.0       815769000.0   534377000.0
+EBIT                                                         281598000.0  -122583000.0       501890000.0   219983000.0
+Net Interest Income                                         -152786000.0  -133485000.0       -45663000.0   -52335000.0
+Interest Expense                                             173411000.0   156340000.0        55026000.0    78754000.0
+Interest Income                                               20625000.0    22855000.0         9363000.0    26419000.0
+Normalized Income                                             30075750.0  -307162750.0  403216698.250474    71864750.0
+Net Income From Continuing And Discontinued Operation         31803000.0  -307756000.0       389869000.0    67130000.0
+Total Expenses                                              8072262000.0  8612278000.0      7599195000.0  5649554000.0
+Diluted Average Shares                                               NaN   182231000.0       178676000.0   178418523.0
+Basic Average Shares                                                 NaN   182231000.0       178343000.0   178343281.0
+Diluted EPS                                                          NaN         -1.69              2.22      0.373724
+Basic EPS                                                            NaN         -1.69              2.22      0.373724
+Diluted NI Availto Com Stockholders                           31803000.0  -307756000.0       389869000.0    67130000.0
+Net Income Common Stockholders                                31803000.0  -307756000.0       389869000.0    67130000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                    31803000.0  -307756000.0       389869000.0    67130000.0
+Minority Interests                                            -1831000.0    -3462000.0               0.0           0.0
+Net Income Including Noncontrolling Interests                 33634000.0  -304294000.0       389869000.0    67130000.0
+Net Income Discontinuous Operations                                  NaN           NaN               NaN           0.0
+Net Income Continuous Operations                              33634000.0  -304294000.0       389869000.0    67130000.0
+Tax Provision                                                 74553000.0    25371000.0        56995000.0    74099000.0
+Pretax Income                                                108187000.0  -278923000.0       446864000.0   141229000.0
+Other Non Operating Income Expenses                           70568000.0  -212495000.0       292423000.0    56937000.0
+Special Income Charges                                         2303000.0     -791000.0       -15299000.0    -6313000.0
+Other Special Charges                                                NaN           NaN               NaN     9589000.0
+Write Off                                                     -2303000.0      791000.0        15299000.0     6313000.0
+Impairment Of Capital Assets                                         NaN           NaN               NaN    19477000.0
+Net Non Operating Interest Income Expense                   -152786000.0  -133485000.0       -45663000.0   -52335000.0
+Interest Expense Non Operating                               173411000.0   156340000.0        55026000.0    78754000.0
+Interest Income Non Operating                                 20625000.0    22855000.0         9363000.0    26419000.0
+Operating Income                                             188102000.0    67848000.0       215403000.0   142940000.0
+Operating Expense                                            654552000.0   654314000.0       592065000.0   503430000.0
+Research And Development                                     101053000.0   103058000.0       133909000.0   107970000.0
+Selling General And Administration                           553499000.0   551256000.0       458156000.0   395460000.0
+Selling And Marketing Expense                                233130000.0   274057000.0       237593000.0   203238000.0
+General And Administrative Expense                           320369000.0   277199000.0       220563000.0   192222000.0
+Gross Profit                                                 842654000.0   722162000.0       807468000.0   646370000.0
+Cost Of Revenue                                             7417710000.0  7957964000.0      7007130000.0  5146124000.0
+Total Revenue                                               8260364000.0  8680126000.0      7814598000.0  5792494000.0
+Operating Revenue                                           8260364000.0  8680126000.0      7814598000.0  5792494000.0

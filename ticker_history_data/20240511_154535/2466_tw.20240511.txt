@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.258, Lian Chen Road
+address2	11th Floor Chung-Ho
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 8226 9893
+fax	886 2 8227 1855
+website	https://www.cosmo-ic.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Cosmo Electronics Corporation engages in the manufacture and sale of relays and photocouplers worldwide. The company offers opto electronic devices, including photo couplers for microelectronics, data processing, and telecommunication systems; IGBT series photocouplers used in motor control inverter applications and inverters in power supply system; photo triacs for use in power control of two-way triac rectifiers; photo link connectors, an optical transmission device that convert electrical signal to digital signal; and sensors. It also provides relay devices, such as solid state relay MOSFET output products that are used to control the switch of output pole connection; solid state relays, an electronic state relays for industrial automation, home appliances, consumer electronics, and instruments; reed relays, a mechanical switch operation that control output pole connection for computer peripherals, instruments, and security and automation equipment, as well as for the telecom sector; and proximity sensors comprising reed switch based and solid-state magnetic proximity sensors. The company was incorporated in 1981 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chia-chi  Chao', 'title': 'President, GM & Director', 'fiscalYear': 2021, 'totalPay': 2989000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-han  Hung', 'title': 'CFO, Finance & Accounting Supervisor and Director', 'fiscalYear': 2021, 'totalPay': 1978000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-chin  Lee', 'title': 'Deputy GM, Chief Corporate Governance Officer & VP of Administration', 'fiscalYear': 2021, 'totalPay': 1940000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-mu  Liu', 'title': 'VP, Deputy GM & Director', 'fiscalYear': 2021, 'totalPay': 1086000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	36.55
+open	37.35
+dayLow	36.9
+dayHigh	37.35
+regularMarketPreviousClose	36.55
+regularMarketOpen	37.35
+regularMarketDayLow	36.9
+regularMarketDayHigh	37.35
+dividendRate	0.19
+dividendYield	0.0050999997
+exDividendDate	1694563200	 (2023-09-13 08:00:00)
+payoutRatio	1.0555999
+beta	0.262
+trailingPE	205.55554
+volume	15001
+regularMarketVolume	15001
+averageVolume	23467
+averageVolume10days	26156
+averageDailyVolume10Day	26156
+bid	36.55
+ask	37.0
+marketCap	6343983104
+fiftyTwoWeekLow	34.411762
+fiftyTwoWeekHigh	42.892155
+priceToSalesTrailing12Months	6.022273
+fiftyDayAverage	37.059
+twoHundredDayAverage	36.926403
+currency	TWD
+enterpriseValue	7779499008
+profitMargins	0.02856
+sharesOutstanding	171459008
+heldPercentInsiders	0.75448996
+impliedSharesOutstanding	174039008
+bookValue	10.977
+priceToBook	3.3706841
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.749
+netIncomeToCommon	30083000
+trailingEps	0.18
+lastSplitFactor	1020:1000
+lastSplitDate	1694563200	 (2023-09-13 08:00:00)
+enterpriseToRevenue	7.385
+enterpriseToEbitda	-428.93
+52WeekChange	0.06912184
+SandP52WeekChange	0.26265144
+lastDividendValue	0.19
+lastDividendDate	1694563200	 (2023-09-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2466.TW
+underlyingSymbol	2466.TW
+shortName	COSMO ELECTRONICS
+longName	Cosmo Electronics Corporation
+firstTradeDateEpochUtc	948070800	 (2000-01-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	82258dc7-f4fd-3be2-a863-fd719509ac9e
+messageBoardId	finmb_5396052
+gmtOffSetMilliseconds	28800000
+currentPrice	37.0
+recommendationKey	none
+totalCash	635766016
+totalCashPerShare	3.708
+ebitda	-18137000
+totalDebt	2071293056
+quickRatio	0.828
+currentRatio	1.459
+totalRevenue	1053420032
+debtToEquity	110.048
+revenuePerShare	6.144
+returnOnAssets	-0.01617
+returnOnEquity	0.01591
+freeCashflow	90194000
+operatingCashflow	161176000
+earningsGrowth	3.779
+revenueGrowth	-0.355
+grossMargins	0.14793
+ebitdaMargins	-0.01722
+operatingMargins	-0.62002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31      2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    1692400.0    -232461.645697      9314.63602    -1462800.0
+Tax Rate For Calcs                                                   0.2          0.021546        0.172493           0.2
+Normalized EBITDA                                            245774000.0       290533000.0     201974000.0   169172000.0
+Total Unusual Items                                            8462000.0       -10789000.0         54000.0    -7314000.0
+Total Unusual Items Excluding Goodwill                         8462000.0       -10789000.0         54000.0    -7314000.0
+Net Income From Continuing Operation Net Minority Interest    30083000.0       110896000.0      54939000.0     6368000.0
+Reconciled Depreciation                                      112570000.0       112102000.0      98977000.0   115096000.0
+Reconciled Cost Of Revenue                                   897585000.0      1053647000.0    1108883000.0  1098339000.0
+EBITDA                                                       254236000.0       279744000.0     202028000.0   161858000.0
+EBIT                                                         141666000.0       167642000.0     103051000.0    46762000.0
+Net Interest Income                                          -74504000.0       -51015000.0     -34916000.0   -39075000.0
+Interest Expense                                              85467000.0        54304000.0      36660000.0    41418000.0
+Interest Income                                               10963000.0         3289000.0       1744000.0     2343000.0
+Normalized Income                                             23313400.0  121452538.354303  54894314.63602    12219200.0
+Net Income From Continuing And Discontinued Operation         30083000.0       110896000.0      54939000.0     6368000.0
+Total Expenses                                              1174606000.0      1340890000.0    1341141000.0  1324679000.0
+Diluted Average Shares                                               NaN       179127000.0     171022380.0   170932008.0
+Basic Average Shares                                                 NaN       171450000.0     170844900.0   170800468.0
+Diluted EPS                                                          NaN              0.64        0.323529      0.037707
+Basic EPS                                                            NaN              0.65        0.323529      0.037707
+Diluted NI Availto Com Stockholders                           30083000.0       110896000.0      54939000.0     6368000.0
+Net Income Common Stockholders                                30083000.0       110896000.0      54939000.0     6368000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0             0.0           0.0
+Net Income                                                    30083000.0       110896000.0      54939000.0     6368000.0
+Net Income Including Noncontrolling Interests                 30083000.0       110896000.0      54939000.0     6368000.0
+Net Income Continuous Operations                              30083000.0       110896000.0      54939000.0     6368000.0
+Tax Provision                                                 26116000.0         2442000.0      11452000.0    -1024000.0
+Pretax Income                                                 56199000.0       113338000.0      66391000.0     5344000.0
+Other Non Operating Income Expenses                          243427000.0       125254000.0     100582000.0   131247000.0
+Special Income Charges                                         8462000.0       -10789000.0         54000.0    -7314000.0
+Write Off                                                     -8462000.0        10789000.0        -54000.0     7314000.0
+Net Non Operating Interest Income Expense                    -74504000.0       -51015000.0     -34916000.0   -39075000.0
+Interest Expense Non Operating                                85467000.0        54304000.0      36660000.0    41418000.0
+Interest Income Non Operating                                 10963000.0         3289000.0       1744000.0     2343000.0
+Operating Income                                            -121186000.0        49888000.0        671000.0   -79514000.0
+Operating Expense                                            277021000.0       287243000.0     232258000.0   226340000.0
+Research And Development                                       3914000.0         4905000.0       5614000.0     4911000.0
+Selling General And Administration                           273107000.0       282338000.0     226644000.0   221429000.0
+Selling And Marketing Expense                                 50116000.0        62740000.0      51738000.0    55649000.0
+General And Administrative Expense                           222991000.0       219598000.0     174906000.0   165780000.0
+Gross Profit                                                 155835000.0       337131000.0     232929000.0   146826000.0
+Cost Of Revenue                                              897585000.0      1053647000.0    1108883000.0  1098339000.0
+Total Revenue                                               1053420000.0      1390778000.0    1341812000.0  1245165000.0
+Operating Revenue                                           1053420000.0      1390778000.0    1341812000.0  1245165000.0

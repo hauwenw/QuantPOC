@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 23, Industry East Road
+address2	IV, Science-Based Industrial Park
+city	Hsinchu City
+zip	30077
+country	Taiwan
+phone	886 3 578 1970
+fax	886 3 564 4432
+website	https://www.esmt.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Elite Semiconductor Microelectronics Tech Inc engages in research, development, production, manufacture, and sale of dynamic and static random access memory, flash memory, analog integrated circuit, and analog and digital mixed integrated circuits in Taiwan, rest of Asia, and internationally. The company also offers information software, product design, management consultant, technical, and trading services. In addition, it is involved in the wholesale and retail of electronic materials; and manufacture of electronic components. The company offers its products for use in various application, including industrial, automotive, consumer, PC peripherals, networking, RC servo PCBA, audio, and power. The company was founded in 1998 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Chien  Chang', 'age': 67, 'title': 'President, Chief Technology Officer of Business Group & Director', 'yearBorn': 1956, 'fiscalYear': 2020, 'totalPay': 9172000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yeong-Wen  Daih', 'age': 64, 'title': 'Senior VP, COO & Director', 'yearBorn': 1959, 'fiscalYear': 2020, 'totalPay': 11531000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hong  Ho', 'age': 67, 'title': 'Senior VP, Chief Marketing Officer & Director', 'yearBorn': 1956, 'fiscalYear': 2020, 'totalPay': 12041000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui-Wen  Cheng', 'title': 'Senior Director, Accounting Officer & Financial Officer', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Hui  Feng', 'title': 'Vice President', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	90.2
+open	90.5
+dayLow	88.5
+dayHigh	92.0
+regularMarketPreviousClose	90.2
+regularMarketOpen	90.5
+regularMarketDayLow	88.5
+regularMarketDayHigh	92.0
+dividendRate	1.8
+dividendYield	0.0197
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	2.1563
+fiveYearAvgDividendYield	4.19
+forwardPE	88.07693
+volume	5516011
+regularMarketVolume	5516011
+averageVolume	7171914
+averageVolume10days	7239943
+averageDailyVolume10Day	7239943
+bid	91.6
+ask	91.7
+marketCap	25020356608
+fiftyTwoWeekLow	68.0
+fiftyTwoWeekHigh	109.0
+priceToSalesTrailing12Months	2.0008752
+fiftyDayAverage	87.818
+twoHundredDayAverage	88.0625
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.0066518853
+currency	TWD
+enterpriseValue	24455919616
+profitMargins	-0.0729
+floatShares	232906861
+sharesOutstanding	273148000
+heldPercentInsiders	0.15403
+heldPercentInstitutions	0.09847999
+impliedSharesOutstanding	283107008
+bookValue	35.559
+priceToBook	2.5760005
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-911646976
+trailingEps	-3.25
+forwardEps	1.04
+lastSplitFactor	103:100
+lastSplitDate	1219363200	 (2008-08-22 08:00:00)
+enterpriseToRevenue	1.956
+enterpriseToEbitda	-28.056
+52WeekChange	0.18652844
+SandP52WeekChange	0.26265144
+lastDividendValue	1.8
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3006.TW
+underlyingSymbol	3006.TW
+shortName	ELITE SEMICONDUCTOR MICROELECTR
+longName	Elite Semiconductor Microelectronics Tech Inc
+firstTradeDateEpochUtc	1015290000	 (2002-03-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6f386cd2-6d22-3963-b666-4c2286d9ae65
+messageBoardId	finmb_9870738
+gmtOffSetMilliseconds	28800000
+currentPrice	91.6
+recommendationKey	none
+totalCash	4429001216
+totalCashPerShare	16.047
+ebitda	-871683968
+totalDebt	3685425920
+quickRatio	1.028
+currentRatio	2.198
+totalRevenue	12504706048
+debtToEquity	37.867
+revenuePerShare	44.737
+returnOnAssets	-0.051370002
+returnOnEquity	-0.08636
+freeCashflow	1344386688
+operatingCashflow	910001024
+revenueGrowth	0.228
+grossMargins	0.02849
+ebitdaMargins	-0.06971
+operatingMargins	-0.08126
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0      898730.718518     1158635.030709
+Tax Rate For Calcs                                               0.015713       0.154381           0.157313           0.135008
+Normalized EBITDA                                            -439363000.0   1975243000.0       6522037000.0       1680535000.0
+Total Unusual Items                                                   NaN            0.0          5713000.0          8582000.0
+Total Unusual Items Excluding Goodwill                                NaN            0.0          5713000.0          8582000.0
+Net Income From Continuing Operation Net Minority Interest  -1222845000.0   1042193000.0       4976211000.0       1076426000.0
+Reconciled Depreciation                                       706209000.0    636497000.0        526424000.0        423890000.0
+Reconciled Cost Of Revenue                                  11559380000.0  13228940000.0      15128779000.0      12618097000.0
+EBITDA                                                       -439363000.0   1975243000.0       6527750000.0       1689117000.0
+EBIT                                                        -1145572000.0   1338746000.0       6001326000.0       1265227000.0
+Net Interest Income                                            87753000.0     63850000.0         12802000.0         15885000.0
+Interest Expense                                               82689000.0     33530000.0         20432000.0         11527000.0
+Interest Income                                               170442000.0     97380000.0         33234000.0         27412000.0
+Normalized Income                                           -1222845000.0   1042193000.0  4971396730.718518  1069002635.030709
+Net Income From Continuing And Discontinued Operation       -1222845000.0   1042193000.0       4976211000.0       1076426000.0
+Total Expenses                                              13522673000.0  15415188000.0      17975604000.0      14120936000.0
+Diluted Average Shares                                        280432000.0    281084000.0        282248000.0        281204000.0
+Basic Average Shares                                          280432000.0    280542000.0        280221000.0        279909000.0
+Diluted EPS                                                         -4.36           3.71              17.63               3.83
+Basic EPS                                                           -4.36           3.71              17.76               3.85
+Diluted NI Availto Com Stockholders                         -1222845000.0   1042193000.0       4976211000.0       1076426000.0
+Net Income Common Stockholders                              -1222845000.0   1042193000.0       4976211000.0       1076426000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                0.0                0.0
+Net Income                                                  -1222845000.0   1042193000.0       4976211000.0       1076426000.0
+Minority Interests                                            -13884000.0    -61522000.0        -63809000.0         -8015000.0
+Net Income Including Noncontrolling Interests               -1208961000.0   1103715000.0       5040020000.0       1084441000.0
+Net Income Continuous Operations                            -1208961000.0   1103715000.0       5040020000.0       1084441000.0
+Tax Provision                                                 -19300000.0    201501000.0        940874000.0        169259000.0
+Pretax Income                                               -1228261000.0   1305216000.0       5980894000.0       1253700000.0
+Other Non Operating Income Expenses                           291906000.0    424776000.0         75156000.0         82357000.0
+Special Income Charges                                                NaN            0.0          5713000.0          8582000.0
+Write Off                                                             NaN            0.0         -5713000.0         -8582000.0
+Net Non Operating Interest Income Expense                      87753000.0     63850000.0         12802000.0         15885000.0
+Interest Expense Non Operating                                 82689000.0     33530000.0         20432000.0         11527000.0
+Interest Income Non Operating                                 170442000.0     97380000.0         33234000.0         27412000.0
+Operating Income                                            -1638552000.0    792710000.0       5869294000.0       1146203000.0
+Operating Expense                                            1963293000.0   2186248000.0       2846825000.0       1502839000.0
+Research And Development                                     1458708000.0   1532493000.0       1786681000.0        940851000.0
+Selling General And Administration                            504585000.0    653755000.0       1060144000.0        561988000.0
+Selling And Marketing Expense                                 271256000.0    328630000.0        483319000.0        271045000.0
+General And Administrative Expense                            233329000.0    325125000.0        576825000.0        290943000.0
+Gross Profit                                                  324741000.0   2978958000.0       8716119000.0       2649042000.0
+Cost Of Revenue                                             11559380000.0  13228940000.0      15128779000.0      12618097000.0
+Total Revenue                                               11884121000.0  16207898000.0      23844898000.0      15267139000.0
+Operating Revenue                                           11884121000.0  16207898000.0      23844898000.0      15267139000.0

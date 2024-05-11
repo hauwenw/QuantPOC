@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No.555, Zhongxiao East Road 4
+address2	18th Floor
+city	Taipei
+country	Taiwan
+phone	886 2 2500 0808
+fax	886 2 5182 987
+website	https://www.kycc.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Kuo Yang Construction Co.,Ltd engages in the construction of public housing projects in Taiwan. It also leases and sells commercial residential buildings, industrial plants, and commercial buildings. In addition, the company is involved in the real estate investment, development, and rental and leasing; department store; hotel and restaurant management; and horticulture and afforestation services. Kuo Yang Construction Co.,Ltd was founded in 1961 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shao Ling  Peng', 'title': 'President', 'fiscalYear': 2022, 'totalPay': 10983000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cheng-I  Wang', 'title': 'Assistant VP of Finance Division & Accounting Manager', 'fiscalYear': 2022, 'totalPay': 3803000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meng-Hui  Lien', 'title': 'Assistant Vice President of Sales Division', 'fiscalYear': 2022, 'totalPay': 4097000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Hsiung  Hsieh', 'title': 'Vice President', 'fiscalYear': 2022, 'totalPay': 3224000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Ho  Hsu', 'title': 'Assistant Vice President of Engineering Division', 'fiscalYear': 2022, 'totalPay': 3940000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yun-Ti  Cheng', 'title': 'Assistant Vice President of Planning Division', 'fiscalYear': 2022, 'totalPay': 4718000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	29.05
+open	29.1
+dayLow	28.95
+dayHigh	30.2
+regularMarketPreviousClose	29.05
+regularMarketOpen	29.1
+regularMarketDayLow	28.95
+regularMarketDayHigh	30.2
+exDividendDate	1637712000	 (2021-11-24 08:00:00)
+fiveYearAvgDividendYield	2.03
+beta	0.617
+trailingPE	37.125
+forwardPE	114.230774
+volume	1822431
+regularMarketVolume	1822431
+averageVolume	2469175
+averageVolume10days	7189754
+averageDailyVolume10Day	7189754
+bid	29.65
+ask	29.7
+marketCap	11286000640
+fiftyTwoWeekLow	17.05
+fiftyTwoWeekHigh	32.15
+priceToSalesTrailing12Months	15.34552
+fiftyDayAverage	26.441
+twoHundredDayAverage	21.504
+trailingAnnualDividendRate	0.4
+trailingAnnualDividendYield	0.013769364
+currency	TWD
+enterpriseValue	15574908928
+profitMargins	0.41362
+sharesOutstanding	380000000
+heldPercentInsiders	0.53448004
+heldPercentInstitutions	0.05242
+impliedSharesOutstanding	395755008
+bookValue	26.578
+priceToBook	1.1174656
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	304198016
+trailingEps	0.8
+forwardEps	0.26
+lastSplitFactor	545.5205:1000
+lastSplitDate	1608768000	 (2020-12-24 08:00:00)
+enterpriseToRevenue	21.177
+enterpriseToEbitda	741.627
+52WeekChange	0.6185286
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1637712000	 (2021-11-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2505.TW
+underlyingSymbol	2505.TW
+shortName	KUOYANG CONSTRUCTION
+longName	Kuo Yang Construction Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f4555602-a64e-332a-93d5-7087c8df73f8
+messageBoardId	finmb_9829887
+gmtOffSetMilliseconds	28800000
+currentPrice	29.7
+recommendationKey	none
+totalCash	2445596928
+totalCashPerShare	6.436
+ebitda	21001000
+totalDebt	6628945920
+quickRatio	0.321
+currentRatio	1.939
+totalRevenue	735459008
+debtToEquity	64.956
+revenuePerShare	1.935
+returnOnAssets	0.00037999998
+returnOnEquity	0.030769998
+freeCashflow	-1140882304
+operatingCashflow	-608641024
+revenueGrowth	-0.199
+grossMargins	0.39641
+ebitdaMargins	0.02855
+operatingMargins	0.18745
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31    2022-12-31    2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                         0.0           0.0           0.0            0.0
+Tax Rate For Calcs                                             0.086407      0.121939       0.15742       0.041965
+Normalized EBITDA                                           385888000.0   614384000.0  1242420000.0   5264222000.0
+Net Income From Continuing Operation Net Minority Interest  304198000.0   485928000.0   982151000.0   4943139000.0
+Reconciled Depreciation                                      32424000.0    30466000.0    30116000.0     34191000.0
+Reconciled Cost Of Revenue                                  443914000.0  3169639000.0  3762094000.0   8752481000.0
+EBITDA                                                      385888000.0   614384000.0  1242420000.0   5264222000.0
+EBIT                                                        353464000.0   583918000.0  1212304000.0   5230031000.0
+Net Interest Income                                          -6274000.0   -24463000.0   -39531000.0    -14848000.0
+Interest Expense                                             19753000.0    30519000.0    46674000.0     70441000.0
+Interest Income                                              13479000.0     6056000.0     7143000.0     55593000.0
+Normalized Income                                           304198000.0   485928000.0   982151000.0   4943139000.0
+Net Income From Continuing And Discontinued Operation       304198000.0   485928000.0   982151000.0   4943139000.0
+Total Expenses                                              724724000.0  3675299000.0  4184051000.0   9274086000.0
+Diluted Average Shares                                              NaN   380680000.0   380440000.0    653402000.0
+Basic Average Shares                                                NaN   380000000.0   380000000.0    652348000.0
+Diluted EPS                                                         NaN          1.28          2.58           7.57
+Basic EPS                                                           NaN          1.28          2.58           7.58
+Diluted NI Availto Com Stockholders                         304198000.0   485928000.0   982151000.0   4943139000.0
+Net Income Common Stockholders                              304198000.0   485928000.0   982151000.0   4943139000.0
+Otherunder Preferred Stock Dividend                                 0.0           0.0           0.0            0.0
+Net Income                                                  304198000.0   485928000.0   982151000.0   4943139000.0
+Minority Interests                                            -678000.0       10000.0       14000.0        72000.0
+Net Income Including Noncontrolling Interests               304876000.0   485918000.0   982137000.0   4943067000.0
+Net Income Continuous Operations                            304876000.0   485918000.0   982137000.0   4943067000.0
+Tax Provision                                                28835000.0    67481000.0   183493000.0    216523000.0
+Pretax Income                                               333711000.0   553399000.0  1165630000.0   5159590000.0
+Other Non Operating Income Expenses                          92081000.0   104426000.0    59519000.0    136556000.0
+Net Non Operating Interest Income Expense                    -6274000.0   -24463000.0   -39531000.0    -14848000.0
+Interest Expense Non Operating                               19753000.0    30519000.0    46674000.0     70441000.0
+Interest Income Non Operating                                13479000.0     6056000.0     7143000.0     55593000.0
+Operating Income                                             10735000.0   279217000.0   940233000.0   5003829000.0
+Operating Expense                                           280810000.0   505660000.0   421957000.0    521605000.0
+Selling General And Administration                          280810000.0   505660000.0   421957000.0    521605000.0
+Selling And Marketing Expense                                37818000.0   176846000.0   169106000.0    204193000.0
+General And Administrative Expense                          242992000.0   328814000.0   252851000.0    317412000.0
+Gross Profit                                                291545000.0   784877000.0  1362190000.0   5525434000.0
+Cost Of Revenue                                             443914000.0  3169639000.0  3762094000.0   8752481000.0
+Total Revenue                                               735459000.0  3954516000.0  5124284000.0  14277915000.0
+Operating Revenue                                           735459000.0  3954516000.0  5124284000.0  14277915000.0

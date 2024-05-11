@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 329, Henan Street
+city	Douliou
+zip	640403
+country	Taiwan
+phone	886 5 557 4888
+website	https://www.fatc.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Formosa Advanced Technologies Co., Ltd. provides warfer probe, IC assembly, testing, and module turnkey services in Taiwan. The company was founded in 1990 and is headquartered in Douliou, Taiwan.
+fullTimeEmployees	2313
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsien-Cheng  Chang', 'title': 'Head of Corporate Governance, Acting President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xin-Rong  Lin', 'title': 'Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tsai-Hsien  Lin', 'title': 'Principal Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Hao  Huang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Jian  Lin', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	37.65
+open	37.9
+dayLow	37.8
+dayHigh	38.35
+regularMarketPreviousClose	37.65
+regularMarketOpen	37.9
+regularMarketDayLow	37.8
+regularMarketDayHigh	38.35
+dividendRate	3.3
+dividendYield	0.0868
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	2.2449
+fiveYearAvgDividendYield	6.66
+beta	0.363
+trailingPE	25.85034
+volume	753435
+regularMarketVolume	753435
+averageVolume	370594
+averageVolume10days	318331
+averageDailyVolume10Day	318331
+bid	37.95
+ask	38.0
+marketCap	16804436992
+fiftyTwoWeekLow	35.35
+fiftyTwoWeekHigh	44.55
+priceToSalesTrailing12Months	2.1970623
+fiftyDayAverage	36.468
+twoHundredDayAverage	38.31925
+currency	TWD
+enterpriseValue	10883883008
+profitMargins	0.06932
+floatShares	137371911
+sharesOutstanding	442222016
+heldPercentInsiders	0.69319
+heldPercentInstitutions	0.03195
+impliedSharesOutstanding	443451008
+bookValue	26.7
+priceToBook	1.423221
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.915
+netIncomeToCommon	530215008
+trailingEps	1.47
+lastSplitFactor	105:100
+lastSplitDate	1187222400	 (2007-08-16 08:00:00)
+enterpriseToRevenue	1.423
+enterpriseToEbitda	7.442
+52WeekChange	-0.089820385
+SandP52WeekChange	0.26265144
+lastDividendValue	3.3
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8131.TW
+underlyingSymbol	8131.TW
+shortName	FORMOSA ADVANCED TECHNOLOGIES
+longName	Formosa Advanced Technologies Co., Ltd.
+firstTradeDateEpochUtc	1196298000	 (2007-11-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0042a06a-85e7-35cd-8adc-66f19d9dc48a
+messageBoardId	finmb_23136078
+gmtOffSetMilliseconds	28800000
+currentPrice	38.0
+recommendationKey	none
+totalCash	6443109888
+totalCashPerShare	14.57
+ebitda	1462537984
+totalDebt	522548992
+quickRatio	10.132
+currentRatio	11.023
+totalRevenue	7648593920
+debtToEquity	4.426
+revenuePerShare	17.296
+returnOnAssets	0.015039999
+returnOnEquity	0.04325
+freeCashflow	767915264
+operatingCashflow	1846790016
+earningsGrowth	-0.915
+revenueGrowth	-0.218
+grossMargins	0.07883
+ebitdaMargins	0.19122
+operatingMargins	0.03221
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31     2022-12-31    2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                          0.0            0.0           0.0     -143298.118054
+Tax Rate For Calcs                                              0.149327       0.186649      0.190857           0.176258
+Normalized EBITDA                                           1798712000.0   3806820000.0  3355344000.0       3341786000.0
+Total Unusual Items                                                  NaN            NaN           0.0          -813000.0
+Total Unusual Items Excluding Goodwill                               NaN            NaN           0.0          -813000.0
+Net Income From Continuing Operation Net Minority Interest   530215000.0   2055289000.0  1557008000.0       1402677000.0
+Reconciled Depreciation                                     1169537000.0   1274955000.0  1426159000.0       1632897000.0
+Reconciled Cost Of Revenue                                  7045693000.0   8242255000.0  7850316000.0       7817062000.0
+EBITDA                                                      1798712000.0   3806820000.0  3355344000.0       3340973000.0
+EBIT                                                         629175000.0   2531865000.0  1929185000.0       1708076000.0
+Net Interest Income                                          136422000.0     38676000.0     -271000.0         -1033000.0
+Interest Expense                                               5886000.0      4925000.0     4917000.0          5264000.0
+Interest Income                                              142308000.0     43601000.0     4646000.0          4231000.0
+Normalized Income                                            530215000.0   2055289000.0  1557008000.0  1403346701.881946
+Net Income From Continuing And Discontinued Operation        530215000.0   2055289000.0  1557008000.0       1402677000.0
+Total Expenses                                              7311213000.0   8491634000.0  8067064000.0       8020680000.0
+Diluted Average Shares                                               NaN    443327000.0   443517000.0        443498000.0
+Basic Average Shares                                                 NaN    442222000.0   442222000.0        442222000.0
+Diluted EPS                                                          NaN           4.64          3.51               3.16
+Basic EPS                                                            NaN           4.65          3.52               3.17
+Diluted NI Availto Com Stockholders                          530215000.0   2055289000.0  1557008000.0       1402677000.0
+Net Income Common Stockholders                               530215000.0   2055289000.0  1557008000.0       1402677000.0
+Otherunder Preferred Stock Dividend                                  0.0            0.0           0.0                0.0
+Net Income                                                   530215000.0   2055289000.0  1557008000.0       1402677000.0
+Net Income Including Noncontrolling Interests                530215000.0   2055289000.0  1557008000.0       1402677000.0
+Net Income Continuous Operations                             530215000.0   2055289000.0  1557008000.0       1402677000.0
+Tax Provision                                                 93074000.0    471651000.0   367260000.0        300135000.0
+Pretax Income                                                623289000.0   2526940000.0  1924268000.0       1702812000.0
+Other Non Operating Income Expenses                          149486000.0    546455000.0    52411000.0         18562000.0
+Special Income Charges                                               NaN            NaN           0.0          -813000.0
+Write Off                                                            NaN            NaN           0.0           813000.0
+Net Non Operating Interest Income Expense                    136422000.0     38676000.0     -271000.0         -1033000.0
+Interest Expense Non Operating                                 5886000.0      4925000.0     4917000.0          5264000.0
+Interest Income Non Operating                                142308000.0     43601000.0     4646000.0          4231000.0
+Operating Income                                             337381000.0   1941809000.0  1872128000.0       1686096000.0
+Operating Expense                                            265520000.0    249379000.0   216748000.0        203618000.0
+Research And Development                                     163875000.0    162930000.0   137229000.0        124950000.0
+Selling General And Administration                           101645000.0     86449000.0    79519000.0         78668000.0
+Selling And Marketing Expense                                 20554000.0     19315000.0    18968000.0         20933000.0
+General And Administrative Expense                            81091000.0     67134000.0    60551000.0         57735000.0
+Gross Profit                                                 602901000.0   2191188000.0  2088876000.0       1889714000.0
+Cost Of Revenue                                             7045693000.0   8242255000.0  7850316000.0       7817062000.0
+Total Revenue                                               7648594000.0  10433443000.0  9939192000.0       9706776000.0
+Operating Revenue                                           7648594000.0  10433443000.0  9939192000.0       9706776000.0

@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 8, Da'an Road
+address2	Xinzhuang District
+city	New Taipei City
+zip	242065
+country	Taiwan
+phone	886 2 2202 0152
+fax	886 2 2204 9417
+website	https://www.sinkang.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Sinkang Industries Co., Ltd. manufactures and sells stainless steel in Taiwan and internationally. It primarily offers stainless steel sheets/coils, wire rods, and tubes. The company also provides stainless steel plate/coil shearing, coil slitting, plate surface treatment, mirror finishing, and embossing forming, as well as round tube and angle bar forming services. Its products are used in the construction and tableware, mobile devices, and appliances, as well as in the petrochemical, food, medical equipment, transportation equipment, electrical equipment, office equipment, and machinery manufacturing industries. The company was founded in 1971 and is headquartered in New Taipei City, Taiwan.
+fullTimeEmployees	185
+companyOfficers	[{'maxAge': 1, 'name': 'Chi Tsai Hsi', 'title': 'Chairman and General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.15
+open	17.15
+dayLow	17.0
+dayHigh	17.25
+regularMarketPreviousClose	17.15
+regularMarketOpen	17.15
+regularMarketDayLow	17.0
+regularMarketDayHigh	17.25
+dividendRate	0.2
+dividendYield	0.0116
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	6.6667
+fiveYearAvgDividendYield	2.79
+beta	0.946
+trailingPE	575.0
+volume	165067
+regularMarketVolume	165067
+averageVolume	516792
+averageVolume10days	203650
+averageDailyVolume10Day	203650
+bid	17.25
+ask	17.3
+marketCap	2251504384
+fiftyTwoWeekLow	15.1
+fiftyTwoWeekHigh	20.1
+priceToSalesTrailing12Months	0.7866133
+fiftyDayAverage	16.861
+twoHundredDayAverage	16.89225
+currency	TWD
+enterpriseValue	2072594560
+profitMargins	-0.00727
+floatShares	95953248
+sharesOutstanding	130522000
+heldPercentInsiders	0.38451
+heldPercentInstitutions	0.00068000006
+impliedSharesOutstanding	130522000
+bookValue	12.689
+priceToBook	1.3594452
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-20810000
+trailingEps	0.03
+lastSplitFactor	1.01:1
+lastSplitDate	1345507200	 (2012-08-21 08:00:00)
+enterpriseToRevenue	0.724
+enterpriseToEbitda	-47.551
+52WeekChange	-0.052197814
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2032.TW
+underlyingSymbol	2032.TW
+shortName	SINKANG INDUSTRIES CO
+longName	Sinkang Industries Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c983cdac-bfdf-38e7-85e3-b47ff1790b98
+messageBoardId	finmb_11369776
+gmtOffSetMilliseconds	28800000
+currentPrice	17.25
+recommendationKey	none
+totalCash	203800000
+totalCashPerShare	1.561
+ebitda	-43587000
+totalDebt	24890000
+quickRatio	10.085
+currentRatio	13.293
+totalRevenue	2862276096
+debtToEquity	1.503
+revenuePerShare	21.929
+returnOnAssets	-0.01928
+returnOnEquity	-0.01239
+freeCashflow	85664000
+operatingCashflow	84860000
+revenueGrowth	-0.047
+grossMargins	0.01544
+ebitdaMargins	-0.01523
+operatingMargins	-0.02341
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                 -2226895.938311     61236.062718     187138.756237   -521230.382708
+Tax Rate For Calcs                                                 0.205604          0.16777          0.186579         0.177048
+Normalized EBITDA                                                 3867000.0       66636000.0       226959000.0      119238000.0
+Total Unusual Items                                             -10831000.0         365000.0         1003000.0       -2944000.0
+Total Unusual Items Excluding Goodwill                          -10831000.0         365000.0         1003000.0       -2944000.0
+Net Income From Continuing Operation Net Minority Interest      -20810000.0       38216000.0       166927000.0       75993000.0
+Reconciled Depreciation                                          18682000.0       20577000.0        21958000.0       23204000.0
+Reconciled Cost Of Revenue                                     2818858000.0     3252957000.0      3188213000.0     3071560000.0
+EBITDA                                                           -6964000.0       67001000.0       227962000.0      116294000.0
+EBIT                                                            -25646000.0       46424000.0       206004000.0       93090000.0
+Net Interest Income                                               2433000.0         576000.0         -749000.0        -296000.0
+Interest Expense                                                   550000.0         504000.0          788000.0         748000.0
+Interest Income                                                   2983000.0        1080000.0           39000.0         452000.0
+Normalized Income                                          -12205895.938311  37912236.062718  166111138.756237  78415769.617292
+Net Income From Continuing And Discontinued Operation           -20810000.0       38216000.0       166927000.0       75993000.0
+Total Expenses                                                 2910239000.0     3344387000.0      3299992000.0     3175395000.0
+Diluted Average Shares                                          130532000.0      130597000.0       130731000.0      130676000.0
+Basic Average Shares                                            130522000.0      130522000.0       130522000.0      130522000.0
+Diluted EPS                                                           -0.16             0.29              1.28             0.58
+Basic EPS                                                             -0.16             0.29              1.28             0.58
+Diluted NI Availto Com Stockholders                             -20810000.0       38216000.0       166927000.0       75993000.0
+Net Income Common Stockholders                                  -20810000.0       38216000.0       166927000.0       75993000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0               0.0              0.0
+Net Income                                                      -20810000.0       38216000.0       166927000.0       75993000.0
+Net Income Including Noncontrolling Interests                   -20810000.0       38216000.0       166927000.0       75993000.0
+Net Income Continuous Operations                                -20810000.0       38216000.0       166927000.0       75993000.0
+Tax Provision                                                    -5386000.0        7704000.0        38289000.0       16349000.0
+Pretax Income                                                   -26196000.0       45920000.0       205216000.0       92342000.0
+Other Non Operating Income Expenses                               3289000.0       10546000.0         3009000.0        -757000.0
+Special Income Charges                                          -10831000.0         365000.0         1003000.0       -2944000.0
+Write Off                                                        10831000.0        -365000.0        -1003000.0        2944000.0
+Net Non Operating Interest Income Expense                         2433000.0         576000.0         -749000.0        -296000.0
+Interest Expense Non Operating                                     550000.0         504000.0          788000.0         748000.0
+Interest Income Non Operating                                     2983000.0        1080000.0           39000.0         452000.0
+Operating Income                                                -47963000.0       16680000.0       189147000.0       91549000.0
+Operating Expense                                                91381000.0       91430000.0       111779000.0      103835000.0
+Selling General And Administration                               91381000.0       91430000.0       111779000.0      103835000.0
+Selling And Marketing Expense                                    56465000.0       54199000.0        56073000.0       61691000.0
+General And Administrative Expense                               34916000.0       37231000.0        55706000.0       42144000.0
+Gross Profit                                                     43418000.0      108110000.0       300926000.0      195384000.0
+Cost Of Revenue                                                2818858000.0     3252957000.0      3188213000.0     3071560000.0
+Total Revenue                                                  2862276000.0     3361067000.0      3489139000.0     3266944000.0
+Operating Revenue                                              2862276000.0     3361067000.0      3489139000.0     3266944000.0

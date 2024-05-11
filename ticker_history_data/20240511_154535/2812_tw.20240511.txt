@@ -1,0 +1,135 @@
+=== Ticker Info ===
+address1	No. 87, Min Chuan Road
+address2	West District
+city	Taichung
+zip	40341
+country	Taiwan
+phone	886 4 2223 6021
+fax	886 4 2224 0748
+website	https://www.tcbbank.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Taichung Commercial Bank Co., Ltd. provides various banking products and services in Taiwan. The company offers various deposit products, such as savings account and time deposit accounts, cash, foreign currency demand deposits, and travel checks and remittance; corporate finance services, which include corporate loans, letter of credit, collections, and factoring and forfaiting, as well as account information, deposits, payments, accounts receivable financing, hedging strategies, financial instruments, and consultation services; and personal mortgage loans comprising house mortgage, house renovations, children's education funds, business start-up capital, investments, and financial management services. It also provides financial advice, asset allocation, consultation service, and trust planning, as well as family and retirement services; credit cards; and online and mobile banking, and mobile payment services. The company was formerly known as Taichung Small and Medium Business Bank Company Limited and changed its name to Taichung Commercial Bank Co., Ltd. in December 1998. Taichung Commercial Bank Co., Ltd. was founded in 1952 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Te-Wei  Chia', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Ming  Liao', 'title': 'Deputy Executive Vice President of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Chen  Chen', 'title': 'Deputy Executive Vice President of Corporate Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Erhchia  Yuan', 'title': 'Clerk', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Yi  Liu', 'title': 'Chief Compliance Officer of Head Institution & Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hua  Yao', 'title': 'Deputy Executive Vice President of Legal & Compliance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Liang  Wu', 'title': 'Deputy Executive Vice President of Human Resource Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Yuan  Tung', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Hsiung  Huang', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Yin  Wang', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.85
+open	17.9
+dayLow	17.9
+dayHigh	18.05
+regularMarketPreviousClose	17.85
+regularMarketOpen	17.9
+regularMarketDayLow	17.9
+regularMarketDayHigh	18.05
+dividendRate	0.3
+dividendYield	0.0166
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	0.2308
+fiveYearAvgDividendYield	2.16
+beta	0.318
+trailingPE	13.884615
+volume	4421372
+regularMarketVolume	4421372
+averageVolume	7409151
+averageVolume10days	5219506
+averageDailyVolume10Day	5219506
+bid	18.05
+ask	18.1
+marketCap	94331101184
+fiftyTwoWeekLow	13.915547
+fiftyTwoWeekHigh	18.2
+priceToSalesTrailing12Months	5.959123
+fiftyDayAverage	17.26
+twoHundredDayAverage	15.776
+trailingAnnualDividendRate	0.4
+trailingAnnualDividendYield	0.022408964
+currency	TWD
+enterpriseValue	83521634304
+profitMargins	0.43093
+floatShares	3256954665
+sharesOutstanding	5226100224
+heldPercentInsiders	0.38141
+heldPercentInstitutions	0.10592
+impliedSharesOutstanding	5240609792
+bookValue	14.641
+priceToBook	1.2328392
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.369
+netIncomeToCommon	6821433856
+trailingEps	1.3
+lastSplitFactor	1042:1000
+lastSplitDate	1689638400	 (2023-07-18 08:00:00)
+enterpriseToRevenue	5.276
+52WeekChange	0.288226
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2812.TW
+underlyingSymbol	2812.TW
+shortName	TAICHUNG COMMERCIAL BANK
+longName	Taichung Commercial Bank Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	af19873e-9eb4-364a-8bd9-95cc56e14f58
+messageBoardId	finmb_883003
+gmtOffSetMilliseconds	28800000
+currentPrice	18.05
+recommendationKey	none
+totalCash	68908613632
+totalCashPerShare	13.185
+totalDebt	58099236864
+totalRevenue	15829694464
+revenuePerShare	3.029
+returnOnAssets	0.008090001
+returnOnEquity	0.09361
+operatingCashflow	-22206654464
+earningsGrowth	0.289
+revenueGrowth	0.168
+operatingMargins	0.55811
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     -91756.486176    -2099950.567846     -827171.794055    -1242639.483191
+Tax Rate For Calcs                                                   0.171507           0.190351           0.138787           0.154021
+Total Unusual Items                                                 -535000.0        -11032000.0         -5960000.0         -8068000.0
+Total Unusual Items Excluding Goodwill                              -535000.0        -11032000.0         -5960000.0         -8068000.0
+Net Income From Continuing Operation Net Minority Interest       6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Reconciled Depreciation                                           476768000.0        438032000.0        498065000.0        490795000.0
+Net Interest Income                                             11324777000.0      10774982000.0       9277630000.0       8279093000.0
+Interest Expense                                                 9926309000.0       4809525000.0       2967855000.0       3850336000.0
+Interest Income                                                 21251086000.0      15584507000.0      12245485000.0      12129429000.0
+Normalized Income                                           6821877243.513824  5353137049.432154  4801406828.205945  4032358360.516809
+Net Income From Continuing And Discontinued Operation            6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Diluted Average Shares                                                    NaN       4981580000.0       4757125960.0       4487832287.0
+Basic Average Shares                                                      NaN       4977015000.0       4752770400.0       4483476009.0
+Diluted EPS                                                               NaN               1.07           1.007678           0.893552
+Basic EPS                                                                 NaN               1.07           1.007678           0.893552
+Diluted NI Availto Com Stockholders                              6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Net Income Common Stockholders                                   6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Net Income                                                       6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Net Income Including Noncontrolling Interests                    6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Net Income Continuous Operations                                 6821434000.0       5344205000.0       4796274000.0       4025533000.0
+Tax Provision                                                    1412115000.0       1256438000.0        772935000.0        732897000.0
+Pretax Income                                                    8233549000.0       6600643000.0       5569209000.0       4758430000.0
+Special Income Charges                                              -535000.0        -11032000.0         -5960000.0         -8068000.0
+Write Off                                                            535000.0         11032000.0          5960000.0          8068000.0
+Gain On Sale Of Security                                         1421299000.0       1209505000.0        892733000.0        144708000.0
+Operating Expense                                                7596145000.0       7164071000.0       6784154000.0       6366280000.0
+Other Operating Expenses                                                  0.0                0.0                0.0                0.0
+Depreciation And Amortization In Income Statement                 476768000.0        438032000.0        498065000.0        490795000.0
+Depreciation Income Statement                                     476768000.0        438032000.0        498065000.0        490795000.0
+Selling General And Administration                               2434374000.0       2221878000.0       1980647000.0       1905162000.0
+General And Administrative Expense                               2434374000.0       2221878000.0       1980647000.0       1905162000.0
+Total Revenue                                                   17499579000.0      15034912000.0      13728426000.0      11655104000.0
+Operating Revenue                                               17499579000.0      15034912000.0      13728426000.0      11655104000.0

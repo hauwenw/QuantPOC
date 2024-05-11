@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 599, Huan-Nan Rd.
+address2	Taoyuan High-Tech Industrial Park Guanyin Dist.
+city	Taoyuan City
+zip	328
+country	Taiwan
+phone	886 3 4738788
+fax	886 3 4738368
+website	https://www.danentech.com
+industry	Solar
+industryKey	solar
+industryDisp	Solar
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Danen Technology Corporation engages in manufacture and sale of solar ingots and wafers for photovoltaic applications worldwide. It offers multi-crystalline solar wafers, ingots, and bricks; and customized OEM services. The company serves solar cell companies. Danen Technology Corporation was founded in 2007 and is headquartered in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jenn-Ming  Fang', 'title': 'Chairman, President & CEO', 'fiscalYear': 2021, 'totalPay': 5200000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Su-Ying  Lin', 'title': 'Financial Officer & Accounting Officer and Deputy Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	19.8
+open	18.95
+dayLow	18.85
+dayHigh	20.35
+regularMarketPreviousClose	19.8
+regularMarketOpen	18.95
+regularMarketDayLow	18.85
+regularMarketDayHigh	20.35
+exDividendDate	1311897600	 (2011-07-29 08:00:00)
+beta	1.448
+volume	1672573
+regularMarketVolume	1672573
+averageVolume	1349581
+averageVolume10days	2015477
+averageDailyVolume10Day	2015477
+bid	19.55
+ask	19.6
+marketCap	1499302016
+fiftyTwoWeekLow	12.5
+fiftyTwoWeekHigh	22.75
+priceToSalesTrailing12Months	36.592438
+fiftyDayAverage	15.915
+twoHundredDayAverage	14.03575
+currency	TWD
+enterpriseValue	844077312
+profitMargins	-0.71642
+floatShares	73647205
+sharesOutstanding	76495000
+heldPercentInsiders	0.15562001
+impliedSharesOutstanding	76702304
+bookValue	9.213
+priceToBook	2.1274285
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-29354000
+trailingEps	-0.26
+lastSplitFactor	673.885:1000
+lastSplitDate	1664409600	 (2022-09-29 08:00:00)
+enterpriseToRevenue	20.601
+enterpriseToEbitda	-20.948
+52WeekChange	0.2980132
+SandP52WeekChange	0.26265144
+lastDividendValue	4.516376
+lastDividendDate	1311897600	 (2011-07-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3686.TW
+underlyingSymbol	3686.TW
+shortName	DANEN TECHNOLOGY CORPORTAION
+longName	Danen Technology Corporation
+firstTradeDateEpochUtc	1279587600	 (2010-07-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c7c50a64-d65b-3b97-8fa9-0f75a2833410
+messageBoardId	finmb_62404121
+gmtOffSetMilliseconds	28800000
+currentPrice	19.6
+recommendationKey	none
+totalCash	672745024
+totalCashPerShare	8.795
+ebitda	-40293000
+totalDebt	2219000
+quickRatio	103.259
+currentRatio	103.358
+totalRevenue	40973000
+debtToEquity	0.315
+revenuePerShare	0.536
+returnOnAssets	-0.03486
+returnOnEquity	-0.040799998
+freeCashflow	14164625
+operatingCashflow	39203000
+revenueGrowth	5.405
+grossMargins	-0.018960001
+ebitdaMargins	-0.9834
+operatingMargins	-0.36371
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                            2023-12-31  2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                        0.0         0.0          0.0          0.0
+Tax Rate For Calcs                                                 0.0         0.0          0.0          0.0
+Normalized EBITDA                                          -11257000.0 -28261000.0   14810000.0 -125996000.0
+Total Unusual Items                                        -15581000.0         0.0          NaN          NaN
+Total Unusual Items Excluding Goodwill                     -15581000.0         0.0          NaN          NaN
+Net Income From Continuing Operation Net Minority Interest -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Reconciled Depreciation                                      2465000.0   2470000.0   33973000.0   22932000.0
+Reconciled Cost Of Revenue                                  41750000.0  45539000.0  110493000.0  126379000.0
+EBITDA                                                     -26838000.0 -28261000.0   14810000.0 -125996000.0
+EBIT                                                       -29303000.0 -30731000.0  -19163000.0 -148928000.0
+Net Interest Income                                         10926000.0   4311000.0    -554000.0    -567000.0
+Interest Expense                                               51000.0     84000.0    1369000.0    2036000.0
+Interest Income                                             10977000.0   4395000.0     815000.0    1469000.0
+Normalized Income                                          -13773000.0 -30815000.0  -20532000.0 -150964000.0
+Net Income From Continuing And Discontinued Operation      -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Total Expenses                                              65964000.0  74234000.0  155472000.0  167658000.0
+Diluted Average Shares                                      76495000.0  76495000.0   76495000.0   76495381.0
+Basic Average Shares                                        76495000.0  76495000.0   76495000.0   76495381.0
+Diluted EPS                                                      -0.38        -0.4        -0.27    -1.973631
+Basic EPS                                                        -0.38        -0.4        -0.27    -1.973631
+Diluted NI Availto Com Stockholders                        -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Net Income Common Stockholders                             -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Otherunder Preferred Stock Dividend                                0.0         0.0          0.0          0.0
+Net Income                                                 -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Net Income Including Noncontrolling Interests              -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Net Income Discontinuous Operations                                NaN         NaN          NaN -108250000.0
+Net Income Continuous Operations                           -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Tax Provision                                                      0.0         0.0          0.0          0.0
+Pretax Income                                              -29354000.0 -30815000.0  -20532000.0 -150964000.0
+Other Non Operating Income Expenses                           292000.0  -5270000.0 -108246000.0  -87254000.0
+Special Income Charges                                     -15581000.0         0.0          NaN          NaN
+Write Off                                                   15581000.0         0.0          NaN          NaN
+Net Non Operating Interest Income Expense                   10926000.0   4311000.0    -554000.0    -567000.0
+Interest Expense Non Operating                                 51000.0     84000.0    1369000.0    2036000.0
+Interest Income Non Operating                               10977000.0   4395000.0     815000.0    1469000.0
+Operating Income                                           -24991000.0 -29856000.0   88268000.0  -63143000.0
+Operating Expense                                           24214000.0  28695000.0   44979000.0   41279000.0
+Selling General And Administration                          24214000.0  28695000.0   44979000.0   41279000.0
+Selling And Marketing Expense                                  40000.0     40000.0      39000.0      41000.0
+General And Administrative Expense                          24174000.0  28655000.0   44940000.0   41238000.0
+Gross Profit                                                 -777000.0  -1161000.0  133247000.0  -21864000.0
+Cost Of Revenue                                             41750000.0  45539000.0  110493000.0  126379000.0
+Total Revenue                                               40973000.0  44378000.0  243740000.0  104515000.0
+Operating Revenue                                           40973000.0  44378000.0  243740000.0  104515000.0

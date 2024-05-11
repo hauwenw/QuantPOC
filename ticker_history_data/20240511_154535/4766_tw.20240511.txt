@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 519, Zhongshan Road
+address2	Xigang District
+city	Tainan City
+country	Taiwan
+phone	886 6 796 5888
+fax	866 6 795 4409
+website	https://www.adhesivegluemaker.com
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Nan Pao Resins Chemical Co., Ltd. engages in the manufacturing, wholesale, and retail sale of synthetic resins and plastics, adhesives, resin coatings, dyes, and pigments in Taiwan, Oceania, Asia, the United States, Africa, and Europe. The company offers footwear adhesives, including footwear cleaners, primers, and hardeners, as well as shoe adhesives; and adhesives and specialties, such as textile, woodworking and furniture, construction, graphic arts, tape and label, paper converting, rigid packaging, leather coating, specialty, flexible package, construction and decoration, nonwoven, pressure sensitive, and other adhesives, as well as product assemblies. It also provides hot melt adhesives comprising footwear, bookbinding, carton sealing / packaging, woodworking, hygiene, and cushion/EPE foam hot melt adhesives, as well as labeling, filter glue, automatic, insect trapping, pocket spring, and medical tap adhesives; building and construction, flooring and concrete, heavy duty anti-rust, industrial, eco green, functional, indoor and outdoor powder, and special application coatings; and construction materials, which include grouts, waterproof products, sealants, deadeners, and bituminous products. Nan Pao Resins Chemical Co., Ltd. was incorporated in 1963 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Hsien  Hsu', 'title': 'CEO, GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhao-Qian  Cai', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhi-Yuan  Xu', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Chin  Lin', 'title': 'Chief Accounting Officer, Asst. Manager of Financial Mgmt. Div., Company Secretary & Accounting Mgr.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Jen  Fang', 'title': 'General Manager of Operation Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ying-Lin  Huang', 'title': 'Executive GM of Sports Goods Adhesives and Materials Business Division & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yong-Ching  Shen', 'title': 'Deputy General Manager of R&D and Innovation Division & Head of R&D', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jung-Wen  Kuo', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Chen  Liu', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	359.5
+open	366.0
+dayLow	359.5
+dayHigh	373.0
+regularMarketPreviousClose	359.5
+regularMarketOpen	366.0
+regularMarketDayLow	359.5
+regularMarketDayHigh	373.0
+dividendRate	10.0
+dividendYield	0.0269
+exDividendDate	1687305600	 (2023-06-21 08:00:00)
+payoutRatio	0.498
+fiveYearAvgDividendYield	4.19
+beta	0.558
+trailingPE	18.482586
+forwardPE	17.11193
+volume	796099
+regularMarketVolume	796099
+averageVolume	887177
+averageVolume10days	754998
+averageDailyVolume10Day	754998
+bid	369.0
+ask	371.5
+marketCap	44792127488
+fiftyTwoWeekLow	157.5
+fiftyTwoWeekHigh	379.0
+priceToSalesTrailing12Months	2.1763625
+fiftyDayAverage	326.58
+twoHundredDayAverage	260.025
+trailingAnnualDividendRate	15.0
+trailingAnnualDividendYield	0.04172462
+currency	TWD
+enterpriseValue	44603682816
+profitMargins	0.11798
+floatShares	45335526
+sharesOutstanding	120571000
+heldPercentInsiders	0.61676997
+heldPercentInstitutions	0.14317
+impliedSharesOutstanding	122982000
+bookValue	109.291
+priceToBook	3.399182
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.961
+netIncomeToCommon	2428215040
+trailingEps	20.1
+forwardEps	21.71
+lastSplitFactor	1020:1000
+lastSplitDate	1501113600	 (2017-07-27 08:00:00)
+enterpriseToRevenue	2.167
+enterpriseToEbitda	12.685
+52WeekChange	1.3438485
+SandP52WeekChange	0.26265144
+lastDividendValue	10.0
+lastDividendDate	1687305600	 (2023-06-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4766.TW
+underlyingSymbol	4766.TW
+shortName	NAN PAO RESINS CHEMICAL CO LTD
+longName	Nan Pao Resins Chemical Co., Ltd.
+firstTradeDateEpochUtc	1500858000	 (2017-07-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5a531621-32ff-3e77-8c6c-7a63edaf80b7
+messageBoardId	finmb_23036950
+gmtOffSetMilliseconds	28800000
+currentPrice	371.5
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	5165815808
+totalCashPerShare	42.845
+ebitda	3516135936
+totalDebt	3608275968
+quickRatio	1.606
+currentRatio	2.101
+totalRevenue	20581187584
+debtToEquity	24.805
+revenuePerShare	170.698
+returnOnAssets	0.07654
+returnOnEquity	0.17002001
+freeCashflow	2219648512
+operatingCashflow	3128986112
+earningsGrowth	0.963
+revenueGrowth	-0.011
+grossMargins	0.31535998
+ebitdaMargins	0.17084
+operatingMargins	0.16816
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -7179059.374246    -4075366.755624    -800794.06856    -1840590.30865
+Tax Rate For Calcs                                                   0.243779           0.219118         0.227176          0.211053
+Normalized EBITDA                                                4182282000.0       3001133000.0     1731919000.0      2098289000.0
+Total Unusual Items                                               -29449000.0        -18599000.0       -3525000.0        -8721000.0
+Total Unusual Items Excluding Goodwill                            -29449000.0        -18599000.0       -3525000.0        -8721000.0
+Net Income From Continuing Operation Net Minority Interest       2428215000.0       1741459000.0      875780000.0      1219753000.0
+Reconciled Depreciation                                           654811000.0        510805000.0      471056000.0       424595000.0
+Reconciled Cost Of Revenue                                      14090728000.0      16716776000.0    13877962000.0     11181051000.0
+EBITDA                                                           4152833000.0       2982534000.0     1728394000.0      2089568000.0
+EBIT                                                             3498022000.0       2471729000.0     1257338000.0      1664973000.0
+Net Interest Income                                               -33667000.0        -51423000.0      -13180000.0       -10198000.0
+Interest Expense                                                  104261000.0         86315000.0       54797000.0        58881000.0
+Interest Income                                                    70594000.0         34892000.0       41617000.0        48683000.0
+Normalized Income                                           2450484940.625754  1755982633.244376  878504205.93144  1226633409.69135
+Net Income From Continuing And Discontinued Operation            2428215000.0       1741459000.0      875780000.0      1219753000.0
+Total Expenses                                                  17587357000.0      20161339000.0    16924288000.0     14040923000.0
+Diluted Average Shares                                                    NaN        121027000.0      120890000.0       120932000.0
+Basic Average Shares                                                      NaN        120571000.0      120571000.0       120571000.0
+Diluted EPS                                                               NaN              14.39             7.24             10.09
+Basic EPS                                                                 NaN              14.44             7.26             10.12
+Diluted NI Availto Com Stockholders                              2428215000.0       1741459000.0      875780000.0      1219753000.0
+Net Income Common Stockholders                                   2428215000.0       1741459000.0      875780000.0      1219753000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0              0.0               0.0
+Net Income                                                       2428215000.0       1741459000.0      875780000.0      1219753000.0
+Minority Interests                                               -138217000.0       -121269000.0      -53573000.0       -47369000.0
+Net Income Including Noncontrolling Interests                    2566432000.0       1862728000.0      929353000.0      1267122000.0
+Net Income Continuous Operations                                 2566432000.0       1862728000.0      929353000.0      1267122000.0
+Tax Provision                                                     827329000.0        522686000.0      273188000.0       338970000.0
+Pretax Income                                                    3393761000.0       2385414000.0     1202541000.0      1606092000.0
+Other Non Operating Income Expenses                               472020000.0        613176000.0      130303000.0        66494000.0
+Special Income Charges                                            -29449000.0        -18599000.0       -3525000.0        -8721000.0
+Write Off                                                          29449000.0         18599000.0        3525000.0         8721000.0
+Net Non Operating Interest Income Expense                         -33667000.0        -51423000.0      -13180000.0       -10198000.0
+Interest Expense Non Operating                                    104261000.0         86315000.0       54797000.0        58881000.0
+Interest Income Non Operating                                      70594000.0         34892000.0       41617000.0        48683000.0
+Operating Income                                                 2993831000.0       1842974000.0     1055719000.0      1510421000.0
+Operating Expense                                                3496629000.0       3444563000.0     3046326000.0      2859872000.0
+Research And Development                                          519403000.0        513724000.0      485459000.0       500030000.0
+Selling General And Administration                               2977226000.0       2930839000.0     2560867000.0      2359842000.0
+Selling And Marketing Expense                                    1998296000.0       2031894000.0     1728521000.0      1533729000.0
+General And Administrative Expense                                978930000.0        898945000.0      832346000.0       826113000.0
+Gross Profit                                                     6490460000.0       5287537000.0     4102045000.0      4370293000.0
+Cost Of Revenue                                                 14090728000.0      16716776000.0    13877962000.0     11181051000.0
+Total Revenue                                                   20581188000.0      22004313000.0    17980007000.0     15551344000.0
+Operating Revenue                                               20581188000.0      22004313000.0    17980007000.0     15551344000.0

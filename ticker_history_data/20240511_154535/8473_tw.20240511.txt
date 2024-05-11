@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No.99, Jilin Road
+address2	3rd Floor Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2100 2195
+fax	886 2 2100 2196
+website	https://www.mfw.com.tw
+industry	Waste Management
+industryKey	waste-management
+industryDisp	Waste Management
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Forest Water Environmental Engineering Co., Ltd. engages in environmental engineering business in Taiwan. The company is involved in the operation and management of sewage treatment plants, recycling plants, desalination plants, and others. The company also provides design, construction, operation, and maintenance services for seawater desalination engineering technology and equipment; engineering technology and equipment design, construction, operation and maintenance services for the recycling and reuse of livestock manure, kitchen waste, and organic waste; and design, construction, and operation integration services of sludge treatment recycling engineering technology and equipment, as well as wastewater recycling engineering and reclaimed water technology and equipment. In addition, it offers soil pollution investigation and assessment, on-site and off-site pollution remediation, brownfield development, and off-site restoration of contaminated soil; and waste incinerator bottom slag treatment. Forest Water Environmental Engineering Co., Ltd. was founded in 1993 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jen-Chieh  Wu', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Ching  Huang', 'title': 'Head of Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xin Wen  Yang', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.5
+open	43.4
+dayLow	42.3
+dayHigh	43.4
+regularMarketPreviousClose	43.5
+regularMarketOpen	43.4
+regularMarketDayLow	42.3
+regularMarketDayHigh	43.4
+exDividendDate	1660176000	 (2022-08-11 08:00:00)
+fiveYearAvgDividendYield	4.21
+beta	0.402
+trailingPE	179.16667
+forwardPE	11.405835
+volume	1146900
+regularMarketVolume	1146900
+averageVolume	3407792
+averageVolume10days	1780713
+averageDailyVolume10Day	1780713
+bid	42.95
+ask	43.0
+marketCap	6766006784
+fiftyTwoWeekLow	26.7
+fiftyTwoWeekHigh	52.5
+priceToSalesTrailing12Months	1.8387492
+fiftyDayAverage	42.199
+twoHundredDayAverage	32.478
+currency	TWD
+enterpriseValue	11071850496
+profitMargins	0.0108
+sharesOutstanding	157348992
+heldPercentInsiders	0.73111
+heldPercentInstitutions	0.00596
+impliedSharesOutstanding	157738000
+bookValue	36.775
+priceToBook	1.1692725
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	39751000
+trailingEps	0.24
+forwardEps	3.77
+lastSplitFactor	1070:1000
+lastSplitDate	1632960000	 (2021-09-30 08:00:00)
+enterpriseToRevenue	3.009
+enterpriseToEbitda	18.628
+52WeekChange	0.46507668
+SandP52WeekChange	0.26265144
+lastDividendValue	0.85
+lastDividendDate	1660176000	 (2022-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8473.TW
+underlyingSymbol	8473.TW
+shortName	FOREST WATER ENVIRONMENTAL ENG'
+longName	Forest Water Environmental Engineering Co., Ltd.
+firstTradeDateEpochUtc	1427677200	 (2015-03-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f2854cbc-b9d4-3d62-82a1-59572ae919db
+messageBoardId	finmb_281461217
+gmtOffSetMilliseconds	28800000
+currentPrice	43.0
+recommendationKey	none
+totalCash	2749458944
+totalCashPerShare	17.474
+ebitda	594380032
+totalDebt	5383333888
+quickRatio	0.899
+currentRatio	0.937
+totalRevenue	3679678976
+debtToEquity	72.177
+revenuePerShare	25.082
+returnOnAssets	0.01651
+returnOnEquity	0.022550002
+freeCashflow	524814368
+operatingCashflow	566681024
+revenueGrowth	-0.247
+grossMargins	0.16825001
+ebitdaMargins	0.16153
+operatingMargins	0.10236
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2           0.2      0.342408      0.342906
+Normalized EBITDA                                            639992000.0   206304000.0   848242000.0   711875000.0
+Net Income From Continuing Operation Net Minority Interest    39751000.0  -273003000.0   195873000.0   154974000.0
+Reconciled Depreciation                                      187428000.0   193521000.0   192675000.0   179541000.0
+Reconciled Cost Of Revenue                                  3060580000.0  3656365000.0  3066749000.0  3717590000.0
+EBITDA                                                       639992000.0   206304000.0   848242000.0   711875000.0
+EBIT                                                         452564000.0    12783000.0   655567000.0   532334000.0
+Net Interest Income                                         -157789000.0  -140109000.0   -31804000.0  -128155000.0
+Interest Expense                                             168769000.0   144093000.0   142203000.0   129381000.0
+Interest Income                                               10980000.0     3984000.0   110399000.0     1226000.0
+Normalized Income                                             39751000.0  -273003000.0   195873000.0   154974000.0
+Net Income From Continuing And Discontinued Operation         39751000.0  -273003000.0   195873000.0   154974000.0
+Total Expenses                                              3272727000.0  3883697000.0  3275586000.0  3925087000.0
+Diluted Average Shares                                               NaN   144249000.0   161183000.0   153960000.0
+Basic Average Shares                                                 NaN   144249000.0   144249000.0   144249000.0
+Diluted EPS                                                          NaN         -1.89           1.3          1.06
+Basic EPS                                                            NaN         -1.89          1.36          1.07
+Diluted NI Availto Com Stockholders                           39751000.0  -273003000.0   195873000.0   154974000.0
+Net Income Common Stockholders                                39751000.0  -273003000.0   195873000.0   154974000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    39751000.0  -273003000.0   195873000.0   154974000.0
+Minority Interests                                          -122658000.0  -104122000.0  -141711000.0  -109804000.0
+Net Income Including Noncontrolling Interests                162409000.0  -168881000.0   337584000.0   264778000.0
+Net Income Continuous Operations                             162409000.0  -168881000.0   337584000.0   264778000.0
+Tax Provision                                                121386000.0    37571000.0   175780000.0   138175000.0
+Pretax Income                                                283795000.0  -131310000.0   513364000.0   402953000.0
+Other Non Operating Income Expenses                           29099000.0   -25618000.0  -155420000.0   -37699000.0
+Net Non Operating Interest Income Expense                   -157789000.0  -140109000.0   -31804000.0  -128155000.0
+Interest Expense Non Operating                               168769000.0   144093000.0   142203000.0   129381000.0
+Interest Income Non Operating                                 10980000.0     3984000.0   110399000.0     1226000.0
+Operating Income                                             406952000.0    39198000.0   686827000.0   561890000.0
+Operating Expense                                            212147000.0   227332000.0   208837000.0   207497000.0
+Research And Development                                             0.0      483000.0      979000.0     3012000.0
+Selling General And Administration                           212147000.0   226849000.0   207858000.0   204485000.0
+General And Administrative Expense                           212147000.0   226849000.0   207858000.0   204485000.0
+Gross Profit                                                 619099000.0   266530000.0   895664000.0   769387000.0
+Cost Of Revenue                                             3060580000.0  3656365000.0  3066749000.0  3717590000.0
+Total Revenue                                               3679679000.0  3922895000.0  3962413000.0  4486977000.0
+Operating Revenue                                           3679679000.0  3922895000.0  3962413000.0  4486977000.0

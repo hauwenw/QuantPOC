@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 6, Roosevelt Road
+address2	8F.-1 Sec. 1
+city	Taipei
+zip	100
+country	Taiwan
+phone	886 2 2396 6007
+fax	886 2 2396 0755
+website	https://www.smct.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Taiwan Styrene Monomer Corporation, together with its subsidiaries, produces and sells styrene monomer, para-diethyl benzene, toluene, and ethyl benzene in Asia and Europe. The company operates through Plasticization, Investment, and Other segments. Its products are used in electrical appliances, machines, electronics, automobile, packaging, etc. The company primarily serves the manufacturers of polystyrene, acrylonitrile-butadiene-styrene resins, and synthetic rubber. It also offers investment and piping engineering services. In addition, the company provides residential building and industrial plant development rental services; operates hotels; manufactures and sells chemical and plastic raw materials, as well as electric components; and offers educational, information, software, and data storage consulting services. Taiwan Styrene Monomer Corporation was incorporated in 1979 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Yuan  Lin', 'title': 'Chairperson & CEO', 'fiscalYear': 2020, 'totalPay': 9848000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Nan  Chen', 'title': 'Financial Officer and Corporate Governance Officer', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yan-Chun  Chen', 'title': 'Accounting Supervisor', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Yuan  Zheng', 'title': 'Vice President', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	13.1
+open	13.2
+dayLow	13.2
+dayHigh	13.35
+regularMarketPreviousClose	13.1
+regularMarketOpen	13.2
+regularMarketDayLow	13.2
+regularMarketDayHigh	13.35
+dividendRate	0.2
+dividendYield	0.0153
+exDividendDate	1696464000	 (2023-10-05 08:00:00)
+payoutRatio	2.5
+fiveYearAvgDividendYield	4.51
+beta	0.864
+forwardPE	51.346157
+volume	749395
+regularMarketVolume	749395
+averageVolume	745457
+averageVolume10days	752367
+averageDailyVolume10Day	752367
+bid	13.3
+ask	13.35
+marketCap	7047065088
+fiftyTwoWeekLow	12.7
+fiftyTwoWeekHigh	17.85
+priceToSalesTrailing12Months	0.73859453
+fiftyDayAverage	13.426
+twoHundredDayAverage	15.0335
+currency	TWD
+enterpriseValue	7441198080
+profitMargins	-0.04844
+floatShares	456955944
+sharesOutstanding	527870016
+heldPercentInsiders	0.20944999
+heldPercentInstitutions	0.05599
+impliedSharesOutstanding	533868000
+bookValue	13.123
+priceToBook	1.0172979
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-462184000
+trailingEps	-0.88
+forwardEps	0.26
+lastSplitFactor	1050:1000
+lastSplitDate	1409097600	 (2014-08-27 08:00:00)
+enterpriseToRevenue	0.78
+enterpriseToEbitda	-21.921
+52WeekChange	-0.17846155
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1696464000	 (2023-10-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1310.TW
+underlyingSymbol	1310.TW
+shortName	TAIWAN STYRENE MONOMER
+longName	Taiwan Styrene Monomer Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cfef54af-ddb0-3460-a515-0a9c24774074
+messageBoardId	finmb_2494738
+gmtOffSetMilliseconds	28800000
+currentPrice	13.35
+recommendationKey	none
+totalCash	916608000
+totalCashPerShare	1.736
+ebitda	-339462016
+totalDebt	1187121024
+quickRatio	0.795
+currentRatio	1.17
+totalRevenue	9541182464
+debtToEquity	16.527
+revenuePerShare	18.075
+returnOnAssets	-0.04086
+returnOnEquity	-0.06626
+freeCashflow	-105238624
+operatingCashflow	-274134016
+revenueGrowth	0.057
+grossMargins	-0.043109998
+ebitdaMargins	-0.03558
+operatingMargins	-0.0845
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31     2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -17004.330593      11159.21849        19400.0     -35323.842202
+Tax Rate For Calcs                                                   0.20993         0.122629            0.2          0.215389
+Normalized EBITDA                                               -285657000.0      -92854000.0    247219000.0       626775000.0
+Total Unusual Items                                                 -81000.0          91000.0        97000.0         -164000.0
+Total Unusual Items Excluding Goodwill                              -81000.0          91000.0        97000.0         -164000.0
+Net Income From Continuing Operation Net Minority Interest      -462184000.0     -373905000.0    104604000.0       287516000.0
+Reconciled Depreciation                                          279154000.0      278248000.0    250630000.0       252733000.0
+Reconciled Cost Of Revenue                                      9952545000.0    13180825000.0  11581104000.0      7808122000.0
+EBITDA                                                          -285738000.0      -92763000.0    247316000.0       626611000.0
+EBIT                                                            -564892000.0     -371011000.0     -3314000.0       373878000.0
+Net Interest Income                                              -10293000.0        -691000.0       936000.0          167000.0
+Interest Expense                                                  18169000.0        7538000.0      2933000.0         4621000.0
+Interest Income                                                    7876000.0        6847000.0      3869000.0         4788000.0
+Normalized Income                                          -462120004.330593 -373984840.78151    104526400.0  287644676.157798
+Net Income From Continuing And Discontinued Operation           -462184000.0     -373905000.0    104604000.0       287516000.0
+Total Expenses                                                 10151613000.0    13391238000.0  11799791000.0      8022733000.0
+Diluted Average Shares                                                   NaN      527870000.0    527757000.0       527670000.0
+Basic Average Shares                                                     NaN      527870000.0    527513000.0       527115000.0
+Diluted EPS                                                              NaN            -0.71            0.2              0.54
+Basic EPS                                                                NaN            -0.71            0.2              0.55
+Diluted NI Availto Com Stockholders                             -462184000.0     -373905000.0    104604000.0       287516000.0
+Net Income Common Stockholders                                  -462184000.0     -373905000.0    104604000.0       287516000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0            0.0               0.0
+Net Income                                                      -462184000.0     -373905000.0    104604000.0       287516000.0
+Minority Interests                                                -1525000.0      -41777000.0      -635000.0        -2207000.0
+Net Income Including Noncontrolling Interests                   -460659000.0     -332128000.0    105239000.0       289723000.0
+Net Income Continuous Operations                                -460659000.0     -332128000.0    105239000.0       289723000.0
+Tax Provision                                                   -122402000.0      -46421000.0   -111486000.0        79534000.0
+Pretax Income                                                   -583061000.0     -378549000.0     -6247000.0       369257000.0
+Other Non Operating Income Expenses                               52687000.0      157821000.0     38014000.0       147029000.0
+Special Income Charges                                              -81000.0          91000.0        97000.0         -164000.0
+Write Off                                                            81000.0         -91000.0       -97000.0          164000.0
+Net Non Operating Interest Income Expense                        -10293000.0        -691000.0       936000.0          167000.0
+Interest Expense Non Operating                                    18169000.0        7538000.0      2933000.0         4621000.0
+Interest Income Non Operating                                      7876000.0        6847000.0      3869000.0         4788000.0
+Operating Income                                                -610431000.0     -537278000.0    -85775000.0        90492000.0
+Operating Expense                                                199068000.0      210413000.0    218687000.0       214611000.0
+Research And Development                                            431000.0        2327000.0      2311000.0         6415000.0
+Selling General And Administration                               198637000.0      208086000.0    216376000.0       208196000.0
+Selling And Marketing Expense                                     62325000.0       70935000.0     64989000.0        63676000.0
+General And Administrative Expense                               136312000.0      137151000.0    151387000.0       144520000.0
+Gross Profit                                                    -411363000.0     -326865000.0    132912000.0       305103000.0
+Cost Of Revenue                                                 9952545000.0    13180825000.0  11581104000.0      7808122000.0
+Total Revenue                                                   9541182000.0    12853960000.0  11714016000.0      8113225000.0
+Operating Revenue                                               9541182000.0    12853960000.0  11714016000.0      8113225000.0

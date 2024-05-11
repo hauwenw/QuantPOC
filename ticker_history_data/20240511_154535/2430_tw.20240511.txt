@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 331 Section 1 Tiding Avenue
+address2	Nei-Hu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2795 3988
+fax	886 2 8791 0868
+website	https://www.tsannkuen.com
+industry	Specialty Retail
+industryKey	specialty-retail
+industryDisp	Specialty Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Tsann Kuen Enterprise Co.,Ltd, through its subsidiaries, engages in the manufacture and sale of electrical and electronic household appliances in Taiwan and internationally. The company primarily offers six product lines, including grill and outdoor grill, iron, coffee maker, pop-up toaster, oven, microwave oven, and motor products. It also provides light industry products, office equipment and their related modules, and computers and their related facilities or spare parts. In addition, the company offers nonferrous metal composed materials and alloy materials; electronic appliances parts, such as electrical kits, sensors, and sensitive transmitters; and education and training services. Additionally, Tsann Kuen Enterprise Co.,Ltd is involved in the development of computer software, and IC packing and testing. It also engages in retailing electrical appliances through its department stores. The company was founded in 1978 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ji Dian  Lin', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'You Liang  Wang', 'title': 'Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Han Qing  Hong', 'title': 'General Manager of Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yongquan  Yang', 'age': 58, 'title': 'Accounting Supervisor & Deputy GM of Accounting Department', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shao Shu  Hong', 'title': 'Vice President of Legal Affairs', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lin Lu  Chen', 'title': 'Business Development Assistant Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tang  Qiongshan', 'age': 59, 'title': 'General Manager and Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.0
+open	36.05
+dayLow	36.05
+dayHigh	36.45
+regularMarketPreviousClose	36.0
+regularMarketOpen	36.05
+regularMarketDayLow	36.05
+regularMarketDayHigh	36.45
+dividendRate	2.2
+dividendYield	0.0608
+exDividendDate	1710979200	 (2024-03-21 08:00:00)
+payoutRatio	1.1458
+fiveYearAvgDividendYield	6.54
+beta	0.378
+trailingPE	18.854168
+volume	60893
+regularMarketVolume	60893
+averageVolume	246042
+averageVolume10days	106786
+averageDailyVolume10Day	106786
+bid	36.15
+ask	36.25
+marketCap	4228160000
+fiftyTwoWeekLow	35.2
+fiftyTwoWeekHigh	44.3
+priceToSalesTrailing12Months	0.21156791
+fiftyDayAverage	37.712
+twoHundredDayAverage	38.81725
+trailingAnnualDividendRate	2.2
+trailingAnnualDividendYield	0.06111111
+currency	TWD
+enterpriseValue	8397280768
+profitMargins	0.01395
+floatShares	116791824
+sharesOutstanding	116800000
+heldPercentInsiders	0.54122
+heldPercentInstitutions	0.01455
+impliedSharesOutstanding	117440000
+bookValue	38.991
+priceToBook	0.92841935
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.396
+netIncomeToCommon	278736000
+trailingEps	1.92
+lastSplitFactor	701.6329:1000
+lastSplitDate	1659571200	 (2022-08-04 08:00:00)
+enterpriseToRevenue	0.42
+enterpriseToEbitda	15.103
+52WeekChange	-0.13397127
+SandP52WeekChange	0.26265144
+lastDividendValue	2.2
+lastDividendDate	1710979200	 (2024-03-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2430.TW
+underlyingSymbol	2430.TW
+shortName	TSANN KUEN ENTERPRISE CO
+longName	Tsann Kuen Enterprise Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	636ecf99-b3fa-3dc8-921c-e2eb355097dc
+messageBoardId	finmb_9833842
+gmtOffSetMilliseconds	28800000
+currentPrice	36.2
+recommendationKey	none
+totalCash	1301364992
+totalCashPerShare	11.142
+ebitda	556009984
+totalDebt	5470486016
+quickRatio	0.312
+currentRatio	0.853
+totalRevenue	19984883712
+debtToEquity	120.122
+revenuePerShare	171.103
+returnOnAssets	0.015310001
+returnOnEquity	0.060060002
+freeCashflow	837980032
+operatingCashflow	1056414016
+earningsGrowth	0.046
+revenueGrowth	-0.077
+grossMargins	0.14914
+ebitdaMargins	0.02782
+operatingMargins	0.021240002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    541242.276608     383551.022412    -297150.873037    1150589.945052
+Tax Rate For Calcs                                                   0.20817          0.191107          0.195237          0.213349
+Normalized EBITDA                                               1629881000.0      1993581000.0      1990955000.0      1505391000.0
+Total Unusual Items                                                2600000.0         2007000.0        -1522000.0         5393000.0
+Total Unusual Items Excluding Goodwill                             2600000.0         2007000.0        -1522000.0         5393000.0
+Net Income From Continuing Operation Net Minority Interest       278736000.0       593134000.0       653692000.0       308372000.0
+Reconciled Depreciation                                         1207227000.0      1192069000.0      1107215000.0      1033718000.0
+Reconciled Cost Of Revenue                                     17004399000.0     18845482000.0     19100192000.0     16495869000.0
+EBITDA                                                          1632481000.0      1995588000.0      1989433000.0      1510784000.0
+EBIT                                                             425254000.0       803519000.0       882218000.0       477066000.0
+Net Interest Income                                              -53570000.0       -56064000.0       -63933000.0       -79393000.0
+Interest Expense                                                  73239000.0        70253000.0        69939000.0        85060000.0
+Interest Income                                                   19669000.0        14189000.0         6006000.0         5667000.0
+Normalized Income                                           276677242.276608  591510551.022412  654916849.126963  304129589.945052
+Net Income From Continuing And Discontinued Operation            278736000.0       593134000.0       653692000.0       308372000.0
+Total Expenses                                                 19630708000.0     21559786000.0     21896031000.0     19124368000.0
+Diluted Average Shares                                           117090000.0       138812000.0       167098000.0       117212682.0
+Basic Average Shares                                             116800000.0       138300000.0       166469000.0       116800122.0
+Diluted EPS                                                             2.38              4.27              3.91          2.636707
+Basic EPS                                                               2.39              4.29              3.93          2.636707
+Diluted NI Availto Com Stockholders                              278736000.0       593134000.0       653692000.0       308372000.0
+Net Income Common Stockholders                                   278736000.0       593134000.0       653692000.0       308372000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       278736000.0       593134000.0       653692000.0       308372000.0
+Minority Interests                                                       NaN               NaN               NaN               0.0
+Net Income Including Noncontrolling Interests                    278736000.0       593134000.0       653692000.0       308372000.0
+Net Income Continuous Operations                                 278736000.0       593134000.0       653692000.0       308372000.0
+Tax Provision                                                     73279000.0       140132000.0       158587000.0        83634000.0
+Pretax Income                                                    352015000.0       733266000.0       812279000.0       392006000.0
+Other Non Operating Income Expenses                               45681000.0        54134000.0        61093000.0        53174000.0
+Special Income Charges                                             2600000.0         2007000.0        -1522000.0         5393000.0
+Write Off                                                         -2600000.0        -2007000.0         1522000.0        -5393000.0
+Net Non Operating Interest Income Expense                        -53570000.0       -56064000.0       -63933000.0       -79393000.0
+Interest Expense Non Operating                                    73239000.0        70253000.0        69939000.0        85060000.0
+Interest Income Non Operating                                     19669000.0        14189000.0         6006000.0         5667000.0
+Operating Income                                                 354175000.0       731445000.0       814119000.0       418352000.0
+Operating Expense                                               2626309000.0      2714304000.0      2795839000.0      2628499000.0
+Selling General And Administration                              2626309000.0      2714304000.0      2795839000.0      2628499000.0
+Selling And Marketing Expense                                   2238713000.0      2297908000.0      2349457000.0      2208466000.0
+General And Administrative Expense                               387596000.0       416396000.0       446382000.0       420033000.0
+Gross Profit                                                    2980484000.0      3445749000.0      3609958000.0      3046851000.0
+Cost Of Revenue                                                17004399000.0     18845482000.0     19100192000.0     16495869000.0
+Total Revenue                                                  19984883000.0     22291231000.0     22710150000.0     19542720000.0
+Operating Revenue                                              19984883000.0     22291231000.0     22710150000.0     19542720000.0

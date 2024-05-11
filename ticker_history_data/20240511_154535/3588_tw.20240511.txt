@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No.1, Taiyuan 2nd Street
+address2	4th Floor-1 Hsinchu County
+city	Zhubei
+zip	30288
+country	Taiwan
+phone	886 3 554 3588
+fax	886 3 554 0098
+website	https://www.leadtrend.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Leadtrend Technology Corporation operates as a fabless company for AC-DC mid and high-power application solutions primarily in Taiwan. It offers mid-power controllers, such as primary side regulator controllers, isolated green mode, isolated high voltage green mode, PSR and SSR MOS combo, and isolated HV MOS combo products; USB power delivery and type C controllers; and LED application products, including 3 in 1 flexible dimming processors, active-PFC primary side regulator controllers, active-PFC secondary side regulator controllers, current ripple suppressors, and secondary side CC/CV controllers. The company also provides hi-power controllers comprising transition mode PFC controllers and PFC with QR controllers; and SR controller, which includes SR MOS combo and synchronous rectification drivers. Its products are used in TV/monitor, adapter, networking, and LED lighting applications. Leadtrend Technology Corporation was founded in 2002 and is headquartered in Zhubei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Heng Chung  Chi', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya Qing  Huang', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Nan  Zhuang', 'title': 'Deputy GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	86.0
+open	86.0
+dayLow	83.5
+dayHigh	86.0
+regularMarketPreviousClose	86.0
+regularMarketOpen	86.0
+regularMarketDayLow	83.5
+regularMarketDayHigh	86.0
+dividendRate	0.91
+dividendYield	0.0107
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	1.8514999
+fiveYearAvgDividendYield	2.23
+beta	1.052
+trailingPE	172.85713
+volume	646386
+regularMarketVolume	646386
+averageVolume	3410378
+averageVolume10days	575330
+averageDailyVolume10Day	575330
+bid	84.7
+ask	84.8
+marketCap	5087429120
+fiftyTwoWeekLow	45.45
+fiftyTwoWeekHigh	122.5
+priceToSalesTrailing12Months	4.456426
+fiftyDayAverage	99.918
+twoHundredDayAverage	80.64
+currency	TWD
+enterpriseValue	4470100480
+profitMargins	0.02528
+floatShares	58918000
+sharesOutstanding	60064100
+heldPercentInsiders	0.30295
+heldPercentInstitutions	0.0058399998
+impliedSharesOutstanding	60202200
+bookValue	27.886
+priceToBook	3.0373664
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	28864000
+trailingEps	0.49
+lastSplitFactor	1030.2406:1000
+lastSplitDate	1689206400	 (2023-07-13 08:00:00)
+enterpriseToRevenue	3.916
+enterpriseToEbitda	59.415
+52WeekChange	0.6558136
+SandP52WeekChange	0.26265144
+lastDividendValue	0.907217
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3588.TW
+underlyingSymbol	3588.TW
+shortName	LEADTREND TECHNOLOGY CORPORATIO
+longName	Leadtrend Technology Corporation
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fa0355aa-ede5-37b5-90f6-c9fd8540e867
+messageBoardId	finmb_28827562
+gmtOffSetMilliseconds	28800000
+currentPrice	84.7
+recommendationKey	none
+totalCash	541568000
+totalCashPerShare	9.192
+ebitda	75235000
+totalDebt	21314000
+quickRatio	3.285
+currentRatio	6.051
+totalRevenue	1141593984
+debtToEquity	1.297
+revenuePerShare	19.778
+returnOnAssets	-0.00189
+returnOnEquity	0.01752
+freeCashflow	265312256
+operatingCashflow	317897984
+revenueGrowth	0.151
+grossMargins	0.37625
+ebitdaMargins	0.0659
+operatingMargins	0.09053001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2      0.198937      0.128545      0.197123
+Normalized EBITDA                                            122934000.0   293061000.0   463568000.0   157687000.0
+Net Income From Continuing Operation Net Minority Interest    28864000.0   152363000.0   328977000.0    60508000.0
+Reconciled Depreciation                                       97751000.0   102296000.0    85830000.0    81968000.0
+Reconciled Cost Of Revenue                                   712066000.0   968729000.0  1252524000.0   980496000.0
+EBITDA                                                       122934000.0   293061000.0   463568000.0   157687000.0
+EBIT                                                          25183000.0   190765000.0   377738000.0    75719000.0
+Net Interest Income                                            3746000.0     2908000.0     3240000.0     3920000.0
+Interest Expense                                                461000.0      564000.0      235000.0      355000.0
+Interest Income                                                4207000.0     3472000.0     3475000.0     4275000.0
+Normalized Income                                             28864000.0   152363000.0   328977000.0    60508000.0
+Net Income From Continuing And Discontinued Operation         28864000.0   152363000.0   328977000.0    60508000.0
+Total Expenses                                              1147299000.0  1476833000.0  1766943000.0  1368351000.0
+Diluted Average Shares                                               NaN    58925000.0    58395065.0    57174577.0
+Basic Average Shares                                                 NaN    57285000.0    56815706.0    56536290.0
+Diluted EPS                                                          NaN          2.59      5.629753      1.061326
+Basic EPS                                                            NaN          2.66      5.794763      1.070397
+Diluted NI Availto Com Stockholders                           28864000.0   152363000.0   328977000.0    60508000.0
+Net Income Common Stockholders                                28864000.0   152363000.0   328977000.0    60508000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    28864000.0   152363000.0   328977000.0    60508000.0
+Net Income Including Noncontrolling Interests                 28864000.0   152363000.0   328977000.0    60508000.0
+Net Income Continuous Operations                              28864000.0   152363000.0   328977000.0    60508000.0
+Tax Provision                                                 -4142000.0    37838000.0    48526000.0    14856000.0
+Pretax Income                                                 24722000.0   190201000.0   377503000.0    75364000.0
+Other Non Operating Income Expenses                           26681000.0    32249000.0     6723000.0    -6804000.0
+Net Non Operating Interest Income Expense                      3746000.0     2908000.0     3240000.0     3920000.0
+Interest Expense Non Operating                                  461000.0      564000.0      235000.0      355000.0
+Interest Income Non Operating                                  4207000.0     3472000.0     3475000.0     4275000.0
+Operating Income                                              -5705000.0   155044000.0   367540000.0    78248000.0
+Operating Expense                                            435233000.0   508104000.0   514419000.0   387855000.0
+Research And Development                                     267371000.0   312978000.0   304800000.0   241084000.0
+Selling General And Administration                           167862000.0   195126000.0   209619000.0   146771000.0
+Selling And Marketing Expense                                 69935000.0    87577000.0    92716000.0    68680000.0
+General And Administrative Expense                            97927000.0   107549000.0   116903000.0    78091000.0
+Gross Profit                                                 429528000.0   663148000.0   881959000.0   466103000.0
+Cost Of Revenue                                              712066000.0   968729000.0  1252524000.0   980496000.0
+Total Revenue                                               1141594000.0  1631877000.0  2134483000.0  1446599000.0
+Operating Revenue                                           1141594000.0  1631877000.0  2134483000.0  1446599000.0

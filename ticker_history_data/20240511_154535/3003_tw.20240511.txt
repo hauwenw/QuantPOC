@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No.8, Zhangbin East 3rd Road
+address2	Xianxi Township
+city	Changhua
+zip	507
+country	Taiwan
+phone	886 4 7582765
+fax	886 4 7582786
+website	https://www.ksterminals.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	K.S. Terminals Inc. manufactures and sells electrical terminals, wire accessories, lighting systems, electric vehicle charging connectors, automotive connectors, and green energy connectors in Taiwan and internationally. Its electrical terminal products include insulated and non-insulated copper terminals, insulated quick disconnectors, din terminals, cord end terminals, water proof heat shrinkable terminals with adhesive tubing, butt splice and other connectors, stainless steel ties, nylon cable ties, JIS terminals, battery modular connectors, and tools, as well as continual type terminals, white goods terminals and housing, and automotive connectors. The company was formerly known as Ken Shing Industrial shop and changed its name to K.S. Terminals Inc. in 1978. K.S. Terminals Inc. was founded in 1973 and is headquartered in Changhua, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Jen  Cheng', 'title': 'President & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yuqing  Zeng', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	79.0
+open	79.3
+dayLow	78.5
+dayHigh	79.3
+regularMarketPreviousClose	79.0
+regularMarketOpen	79.3
+regularMarketDayLow	78.5
+regularMarketDayHigh	79.3
+dividendRate	1.5
+dividendYield	0.019
+exDividendDate	1712016000	 (2024-04-02 08:00:00)
+payoutRatio	0.5747
+fiveYearAvgDividendYield	2.7
+beta	1.024
+trailingPE	22.672415
+forwardPE	19.67581
+volume	944672
+regularMarketVolume	944672
+averageVolume	678420
+averageVolume10days	1560096
+averageDailyVolume10Day	1560096
+bid	78.8
+ask	78.9
+marketCap	12281180160
+fiftyTwoWeekLow	66.5
+fiftyTwoWeekHigh	88.9
+priceToSalesTrailing12Months	2.9453573
+fiftyDayAverage	71.192
+twoHundredDayAverage	71.211
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.01898734
+currency	TWD
+enterpriseValue	9698867200
+profitMargins	0.13033
+floatShares	112568060
+sharesOutstanding	155655008
+heldPercentInsiders	0.28554
+heldPercentInstitutions	0.01968
+impliedSharesOutstanding	156314000
+bookValue	40.196
+priceToBook	1.9628819
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.153
+netIncomeToCommon	543441024
+trailingEps	3.48
+forwardEps	4.01
+lastSplitFactor	1.08:1
+lastSplitDate	1313020800	 (2011-08-11 08:00:00)
+enterpriseToRevenue	2.326
+enterpriseToEbitda	12.126
+52WeekChange	0.08677685
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1712016000	 (2024-04-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3003.TW
+underlyingSymbol	3003.TW
+shortName	KS TERMINALS INC
+longName	K.S. Terminals Inc.
+firstTradeDateEpochUtc	1014166800	 (2002-02-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	462cb9c6-df5c-3b08-89f1-9e49ce3e540c
+messageBoardId	finmb_9682267
+gmtOffSetMilliseconds	28800000
+currentPrice	78.9
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3618329088
+totalCashPerShare	23.246
+ebitda	799830976
+totalDebt	985537024
+quickRatio	4.05
+currentRatio	5.463
+totalRevenue	4169673984
+debtToEquity	15.625
+revenuePerShare	26.788
+returnOnAssets	0.053319998
+returnOnEquity	0.08858
+freeCashflow	843317504
+operatingCashflow	668636992
+earningsGrowth	-0.148
+revenueGrowth	-0.084
+grossMargins	0.30735
+ebitdaMargins	0.19182
+operatingMargins	0.15156001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -22371.883341    -188503.276973           0.0       4971.499203
+Tax Rate For Calcs                                                  0.286819          0.279678      0.282593          0.225977
+Normalized EBITDA                                                899979000.0      1383664000.0  1215709000.0       616867000.0
+Total Unusual Items                                                 -78000.0         -674000.0           0.0           22000.0
+Total Unusual Items Excluding Goodwill                              -78000.0         -674000.0           0.0           22000.0
+Net Income From Continuing Operation Net Minority Interest       543441000.0       895386000.0   774996000.0       361027000.0
+Reconciled Depreciation                                          117092000.0       117741000.0   111891000.0       131407000.0
+Reconciled Cost Of Revenue                                      2888105000.0      3240321000.0  3091836000.0      2308808000.0
+EBITDA                                                           899901000.0      1382990000.0  1215709000.0       616889000.0
+EBIT                                                             782809000.0      1265249000.0  1103818000.0       485482000.0
+Net Interest Income                                              -12874000.0       -13179000.0   -11532000.0       -11390000.0
+Interest Expense                                                  12874000.0        13179000.0    11532000.0        11390000.0
+Normalized Income                                           543496628.116659  895871496.723027   774996000.0  361009971.499203
+Net Income From Continuing And Discontinued Operation            543441000.0       895386000.0   774996000.0       361027000.0
+Total Expenses                                                  3480382000.0      3861446000.0  3671296000.0      2787138000.0
+Diluted Average Shares                                                   NaN       156196000.0   156026000.0       155940000.0
+Basic Average Shares                                                     NaN       155655000.0   155655000.0       155655000.0
+Diluted EPS                                                              NaN              5.73          4.97              2.31
+Basic EPS                                                                NaN              5.75          4.98              2.32
+Diluted NI Availto Com Stockholders                              543441000.0       895386000.0   774996000.0       361027000.0
+Net Income Common Stockholders                                   543441000.0       895386000.0   774996000.0       361027000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0               0.0
+Net Income                                                       543441000.0       895386000.0   774996000.0       361027000.0
+Minority Interests                                                -5662000.0        -6507000.0    -8618000.0        -5931000.0
+Net Income Including Noncontrolling Interests                    549103000.0       901893000.0   783614000.0       366958000.0
+Net Income Continuous Operations                                 549103000.0       901893000.0   783614000.0       366958000.0
+Tax Provision                                                    220832000.0       350177000.0   308672000.0       107134000.0
+Pretax Income                                                    769935000.0      1252070000.0  1092286000.0       474092000.0
+Other Non Operating Income Expenses                              109918000.0       295740000.0   -17187000.0      -110333000.0
+Special Income Charges                                              -78000.0         -674000.0           0.0           22000.0
+Write Off                                                            78000.0          674000.0           0.0          -22000.0
+Net Non Operating Interest Income Expense                        -12874000.0       -13179000.0   -11532000.0       -11390000.0
+Interest Expense Non Operating                                    12874000.0        13179000.0    11532000.0        11390000.0
+Operating Income                                                 689292000.0       984069000.0  1121005000.0       595793000.0
+Operating Expense                                                592277000.0       621125000.0   579460000.0       478330000.0
+Research And Development                                         129399000.0       125148000.0   114137000.0        88927000.0
+Selling General And Administration                               462878000.0       495977000.0   465323000.0       389403000.0
+Selling And Marketing Expense                                    275840000.0       291963000.0   272596000.0       237666000.0
+General And Administrative Expense                               187038000.0       204014000.0   192727000.0       151737000.0
+Gross Profit                                                    1281569000.0      1605194000.0  1700465000.0      1074123000.0
+Cost Of Revenue                                                 2888105000.0      3240321000.0  3091836000.0      2308808000.0
+Total Revenue                                                   4169674000.0      4845515000.0  4792301000.0      3382931000.0
+Operating Revenue                                               4169674000.0      4845515000.0  4792301000.0      3382931000.0

@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 45, Nanshan Road
+address2	Lane 205 Section 2 Luzhu District
+city	Taoyuan City
+zip	338
+country	Taiwan
+phone	886 3 322 8175
+fax	886 3 322 2662
+website	https://www.chiachang.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Chia Chang Co., Ltd engages in stamping metal components in Taiwan, Japan, and Korea. The company offers AV home appliances, such as external and front bezels, decorated slips, color plate back and lamp covers, bases, shielding products, heat sinks, and inverter and back covers; and IT appliances, including display and top covers, bottom cases, front bezels, and keyboards. It also provides internal and external surface components for mobile phones, PDAs, GPS, and digital cameras, as well as internal metal components for LED modules, LED light bars, medical, and solar applications. In addition, the company designs and manufactures precision molds for optronics, IT, and communication applications. It serves panel, backlight module, and IT OEM/ODM manufacturers. The company was founded in 1985 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chang-Hai  Chen', 'title': 'Founder & Director', 'fiscalYear': 2021, 'totalPay': 58000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Chuan  Cheng', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'totalPay': 11378000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tz-Shiuan  Chen', 'title': 'President & Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Si-Wei  Chen', 'title': 'Chief Internal Auditor (Leave of Absence)', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	45.4
+open	45.8
+dayLow	45.35
+dayHigh	46.4
+regularMarketPreviousClose	45.4
+regularMarketOpen	45.8
+regularMarketDayLow	45.35
+regularMarketDayHigh	46.4
+dividendRate	2.5
+dividendYield	0.0543
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.5828
+fiveYearAvgDividendYield	6.31
+beta	0.597
+trailingPE	10.72261
+forwardPE	9.892473
+volume	195852
+regularMarketVolume	195852
+averageVolume	345261
+averageVolume10days	197113
+averageDailyVolume10Day	197113
+bid	45.85
+ask	46.0
+marketCap	6548928000
+fiftyTwoWeekLow	37.95
+fiftyTwoWeekHigh	47.8
+priceToSalesTrailing12Months	1.0781072
+fiftyDayAverage	45.403
+twoHundredDayAverage	43.1625
+trailingAnnualDividendRate	2.3
+trailingAnnualDividendYield	0.05066079
+currency	TWD
+enterpriseValue	2841304064
+profitMargins	0.10125
+floatShares	101161006
+sharesOutstanding	142368000
+heldPercentInsiders	0.34386003
+heldPercentInstitutions	0.02727
+impliedSharesOutstanding	142992000
+bookValue	59.895
+priceToBook	0.7680107
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.538
+netIncomeToCommon	615032000
+trailingEps	4.29
+forwardEps	4.65
+lastSplitFactor	1.04516:1
+lastSplitDate	1311897600	 (2011-07-29 08:00:00)
+enterpriseToRevenue	0.468
+enterpriseToEbitda	2.497
+52WeekChange	0.20734906
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4942.TW
+underlyingSymbol	4942.TW
+shortName	CHIA CHANG CO  LTD
+longName	Chia Chang Co., Ltd
+firstTradeDateEpochUtc	1309136400	 (2011-06-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	aaf2211b-bc81-3e7c-91e9-25ea5a914859
+messageBoardId	finmb_104595304
+gmtOffSetMilliseconds	28800000
+currentPrice	46.0
+targetHighPrice	50.0
+targetLowPrice	50.0
+targetMeanPrice	50.0
+targetMedianPrice	50.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	3718331904
+totalCashPerShare	26.118
+ebitda	1137981056
+totalDebt	5600000
+quickRatio	3.358
+currentRatio	3.694
+totalRevenue	6074467840
+debtToEquity	0.066
+revenuePerShare	42.667
+returnOnAssets	0.04325
+returnOnEquity	0.07258
+freeCashflow	318804256
+operatingCashflow	923076992
+earningsGrowth	1.593
+revenueGrowth	-0.074
+grossMargins	0.24306
+ebitdaMargins	0.18733999
+operatingMargins	0.102919996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.341304           0.2      0.308215      0.285457
+Normalized EBITDA                                           1356726000.0  1536510000.0  1704810000.0  1383847000.0
+Net Income From Continuing Operation Net Minority Interest   615032000.0   644914000.0   908801000.0   677063000.0
+Reconciled Depreciation                                      425426000.0   448085000.0   387274000.0   433314000.0
+Reconciled Cost Of Revenue                                  4598033000.0  6167580000.0  6717203000.0  5553079000.0
+EBITDA                                                      1356726000.0  1536510000.0  1704810000.0  1383847000.0
+EBIT                                                         931300000.0  1088425000.0  1317536000.0   950533000.0
+Net Interest Income                                           92141000.0    60149000.0    53135000.0    65485000.0
+Interest Expense                                                997000.0     4439000.0     4855000.0     3963000.0
+Interest Income                                               93138000.0    64588000.0    57990000.0    69448000.0
+Normalized Income                                            615032000.0   644914000.0   908801000.0   677063000.0
+Net Income From Continuing And Discontinued Operation        615032000.0   644914000.0   908801000.0   677063000.0
+Total Expenses                                              5335309000.0  6987429000.0  7543226000.0  6360720000.0
+Diluted Average Shares                                               NaN   144358000.0   144003000.0   143262000.0
+Basic Average Shares                                                 NaN   142368000.0   142368000.0   142368000.0
+Diluted EPS                                                          NaN          4.47          6.31          4.73
+Basic EPS                                                            NaN          4.53          6.38          4.76
+Diluted NI Availto Com Stockholders                          615032000.0   644914000.0   908801000.0   677063000.0
+Net Income Common Stockholders                               615032000.0   644914000.0   908801000.0   677063000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   615032000.0   644914000.0   908801000.0   677063000.0
+Minority Interests                                             2245000.0     1205000.0      708000.0      698000.0
+Net Income Including Noncontrolling Interests                612787000.0   643709000.0   908093000.0   676365000.0
+Net Income Continuous Operations                             612787000.0   643709000.0   908093000.0   676365000.0
+Tax Provision                                                317516000.0   440277000.0   404588000.0   270205000.0
+Pretax Income                                                930303000.0  1083986000.0  1312681000.0   946570000.0
+Other Non Operating Income Expenses                           64099000.0   254630000.0    28010000.0    87279000.0
+Net Non Operating Interest Income Expense                     92141000.0    60149000.0    53135000.0    65485000.0
+Interest Expense Non Operating                                  997000.0     4439000.0     4855000.0     3963000.0
+Interest Income Non Operating                                 93138000.0    64588000.0    57990000.0    69448000.0
+Operating Income                                             739159000.0   851258000.0  1175272000.0   902481000.0
+Operating Expense                                            737276000.0   819849000.0   826023000.0   807641000.0
+Research And Development                                      77558000.0    77536000.0    76871000.0    84113000.0
+Selling General And Administration                           659718000.0   742313000.0   749152000.0   723528000.0
+Selling And Marketing Expense                                224889000.0   277643000.0   291491000.0   269446000.0
+General And Administrative Expense                           434829000.0   464670000.0   457661000.0   454082000.0
+Gross Profit                                                1476435000.0  1671107000.0  2001295000.0  1710122000.0
+Cost Of Revenue                                             4598033000.0  6167580000.0  6717203000.0  5553079000.0
+Total Revenue                                               6074468000.0  7838687000.0  8718498000.0  7263201000.0
+Operating Revenue                                           6074468000.0  7838687000.0  8718498000.0  7263201000.0

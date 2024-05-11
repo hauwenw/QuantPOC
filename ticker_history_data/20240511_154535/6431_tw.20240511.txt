@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No. 96, Huiyuan Road
+address2	Nangang Zhangpu Town
+city	Kunshan
+country	China
+phone	86 51 2574 28315
+fax	86 51 2574 28033
+website	https://www.kskl.com.cn
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Kuangli Bio-Tech Holdings Co., Ltd. manufactures and sells panels for cover lens used in various electronic products. The company's products are used in mobile phones and laptops protection panels, cameras, decorative parts, buttons, tablet PCs, I.com touch panels, tempered glasses, and other consumer electronics panels, as well as HD players, DVs, digital cameras, home appliances, MP3s, MP4s, car logs and lampshades, medical equipment, etc. The company was formerly known as Kuangli Photoelectric Technology Co., Ltd. Kuangli Bio-Tech Holdings Co., Ltd. was founded in 2002 and is based in Kunshan, China.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Rong Hui Chen', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. You Shun Lin', 'title': 'Financial Department Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zheng Hong Lin', 'title': 'Information Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zheng Jie Yang', 'title': 'Human Resources General Affairs Department Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qinglian  Zhang', 'title': 'Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	12.35
+open	12.6
+dayLow	12.3
+dayHigh	12.75
+regularMarketPreviousClose	12.35
+regularMarketOpen	12.6
+regularMarketDayLow	12.3
+regularMarketDayHigh	12.75
+exDividendDate	1438732800	 (2015-08-05 08:00:00)
+beta	0.705
+volume	70038
+regularMarketVolume	70038
+averageVolume	171716
+averageVolume10days	146080
+averageDailyVolume10Day	146080
+bid	12.5
+ask	12.6
+marketCap	912224896
+fiftyTwoWeekLow	10.3
+fiftyTwoWeekHigh	21.7
+priceToSalesTrailing12Months	2.8104172
+fiftyDayAverage	13.585
+twoHundredDayAverage	16.30225
+currency	TWD
+enterpriseValue	1126559872
+profitMargins	-0.23976
+sharesOutstanding	72398800
+heldPercentInsiders	0.34307
+impliedSharesOutstanding	72398800
+bookValue	8.599
+priceToBook	1.4652867
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+netIncomeToCommon	-78092000
+trailingEps	-1.82
+enterpriseToRevenue	3.471
+enterpriseToEbitda	-18.756
+52WeekChange	-0.4028436
+SandP52WeekChange	0.26265144
+lastDividendValue	0.997512
+lastDividendDate	1438732800	 (2015-08-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6431.TW
+underlyingSymbol	6431.TW
+shortName	KUANGLI BIO-TECH HOLDINGS CO LT
+longName	Kuangli Bio-Tech Holdings Co., Ltd.
+firstTradeDateEpochUtc	1417654800	 (2014-12-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4f836036-9e6f-3b1a-8223-b717eec2c35c
+messageBoardId	finmb_270185025
+gmtOffSetMilliseconds	28800000
+currentPrice	12.6
+recommendationKey	none
+totalCash	112203000
+totalCashPerShare	1.96
+ebitda	-60065000
+totalDebt	404254016
+quickRatio	0.611
+currentRatio	1.164
+totalRevenue	324587008
+debtToEquity	66.767
+revenuePerShare	5.67
+returnOnAssets	-0.05192
+returnOnEquity	-0.120220006
+freeCashflow	-20331124
+operatingCashflow	-13232000
+revenueGrowth	-0.492
+grossMargins	0.24306
+ebitdaMargins	-0.18505
+operatingMargins	-0.66761
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31       2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                    118952.196905    -40757.461009    341895.069937     152600.0
+Tax Rate For Calcs                                                  0.157762          0.16303         0.080389          0.2
+Normalized EBITDA                                                -49604000.0       -9208000.0      103271000.0  -33916000.0
+Total Unusual Items                                                 754000.0        -250000.0        4253000.0     763000.0
+Total Unusual Items Excluding Goodwill                              754000.0        -250000.0        4253000.0     763000.0
+Net Income From Continuing Operation Net Minority Interest      -104163000.0      -68104000.0       44477000.0  -41891000.0
+Reconciled Depreciation                                           60646000.0       60747000.0       39908000.0    7773000.0
+Reconciled Cost Of Revenue                                       227071000.0      273472000.0      241696000.0   85522000.0
+EBITDA                                                           -48850000.0       -9458000.0      107524000.0  -33153000.0
+EBIT                                                            -109496000.0      -70205000.0       67616000.0  -40926000.0
+Net Interest Income                                               -9053000.0      -11766000.0       -7748000.0    1383000.0
+Interest Expense                                                  14178000.0       14301000.0        8205000.0      62000.0
+Interest Income                                                    5125000.0        2535000.0         457000.0    1445000.0
+Normalized Income                                          -104798047.803095 -67894757.461009  40565895.069937  -42501400.0
+Net Income From Continuing And Discontinued Operation           -104163000.0      -68724000.0       25839000.0  -62874000.0
+Total Expenses                                                   407780000.0      430936000.0      344277000.0  136451000.0
+Diluted Average Shares                                                   NaN       56391000.0       50780000.0   45643000.0
+Basic Average Shares                                                     NaN       56391000.0       50780000.0   45643000.0
+Diluted EPS                                                              NaN            -1.22             0.51        -1.38
+Basic EPS                                                                NaN            -1.22             0.51        -1.38
+Diluted NI Availto Com Stockholders                             -104163000.0      -68724000.0       25839000.0  -62874000.0
+Net Income Common Stockholders                                  -104163000.0      -68724000.0       25839000.0  -62874000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0              0.0          0.0
+Net Income                                                      -104163000.0      -68724000.0       25839000.0  -62874000.0
+Minority Interests                                                       0.0        2625000.0      -10158000.0          0.0
+Net Income Including Noncontrolling Interests                   -104163000.0      -71349000.0       35997000.0  -62874000.0
+Net Income Discontinuous Operations                                      0.0        -620000.0      -18638000.0  -20983000.0
+Net Income Continuous Operations                                -104163000.0      -70729000.0       54635000.0  -41891000.0
+Tax Provision                                                    -19511000.0      -13777000.0        4776000.0     903000.0
+Pretax Income                                                   -123674000.0      -84506000.0       59411000.0  -40988000.0
+Other Non Operating Income Expenses                                -969000.0       16286000.0       63635000.0   -5772000.0
+Special Income Charges                                              754000.0        -250000.0        4253000.0     763000.0
+Write Off                                                          -754000.0         250000.0       -4253000.0    -763000.0
+Net Non Operating Interest Income Expense                         -9053000.0      -11766000.0       -7748000.0    1383000.0
+Interest Expense Non Operating                                    14178000.0       14301000.0        8205000.0      62000.0
+Interest Income Non Operating                                      5125000.0        2535000.0         457000.0    1445000.0
+Operating Income                                                -114406000.0      -88776000.0      -11644000.0  -49481000.0
+Operating Expense                                                180709000.0      157464000.0      102581000.0   50929000.0
+Research And Development                                          30804000.0       32270000.0       11052000.0     644000.0
+Selling General And Administration                               149905000.0      125194000.0       91529000.0   50285000.0
+Selling And Marketing Expense                                     55692000.0       28773000.0       20880000.0    1364000.0
+General And Administrative Expense                                94213000.0       96421000.0       70649000.0   48921000.0
+Gross Profit                                                      66303000.0       68688000.0       90937000.0    1448000.0
+Cost Of Revenue                                                  227071000.0      273472000.0      241696000.0   85522000.0
+Total Revenue                                                    293374000.0      342160000.0      332633000.0   86970000.0
+Operating Revenue                                                293374000.0      342160000.0      332633000.0   86970000.0

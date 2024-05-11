@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No.2, Kedong 1st Road
+address2	Hsinchu Science Park Chunan Town Miaoli County
+city	Hsinchu City
+zip	35053
+country	Taiwan
+phone	886 3 753 9000
+fax	886 3 758 6789
+website	https://www.eoi.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Excellence Optoelectronics Inc. engages in the design, development, and testing of automotive LED component packaging in Taiwan and internationally. The company offers LED lamps with AlInGaP and InGaN chip materials. It also provides LED street lighting, high/low bay, shoe box, wall pack, and patio light products; LED lighting modules; LED components for lighting; LED traffic signals, such as ball, arrow, pedestrian, bicycle, and tram way signals, as well as vehicle countdown; and automotive light modules for ODM/OEM services. In addition, the company is involved in design, installation, and construction of public projects and lighting systems. Excellence Optoelectronics Inc. was founded in 1984 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kuo-hsin  Huang', 'title': 'Chairman of the Board & CTO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-Yue  Huang', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-Chou  Lin', 'title': 'CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	31.2
+open	31.75
+dayLow	30.75
+dayHigh	31.75
+regularMarketPreviousClose	31.2
+regularMarketOpen	31.75
+regularMarketDayLow	30.75
+regularMarketDayHigh	31.75
+dividendRate	0.18
+dividendYield	0.0058
+exDividendDate	1687305600	 (2023-06-21 08:00:00)
+payoutRatio	0.66980004
+fiveYearAvgDividendYield	2.0
+trailingPE	114.99999
+forwardPE	22.5
+volume	2004478
+regularMarketVolume	2004478
+averageVolume	6093548
+averageVolume10days	1880834
+averageDailyVolume10Day	1880834
+bid	31.05
+ask	31.1
+marketCap	6166684672
+fiftyTwoWeekLow	28.45
+fiftyTwoWeekHigh	37.95
+priceToSalesTrailing12Months	1.3271303
+fiftyDayAverage	33.665
+twoHundredDayAverage	31.54725
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.0064102565
+currency	TWD
+enterpriseValue	8192460800
+profitMargins	0.0115600005
+sharesOutstanding	198604992
+heldPercentInsiders	0.29459998
+heldPercentInstitutions	0.00122
+impliedSharesOutstanding	198604992
+bookValue	15.391
+priceToBook	2.0174127
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	10.53
+netIncomeToCommon	53713000
+trailingEps	0.27
+forwardEps	1.38
+enterpriseToRevenue	1.763
+enterpriseToEbitda	60.305
+52WeekChange	-0.015847862
+SandP52WeekChange	0.26265144
+lastDividendValue	0.18084
+lastDividendDate	1687305600	 (2023-06-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6288.TW
+underlyingSymbol	6288.TW
+shortName	EXCELLENCE OPTOELECTRONIC INC
+longName	Excellence Optoelectronics Inc.
+firstTradeDateEpochUtc	1326416400	 (2012-01-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	51d3ca2a-2af0-3b1d-b881-5da5b5fc60a9
+messageBoardId	finmb_50303410
+gmtOffSetMilliseconds	28800000
+currentPrice	31.05
+targetHighPrice	37.0
+targetLowPrice	37.0
+targetMeanPrice	37.0
+targetMedianPrice	37.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	544817024
+totalCashPerShare	2.748
+ebitda	135850000
+totalDebt	2580838912
+quickRatio	0.68
+currentRatio	1.54
+totalRevenue	4646630912
+debtToEquity	84.57
+revenuePerShare	24.664
+returnOnAssets	-0.0047400002
+returnOnEquity	0.01898
+freeCashflow	-679139904
+operatingCashflow	-487751008
+earningsGrowth	11.0
+revenueGrowth	0.301
+grossMargins	0.13979
+ebitdaMargins	0.029240001
+operatingMargins	0.00485
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -120400.0      -91000.0           0.0    -864190.046448
+Tax Rate For Calcs                                                   0.2           0.2           0.2          0.172527
+Normalized EBITDA                                            282633000.0   259926000.0   252968000.0       405492000.0
+Total Unusual Items                                            -602000.0     -455000.0           0.0        -5009000.0
+Total Unusual Items Excluding Goodwill                         -602000.0     -455000.0           0.0        -5009000.0
+Net Income From Continuing Operation Net Minority Interest    10254000.0    16503000.0    10412000.0       143588000.0
+Reconciled Depreciation                                      250947000.0   227268000.0   223019000.0       197924000.0
+Reconciled Cost Of Revenue                                  3721930000.0  3217297000.0  2910158000.0      2994036000.0
+EBITDA                                                       282031000.0   259471000.0   252968000.0       400483000.0
+EBIT                                                          31084000.0    32203000.0    29949000.0       202559000.0
+Net Interest Income                                          -25465000.0   -29780000.0   -23625000.0       -25506000.0
+Interest Expense                                              35443000.0    32528000.0    24720000.0        29033000.0
+Interest Income                                                9978000.0     2748000.0     1095000.0         3527000.0
+Normalized Income                                             10735600.0    16867000.0    10412000.0  147732809.953552
+Net Income From Continuing And Discontinued Operation         10254000.0    16503000.0    10412000.0       143588000.0
+Total Expenses                                              4380129000.0  3953243000.0  3557327000.0      3583189000.0
+Diluted Average Shares                                               NaN   175970000.0   175813000.0       188188000.0
+Basic Average Shares                                                 NaN   175746000.0   175683000.0       169748000.0
+Diluted EPS                                                          NaN          0.09          0.06              0.78
+Basic EPS                                                            NaN          0.09          0.06              0.85
+Diluted NI Availto Com Stockholders                           10254000.0    16503000.0    10412000.0       143588000.0
+Net Income Common Stockholders                                10254000.0    16503000.0    10412000.0       143588000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                    10254000.0    16503000.0    10412000.0       143588000.0
+Net Income Including Noncontrolling Interests                 10254000.0    16503000.0    10412000.0       143588000.0
+Net Income Continuous Operations                              10254000.0    16503000.0    10412000.0       143588000.0
+Tax Provision                                                -14613000.0   -16828000.0    -5183000.0        29938000.0
+Pretax Income                                                 -4359000.0     -325000.0     5229000.0       173526000.0
+Other Non Operating Income Expenses                           75781000.0   157484000.0   -28879000.0        12328000.0
+Special Income Charges                                         -602000.0     -455000.0           0.0        -5009000.0
+Write Off                                                       602000.0      455000.0           0.0         5009000.0
+Net Non Operating Interest Income Expense                    -25465000.0   -29780000.0   -23625000.0       -25506000.0
+Interest Expense Non Operating                                35443000.0    32528000.0    24720000.0        29033000.0
+Interest Income Non Operating                                  9978000.0     2748000.0     1095000.0         3527000.0
+Operating Income                                             -54776000.0  -127787000.0    56733000.0       193528000.0
+Operating Expense                                            658199000.0   735946000.0   647169000.0       589153000.0
+Research And Development                                     214856000.0   185956000.0   181395000.0       147116000.0
+Selling General And Administration                           443343000.0   549990000.0   465774000.0       442037000.0
+Selling And Marketing Expense                                 96925000.0   266012000.0   246461000.0       221790000.0
+General And Administrative Expense                           346418000.0   283978000.0   219313000.0       220247000.0
+Gross Profit                                                 603423000.0   608159000.0   703902000.0       782681000.0
+Cost Of Revenue                                             3721930000.0  3217297000.0  2910158000.0      2994036000.0
+Total Revenue                                               4325353000.0  3825456000.0  3614060000.0      3776717000.0
+Operating Revenue                                           4325353000.0  3825456000.0  3614060000.0      3776717000.0

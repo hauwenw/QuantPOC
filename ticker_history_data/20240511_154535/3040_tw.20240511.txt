@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 287, Wenhua Road
+address2	35th Floor Section 2 Banqiao District
+city	New Taipei City
+zip	220503
+country	Taiwan
+phone	886 2 2257 8866
+fax	886 2 2257 8876
+website	https://www.gv.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Global View Co., Ltd. manufactures and sells electronic dictionaries in Taiwan and Mainland China. It offers electronic dictionary products under the Harbin and Wenquxing brand names. The company also engages in property leasing activity. Global View Co., Ltd. was incorporated in 1986 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zhi Jie  Cai', 'title': 'Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	30.65
+open	30.65
+dayLow	30.6
+dayHigh	30.8
+regularMarketPreviousClose	30.65
+regularMarketOpen	30.65
+regularMarketDayLow	30.6
+regularMarketDayHigh	30.8
+dividendRate	2.0
+dividendYield	0.0651
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	1.8867999
+fiveYearAvgDividendYield	8.33
+beta	0.467
+trailingPE	28.962267
+volume	21584
+regularMarketVolume	21584
+averageVolume	54920
+averageVolume10days	85969
+averageDailyVolume10Day	85969
+bid	30.7
+ask	30.75
+marketCap	1934100096
+fiftyTwoWeekLow	29.0
+fiftyTwoWeekHigh	33.85
+priceToSalesTrailing12Months	12.191372
+fiftyDayAverage	30.23
+twoHundredDayAverage	30.1525
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.032626428
+currency	TWD
+enterpriseValue	1643628032
+profitMargins	0.40473
+sharesOutstanding	63000000
+heldPercentInsiders	0.3157
+heldPercentInstitutions	0.07141
+impliedSharesOutstanding	63304800
+bookValue	23.998
+priceToBook	1.2792734
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.621
+netIncomeToCommon	64208000
+trailingEps	1.06
+lastSplitFactor	0.7:1
+lastSplitDate	1420761600	 (2015-01-09 08:00:00)
+enterpriseToRevenue	10.36
+enterpriseToEbitda	20.482
+52WeekChange	-0.023847401
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3040.TW
+underlyingSymbol	3040.TW
+shortName	GLOBAL VIEW
+longName	Global View Co., Ltd.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8ccad2f2-725c-3878-9ef5-3ada3fac916d
+messageBoardId	finmb_4619217
+gmtOffSetMilliseconds	28800000
+currentPrice	30.7
+recommendationKey	none
+totalCash	290472000
+totalCashPerShare	4.611
+ebitda	80247000
+quickRatio	6.962
+currentRatio	7.434
+totalRevenue	158644992
+revenuePerShare	2.518
+returnOnAssets	0.02871
+returnOnEquity	0.04306
+freeCashflow	76150872
+operatingCashflow	107302000
+earningsGrowth	0.621
+revenueGrowth	0.062
+grossMargins	0.70616996
+ebitdaMargins	0.50583
+operatingMargins	0.40271
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                     2127.888394          0.0          0.0          0.0
+Tax Rate For Calcs                                                 0.354648     0.268707     0.264461     0.082979
+Normalized EBITDA                                               109771000.0  146925000.0   85508000.0  457082000.0
+Total Unusual Items                                                  6000.0          0.0          0.0          0.0
+Total Unusual Items Excluding Goodwill                               6000.0          0.0          0.0          0.0
+Net Income From Continuing Operation Net Minority Interest       64208000.0  100898000.0  124020000.0  399236000.0
+Reconciled Depreciation                                          10279000.0    8953000.0   17585000.0   21216000.0
+Reconciled Cost Of Revenue                                       46614000.0   45355000.0   60695000.0   69069000.0
+EBITDA                                                          109777000.0  146925000.0   85508000.0  457082000.0
+EBIT                                                             99498000.0  137972000.0   67923000.0  435866000.0
+Net Interest Income                                              26901000.0   22360000.0   23066000.0   25640000.0
+Interest Expense                                                     5000.0          0.0          0.0     504000.0
+Interest Income                                                  26906000.0   22360000.0   23066000.0   26144000.0
+Normalized Income                                           64204127.888394  100898000.0  124020000.0  399236000.0
+Net Income From Continuing And Discontinued Operation            64208000.0  100898000.0  124020000.0  399236000.0
+Total Expenses                                                   84915000.0   82944000.0  103606000.0  115584000.0
+Rent Expense Supplemental                                        30930000.0   27983000.0   39702000.0   44025000.0
+Diluted Average Shares                                                  NaN   63047000.0   63056000.0   63116000.0
+Basic Average Shares                                                    NaN   63000000.0   63000000.0   63000000.0
+Diluted EPS                                                             NaN          1.6         1.97         6.33
+Basic EPS                                                               NaN          1.6         1.97         6.34
+Diluted NI Availto Com Stockholders                              64208000.0  100898000.0  124020000.0  399236000.0
+Net Income Common Stockholders                                   64208000.0  100898000.0  124020000.0  399236000.0
+Otherunder Preferred Stock Dividend                                     0.0          0.0          0.0          0.0
+Net Income                                                       64208000.0  100898000.0  124020000.0  399236000.0
+Net Income Including Noncontrolling Interests                    64208000.0  100898000.0  124020000.0  399236000.0
+Net Income Continuous Operations                                 64208000.0  100898000.0  124020000.0  399236000.0
+Tax Provision                                                    35285000.0   37074000.0   44591000.0   36126000.0
+Pretax Income                                                    99493000.0  137972000.0  168611000.0  435362000.0
+Other Non Operating Income Expenses                               9724000.0   40012000.0   60353000.0  226252000.0
+Special Income Charges                                               6000.0          0.0          0.0          0.0
+Write Off                                                           -6000.0          0.0          0.0          0.0
+Net Non Operating Interest Income Expense                        26901000.0   22360000.0   23066000.0   25640000.0
+Interest Expense Non Operating                                       5000.0          0.0          0.0     504000.0
+Interest Income Non Operating                                    26906000.0   22360000.0   23066000.0   26144000.0
+Operating Income                                                 73730000.0   72884000.0   67923000.0   39268000.0
+Operating Expense                                                38301000.0   37589000.0   42911000.0   46515000.0
+Research And Development                                          2967000.0    3641000.0    6219000.0    2780000.0
+Selling General And Administration                               35334000.0   33948000.0   36692000.0   43735000.0
+Selling And Marketing Expense                                    10795000.0    7247000.0    7072000.0    5752000.0
+General And Administrative Expense                               24539000.0   26701000.0   29620000.0   37983000.0
+Gross Profit                                                    112031000.0  110473000.0  110834000.0   85783000.0
+Cost Of Revenue                                                  46614000.0   45355000.0   60695000.0   69069000.0
+Total Revenue                                                   158645000.0  155828000.0  171529000.0  154852000.0
+Operating Revenue                                               158645000.0  155828000.0  171529000.0  154852000.0

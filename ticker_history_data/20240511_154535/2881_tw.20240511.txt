@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No.179, Liaoning Street
+address2	15th and 16th Floor Jhongshan District
+city	Taipei
+country	Taiwan
+phone	886 2 6636 6636
+website	https://www.fubon.com
+industry	Insurance - Life
+industryKey	insurance-life
+industryDisp	Insurance - Life
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Fubon Financial Holding Co., Ltd. provides various financial services in Taiwan, Asia, and internationally. It operates through Bank Business, Insurance Business, Life Insurance Business, Securities Business, and Others segments. The company offers insurance products, including property, casualty, life, health, accident, fire, marine cargo, marine hull fishing vessel, motor, liability, engineering and nuclear, surety and credit, and personal and commercial multiple peril insurance, as well as typhoon, flood, and earthquake insurance products. It also provides retail and consumer, corporate, and investment banking services; brokerage services; margin lending; securities financing and refinancing, trading, underwriting, and transfer services; and investment and financial management, futures, and foreign currency and CNY services. In addition, the company offers deposits and loans, trust, financial bill, and credit card services; acts as a collection agent; invests in government bonds, stocks, short term bills, financial debentures, and other businesses; and issues stock warrants. Further, it engages in the venture capital, marketing management, creditor's rights management, energy technical services, equity and asset management, stadium management, and sports services, as well as invests in and manages real estate properties. Fubon Financial Holding Co., Ltd. was founded in 1961 and is based in Taipei, Taiwan.
+fullTimeEmployees	42309
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wey-Ting  Harn', 'age': 61, 'title': 'President, CFO & Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Kung', 'age': 67, 'title': 'President', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Howard  Lin', 'age': 68, 'title': 'Chief Investment Officer & Director', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily  Wang', 'title': 'Executive VP & Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching-Yi  Liu', 'title': 'Senior EVP & Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chris  Tsai', 'age': 36, 'title': 'Execuitve VP & Director', 'yearBorn': 1987, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yun-Ku  Lin', 'title': 'Head of Equity & Alternative Investment', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Ping  Liu', 'title': 'Senior Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei  Lo', 'title': 'Senior Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia-Hui  Wang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	69.9
+open	70.3
+dayLow	70.3
+dayHigh	71.8
+regularMarketPreviousClose	69.9
+regularMarketOpen	70.3
+regularMarketDayLow	70.3
+regularMarketDayHigh	71.8
+dividendRate	1.43
+dividendYield	0.0199
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.2976
+fiveYearAvgDividendYield	4.2
+beta	0.73
+trailingPE	14.958333
+forwardPE	11.166409
+volume	37045400
+regularMarketVolume	37045400
+averageVolume	15519791
+averageVolume10days	17718263
+averageDailyVolume10Day	17718263
+bid	71.6
+ask	71.7
+marketCap	934477037568
+fiftyTwoWeekLow	56.0
+fiftyTwoWeekHigh	71.8
+priceToSalesTrailing12Months	1.3309932
+fiftyDayAverage	68.614
+twoHundredDayAverage	64.147835
+currency	TWD
+enterpriseValue	-493556891648
+profitMargins	0.09403
+floatShares	7597100156
+sharesOutstanding	13015000064
+heldPercentInsiders	0.39881
+heldPercentInstitutions	0.15314999
+impliedSharesOutstanding	13015000064
+bookValue	60.426
+priceToBook	1.1882303
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	62500757504
+trailingEps	4.8
+forwardEps	6.43
+pegRatio	-1.16
+lastSplitFactor	1050:1000
+lastSplitDate	1693785600	 (2023-09-04 08:00:00)
+enterpriseToRevenue	-0.703
+enterpriseToEbitda	-2.744
+52WeekChange	0.26919198
+SandP52WeekChange	0.26265144
+lastDividendValue	1.428571
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2881.TW
+underlyingSymbol	2881.TW
+shortName	FUBON FINANCIAL HLDG CO LTD
+longName	Fubon Financial Holding Co., Ltd.
+firstTradeDateEpochUtc	1008810000	 (2001-12-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	334b4aec-3395-3167-a5a0-2c3dce2bf339
+messageBoardId	finmb_881569
+gmtOffSetMilliseconds	28800000
+currentPrice	71.8
+targetHighPrice	78.0
+targetLowPrice	65.8
+targetMeanPrice	74.47
+targetMedianPrice	75.0
+recommendationMean	1.9
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	2056800174080
+totalCashPerShare	158.033
+ebitda	179840565248
+totalDebt	598599663616
+quickRatio	1.845
+currentRatio	2.117
+totalRevenue	702090051584
+debtToEquity	73.303
+revenuePerShare	53.945
+returnOnAssets	0.010089999
+returnOnEquity	0.09357
+freeCashflow	-317287235584
+operatingCashflow	-84891246592
+revenueGrowth	0.133
+grossMargins	0.38132998
+ebitdaMargins	0.25615
+operatingMargins	0.47011003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31           2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                   264338668.768963    -30955087.269556     666856374.450257      227362148.9831
+Tax Rate For Calcs                                                     0.12629            0.214636             0.110843            0.117875
+Total Unusual Items                                               2093103000.0        -144221000.0         6016211000.0        1928836000.0
+Total Unusual Items Excluding Goodwill                            2093103000.0        -144221000.0         6016211000.0        1928836000.0
+Net Income From Continuing Operation Net Minority Interest       66016737000.0       46925627000.0       144559046000.0       90272445000.0
+Reconciled Depreciation                                           7460071000.0        7023618000.0         6650017000.0        6288996000.0
+Net Interest Income                                             169017304000.0      165211939000.0       143471653000.0      137294299000.0
+Interest Expense                                                102659804000.0       49438264000.0        25252957000.0       33072499000.0
+Interest Income                                                 271677108000.0      214650203000.0       168724610000.0      170366798000.0
+Normalized Income                                           64187972668.768967  47038892912.730446  139209691374.450256  88570971148.983093
+Net Income From Continuing And Discontinued Operation            66016737000.0       46925627000.0       144559046000.0       90272445000.0
+Diluted Average Shares                                           13014973000.0       13014973000.0        12504935100.0       12410802810.0
+Basic Average Shares                                             13014973000.0       13014973000.0        12504935100.0       12410802810.0
+Diluted EPS                                                                4.8                3.37             11.32381            7.038549
+Basic EPS                                                                  4.8                3.37             11.32381            7.038549
+Diluted NI Availto Com Stockholders                              66016737000.0       46925627000.0       144559046000.0       90272445000.0
+Net Income Common Stockholders                                   66016737000.0       46925627000.0       144559046000.0       90272445000.0
+Net Income                                                       66016737000.0       46925627000.0       144559046000.0       90272445000.0
+Minority Interests                                                 974435000.0        -938865000.0        -2675886000.0        -699232000.0
+Net Income Including Noncontrolling Interests                    65042302000.0       47864492000.0       147234932000.0       90971677000.0
+Net Income Continuous Operations                                 65042302000.0       47864492000.0       147234932000.0       90971677000.0
+Tax Provision                                                     9401537000.0       13081160000.0        18354467000.0       12156235000.0
+Pretax Income                                                    74443839000.0       60945652000.0       165589399000.0      103127912000.0
+Special Income Charges                                           -1376753000.0       -1637049000.0         -340851000.0        -397176000.0
+Write Off                                                         1376753000.0        1637049000.0          340851000.0         397176000.0
+Gain On Sale Of Security                                         58707109000.0      -38447025000.0       184112750000.0      186011434000.0
+Operating Expense                                                89180805000.0      188634820000.0       311327478000.0      365826614000.0
+Other Operating Expenses                                          6729900000.0      118743408000.0       239454610000.0      303194617000.0
+Depreciation And Amortization In Income Statement                 7460071000.0        7023618000.0         6650017000.0        6288996000.0
+Depreciation Income Statement                                     7460071000.0        7023618000.0         6650017000.0        6288996000.0
+Selling General And Administration                               31150154000.0       23803439000.0        22743699000.0       21026663000.0
+General And Administrative Expense                               31150154000.0       23803439000.0        22743699000.0       21026663000.0
+Total Revenue                                                   171892241000.0      254989077000.0       480265356000.0      472915882000.0
+Operating Revenue                                               171892241000.0      254989077000.0       480265356000.0      472915882000.0

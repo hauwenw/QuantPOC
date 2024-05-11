@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No.2, Singgong Road
+address2	Dashe District
+city	Kaohsiung
+zip	815
+country	Taiwan
+phone	886 7 351 3811
+fax	886 7 351 4705
+website	https://www.tsrc.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	TSRC Corporation, together with its subsidiaries, engages in the manufacture, import, and sale of various synthetic rubber and related products in Taiwan, China, the United States, Vietnam, Thailand, Germany, Indonesia, Japan, and internationally. The company offers ESBR rubber for use in automotive tires, shoe soles, conveyor belts, military caterpillar and tow trucks tracks, sports equipment, and toys; SSBR rubber for use in energy-saving, high performance, and all-season tires; BR rubber that is used in the production of plastic modification for HIPS and high-speed radial tires; and NBR rubber for use in oil hoses and seals, rollers, industrial gaskets, belts, shoe soles, rubber plastic foam sheets, and conveyor belts. It also provides styrene-butadiene-styrene, styrene-isoprene-styrene, and styrene-ethylene/butylene-styrene copolymers, as well as T-BLEND applied materials for use in advance shoe and foam materials, soft touch and gel products, and overmolding materials. The company was formerly known as Taiwan Synthetic Rubber Corporation and changed its name to TSRC Corporation in August 1999. TSRC Corporation was incorporated in 1973 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Weiqiang  Chai', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Wang', 'title': 'Vice President of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Wei  Hsu', 'title': 'VP of Operations Division & Global Head of Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Han  Lin', 'title': 'Assistant Vice President of Legal Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thomas  Lin', 'title': 'Senior Assistant Vice President of Corporate Development Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Peggy  Wang', 'title': 'Vice President of Human Resource & Management', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alice  Yuan', 'title': 'Assistant Vice President of Chief Executive Officer/President Office', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.tsrc.com.tw/EN/service05.php
+maxAge	86400
+priceHint	2
+previousClose	23.95
+open	24.0
+dayLow	23.9
+dayHigh	24.3
+regularMarketPreviousClose	23.95
+regularMarketOpen	24.0
+regularMarketDayLow	23.9
+regularMarketDayHigh	24.3
+dividendRate	1.08
+dividendYield	0.0446
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	1.3011999
+fiveYearAvgDividendYield	4.18
+trailingPE	29.156628
+forwardPE	26.021505
+volume	686218
+regularMarketVolume	686218
+averageVolume	1684576
+averageVolume10days	2174314
+averageDailyVolume10Day	2174314
+bid	24.2
+ask	24.25
+marketCap	19982182400
+fiftyTwoWeekLow	22.05
+fiftyTwoWeekHigh	27.05
+priceToSalesTrailing12Months	0.6233013
+fiftyDayAverage	23.579
+twoHundredDayAverage	23.64175
+trailingAnnualDividendRate	0.56
+trailingAnnualDividendYield	0.023382045
+currency	TWD
+enterpriseValue	27334162432
+profitMargins	0.021370001
+floatShares	427585719
+sharesOutstanding	825710016
+heldPercentInsiders	0.36868998
+heldPercentInstitutions	0.15606
+impliedSharesOutstanding	825710016
+bookValue	24.344
+priceToBook	0.99408484
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.02
+netIncomeToCommon	685219008
+trailingEps	0.83
+forwardEps	0.93
+pegRatio	1.39
+lastSplitFactor	1050:1000
+lastSplitDate	1405382400	 (2014-07-15 08:00:00)
+enterpriseToRevenue	0.853
+enterpriseToEbitda	12.321
+52WeekChange	-0.08159393
+SandP52WeekChange	0.26265144
+lastDividendValue	1.08
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2103.TW
+underlyingSymbol	2103.TW
+shortName	TSRC CORPORATION
+longName	TSRC Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	af8cb91d-e3a7-33e4-bf0b-816596f075ad
+messageBoardId	finmb_9736033
+gmtOffSetMilliseconds	28800000
+currentPrice	24.2
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	6103428096
+totalCashPerShare	7.479
+ebitda	2218478080
+totalDebt	12274012160
+quickRatio	1.004
+currentRatio	1.655
+totalRevenue	32058621952
+debtToEquity	57.677
+revenuePerShare	38.938
+returnOnAssets	0.01694
+returnOnEquity	0.0461
+freeCashflow	-1007875392
+operatingCashflow	2050811008
+earningsGrowth	0.032
+revenueGrowth	0.078
+grossMargins	0.10751
+ebitdaMargins	0.0692
+operatingMargins	0.04756
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    811533.013174      876868.332914     -490047.066672       725400.0
+Tax Rate For Calcs                                                  0.321018           0.308431           0.207471            0.2
+Normalized EBITDA                                               3086810000.0       4548932000.0       6956431000.0   1797027000.0
+Total Unusual Items                                                2528000.0          2843000.0         -2362000.0      3627000.0
+Total Unusual Items Excluding Goodwill                             2528000.0          2843000.0         -2362000.0      3627000.0
+Net Income From Continuing Operation Net Minority Interest       680018000.0       1782763000.0       3930939000.0    -21891000.0
+Reconciled Depreciation                                         1317683000.0       1307575000.0       1210340000.0   1156414000.0
+Reconciled Cost Of Revenue                                     28118423000.0      28327924000.0      25732774000.0  21087174000.0
+EBITDA                                                          3089338000.0       4551775000.0       6954069000.0   1800654000.0
+EBIT                                                            1771655000.0       3244200000.0       5743729000.0    644240000.0
+Net Interest Income                                             -115547000.0        -90338000.0        -80665000.0    -76646000.0
+Interest Expense                                                 347572000.0        175468000.0        110741000.0    123569000.0
+Interest Income                                                  232025000.0         85130000.0         30076000.0     46923000.0
+Normalized Income                                           678301533.013174  1780796868.332914  3932810952.933328    -24792600.0
+Net Income From Continuing And Discontinued Operation            680018000.0       1782763000.0       3930939000.0    -21891000.0
+Total Expenses                                                 30481501000.0      31169070000.0      28602777000.0  23205755000.0
+Diluted Average Shares                                           829384000.0        831498000.0        830225000.0    729700000.0
+Basic Average Shares                                             825710000.0        825710000.0        825710000.0    729700000.0
+Diluted EPS                                                             0.82               2.14               4.73          -0.03
+Basic EPS                                                               0.82               2.16               4.76          -0.03
+Diluted NI Availto Com Stockholders                              680018000.0       1782763000.0       3930939000.0    -21891000.0
+Net Income Common Stockholders                                   680018000.0       1782763000.0       3930939000.0    -21891000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0            0.0
+Net Income                                                       680018000.0       1782763000.0       3930939000.0    -21891000.0
+Minority Interests                                              -286909000.0       -339478000.0       -533366000.0   -237152000.0
+Net Income Including Noncontrolling Interests                    966927000.0       2122241000.0       4464305000.0    215261000.0
+Net Income Continuous Operations                                 966927000.0       2122241000.0       4464305000.0    215261000.0
+Tax Provision                                                    457156000.0        946491000.0       1168683000.0    305410000.0
+Pretax Income                                                   1424083000.0       3068732000.0       5632988000.0    520671000.0
+Other Non Operating Income Expenses                              170783000.0        173398000.0        983513000.0   -526506000.0
+Special Income Charges                                             2528000.0          2843000.0         -2362000.0      3627000.0
+Write Off                                                         -2528000.0         -2843000.0          2362000.0     -3627000.0
+Net Non Operating Interest Income Expense                       -115547000.0        -90338000.0        -80665000.0    -76646000.0
+Interest Expense Non Operating                                   347572000.0        175468000.0        110741000.0    123569000.0
+Interest Income Non Operating                                    232025000.0         85130000.0         30076000.0     46923000.0
+Operating Income                                                 945388000.0       2672127000.0       3930461000.0    818688000.0
+Operating Expense                                               2363078000.0       2841146000.0       2870003000.0   2118581000.0
+Other Operating Expenses                                        -228596000.0       -272318000.0       -271545000.0   -182859000.0
+Research And Development                                         396693000.0        392118000.0        371679000.0    350678000.0
+Selling General And Administration                              2194981000.0       2721346000.0       2769869000.0   1950762000.0
+Selling And Marketing Expense                                   1130137000.0       1679407000.0       1755251000.0    949953000.0
+General And Administrative Expense                              1064844000.0       1041939000.0       1014618000.0   1000809000.0
+Gross Profit                                                    3308466000.0       5513273000.0       6800464000.0   2937269000.0
+Cost Of Revenue                                                28118423000.0      28327924000.0      25732774000.0  21087174000.0
+Total Revenue                                                  31426889000.0      33841197000.0      32533238000.0  24024443000.0
+Operating Revenue                                              31426889000.0      33841197000.0      32533238000.0  24024443000.0

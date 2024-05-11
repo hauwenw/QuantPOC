@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	One Nexus Way Bay
+address2	Grand Cayman
+city	George Town
+zip	KY1-9005
+country	Cayman Islands
+phone	662 709 3687
+fax	662 324 7045
+website	https://www.jppholding.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	JPP Holding Company Limited manufactures and sells various mechanical parts, enclosures, and electronic products for the aerospace, telecommunication, electronics, energy, healthcare, and food industries in the Cayman Islands and internationally. The company offers enclosures of flight control computers; and mechanical parts for the cockpit electronics of aircraft with a range of equipment, subsystems, and systems for flight control, navigation, communication, electrical systems, etc. It also provides monitor control cabinets, optical fiber communication system cabinets, 4G telecommunication cabinets, 5G LTE telecommunication cabinets, telephone system switch box+ IP phone system cabinets, telecommunication system cooling set-up boxes, multi-media self-refill billing machines, and bill's for exchange system casing and related products. In addition, the company offers mechanical parts and sub-assemblies of 3D motion picture projectors for digital cinema, surveillance system, and camera internal assembly components; industrial ventilation system chassis; and cash register assemblies. Further, it provides solar system related mechanical parts and assemblies, and solar power AC/DC power converter enclosures; mechanical parts of X-rays, medical displays, surgical operation tables, pharmaceutical carts, MRI cabinets, etc.; and mechanical parts and enclosures of automatic check weighers, metal detectors, meat analyzers, milk analyzers, etc. The company was founded in 1998 and is headquartered in George Town, the Cayman Islands.
+fullTimeEmployees	1331
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kuo-Sung  Chung', 'age': 62, 'title': 'Chairman, GM & President', 'yearBorn': 1961, 'fiscalYear': 2022, 'totalPay': 902000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-Yuan  Chen', 'title': 'CFO and Finance & Accounting Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sarunya  Maneechay', 'title': 'Administration Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tzou  Sin', 'title': 'Sales Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Ling  Kuo', 'title': 'VP & Director', 'fiscalYear': 2022, 'totalPay': 420000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Kai  Hong', 'title': 'Chief of Internal Audit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ying-Yi  Yeh', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	132.5
+open	129.0
+dayLow	129.0
+dayHigh	131.0
+regularMarketPreviousClose	132.5
+regularMarketOpen	129.0
+regularMarketDayLow	129.0
+regularMarketDayHigh	131.0
+dividendRate	2.8
+dividendYield	0.0214
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	0.3361
+fiveYearAvgDividendYield	4.27
+beta	0.633
+trailingPE	15.726291
+forwardPE	10.471622
+volume	1216387
+regularMarketVolume	1216387
+averageVolume	2567580
+averageVolume10days	1419535
+averageDailyVolume10Day	1419535
+bid	130.5
+ask	131.0
+marketCap	6278567936
+fiftyTwoWeekLow	106.0
+fiftyTwoWeekHigh	239.5
+priceToSalesTrailing12Months	2.7913022
+fiftyDayAverage	186.78
+twoHundredDayAverage	144.9975
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.03773585
+currency	TWD
+enterpriseValue	7301214208
+profitMargins	0.17756
+floatShares	31684722
+sharesOutstanding	47928000
+heldPercentInsiders	0.55449003
+heldPercentInstitutions	0.00273
+impliedSharesOutstanding	48748700
+bookValue	49.013
+priceToBook	2.6727602
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.951
+netIncomeToCommon	399400992
+trailingEps	8.33
+forwardEps	12.51
+enterpriseToRevenue	3.246
+enterpriseToEbitda	11.181
+52WeekChange	-0.1465798
+SandP52WeekChange	0.26265144
+lastDividendValue	2.8
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5284.TW
+underlyingSymbol	5284.TW
+shortName	JPP HOLDING COMPANY LIMITED
+longName	JPP Holding Company Limited
+firstTradeDateEpochUtc	1412643600	 (2014-10-07 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f82eb8b5-8859-334f-aba2-ff13991ec1ae
+messageBoardId	finmb_262950687
+gmtOffSetMilliseconds	28800000
+currentPrice	131.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	205350000
+totalCashPerShare	4.285
+ebitda	652982976
+totalDebt	1210891008
+quickRatio	0.941
+currentRatio	1.345
+totalRevenue	2249332992
+debtToEquity	51.174
+revenuePerShare	46.932
+returnOnAssets	0.07508
+returnOnEquity	0.17924999
+freeCashflow	-181657632
+operatingCashflow	207959008
+earningsGrowth	-0.948
+revenueGrowth	-0.068
+grossMargins	0.39025003
+ebitdaMargins	0.2903
+operatingMargins	0.14317
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -239378.590183    -103823.591923     -24260.677886     179276.430106
+Tax Rate For Calcs                                                  0.111755          0.202385          0.260868          0.086943
+Normalized EBITDA                                                676012000.0       490773000.0       353545000.0       308926000.0
+Total Unusual Items                                               -2142000.0         -513000.0          -93000.0         2062000.0
+Total Unusual Items Excluding Goodwill                            -2142000.0         -513000.0          -93000.0         2062000.0
+Net Income From Continuing Operation Net Minority Interest       399401000.0       243632000.0       130936000.0       115873000.0
+Reconciled Depreciation                                          186524000.0       165753000.0       165616000.0       161757000.0
+Reconciled Cost Of Revenue                                      1371524000.0      1141191000.0       903370000.0       861414000.0
+EBITDA                                                           673870000.0       490260000.0       353452000.0       310988000.0
+EBIT                                                             487346000.0       324507000.0       187836000.0       149231000.0
+Net Interest Income                                              -36231000.0       -19007000.0       -18626000.0       -19197000.0
+Interest Expense                                                  38309000.0        19623000.0        19076000.0        20779000.0
+Interest Income                                                    2078000.0          616000.0          450000.0         1582000.0
+Normalized Income                                           401303621.409817  244041176.408077  131004739.322114  113990276.430106
+Net Income From Continuing And Discontinued Operation            399401000.0       243632000.0       130936000.0       115873000.0
+Total Expenses                                                  1759923000.0      1466256000.0      1185802000.0      1147664000.0
+Diluted Average Shares                                                   NaN        48066000.0        47704000.0        47509000.0
+Basic Average Shares                                                     NaN        44734000.0        43664000.0        43664000.0
+Diluted EPS                                                              NaN              5.09              2.94              2.43
+Basic EPS                                                                NaN              5.45               3.0              2.65
+Diluted NI Availto Com Stockholders                              399401000.0       243632000.0       130936000.0       115873000.0
+Net Income Common Stockholders                                   399401000.0       243632000.0       130936000.0       115873000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       399401000.0       243632000.0       130936000.0       115873000.0
+Minority Interests                                                  546000.0          452000.0         6200000.0        -1411000.0
+Net Income Including Noncontrolling Interests                    398855000.0       243180000.0       124736000.0       117284000.0
+Net Income Continuous Operations                                 398855000.0       243180000.0       124736000.0       117284000.0
+Tax Provision                                                     50182000.0        61704000.0        44024000.0        11168000.0
+Pretax Income                                                    449037000.0       304884000.0       168760000.0       128452000.0
+Other Non Operating Income Expenses                                4724000.0         6123000.0        27713000.0        35638000.0
+Special Income Charges                                            -2142000.0         -513000.0          -93000.0         2062000.0
+Write Off                                                          2142000.0          513000.0           93000.0        -2062000.0
+Net Non Operating Interest Income Expense                        -36231000.0       -19007000.0       -18626000.0       -19197000.0
+Interest Expense Non Operating                                    38309000.0        19623000.0        19076000.0        20779000.0
+Interest Income Non Operating                                      2078000.0          616000.0          450000.0         1582000.0
+Operating Income                                                 489410000.0       322937000.0       165180000.0       111778000.0
+Operating Expense                                                388399000.0       325065000.0       282432000.0       286250000.0
+Research And Development                                          24135000.0        21297000.0        20331000.0        19797000.0
+Selling General And Administration                               364264000.0       303768000.0       262101000.0       266453000.0
+Selling And Marketing Expense                                     45766000.0        36826000.0        31583000.0        30883000.0
+General And Administrative Expense                               318498000.0       266942000.0       230518000.0       235570000.0
+Gross Profit                                                     877809000.0       648002000.0       447612000.0       398028000.0
+Cost Of Revenue                                                 1371524000.0      1141191000.0       903370000.0       861414000.0
+Total Revenue                                                   2249333000.0      1789193000.0      1350982000.0      1259442000.0
+Operating Revenue                                               2249333000.0      1789193000.0      1350982000.0      1259442000.0

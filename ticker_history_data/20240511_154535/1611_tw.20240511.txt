@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 124, Xingshan Road
+address2	2nd Floor
+city	Taipei
+country	Taiwan
+phone	886 2 2719 1188
+fax	886 2 2713 7111
+website	https://www.chinaelectric.com.tw
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	China Electric Mfg. Corporation manufactures and sells electrical appliances, lighting products, and related accessories in Taiwan. The company's product portfolio light bulbs, fluorescent lamps, lamps, and LED DC power electronic ballasts for home, shop, office, outdoor, indoor, and other lighting applications. It also provides lithium iron phosphate battery modules for green lighting systems, power tools, electric bicycles, electric motorcycles, electric golf carts, electric vehicles, etc. In addition, the company acts as an agency for quotation, distribution, and tendering businesses. Further, it manufactures and sells glass shells and tubes; and develops and invests in real estate properties, as well as engages in investment activities. The company is also involved in the import and export activities. China Electric Mfg. Corporation was founded in 1955 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yan  Yi-Feng', 'title': 'Chief Investment Officer', 'fiscalYear': 2021, 'totalPay': 2481000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huan-Tzu  Tseng', 'title': 'Associate', 'fiscalYear': 2021, 'totalPay': 1412000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Junjie  Zhang', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	17.4
+open	17.65
+dayLow	17.45
+dayHigh	17.9
+regularMarketPreviousClose	17.4
+regularMarketOpen	17.65
+regularMarketDayLow	17.45
+regularMarketDayHigh	17.9
+dividendRate	0.5
+dividendYield	0.028099999
+exDividendDate	1717718400	 (2024-06-07 08:00:00)
+payoutRatio	0.6522
+fiveYearAvgDividendYield	4.36
+beta	0.431
+trailingPE	38.69565
+volume	1654895
+regularMarketVolume	1654895
+averageVolume	1897549
+averageVolume10days	1576964
+averageDailyVolume10Day	1576964
+bid	17.75
+ask	17.8
+marketCap	5744700416
+fiftyTwoWeekLow	15.2
+fiftyTwoWeekHigh	21.0
+priceToSalesTrailing12Months	4.2194123
+fiftyDayAverage	17.058
+twoHundredDayAverage	16.76125
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.028735632
+currency	TWD
+enterpriseValue	4819550720
+profitMargins	0.10985
+floatShares	300812544
+sharesOutstanding	322736000
+heldPercentInsiders	0.26429
+heldPercentInstitutions	0.05544
+impliedSharesOutstanding	324617984
+bookValue	13.412
+priceToBook	1.3271697
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.017
+netIncomeToCommon	149560000
+trailingEps	0.46
+lastSplitFactor	900:1000
+lastSplitDate	1599696000	 (2020-09-10 08:00:00)
+enterpriseToRevenue	3.54
+enterpriseToEbitda	53.844
+52WeekChange	0.008498549
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1717718400	 (2024-06-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1611.TW
+underlyingSymbol	1611.TW
+shortName	CHINA ELECTRIC MANUFACTURE
+longName	China Electric Mfg. Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	49dec225-3568-3550-911a-1b2ae14a3e92
+messageBoardId	finmb_9898905
+gmtOffSetMilliseconds	28800000
+currentPrice	17.8
+recommendationKey	none
+totalCash	1570573056
+totalCashPerShare	4.866
+ebitda	89509000
+totalDebt	645422976
+quickRatio	2.007
+currentRatio	2.531
+totalRevenue	1361492992
+debtToEquity	14.911
+revenuePerShare	4.219
+returnOnAssets	0.00767
+returnOnEquity	0.03504
+freeCashflow	-33326500
+operatingCashflow	245714000
+earningsGrowth	0.918
+revenueGrowth	-0.027
+grossMargins	0.27382
+ebitdaMargins	0.06574
+operatingMargins	0.08527
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  1386412.901337   -4076551.798873    1321716.755152   2016953.748794
+Tax Rate For Calcs                                                 0.026967          0.094249          0.049614         0.117861
+Normalized EBITDA                                               170204000.0       208189000.0       353708000.0      165075000.0
+Total Unusual Items                                              51411000.0       -43253000.0        26640000.0       17113000.0
+Total Unusual Items Excluding Goodwill                           51411000.0       -43253000.0        26640000.0       17113000.0
+Net Income From Continuing Operation Net Minority Interest      149560000.0        77314000.0       279078000.0       78618000.0
+Reconciled Depreciation                                          56235000.0        70803000.0        78585000.0       83676000.0
+Reconciled Cost Of Revenue                                      988690000.0      1133042000.0      1278313000.0     1519379000.0
+EBITDA                                                          221615000.0       164936000.0       380348000.0      182188000.0
+EBIT                                                            165380000.0        94133000.0       301763000.0       98512000.0
+Net Interest Income                                              20937000.0          674000.0        -1925000.0       -1364000.0
+Interest Expense                                                 11675000.0         8774000.0         8116000.0        9390000.0
+Interest Income                                                  32612000.0         9448000.0         6191000.0        8026000.0
+Normalized Income                                           99535412.901337  116490448.201127  253759716.755152  63521953.748794
+Net Income From Continuing And Discontinued Operation           149560000.0        77314000.0       279078000.0       78618000.0
+Total Expenses                                                 1300675000.0      1480441000.0      1781384000.0     1986070000.0
+Rent Expense Supplemental                                        16118000.0        11689000.0         9565000.0       10615000.0
+Diluted Average Shares                                                  NaN       322833000.0       323162000.0      343361000.0
+Basic Average Shares                                                    NaN       322736000.0       322736000.0      342679000.0
+Diluted EPS                                                             NaN              0.24              0.86             0.23
+Basic EPS                                                               NaN              0.24              0.86             0.23
+Diluted NI Availto Com Stockholders                             149560000.0        77314000.0       279078000.0       78618000.0
+Net Income Common Stockholders                                  149560000.0        77314000.0       279078000.0       78618000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0              0.0
+Net Income                                                      149560000.0        77314000.0       279078000.0       78618000.0
+Minority Interests                                                      0.0               0.0               0.0              0.0
+Net Income Including Noncontrolling Interests                   149560000.0        77314000.0       279078000.0       78618000.0
+Net Income Discontinuous Operations                                     NaN               0.0               0.0              0.0
+Net Income Continuous Operations                                149560000.0        77314000.0       279078000.0       78618000.0
+Tax Provision                                                     4145000.0         8045000.0        14569000.0       10504000.0
+Pretax Income                                                   153705000.0        85359000.0       293647000.0       89122000.0
+Other Non Operating Income Expenses                               1623000.0         2117000.0               NaN              NaN
+Special Income Charges                                           18541000.0        -3020000.0         -467000.0       -6869000.0
+Other Special Charges                                           -12816000.0               NaN               NaN              NaN
+Write Off                                                        -5725000.0         3020000.0          467000.0        3344000.0
+Impairment Of Capital Assets                                            NaN               0.0               0.0        3525000.0
+Net Non Operating Interest Income Expense                        20937000.0          674000.0        -1925000.0       -1364000.0
+Interest Expense Non Operating                                   11675000.0         8774000.0         8116000.0        9390000.0
+Interest Income Non Operating                                    32612000.0         9448000.0         6191000.0        8026000.0
+Operating Income                                                 60818000.0        90028000.0        -2960000.0       87976000.0
+Operating Expense                                               311985000.0       347399000.0       503071000.0      466691000.0
+Research And Development                                          3738000.0         3885000.0         9067000.0       22657000.0
+Selling General And Administration                              308247000.0       343514000.0       494004000.0      444034000.0
+Selling And Marketing Expense                                   176245000.0       207397000.0       226230000.0      222624000.0
+General And Administrative Expense                              132002000.0       136117000.0       267774000.0      221410000.0
+Gross Profit                                                    372803000.0       437427000.0       500111000.0      554667000.0
+Cost Of Revenue                                                 988690000.0      1133042000.0      1278313000.0     1519379000.0
+Total Revenue                                                  1361493000.0      1570469000.0      1778424000.0     2074046000.0
+Operating Revenue                                              1361493000.0      1570469000.0      1778424000.0     2074046000.0

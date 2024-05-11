@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 168, Sing-ai Road
+address2	Neihu District
+city	Taipei
+zip	11494
+country	Taiwan
+phone	886 2 8791 4988
+fax	886 2 8791 4966
+website	https://www.flytech.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Flytech Technology Co., Ltd. designs, manufactures, trades in, and sells computers and peripheral equipments in Taiwan, Europe, Africa, the United States, Asia, and internationally. It offers all-in-one point-of-sales (POS), panel PC, mobile POS, KIOSK, tablets, and box PC. The company also provides software and data processing services; and integration of software and hardware services. It serves hospitality, retail, medical, industrial automations, and commercial industries. Flytech Technology Co., Ltd. was incorporated in 1984 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jia Horng  Shyu', 'title': 'President, Marketing Center Supervisor & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pi Tao  Wu', 'title': 'Finance Director, Financial Officer, Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching-Sheng  Sung', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	89.6
+open	91.8
+dayLow	88.0
+dayHigh	91.8
+regularMarketPreviousClose	89.6
+regularMarketOpen	91.8
+regularMarketDayLow	88.0
+regularMarketDayHigh	91.8
+dividendRate	5.5
+dividendYield	0.0621
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	1.1752
+fiveYearAvgDividendYield	6.55
+beta	0.423
+trailingPE	18.931623
+volume	917986
+regularMarketVolume	917986
+averageVolume	644437
+averageVolume10days	591827
+averageDailyVolume10Day	591827
+bid	88.5
+ask	88.7
+marketCap	12675293184
+fiftyTwoWeekLow	61.1
+fiftyTwoWeekHigh	92.3
+priceToSalesTrailing12Months	3.633528
+fiftyDayAverage	79.72
+twoHundredDayAverage	70.269
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.04464286
+currency	TWD
+enterpriseValue	9959610368
+profitMargins	0.14386
+floatShares	102146482
+sharesOutstanding	143062000
+heldPercentInsiders	0.29892
+heldPercentInstitutions	0.11292
+impliedSharesOutstanding	144250000
+bookValue	32.568
+priceToBook	2.7204616
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.835
+netIncomeToCommon	501856992
+trailingEps	4.68
+lastSplitFactor	1049.593:1000
+lastSplitDate	1440028800	 (2015-08-20 08:00:00)
+enterpriseToRevenue	2.855
+enterpriseToEbitda	15.525
+52WeekChange	0.26752508
+SandP52WeekChange	0.26265144
+lastDividendValue	5.5
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6206.TW
+underlyingSymbol	6206.TW
+shortName	FLYTECH TECHNOLOGY CO
+longName	Flytech Technology Co., Ltd.
+firstTradeDateEpochUtc	1091494800	 (2004-08-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	137be67a-6976-3fdd-b1a1-40061353b1f6
+messageBoardId	finmb_9845887
+gmtOffSetMilliseconds	28800000
+currentPrice	88.6
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2795433984
+totalCashPerShare	19.54
+ebitda	641523008
+totalDebt	34508000
+quickRatio	3.99
+currentRatio	4.639
+totalRevenue	3488425984
+debtToEquity	0.734
+revenuePerShare	24.384
+returnOnAssets	0.05954
+returnOnEquity	0.09738
+freeCashflow	511118016
+operatingCashflow	651849984
+earningsGrowth	0.842
+revenueGrowth	0.022
+grossMargins	0.38744
+ebitdaMargins	0.1839
+operatingMargins	0.23162001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.217961      0.155193      0.159449      0.191948
+Normalized EBITDA                                            708941000.0  1338293000.0   982843000.0   912991000.0
+Net Income From Continuing Operation Net Minority Interest   501857000.0  1043153000.0   683064000.0   589644000.0
+Reconciled Depreciation                                      103202000.0   129563000.0   158996000.0   170820000.0
+Reconciled Cost Of Revenue                                  2136863000.0  3561484000.0  3481701000.0  2889455000.0
+EBITDA                                                       708941000.0  1338293000.0   982843000.0   912991000.0
+EBIT                                                         605739000.0  1208730000.0   823847000.0   742171000.0
+Net Interest Income                                           40779000.0    10243000.0     4640000.0     9823000.0
+Interest Expense                                               1281000.0     1115000.0     1665000.0     2209000.0
+Interest Income                                               42060000.0    11358000.0     6305000.0    12032000.0
+Normalized Income                                            501857000.0  1043153000.0   683064000.0   589644000.0
+Net Income From Continuing And Discontinued Operation        501857000.0  1043153000.0   683064000.0   589644000.0
+Total Expenses                                              2929113000.0  4437547000.0  4363394000.0  3731569000.0
+Diluted Average Shares                                               NaN   144878000.0   143993000.0   144177000.0
+Basic Average Shares                                                 NaN   143062000.0   143062000.0   143062000.0
+Diluted EPS                                                          NaN           7.2          4.74          4.09
+Basic EPS                                                            NaN          7.29          4.77          4.12
+Diluted NI Availto Com Stockholders                          501857000.0  1043153000.0   683064000.0   589644000.0
+Net Income Common Stockholders                               501857000.0  1043153000.0   683064000.0   589644000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   501857000.0  1043153000.0   683064000.0   589644000.0
+Minority Interests                                            29147000.0    22951000.0    -8022000.0    -8284000.0
+Net Income Including Noncontrolling Interests                472710000.0  1020202000.0   691086000.0   597928000.0
+Net Income Continuous Operations                             472710000.0  1020202000.0   691086000.0   597928000.0
+Tax Provision                                                131748000.0   187413000.0   131096000.0   142034000.0
+Pretax Income                                                604458000.0  1207615000.0   822182000.0   739962000.0
+Other Non Operating Income Expenses                            9323000.0    95059000.0    -3909000.0    28747000.0
+Net Non Operating Interest Income Expense                     40779000.0    10243000.0     4640000.0     9823000.0
+Interest Expense Non Operating                                 1281000.0     1115000.0     1665000.0     2209000.0
+Interest Income Non Operating                                 42060000.0    11358000.0     6305000.0    12032000.0
+Operating Income                                             559313000.0  1106678000.0   821761000.0   701392000.0
+Operating Expense                                            792250000.0   876063000.0   881693000.0   842114000.0
+Research And Development                                     266963000.0   274550000.0   251488000.0   206482000.0
+Selling General And Administration                           525287000.0   601513000.0   630205000.0   635632000.0
+Selling And Marketing Expense                                354813000.0   380066000.0   389510000.0   402506000.0
+General And Administrative Expense                           170474000.0   221447000.0   240695000.0   233126000.0
+Gross Profit                                                1351563000.0  1982741000.0  1703454000.0  1543506000.0
+Cost Of Revenue                                             2136863000.0  3561484000.0  3481701000.0  2889455000.0
+Total Revenue                                               3488426000.0  5544225000.0  5185155000.0  4432961000.0
+Operating Revenue                                           3488426000.0  5544225000.0  5185155000.0  4432961000.0

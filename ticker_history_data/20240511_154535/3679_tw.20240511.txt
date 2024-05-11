@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 36, Huacheng Road
+address2	Lane. 11 Xinzhuang District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2998 3578
+fax	886 2 2998 3580
+website	https://www.nishoku.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Nishoku Technology Inc., together with its subsidiaries, designs and manufactures single and double steel plastic injection molds in Taiwan, the United States, Asia, Europe, and internationally. The company offers display cases, VR glass, IPAD cover, overhead console, side mirror direction light, auto interior light, car handle, and walkie-talkie. It also provides double injection molding products, including wireless Bluetooth speakers, function key, control console, and phone keypad. In addition, the company offers tooling products and electronic parts. It serves consumer, computer, auto, and communication sectors. Nishoku Technology Inc. was formerly known as Chi-Hsing Enterprise Co., Ltd. and changed its name to Nishoku Technology Inc in June 2007. The company was incorporated in 1980 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Piao-Fu  Chen', 'title': 'Chief Strategy Officer & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Sheng  Tsai', 'title': 'GM, President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tzu-Hsuan  Lin', 'title': 'CFO, Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ying-Lan  Wu', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Hsien  Chang', 'title': 'Executive VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chao-Ming  Cheng', 'title': 'Manager & Audit Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	144.0
+open	147.0
+dayLow	142.5
+dayHigh	147.0
+regularMarketPreviousClose	144.0
+regularMarketOpen	147.0
+regularMarketDayLow	142.5
+regularMarketDayHigh	147.0
+dividendRate	10.0
+dividendYield	0.070700005
+exDividendDate	1686873600	 (2023-06-16 08:00:00)
+payoutRatio	0.7463
+fiveYearAvgDividendYield	8.48
+beta	0.787
+trailingPE	10.634329
+forwardPE	20.27027
+volume	239632
+regularMarketVolume	239632
+averageVolume	305101
+averageVolume10days	821418
+averageDailyVolume10Day	821418
+bid	142.5
+ask	143.0
+marketCap	8983228416
+fiftyTwoWeekLow	81.4
+fiftyTwoWeekHigh	154.0
+priceToSalesTrailing12Months	2.5602515
+fiftyDayAverage	121.79
+twoHundredDayAverage	105.0765
+currency	TWD
+enterpriseValue	7903510016
+profitMargins	0.13881999
+floatShares	32674893
+sharesOutstanding	63040200
+heldPercentInsiders	0.51055
+heldPercentInstitutions	0.011849999
+impliedSharesOutstanding	63040200
+bookValue	70.595
+priceToBook	2.0185566
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.428
+netIncomeToCommon	487096992
+trailingEps	13.4
+forwardEps	7.03
+lastSplitFactor	800:1000
+lastSplitDate	1536796800	 (2018-09-13 08:00:00)
+enterpriseToRevenue	2.253
+enterpriseToEbitda	11.659
+52WeekChange	0.5522876
+SandP52WeekChange	0.26265144
+lastDividendValue	10.0
+lastDividendDate	1686873600	 (2023-06-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3679.TW
+underlyingSymbol	3679.TW
+shortName	NISHOKU TECHNOLOGY
+longName	Nishoku Technology Inc.
+firstTradeDateEpochUtc	1317776400	 (2011-10-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b765340e-d63f-3827-88a8-c3945f366b6f
+messageBoardId	finmb_62656920
+gmtOffSetMilliseconds	28800000
+currentPrice	142.5
+recommendationKey	none
+totalCash	3575184896
+totalCashPerShare	56.713
+ebitda	677900992
+totalDebt	2463974912
+quickRatio	1.928
+currentRatio	2.095
+totalRevenue	3508729088
+debtToEquity	55.366
+revenuePerShare	55.983
+returnOnAssets	0.033770002
+returnOnEquity	0.10709
+freeCashflow	303527136
+operatingCashflow	721064000
+earningsGrowth	-0.429
+revenueGrowth	-0.002
+grossMargins	0.26102
+ebitdaMargins	0.19319999
+operatingMargins	0.1567
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -17592881.758191    91182452.166183     -17717.274859    -104750.873871
+Tax Rate For Calcs                                                   0.207199           0.189384          0.264437          0.175169
+Normalized EBITDA                                                6058249000.0       6698767000.0      1091137000.0      1173135000.0
+Total Unusual Items                                               -84908000.0        481469000.0          -67000.0         -598000.0
+Total Unusual Items Excluding Goodwill                            -84908000.0        481469000.0          -67000.0         -598000.0
+Net Income From Continuing Operation Net Minority Interest       3979247000.0       5105824000.0       606688000.0       721362000.0
+Reconciled Depreciation                                           746594000.0        683700000.0       243881000.0       277032000.0
+Reconciled Cost Of Revenue                                       7918828000.0      10710148000.0      3464092000.0      3268381000.0
+EBITDA                                                           5973341000.0       7180236000.0      1091070000.0      1172537000.0
+EBIT                                                             5226747000.0       6496536000.0       847189000.0       895505000.0
+Net Interest Income                                                24592000.0        -19425000.0        32317000.0        42973000.0
+Interest Expense                                                   60664000.0         55068000.0        22395000.0        20948000.0
+Interest Income                                                    85256000.0         35643000.0        54712000.0        63921000.0
+Normalized Income                                           4046562118.241809  4715537452.166183  606737282.725141  721855249.126129
+Net Income From Continuing And Discontinued Operation            3979247000.0       5105824000.0       606688000.0       721362000.0
+Total Expenses                                                  13989363000.0      17021107000.0      3939461000.0      3738611000.0
+Diluted Average Shares                                             63195000.0         63126000.0        62917000.0        62648000.0
+Basic Average Shares                                               62675000.0         62675000.0        62550000.0        62321000.0
+Diluted EPS                                                              9.37               12.0              9.64             11.51
+Basic EPS                                                                9.45              12.14               9.7             11.57
+Diluted NI Availto Com Stockholders                              3979247000.0       5105824000.0       606688000.0       721362000.0
+Net Income Common Stockholders                                   3979247000.0       5105824000.0       606688000.0       721362000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0               0.0
+Net Income                                                       3979247000.0       5105824000.0       606688000.0       721362000.0
+Minority Interests                                               -116427000.0       -115734000.0               NaN               NaN
+Net Income Including Noncontrolling Interests                    4095674000.0       5221558000.0       606688000.0       721362000.0
+Net Income Continuous Operations                                 4095674000.0       5221558000.0       606688000.0       721362000.0
+Tax Provision                                                    1070409000.0       1219910000.0       218106000.0       153195000.0
+Pretax Income                                                    5166083000.0       6441468000.0       824794000.0       874557000.0
+Other Non Operating Income Expenses                               100810000.0        120923000.0       -97105000.0      -237468000.0
+Special Income Charges                                            -56426000.0         76275000.0          -67000.0         -598000.0
+Other Special Charges                                              -1317000.0        -94952000.0               NaN               NaN
+Write Off                                                          57743000.0         18677000.0           67000.0          598000.0
+Net Non Operating Interest Income Expense                          24592000.0        -19425000.0        32317000.0        42973000.0
+Interest Expense Non Operating                                     60664000.0         55068000.0        22395000.0        20948000.0
+Interest Income Non Operating                                      85256000.0         35643000.0        54712000.0        63921000.0
+Operating Income                                                 4686680000.0       5046135000.0       889649000.0      1069650000.0
+Operating Expense                                                6070535000.0       6310959000.0       475369000.0       470230000.0
+Research And Development                                         1757322000.0       1917411000.0        95753000.0        87074000.0
+Selling General And Administration                               4313213000.0       4393548000.0       379616000.0       383156000.0
+Selling And Marketing Expense                                    2944801000.0       2947968000.0        69505000.0        56007000.0
+General And Administrative Expense                               1368412000.0       1445580000.0       310111000.0       327149000.0
+Gross Profit                                                    10757215000.0      11357094000.0      1365018000.0      1539880000.0
+Cost Of Revenue                                                  7918828000.0      10710148000.0      3464092000.0      3268381000.0
+Total Revenue                                                   18676043000.0      22067242000.0      4829110000.0      4808261000.0
+Operating Revenue                                               18676043000.0      22067242000.0      4829110000.0      4808261000.0

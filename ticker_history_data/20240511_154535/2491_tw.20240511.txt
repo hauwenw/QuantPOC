@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 6, Lane 54
+address2	Zhongzheng Road Xindian District
+city	New Taipei City
+zip	231041
+country	Taiwan
+phone	886 3 375 9555
+fax	886 3 367 9955
+website	https://www.focl.com.tw
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Fortune Oriental Company Limited manufactures and sells lighting application products in Taiwan. The company offers smart, commercial, general, residential, industrial, outdoor and INK Chandelier series lighting; and passive component, power related product, MOS, sensors, and lithium battery, as well as DRAM, EEPROM, and SPINOR flash. It also provides multimedia information products that are used in commercial fields, such as audio-visual entertainment, information products, education, and culture and life; and engages in the import and export trade of multimedia information products. The company was formerly known as Infodisc Technology Co., Ltd. and changed its name to Fortune Oriental Company Limited in June 2016. Fortune Oriental Company Limited was incorporated in 1984 and is headquartered in New Taipei City, Taiwan.
+fullTimeEmployees	16
+companyOfficers	[{'maxAge': 1, 'name': 'Pi-Hua  Chen', 'title': 'Chairman of the Board & GM', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	14.5
+open	14.5
+dayLow	14.35
+dayHigh	14.7
+regularMarketPreviousClose	14.5
+regularMarketOpen	14.5
+regularMarketDayLow	14.35
+regularMarketDayHigh	14.7
+exDividendDate	1658188800	 (2022-07-19 08:00:00)
+beta	0.549
+trailingPE	32.11111
+volume	47308
+regularMarketVolume	47308
+averageVolume	142144
+averageVolume10days	58508
+averageDailyVolume10Day	58508
+bid	14.45
+ask	14.5
+marketCap	1185015552
+fiftyTwoWeekLow	12.95
+fiftyTwoWeekHigh	18.3
+priceToSalesTrailing12Months	6.1544867
+fiftyDayAverage	14.902
+twoHundredDayAverage	14.2595
+currency	TWD
+enterpriseValue	878559616
+profitMargins	0.19346
+sharesOutstanding	82008000
+heldPercentInsiders	0.58744997
+impliedSharesOutstanding	82579504
+bookValue	10.093
+priceToBook	1.4316852
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.016
+netIncomeToCommon	37249000
+trailingEps	0.45
+lastSplitFactor	0.516667:1
+lastSplitDate	1348444800	 (2012-09-24 08:00:00)
+enterpriseToRevenue	4.563
+enterpriseToEbitda	-6.856
+52WeekChange	0.082396984
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1658188800	 (2022-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2491.TW
+underlyingSymbol	2491.TW
+shortName	FORTUNE ORIENTAL COMPANY LIMITE
+longName	Fortune Oriental Company Limited
+firstTradeDateEpochUtc	951181200	 (2000-02-22 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	869e5f1c-6b4a-3b0e-9431-4f57c9806cc2
+messageBoardId	finmb_657807
+gmtOffSetMilliseconds	28800000
+currentPrice	14.45
+recommendationKey	none
+totalCash	793571008
+totalCashPerShare	9.677
+ebitda	-128151000
+totalDebt	51175000
+quickRatio	5.778
+currentRatio	8.57
+totalRevenue	192544992
+debtToEquity	4.05
+revenuePerShare	2.348
+returnOnAssets	-0.06001
+returnOnEquity	0.048270002
+freeCashflow	-141889504
+operatingCashflow	-39388000
+earningsGrowth	1.063
+revenueGrowth	-0.544
+grossMargins	0.26648
+ebitdaMargins	-0.66556
+operatingMargins	-0.63502
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31   2022-12-31     2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     5058.888167  -23526800.0     65517.4823   3640873.559349
+Tax Rate For Calcs                                                  0.00005          0.2       0.030234         0.048745
+Normalized EBITDA                                                -9301000.0 -480076000.0    140783000.0      162127000.0
+Total Unusual Items                                             101284000.0 -117634000.0      2167000.0       74692000.0
+Total Unusual Items Excluding Goodwill                          101284000.0 -117634000.0      2167000.0       74692000.0
+Net Income From Continuing Operation Net Minority Interest       37249000.0 -385361000.0     51779000.0      123044000.0
+Reconciled Depreciation                                          29524000.0   21804000.0     13695000.0       10752000.0
+Reconciled Cost Of Revenue                                      141235000.0  142381000.0    127016000.0      160327000.0
+EBITDA                                                           91983000.0 -597710000.0    142950000.0      236819000.0
+EBIT                                                             62459000.0 -619514000.0    129255000.0      226067000.0
+Net Interest Income                                              -1624000.0  -25083000.0      -310000.0        6927000.0
+Interest Expense                                                  2396000.0   25327000.0       725000.0         301000.0
+Interest Income                                                    772000.0     244000.0       415000.0        7228000.0
+Normalized Income                                          -64029941.111833 -291253800.0  49677517.4823  51992873.559349
+Net Income From Continuing And Discontinued Operation            37249000.0 -385361000.0     51779000.0      123044000.0
+Total Expenses                                                  327202000.0  291352000.0    243321000.0      253021000.0
+Diluted Average Shares                                                  NaN   82008000.0     82008000.0       82008000.0
+Basic Average Shares                                                    NaN   82008000.0     82008000.0       82008000.0
+Diluted EPS                                                             NaN         -4.7           0.63              1.5
+Basic EPS                                                               NaN         -4.7           0.63              1.5
+Diluted NI Availto Com Stockholders                              37249000.0 -385361000.0     51779000.0      123044000.0
+Net Income Common Stockholders                                   37249000.0 -385361000.0     51779000.0      123044000.0
+Otherunder Preferred Stock Dividend                                     0.0          0.0            0.0              0.0
+Net Income                                                       37249000.0 -385361000.0     51779000.0      123044000.0
+Minority Interests                                              -22811000.0  259482000.0    -72865000.0      -91717000.0
+Net Income Including Noncontrolling Interests                    60060000.0 -644843000.0    124644000.0      214761000.0
+Net Income Continuous Operations                                 60060000.0 -644843000.0    124644000.0      214761000.0
+Tax Provision                                                        3000.0       2000.0      3886000.0       11005000.0
+Pretax Income                                                    60063000.0 -644841000.0    128530000.0      225766000.0
+Other Non Operating Income Expenses                               9995000.0    3889000.0      3708000.0       14514000.0
+Special Income Charges                                           -1069000.0    -837000.0      1152000.0         904000.0
+Other Special Charges                                               14000.0    -286000.0            NaN              NaN
+Write Off                                                         1055000.0    1123000.0     -1152000.0        -904000.0
+Net Non Operating Interest Income Expense                        -1624000.0  -25083000.0      -310000.0        6927000.0
+Interest Expense Non Operating                                    2396000.0   25327000.0       725000.0         301000.0
+Interest Income Non Operating                                      772000.0     244000.0       415000.0        7228000.0
+Operating Income                                               -134657000.0 -532777000.0    126269000.0      147261000.0
+Operating Expense                                               185967000.0  148971000.0    116305000.0       92694000.0
+Research And Development                                         67415000.0   39598000.0     10598000.0        1731000.0
+Selling General And Administration                              118552000.0  109373000.0    105707000.0       90963000.0
+Selling And Marketing Expense                                    40939000.0   41727000.0     33541000.0       34855000.0
+General And Administrative Expense                               77613000.0   67646000.0     72166000.0       56108000.0
+Gross Profit                                                     51310000.0 -383806000.0    242574000.0      239955000.0
+Cost Of Revenue                                                 141235000.0  142381000.0    127016000.0      160327000.0
+Total Revenue                                                   192545000.0 -241425000.0    369590000.0      400282000.0
+Operating Revenue                                               192545000.0 -241425000.0    369590000.0      400282000.0

@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 296, Xinyi Road
+address2	14th Floor-4, Section 4 Da¡¦an District
+city	Taipei
+zip	10679
+country	Taiwan
+phone	886 2 7733 5368
+fax	886 2 7733 5369
+website	https://www.jiaweils.com
+industry	Specialty Retail
+industryKey	specialty-retail
+industryDisp	Specialty Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Jia Wei Lifestyle, Inc. designs, develops, manufactures, and sells household products. It offers tableware, such as plates/bowls/jars; drinkware products, including cups/jars/others; and kitchenware products under the prepara brand. The company was formerly known as Gamma Optical Co., LTD and changed its name to Jia Wei Lifestyle, Inc. in August 2019. Jia Wei Lifestyle, Inc. was incorporated in 2005 and is based in Taipei, Taiwan.
+fullTimeEmployees	1074
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. David  Wu', 'title': 'President & Director and Chief Information Security Officer', 'fiscalYear': 2021, 'totalPay': 27510000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kelly  Ko', 'title': 'CFO & COO', 'fiscalYear': 2021, 'totalPay': 4223000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Boren  Zheng', 'title': 'Vice President of Sales', 'fiscalYear': 2021, 'totalPay': 5692000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alice  Tsai', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	76.4
+open	76.7
+dayLow	72.2
+dayHigh	76.7
+regularMarketPreviousClose	76.4
+regularMarketOpen	76.7
+regularMarketDayLow	72.2
+regularMarketDayHigh	76.7
+dividendRate	8.0
+dividendYield	0.1058
+exDividendDate	1687737600	 (2023-06-26 08:00:00)
+payoutRatio	1.0438
+beta	0.609
+trailingPE	15.782881
+forwardPE	12.98969
+volume	1434853
+regularMarketVolume	1434853
+averageVolume	517953
+averageVolume10days	919002
+averageDailyVolume10Day	919002
+bid	75.6
+ask	75.7
+marketCap	6070680064
+fiftyTwoWeekLow	50.8
+fiftyTwoWeekHigh	78.6
+priceToSalesTrailing12Months	1.2773865
+fiftyDayAverage	66.314
+twoHundredDayAverage	59.996
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.039267015
+currency	TWD
+enterpriseValue	7418679808
+profitMargins	0.08131
+sharesOutstanding	80300000
+heldPercentInsiders	0.51459
+heldPercentInstitutions	0.0070999996
+impliedSharesOutstanding	83655800
+bookValue	29.385
+priceToBook	2.572741
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.418
+netIncomeToCommon	386412992
+trailingEps	4.79
+forwardEps	5.82
+lastSplitFactor	783.3163:1000
+lastSplitDate	1578528000	 (2020-01-09 08:00:00)
+enterpriseToRevenue	1.561
+enterpriseToEbitda	12.327
+52WeekChange	0.11340201
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1687737600	 (2023-06-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3557.TW
+underlyingSymbol	3557.TW
+shortName	JIA WEI LIFESTYLE INC
+longName	Jia Wei Lifestyle, Inc.
+firstTradeDateEpochUtc	1204074000	 (2008-02-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3bf2632f-39b2-3d5e-83b3-158dddbf0233
+messageBoardId	finmb_34699529
+gmtOffSetMilliseconds	28800000
+currentPrice	75.6
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	523635008
+totalCashPerShare	6.521
+ebitda	601843008
+totalDebt	1871634944
+quickRatio	0.624
+currentRatio	1.026
+totalRevenue	4752421888
+debtToEquity	79.319
+revenuePerShare	59.183
+returnOnAssets	0.065349996
+returnOnEquity	0.16247
+freeCashflow	677916864
+operatingCashflow	907478976
+earningsGrowth	-0.417
+revenueGrowth	-0.105
+grossMargins	0.38621
+ebitdaMargins	0.12663999
+operatingMargins	0.11387
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -7307110.824065    1163709.296749    -827863.157842    -380093.915059
+Tax Rate For Calcs                                                  0.230327          0.221701          0.035221          0.037873
+Normalized EBITDA                                                711636000.0       892100000.0       792674000.0       896922000.0
+Total Unusual Items                                              -31725000.0         5249000.0       -23505000.0       -10036000.0
+Total Unusual Items Excluding Goodwill                           -31725000.0         5249000.0       -23505000.0       -10036000.0
+Net Income From Continuing Operation Net Minority Interest       386413000.0       564757000.0       582581000.0       723887000.0
+Reconciled Depreciation                                          120935000.0       126408000.0       114602000.0       108929000.0
+Reconciled Cost Of Revenue                                      2916970000.0      3604763000.0      3428520000.0      2638612000.0
+EBITDA                                                           679911000.0       897349000.0       769169000.0       886886000.0
+EBIT                                                             558976000.0       770941000.0       654567000.0       777957000.0
+Net Interest Income                                              -52314000.0       -43146000.0       -50065000.0       -24707000.0
+Interest Expense                                                  56928000.0        45311000.0        50718000.0        25575000.0
+Interest Income                                                    4614000.0         2165000.0          653000.0          868000.0
+Normalized Income                                           410830889.175935  560671709.296749  605258136.842158  733542906.084941
+Net Income From Continuing And Discontinued Operation            386413000.0       564757000.0       582581000.0       723887000.0
+Total Expenses                                                  4208358000.0      4957285000.0      4649920000.0      3637015000.0
+Diluted Average Shares                                                   NaN        80921000.0        75564000.0        73253124.0
+Basic Average Shares                                                     NaN        80300000.0        75245000.0        73020831.0
+Diluted EPS                                                              NaN              6.98              7.71          9.881482
+Basic EPS                                                                NaN              7.03              7.74          9.911185
+Diluted NI Availto Com Stockholders                              386413000.0       564757000.0       582581000.0       723887000.0
+Net Income Common Stockholders                                   386413000.0       564757000.0       582581000.0       723887000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       386413000.0       564757000.0       582581000.0       723887000.0
+Minority Interests                                                       NaN               0.0               0.0               NaN
+Net Income Including Noncontrolling Interests                    386413000.0       564757000.0       582581000.0       723887000.0
+Net Income Continuous Operations                                 386413000.0       564757000.0       582581000.0       723887000.0
+Tax Provision                                                    115635000.0       160873000.0        21268000.0        28495000.0
+Pretax Income                                                    502048000.0       725630000.0       603849000.0       752382000.0
+Other Non Operating Income Expenses                               42023000.0        99606000.0        25792000.0        -4433000.0
+Special Income Charges                                           -31725000.0         5249000.0       -23505000.0       -10036000.0
+Write Off                                                         31725000.0        -5249000.0        23505000.0        10036000.0
+Net Non Operating Interest Income Expense                        -52314000.0       -43146000.0       -50065000.0       -24707000.0
+Interest Expense Non Operating                                    56928000.0        45311000.0        50718000.0        25575000.0
+Interest Income Non Operating                                      4614000.0         2165000.0          653000.0          868000.0
+Operating Income                                                 544064000.0       663921000.0       651627000.0       791558000.0
+Operating Expense                                               1291388000.0      1352522000.0      1221400000.0       998403000.0
+Research And Development                                         139763000.0       106327000.0       112586000.0        66348000.0
+Selling General And Administration                              1151625000.0      1246195000.0      1108814000.0       932055000.0
+Selling And Marketing Expense                                    787096000.0       835925000.0       745052000.0       607318000.0
+General And Administrative Expense                               364529000.0       410270000.0       363762000.0       324737000.0
+Gross Profit                                                    1835452000.0      2016443000.0      1873027000.0      1789961000.0
+Cost Of Revenue                                                 2916970000.0      3604763000.0      3428520000.0      2638612000.0
+Total Revenue                                                   4752422000.0      5621206000.0      5301547000.0      4428573000.0
+Operating Revenue                                               4752422000.0      5621206000.0      5301547000.0      4428573000.0

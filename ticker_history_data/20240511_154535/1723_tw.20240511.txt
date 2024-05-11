@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 88, Chenggong 2nd Road
+address2	25th Floor Qianzhen District
+city	Kaohsiung
+zip	80661
+country	Taiwan
+phone	886 7 338 3515
+fax	886 7 338 3516
+website	https://www.cscc.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	China Steel Chemical Corporation produces and sells coal chemicals and refined carbon materials in Taiwan. The company provides coal tar series, which consists soft pitch, creosote oil, carbon black oil, wash oil, fine naphthalene, special pitch paint, wood preservative oil, refined oil, and naphthalene residual oil; and light oil series products, which include benzene, toluene, non-aromatic oils, and xylene mixture. It also offers coke series products, which comprise dehydrated coke fine, fine coke, CDQ, and Xylene mixture powder, as well as metallurgical coke; and carbon materials series products, which include green mesophase powders, mesophase graphite powders, high specific surface area activated carbon, refined pitch, binding carbon powder, high softening point pitch, and OEM for graphitization, as well as provides sulfur, iron oxide powder, and carburant. The company also exports its products to Australia, China, Japan, Korea, Vietnam, Myanmar, Thailand, Malaysia, the Philippines, Indonesia, Pakistan, Sri Lanka, India, Bangladesh, and Germany. The company was incorporated in 1989 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Dar  Fang', 'age': 61, 'title': 'President & Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li Kuo  Li', 'title': 'Chief Auditor, General Manager and Chief of Finance, Accounting & Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan Jen  Fang', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	112.5
+open	112.0
+dayLow	112.0
+dayHigh	113.5
+regularMarketPreviousClose	112.5
+regularMarketOpen	112.0
+regularMarketDayLow	112.0
+regularMarketDayHigh	113.5
+dividendRate	5.0
+dividendYield	0.044099998
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.83889997
+fiveYearAvgDividendYield	3.97
+trailingPE	19.043625
+forwardPE	18.102074
+volume	547541
+regularMarketVolume	547541
+averageVolume	792096
+averageVolume10days	554097
+averageDailyVolume10Day	554097
+bid	112.5
+ask	113.5
+marketCap	26349025280
+fiftyTwoWeekLow	107.0
+fiftyTwoWeekHigh	133.5
+priceToSalesTrailing12Months	3.3885887
+fiftyDayAverage	115.04
+twoHundredDayAverage	114.835
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.035555556
+currency	TWD
+enterpriseValue	26384314368
+profitMargins	0.1784
+floatShares	138465383
+sharesOutstanding	232150000
+heldPercentInsiders	0.39328998
+heldPercentInstitutions	0.16543
+impliedSharesOutstanding	233186000
+bookValue	36.24
+priceToBook	3.1318984
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.149
+netIncomeToCommon	1387239936
+trailingEps	5.96
+forwardEps	6.27
+pegRatio	0.94
+lastSplitFactor	105:100
+lastSplitDate	1216857600	 (2008-07-24 08:00:00)
+enterpriseToRevenue	3.393
+enterpriseToEbitda	14.343
+52WeekChange	0.008888841
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1723.TW
+underlyingSymbol	1723.TW
+shortName	CHINA STEEL CHEMICAL CORP
+longName	China Steel Chemical Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	74fe150d-72d1-3b16-9981-7a7abe544834
+messageBoardId	finmb_9681938
+gmtOffSetMilliseconds	28800000
+currentPrice	113.5
+targetHighPrice	137.0
+targetLowPrice	137.0
+targetMeanPrice	137.0
+targetMedianPrice	137.0
+recommendationMean	2.5
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	1222480000
+totalCashPerShare	5.285
+ebitda	1839516032
+totalDebt	1350744064
+quickRatio	1.479
+currentRatio	2.541
+totalRevenue	7775811072
+debtToEquity	16.112
+revenuePerShare	33.554
+returnOnAssets	0.080620006
+returnOnEquity	0.16455999
+freeCashflow	274313760
+operatingCashflow	1390084992
+earningsGrowth	-0.15
+revenueGrowth	-0.239
+grossMargins	0.25636998
+ebitdaMargins	0.23657
+operatingMargins	0.16047001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31     2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0            0.0           0.0           0.0
+Tax Rate For Calcs                                              0.171434       0.180561      0.164913      0.168024
+Normalized EBITDA                                           2217542000.0   2564057000.0  1818419000.0  1356798000.0
+Total Unusual Items                                                  NaN            NaN           NaN           0.0
+Total Unusual Items Excluding Goodwill                               NaN            NaN           NaN           0.0
+Net Income From Continuing Operation Net Minority Interest  1435809000.0   1702810000.0  1098394000.0   716891000.0
+Reconciled Depreciation                                      465537000.0    460300000.0   475717000.0   475978000.0
+Reconciled Cost Of Revenue                                  6221768000.0   8093961000.0  6368496000.0  4243881000.0
+EBITDA                                                      2217542000.0   2564057000.0  1818419000.0  1356798000.0
+EBIT                                                        1752005000.0   2103757000.0  1342702000.0   880820000.0
+Net Interest Income                                            1308000.0    -12038000.0   -22260000.0   -15190000.0
+Interest Expense                                              18555000.0     25654000.0    29529000.0    29801000.0
+Interest Income                                               19863000.0     13616000.0     7269000.0    14611000.0
+Normalized Income                                           1435809000.0   1702810000.0  1098394000.0   716891000.0
+Net Income From Continuing And Discontinued Operation       1435809000.0   1702810000.0  1098394000.0   716891000.0
+Total Expenses                                              6798261000.0   8673429000.0  6788987000.0  4593875000.0
+Diluted Average Shares                                       232796000.0    232948000.0   232602000.0   232578000.0
+Basic Average Shares                                         232150000.0    232150000.0   232150000.0   232150000.0
+Diluted EPS                                                         6.17           7.31          4.72          3.08
+Basic EPS                                                           6.18           7.33          4.73          3.09
+Diluted NI Availto Com Stockholders                         1435809000.0   1702810000.0  1098394000.0   716891000.0
+Net Income Common Stockholders                              1435809000.0   1702810000.0  1098394000.0   716891000.0
+Otherunder Preferred Stock Dividend                                  0.0            0.0           0.0           0.0
+Net Income                                                  1435809000.0   1702810000.0  1098394000.0   716891000.0
+Minority Interests                                             -468000.0       -69000.0     1780000.0     8864000.0
+Net Income Including Noncontrolling Interests               1436277000.0   1702879000.0  1096614000.0   708027000.0
+Net Income Continuous Operations                            1436277000.0   1702879000.0  1096614000.0   708027000.0
+Tax Provision                                                297173000.0    375224000.0   216559000.0   142992000.0
+Pretax Income                                               1733450000.0   2078103000.0  1313173000.0   851019000.0
+Other Non Operating Income Expenses                          113531000.0    134726000.0    46013000.0    18364000.0
+Special Income Charges                                               NaN            NaN           NaN           0.0
+Write Off                                                            NaN            NaN           NaN           0.0
+Net Non Operating Interest Income Expense                      1308000.0    -12038000.0   -22260000.0   -15190000.0
+Interest Expense Non Operating                                18555000.0     25654000.0    29529000.0    29801000.0
+Interest Income Non Operating                                 19863000.0     13616000.0     7269000.0    14611000.0
+Operating Income                                            1519417000.0   1786368000.0  1193454000.0   769899000.0
+Operating Expense                                            576493000.0    579468000.0   420491000.0   349994000.0
+Research And Development                                     278450000.0    221882000.0   161466000.0   130979000.0
+Selling General And Administration                           298043000.0    357586000.0   259025000.0   219015000.0
+Selling And Marketing Expense                                146636000.0    189876000.0   153413000.0   117580000.0
+General And Administrative Expense                           151407000.0    167710000.0   105612000.0   101435000.0
+Gross Profit                                                2095910000.0   2365836000.0  1613945000.0  1119893000.0
+Cost Of Revenue                                             6221768000.0   8093961000.0  6368496000.0  4243881000.0
+Total Revenue                                               8317678000.0  10459797000.0  7982441000.0  5363774000.0
+Operating Revenue                                           8317678000.0  10459797000.0  7982441000.0  5363774000.0

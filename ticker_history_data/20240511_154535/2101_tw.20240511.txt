@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.136, Jen Ai Road
+address2	Suite 608 Section 3
+city	Taipei
+zip	106465
+country	Taiwan
+phone	886 2 2707 1000
+website	https://www.nankang.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Nankang Rubber Tire Corp.,Ltd. engages in the manufacture and sale of tires and various rubber supplies in Taiwan, China, the United States, Europe, rest of Asia, and internationally. It offers passenger tires, SUV and 4X4 WD, winter, all season, motorsport, light truck, motorcycle, and bus and trailer tires. The company was founded in 1959 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Minghong  Zhuang', 'title': 'External Manager', 'fiscalYear': 2021, 'totalPay': 3331910, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jianzhong  Hong', 'title': 'External Coordinator', 'fiscalYear': 2021, 'totalPay': 3365495, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jun-Ying  Lin', 'age': 38, 'title': 'GM & Director', 'yearBorn': 1985, 'fiscalYear': 2021, 'totalPay': 300000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Hang  Guo', 'title': 'Head of Finance & Accounting Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xiao-Ling  Huang', 'title': 'Head of Corporate Governance', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiao-Ling  Huang', 'title': 'Company Secretary', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	54.8
+open	55.1
+dayLow	54.5
+dayHigh	56.3
+regularMarketPreviousClose	54.8
+regularMarketOpen	55.1
+regularMarketDayLow	54.5
+regularMarketDayHigh	56.3
+exDividendDate	1620777600	 (2021-05-12 08:00:00)
+fiveYearAvgDividendYield	2.54
+beta	0.357
+trailingPE	343.12503
+forwardPE	114.37501
+volume	13085695
+regularMarketVolume	13085695
+averageVolume	12373444
+averageVolume10days	31466505
+averageDailyVolume10Day	31466505
+bid	54.9
+ask	55.1
+marketCap	45783031808
+fiftyTwoWeekLow	36.2
+fiftyTwoWeekHigh	62.9
+priceToSalesTrailing12Months	5.830767
+fiftyDayAverage	45.646
+twoHundredDayAverage	40.91625
+currency	TWD
+enterpriseValue	64152190976
+profitMargins	0.017070001
+floatShares	361168866
+sharesOutstanding	833934976
+heldPercentInsiders	0.56368
+heldPercentInstitutions	0.04991
+impliedSharesOutstanding	849275008
+bookValue	12.421
+priceToBook	4.4199343
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	134011000
+trailingEps	0.16
+forwardEps	0.48
+lastSplitFactor	1.23499:1
+lastSplitDate	1348790400	 (2012-09-28 08:00:00)
+enterpriseToRevenue	8.17
+enterpriseToEbitda	55.837
+52WeekChange	0.42043984
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1620777600	 (2021-05-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2101.TW
+underlyingSymbol	2101.TW
+shortName	NAN KANG RUBBER TIRE
+longName	Nankang Rubber Tire Corp.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e15a732d-c2fe-3783-acdc-68fede1b7c2f
+messageBoardId	finmb_9794193
+gmtOffSetMilliseconds	28800000
+currentPrice	54.9
+recommendationKey	none
+totalCash	1993820032
+totalCashPerShare	2.391
+ebitda	1148909952
+totalDebt	20362983424
+quickRatio	0.192
+currentRatio	1.602
+totalRevenue	7851974144
+debtToEquity	196.583
+revenuePerShare	9.416
+returnOnAssets	0.0069999998
+returnOnEquity	0.0129700005
+freeCashflow	-2411413248
+operatingCashflow	-2781975040
+revenueGrowth	0.295
+grossMargins	0.19511999
+ebitdaMargins	0.14632
+operatingMargins	0.09981
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     26298.049255     -115102.828952     4079400.0     121682.611934
+Tax Rate For Calcs                                                  0.324667           0.043799           0.2          0.246821
+Normalized EBITDA                                               1106139000.0       -191931000.0   622132000.0      2007836000.0
+Total Unusual Items                                                  81000.0         -2628000.0    20397000.0          493000.0
+Total Unusual Items Excluding Goodwill                               81000.0         -2628000.0    20397000.0          493000.0
+Net Income From Continuing Operation Net Minority Interest       134011000.0      -1023582000.0  -243254000.0       844378000.0
+Reconciled Depreciation                                          729979000.0        749213000.0   769697000.0       788015000.0
+Reconciled Cost Of Revenue                                      6298380000.0       6337724000.0  6748804000.0      7364738000.0
+EBITDA                                                          1106220000.0       -194559000.0   642529000.0      2008329000.0
+EBIT                                                             376241000.0       -943772000.0  -127168000.0      1220314000.0
+Net Interest Income                                             -149614000.0       -117833000.0   -76515000.0       -71195000.0
+Interest Expense                                                 177804000.0        126695000.0    92242000.0        99229000.0
+Interest Income                                                   28190000.0          8862000.0    15727000.0        28034000.0
+Normalized Income                                           133956298.049255 -1021069102.828952  -259571600.0  844006682.611934
+Net Income From Continuing And Discontinued Operation            134011000.0      -1023582000.0  -243254000.0       844378000.0
+Total Expenses                                                  7409576000.0       7818633000.0  8929207000.0      8665646000.0
+Diluted Average Shares                                                   NaN        833935000.0   833935000.0       802274000.0
+Basic Average Shares                                                     NaN        833935000.0   833935000.0       802249000.0
+Diluted EPS                                                              NaN              -1.23         -0.29              1.05
+Basic EPS                                                                NaN              -1.23         -0.29              1.05
+Diluted NI Availto Com Stockholders                              134011000.0      -1023582000.0  -243254000.0       844378000.0
+Net Income Common Stockholders                                   134011000.0      -1023582000.0  -243254000.0       844378000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0           0.0               0.0
+Net Income                                                       134011000.0      -1023582000.0  -243254000.0       844378000.0
+Minority Interests                                                       0.0                0.0           0.0               0.0
+Net Income Including Noncontrolling Interests                    134011000.0      -1023582000.0  -243254000.0       844378000.0
+Net Income Continuous Operations                                 134011000.0      -1023582000.0  -243254000.0       844378000.0
+Tax Provision                                                     64426000.0        -46885000.0    23844000.0       276707000.0
+Pretax Income                                                    198437000.0      -1070467000.0  -219410000.0      1121085000.0
+Other Non Operating Income Expenses                              194408000.0         98001000.0   853124000.0       338948000.0
+Special Income Charges                                               81000.0         -2628000.0    20397000.0          493000.0
+Other Special Charges                                              -285000.0          -139000.0     -876000.0        -1039000.0
+Write Off                                                           204000.0          2767000.0   -19521000.0          546000.0
+Net Non Operating Interest Income Expense                       -149614000.0       -117833000.0   -76515000.0       -71195000.0
+Interest Expense Non Operating                                   177804000.0        126695000.0    92242000.0        99229000.0
+Interest Income Non Operating                                     28190000.0          8862000.0    15727000.0        28034000.0
+Operating Income                                                 442398000.0       -406399000.0  -851616000.0      1029473000.0
+Operating Expense                                               1111196000.0       1480909000.0  2180403000.0      1300908000.0
+Other Operating Expenses                                                 NaN                NaN     -737000.0         -163000.0
+Research And Development                                          77711000.0         76583000.0   108078000.0        94446000.0
+Selling General And Administration                              1033485000.0       1404326000.0  2072325000.0      1206462000.0
+Selling And Marketing Expense                                    646339000.0       1009216000.0  1537670000.0       793842000.0
+General And Administrative Expense                               387146000.0        395110000.0   534655000.0       412620000.0
+Gross Profit                                                    1553594000.0       1074510000.0  1328787000.0      2330381000.0
+Cost Of Revenue                                                 6298380000.0       6337724000.0  6748804000.0      7364738000.0
+Total Revenue                                                   7851974000.0       7412234000.0  8077591000.0      9695119000.0
+Operating Revenue                                               7851974000.0       7412234000.0  8077591000.0      9695119000.0

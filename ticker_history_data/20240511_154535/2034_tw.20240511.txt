@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No.270, Jungshan Rd.
+address2	Sec. 4 Shijou Shiang
+city	Changhua
+zip	52441
+country	Taiwan
+phone	886 4 889 9666
+fax	886 4 889 9768
+website	https://www.ycinox.com
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	YC Inox Co.,Ltd produces, processes, and trades in stainless steel products in Asia, Europe, the United States, and internationally. It offers stainless steel coils, sheets, plates, pipes, tubes, angles, flat bars, plates, and U channel products. The company was formerly known as Yeun Chyang Industrial Co., Ltd. and changed its name to YC Inox Co., Ltd. in July 2012. YC Inox Co.,Ltd was incorporated in 1973 and is headquartered in Changhua City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin-Yu  Chang', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lieh-Lin  Chan', 'title': 'Deputy GM of Finance Department & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung-Wei  Chang', 'title': 'Chief Accounting Officer & Assistant Manager of the Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Yu  Chen', 'title': 'Deputy General Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Hsing  Hsu', 'title': 'Deputy General Manager of Domestic Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Yu  Qiu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wei-Li  Li', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.25
+open	25.25
+dayLow	25.15
+dayHigh	25.4
+regularMarketPreviousClose	25.25
+regularMarketOpen	25.25
+regularMarketDayLow	25.15
+regularMarketDayHigh	25.4
+dividendRate	1.5
+dividendYield	0.0591
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	29.952
+fiveYearAvgDividendYield	6.1
+forwardPE	18.74074
+volume	325909
+regularMarketVolume	325909
+averageVolume	582452
+averageVolume10days	479048
+averageDailyVolume10Day	479048
+bid	25.25
+ask	25.35
+marketCap	11891049472
+fiftyTwoWeekLow	24.5
+fiftyTwoWeekHigh	29.9
+priceToSalesTrailing12Months	0.823576
+fiftyDayAverage	25.204
+twoHundredDayAverage	26.46325
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.03960396
+currency	TWD
+enterpriseValue	20178937856
+profitMargins	-0.014880001
+floatShares	283196939
+sharesOutstanding	470001984
+heldPercentInsiders	0.31522
+heldPercentInstitutions	0.06084
+impliedSharesOutstanding	470001984
+bookValue	19.685
+priceToBook	1.2852426
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.482
+netIncomeToCommon	-214884992
+trailingEps	-0.49
+forwardEps	1.35
+lastSplitFactor	1100:1000
+lastSplitDate	1468886400	 (2016-07-19 08:00:00)
+enterpriseToRevenue	1.398
+enterpriseToEbitda	25.151
+52WeekChange	-0.11538464
+SandP52WeekChange	0.26265144
+lastDividendValue	1.495909
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2034.TW
+underlyingSymbol	2034.TW
+shortName	YC INOX CO LTD
+longName	YC Inox Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8984204a-9345-3cf2-9fcd-7e06e1d1c9f3
+messageBoardId	finmb_9830222
+gmtOffSetMilliseconds	28800000
+currentPrice	25.3
+targetHighPrice	31.0
+targetLowPrice	31.0
+targetMeanPrice	31.0
+targetMedianPrice	31.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	798720000
+totalCashPerShare	1.649
+ebitda	802321024
+totalDebt	8720566272
+quickRatio	0.249
+currentRatio	1.061
+totalRevenue	14438315008
+debtToEquity	91.44
+revenuePerShare	31.54
+returnOnAssets	0.01401
+returnOnEquity	-0.02106
+freeCashflow	298436128
+operatingCashflow	1547131008
+earningsGrowth	-0.493
+revenueGrowth	-0.204
+grossMargins	0.08695
+ebitdaMargins	0.055570003
+operatingMargins	0.07112
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     4877600.0   -4567340.051921    -8872694.3539    -156842.286859
+Tax Rate For Calcs                                                    0.2          0.244112           0.2706          0.172924
+Normalized EBITDA                                             338782000.0      1120993000.0     2076351000.0       812857000.0
+Total Unusual Items                                            24388000.0       -18710000.0      -32789000.0         -907000.0
+Total Unusual Items Excluding Goodwill                         24388000.0       -18710000.0      -32789000.0         -907000.0
+Net Income From Continuing Operation Net Minority Interest   -169815000.0       518282000.0     1260047000.0       423567000.0
+Reconciled Depreciation                                       359970000.0       335146000.0      277743000.0       270322000.0
+Reconciled Cost Of Revenue                                  14131203000.0     14663502000.0    14884779000.0     11532537000.0
+EBITDA                                                        363170000.0      1102283000.0     2043562000.0       811950000.0
+EBIT                                                            3200000.0       767137000.0     1765819000.0       541628000.0
+Net Interest Income                                          -129201000.0       -75379000.0      -37664000.0       -26207000.0
+Interest Expense                                              143734000.0        81477000.0       38308000.0        29502000.0
+Interest Income                                                14533000.0         6098000.0         644000.0         3295000.0
+Normalized Income                                            -189325400.0  532424659.948079  1283963305.6461  424317157.713141
+Net Income From Continuing And Discontinued Operation        -169815000.0       518282000.0     1260047000.0       423567000.0
+Total Expenses                                              14893203000.0     15892408000.0    16387878000.0     12252523000.0
+Diluted Average Shares                                        447983000.0       480071000.0      475596000.0       447322000.0
+Basic Average Shares                                          447983000.0       445190000.0      440544000.0       407460000.0
+Diluted EPS                                                         -0.38              1.09             2.66              0.95
+Basic EPS                                                           -0.38              1.16             2.86              1.04
+Diluted NI Availto Com Stockholders                          -169815000.0       518282000.0     1260047000.0       423567000.0
+Net Income Common Stockholders                               -169815000.0       518282000.0     1260047000.0       423567000.0
+Otherunder Preferred Stock Dividend                                   0.0               0.0              0.0               0.0
+Net Income                                                   -169815000.0       518282000.0     1260047000.0       423567000.0
+Net Income Including Noncontrolling Interests                -169815000.0       518282000.0     1260047000.0       423567000.0
+Net Income Continuous Operations                             -169815000.0       518282000.0     1260047000.0       423567000.0
+Tax Provision                                                  29281000.0       167378000.0      467464000.0        88559000.0
+Pretax Income                                                -140534000.0       685660000.0     1727511000.0       512126000.0
+Other Non Operating Income Expenses                          -803664000.0      -534228000.0       12453000.0        76571000.0
+Special Income Charges                                         -5817000.0          401000.0      -23608000.0       -12783000.0
+Other Special Charges                                           5817000.0         -401000.0       22788000.0        12783000.0
+Write Off                                                             NaN               0.0         820000.0               0.0
+Net Non Operating Interest Income Expense                    -129201000.0       -75379000.0      -37664000.0       -26207000.0
+Interest Expense Non Operating                                143734000.0        81477000.0       38308000.0        29502000.0
+Interest Income Non Operating                                  14533000.0         6098000.0         644000.0         3295000.0
+Operating Income                                              338974000.0       947907000.0     1390041000.0       464629000.0
+Operating Expense                                             762000000.0      1228906000.0     1503099000.0       719986000.0
+Selling General And Administration                            762000000.0      1228906000.0     1503099000.0       719986000.0
+Selling And Marketing Expense                                 483845000.0       906087000.0     1221866000.0       517820000.0
+General And Administrative Expense                            278155000.0       322819000.0      281233000.0       202166000.0
+Gross Profit                                                 1100974000.0      2176813000.0     2893140000.0      1184615000.0
+Cost Of Revenue                                             14131203000.0     14663502000.0    14884779000.0     11532537000.0
+Total Revenue                                               15232177000.0     16840315000.0    17777919000.0     12717152000.0
+Operating Revenue                                           15232177000.0     16840315000.0    17777919000.0     12717152000.0

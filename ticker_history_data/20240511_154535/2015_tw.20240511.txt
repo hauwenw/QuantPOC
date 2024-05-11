@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	No.998, Jiahou Rd.
+address2	Sec.1 Houli Dist.
+city	Taichung
+zip	421
+country	Taiwan
+phone	886 4 2556 5101
+fax	886 4 2556 5110
+website	https://www.fenghsin.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Feng Hsin Steel Co., Ltd. engages in the production and sale of steel products in Taiwan. It provides angle, channel, square, flat, round, and deformed bars, as well as rebars; and bar in coils. The company was incorporated in 1969 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	970
+companyOfficers	[{'maxAge': 1, 'name': 'Yong-Yuan  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuei-Yu  Huang', 'title': 'Manager of Finance Division & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Der-Yih  Cheng', 'title': 'Assistant Vice President of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Jui  Lin', 'title': 'VP of Sales Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. San-Ping  Lai', 'title': 'VP of Procurement Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.fenghsin.com.tw/finance.htm
+maxAge	86400
+priceHint	2
+previousClose	70.0
+open	69.9
+dayLow	69.8
+dayHigh	70.5
+regularMarketPreviousClose	70.0
+regularMarketOpen	69.9
+regularMarketDayLow	69.8
+regularMarketDayHigh	70.5
+dividendRate	3.5
+dividendYield	0.0499
+exDividendDate	1712793600	 (2024-04-11 08:00:00)
+fiveYearAvgDividendYield	5.94
+beta	0.716
+trailingPE	17.181372
+forwardPE	15.823928
+volume	178001
+regularMarketVolume	178001
+averageVolume	331709
+averageVolume10days	288114
+averageDailyVolume10Day	288114
+bid	70.0
+ask	70.2
+marketCap	40770088960
+fiftyTwoWeekLow	61.8
+fiftyTwoWeekHigh	75.1
+priceToSalesTrailing12Months	1.1771667
+fiftyDayAverage	70.348
+twoHundredDayAverage	67.796
+trailingAnnualDividendRate	3.5
+trailingAnnualDividendYield	0.05
+currency	TWD
+enterpriseValue	41299140608
+profitMargins	0.06888
+floatShares	362344329
+sharesOutstanding	581598976
+heldPercentInsiders	0.26572
+heldPercentInstitutions	0.07865
+impliedSharesOutstanding	581598976
+bookValue	35.108
+priceToBook	1.9966958
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.017
+netIncomeToCommon	2385735936
+trailingEps	4.08
+forwardEps	4.43
+pegRatio	0.93
+lastSplitFactor	103:100
+lastSplitDate	1216684800	 (2008-07-22 08:00:00)
+enterpriseToRevenue	1.192
+enterpriseToEbitda	10.857
+52WeekChange	0.055722833
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1712793600	 (2024-04-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2015.TW
+underlyingSymbol	2015.TW
+shortName	FENG HSIN STEEL CO LTD
+longName	Feng Hsin Steel Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1325c708-cd4c-364c-8a0b-f55fbd84b698
+messageBoardId	finmb_882706
+gmtOffSetMilliseconds	28800000
+currentPrice	70.1
+targetHighPrice	77.0
+targetLowPrice	71.0
+targetMeanPrice	74.0
+targetMedianPrice	74.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	1462029952
+totalCashPerShare	2.509
+ebitda	3804069120
+totalDebt	1916077056
+quickRatio	0.677
+currentRatio	2.065
+totalRevenue	34634084352
+debtToEquity	9.367
+revenuePerShare	59.585
+returnOnAssets	0.06308
+returnOnEquity	0.11726
+freeCashflow	-963212864
+operatingCashflow	1451142016
+earningsGrowth	0.02
+revenueGrowth	-0.028
+grossMargins	0.102919996
+ebitdaMargins	0.109840006
+operatingMargins	0.08162
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0      222046.686812            0.0            0.0
+Tax Rate For Calcs                                               0.181407           0.187065       0.197664       0.190771
+Normalized EBITDA                                            4101661000.0       5072211000.0   6257705000.0   4430233000.0
+Total Unusual Items                                                   0.0          1187000.0            0.0            NaN
+Total Unusual Items Excluding Goodwill                                0.0          1187000.0            0.0            NaN
+Net Income From Continuing Operation Net Minority Interest   2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Reconciled Depreciation                                      1158935000.0       1272453000.0   1221266000.0   1187374000.0
+Reconciled Cost Of Revenue                                  31326299000.0      34424330000.0  32711483000.0  23448762000.0
+EBITDA                                                       4101661000.0       5073398000.0   6257705000.0   4430233000.0
+EBIT                                                         2942726000.0       3800945000.0   5036439000.0   3242859000.0
+Net Interest Income                                           -34871000.0        -18235000.0     -6601000.0     -2437000.0
+Interest Expense                                               40805000.0         20327000.0      7917000.0      5917000.0
+Interest Income                                                 5934000.0          2092000.0      1316000.0      3480000.0
+Normalized Income                                            2375491000.0  3072430046.686812   4034565000.0   2619426000.0
+Net Income From Continuing And Discontinued Operation        2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Total Expenses                                              32171668000.0      35301703000.0  33639398000.0  24207189000.0
+Diluted Average Shares                                        581599000.0        581599000.0    585635000.0    585162000.0
+Basic Average Shares                                          581599000.0        581599000.0    581599000.0    581599000.0
+Diluted EPS                                                          4.06               5.24           6.89           4.48
+Basic EPS                                                            4.08               5.28           6.94            4.5
+Diluted NI Availto Com Stockholders                          2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Net Income Common Stockholders                               2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0            0.0            0.0
+Net Income                                                   2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Minority Interests                                                    0.0                0.0            0.0            0.0
+Net Income Including Noncontrolling Interests                2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Net Income Continuous Operations                             2375491000.0       3073395000.0   4034565000.0   2619426000.0
+Tax Provision                                                 526430000.0        707223000.0    993957000.0    617516000.0
+Pretax Income                                                2901921000.0       3780618000.0   5028522000.0   3236942000.0
+Other Non Operating Income Expenses                           121533000.0        261046000.0    186265000.0     53473000.0
+Special Income Charges                                                0.0          1187000.0            0.0            NaN
+Write Off                                                             0.0         -1187000.0            0.0            NaN
+Net Non Operating Interest Income Expense                     -34871000.0        -18235000.0     -6601000.0     -2437000.0
+Interest Expense Non Operating                                 40805000.0         20327000.0      7917000.0      5917000.0
+Interest Income Non Operating                                   5934000.0          2092000.0      1316000.0      3480000.0
+Operating Income                                             2710355000.0       3303226000.0   4721008000.0   3090862000.0
+Operating Expense                                             845369000.0        877373000.0    927915000.0    758427000.0
+Research And Development                                       43170000.0         46517000.0     46555000.0     43833000.0
+Selling General And Administration                            802199000.0        830856000.0    881360000.0    714594000.0
+Selling And Marketing Expense                                 414505000.0        442334000.0    505724000.0    410547000.0
+General And Administrative Expense                            387694000.0        388522000.0    375636000.0    304047000.0
+Gross Profit                                                 3555724000.0       4180599000.0   5648923000.0   3849289000.0
+Cost Of Revenue                                             31326299000.0      34424330000.0  32711483000.0  23448762000.0
+Total Revenue                                               34882023000.0      38604929000.0  38360406000.0  27298051000.0
+Operating Revenue                                           34882023000.0      38604929000.0  38360406000.0  27298051000.0

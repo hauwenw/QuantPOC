@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 369 Yunlin Road
+address2	Section 3 Douliu City
+city	Yunlin
+zip	640101
+country	Taiwan
+phone	886 5 522 2333
+fax	886 5 522 0478
+website	https://www.dahsan.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Dah San Electric Wire & Cable Corp. produces and sells power cables, communication cables, electronic wires, and bare copper wires. The company offers low, medium, and high power voltage power cables, including crosslinked PE and PVC cables and wires; PVC flexible cords; PVC-insulated and PVC-sheathed portable cables; signal control and flame resistant cables; and heat resistant, alarm, and control cables. It also provides communication cables, such as coaxial and LAN cables; and electronic wires. In addition, the company offers bare copper wires that include hard-drawn copper, hard-drawn stranded copper, annealed copper, and annealed copper or tinned stranded copper wires. Further, it provides technical and engineering services, such as circuit design, wiring and construction engineering, ending and jointing engineering, and maintenance and engineering services for high voltage power cable circuits. The company was founded in 1953 and is headquartered in Yunlin, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	69.9
+open	69.5
+dayLow	66.4
+dayHigh	69.5
+regularMarketPreviousClose	69.9
+regularMarketOpen	69.5
+regularMarketDayLow	66.4
+regularMarketDayHigh	69.5
+dividendRate	1.36
+dividendYield	0.0198
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.42610002
+fiveYearAvgDividendYield	4.79
+beta	0.392
+trailingPE	21.5
+volume	2845621
+regularMarketVolume	2845621
+averageVolume	1801252
+averageVolume10days	3343829
+averageDailyVolume10Day	3343829
+bid	68.8
+ask	68.9
+marketCap	11264143360
+fiftyTwoWeekLow	33.090908
+fiftyTwoWeekHigh	74.9
+priceToSalesTrailing12Months	2.278077
+fiftyDayAverage	57.904
+twoHundredDayAverage	44.814728
+currency	TWD
+enterpriseValue	11657380864
+profitMargins	0.10618
+sharesOutstanding	163723008
+heldPercentInsiders	0.62244
+heldPercentInstitutions	0.00122
+impliedSharesOutstanding	165134000
+bookValue	18.034
+priceToBook	3.8150163
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.008
+netIncomeToCommon	525024992
+trailingEps	3.2
+lastSplitFactor	1100:1000
+lastSplitDate	1692921600	 (2023-08-25 08:00:00)
+enterpriseToRevenue	2.358
+enterpriseToEbitda	17.567
+52WeekChange	1.0537314
+SandP52WeekChange	0.26265144
+lastDividendValue	1.363636
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1615.TW
+underlyingSymbol	1615.TW
+shortName	DAH SAN ELECTRIC WIRE & CABLE C
+longName	Dah San Electric Wire & Cable Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	576423b7-05ab-3398-baf1-3caff136e825
+messageBoardId	finmb_11499955
+gmtOffSetMilliseconds	28800000
+currentPrice	68.8
+recommendationKey	none
+totalCash	495561984
+totalCashPerShare	3.027
+ebitda	663593984
+totalDebt	888800000
+quickRatio	1.262
+currentRatio	1.844
+totalRevenue	4944584192
+debtToEquity	30.103
+revenuePerShare	30.201
+returnOnAssets	0.09233
+returnOnEquity	0.19046
+freeCashflow	34876000
+operatingCashflow	253562000
+earningsGrowth	0.007
+revenueGrowth	0.076
+grossMargins	0.16256
+ebitdaMargins	0.13420999
+operatingMargins	0.13482
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -87129.760898      65864.132172     104155.428934           0.0
+Tax Rate For Calcs                                                  0.184207           0.19779          0.125944      0.206223
+Normalized EBITDA                                                713814000.0       593327000.0       566609000.0   456104000.0
+Total Unusual Items                                                -473000.0          333000.0          827000.0           0.0
+Total Unusual Items Excluding Goodwill                             -473000.0          333000.0          827000.0           0.0
+Net Income From Continuing Operation Net Minority Interest       525025000.0       431560000.0       451298000.0   328750000.0
+Reconciled Depreciation                                           56470000.0        48429000.0        42466000.0    35488000.0
+Reconciled Cost Of Revenue                                      4140782000.0      3782199000.0      3867303000.0  2623337000.0
+EBITDA                                                           713341000.0       593660000.0       567436000.0   456104000.0
+EBIT                                                             656871000.0       545231000.0       524970000.0   420616000.0
+Net Interest Income                                              -12683000.0        -6941000.0        -8554000.0    -6435000.0
+Interest Expense                                                  13295000.0         7267000.0         8644000.0     6457000.0
+Interest Income                                                     612000.0          326000.0           90000.0       22000.0
+Normalized Income                                           525410870.239102  431292864.132172  450575155.428934   328750000.0
+Net Income From Continuing And Discontinued Operation            525025000.0       431560000.0       451298000.0   328750000.0
+Total Expenses                                                  4335136000.0      3957588000.0      4026888000.0  2762499000.0
+Rent Expense Supplemental                                          1208000.0         1202000.0         1535000.0     1647000.0
+Diluted Average Shares                                                   NaN       164426000.0       164275100.0   164444148.0
+Basic Average Shares                                                     NaN       163723000.0       163722900.0   163723032.0
+Diluted EPS                                                              NaN              2.62          2.745455      2.003367
+Basic EPS                                                                NaN              2.64          2.754545      2.011785
+Diluted NI Availto Com Stockholders                              525025000.0       431560000.0       451298000.0   328750000.0
+Net Income Common Stockholders                                   525025000.0       431560000.0       451298000.0   328750000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0           0.0
+Net Income                                                       525025000.0       431560000.0       451298000.0   328750000.0
+Minority Interests                                                       NaN               NaN               0.0           0.0
+Net Income Including Noncontrolling Interests                    525025000.0       431560000.0       451298000.0   328750000.0
+Net Income Continuous Operations                                 525025000.0       431560000.0       451298000.0   328750000.0
+Tax Provision                                                    118551000.0       106404000.0        65028000.0    85409000.0
+Pretax Income                                                    643576000.0       537964000.0       516326000.0   414159000.0
+Other Non Operating Income Expenses                               47284000.0        69357000.0        26373000.0     4485000.0
+Special Income Charges                                             -473000.0          333000.0          827000.0           0.0
+Write Off                                                           473000.0         -333000.0         -827000.0           0.0
+Net Non Operating Interest Income Expense                        -12683000.0        -6941000.0        -8554000.0    -6435000.0
+Interest Expense Non Operating                                    13295000.0         7267000.0         8644000.0     6457000.0
+Interest Income Non Operating                                       612000.0          326000.0           90000.0       22000.0
+Operating Income                                                 609448000.0       475215000.0       497680000.0   403478000.0
+Operating Expense                                                194354000.0       175389000.0       159585000.0   139162000.0
+Research And Development                                           8900000.0         8972000.0         8129000.0     7380000.0
+Selling General And Administration                               185454000.0       166417000.0       151456000.0   131782000.0
+Selling And Marketing Expense                                     64790000.0        50818000.0        48543000.0    37938000.0
+General And Administrative Expense                               120664000.0       115599000.0       102913000.0    93844000.0
+Gross Profit                                                     803802000.0       650604000.0       657265000.0   542640000.0
+Cost Of Revenue                                                 4140782000.0      3782199000.0      3867303000.0  2623337000.0
+Total Revenue                                                   4944584000.0      4432803000.0      4524568000.0  3165977000.0
+Operating Revenue                                               4944584000.0      4432803000.0      4524568000.0  3165977000.0

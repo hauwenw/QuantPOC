@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 943 Chenggong Road
+address2	Sec. 2 Guanyin District
+city	Taoyuan City
+zip	328
+country	Taiwan
+phone	886 3 483 7201
+fax	886 3 483 9794
+website	https://www.rechi.com
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Rechi Precision Co., Ltd., together with its subsidiary, engages in the assembly, processing, manufacturing, repairing, and trading of refrigerant compressors and design services worldwide. It operates through Compressor Business Unit and BLDC Motor Unit segments. The company offers rotary compressors, BLDC motors, and heat-pump water heating equipment for household and commercial use. It also provides electromechanical components, fine blanking dies, precision bearings, and related accessories; and aftersales service and technical consulting services. In addition, the company engages in investment business. Rechi Precision Co., Ltd. was incorporated in 1989 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming Fa  Feng', 'title': 'President & Institutional Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chin Mei  Wu', 'title': 'CFO & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	28.35
+open	28.4
+dayLow	28.05
+dayHigh	28.7
+regularMarketPreviousClose	28.35
+regularMarketOpen	28.4
+regularMarketDayLow	28.05
+regularMarketDayHigh	28.7
+dividendRate	1.0
+dividendYield	0.035
+exDividendDate	1712793600	 (2024-04-11 08:00:00)
+payoutRatio	0.60400003
+fiveYearAvgDividendYield	5.43
+trailingPE	19.194632
+forwardPE	14.3
+volume	4211298
+regularMarketVolume	4211298
+averageVolume	4622433
+averageVolume10days	6577096
+averageDailyVolume10Day	6577096
+bid	28.55
+ask	28.6
+marketCap	14299857920
+fiftyTwoWeekLow	17.65
+fiftyTwoWeekHigh	29.75
+priceToSalesTrailing12Months	0.7984996
+fiftyDayAverage	25.562
+twoHundredDayAverage	21.9825
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.03527337
+currency	TWD
+enterpriseValue	10470923264
+profitMargins	0.04986
+floatShares	282556928
+sharesOutstanding	499995008
+heldPercentInsiders	0.42056
+heldPercentInstitutions	0.10031
+impliedSharesOutstanding	509168992
+bookValue	19.598
+priceToBook	1.4593326
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.317
+netIncomeToCommon	892884992
+trailingEps	1.49
+forwardEps	2.0
+lastSplitFactor	1030:1000
+lastSplitDate	1405555200	 (2014-07-17 08:00:00)
+enterpriseToRevenue	0.585
+enterpriseToEbitda	5.71
+52WeekChange	0.6158192
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1712793600	 (2024-04-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4532.TW
+underlyingSymbol	4532.TW
+shortName	RECHI PRECISION
+longName	Rechi Precision Co., Ltd.
+firstTradeDateEpochUtc	1059958800	 (2003-08-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cd18d355-84f2-3c53-b896-cdbbb87c7454
+messageBoardId	finmb_9870455
+gmtOffSetMilliseconds	28800000
+currentPrice	28.6
+targetHighPrice	27.0
+targetLowPrice	27.0
+targetMeanPrice	27.0
+targetMedianPrice	27.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	8628286464
+totalCashPerShare	17.278
+ebitda	1833931008
+totalDebt	3611857920
+quickRatio	1.259
+currentRatio	1.441
+totalRevenue	17908410368
+debtToEquity	32.859
+revenuePerShare	35.648
+returnOnAssets	0.02644
+returnOnEquity	0.08732
+freeCashflow	3274599168
+operatingCashflow	1253075968
+earningsGrowth	1.381
+revenueGrowth	0.27
+grossMargins	0.14734
+ebitdaMargins	0.10241
+operatingMargins	0.061890002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -708874.124917   -3054877.926102    3634994.410831    1873952.791203
+Tax Rate For Calcs                                                   0.28355          0.255617          0.255572           0.26859
+Normalized EBITDA                                               2022110000.0      1943796000.0      1690680000.0      2024178000.0
+Total Unusual Items                                               -2500000.0       -11951000.0        14223000.0         6977000.0
+Total Unusual Items Excluding Goodwill                            -2500000.0       -11951000.0        14223000.0         6977000.0
+Net Income From Continuing Operation Net Minority Interest       750972000.0       688281000.0       542921000.0       709491000.0
+Reconciled Depreciation                                          825997000.0       901494000.0       924520000.0       886459000.0
+Reconciled Cost Of Revenue                                     14353857000.0     16125298000.0     20249123000.0     17019887000.0
+EBITDA                                                          2019610000.0      1931845000.0      1704903000.0      2031155000.0
+EBIT                                                            1193613000.0      1030351000.0       780383000.0      1144696000.0
+Net Interest Income                                               30215000.0        29551000.0        17754000.0       -81988000.0
+Interest Expense                                                  75576000.0        86775000.0        84394000.0       156681000.0
+Interest Income                                                  105791000.0       116326000.0       102148000.0        74693000.0
+Normalized Income                                           752763125.875083  697177122.073898  532332994.410831  704387952.791203
+Net Income From Continuing And Discontinued Operation            750972000.0       688281000.0       542921000.0       709491000.0
+Total Expenses                                                 15925993000.0     17776894000.0     22029034000.0     18507134000.0
+Diluted Average Shares                                                   NaN       503116000.0       506696000.0       508004000.0
+Basic Average Shares                                                     NaN       499980000.0       504344000.0       504901000.0
+Diluted EPS                                                              NaN              1.37              1.07               1.4
+Basic EPS                                                                NaN              1.38              1.08              1.41
+Diluted NI Availto Com Stockholders                              750972000.0       688281000.0       542921000.0       709491000.0
+Net Income Common Stockholders                                   750972000.0       688281000.0       542921000.0       709491000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       750972000.0       688281000.0       542921000.0       709491000.0
+Minority Interests                                               -50046000.0       -14101000.0        24807000.0       -13153000.0
+Net Income Including Noncontrolling Interests                    801018000.0       702382000.0       518114000.0       722644000.0
+Net Income Continuous Operations                                 801018000.0       702382000.0       518114000.0       722644000.0
+Tax Provision                                                    317019000.0       241194000.0       177875000.0       265371000.0
+Pretax Income                                                   1118037000.0       943576000.0       695989000.0       988015000.0
+Other Non Operating Income Expenses                              150801000.0       349557000.0        87669000.0       248830000.0
+Special Income Charges                                            -2500000.0       -11951000.0        14223000.0         6977000.0
+Write Off                                                          2500000.0        11951000.0       -14223000.0        -6977000.0
+Net Non Operating Interest Income Expense                         30215000.0        29551000.0        17754000.0       -81988000.0
+Interest Expense Non Operating                                    75576000.0        86775000.0        84394000.0       156681000.0
+Interest Income Non Operating                                    105791000.0       116326000.0       102148000.0        74693000.0
+Operating Income                                                 933702000.0       594096000.0       572567000.0       812828000.0
+Operating Expense                                               1572136000.0      1651596000.0      1779911000.0      1487247000.0
+Research And Development                                         549969000.0       505438000.0       463954000.0       435395000.0
+Selling General And Administration                              1022167000.0      1146158000.0      1315957000.0      1051852000.0
+Selling And Marketing Expense                                    363114000.0       498378000.0       689980000.0       452566000.0
+General And Administrative Expense                               659053000.0       647780000.0       625977000.0       599286000.0
+Gross Profit                                                    2505838000.0      2245692000.0      2352478000.0      2300075000.0
+Cost Of Revenue                                                14353857000.0     16125298000.0     20249123000.0     17019887000.0
+Total Revenue                                                  16859695000.0     18370990000.0     22601601000.0     19319962000.0
+Operating Revenue                                              16859695000.0     18370990000.0     22601601000.0     19319962000.0

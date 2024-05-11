@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 70, Xining N. Rd.
+address2	2F. Datong District
+city	Taipei
+zip	103601
+country	Taiwan
+phone	886 2 2555 7151
+fax	886 2 2550 5652
+website	https://www.zigsheng.com
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Zig Sheng Industrial Co., Ltd. engages in chemical material and fiber businesses in Taiwan. It offers nylon chips for use in textile, engineering plastic, film, industrial yarn, and specialized products industries; nylon/polyester filament products, such as collagen yarns, cooling yarns, anti-microbial yarns, anti-odor yarns, and energy yarns; polyamide compounds comprising engineering plastic products; and nylon/ polyester textured yarn products, including commodity, pattern, functional, recycled, and air textured yarns. The company also provides hollow fiber membrane for use in household drinking water filtration, industrial wastewater treatment, and mobile bio-reactor systems. Its yarns are used in various applications that include leisure tops, shirts, suit pants, polo shirts, coats and blazers, yoga clothes, swimwear, form fitting bottoms, athletic tops, tank tops, cycling apparels, underwear, shapewear, pajamas, sleeves, hats, gloves, knee braces, headbands as well as shoulder straps, elastic bands, straps, hook and loop, comforters, sheets, mattress covers, pillowcases, seat cushions, sofas, tablecloths, curtains, tongues, uppers, linings, and inserts. The company's yarns are also used in athletic and formal socks, stockings, sleeping bags, umbrellas, backpacks and bags, tents, as well as ropes, automotive seams, and fishing nets. Zig Sheng Industrial Co., Ltd. was incorporated in 1969 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Pat-Huang  Su', 'title': 'President & Director', 'fiscalYear': 2020, 'totalPay': 4633000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chung-Tzu  Yen', 'title': 'Vice President of Financial Department', 'fiscalYear': 2020, 'totalPay': 2414000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Hao  Yeh', 'title': 'VP of Chemical Materials Business Division & Director', 'fiscalYear': 2020, 'totalPay': 2665000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Long-Shiang  Liang', 'title': 'Senior VP & Director', 'fiscalYear': 2020, 'totalPay': 4120000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pi-Lu  Yeh', 'title': 'Vice President of Fiber Business Division', 'fiscalYear': 2020, 'totalPay': 3598000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Cheng  Kuo', 'title': 'Vice President of General Management Division', 'fiscalYear': 2020, 'totalPay': 2915000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tsung-Chih  Yu', 'title': 'Vice President', 'fiscalYear': 2020, 'totalPay': 3002000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chiu-Yueh  Cheng', 'title': 'Manager of Accounting Department', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	14.15
+open	14.15
+dayLow	14.05
+dayHigh	14.25
+regularMarketPreviousClose	14.15
+regularMarketOpen	14.15
+regularMarketDayLow	14.05
+regularMarketDayHigh	14.25
+dividendRate	0.1
+dividendYield	0.0069999998
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+fiveYearAvgDividendYield	2.8
+beta	1.034
+forwardPE	19.722221
+volume	1123264
+regularMarketVolume	1123264
+averageVolume	5355850
+averageVolume10days	2985195
+averageDailyVolume10Day	2985195
+bid	14.15
+ask	14.2
+marketCap	7549969408
+fiftyTwoWeekLow	9.35
+fiftyTwoWeekHigh	15.8
+priceToSalesTrailing12Months	0.97537416
+fiftyDayAverage	14.041
+twoHundredDayAverage	11.2781
+currency	TWD
+enterpriseValue	9486946304
+profitMargins	-0.03103
+floatShares	422426116
+sharesOutstanding	531688000
+heldPercentInsiders	0.38956
+heldPercentInstitutions	0.01627
+impliedSharesOutstanding	535446016
+bookValue	11.861
+priceToBook	1.1972009
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-240156000
+trailingEps	-0.23
+forwardEps	0.72
+lastSplitFactor	1.01:1
+lastSplitDate	1377129600	 (2013-08-22 08:00:00)
+enterpriseToRevenue	1.226
+enterpriseToEbitda	-71.11
+52WeekChange	0.39215684
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1455.TW
+underlyingSymbol	1455.TW
+shortName	ZIG SHENG INDUSTRIAL CO
+longName	Zig Sheng Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3d1ddc61-a7f1-3de1-bda9-abef312316b6
+messageBoardId	finmb_9536762
+gmtOffSetMilliseconds	28800000
+currentPrice	14.2
+recommendationKey	none
+totalCash	866102976
+totalCashPerShare	1.629
+ebitda	-133413000
+totalDebt	2803079936
+quickRatio	0.897
+currentRatio	1.642
+totalRevenue	7740588032
+debtToEquity	44.448
+revenuePerShare	14.559
+returnOnAssets	-0.03303
+returnOnEquity	-0.037249997
+freeCashflow	-685985856
+operatingCashflow	-364356000
+revenueGrowth	0.282
+grossMargins	-0.01926
+ebitdaMargins	-0.017239999
+operatingMargins	-0.00954
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31     2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0       -999.325168            0.0           0.0
+Tax Rate For Calcs                                              0.205147          0.014696       0.084024           0.2
+Normalized EBITDA                                            131899000.0       159719000.0   1513684000.0   591164000.0
+Total Unusual Items                                                  0.0          -68000.0            0.0           NaN
+Total Unusual Items Excluding Goodwill                               0.0          -68000.0            0.0           NaN
+Net Income From Continuing Operation Net Minority Interest  -240156000.0      -281794000.0    920077000.0   -40115000.0
+Reconciled Depreciation                                      397487000.0       436203000.0    490056000.0   614363000.0
+Reconciled Cost Of Revenue                                  7889709000.0      9087845000.0   9996561000.0  7591144000.0
+EBITDA                                                       131899000.0       159651000.0   1513684000.0   591164000.0
+EBIT                                                        -265588000.0      -276552000.0   1023628000.0   -23199000.0
+Net Interest Income                                          -36071000.0        -8925000.0    -19035000.0   -11294000.0
+Interest Expense                                              36551000.0         9445000.0     19151000.0    11603000.0
+Interest Income                                                 480000.0          520000.0       116000.0      309000.0
+Normalized Income                                           -240156000.0 -281726999.325168    920077000.0   -40115000.0
+Net Income From Continuing And Discontinued Operation       -240156000.0      -281794000.0    920077000.0   -40115000.0
+Total Expenses                                              8255660000.0      9546587000.0  10570618000.0  7955221000.0
+Diluted Average Shares                                               NaN       531688000.0    533004000.0   573071429.0
+Basic Average Shares                                                 NaN       531688000.0    531718000.0   573071429.0
+Diluted EPS                                                          NaN             -0.53           1.73         -0.07
+Basic EPS                                                            NaN             -0.53           1.73         -0.07
+Diluted NI Availto Com Stockholders                         -240156000.0      -281794000.0    920077000.0   -40115000.0
+Net Income Common Stockholders                              -240156000.0      -281794000.0    920077000.0   -40115000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0            0.0           0.0
+Net Income                                                  -240156000.0      -281794000.0    920077000.0   -40115000.0
+Net Income Including Noncontrolling Interests               -240156000.0      -281794000.0    920077000.0   -40115000.0
+Net Income Continuous Operations                            -240156000.0      -281794000.0    920077000.0   -40115000.0
+Tax Provision                                                -61983000.0        -4203000.0     84400000.0     5313000.0
+Pretax Income                                               -302139000.0      -285997000.0   1004477000.0   -34802000.0
+Other Non Operating Income Expenses                          249004000.0       -31862000.0    375617000.0   256106000.0
+Special Income Charges                                               0.0          -68000.0            0.0           NaN
+Write Off                                                            0.0           68000.0            0.0           NaN
+Net Non Operating Interest Income Expense                    -36071000.0        -8925000.0    -19035000.0   -11294000.0
+Interest Expense Non Operating                                36551000.0         9445000.0     19151000.0    11603000.0
+Interest Income Non Operating                                   480000.0          520000.0       116000.0      309000.0
+Operating Income                                            -515072000.0      -245142000.0    647895000.0  -279614000.0
+Operating Expense                                            365951000.0       458742000.0    574057000.0   364077000.0
+Research And Development                                      61079000.0        57516000.0     58733000.0    55333000.0
+Selling General And Administration                           304872000.0       401226000.0    515324000.0   308744000.0
+Selling And Marketing Expense                                205215000.0       295678000.0    339139000.0   216438000.0
+General And Administrative Expense                            99657000.0       105548000.0    176185000.0    92306000.0
+Gross Profit                                                -149121000.0       213600000.0   1221952000.0    84463000.0
+Cost Of Revenue                                             7889709000.0      9087845000.0   9996561000.0  7591144000.0
+Total Revenue                                               7740588000.0      9301445000.0  11218513000.0  7675607000.0
+Operating Revenue                                           7740588000.0      9301445000.0  11218513000.0  7675607000.0

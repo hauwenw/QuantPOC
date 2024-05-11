@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	3, Tze-Chiang 1st Road
+address2	Chung-Li Industrial Zone Chung-Li City Chung-Li District
+city	Taoyuan City
+country	Taiwan
+phone	886 3 461 5000
+fax	886 3 461 4000
+website	https://www.pesi.com.tw
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Prime Electronics & Satellitics Inc. develops, manufactures, and sells digital satellite communication products worldwide. The company provides headend systems; home networking products; multi-function signal switcher; up/down converters; digital TV set-top boxes; radio and TV front-end system products; AI smart switchboards; and AI day and night smart care system products. It serves TV operators, telecom companies, and distributors. Prime Electronics & Satellitics Inc. was founded in 1984 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jing-Hui  Hsu', 'title': 'Chairman & Chief Strategy Officer', 'fiscalYear': 2022, 'totalPay': 3337000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. De-Chong  Hsieh', 'title': 'GM & Director', 'fiscalYear': 2022, 'totalPay': 3288000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yian-Hsi  Chen', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'totalPay': 2453000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Heng-Rong  Hsieh', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'totalPay': 2449000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsong-Jih  Chen', 'title': 'Associate', 'fiscalYear': 2022, 'totalPay': 1807000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	10.0
+open	9.99
+dayLow	9.9
+dayHigh	10.0
+regularMarketPreviousClose	10.0
+regularMarketOpen	9.99
+regularMarketDayLow	9.9
+regularMarketDayHigh	10.0
+exDividendDate	1405036800	 (2014-07-11 08:00:00)
+fiveYearAvgDividendYield	7.19
+beta	1.025
+volume	673661
+regularMarketVolume	673661
+averageVolume	787671
+averageVolume10days	331183
+averageDailyVolume10Day	331183
+bid	9.98
+ask	9.99
+marketCap	1674025216
+fiftyTwoWeekLow	8.98
+fiftyTwoWeekHigh	11.75
+priceToSalesTrailing12Months	0.76465726
+fiftyDayAverage	10.2974
+twoHundredDayAverage	10.26665
+currency	TWD
+enterpriseValue	1124731904
+profitMargins	-0.00934
+sharesOutstanding	167738000
+heldPercentInsiders	0.22894
+heldPercentInstitutions	0.00027000002
+impliedSharesOutstanding	167738000
+bookValue	8.89
+priceToBook	1.1226096
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-20458000
+trailingEps	-0.1
+lastSplitFactor	1.05:1
+lastSplitDate	1374710400	 (2013-07-25 08:00:00)
+enterpriseToRevenue	0.514
+enterpriseToEbitda	-26.989
+52WeekChange	-0.04952383
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1405036800	 (2014-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6152.TW
+underlyingSymbol	6152.TW
+shortName	PRIME ELECTRONICS&SATELLITICS I
+longName	Prime Electronics & Satellitics Inc.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	98e36233-6392-3dd5-bc89-7ffec353d0d7
+messageBoardId	finmb_9916984
+gmtOffSetMilliseconds	28800000
+currentPrice	9.98
+recommendationKey	none
+totalCash	932033984
+totalCashPerShare	5.556
+ebitda	-41674000
+totalDebt	365340992
+quickRatio	1.197
+currentRatio	1.896
+totalRevenue	2189249024
+debtToEquity	24.218
+revenuePerShare	13.052
+returnOnAssets	-0.02246
+returnOnEquity	-0.01449
+freeCashflow	486476640
+operatingCashflow	558201024
+revenueGrowth	-0.52
+grossMargins	0.18652001
+ebitdaMargins	-0.01904
+operatingMargins	-0.02891
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31    2022-12-31    2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                     3146.189314           0.0    -2974000.0     61697.79273
+Tax Rate For Calcs                                                 0.000136           0.0           0.2        0.013047
+Normalized EBITDA                                                43378000.0   267493000.0   127925000.0     139982000.0
+Total Unusual Items                                              23200000.0   -28410000.0   -14870000.0       4729000.0
+Total Unusual Items Excluding Goodwill                           23200000.0   -28410000.0   -14870000.0       4729000.0
+Net Income From Continuing Operation Net Minority Interest      -20458000.0   135864000.0     8894000.0      22474000.0
+Reconciled Depreciation                                          77311000.0    83672000.0    89456000.0     107581000.0
+Reconciled Cost Of Revenue                                     1780906000.0  3347684000.0  3231772000.0    2513697000.0
+EBITDA                                                           66578000.0   239083000.0   113055000.0     144711000.0
+EBIT                                                            -10733000.0   155411000.0    23599000.0      37130000.0
+Net Interest Income                                              -2793000.0   -13280000.0   -11714000.0     -10560000.0
+Interest Expense                                                 11389000.0    16358000.0    12200000.0      12756000.0
+Interest Income                                                   8596000.0     3078000.0      486000.0       2196000.0
+Normalized Income                                          -43654853.810686   164274000.0    20790000.0  17806697.79273
+Net Income From Continuing And Discontinued Operation           -20458000.0   135864000.0     8894000.0      22474000.0
+Total Expenses                                                 2316091000.0  3922524000.0  3823525000.0    3113654000.0
+Diluted Average Shares                                                  NaN   167738000.0   167738000.0     167738000.0
+Basic Average Shares                                                    NaN   167738000.0   167738000.0     167738000.0
+Diluted EPS                                                             NaN          0.81          0.05            0.13
+Basic EPS                                                               NaN          0.81          0.05            0.13
+Diluted NI Availto Com Stockholders                             -20458000.0   135864000.0     8894000.0      22474000.0
+Net Income Common Stockholders                                  -20458000.0   135864000.0     8894000.0      22474000.0
+Otherunder Preferred Stock Dividend                                     0.0           0.0           0.0             0.0
+Net Income                                                      -20458000.0   135864000.0     8894000.0      22474000.0
+Minority Interests                                                1661000.0    -3189000.0    -2507000.0      -1582000.0
+Net Income Including Noncontrolling Interests                   -22119000.0   139053000.0    11401000.0      24056000.0
+Net Income Continuous Operations                                -22119000.0   139053000.0    11401000.0      24056000.0
+Tax Provision                                                       -3000.0           0.0       -2000.0        318000.0
+Pretax Income                                                   -22122000.0   139053000.0    11399000.0      24374000.0
+Other Non Operating Income Expenses                              84314000.0   163433000.0    68268000.0      88896000.0
+Special Income Charges                                           23200000.0   -28410000.0   -14870000.0       4729000.0
+Write Off                                                       -23200000.0    28410000.0    14870000.0      -4729000.0
+Net Non Operating Interest Income Expense                        -2793000.0   -13280000.0   -11714000.0     -10560000.0
+Interest Expense Non Operating                                   11389000.0    16358000.0    12200000.0      12756000.0
+Interest Income Non Operating                                     8596000.0     3078000.0      486000.0       2196000.0
+Operating Income                                               -126842000.0    17310000.0   -30285000.0     -58691000.0
+Operating Expense                                               535185000.0   574840000.0   591753000.0     599957000.0
+Research And Development                                        218047000.0   211379000.0   225053000.0     236136000.0
+Selling General And Administration                              317138000.0   363461000.0   366700000.0     363821000.0
+Selling And Marketing Expense                                   125887000.0   165576000.0   177861000.0     144339000.0
+General And Administrative Expense                              191251000.0   197885000.0   188839000.0     219482000.0
+Gross Profit                                                    408343000.0   592150000.0   561468000.0     541266000.0
+Cost Of Revenue                                                1780906000.0  3347684000.0  3231772000.0    2513697000.0
+Total Revenue                                                  2189249000.0  3939834000.0  3793240000.0    3054963000.0
+Operating Revenue                                              2189249000.0  3939834000.0  3793240000.0    3054963000.0

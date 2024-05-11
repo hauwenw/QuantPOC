@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 380, Minquan 2nd Road
+address2	18th Floor-1 Qianzhen District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 336 7041
+fax	886 7 336 6685
+website	https://www.longda.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	LongDa Construction & Development Corporation engages in the construction and civil engineering business in Taiwan and Japan. It is involved in the development, leasing, and sale of residential housings and buildings; and hotel business. The company was founded in 1971 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wu Tsung  Chen', 'title': 'Chairman & Chief Strategy Officer', 'fiscalYear': 2020, 'totalPay': 18360266, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maoyuan  Hung', 'title': 'President & Manager', 'fiscalYear': 2020, 'totalPay': 2847043, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Junyuan  Chen', 'title': 'Vice President', 'fiscalYear': 2020, 'totalPay': 2468545, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yingxian  Xie', 'title': 'Vice President', 'fiscalYear': 2020, 'totalPay': 2049463, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	43.25
+open	43.3
+dayLow	41.1
+dayHigh	43.6
+regularMarketPreviousClose	43.25
+regularMarketOpen	43.3
+regularMarketDayLow	41.1
+regularMarketDayHigh	43.6
+dividendRate	2.1
+dividendYield	0.0502
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.45650002
+fiveYearAvgDividendYield	7.26
+beta	0.415
+trailingPE	9.097826
+volume	6894268
+regularMarketVolume	6894268
+averageVolume	3013856
+averageVolume10days	8912024
+averageDailyVolume10Day	8912024
+bid	41.85
+ask	41.9
+marketCap	9173393408
+fiftyTwoWeekLow	21.8
+fiftyTwoWeekHigh	55.8
+priceToSalesTrailing12Months	2.1013043
+fiftyDayAverage	40.74
+twoHundredDayAverage	30.40625
+trailingAnnualDividendRate	2.2
+trailingAnnualDividendYield	0.050867055
+currency	TWD
+enterpriseValue	13234555904
+profitMargins	0.18517
+sharesOutstanding	219196992
+heldPercentInsiders	0.44165
+heldPercentInstitutions	0.011080001
+impliedSharesOutstanding	243502000
+bookValue	24.685
+priceToBook	1.6953615
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.295
+netIncomeToCommon	808366976
+trailingEps	4.6
+lastSplitFactor	1060.87:1000
+lastSplitDate	1442188800	 (2015-09-14 08:00:00)
+enterpriseToRevenue	3.032
+enterpriseToEbitda	13.39
+52WeekChange	0.7329192
+SandP52WeekChange	0.26265144
+lastDividendValue	2.1
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5519.TW
+underlyingSymbol	5519.TW
+shortName	LONGDA CONSTRUCTION & DEVELOPME
+longName	LongDa Construction & Development Corporation
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e70fe181-14ae-3625-8889-5245ed0d0765
+messageBoardId	finmb_9708752
+gmtOffSetMilliseconds	28800000
+currentPrice	41.85
+recommendationKey	none
+totalCash	1418338048
+totalCashPerShare	6.471
+ebitda	988414016
+totalDebt	5479498752
+quickRatio	0.55
+currentRatio	4.054
+totalRevenue	4365571072
+debtToEquity	101.268
+revenuePerShare	19.916
+returnOnAssets	0.04756
+returnOnEquity	0.15432
+freeCashflow	-77550128
+operatingCashflow	617708992
+earningsGrowth	1.27
+revenueGrowth	1.656
+grossMargins	0.31781998
+ebitdaMargins	0.22641
+operatingMargins	0.23409
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.171585      0.129208      0.191753      0.158093
+Normalized EBITDA                                           1002701000.0  1064798000.0   770467000.0   569623000.0
+Net Income From Continuing Operation Net Minority Interest   808367000.0   905830000.0   598707000.0   453059000.0
+Reconciled Depreciation                                       25105000.0    22696000.0    27408000.0    28712000.0
+Reconciled Cost Of Revenue                                  2978114000.0  3267629000.0  3657870000.0  2707819000.0
+EBITDA                                                      1002701000.0  1064798000.0   770467000.0   569623000.0
+EBIT                                                         977596000.0  1042102000.0   743059000.0   540911000.0
+Net Interest Income                                            3791000.0      -80000.0    -2119000.0    -2603000.0
+Interest Expense                                               1796000.0     1865000.0     2311000.0     2777000.0
+Interest Income                                                5587000.0     1785000.0      192000.0      174000.0
+Normalized Income                                            808367000.0   905830000.0   598707000.0   453059000.0
+Net Income From Continuing And Discontinued Operation        808367000.0   905830000.0   598707000.0   453059000.0
+Total Expenses                                              3401140000.0  3671634000.0  4002651000.0  2894573000.0
+Diluted Average Shares                                       220618000.0   221216000.0   220917000.0   221004390.0
+Basic Average Shares                                         219197000.0   219197000.0   219197000.0   218869082.0
+Diluted EPS                                                         3.66          4.09          2.71          2.05
+Basic EPS                                                           3.69          4.13          2.73          2.07
+Diluted NI Availto Com Stockholders                          808367000.0   905830000.0   598707000.0   453059000.0
+Net Income Common Stockholders                               808367000.0   905830000.0   598707000.0   453059000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   808367000.0   905830000.0   598707000.0   453059000.0
+Net Income Including Noncontrolling Interests                808367000.0   905830000.0   598707000.0   453059000.0
+Net Income Continuous Operations                             808367000.0   905830000.0   598707000.0   453059000.0
+Tax Provision                                                167433000.0   134407000.0   142041000.0    85075000.0
+Pretax Income                                                975800000.0  1040237000.0   740748000.0   538134000.0
+Other Non Operating Income Expenses                            9275000.0      730000.0     7376000.0    38189000.0
+Net Non Operating Interest Income Expense                      3791000.0      -80000.0    -2119000.0    -2603000.0
+Interest Expense Non Operating                                 1796000.0     1865000.0     2311000.0     2777000.0
+Interest Income Non Operating                                  5587000.0     1785000.0      192000.0      174000.0
+Operating Income                                             964431000.0  1042071000.0   738332000.0   515407000.0
+Operating Expense                                            423026000.0   404005000.0   344781000.0   186754000.0
+Selling General And Administration                           423026000.0   404005000.0   344781000.0   186754000.0
+Selling And Marketing Expense                                196965000.0   237545000.0   205766000.0    68352000.0
+General And Administrative Expense                           226061000.0   166460000.0   139015000.0   118402000.0
+Gross Profit                                                1387457000.0  1446076000.0  1083113000.0   702161000.0
+Cost Of Revenue                                             2978114000.0  3267629000.0  3657870000.0  2707819000.0
+Total Revenue                                               4365571000.0  4713705000.0  4740983000.0  3409980000.0
+Operating Revenue                                           4365571000.0  4713705000.0  4740983000.0  3409980000.0

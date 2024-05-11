@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.64, Shing-kong 5th Road
+address2	Tien-Chung Industrial District Tien-chung
+city	Changhua
+country	Taiwan
+phone	886 4 874 8122
+fax	886 4 874 7116
+website	https://www.luhai.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Luhai Holding Corp. manufactures and sells tire valves and accessories worldwide. It offers TPMS valves; valves for bicycles, electric bikes, motorcycles, passenger cars/light trucks, trucks/buses, and agricultural/OTR applications; and valve accessories, such as valve core, valve caps, hexagon nuts, washers, grommets and O-rings, rim nuts, and sleeves. The company also provides valve core and mounting tools; tire pressure detection products, including tire pressure and pen type tire pressure gauges; inflating equipment comprising air chucks, clip-on air chucks, and connectors; and rigid, bent, plastic, and flexible valve extensions, as well as holders. In addition, it offers wheel balance weights and tools; tire repair accessories consisting of skivers, stitchers, scrapers, repair tools, and tire repair units; and tire repair kits. The company serves manufacturers in the tire, automobile, truck, and agriculture vehicle industries. Luhai Holding Corp. was founded in 1980 and is headquartered in Changhua, Taiwan.
+fullTimeEmployees	1261
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsiu-Hua  Hsu', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Hung  Chang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xin-Xing  Cai', 'title': 'Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ko-Li  Wu', 'title': 'Manager of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Ting  Hsu', 'title': 'VP of Xiamen Xiahui & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Han-Yuan  Hsu', 'title': 'Special Assistant of Chairman & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiu-Ho  Tung', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	32.35
+open	32.3
+dayLow	32.3
+dayHigh	32.65
+regularMarketPreviousClose	32.35
+regularMarketOpen	32.3
+regularMarketDayLow	32.3
+regularMarketDayHigh	32.65
+dividendRate	1.3
+dividendYield	0.04
+exDividendDate	1687910400	 (2023-06-28 08:00:00)
+payoutRatio	1.383
+fiveYearAvgDividendYield	4.28
+trailingPE	34.574467
+forwardPE	13.052209
+volume	138541
+regularMarketVolume	138541
+averageVolume	187016
+averageVolume10days	338541
+averageDailyVolume10Day	338541
+bid	32.5
+ask	32.55
+marketCap	3230597376
+fiftyTwoWeekLow	28.55
+fiftyTwoWeekHigh	35.7
+priceToSalesTrailing12Months	1.1854842
+fiftyDayAverage	30.408
+twoHundredDayAverage	30.14975
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.030911902
+currency	TWD
+enterpriseValue	3175826432
+profitMargins	0.0345
+sharesOutstanding	99403000
+heldPercentInsiders	0.46851003
+heldPercentInstitutions	0.04973
+impliedSharesOutstanding	100316000
+bookValue	32.056
+priceToBook	1.0138508
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.673
+netIncomeToCommon	94026000
+trailingEps	0.94
+forwardEps	2.49
+lastSplitFactor	1100:1000
+lastSplitDate	1628553600	 (2021-08-10 08:00:00)
+enterpriseToRevenue	1.165
+enterpriseToEbitda	7.506
+52WeekChange	-0.009146333
+SandP52WeekChange	0.26265144
+lastDividendValue	1.3
+lastDividendDate	1687910400	 (2023-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2115.TW
+underlyingSymbol	2115.TW
+shortName	LU HAI HOLDING CORP
+longName	Luhai Holding Corp.
+firstTradeDateEpochUtc	1387933200	 (2013-12-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9048592d-a74e-3981-9a45-020b5b6dce7f
+messageBoardId	finmb_242729313
+gmtOffSetMilliseconds	28800000
+currentPrice	32.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1187678976
+totalCashPerShare	12.096
+ebitda	423111008
+totalDebt	1172493056
+quickRatio	1.911
+currentRatio	2.486
+totalRevenue	2725128960
+debtToEquity	37.252
+revenuePerShare	27.499
+returnOnAssets	0.028269999
+returnOnEquity	0.029690001
+freeCashflow	154634496
+operatingCashflow	258094000
+earningsGrowth	-0.678
+revenueGrowth	0.224
+grossMargins	0.20661
+ebitdaMargins	0.15526
+operatingMargins	0.10047
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      47000.0    1016714.039454    -245896.345274    -269361.885973
+Tax Rate For Calcs                                                  0.25          0.352536          0.282965          0.283241
+Normalized EBITDA                                            576357000.0       580496000.0       724159000.0       963614000.0
+Total Unusual Items                                             188000.0         2884000.0         -869000.0         -951000.0
+Total Unusual Items Excluding Goodwill                          188000.0         2884000.0         -869000.0         -951000.0
+Net Income From Continuing Operation Net Minority Interest   175028000.0       226861000.0       399294000.0       594759000.0
+Reconciled Depreciation                                      208367000.0       205698000.0       154925000.0       124129000.0
+Reconciled Cost Of Revenue                                  2059829000.0      2375840000.0      2551553000.0      1975622000.0
+EBITDA                                                       576545000.0       583380000.0       723290000.0       962663000.0
+EBIT                                                         368178000.0       377682000.0       568365000.0       838534000.0
+Net Interest Income                                          -26495000.0       -14640000.0         -236000.0          114000.0
+Interest Expense                                              42428000.0        27298000.0        11497000.0         8745000.0
+Interest Income                                               15933000.0        12658000.0        11261000.0         8859000.0
+Normalized Income                                            174887000.0  224993714.039454  399917103.654726  595440638.114027
+Net Income From Continuing And Discontinued Operation        175028000.0       226861000.0       399294000.0       594759000.0
+Total Expenses                                              2403138000.0      2709296000.0      2925134000.0      2273271000.0
+Diluted Average Shares                                        99520000.0        99556000.0        99632000.0        99721000.0
+Basic Average Shares                                          99403000.0        99403000.0        99403000.0        99403000.0
+Diluted EPS                                                         1.76              2.28              4.01              5.96
+Basic EPS                                                           1.76              2.28              4.02              5.98
+Diluted NI Availto Com Stockholders                          175028000.0       226861000.0       399294000.0       594759000.0
+Net Income Common Stockholders                               175028000.0       226861000.0       399294000.0       594759000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0               0.0
+Net Income                                                   175028000.0       226861000.0       399294000.0       594759000.0
+Net Income Including Noncontrolling Interests                175028000.0       226861000.0       399294000.0       594759000.0
+Net Income Continuous Operations                             175028000.0       226861000.0       399294000.0       594759000.0
+Tax Provision                                                150722000.0       123523000.0       157574000.0       235030000.0
+Pretax Income                                                325750000.0       350384000.0       556868000.0       829789000.0
+Other Non Operating Income Expenses                          162757000.0        31020000.0        85551000.0       501640000.0
+Special Income Charges                                          188000.0         2884000.0         -869000.0         -951000.0
+Write Off                                                      -188000.0        -2884000.0          869000.0          951000.0
+Net Non Operating Interest Income Expense                    -26495000.0       -14640000.0         -236000.0          114000.0
+Interest Expense Non Operating                                42428000.0        27298000.0        11497000.0         8745000.0
+Interest Income Non Operating                                 15933000.0        12658000.0        11261000.0         8859000.0
+Operating Income                                             189300000.0       331120000.0       472422000.0       328986000.0
+Operating Expense                                            343309000.0       333456000.0       373581000.0       297649000.0
+Research And Development                                      38914000.0        24027000.0        31876000.0        26063000.0
+Selling General And Administration                           304395000.0       309429000.0       341705000.0       271586000.0
+Selling And Marketing Expense                                 83750000.0        90410000.0       117455000.0        87341000.0
+General And Administrative Expense                           220645000.0       219019000.0       224250000.0       184245000.0
+Gross Profit                                                 532609000.0       664576000.0       846003000.0       626635000.0
+Cost Of Revenue                                             2059829000.0      2375840000.0      2551553000.0      1975622000.0
+Total Revenue                                               2592438000.0      3040416000.0      3397556000.0      2602257000.0
+Operating Revenue                                           2592438000.0      3040416000.0      3397556000.0      2602257000.0

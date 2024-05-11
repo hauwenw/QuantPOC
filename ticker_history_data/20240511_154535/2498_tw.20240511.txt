@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 23, Xinghua Road
+address2	Taoyuan District
+city	Taoyuan City
+zip	330
+country	Taiwan
+phone	886 3 375 3252
+website	https://www.htc.com
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	HTC Corporation, together with its subsidiaries, designs, manufactures, assembles, processes, and sells smart mobile and virtual reality devices in Taiwan and internationally. The company provides marketing, repair, and after sales services; and online/download media services, as well as human resources management services. In addition, it is involved in the general investing activities; design, research, and development of application software and graphics technology; design and management of cloud synchronization technology; and development and sale of digital education platform, as well as development of virtual reality contents. Further, the company provides app stores for virtual reality, where customers can explore, create, connect, and experience the content; and medical and healthcare, 5G connectivity, and blockchain technologies. It provides its products through online. The company has an agreement with Fantasy 360 Technologies Inc. HTC Corporation was incorporated in 1997 and is headquartered in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsiueh-Hong  Wang', 'age': 65, 'title': 'Co-Founder, CEO & Chairwoman', 'yearBorn': 1958, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter T.  Shen', 'age': 53, 'title': 'CFO & Chief Accountant', 'yearBorn': 1970, 'fiscalYear': 2021, 'totalPay': 22758000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Praveen  Gupta', 'age': 64, 'title': 'Vice President', 'yearBorn': 1959, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Amir  Khorram', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': "Daniel  O'Brien", 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. W. H. Liu', 'title': 'Chief Technology Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lu  ChiaTe', 'title': 'general counsel & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Caleb  Ou-Yang', 'title': 'Chief Global Management Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adrian  Tung', 'title': 'Senior Vice President of Research & Development', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raymond  Pao', 'title': 'Senior Vice President of Product & Strategy', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	41.6
+open	41.95
+dayLow	40.3
+dayHigh	41.95
+regularMarketPreviousClose	41.6
+regularMarketOpen	41.95
+regularMarketDayLow	40.3
+regularMarketDayHigh	41.95
+exDividendDate	1566172800	 (2019-08-19 08:00:00)
+fiveYearAvgDividendYield	6.29
+beta	0.807
+forwardPE	-45.714283
+volume	7532597
+regularMarketVolume	7532597
+averageVolume	4459751
+averageVolume10days	3516802
+averageDailyVolume10Day	3516802
+bid	41.55
+ask	41.6
+marketCap	34636156928
+fiftyTwoWeekLow	40.3
+fiftyTwoWeekHigh	65.2
+priceToSalesTrailing12Months	7.839903
+fiftyDayAverage	45.345
+twoHundredDayAverage	48.62
+currency	TWD
+enterpriseValue	23607336960
+profitMargins	-0.76862997
+floatShares	733208526
+sharesOutstanding	832600000
+heldPercentInsiders	0.20382
+heldPercentInstitutions	0.07467
+impliedSharesOutstanding	832600000
+bookValue	27.409
+priceToBook	1.5177495
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-3395757056
+trailingEps	-4.09
+forwardEps	-0.91
+pegRatio	0.43
+lastSplitFactor	1.05:1
+lastSplitDate	1311120000	 (2011-07-20 08:00:00)
+enterpriseToRevenue	5.344
+enterpriseToEbitda	-5.865
+52WeekChange	-0.2650177
+SandP52WeekChange	0.26265144
+lastDividendValue	0.38
+lastDividendDate	1566172800	 (2019-08-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2498.TW
+underlyingSymbol	2498.TW
+shortName	HTC CORPORATION
+longName	HTC Corporation
+firstTradeDateEpochUtc	1017104400	 (2002-03-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	74320fa3-87cc-35dc-accd-409bc18b69bd
+messageBoardId	finmb_8104897
+gmtOffSetMilliseconds	28800000
+currentPrice	41.6
+targetHighPrice	54.0
+targetLowPrice	53.0
+targetMeanPrice	53.5
+targetMedianPrice	53.5
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	2
+totalCash	24108294144
+totalCashPerShare	28.975
+ebitda	-4025370112
+totalDebt	12770034688
+quickRatio	1.876
+currentRatio	1.992
+totalRevenue	4417931776
+debtToEquity	55.996
+revenuePerShare	5.315
+returnOnAssets	-0.05834
+returnOnEquity	-0.14042
+freeCashflow	-3940889344
+operatingCashflow	-4049031936
+revenueGrowth	-0.013
+grossMargins	0.41279998
+ebitdaMargins	-0.91113997
+operatingMargins	-0.90859
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0            0.0
+Tax Rate For Calcs                                              0.000859      0.000664      0.000885       0.000656
+Normalized EBITDA                                          -2822876000.0 -2880498000.0 -2550290000.0  -5376269000.0
+Net Income From Continuing Operation Net Minority Interest -3395757000.0 -3411783000.0 -3073132000.0  -5949942000.0
+Reconciled Depreciation                                      325035000.0   390757000.0   501595000.0    635493000.0
+Reconciled Cost Of Revenue                                  2594222000.0  2678845000.0  3617222000.0   4240944000.0
+EBITDA                                                     -2822876000.0 -2880498000.0 -2550290000.0  -5376269000.0
+EBIT                                                       -3147911000.0 -3271255000.0 -3051885000.0  -6011762000.0
+Net Interest Income                                          621223000.0   169605000.0    65470000.0    203739000.0
+Interest Expense                                             250767000.0   142796000.0    52680000.0     14787000.0
+Interest Income                                              871990000.0   312401000.0   118150000.0    218526000.0
+Normalized Income                                          -3395757000.0 -3411783000.0 -3073132000.0  -5949942000.0
+Net Income From Continuing And Discontinued Operation      -3395757000.0 -3411783000.0 -3073132000.0  -5949942000.0
+Total Expenses                                              8712613000.0  8812654000.0  9369713000.0  12197101000.0
+Diluted Average Shares                                       831249000.0   826261000.0   819721000.0    818731000.0
+Basic Average Shares                                         831249000.0   826261000.0   819721000.0    818731000.0
+Diluted EPS                                                        -4.09         -4.13         -3.75          -7.27
+Basic EPS                                                          -4.09         -4.13         -3.75          -7.27
+Diluted NI Availto Com Stockholders                        -3395757000.0 -3411783000.0 -3073132000.0  -5949942000.0
+Net Income Common Stockholders                             -3395757000.0 -3411783000.0 -3073132000.0  -5949942000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0            0.0
+Net Income                                                 -3395757000.0 -3411783000.0 -3073132000.0  -5949942000.0
+Minority Interests                                                   NaN           0.0    28685000.0     72656000.0
+Net Income Including Noncontrolling Interests              -3395757000.0 -3411783000.0 -3101817000.0  -6022598000.0
+Net Income Continuous Operations                           -3395757000.0 -3411783000.0 -3101817000.0  -6022598000.0
+Tax Provision                                                 -2921000.0    -2268000.0    -2748000.0     -3951000.0
+Pretax Income                                              -3398678000.0 -3414051000.0 -3104565000.0  -6026549000.0
+Other Non Operating Income Expenses                          423855000.0   843674000.0  1048699000.0    169317000.0
+Net Non Operating Interest Income Expense                    621223000.0   169605000.0    65470000.0    203739000.0
+Interest Expense Non Operating                               250767000.0   142796000.0    52680000.0     14787000.0
+Interest Income Non Operating                                871990000.0   312401000.0   118150000.0    218526000.0
+Operating Income                                           -4294681000.0 -4403831000.0 -4116434000.0  -6391393000.0
+Operating Expense                                           6118391000.0  6133809000.0  5752491000.0   7956157000.0
+Research And Development                                    2684392000.0  2356224000.0  2262491000.0   3584671000.0
+Selling General And Administration                          3433999000.0  3777585000.0  3490000000.0   4371486000.0
+Selling And Marketing Expense                               2135379000.0  1760139000.0  1580419000.0   1767310000.0
+General And Administrative Expense                          1298620000.0  2017446000.0  1909581000.0   2604176000.0
+Gross Profit                                                1823710000.0  1729978000.0  1636057000.0   1564764000.0
+Cost Of Revenue                                             2594222000.0  2678845000.0  3617222000.0   4240944000.0
+Total Revenue                                               4417932000.0  4408823000.0  5253279000.0   5805708000.0
+Operating Revenue                                           4417932000.0  4408823000.0  5253279000.0   5805708000.0

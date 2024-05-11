@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.100, Xinyi Road
+address2	Section 5
+city	Taipei
+zip	110
+country	Taiwan
+phone	886 2 2755 7666
+website	https://www.sinyi.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Sinyi Realty Inc., together with its subsidiaries, operates in the real-estate brokerage and development businesses in Taiwan, Mainland China, and internationally. The company develops, constructs, rents, and sells residential buildings and factories. It is also involved in the real estate management and identification, and real estate marketing planning activities; market information consultation business; provision of management consulting, information software, data processing, and electronic information services; and publication business. In addition, the company offers professional construction, building, decoration construction, hardware, and general merchandise; and construction materials, furniture, sanitary ware, and ceramic products, as well as engages in the wholesale of building materials. Further, it provides equipment lease and tourism services; develops commercial buildings and auxiliary facilities; and offers manpower dispatch and merchandise delivery services. The company was incorporated in 1987 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yuan-Chih  Liu', 'title': 'General Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Huan  Chen', 'title': 'Executive Senior Manager of Finance & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiao Chen  Wu', 'title': 'Senior Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-An  Lin', 'title': 'Vice General Manager of Public Affairs Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ta-Cheng  Liu', 'title': 'Senior Manager of Marketing & Brand Communication Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Prof. Pai-Chuan  Yang', 'title': 'Chief Human Resource Officer & Ethics Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Su-Hsiang  Chou', 'title': 'Auditor General', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Ping  Hsueh', 'title': 'CEO of Group Platform Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chuang-Yun  Chou', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	32.7
+open	32.55
+dayLow	32.55
+dayHigh	33.25
+regularMarketPreviousClose	32.7
+regularMarketOpen	32.55
+regularMarketDayLow	32.55
+regularMarketDayHigh	33.25
+dividendRate	1.2
+dividendYield	0.036199998
+exDividendDate	1686009600	 (2023-06-06 08:00:00)
+payoutRatio	0.5021
+fiveYearAvgDividendYield	5.53
+beta	0.475
+trailingPE	13.870293
+volume	398276
+regularMarketVolume	398276
+averageVolume	543233
+averageVolume10days	952304
+averageDailyVolume10Day	952304
+bid	33.15
+ask	33.2
+marketCap	24426477568
+fiftyTwoWeekLow	28.0
+fiftyTwoWeekHigh	34.9
+priceToSalesTrailing12Months	1.8764683
+fiftyDayAverage	31.022
+twoHundredDayAverage	29.5735
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.04892966
+currency	TWD
+enterpriseValue	29641717760
+profitMargins	0.13204001
+floatShares	181883190
+sharesOutstanding	736846976
+heldPercentInsiders	0.74588996
+heldPercentInstitutions	0.03611
+impliedSharesOutstanding	736846976
+bookValue	17.947
+priceToBook	1.8471054
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.084
+netIncomeToCommon	1718784000
+trailingEps	2.39
+lastSplitFactor	1131:1000
+lastSplitDate	1529366400	 (2018-06-19 08:00:00)
+enterpriseToRevenue	2.277
+enterpriseToEbitda	14.251
+52WeekChange	0.13333333
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1686009600	 (2023-06-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9940.TW
+underlyingSymbol	9940.TW
+shortName	SINYI REALTY INC.
+longName	Sinyi Realty Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9890c000-7fff-3eac-bd58-f77fd142cb91
+messageBoardId	finmb_9829320
+gmtOffSetMilliseconds	28800000
+currentPrice	33.15
+recommendationKey	none
+totalCash	7556762112
+totalCashPerShare	10.256
+ebitda	2079933056
+totalDebt	12644002816
+quickRatio	1.653
+currentRatio	3.604
+totalRevenue	13017261056
+debtToEquity	94.695
+revenuePerShare	17.666
+returnOnAssets	0.03911
+returnOnEquity	0.13425
+freeCashflow	-832620096
+operatingCashflow	2493103104
+earningsGrowth	-0.088
+revenueGrowth	-0.274
+grossMargins	0.28641
+ebitdaMargins	0.15978
+operatingMargins	0.16629
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -675033.382226     -493448.378935       98915.559002     1160723.831982
+Tax Rate For Calcs                                                   0.252538           0.256204           0.265902           0.282346
+Normalized EBITDA                                                3249300000.0       2539572000.0       4107433000.0       3058227000.0
+Total Unusual Items                                                -2673000.0         -1926000.0           372000.0          4111000.0
+Total Unusual Items Excluding Goodwill                             -2673000.0         -1926000.0           372000.0          4111000.0
+Net Income From Continuing Operation Net Minority Interest       1760980000.0       1223336000.0       2349841000.0       1552287000.0
+Reconciled Depreciation                                           700847000.0        718089000.0        728960000.0        708977000.0
+Reconciled Cost Of Revenue                                      10420582000.0      10432607000.0      13866304000.0       9303075000.0
+EBITDA                                                           3246627000.0       2537646000.0       4107805000.0       3062338000.0
+EBIT                                                             2545780000.0       1819557000.0       3378845000.0       2353361000.0
+Net Interest Income                                                70127000.0        -33202000.0        -46004000.0        -77280000.0
+Interest Expense                                                  175956000.0        157532000.0        149904000.0        166837000.0
+Interest Income                                                   246083000.0        124330000.0        103900000.0         89557000.0
+Normalized Income                                           1762977966.617774  1224768551.621065  2349567915.559002  1549336723.831982
+Net Income From Continuing And Discontinued Operation            1760980000.0       1223336000.0       2349841000.0       1552287000.0
+Total Expenses                                                  12150257000.0      12144498000.0      15660614000.0      10950877000.0
+Diluted Average Shares                                                    NaN        737544000.0        738004000.0        737631000.0
+Basic Average Shares                                                      NaN        736847000.0        736847000.0        736847000.0
+Diluted EPS                                                               NaN               1.66               3.18                2.1
+Basic EPS                                                                 NaN               1.66               3.19               2.11
+Diluted NI Availto Com Stockholders                              1760980000.0       1223336000.0       2349841000.0       1552287000.0
+Net Income Common Stockholders                                   1760980000.0       1223336000.0       2349841000.0       1552287000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1760980000.0       1223336000.0       2349841000.0       1552287000.0
+Minority Interests                                                -10374000.0        -12872000.0        -20518000.0        -16881000.0
+Net Income Including Noncontrolling Interests                    1771354000.0       1236208000.0       2370359000.0       1569168000.0
+Net Income Continuous Operations                                 1771354000.0       1236208000.0       2370359000.0       1569168000.0
+Tax Provision                                                     598470000.0        425817000.0        858582000.0        617356000.0
+Pretax Income                                                    2369824000.0       1662025000.0       3228941000.0       2186524000.0
+Other Non Operating Income Expenses                               247709000.0        117925000.0        130072000.0        114357000.0
+Special Income Charges                                             -2673000.0         -1926000.0           372000.0          4111000.0
+Write Off                                                           2673000.0          1926000.0          -372000.0         -4111000.0
+Net Non Operating Interest Income Expense                          70127000.0        -33202000.0        -46004000.0        -77280000.0
+Interest Expense Non Operating                                    175956000.0        157532000.0        149904000.0        166837000.0
+Interest Income Non Operating                                     246083000.0        124330000.0        103900000.0         89557000.0
+Operating Income                                                 2054661000.0       1579228000.0       3131707000.0       2110564000.0
+Operating Expense                                                1729675000.0       1711891000.0       1794310000.0       1647802000.0
+Selling General And Administration                               1729675000.0       1711891000.0       1794310000.0       1647802000.0
+General And Administrative Expense                               1729675000.0       1711891000.0       1794310000.0       1647802000.0
+Gross Profit                                                     3784336000.0       3291119000.0       4926017000.0       3758366000.0
+Cost Of Revenue                                                 10420582000.0      10432607000.0      13866304000.0       9303075000.0
+Total Revenue                                                   14204918000.0      13723726000.0      18792321000.0      13061441000.0
+Operating Revenue                                               14204918000.0      13723726000.0      18792321000.0      13061441000.0

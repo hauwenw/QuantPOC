@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 41, Lianhua Street
+address2	Bade District
+city	Taoyuan City
+zip	33452
+country	Taiwan
+phone	886 0 3365 9871
+fax	886 0 3365 3635
+website	https://www.shinih.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Shinih Enterprise Co., Ltd. manufactures and sells non-woven products in Taiwan and internationally. It provides functional insulation products under the THERMOLITE and CLOMAX brand names; non-woven clothes under the Tyvek name; and paddings, such as vertical folding technology and thermobond fiberfill products. The company also offers various automobile carpets comprising head linings, luggage mats, rear trunk upper hoods, rear trunk mats, wheel cover mats, central floor carpets, floor mats, door panels, and bonnet coverings. In addition, it provides spun bound fabric products, such as electrical materials, agriculture cover fabrics, building construction fabrics, and floor fabrics, as well as medical products, daily usage products, and dye printing non-woven fabric products. Further, the company offers various bedding products under the DACRON and CLOMAX brand names. The company was founded in 1962 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jui-Jui  Chien', 'title': 'Chairman & CSO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Huiru  Huang', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	23.0
+open	22.8
+dayLow	21.15
+dayHigh	22.8
+regularMarketPreviousClose	23.0
+regularMarketOpen	22.8
+regularMarketDayLow	21.15
+regularMarketDayHigh	22.8
+dividendRate	0.6
+dividendYield	0.028399998
+exDividendDate	1719273600	 (2024-06-25 08:00:00)
+payoutRatio	0.70949996
+fiveYearAvgDividendYield	1.49
+beta	0.417
+trailingPE	14.29054
+volume	3185180
+regularMarketVolume	3185180
+averageVolume	348969
+averageVolume10days	885825
+averageDailyVolume10Day	885825
+bid	21.15
+ask	21.25
+marketCap	2239954176
+fiftyTwoWeekLow	19.05
+fiftyTwoWeekHigh	24.4
+priceToSalesTrailing12Months	1.0591271
+fiftyDayAverage	20.604
+twoHundredDayAverage	20.13175
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.026086958
+currency	TWD
+enterpriseValue	2092705152
+profitMargins	0.07453
+floatShares	74951092
+sharesOutstanding	105908000
+heldPercentInsiders	0.56625
+heldPercentInstitutions	0.00122
+impliedSharesOutstanding	106161000
+bookValue	32.416
+priceToBook	0.65245557
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	157614000
+trailingEps	1.48
+lastSplitFactor	1.05:1
+lastSplitDate	1347840000	 (2012-09-17 08:00:00)
+enterpriseToRevenue	0.99
+enterpriseToEbitda	28.631
+52WeekChange	-0.020833313
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1719273600	 (2024-06-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9944.TW
+underlyingSymbol	9944.TW
+shortName	SHINIH ENTERPRISE CO LTD
+longName	Shinih Enterprise Co., Ltd.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4d3c9766-467c-3b50-a30d-d165381ae324
+messageBoardId	finmb_9845275
+gmtOffSetMilliseconds	28800000
+currentPrice	21.15
+recommendationKey	none
+totalCash	2133613056
+totalCashPerShare	20.146
+ebitda	73092000
+totalDebt	1906258048
+quickRatio	1.72
+currentRatio	2.313
+totalRevenue	2114905984
+debtToEquity	54.26
+revenuePerShare	19.969
+returnOnAssets	-0.00912
+returnOnEquity	0.050419997
+freeCashflow	-520470624
+operatingCashflow	65658000
+revenueGrowth	-0.169
+grossMargins	0.22182
+ebitdaMargins	0.034560002
+operatingMargins	-0.10381
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     894200.0    -3549800.0   -1238612.717714      -41200.0
+Tax Rate For Calcs                                                   0.2           0.2          0.337773           0.2
+Normalized EBITDA                                            606589000.0   684115000.0      1011446000.0   390089000.0
+Total Unusual Items                                            4471000.0   -17749000.0        -3667000.0     -206000.0
+Total Unusual Items Excluding Goodwill                         4471000.0   -17749000.0        -3667000.0     -206000.0
+Net Income From Continuing Operation Net Minority Interest   157614000.0   224400000.0       513224000.0    75447000.0
+Reconciled Depreciation                                      210249000.0   198303000.0       194779000.0   214299000.0
+Reconciled Cost Of Revenue                                  1645778000.0  1926438000.0      2011148000.0  1716754000.0
+EBITDA                                                       611060000.0   666366000.0      1007779000.0   389883000.0
+EBIT                                                         400811000.0   468063000.0       813000000.0   175584000.0
+Net Interest Income                                           41434000.0      543000.0        -8671000.0   -12790000.0
+Interest Expense                                              29134000.0    23745000.0        16426000.0    22154000.0
+Interest Income                                               70568000.0    24288000.0         7755000.0     9364000.0
+Normalized Income                                            154037200.0   238599200.0  515652387.282286    75611800.0
+Net Income From Continuing And Discontinued Operation        157614000.0   224400000.0       513224000.0    75447000.0
+Total Expenses                                              2203493000.0  2513308000.0      2562055000.0  2252043000.0
+Diluted Average Shares                                               NaN   106254000.0       109644000.0   109291000.0
+Basic Average Shares                                                 NaN   105731000.0       108873000.0   109107000.0
+Diluted EPS                                                          NaN          2.11              4.68          0.69
+Basic EPS                                                            NaN          2.12              4.71          0.69
+Diluted NI Availto Com Stockholders                          157614000.0   224400000.0       513224000.0    75447000.0
+Net Income Common Stockholders                               157614000.0   224400000.0       513224000.0    75447000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                   157614000.0   224400000.0       513224000.0    75447000.0
+Minority Interests                                           -18852000.0   -16692000.0       -14289000.0   -14919000.0
+Net Income Including Noncontrolling Interests                176466000.0   241092000.0       527513000.0    90366000.0
+Net Income Continuous Operations                             176466000.0   241092000.0       527513000.0    90366000.0
+Tax Provision                                                195211000.0   203226000.0       269061000.0    63064000.0
+Pretax Income                                                371677000.0   444318000.0       796574000.0   153430000.0
+Other Non Operating Income Expenses                          414359000.0   344579000.0       757720000.0    70665000.0
+Special Income Charges                                         4471000.0   -17749000.0        -3667000.0     -206000.0
+Write Off                                                     -4471000.0    17749000.0         3667000.0      206000.0
+Impairment Of Capital Assets                                         NaN           NaN               NaN           0.0
+Net Non Operating Interest Income Expense                     41434000.0      543000.0        -8671000.0   -12790000.0
+Interest Expense Non Operating                                29134000.0    23745000.0        16426000.0    22154000.0
+Interest Income Non Operating                                 70568000.0    24288000.0         7755000.0     9364000.0
+Operating Income                                             -88587000.0   116945000.0        51192000.0    95761000.0
+Operating Expense                                            557715000.0   586870000.0       550907000.0   535289000.0
+Research And Development                                      98856000.0    75409000.0        54380000.0    57883000.0
+Selling General And Administration                           458859000.0   511461000.0       496527000.0   477406000.0
+Selling And Marketing Expense                                219487000.0   237234000.0       212075000.0   186476000.0
+General And Administrative Expense                           239372000.0   274227000.0       284452000.0   290930000.0
+Gross Profit                                                 469128000.0   703815000.0       602099000.0   631050000.0
+Cost Of Revenue                                             1645778000.0  1926438000.0      2011148000.0  1716754000.0
+Total Revenue                                               2114906000.0  2630253000.0      2613247000.0  2347804000.0
+Operating Revenue                                           2114906000.0  2630253000.0      2613247000.0  2347804000.0

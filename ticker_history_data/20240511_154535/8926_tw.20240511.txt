@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	392, Rui Guang Road
+address2	6th Floor
+city	Taipei
+country	Taiwan
+phone	886 2 8798 2000
+fax	886 2 8798 2020
+website	https://www.cogen.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Taiwan Cogeneration Corporation, together with its subsidiaries, operates and manages cogeneration plants in Taiwan. The company also offers engineering, planning, design, procurement, installation, construction, and financing planning of cogeneration plants, as well as engages in the environmental protection and procurement of fuel for cogeneration systems and related businesses. In addition, it provides cogeneration research and development, technical, and consultation services; manufactures, assembles, leases, installs, repairs, and sells cogeneration equipment; and installs electric equipment and power engineering projects; invests in geothermal and green power plants; and generates wind and solar power energy. Further, the company invests in cogeneration plants, as well as trades in related products. Taiwan Cogeneration Corporation was founded in 1992 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yi-Tong  Chen', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shang-Heng  Chou', 'title': 'Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming-Yeh  Lee', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chia Pin  Chang', 'title': 'Manager of Administration Dept. & Director of Legal Affairs of TCC', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jia Ling  Cai', 'title': 'Secretary & Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	46.45
+open	45.8
+dayLow	44.3
+dayHigh	45.8
+regularMarketPreviousClose	46.45
+regularMarketOpen	45.8
+regularMarketDayLow	44.3
+regularMarketDayHigh	45.8
+dividendRate	0.9
+dividendYield	0.0198
+exDividendDate	1689897600	 (2023-07-21 08:00:00)
+payoutRatio	0.77379996
+fiveYearAvgDividendYield	4.26
+beta	0.492
+trailingPE	39.00862
+forwardPE	26.775146
+volume	6792322
+regularMarketVolume	6792322
+averageVolume	6706747
+averageVolume10days	3157332
+averageDailyVolume10Day	3157332
+bid	45.2
+ask	45.25
+marketCap	33045260288
+fiftyTwoWeekLow	38.65
+fiftyTwoWeekHigh	55.668724
+priceToSalesTrailing12Months	6.1785293
+fiftyDayAverage	47.233
+twoHundredDayAverage	42.87725
+trailingAnnualDividendRate	1.93
+trailingAnnualDividendYield	0.04155005
+currency	TWD
+enterpriseValue	37048160256
+profitMargins	0.23414
+floatShares	460128780
+sharesOutstanding	730281984
+heldPercentInsiders	0.39231
+heldPercentInstitutions	0.05277
+impliedSharesOutstanding	734142016
+bookValue	21.156
+priceToBook	2.138873
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.682
+netIncomeToCommon	1252274944
+trailingEps	1.16
+forwardEps	1.69
+lastSplitFactor	1059.8411:1000
+lastSplitDate	1689897600	 (2023-07-21 08:00:00)
+enterpriseToRevenue	6.927
+enterpriseToEbitda	99.219
+52WeekChange	-0.022266865
+SandP52WeekChange	0.26265144
+lastDividendValue	0.897616
+lastDividendDate	1689897600	 (2023-07-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8926.TW
+underlyingSymbol	8926.TW
+shortName	TAIWAN COGENERATION CORP
+longName	Taiwan Cogeneration Corporation
+firstTradeDateEpochUtc	957920400	 (2000-05-10 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dd065bf6-e4cd-3c61-b0ee-5207e785de6c
+messageBoardId	finmb_9571318
+gmtOffSetMilliseconds	28800000
+currentPrice	45.25
+recommendationKey	none
+totalCash	1922822016
+totalCashPerShare	2.633
+ebitda	373398016
+totalDebt	5787625984
+quickRatio	0.899
+currentRatio	1.037
+totalRevenue	5348402176
+debtToEquity	37.13
+revenuePerShare	7.782
+returnOnAssets	0.00017999999
+returnOnEquity	0.09056
+freeCashflow	-1851080576
+operatingCashflow	-92746000
+earningsGrowth	-0.729
+revenueGrowth	-0.315
+grossMargins	0.101569995
+ebitdaMargins	0.06981
+operatingMargins	0.00728
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -1106247.202694     826455.459807    3287387.284307     1391008.573539
+Tax Rate For Calcs                                                   0.046679          0.088344          0.117899           0.045081
+Normalized EBITDA                                                1859355000.0      1455361000.0      1400882000.0       1347225000.0
+Total Unusual Items                                               -23699000.0         9355000.0        27883000.0         30856000.0
+Total Unusual Items Excluding Goodwill                            -23699000.0         9355000.0        27883000.0         30856000.0
+Net Income From Continuing Operation Net Minority Interest       1252275000.0       906774000.0       897884000.0       1068547000.0
+Reconciled Depreciation                                           431843000.0       372381000.0       335383000.0        208012000.0
+Reconciled Cost Of Revenue                                       4805144000.0      4040655000.0      5630497000.0       8592737000.0
+EBITDA                                                           1835656000.0      1464716000.0      1428765000.0       1378081000.0
+EBIT                                                             1403813000.0      1092335000.0      1093382000.0       1170069000.0
+Net Interest Income                                               -72763000.0       -81026000.0       -66127000.0        -45728000.0
+Interest Expense                                                  100595000.0        86457000.0        66981000.0         48945000.0
+Interest Income                                                    27832000.0         5431000.0          854000.0          3217000.0
+Normalized Income                                           1274867752.797306  898245455.459807  873288387.284307  1039082008.573539
+Net Income From Continuing And Discontinued Operation            1252275000.0       906774000.0       897884000.0       1068547000.0
+Total Expenses                                                   5341084000.0      4442371000.0      5994654000.0       8875295000.0
+Diluted Average Shares                                                    NaN       589049000.0       656618558.0        656692009.0
+Basic Average Shares                                                      NaN       589049000.0       655543512.0        655543512.0
+Diluted EPS                                                               NaN              1.44           1.36582           1.626404
+Basic EPS                                                                 NaN              1.44           1.36582           1.626404
+Diluted NI Availto Com Stockholders                              1252275000.0       906774000.0       897884000.0       1068547000.0
+Net Income Common Stockholders                                   1252275000.0       906774000.0       897884000.0       1068547000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0               0.0                0.0
+Net Income                                                       1252275000.0       906774000.0       897884000.0       1068547000.0
+Minority Interests                                                  9890000.0       -10241000.0        -7505000.0         -2036000.0
+Net Income Including Noncontrolling Interests                    1242385000.0       917015000.0       905389000.0       1070583000.0
+Net Income Continuous Operations                                 1242385000.0       917015000.0       905389000.0       1070583000.0
+Tax Provision                                                      60833000.0        88863000.0       121012000.0         50541000.0
+Pretax Income                                                    1303218000.0      1005878000.0      1026401000.0       1121124000.0
+Other Non Operating Income Expenses                                -5645000.0        59916000.0        21076000.0         38651000.0
+Special Income Charges                                            -23699000.0         9355000.0        27883000.0         30856000.0
+Other Special Charges                                              23699000.0        -9355000.0       -27883000.0        -30856000.0
+Net Non Operating Interest Income Expense                         -72763000.0       -81026000.0       -66127000.0        -45728000.0
+Interest Expense Non Operating                                    100595000.0        86457000.0        66981000.0         48945000.0
+Interest Income Non Operating                                      27832000.0         5431000.0          854000.0          3217000.0
+Operating Income                                                    7318000.0       226510000.0       412342000.0        438429000.0
+Operating Expense                                                 535940000.0       401716000.0       364157000.0        282558000.0
+Other Operating Expenses                                          535940000.0       401716000.0       364157000.0        282558000.0
+Gross Profit                                                      543258000.0       628226000.0       776499000.0        720987000.0
+Cost Of Revenue                                                  4805144000.0      4040655000.0      5630497000.0       8592737000.0
+Total Revenue                                                    5348402000.0      4668881000.0      6406996000.0       9313724000.0
+Operating Revenue                                                5348402000.0      4668881000.0      6406996000.0       9313724000.0

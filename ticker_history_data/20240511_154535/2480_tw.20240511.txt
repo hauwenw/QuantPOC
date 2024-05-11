@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 83, Dongda Road
+address2	12F-1 Section 2 North District
+city	Hsinchu City
+country	Taiwan
+phone	886 3 542 5566
+fax	886 3 542 8631
+website	https://www.sti.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Stark Technology Inc. provides system integration services for information and communication technology products in Taiwan. It offers systems integration services in the areas of infrastructure, peripheral, enterprise network, application software, and telecom, as well as professional, implementation, and consulting and maintenance services. The company also provides information security services, such as network and content security, as well as professional services. In addition, it offers industrial applications, including enterprise applications, hi-tech, FSI, telecom, and public sector. The company serves financial services, education and research, high tech manufacturing, electronics, communications, transportation and automotive, healthcare and hospitality, and other industries, as well as government. Stark Technology Inc. was incorporated in 1993 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Hsiu-Chung  Liang', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'I Tzu  Huang', 'title': 'Financial Officer, Head of Accounting, Corporate Governance & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuo Hong  Chen', 'title': 'Chief Strategy Officer & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsien Min  Liu', 'title': 'Executive VP of Business Group & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Chun  Chi', 'title': 'Chief Internal Auditor & Supervisor of Internal Audit Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Long  Fan', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mei-Yu  He', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hong-Zhen  Zheng', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Cheng  Chai', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi-Qiang  Lin', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	126.5
+open	126.5
+dayLow	126.0
+dayHigh	127.0
+regularMarketPreviousClose	126.5
+regularMarketOpen	126.5
+regularMarketDayLow	126.0
+regularMarketDayHigh	127.0
+dividendRate	6.26
+dividendYield	0.0495
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	0.8611
+fiveYearAvgDividendYield	5.99
+trailingPE	17.400274
+forwardPE	15.578818
+volume	143452
+regularMarketVolume	143452
+averageVolume	259732
+averageVolume10days	171408
+averageDailyVolume10Day	171408
+bid	126.5
+ask	127.0
+marketCap	13454539776
+fiftyTwoWeekLow	108.5
+fiftyTwoWeekHigh	133.0
+priceToSalesTrailing12Months	1.8410339
+fiftyDayAverage	128.37
+twoHundredDayAverage	120.6975
+trailingAnnualDividendRate	6.64
+trailingAnnualDividendYield	0.05249012
+currency	TWD
+enterpriseValue	11996250112
+profitMargins	0.10645001
+floatShares	90757145
+sharesOutstanding	106360000
+heldPercentInsiders	0.12218001
+heldPercentInstitutions	0.059970003
+impliedSharesOutstanding	108454000
+bookValue	26.248
+priceToBook	4.819415
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.025
+netIncomeToCommon	777955968
+trailingEps	7.27
+forwardEps	8.12
+lastSplitFactor	0.6:1
+lastSplitDate	1223510400	 (2008-10-09 08:00:00)
+enterpriseToRevenue	1.641
+enterpriseToEbitda	13.812
+52WeekChange	0.16589856
+SandP52WeekChange	0.26265144
+lastDividendValue	6.26
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2480.TW
+underlyingSymbol	2480.TW
+shortName	STARK TECHNOLOGY
+longName	Stark Technology Inc.
+firstTradeDateEpochUtc	947034000	 (2000-01-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	35a9f90d-718a-30f9-b7e5-f0632ba6063b
+messageBoardId	finmb_9870441
+gmtOffSetMilliseconds	28800000
+currentPrice	126.5
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	1476972032
+totalCashPerShare	13.894
+ebitda	868542016
+totalDebt	25751000
+quickRatio	0.605
+currentRatio	1.53
+totalRevenue	7308143104
+debtToEquity	0.923
+revenuePerShare	68.709
+returnOnAssets	0.08048
+returnOnEquity	0.28379
+freeCashflow	503444256
+operatingCashflow	714676992
+earningsGrowth	-0.025
+revenueGrowth	0.022
+grossMargins	0.24475999
+ebitdaMargins	0.11885
+operatingMargins	0.12851
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    184722.583073     625078.021797     509439.773682    1201947.622767
+Tax Rate For Calcs                                                   0.19465          0.191507          0.200646           0.17134
+Normalized EBITDA                                               1012676000.0       945864000.0       839660000.0       632908000.0
+Total Unusual Items                                                 949000.0         3264000.0         2539000.0         7015000.0
+Total Unusual Items Excluding Goodwill                              949000.0         3264000.0         2539000.0         7015000.0
+Net Income From Continuing Operation Net Minority Interest       783241000.0       735171000.0       638162000.0       497618000.0
+Reconciled Depreciation                                           38581000.0        38104000.0        42401000.0        37745000.0
+Reconciled Cost Of Revenue                                      5484495000.0      4994017000.0      4980918000.0      4165184000.0
+EBITDA                                                          1013625000.0       949128000.0       842199000.0       639923000.0
+EBIT                                                             975044000.0       911024000.0       799798000.0       602178000.0
+Net Interest Income                                               14122000.0        11668000.0        11438000.0        11621000.0
+Interest Expense                                                   2497000.0         1714000.0         1451000.0         1669000.0
+Interest Income                                                   16619000.0        13382000.0        12889000.0        13290000.0
+Normalized Income                                           782476722.583073  732532078.021797  636132439.773682  491804947.622767
+Net Income From Continuing And Discontinued Operation            783241000.0       735171000.0       638162000.0       497618000.0
+Total Expenses                                                  6408130000.0      5928647000.0      5821560000.0      5006405000.0
+Diluted Average Shares                                           107034033.0       107211502.0       106960334.0       107044465.0
+Basic Average Shares                                             106360291.0       106360291.0       106360291.0       106360291.0
+Diluted EPS                                                             7.32              6.86              5.97              4.65
+Basic EPS                                                               7.36              6.91               6.0              4.68
+Diluted NI Availto Com Stockholders                              783241000.0       735171000.0       638162000.0       497618000.0
+Net Income Common Stockholders                                   783241000.0       735171000.0       638162000.0       497618000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       783241000.0       735171000.0       638162000.0       497618000.0
+Minority Interests                                                       0.0               0.0               0.0               0.0
+Net Income Including Noncontrolling Interests                    783241000.0       735171000.0       638162000.0       497618000.0
+Net Income Continuous Operations                                 783241000.0       735171000.0       638162000.0       497618000.0
+Tax Provision                                                    189306000.0       174139000.0       160185000.0       102891000.0
+Pretax Income                                                    972547000.0       909310000.0       798347000.0       600509000.0
+Other Non Operating Income Expenses                               94744000.0        94030000.0        26376000.0        45467000.0
+Special Income Charges                                              949000.0         3264000.0         2539000.0         7015000.0
+Write Off                                                          -949000.0        -3264000.0        -2539000.0        -7015000.0
+Net Non Operating Interest Income Expense                         14122000.0        11668000.0        11438000.0        11621000.0
+Interest Expense Non Operating                                     2497000.0         1714000.0         1451000.0         1669000.0
+Interest Income Non Operating                                     16619000.0        13382000.0        12889000.0        13290000.0
+Operating Income                                                 862732000.0       800348000.0       757994000.0       536406000.0
+Operating Expense                                                923635000.0       934630000.0       840642000.0       841221000.0
+Research And Development                                          90305000.0        84411000.0        91040000.0        93676000.0
+Selling General And Administration                               833330000.0       850219000.0       749602000.0       747545000.0
+General And Administrative Expense                               833330000.0       850219000.0       749602000.0       747545000.0
+Gross Profit                                                    1786367000.0      1734978000.0      1598636000.0      1377627000.0
+Cost Of Revenue                                                 5484495000.0      4994017000.0      4980918000.0      4165184000.0
+Total Revenue                                                   7270862000.0      6728995000.0      6579554000.0      5542811000.0
+Operating Revenue                                               7270862000.0      6728995000.0      6579554000.0      5542811000.0

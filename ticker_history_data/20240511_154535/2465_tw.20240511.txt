@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 166, Jian 1st Road
+address2	18th Floor Zhonghe District
+city	New Taipei City
+zip	23511
+country	Taiwan
+phone	886 2 8226 5800
+fax	886 2 8226 5801
+website	https://www.leadtek.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Leadtek Research Inc. develops, manufactures, and sells graphics cards worldwide. The company offers virtual desktop systems, including zero and thin client series products, management consoles, and remote workstation cards; graphics cards; professional graphics; AI and performance computing, including development kits, virtualization, AI deep learning systems, and data center accelerator; AI interface devices; GPU docker management systems and RTX AI software packs; and workstations and servers, as well as amor and pulse oximeters. The company was founded in 1986 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kun Shan  Lu', 'title': 'Chairman, CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	121.0
+open	121.5
+dayLow	116.5
+dayHigh	123.0
+regularMarketPreviousClose	121.0
+regularMarketOpen	121.5
+regularMarketDayLow	116.5
+regularMarketDayHigh	123.0
+exDividendDate	1661990400	 (2022-09-01 08:00:00)
+beta	1.358
+volume	2671688
+regularMarketVolume	2671688
+averageVolume	4433296
+averageVolume10days	4163396
+averageDailyVolume10Day	4163396
+bid	118.0
+ask	118.5
+marketCap	9947600896
+fiftyTwoWeekLow	33.8
+fiftyTwoWeekHigh	173.0
+priceToSalesTrailing12Months	2.3263164
+fiftyDayAverage	129.53
+twoHundredDayAverage	75.013
+currency	TWD
+enterpriseValue	10084596736
+profitMargins	-0.03735
+sharesOutstanding	83946000
+heldPercentInsiders	0.32024
+heldPercentInstitutions	4.0000003e-05
+impliedSharesOutstanding	89023400
+bookValue	12.044
+priceToBook	9.838924
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-159728992
+trailingEps	-2.54
+lastSplitFactor	1100:1000
+lastSplitDate	1661990400	 (2022-09-01 08:00:00)
+enterpriseToRevenue	2.358
+enterpriseToEbitda	-117.639
+52WeekChange	2.485294
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1661990400	 (2022-09-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2465.TW
+underlyingSymbol	2465.TW
+shortName	LEADTEK RESEARCH
+longName	Leadtek Research Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d49fdb2a-cd42-366a-bb94-cbf61e5accba
+messageBoardId	finmb_4597518
+gmtOffSetMilliseconds	28800000
+currentPrice	118.5
+recommendationKey	none
+totalCash	309350016
+totalCashPerShare	3.685
+ebitda	-85725000
+totalDebt	447625984
+quickRatio	0.453
+currentRatio	1.49
+totalRevenue	4276116992
+debtToEquity	44.328
+revenuePerShare	67.753
+returnOnAssets	-0.028280001
+returnOnEquity	-0.21066
+freeCashflow	-37520376
+operatingCashflow	-52294000
+revenueGrowth	0.588
+grossMargins	0.14693
+ebitdaMargins	-0.02005
+operatingMargins	0.01466
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    1277600.0    -210091.369903      67711.257382      631800.0
+Tax Rate For Calcs                                                   0.2          0.028383          0.203337           0.2
+Normalized EBITDA                                            -49795000.0      -118782000.0       602720000.0   120853000.0
+Total Unusual Items                                            6388000.0        -7402000.0          333000.0     3159000.0
+Total Unusual Items Excluding Goodwill                         6388000.0        -7402000.0          333000.0     3159000.0
+Net Income From Continuing Operation Net Minority Interest  -159729000.0      -195813000.0       435256000.0    26775000.0
+Reconciled Depreciation                                       53228000.0        49797000.0        42636000.0    48687000.0
+Reconciled Cost Of Revenue                                  3647838000.0      4704607000.0      7253418000.0  3985669000.0
+EBITDA                                                       -43407000.0      -126184000.0       603053000.0   124012000.0
+EBIT                                                         -96635000.0      -175981000.0       560417000.0    75325000.0
+Net Interest Income                                          -32033000.0       -23337000.0       -12512000.0   -19233000.0
+Interest Expense                                              36161000.0        25442000.0        14855000.0    20630000.0
+Interest Income                                                4128000.0         2105000.0         2343000.0     1397000.0
+Normalized Income                                           -164839400.0 -188621091.369903  434990711.257382    24247800.0
+Net Income From Continuing And Discontinued Operation       -159729000.0      -195813000.0       435256000.0    26775000.0
+Total Expenses                                              4380995000.0      5456898000.0      8268883000.0  4498186000.0
+Diluted Average Shares                                               NaN        58946000.0        59036000.0    58945700.0
+Basic Average Shares                                                 NaN        58946000.0        58946000.0    58945700.0
+Diluted EPS                                                          NaN             -3.32              7.37      0.454545
+Basic EPS                                                            NaN             -3.32              7.38      0.454545
+Diluted NI Availto Com Stockholders                         -159729000.0      -195813000.0       435256000.0    26775000.0
+Net Income Common Stockholders                              -159729000.0      -195813000.0       435256000.0    26775000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0           0.0
+Net Income                                                  -159729000.0      -195813000.0       435256000.0    26775000.0
+Minority Interests                                              257000.0         -107000.0          627000.0     1993000.0
+Net Income Including Noncontrolling Interests               -159986000.0      -195706000.0       434629000.0    24782000.0
+Net Income Continuous Operations                            -159986000.0      -195706000.0       434629000.0    24782000.0
+Tax Provision                                                 27190000.0        -5717000.0       110933000.0    29913000.0
+Pretax Income                                               -132796000.0      -201423000.0       545562000.0    54695000.0
+Other Non Operating Income Expenses                           10773000.0        28066000.0         8567000.0     8889000.0
+Special Income Charges                                         6357000.0        -6782000.0          255000.0     3050000.0
+Write Off                                                     -6357000.0         6782000.0         -255000.0    -3050000.0
+Net Non Operating Interest Income Expense                    -32033000.0       -23337000.0       -12512000.0   -19233000.0
+Interest Expense Non Operating                                36161000.0        25442000.0        14855000.0    20630000.0
+Interest Income Non Operating                                  4128000.0         2105000.0         2343000.0     1397000.0
+Operating Income                                            -104878000.0      -145480000.0       554173000.0    50080000.0
+Operating Expense                                            733157000.0       752291000.0      1015465000.0   512517000.0
+Research And Development                                     203806000.0       188631000.0       205619000.0   146969000.0
+Selling General And Administration                           529351000.0       563660000.0       809846000.0   365548000.0
+Selling And Marketing Expense                                378792000.0       452085000.0       649953000.0   251161000.0
+General And Administrative Expense                           150559000.0       111575000.0       159893000.0   114387000.0
+Gross Profit                                                 628279000.0       606811000.0      1569638000.0   562597000.0
+Cost Of Revenue                                             3647838000.0      4704607000.0      7253418000.0  3985669000.0
+Total Revenue                                               4276117000.0      5311418000.0      8823056000.0  4548266000.0
+Operating Revenue                                           4276117000.0      5311418000.0      8823056000.0  4548266000.0

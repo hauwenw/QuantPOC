@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 408, Taiwan Boulevard
+address2	Section 2 West District
+city	Taichung City
+zip	403
+country	Taiwan
+phone	886 4 2322 7777
+fax	886 4 2322 1368
+website	https://shininggroup.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Shining Building Business Co.,Ltd., together with its subsidiaries, operates as a real estate development company in Taiwan and Mainland China. It operates through Construction; Manufacturing; and Other segments. The company develops, leases, and sells residential properties and commercial buildings; and engages in the contracting construction business for residential real estate and commercial buildings. It also constructs, operates, and manages hotels; leases and sells national houses; and is involved in construction and civil engineering business, and general investment activities. In addition, the company provides enterprise management services; and engages as engineering consultants. Shining Building Business Co.,Ltd. was founded in 1979 and is based in Taichung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng-I  Lai', 'title': 'Chairman of the Board & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wei-Min  Fang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei chi  Liao', 'title': 'Chief Accountant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	12.15
+open	12.3
+dayLow	12.0
+dayHigh	12.5
+regularMarketPreviousClose	12.15
+regularMarketOpen	12.3
+regularMarketDayLow	12.0
+regularMarketDayHigh	12.5
+exDividendDate	1220572800	 (2008-09-05 08:00:00)
+beta	0.619
+volume	5526753
+regularMarketVolume	5526753
+averageVolume	5001182
+averageVolume10days	19204576
+averageDailyVolume10Day	19204576
+bid	12.2
+ask	12.25
+marketCap	11926585344
+fiftyTwoWeekLow	9.3
+fiftyTwoWeekHigh	14.75
+priceToSalesTrailing12Months	3.1561992
+fiftyDayAverage	10.469
+twoHundredDayAverage	10.2862
+currency	TWD
+enterpriseValue	34375090176
+profitMargins	-0.05165
+floatShares	346046954
+sharesOutstanding	977588992
+heldPercentInsiders	0.62639
+heldPercentInstitutions	0.03678
+impliedSharesOutstanding	1069960000
+bookValue	10.362
+priceToBook	1.1773788
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-195191008
+trailingEps	-0.85
+lastSplitFactor	1010:1000
+lastSplitDate	1564963200	 (2019-08-05 08:00:00)
+enterpriseToRevenue	9.097
+enterpriseToEbitda	138.062
+52WeekChange	0.09417045
+SandP52WeekChange	0.26265144
+lastDividendValue	0.47487
+lastDividendDate	1220572800	 (2008-09-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5531.TW
+underlyingSymbol	5531.TW
+shortName	SHINING BUILDING BUSINESS CO LT
+longName	Shining Building Business Co.,Ltd.
+firstTradeDateEpochUtc	1107133200	 (2005-01-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7770e09c-8dc4-3289-ae29-7e69d8298713
+messageBoardId	finmb_9871260
+gmtOffSetMilliseconds	28800000
+currentPrice	12.2
+recommendationKey	none
+totalCash	363635008
+totalCashPerShare	0.372
+ebitda	248983008
+totalDebt	22417672192
+quickRatio	0.082
+currentRatio	1.194
+totalRevenue	3778780928
+debtToEquity	213.01
+revenuePerShare	3.865
+returnOnAssets	-0.0043099998
+returnOnEquity	-0.035940003
+freeCashflow	2854063616
+operatingCashflow	-711728000
+revenueGrowth	0.607
+grossMargins	0.26349002
+ebitdaMargins	0.06589
+operatingMargins	-0.68267
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    401539.835231       84669.941693    -503576.284044   -3783606.756379
+Tax Rate For Calcs                                                  0.075891            0.11959           0.02375          0.282527
+Normalized EBITDA                                                966845000.0       -629141000.0       476249000.0      1340141000.0
+Total Unusual Items                                                5291000.0           708000.0       -21203000.0       -13392000.0
+Total Unusual Items Excluding Goodwill                             5291000.0           708000.0       -21203000.0       -13392000.0
+Net Income From Continuing Operation Net Minority Interest      -195191000.0      -1375980000.0      -653929000.0       166820000.0
+Reconciled Depreciation                                          592740000.0        598491000.0       607200000.0       546259000.0
+Reconciled Cost Of Revenue                                      2783093000.0        975138000.0      2509660000.0      4255476000.0
+EBITDA                                                           972136000.0       -628433000.0       455046000.0      1326749000.0
+EBIT                                                             379396000.0      -1226924000.0      -152154000.0       780490000.0
+Net Interest Income                                             -715732000.0       -559787000.0      -640112000.0      -630232000.0
+Interest Expense                                                 797192000.0        631178000.0       711290000.0       630232000.0
+Interest Income                                                   81460000.0         71391000.0        71178000.0               NaN
+Normalized Income                                          -200080460.164769 -1376603330.058307 -633229576.284044  176428393.243621
+Net Income From Continuing And Discontinued Operation           -195191000.0      -1375980000.0      -653929000.0       166820000.0
+Total Expenses                                                  4063892000.0       2272430000.0      3865105000.0      5496474000.0
+Diluted Average Shares                                                   NaN        977589000.0       977589000.0       980507000.0
+Basic Average Shares                                                     NaN        977589000.0       977589000.0       980507000.0
+Diluted EPS                                                              NaN              -1.41             -0.67              0.17
+Basic EPS                                                                NaN              -1.41             -0.67              0.17
+Diluted NI Availto Com Stockholders                             -195191000.0      -1375980000.0      -653929000.0       166820000.0
+Net Income Common Stockholders                                  -195191000.0      -1375980000.0      -653929000.0       166820000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0               0.0
+Net Income                                                      -195191000.0      -1375980000.0      -653929000.0       166820000.0
+Minority Interests                                               190898000.0        259911000.0       189008000.0        59014000.0
+Net Income Including Noncontrolling Interests                   -386089000.0      -1635891000.0      -842937000.0       107806000.0
+Net Income Continuous Operations                                -386089000.0      -1635891000.0      -842937000.0       107806000.0
+Tax Provision                                                    -31707000.0       -222211000.0       -20507000.0        42452000.0
+Pretax Income                                                   -417796000.0      -1858102000.0      -863444000.0       150258000.0
+Other Non Operating Income Expenses                              577756000.0       -356877000.0       189120000.0       374799000.0
+Special Income Charges                                             5291000.0           708000.0       -21203000.0       -13392000.0
+Write Off                                                         -5291000.0          -708000.0        21203000.0        13392000.0
+Net Non Operating Interest Income Expense                       -715732000.0       -559787000.0      -640112000.0      -630232000.0
+Interest Expense Non Operating                                   797192000.0        631178000.0       711290000.0       630232000.0
+Interest Income Non Operating                                     81460000.0         71391000.0        71178000.0               NaN
+Operating Income                                                -285111000.0       -942146000.0      -391249000.0       419083000.0
+Operating Expense                                               1280799000.0       1297292000.0      1355445000.0      1240998000.0
+Selling General And Administration                              1280799000.0       1297292000.0      1355445000.0      1240998000.0
+Selling And Marketing Expense                                    472654000.0        475439000.0       601649000.0       408127000.0
+General And Administrative Expense                               808145000.0        821853000.0       753796000.0       832871000.0
+Gross Profit                                                     995688000.0        355146000.0       964196000.0      1660081000.0
+Cost Of Revenue                                                 2783093000.0        975138000.0      2509660000.0      4255476000.0
+Total Revenue                                                   3778781000.0       1330284000.0      3473856000.0      5915557000.0
+Operating Revenue                                               3778781000.0       1330284000.0      3473856000.0      5915557000.0

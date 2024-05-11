@@ -1,0 +1,141 @@
+=== Ticker Info ===
+address1	No. 12, Haiyan 2nd Road
+address2	Xiaogang District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 802 1011
+fax	886 7 802 2030
+website	https://www.haikwang.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Hai Kwang Enterprise Corporation engages in the manufacturing and trading of steel bars and blanks in Taiwan. The company was founded in 1958 and is based in Kaohsiung, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	19.7
+open	19.85
+dayLow	19.65
+dayHigh	20.2
+regularMarketPreviousClose	19.7
+regularMarketOpen	19.85
+regularMarketDayLow	19.65
+regularMarketDayHigh	20.2
+exDividendDate	1661472000	 (2022-08-26 08:00:00)
+beta	1.56
+trailingPE	71.78571
+volume	503473
+regularMarketVolume	503473
+averageVolume	1442884
+averageVolume10days	778428
+averageDailyVolume10Day	778428
+bid	20.1
+ask	20.15
+marketCap	3825592832
+fiftyTwoWeekLow	16.7
+fiftyTwoWeekHigh	23.95
+priceToSalesTrailing12Months	0.40849507
+fiftyDayAverage	19.634
+twoHundredDayAverage	19.024118
+currency	TWD
+enterpriseValue	7865924608
+profitMargins	0.00569
+floatShares	131465259
+sharesOutstanding	190328000
+heldPercentInsiders	0.47637
+heldPercentInstitutions	0.00402
+impliedSharesOutstanding	190328000
+bookValue	19.435
+priceToBook	1.0342166
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	53316000
+trailingEps	0.28
+lastSplitFactor	1050:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	0.84
+enterpriseToEbitda	22.637
+52WeekChange	0.07131982
+SandP52WeekChange	0.26265144
+lastDividendValue	1.428571
+lastDividendDate	1661472000	 (2022-08-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2038.TW
+underlyingSymbol	2038.TW
+shortName	HAI KWANG ENTERPRISE CORPORATIO
+longName	Hai Kwang Enterprise Corporation
+firstTradeDateEpochUtc	1230598800	 (2008-12-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	424e1131-7cca-3722-881d-cdcd367c524b
+messageBoardId	finmb_22727874
+gmtOffSetMilliseconds	28800000
+currentPrice	20.1
+recommendationKey	none
+totalCash	365444000
+totalCashPerShare	1.92
+ebitda	347486016
+totalDebt	4146189056
+quickRatio	0.411
+currentRatio	1.005
+totalRevenue	9365089280
+debtToEquity	104.738
+revenuePerShare	49.205
+returnOnAssets	0.00321
+returnOnEquity	0.00759
+freeCashflow	-419973248
+operatingCashflow	109869000
+revenueGrowth	0.006
+grossMargins	0.02694
+ebitdaMargins	0.037100002
+operatingMargins	0.00649
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31     2022-12-31     2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0            0.0            0.0           0.0
+Tax Rate For Calcs                                              0.195736       0.226712       0.206006      0.210345
+Normalized EBITDA                                            422391000.0    560030000.0    799889000.0   442784000.0
+Net Income From Continuing Operation Net Minority Interest    53316000.0    210830000.0    459712000.0   158031000.0
+Reconciled Depreciation                                      299103000.0    258361000.0    204359000.0   201964000.0
+Reconciled Cost Of Revenue                                  9112774000.0  10735906000.0   9492301000.0  7243755000.0
+EBITDA                                                       422391000.0    560030000.0    799889000.0   442784000.0
+EBIT                                                         123288000.0    301669000.0    595530000.0   240820000.0
+Net Interest Income                                          -77620000.0    -58909000.0    -36828000.0   -50201000.0
+Interest Expense                                              86003000.0     63596000.0     37642000.0    51445000.0
+Interest Income                                                8383000.0      4687000.0       814000.0     1244000.0
+Normalized Income                                             53316000.0    210830000.0    459712000.0   158031000.0
+Net Income From Continuing And Discontinued Operation         53316000.0    210830000.0    459712000.0   158031000.0
+Total Expenses                                              9316706000.0  10943725000.0   9704231000.0  7421077000.0
+Diluted Average Shares                                               NaN    190806000.0    190751400.0   190560300.0
+Basic Average Shares                                                 NaN    190328000.0    190328250.0   190328250.0
+Diluted EPS                                                          NaN            1.1       2.409524      0.828571
+Basic EPS                                                            NaN           1.11       2.419048      0.828571
+Diluted NI Availto Com Stockholders                           53316000.0    210830000.0    459712000.0   158031000.0
+Net Income Common Stockholders                                53316000.0    210830000.0    459712000.0   158031000.0
+Otherunder Preferred Stock Dividend                                  0.0            0.0            0.0           0.0
+Net Income                                                    53316000.0    210830000.0    459712000.0   158031000.0
+Minority Interests                                            23329000.0     26731000.0     16752000.0     8490000.0
+Net Income Including Noncontrolling Interests                 29987000.0    184099000.0    442960000.0   149541000.0
+Net Income Continuous Operations                              29987000.0    184099000.0    442960000.0   149541000.0
+Tax Provision                                                  7298000.0     53974000.0    114928000.0    39834000.0
+Pretax Income                                                 37285000.0    238073000.0    557888000.0   189375000.0
+Other Non Operating Income Expenses                           66522000.0    195729000.0     73817000.0    60128000.0
+Net Non Operating Interest Income Expense                    -77620000.0    -58909000.0    -36828000.0   -50201000.0
+Interest Expense Non Operating                                86003000.0     63596000.0     37642000.0    51445000.0
+Interest Income Non Operating                                  8383000.0      4687000.0       814000.0     1244000.0
+Operating Income                                              48383000.0    101253000.0    520899000.0   179448000.0
+Operating Expense                                            203932000.0    207819000.0    211930000.0   177322000.0
+Research And Development                                       1210000.0       576000.0       788000.0     2044000.0
+Selling General And Administration                           202722000.0    207243000.0    211142000.0   175278000.0
+Selling And Marketing Expense                                 82982000.0     82539000.0     52558000.0    57450000.0
+General And Administrative Expense                           119740000.0    124704000.0    158584000.0   117828000.0
+Gross Profit                                                 252315000.0    309072000.0    732829000.0   356770000.0
+Cost Of Revenue                                             9112774000.0  10735906000.0   9492301000.0  7243755000.0
+Total Revenue                                               9365089000.0  11044978000.0  10225130000.0  7600525000.0
+Operating Revenue                                           9365089000.0  11044978000.0  10225130000.0  7600525000.0

@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 11 Chung Lin Road
+address2	Hsiao Kang
+city	Kaohsiung
+zip	81260
+country	Taiwan
+phone	886 7 871 9000
+fax	886 7 871 9222
+website	https://www.shengyusteel.com
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Sheng Yu Steel Co., Ltd. manufactures, processes, and sells steel sheets in Taiwan. The company provides galvanized products, including Al-Zn alloy-coated and galvanized steel coils, as well as prepainted Al-Zn alloy-coated and galvanized steel coils and sheets; and cold rolled steel sheets and coils. It offers chrome-free anti-fingerprint zinc coated and Al-Zn alloy-coated, pre-painted, printed color, single side pre-painted anti-fingerprint galvanized, anti-static and antiseptic pre-painted, and low gloss pre-painted coated steel sheets; two-tone pre-painted, pearl pre-painted, baroque embossed pre-painted, and anti-dirt pre-painted steel coils; whiteboards; and blackboards. In addition, the company engages in trading and testing laboratory businesses. The company was incorporated in 1973 and is headquartered in Kaohsiung, Taiwan. Sheng Yu Steel Co., Ltd. is a subsidiary of Yodogawa Steel Works, Ltd.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Soichi  Kitamura', 'age': 59, 'title': 'Chairman & CEO', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Chiang  Hung', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Young-Chang  Hsieh', 'title': 'General Manager of Finance & Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Li  Lin', 'title': 'General Manager of Administration Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Hsien  Chen', 'title': 'General Manager of Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tung-Chih  Lin', 'age': 58, 'title': 'VP of Marketing Grand Division & Representative Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	27.9
+open	27.95
+dayLow	27.85
+dayHigh	28.2
+regularMarketPreviousClose	27.9
+regularMarketOpen	27.95
+regularMarketDayLow	27.85
+regularMarketDayHigh	28.2
+dividendRate	1.25
+dividendYield	0.0444
+exDividendDate	1721088000	 (2024-07-16 08:00:00)
+payoutRatio	0.5282
+fiveYearAvgDividendYield	3.72
+beta	0.882
+trailingPE	14.435897
+forwardPE	44.68254
+volume	339043
+regularMarketVolume	339043
+averageVolume	534580
+averageVolume10days	524199
+averageDailyVolume10Day	524199
+bid	28.1
+ask	28.15
+marketCap	9041216512
+fiftyTwoWeekLow	22.55
+fiftyTwoWeekHigh	32.15
+priceToSalesTrailing12Months	0.72976863
+fiftyDayAverage	28.527
+twoHundredDayAverage	26.85825
+trailingAnnualDividendRate	1.25
+trailingAnnualDividendYield	0.044802867
+currency	TWD
+enterpriseValue	4061872128
+profitMargins	0.050640002
+floatShares	104894176
+sharesOutstanding	321180000
+heldPercentInsiders	0.66291
+heldPercentInstitutions	0.02385
+impliedSharesOutstanding	322847008
+bookValue	30.988
+priceToBook	0.90841615
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.666
+netIncomeToCommon	627345024
+trailingEps	1.95
+forwardEps	0.63
+lastSplitFactor	101:100
+lastSplitDate	1059350400	 (2003-07-28 08:00:00)
+enterpriseToRevenue	0.328
+enterpriseToEbitda	4.057
+52WeekChange	0.123752475
+SandP52WeekChange	0.26265144
+lastDividendValue	1.25
+lastDividendDate	1721088000	 (2024-07-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2029.TW
+underlyingSymbol	2029.TW
+shortName	SHENG YU STEEL
+longName	Sheng Yu Steel Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e6805024-101e-3cec-addb-2a7a303d8beb
+messageBoardId	finmb_11150014
+gmtOffSetMilliseconds	28800000
+currentPrice	28.15
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	5111034880
+totalCashPerShare	15.913
+ebitda	1001116032
+totalDebt	67820000
+quickRatio	7.281
+currentRatio	9.684
+totalRevenue	12389154816
+debtToEquity	0.677
+revenuePerShare	38.574
+returnOnAssets	0.04344
+returnOnEquity	0.06372
+freeCashflow	886755136
+operatingCashflow	1226923008
+earningsGrowth	1.675
+revenueGrowth	0.464
+grossMargins	0.109639995
+ebitdaMargins	0.08081
+operatingMargins	0.07036
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31        2022-12-31     2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                           0.0   -2216864.210658            0.0           0.0
+Tax Rate For Calcs                                               0.201845           0.23189       0.194722      0.228579
+Normalized EBITDA                                            1054779000.0       948804000.0   1893205000.0   640831000.0
+Total Unusual Items                                                   0.0        -9560000.0            0.0           NaN
+Total Unusual Items Excluding Goodwill                                0.0        -9560000.0            0.0           NaN
+Net Income From Continuing Operation Net Minority Interest    627345000.0       505180000.0   1264065000.0   247248000.0
+Reconciled Depreciation                                       261268000.0       289671000.0    294966000.0   306433000.0
+Reconciled Cost Of Revenue                                  11030830000.0     11588841000.0  12207867000.0  8514709000.0
+EBITDA                                                       1054779000.0       939244000.0   1893205000.0   640831000.0
+EBIT                                                          793511000.0       649573000.0   1598239000.0   334398000.0
+Net Interest Income                                            65588000.0        20531000.0      3526000.0    13067000.0
+Interest Expense                                                3289000.0         4434000.0      6280000.0     5951000.0
+Interest Income                                                68877000.0        24965000.0      9806000.0    19018000.0
+Normalized Income                                             627345000.0  512523135.789342   1264065000.0   247248000.0
+Net Income From Continuing And Discontinued Operation         627345000.0       505180000.0   1264065000.0   247248000.0
+Total Expenses                                              11640645000.0     12257084000.0  12796498000.0  9003294000.0
+Diluted Average Shares                                                NaN       321607000.0    321709000.0   321498000.0
+Basic Average Shares                                                  NaN       321180000.0    321180000.0   321180000.0
+Diluted EPS                                                           NaN              1.57           3.93          0.77
+Basic EPS                                                             NaN              1.57           3.94          0.77
+Diluted NI Availto Com Stockholders                           627345000.0       505180000.0   1264065000.0   247248000.0
+Net Income Common Stockholders                                627345000.0       505180000.0   1264065000.0   247248000.0
+Otherunder Preferred Stock Dividend                                   0.0               0.0            0.0           0.0
+Net Income                                                    627345000.0       505180000.0   1264065000.0   247248000.0
+Minority Interests                                             -3375000.0         9642000.0    -17904000.0    -6123000.0
+Net Income Including Noncontrolling Interests                 630720000.0       495538000.0   1281969000.0   253371000.0
+Net Income Continuous Operations                              630720000.0       495538000.0   1281969000.0   253371000.0
+Tax Provision                                                 159502000.0       149601000.0    309990000.0    75076000.0
+Pretax Income                                                 790222000.0       645139000.0   1591959000.0   328447000.0
+Other Non Operating Income Expenses                             9288000.0       121551000.0     24699000.0   -18981000.0
+Special Income Charges                                                0.0        -9560000.0            0.0           NaN
+Write Off                                                             0.0         9560000.0            0.0           NaN
+Net Non Operating Interest Income Expense                      65588000.0        20531000.0      3526000.0    13067000.0
+Interest Expense Non Operating                                  3289000.0         4434000.0      6280000.0     5951000.0
+Interest Income Non Operating                                  68877000.0        24965000.0      9806000.0    19018000.0
+Operating Income                                              748510000.0       539173000.0   1559632000.0   378350000.0
+Operating Expense                                             609815000.0       668243000.0    588631000.0   488585000.0
+Research And Development                                       87710000.0        77212000.0     82759000.0    85285000.0
+Selling General And Administration                            522105000.0       591031000.0    505872000.0   403300000.0
+Selling And Marketing Expense                                 281867000.0       358056000.0    226905000.0   198985000.0
+General And Administrative Expense                            240238000.0       232975000.0    278967000.0   204315000.0
+Gross Profit                                                 1358325000.0      1207416000.0   2148263000.0   866935000.0
+Cost Of Revenue                                             11030830000.0     11588841000.0  12207867000.0  8514709000.0
+Total Revenue                                               12389155000.0     12796257000.0  14356130000.0  9381644000.0
+Operating Revenue                                           12389155000.0     12796257000.0  14356130000.0  9381644000.0

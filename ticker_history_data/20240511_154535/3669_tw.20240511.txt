@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No.157, Da-An Road
+address2	8th Floor Tucheng District
+city	New Taipei City
+zip	23673
+country	Taiwan
+phone	886 2 2269 8535
+fax	886 2 2269 8537
+website	https://www.aver.com
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	AVer Information Inc. develops and manufactures education technology and video collaboration solutions in Taiwan and internationally. The company offers on-premise and USB video conferencing products; charge and sync carts; visualizers; medical cameras, auto tracking and livestreaming PTZ cameras, and Pro AV accessories; interactive flat panel and control boxes; touch panels; wireless presentation systems; and distance learning cameras, as well as classroom software products. AVer Information Inc. was founded in 2008 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chung Song  Kuo', 'title': 'CSO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Hsi', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dave  Chiu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Te Pu  Chiu', 'title': 'Financial & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Joseph  Chen', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Laura  Chen', 'title': 'Manager of Public Relations Office', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	50.7
+open	51.2
+dayLow	50.6
+dayHigh	51.7
+regularMarketPreviousClose	50.7
+regularMarketOpen	51.2
+regularMarketDayLow	50.6
+regularMarketDayHigh	51.7
+dividendRate	1.43
+dividendYield	0.0278
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	0.46130002
+fiveYearAvgDividendYield	4.57
+beta	0.919
+trailingPE	16.580647
+volume	266556
+regularMarketVolume	266556
+averageVolume	909560
+averageVolume10days	219434
+averageDailyVolume10Day	219434
+bid	51.2
+ask	51.4
+marketCap	4776088064
+fiftyTwoWeekLow	36.3
+fiftyTwoWeekHigh	60.0
+priceToSalesTrailing12Months	1.9221249
+fiftyDayAverage	51.223
+twoHundredDayAverage	46.839
+trailingAnnualDividendRate	1.34
+trailingAnnualDividendYield	0.026429981
+currency	TWD
+enterpriseValue	3921901056
+profitMargins	0.100600004
+floatShares	45097793
+sharesOutstanding	92920000
+heldPercentInsiders	0.5848
+heldPercentInstitutions	0.00511
+impliedSharesOutstanding	93307200
+bookValue	34.706
+priceToBook	1.4810119
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.072
+netIncomeToCommon	249966000
+trailingEps	3.1
+lastSplitFactor	1050:1000
+lastSplitDate	1310428800	 (2011-07-12 08:00:00)
+enterpriseToRevenue	1.578
+enterpriseToEbitda	16.721
+52WeekChange	0.22966504
+SandP52WeekChange	0.26265144
+lastDividendValue	1.43
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3669.TW
+underlyingSymbol	3669.TW
+shortName	AVER INFORMATION INC
+longName	AVer Information Inc.
+firstTradeDateEpochUtc	1314234000	 (2011-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	66c60f62-38ca-3601-8fa6-a82291e2cbee
+messageBoardId	finmb_61177624
+gmtOffSetMilliseconds	28800000
+currentPrice	51.4
+recommendationKey	none
+totalCash	1391406976
+totalCashPerShare	14.974
+ebitda	234544000
+totalDebt	537219968
+quickRatio	1.719
+currentRatio	2.228
+totalRevenue	2484795904
+debtToEquity	16.658
+revenuePerShare	26.741
+returnOnAssets	0.01581
+returnOnEquity	0.082729995
+freeCashflow	363559616
+operatingCashflow	521412992
+earningsGrowth	1.157
+revenueGrowth	-0.093
+grossMargins	0.56913
+ebitdaMargins	0.094390005
+operatingMargins	0.084130004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -112783.400786      -1047.96649           0.0           0.0
+Tax Rate For Calcs                                                  0.033757          0.05822      0.169392      0.180056
+Normalized EBITDA                                                424350000.0      510839000.0   917808000.0  1075563000.0
+Total Unusual Items                                               -3341000.0         -18000.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                            -3341000.0         -18000.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest       249966000.0      332759000.0   652337000.0   788197000.0
+Reconciled Depreciation                                          151676000.0      148639000.0   126175000.0   109577000.0
+Reconciled Cost Of Revenue                                      1070614000.0     1434166000.0  1743285000.0  1918149000.0
+EBITDA                                                           421009000.0      510821000.0   917808000.0  1075563000.0
+EBIT                                                             269333000.0      362182000.0   791633000.0   965986000.0
+Net Interest Income                                               10097000.0       -5550000.0    -5119000.0    -2251000.0
+Interest Expense                                                  10634000.0        8852000.0     6260000.0     4705000.0
+Interest Income                                                   20731000.0        3302000.0     1141000.0     2454000.0
+Normalized Income                                           253194216.599214  332775952.03351   652337000.0   788197000.0
+Net Income From Continuing And Discontinued Operation            249966000.0      332759000.0   652337000.0   788197000.0
+Total Expenses                                                  2375508000.0     2718057000.0  2946215000.0  3108113000.0
+Diluted Average Shares                                                   NaN       93886000.0    94338000.0    94341000.0
+Basic Average Shares                                                     NaN       92920000.0    92920000.0    92920000.0
+Diluted EPS                                                              NaN             3.54          6.91          8.35
+Basic EPS                                                                NaN             3.58          7.02          8.48
+Diluted NI Availto Com Stockholders                              249966000.0      332759000.0   652337000.0   788197000.0
+Net Income Common Stockholders                                   249966000.0      332759000.0   652337000.0   788197000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0           0.0           0.0
+Net Income                                                       249966000.0      332759000.0   652337000.0   788197000.0
+Net Income Including Noncontrolling Interests                    249966000.0      332759000.0   652337000.0   788197000.0
+Net Income Continuous Operations                                 249966000.0      332759000.0   652337000.0   788197000.0
+Tax Provision                                                      8733000.0       20571000.0   133036000.0   173084000.0
+Pretax Income                                                    258699000.0      353330000.0   785373000.0   961281000.0
+Other Non Operating Income Expenses                              142655000.0       67284000.0    49711000.0     3424000.0
+Special Income Charges                                            -3341000.0         -18000.0           NaN           NaN
+Write Off                                                          3341000.0          18000.0           NaN           NaN
+Net Non Operating Interest Income Expense                         10097000.0       -5550000.0    -5119000.0    -2251000.0
+Interest Expense Non Operating                                    10634000.0        8852000.0     6260000.0     4705000.0
+Interest Income Non Operating                                     20731000.0        3302000.0     1141000.0     2454000.0
+Operating Income                                                 109288000.0      291614000.0   740781000.0   960108000.0
+Operating Expense                                               1304894000.0     1283891000.0  1202930000.0  1189964000.0
+Research And Development                                         431761000.0      420385000.0   383126000.0   311631000.0
+Selling General And Administration                               873133000.0      863506000.0   819804000.0   878333000.0
+Selling And Marketing Expense                                    776920000.0      760868000.0   710153000.0   764997000.0
+General And Administrative Expense                                96213000.0      102638000.0   109651000.0   113336000.0
+Gross Profit                                                    1414182000.0     1575505000.0  1943711000.0  2150072000.0
+Cost Of Revenue                                                 1070614000.0     1434166000.0  1743285000.0  1918149000.0
+Total Revenue                                                   2484796000.0     3009671000.0  3686996000.0  4068221000.0
+Operating Revenue                                               2484796000.0     3009671000.0  3686996000.0  4068221000.0

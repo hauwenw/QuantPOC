@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.95 Huanghai Road
+address2	Beilun District
+city	Ningbo
+country	China
+phone	86 574 8622 8866
+website	https://www.ygget.com
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Yeong Guan Energy Technology Group Co., Ltd. supplies castings to manufacturers of wind turbines, injection molding machines, machine tools, and other heavy industrial machines. It offers low-temperature high tensile spheroidal graphite iron casting and gray cast iron casting for energy applications, which include large scale wind turbines, such as hubs, gear boxes, and bases; and steam turbine components for large scale power plants. The company also provides high-grade spheroidal graphite iron casting for injection molding machines; and large scale high precision machine tools, air compressors, large-scale rapid color printing machines, and medical equipment, which consists of cancer therapeutic, and gamma knife therapeutic apparatus. In addition, it offers casting, processing, welding, painting, assembly capability, and testing equipment. Yeong Guan Energy Technology Group Co., Ltd. was founded in 1971 and is headquartered in Ningbo, China.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsien-Ming  Chang', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Hsiung  Hsu', 'title': 'CEO, President of Southern China Area & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Wu  Tsai', 'title': 'Head of Finance & Accounting, CFO & Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Han-Pang  Liu', 'title': 'VP & President of Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsien-Kuang  Wang', 'title': 'Assistant General Manager of Human Resources Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Hung  Tsai', 'title': 'President of Eastern China Area & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Tsang  Li', 'title': 'Chief Strategy Officer, VP, & Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhenjiang  Fang', 'title': 'Vice Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Sheng  Liang', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rui  Guo', 'title': 'Vice CEO and GM of R&D', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	46.45
+open	44.3
+dayLow	43.0
+dayHigh	44.7
+regularMarketPreviousClose	46.45
+regularMarketOpen	44.3
+regularMarketDayLow	43.0
+regularMarketDayHigh	44.7
+exDividendDate	1659571200	 (2022-08-04 08:00:00)
+fiveYearAvgDividendYield	3.96
+beta	0.774
+forwardPE	9.606127
+volume	1969882
+regularMarketVolume	1969882
+averageVolume	1588173
+averageVolume10days	909522
+averageDailyVolume10Day	909522
+bid	43.9
+ask	43.95
+marketCap	5186170368
+fiftyTwoWeekLow	43.0
+fiftyTwoWeekHigh	87.2
+priceToSalesTrailing12Months	0.5981046
+fiftyDayAverage	51.604
+twoHundredDayAverage	52.30075
+currency	TWD
+enterpriseValue	16198721536
+profitMargins	-0.03111
+floatShares	87432454
+sharesOutstanding	118136000
+heldPercentInsiders	0.22224002
+heldPercentInstitutions	0.10488
+impliedSharesOutstanding	119030000
+bookValue	72.459
+priceToBook	0.6058599
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-269740000
+trailingEps	-2.35
+forwardEps	4.57
+lastSplitFactor	1.135:1
+lastSplitDate	1347494400	 (2012-09-13 08:00:00)
+enterpriseToRevenue	1.868
+enterpriseToEbitda	54.654
+52WeekChange	-0.42689294
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1659571200	 (2022-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1589.TW
+underlyingSymbol	1589.TW
+shortName	YEONG GUAN ENERGY TECHNOLOGY GP
+longName	Yeong Guan Energy Technology Group Co., Ltd.
+firstTradeDateEpochUtc	1335488400	 (2012-04-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b9abf417-4678-3471-80ba-e44fe457c617
+messageBoardId	finmb_59505315
+gmtOffSetMilliseconds	28800000
+currentPrice	43.9
+targetHighPrice	76.0
+targetLowPrice	60.5
+targetMeanPrice	68.83
+targetMedianPrice	70.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+numberOfAnalystOpinions	3
+totalCash	2611267072
+totalCashPerShare	22.104
+ebitda	296385984
+totalDebt	13456500736
+quickRatio	0.813
+currentRatio	1.369
+totalRevenue	8671008768
+debtToEquity	154.187
+revenuePerShare	75.686
+returnOnAssets	-0.0046
+returnOnEquity	-0.0321
+freeCashflow	-3308073728
+operatingCashflow	-495753984
+revenueGrowth	-0.213
+grossMargins	0.13812
+ebitdaMargins	0.03418
+operatingMargins	-0.12851
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -15821250.0     1318750.0   -2662682.412201    2531962.214904
+Tax Rate For Calcs                                                  0.25          0.25          0.332627           0.17188
+Normalized EBITDA                                            548875000.0   359559000.0       933194000.0      1241043000.0
+Total Unusual Items                                          -63285000.0     5275000.0        -8005000.0        14731000.0
+Total Unusual Items Excluding Goodwill                       -63285000.0     5275000.0        -8005000.0        14731000.0
+Net Income From Continuing Operation Net Minority Interest  -269740000.0  -438462000.0       216102000.0       513143000.0
+Reconciled Depreciation                                      505127000.0   530361000.0       536630000.0       538527000.0
+Reconciled Cost Of Revenue                                  7473371000.0  8040146000.0      7178390000.0      6394486000.0
+EBITDA                                                       485590000.0   364834000.0       925189000.0      1255774000.0
+EBIT                                                         -19537000.0  -165527000.0       388559000.0       717247000.0
+Net Interest Income                                         -209975000.0  -114745000.0       -11627000.0       -45047000.0
+Interest Expense                                             243667000.0   148654000.0        67939000.0        93509000.0
+Interest Income                                               33692000.0    33909000.0        56312000.0        48462000.0
+Normalized Income                                           -222276250.0  -442418250.0  221444317.587799  500943962.214904
+Net Income From Continuing And Discontinued Operation       -269740000.0  -438462000.0       216102000.0       513143000.0
+Total Expenses                                              8779235000.0  9287381000.0      8625701000.0      7639573000.0
+Diluted Average Shares                                               NaN   110618000.0       126132000.0       106864000.0
+Basic Average Shares                                                 NaN   110618000.0       110618000.0       106683000.0
+Diluted EPS                                                          NaN         -3.96              1.88               4.8
+Basic EPS                                                            NaN         -3.96              1.95              4.81
+Diluted NI Availto Com Stockholders                         -269740000.0  -438462000.0       216102000.0       513143000.0
+Net Income Common Stockholders                              -269740000.0  -438462000.0       216102000.0       513143000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                  -269740000.0  -438462000.0       216102000.0       513143000.0
+Minority Interests                                             6601000.0     5913000.0         2129000.0        -3387000.0
+Net Income Including Noncontrolling Interests               -276341000.0  -444375000.0       213973000.0       516530000.0
+Net Income Continuous Operations                            -276341000.0  -444375000.0       213973000.0       516530000.0
+Tax Provision                                                 13137000.0   130194000.0       106647000.0       107208000.0
+Pretax Income                                               -263204000.0  -314181000.0       320620000.0       623738000.0
+Other Non Operating Income Expenses                           56042000.0  -155856000.0        14348000.0        29039000.0
+Special Income Charges                                       -64428000.0      985000.0        -6453000.0        19066000.0
+Other Special Charges                                                NaN           NaN               NaN        11111000.0
+Write Off                                                     64428000.0     -985000.0         6453000.0       -30177000.0
+Net Non Operating Interest Income Expense                   -209975000.0  -114745000.0       -11627000.0       -45047000.0
+Interest Expense Non Operating                               243667000.0   148654000.0        67939000.0        93509000.0
+Interest Income Non Operating                                 33692000.0    33909000.0        56312000.0        48462000.0
+Operating Income                                            -108226000.0    96544000.0       322510000.0       544700000.0
+Operating Expense                                           1305864000.0  1247235000.0      1447311000.0      1245087000.0
+Other Operating Expenses                                             NaN           NaN         6453000.0         9812000.0
+Research And Development                                     313236000.0   319550000.0       351541000.0       275826000.0
+Selling General And Administration                           992628000.0   927685000.0      1095770000.0       959449000.0
+Selling And Marketing Expense                                370460000.0   376114000.0       476495000.0       434277000.0
+General And Administrative Expense                           622168000.0   551571000.0       619275000.0       525172000.0
+Gross Profit                                                1197638000.0  1343779000.0      1769821000.0      1789787000.0
+Cost Of Revenue                                             7473371000.0  8040146000.0      7178390000.0      6394486000.0
+Total Revenue                                               8671009000.0  9383925000.0      8948211000.0      8184273000.0
+Operating Revenue                                           8671009000.0  9383925000.0      8948211000.0      8184273000.0

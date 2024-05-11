@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 99, Xing-fu Road
+address2	Taoyuan District
+city	Taoyuan City
+country	Taiwan
+phone	886 3 3261611
+website	https://www.meiloon.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Meiloon Industrial Co., Ltd. designs and manufactures speakers. The company offers home theater systems, subwoofers, sound bars and ATV, wireless and portable speakers, in-wall and in-celling speakers, car speakers, marine speakers, out door speakers, education speakers, and studio monitor speakers, as well as line arrays. It operates in the United States, Europe, China, and Southeast Asia. The company was founded in 1973 and is based in Taoyuan City, Taiwan.
+fullTimeEmployees	1548
+maxAge	86400
+priceHint	2
+previousClose	20.85
+open	21.1
+dayLow	20.95
+dayHigh	21.2
+regularMarketPreviousClose	20.85
+regularMarketOpen	21.1
+regularMarketDayLow	20.95
+regularMarketDayHigh	21.2
+dividendRate	0.5
+dividendYield	0.023599999
+exDividendDate	1714003200	 (2024-04-25 08:00:00)
+payoutRatio	3.3332999
+fiveYearAvgDividendYield	5.25
+beta	0.463
+trailingPE	88.333336
+volume	151939
+regularMarketVolume	151939
+averageVolume	138504
+averageVolume10days	70381
+averageDailyVolume10Day	70381
+bid	21.15
+ask	21.2
+marketCap	3361747456
+fiftyTwoWeekLow	18.7
+fiftyTwoWeekHigh	24.4
+priceToSalesTrailing12Months	1.4423643
+fiftyDayAverage	20.775
+twoHundredDayAverage	20.28425
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.023980815
+currency	TWD
+enterpriseValue	2896194560
+profitMargins	0.01603
+sharesOutstanding	158572992
+heldPercentInsiders	0.52228
+heldPercentInstitutions	0.0064600003
+impliedSharesOutstanding	160090000
+bookValue	24.897
+priceToBook	0.85150826
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	37351000
+trailingEps	0.24
+lastSplitFactor	800:1000
+lastSplitDate	1669248000	 (2022-11-24 08:00:00)
+enterpriseToRevenue	1.243
+enterpriseToEbitda	-63.859
+52WeekChange	0.054726362
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1714003200	 (2024-04-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2477.TW
+underlyingSymbol	2477.TW
+shortName	MEILOON INDUSTRIAL CO
+longName	Meiloon Industrial Co., Ltd.
+firstTradeDateEpochUtc	951354000	 (2000-02-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a1ea0afa-9350-31f1-91a2-f860b5b2faac
+messageBoardId	finmb_9794158
+gmtOffSetMilliseconds	28800000
+currentPrice	21.2
+recommendationKey	none
+totalCash	2761756928
+totalCashPerShare	17.416
+ebitda	-45353000
+totalDebt	1956007040
+quickRatio	1.533
+currentRatio	2.372
+totalRevenue	2330720000
+debtToEquity	45.614
+revenuePerShare	14.698
+returnOnAssets	-0.013309999
+returnOnEquity	0.00588
+freeCashflow	-155699872
+operatingCashflow	173692000
+revenueGrowth	-0.144
+grossMargins	0.13819
+ebitdaMargins	-0.01946
+operatingMargins	-0.10356
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    2100000.0    -6551600.0  911340124.775573    -4376000.0
+Tax Rate For Calcs                                                   0.2           0.2           0.37529           0.2
+Normalized EBITDA                                            218832000.0   445180000.0       307455000.0   326660000.0
+Total Unusual Items                                           10500000.0   -32758000.0      2428363000.0   -21880000.0
+Total Unusual Items Excluding Goodwill                        10500000.0   -32758000.0      2428363000.0   -21880000.0
+Net Income From Continuing Operation Net Minority Interest    37351000.0    93292000.0      1638298000.0   183217000.0
+Reconciled Depreciation                                      133265000.0   130736000.0       112603000.0   123910000.0
+Reconciled Cost Of Revenue                                  2008634000.0  3009603000.0      3142625000.0  2373474000.0
+EBITDA                                                       229332000.0   412422000.0      2735818000.0   304780000.0
+EBIT                                                          96067000.0   281686000.0      2623215000.0   180870000.0
+Net Interest Income                                          120755000.0    61256000.0        79909000.0    42775000.0
+Interest Expense                                              37724000.0    25883000.0        19364000.0    19270000.0
+Interest Income                                              158479000.0    87139000.0        99273000.0    62045000.0
+Normalized Income                                             28951000.0   119498400.0  121275124.775573   200721000.0
+Net Income From Continuing And Discontinued Operation         37351000.0    93292000.0      1638298000.0   183217000.0
+Total Expenses                                              2506333000.0  3522069000.0      3791427000.0  2913563000.0
+Diluted Average Shares                                               NaN   185741000.0       199583000.0   158929600.0
+Basic Average Shares                                                 NaN   185400000.0       198217000.0   158573600.0
+Diluted EPS                                                          NaN           0.5              8.21          1.15
+Basic EPS                                                            NaN           0.5              8.27          1.15
+Diluted NI Availto Com Stockholders                           37351000.0    93292000.0      1638298000.0   183217000.0
+Net Income Common Stockholders                                37351000.0    93292000.0      1638298000.0   183217000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                    37351000.0    93292000.0      1638298000.0   183217000.0
+Minority Interests                                            11840000.0     9359000.0        11646000.0     7169000.0
+Net Income Including Noncontrolling Interests                 25511000.0    83933000.0      1626652000.0   176048000.0
+Net Income Continuous Operations                              25511000.0    83933000.0      1626652000.0   176048000.0
+Tax Provision                                                 32832000.0   171870000.0       977199000.0   -14448000.0
+Pretax Income                                                 58343000.0   255803000.0      2603851000.0   161600000.0
+Other Non Operating Income Expenses                           69275000.0   135579000.0        39652000.0    57180000.0
+Special Income Charges                                         7405000.0    18403000.0      2429345000.0   -30517000.0
+Other Special Charges                                            79000.0      392000.0     -2494778000.0     8362000.0
+Write Off                                                     -7484000.0   -18795000.0        83072000.0    23565000.0
+Impairment Of Capital Assets                                         NaN           0.0       -17639000.0    -1410000.0
+Net Non Operating Interest Income Expense                    120755000.0    61256000.0        79909000.0    42775000.0
+Interest Expense Non Operating                                37724000.0    25883000.0        19364000.0    19270000.0
+Interest Income Non Operating                                158479000.0    87139000.0        99273000.0    62045000.0
+Operating Income                                            -175613000.0   -31232000.0       -27431000.0   139770000.0
+Operating Expense                                            497699000.0   512466000.0       648802000.0   540089000.0
+Research And Development                                     115572000.0   119251000.0       135045000.0   134392000.0
+Selling General And Administration                           382127000.0   393215000.0       513757000.0   405697000.0
+Selling And Marketing Expense                                150806000.0   157684000.0       184690000.0   166822000.0
+General And Administrative Expense                           231321000.0   235531000.0       329067000.0   238875000.0
+Gross Profit                                                 322086000.0   481234000.0       621371000.0   679859000.0
+Cost Of Revenue                                             2008634000.0  3009603000.0      3142625000.0  2373474000.0
+Total Revenue                                               2330720000.0  3490837000.0      3763996000.0  3053333000.0
+Operating Revenue                                           2330720000.0  3490837000.0      3763996000.0  3053333000.0

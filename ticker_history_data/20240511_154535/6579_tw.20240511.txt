@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 135, Pao Chiao Road
+address2	5th Floor Lane 235 Hsin-Tien District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 8919 1234
+fax	886 2 8919 1056
+website	https://www.aaeon.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	AAEON Technology Inc. designs, manufactures, and sells industrial computers and peripherals. The company offers embedded boards, such as embedded single board computers, computer-on-modules, industrial motherboards, smart display modules, and PICMG and RISC single board computers; and computing systems, including panel and fanless embedded box PCs, machine vision and digital signage systems, multi-PoE and fanless appliances, turn-key chassis solutions, and industrial chassis. It also provides rugged tablet computers and accessories; UP boards and systems; artificial intelligence (AI) Edge solutions and modules; and network appliances comprising desktop and rackmount network appliances, industrial cyber security appliances, networking motherboards, and network interface modules. In addition, the company offers IoT gateway boards and systems, and servers. Its products are used in smart city, safety and security, smart retail and manufacturing, AI computing platform, network appliance, software defined wide area network, intelligent vending machine, vision system solution, smart office/wellness sensor, and rugged tablet applications. The company was founded in 1992 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chien-Hung  Lin', 'title': 'President & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jen-Chun  Wang', 'title': 'Chief of Accounting Officer, Accounting Supervisor & Accounting AM of Resource Service Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ying-Chen  Li', 'title': 'Representative Director & CSO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wan-Hui  Chiu', 'title': 'Chief Internal Auditor, Project Manager & Internal Audit Vice Project Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Han  Hsieh', 'title': 'President Office Manager & Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	158.5
+open	161.5
+dayLow	155.5
+dayHigh	164.0
+regularMarketPreviousClose	158.5
+regularMarketOpen	161.5
+regularMarketDayLow	155.5
+regularMarketDayHigh	164.0
+dividendRate	4.66
+dividendYield	0.03
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.4411
+fiveYearAvgDividendYield	4.3
+beta	0.824
+trailingPE	14.725378
+forwardPE	22.214285
+volume	955607
+regularMarketVolume	955607
+averageVolume	565475
+averageVolume10days	243593
+averageDailyVolume10Day	243593
+bid	155.5
+ask	156.5
+marketCap	25018552320
+fiftyTwoWeekLow	95.4
+fiftyTwoWeekHigh	237.0
+priceToSalesTrailing12Months	3.0989623
+fiftyDayAverage	158.71
+twoHundredDayAverage	157.1825
+trailingAnnualDividendRate	6.5
+trailingAnnualDividendYield	0.041009463
+currency	TWD
+enterpriseValue	22540904448
+profitMargins	0.12007
+floatShares	30477330
+sharesOutstanding	160891008
+heldPercentInsiders	0.78358
+heldPercentInstitutions	0.05343
+impliedSharesOutstanding	163536992
+bookValue	62.408
+priceToBook	2.4916677
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.793
+netIncomeToCommon	969345024
+trailingEps	10.56
+forwardEps	7.0
+enterpriseToRevenue	2.792
+enterpriseToEbitda	19.883
+52WeekChange	0.6214807
+SandP52WeekChange	0.26265144
+lastDividendValue	4.65809
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6579.TW
+underlyingSymbol	6579.TW
+shortName	AAEON TECHNOLOGY INC.
+longName	AAEON Technology Inc.
+firstTradeDateEpochUtc	1465174800	 (2016-06-06 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dee69239-2d86-34e2-a37f-7043a99871d1
+messageBoardId	finmb_9649182
+gmtOffSetMilliseconds	28800000
+currentPrice	155.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	4833590784
+totalCashPerShare	30.133
+ebitda	1133661056
+totalDebt	320412000
+quickRatio	3.409
+currentRatio	4.352
+totalRevenue	8073203200
+debtToEquity	2.643
+revenuePerShare	70.165
+returnOnAssets	0.048800003
+returnOnEquity	0.108660005
+freeCashflow	1528563584
+operatingCashflow	2066827008
+earningsGrowth	-0.808
+revenueGrowth	-0.102
+grossMargins	0.35108003
+ebitdaMargins	0.14042
+operatingMargins	0.12283
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -578761.724966    -387399.386294    1813189.029064
+Tax Rate For Calcs                                                   0.194935          0.179352          0.229896
+Normalized EBITDA                                                1579608000.0       733597000.0       706113000.0
+Total Unusual Items                                                -2969000.0        -2160000.0         7887000.0
+Total Unusual Items Excluding Goodwill                             -2969000.0        -2160000.0         7887000.0
+Net Income From Continuing Operation Net Minority Interest       1074460000.0       451025000.0       382810000.0
+Reconciled Depreciation                                           107618000.0       100533000.0       107726000.0
+Reconciled Cost Of Revenue                                       5598941000.0      4492653000.0      3967732000.0
+EBITDA                                                           1576639000.0       731437000.0       714000000.0
+EBIT                                                             1469021000.0       630904000.0       606274000.0
+Net Interest Income                                                 1253000.0         -147000.0         3588000.0
+Interest Expense                                                    5989000.0         4871000.0         3536000.0
+Interest Income                                                     7242000.0         4724000.0         7124000.0
+Normalized Income                                           1076850238.275034  452797600.613706  376736189.029064
+Net Income From Continuing And Discontinued Operation            1074460000.0       451025000.0       382810000.0
+Total Expenses                                                   7155017000.0      5796903000.0      5285480000.0
+Diluted Average Shares                                            108962000.0       107597000.0       107525000.0
+Basic Average Shares                                              107152000.0       106803000.0       106800000.0
+Diluted EPS                                                              9.86              4.19              3.56
+Basic EPS                                                               10.03              4.22              3.58
+Diluted NI Availto Com Stockholders                              1074460000.0       451025000.0       382810000.0
+Net Income Common Stockholders                                   1074460000.0       451025000.0       382810000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0               0.0
+Net Income                                                       1074460000.0       451025000.0       382810000.0
+Minority Interests                                               -103376000.0       -62728000.0       -81361000.0
+Net Income Including Noncontrolling Interests                    1177836000.0       513753000.0       464171000.0
+Net Income Continuous Operations                                 1177836000.0       513753000.0       464171000.0
+Tax Provision                                                     285196000.0       112280000.0       138567000.0
+Pretax Income                                                    1463032000.0       626033000.0       602738000.0
+Other Non Operating Income Expenses                               -49340000.0         3133000.0        -5873000.0
+Special Income Charges                                             -2969000.0        -2160000.0         7887000.0
+Write Off                                                           2969000.0         2160000.0        -7887000.0
+Net Non Operating Interest Income Expense                           1253000.0         -147000.0         3588000.0
+Interest Expense Non Operating                                      5989000.0         4871000.0         3536000.0
+Interest Income Non Operating                                       7242000.0         4724000.0         7124000.0
+Operating Income                                                 1197059000.0       550801000.0       612705000.0
+Operating Expense                                                1556076000.0      1304250000.0      1317748000.0
+Research And Development                                          599554000.0       495114000.0       464753000.0
+Selling General And Administration                                956522000.0       809136000.0       852995000.0
+Selling And Marketing Expense                                     588291000.0       508093000.0       583180000.0
+General And Administrative Expense                                368231000.0       301043000.0       269815000.0
+Gross Profit                                                     2753135000.0      1855051000.0      1930453000.0
+Cost Of Revenue                                                  5598941000.0      4492653000.0      3967732000.0
+Total Revenue                                                    8352076000.0      6347704000.0      5898185000.0
+Operating Revenue                                                8352076000.0      6347704000.0      5898185000.0

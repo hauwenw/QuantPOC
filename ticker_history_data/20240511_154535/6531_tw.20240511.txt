@@ -1,0 +1,166 @@
+=== Ticker Info ===
+address1	No.1 Taiyuan 1st Street
+address2	10th Floor-1
+city	Zhubei
+zip	30288
+country	Taiwan
+phone	886 3 560 1558
+fax	886 3 560 1518
+website	https://www.apmemory.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	AP Memory Technology Corporation engages in designing, licensing, manufacturing, and selling customized memory chip products and technologies in Taiwan and internationally. It designs, manufactures, and sells memory-related IC products for use in functional cell phones and Internet of Things related products, including Prseudo SRAM for wearable devices and IoT-related products application; low power DRAM; and power-efficient customized DRAM, as well as provides AI memory, licensing, and design services. The company was incorporated in 2011 and is headquartered in Zhubei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Liang  Chen', 'title': 'Chairman, CEO & CTO', 'fiscalYear': 2021, 'totalPay': 20515000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hsun  Hung', 'title': 'President, Senior VP & Representative Director', 'fiscalYear': 2021, 'totalPay': 14176000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mao-Chuan  Hung', 'title': 'Accounting & Finance Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuo-Hsiung  Lin', 'title': 'Business Executive Specialist', 'fiscalYear': 2021, 'totalPay': 4085000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	349.5
+open	349.0
+dayLow	338.0
+dayHigh	351.5
+regularMarketPreviousClose	349.5
+regularMarketOpen	349.0
+regularMarketDayLow	338.0
+regularMarketDayHigh	351.5
+dividendRate	7.0
+dividendYield	0.020399999
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.65269995
+fiveYearAvgDividendYield	1.36
+beta	2.488
+trailingPE	31.949627
+forwardPE	27.576488
+volume	4585080
+regularMarketVolume	4585080
+averageVolume	3574875
+averageVolume10days	2562914
+averageDailyVolume10Day	2562914
+bid	338.5
+ask	338.5
+marketCap	55486369792
+fiftyTwoWeekLow	276.0
+fiftyTwoWeekHigh	555.0
+priceToSalesTrailing12Months	13.126944
+fiftyDayAverage	398.81
+twoHundredDayAverage	408.615
+trailingAnnualDividendRate	7.0
+trailingAnnualDividendYield	0.020028612
+currency	TWD
+enterpriseValue	46958010368
+profitMargins	0.34185
+floatShares	111708238
+sharesOutstanding	162004000
+heldPercentInsiders	0.42277
+heldPercentInstitutions	0.11902001
+impliedSharesOutstanding	168192000
+bookValue	69.886
+priceToBook	4.9008384
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	4.732
+netIncomeToCommon	1444969984
+trailingEps	10.72
+forwardEps	12.42
+lastSplitFactor	2:1
+lastSplitDate	1634515200	 (2021-10-18 08:00:00)
+enterpriseToRevenue	11.109
+enterpriseToEbitda	53.16
+52WeekChange	0.240942
+SandP52WeekChange	0.26265144
+lastDividendValue	6.996605
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6531.TW
+underlyingSymbol	6531.TW
+shortName	AP MEMORY TECHNOLOGY CORPORATIO
+longName	AP Memory Technology Corporation
+firstTradeDateEpochUtc	1434070800	 (2015-06-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0a6dcb29-d5dc-303b-b981-66502ca33034
+messageBoardId	finmb_291940145
+gmtOffSetMilliseconds	28800000
+currentPrice	342.5
+targetHighPrice	580.0
+targetLowPrice	580.0
+targetMeanPrice	580.0
+targetMedianPrice	580.0
+recommendationMean	2.3
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	8864216064
+totalCashPerShare	54.716
+ebitda	883340032
+totalDebt	335856992
+quickRatio	8.714
+currentRatio	9.548
+totalRevenue	4226906880
+debtToEquity	2.966
+revenuePerShare	26.117
+returnOnAssets	0.04404
+returnOnEquity	0.12975
+freeCashflow	1504400128
+operatingCashflow	2043300992
+earningsGrowth	4.753
+revenueGrowth	0.409
+grossMargins	0.4152
+ebitdaMargins	0.20898001
+operatingMargins	0.24379998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   38608216.697416    26558301.678899    23460544.133755   62360451.361454
+Tax Rate For Calcs                                                   0.107482           0.207239           0.194414          0.132913
+Normalized EBITDA                                                1342956000.0       2397375000.0       2468831000.0       534437000.0
+Total Unusual Items                                               359207000.0        128153000.0        120673000.0       469184000.0
+Total Unusual Items Excluding Goodwill                            359207000.0        128153000.0        120673000.0       469184000.0
+Net Income From Continuing Operation Net Minority Interest       1444970000.0       1941696000.0       2025457000.0       806097000.0
+Reconciled Depreciation                                            81438000.0         74675000.0         73287000.0        60463000.0
+Reconciled Cost Of Revenue                                       2471901000.0       2873381000.0       3591607000.0      2523826000.0
+EBITDA                                                           1702163000.0       2525528000.0       2589504000.0      1003621000.0
+EBIT                                                             1620725000.0       2450853000.0       2516217000.0       943158000.0
+Net Interest Income                                               365516000.0        105269000.0          3006000.0         3545000.0
+Interest Expense                                                    1744000.0          1570000.0          1951000.0         2803000.0
+Interest Income                                                   367260000.0        106839000.0          4957000.0         6348000.0
+Normalized Income                                           1124371216.697416  1840101301.678899  1928244544.133755  399273451.361454
+Net Income From Continuing And Discontinued Operation            1444970000.0       1941696000.0       2025457000.0       811710000.0
+Total Expenses                                                   3345193000.0       3594893000.0       4247660000.0      3027665000.0
+Diluted Average Shares                                            163255000.0        162301000.0        150566000.0       149709000.0
+Basic Average Shares                                              161847000.0        160602000.0        148148000.0       147529000.0
+Diluted EPS                                                              8.85              11.96              13.45              5.42
+Basic EPS                                                                8.93              12.09              13.67               5.5
+Diluted NI Availto Com Stockholders                              1444970000.0       1941696000.0       2025457000.0       811710000.0
+Net Income Common Stockholders                                   1444970000.0       1941696000.0       2025457000.0       811710000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0               0.0
+Net Income                                                       1444970000.0       1941696000.0       2025457000.0       811710000.0
+Minority Interests                                                        NaN                NaN                0.0        -9273000.0
+Net Income Including Noncontrolling Interests                    1444970000.0       1941696000.0       2025457000.0       820983000.0
+Net Income Discontinuous Operations                                       NaN                NaN                0.0         5613000.0
+Net Income Continuous Operations                                 1444970000.0       1941696000.0       2025457000.0       815370000.0
+Tax Provision                                                     174011000.0        507587000.0        488809000.0       124985000.0
+Pretax Income                                                    1618981000.0       2449283000.0       2514266000.0       940355000.0
+Other Non Operating Income Expenses                                 3987000.0          9033000.0         23797000.0         2716000.0
+Special Income Charges                                            -28933000.0           692000.0           602000.0        -2228000.0
+Other Special Charges                                                     NaN           -54000.0                NaN          142000.0
+Write Off                                                          28933000.0          -638000.0          -602000.0         2086000.0
+Net Non Operating Interest Income Expense                         365516000.0        105269000.0          3006000.0         3545000.0
+Interest Expense Non Operating                                      1744000.0          1570000.0          1951000.0         2803000.0
+Interest Income Non Operating                                     367260000.0        106839000.0          4957000.0         6348000.0
+Operating Income                                                  881714000.0       1499882000.0       2369555000.0       521832000.0
+Operating Expense                                                 873292000.0        721512000.0        656053000.0       503839000.0
+Research And Development                                          583627000.0        462066000.0        359104000.0       313530000.0
+Selling General And Administration                                289665000.0        259446000.0        296949000.0       190309000.0
+Selling And Marketing Expense                                     124811000.0        126823000.0        115405000.0        86707000.0
+General And Administrative Expense                                164854000.0        132623000.0        181544000.0       103602000.0
+Gross Profit                                                     1755006000.0       2221394000.0       3025608000.0      1025671000.0
+Cost Of Revenue                                                  2471901000.0       2873381000.0       3591607000.0      2523826000.0
+Total Revenue                                                    4226907000.0       5094775000.0       6617215000.0      3549497000.0
+Operating Revenue                                                4226907000.0       5094775000.0       6617215000.0      3549497000.0

@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 1, Jiuzhou Road
+address2	Jiudou Li Hsinwu District
+city	Taoyuan
+zip	32741
+country	Taiwan
+phone	886 3 477 5141
+fax	886 3 477 8479
+website	https://www.gshank.info
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	G-SHANK Enterprise Co., Ltd., an investment holding company, engages in the production and sales of molds, stamping parts, fixtures and tools, automatic machines and electrical appliances, and mechanical components in Taiwan and internationally. The company offers precision progressive die and hardware products; and planer and milling or die machine. It also involved in the electroplating processing; international trade; and plastic hardware wholesale and import/export business. In addition, the company offers machining, assembly, post treatment process, and automotive camera solutions. It serves automotive, industrial, datacom and telecom, appliances, consumer electronics, and medical and life sciences sectors. G-SHANK Enterprise Co., Ltd. was incorporated in 1973 and is based in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ying-Shuo  Lin', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 3036000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yong-Bao  Lin', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 1528000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wen-Yin  Liao', 'title': 'CFO & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Fen  Liao', 'title': 'Chief Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shiu-Xian  Giu', 'title': 'Head of Audit Office', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ying-Zhi  Lin', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	77.0
+open	77.0
+dayLow	76.3
+dayHigh	80.2
+regularMarketPreviousClose	77.0
+regularMarketOpen	77.0
+regularMarketDayLow	76.3
+regularMarketDayHigh	80.2
+dividendRate	2.28
+dividendYield	0.0287
+exDividendDate	1691625600	 (2023-08-10 08:00:00)
+payoutRatio	0.52889997
+fiveYearAvgDividendYield	4.3
+beta	0.901
+trailingPE	18.418604
+volume	8197059
+regularMarketVolume	8197059
+averageVolume	3755541
+averageVolume10days	2992898
+averageDailyVolume10Day	2992898
+bid	79.2
+ask	79.3
+marketCap	16287796224
+fiftyTwoWeekLow	44.03228
+fiftyTwoWeekHigh	85.0
+priceToSalesTrailing12Months	2.8344753
+fiftyDayAverage	75.806
+twoHundredDayAverage	63.88879
+trailingAnnualDividendRate	2.5
+trailingAnnualDividendYield	0.032467533
+currency	TWD
+enterpriseValue	11948121088
+profitMargins	0.117469996
+floatShares	127829220
+sharesOutstanding	205654000
+heldPercentInsiders	0.36308998
+heldPercentInstitutions	0.02389
+impliedSharesOutstanding	205654000
+bookValue	31.795
+priceToBook	2.4909575
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.064
+netIncomeToCommon	675040000
+trailingEps	4.3
+lastSplitFactor	0.737:1
+lastSplitDate	1412726400	 (2014-10-08 08:00:00)
+enterpriseToRevenue	2.079
+enterpriseToEbitda	12.811
+52WeekChange	0.6024281
+SandP52WeekChange	0.26265144
+lastDividendValue	2.275826
+lastDividendDate	1691625600	 (2023-08-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2476.TW
+underlyingSymbol	2476.TW
+shortName	G SHANK ENTERPRISE CO
+longName	G-SHANK Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5b5ef54b-a8dd-30d6-b600-4e74e1e7be2d
+messageBoardId	finmb_9616635
+gmtOffSetMilliseconds	28800000
+currentPrice	79.2
+recommendationKey	none
+totalCash	5176712192
+totalCashPerShare	27.125
+ebitda	932664000
+totalDebt	1326382976
+quickRatio	2.882
+currentRatio	3.254
+totalRevenue	5746317824
+debtToEquity	19.646
+revenuePerShare	30.139
+returnOnAssets	0.04861
+returnOnEquity	0.11512999
+freeCashflow	431698496
+operatingCashflow	634299008
+earningsGrowth	-0.063
+revenueGrowth	-0.153
+grossMargins	0.28965
+ebitdaMargins	0.16231
+operatingMargins	0.15038
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    653160.046773     597113.878703   -1514833.765611   -1805748.521509
+Tax Rate For Calcs                                                  0.276763          0.251628          0.275174          0.330663
+Normalized EBITDA                                               1265765000.0      1535283000.0      1253003000.0       748281000.0
+Total Unusual Items                                                2360000.0         2373000.0        -5505000.0        -5461000.0
+Total Unusual Items Excluding Goodwill                             2360000.0         2373000.0        -5505000.0        -5461000.0
+Net Income From Continuing Operation Net Minority Interest       675040000.0       867603000.0       648364000.0       287441000.0
+Reconciled Depreciation                                          193284000.0       205597000.0       194130000.0       195253000.0
+Reconciled Cost Of Revenue                                      4081875000.0      4821562000.0      4524682000.0      3434436000.0
+EBITDA                                                          1268125000.0      1537656000.0      1247498000.0       742820000.0
+EBIT                                                            1074841000.0      1332059000.0      1053368000.0       547567000.0
+Net Interest Income                                              145438000.0        89448000.0        78035000.0        76460000.0
+Interest Expense                                                  21249000.0        17318000.0        14684000.0        14253000.0
+Interest Income                                                  166687000.0       106766000.0        92719000.0        90713000.0
+Normalized Income                                           673333160.046773  865827113.878703  652354166.234389  291096251.478491
+Net Income From Continuing And Discontinued Operation            675040000.0       867603000.0       648364000.0       287441000.0
+Total Expenses                                                  4990713000.0      5743339000.0      5411944000.0      4236885000.0
+Diluted Average Shares                                                   NaN       195242858.0       193435048.0       189608637.0
+Basic Average Shares                                                     NaN       191381412.0       188010688.0       186933070.0
+Diluted EPS                                                              NaN          4.442808          3.354369          1.513919
+Basic EPS                                                                NaN          4.531862          3.453318          1.533709
+Diluted NI Availto Com Stockholders                              675040000.0       867603000.0       648364000.0       287441000.0
+Net Income Common Stockholders                                   675040000.0       867603000.0       648364000.0       287441000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       675040000.0       867603000.0       648364000.0       287441000.0
+Minority Interests                                               -86957000.0      -116312000.0      -104501000.0       -69526000.0
+Net Income Including Noncontrolling Interests                    761997000.0       983915000.0       752865000.0       356967000.0
+Net Income Continuous Operations                                 761997000.0       983915000.0       752865000.0       356967000.0
+Tax Provision                                                    291595000.0       330826000.0       285819000.0       176347000.0
+Pretax Income                                                   1053592000.0      1314741000.0      1038684000.0       533314000.0
+Other Non Operating Income Expenses                              140202000.0       173996000.0       -47171000.0       -62107000.0
+Special Income Charges                                             2360000.0         2373000.0        -5505000.0        -5461000.0
+Write Off                                                         -2360000.0        -2373000.0         5505000.0         5461000.0
+Net Non Operating Interest Income Expense                        145438000.0        89448000.0        78035000.0        76460000.0
+Interest Expense Non Operating                                    21249000.0        17318000.0        14684000.0        14253000.0
+Interest Income Non Operating                                    166687000.0       106766000.0        92719000.0        90713000.0
+Operating Income                                                 755605000.0      1037691000.0      1008516000.0       542729000.0
+Operating Expense                                                908838000.0       921777000.0       887262000.0       802449000.0
+Other Operating Expenses                                           -383000.0         -383000.0        -1285000.0        -1479000.0
+Research And Development                                         171853000.0       194023000.0       185949000.0       166615000.0
+Selling General And Administration                               737368000.0       728137000.0       702598000.0       637313000.0
+Selling And Marketing Expense                                    255336000.0       270700000.0       268963000.0       224095000.0
+General And Administrative Expense                               482032000.0       457437000.0       433635000.0       413218000.0
+Gross Profit                                                    1664443000.0      1959468000.0      1895778000.0      1345178000.0
+Cost Of Revenue                                                 4081875000.0      4821562000.0      4524682000.0      3434436000.0
+Total Revenue                                                   5746318000.0      6781030000.0      6420460000.0      4779614000.0
+Operating Revenue                                               5746318000.0      6781030000.0      6420460000.0      4779614000.0

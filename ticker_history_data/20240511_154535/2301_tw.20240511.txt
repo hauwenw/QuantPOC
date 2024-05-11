@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	392 Ruey Kuang Road
+address2	22 Floor Neihu
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8798 2888
+fax	886 2 8798 2866
+website	https://www.liteon.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lite-On Technology Corporation, together with its subsidiaries, engages in the research, development design, manufacture, and sale modules and system solutions. The company offers optoelectronics products solutions; power module, magnetic components, cloud infrastructure power, human input, system, and image technical solutions, as well as enclosure and optical disc storage; wired, wireless, and radio access network solutions; connected video intelligence, Leotek outdoor lighting, smart connecting, and 5G total solutions, as well as intelligent communication modules; and automotive vision, vehicle lighting, EV charging, and electric vehicle power solutions, and vehicle motor control modules. It also provides LED optical, power control, and energy management products; medical equipment, mobile phone modules and assembly lines, phone chargers, energy-saving equipment, keyboards, power supplies, printers, display devices, scanners, transformers, mobile terminal equipment, modules of automotive recorders; and computer host and components. Further, the company produces, manufactures, sells, imports, and exports photovoltaic devices, telecommunications and information technology equipment, semiconductor applications, general lighting, and renewable energy products and systems; and wholesales, imports, exports, and installs street, signal, and scenery lights, as well as electronic components. Additionally, it offers information outsourcing and system integration, investment, electronic contract manufacturing, import and export, automotive industry maintenance, project construction and maintenance, energy technology, solar energy engineering, sales agent, technology consulting, maintenance equipment, real estate management, leasing, and ODM services; and market research, after-sales, and customer services. The company was founded in 1975 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Anson  Chiu', 'title': 'Director, GM, Business Group CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Michelle  Hsiao', 'title': 'Financial Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Julia  Wang', 'title': 'Senior Director of Investor Relations & Public Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. May  Chiu', 'title': 'Assistant Vice President of Legal & IP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lando  Lin', 'age': 64, 'title': 'Chief Audit Officer', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bo-Wen  Lin', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jean  Hong', 'title': 'VP of Finance Department, Corporate Governance Officer & Board Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	101.0
+open	101.5
+dayLow	101.0
+dayHigh	106.0
+regularMarketPreviousClose	101.0
+regularMarketOpen	101.5
+regularMarketDayLow	101.0
+regularMarketDayHigh	106.0
+dividendRate	10.02
+dividendYield	0.0955
+exDividendDate	1711497600	 (2024-03-27 08:00:00)
+payoutRatio	0.71519995
+fiveYearAvgDividendYield	6.6
+beta	0.527
+trailingPE	16.666666
+forwardPE	15.107914
+volume	42986041
+regularMarketVolume	42986041
+averageVolume	23005631
+averageVolume10days	16393292
+averageDailyVolume10Day	16393292
+bid	105.0
+ask	105.5
+marketCap	241556684800
+fiftyTwoWeekLow	75.3
+fiftyTwoWeekHigh	174.5
+priceToSalesTrailing12Months	1.6899736
+fiftyDayAverage	106.594
+twoHundredDayAverage	115.836
+trailingAnnualDividendRate	4.5
+trailingAnnualDividendYield	0.044554457
+currency	TWD
+enterpriseValue	182391128064
+profitMargins	0.102180004
+floatShares	1957347472
+sharesOutstanding	2300539904
+heldPercentInsiders	0.12753001
+heldPercentInstitutions	0.33844003
+impliedSharesOutstanding	2307510016
+bookValue	36.191
+priceToBook	2.9012737
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.015
+netIncomeToCommon	14605446144
+trailingEps	6.3
+forwardEps	6.95
+pegRatio	5.4
+lastSplitFactor	1004.991:1000
+lastSplitDate	1471996800	 (2016-08-24 08:00:00)
+enterpriseToRevenue	1.276
+enterpriseToEbitda	10.008
+52WeekChange	0.37434554
+SandP52WeekChange	0.26265144
+lastDividendValue	2.506049
+lastDividendDate	1711497600	 (2024-03-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2301.TW
+underlyingSymbol	2301.TW
+shortName	LITE-ON TECHNOLOGY CORP
+longName	Lite-On Technology Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ceda3c19-b57d-32ee-8caa-0b0de017d10e
+messageBoardId	finmb_881878
+gmtOffSetMilliseconds	28800000
+currentPrice	105.0
+targetHighPrice	159.0
+targetLowPrice	88.8
+targetMeanPrice	120.26
+targetMedianPrice	117.5
+recommendationMean	1.8
+recommendationKey	buy
+numberOfAnalystOpinions	9
+totalCash	84834836480
+totalCashPerShare	36.787
+ebitda	18224553984
+totalDebt	24366272512
+quickRatio	1.209
+currentRatio	1.603
+totalRevenue	142935179264
+debtToEquity	28.946
+revenuePerShare	62.414
+returnOnAssets	0.04937
+returnOnEquity	0.18106002
+freeCashflow	-1031313984
+operatingCashflow	21497440256
+earningsGrowth	0.01
+revenueGrowth	-0.158
+grossMargins	0.22453
+ebitdaMargins	0.1275
+operatingMargins	0.07752
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                    49816535.578262     -7144043.545175    258733520.449662   -357509576.873796
+Tax Rate For Calcs                                                    0.205109               0.205            0.209999            0.220023
+Normalized EBITDA                                                23980195000.0       23137748000.0       20759993000.0       18616456000.0
+Total Unusual Items                                                242878000.0         -34849000.0        1232068000.0       -1624871000.0
+Total Unusual Items Excluding Goodwill                             242878000.0         -34849000.0        1232068000.0       -1624871000.0
+Net Income From Continuing Operation Net Minority Interest       14570616000.0       14151016000.0       13886552000.0       10016038000.0
+Reconciled Depreciation                                           4355795000.0        4514366000.0        4137554000.0        4038290000.0
+Reconciled Cost Of Revenue                                      115665373000.0      140193784000.0      134330418000.0      129749924000.0
+EBITDA                                                           24223073000.0       23102899000.0       21992061000.0       16991585000.0
+EBIT                                                             19867278000.0       18588533000.0       17854507000.0       12953295000.0
+Net Interest Income                                               1352935000.0         478882000.0         507225000.0        1053062000.0
+Interest Expense                                                  1501499000.0         742744000.0         222260000.0         351374000.0
+Interest Income                                                   2854434000.0        1221626000.0         729485000.0        1404436000.0
+Normalized Income                                           14377554535.578262  14178720956.454824  12913217520.449661  11283399423.126204
+Net Income From Continuing And Discontinued Operation            14570616000.0       14151016000.0       13886552000.0       10016038000.0
+Total Expenses                                                  134060057000.0      158348507000.0      149929919000.0      145964738000.0
+Diluted Average Shares                                            2318054000.0        2320308000.0        2344498000.0        2356026000.0
+Basic Average Shares                                              2289246000.0        2285001000.0        2310790000.0        2323564000.0
+Diluted EPS                                                               6.29                 6.1                5.92                4.25
+Basic EPS                                                                 6.36                6.19                6.01                4.31
+Diluted NI Availto Com Stockholders                              14570616000.0       14151016000.0       13886552000.0       10016038000.0
+Net Income Common Stockholders                                   14570616000.0       14151016000.0       13886552000.0       10016038000.0
+Otherunder Preferred Stock Dividend                                        0.0                 0.0                 0.0                 0.0
+Net Income                                                       14570616000.0       14151016000.0       13886552000.0       10016038000.0
+Minority Interests                                                 -28171000.0         -36387000.0         -42934000.0         186834000.0
+Net Income Including Noncontrolling Interests                    14598787000.0       14187403000.0       13929486000.0        9829204000.0
+Net Income Continuous Operations                                 14598787000.0       14187403000.0       13929486000.0        9829204000.0
+Tax Provision                                                     3766992000.0        3658386000.0        3702761000.0        2772717000.0
+Pretax Income                                                    18365779000.0       17845789000.0       17632247000.0       12601921000.0
+Other Non Operating Income Expenses                               2495839000.0        2300156000.0         537908000.0         970603000.0
+Special Income Charges                                             242878000.0         -34849000.0       -3171367000.0       -3139912000.0
+Other Special Charges                                                      NaN         -15787000.0         126480000.0          -4242000.0
+Write Off                                                         -242878000.0          34849000.0        3044887000.0        3144154000.0
+Net Non Operating Interest Income Expense                         1352935000.0         478882000.0         507225000.0        1053062000.0
+Interest Expense Non Operating                                    1501499000.0         742744000.0         222260000.0         351374000.0
+Interest Income Non Operating                                     2854434000.0        1221626000.0         729485000.0        1404436000.0
+Operating Income                                                 14273398000.0       15107709000.0       14898028000.0       11168885000.0
+Operating Expense                                                18394684000.0       18154723000.0       15599501000.0       16214814000.0
+Research And Development                                          8125546000.0        7440789000.0        6113185000.0        5048883000.0
+Selling General And Administration                               10269138000.0       10713934000.0        9486316000.0       11165931000.0
+Selling And Marketing Expense                                     5760540000.0        6138249000.0        5001775000.0        5470913000.0
+General And Administrative Expense                                4508598000.0        4575685000.0        4484541000.0        5695018000.0
+Gross Profit                                                     32668082000.0       33262432000.0       30497529000.0       27383699000.0
+Cost Of Revenue                                                 115665373000.0      140193784000.0      134330418000.0      129749924000.0
+Total Revenue                                                   148333455000.0      173456216000.0      164827947000.0      157133623000.0
+Operating Revenue                                               148333455000.0      173456216000.0      164827947000.0      157133623000.0

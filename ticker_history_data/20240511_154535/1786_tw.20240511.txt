@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 1, South 1st Road
+address2	Qianzhen District
+city	Kaohsiung
+zip	806
+country	Taiwan
+phone	886 7 823 2258
+fax	886 7 823 2295
+website	https://www.scivision.com.tw
+industry	Medical Instruments & Supplies
+industryKey	medical-instruments-supplies
+industryDisp	Medical Instruments & Supplies
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	SciVision Biotech Inc. engages in the production and sale of hyaluronic acid medical products in Taiwan and internationally. The company offers synovial fluid supplements, facial dermal implants, absorbable adhesion barriers, and intravesical instillation products. It is also involved in the wholesale of medical equipment; and provides management consulting services. The company was founded in 1990 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Tai Xian  Han', 'title': 'General Manager and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ru Ling  Guo', 'title': 'VP, Financial Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	102.0
+open	102.5
+dayLow	96.6
+dayHigh	103.0
+regularMarketPreviousClose	102.0
+regularMarketOpen	102.5
+regularMarketDayLow	96.6
+regularMarketDayHigh	103.0
+dividendRate	1.98
+dividendYield	0.0201
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.7472
+beta	0.636
+trailingPE	37.207546
+forwardPE	14.738415
+volume	1413091
+regularMarketVolume	1413091
+averageVolume	1048319
+averageVolume10days	574571
+averageDailyVolume10Day	574571
+bid	98.5
+ask	98.7
+marketCap	6733245440
+fiftyTwoWeekLow	67.1
+fiftyTwoWeekHigh	119.0
+priceToSalesTrailing12Months	9.443701
+fiftyDayAverage	99.44
+twoHundredDayAverage	84.553
+trailingAnnualDividendRate	2.5
+trailingAnnualDividendYield	0.024509804
+currency	TWD
+enterpriseValue	6279117824
+profitMargins	0.24951
+sharesOutstanding	68288496
+heldPercentInsiders	0.34813
+heldPercentInstitutions	0.00509
+impliedSharesOutstanding	68288496
+bookValue	24.022
+priceToBook	4.104571
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.331
+netIncomeToCommon	177900000
+trailingEps	2.65
+forwardEps	6.69
+lastSplitFactor	1085:1000
+lastSplitDate	1633305600	 (2021-10-04 08:00:00)
+enterpriseToRevenue	8.807
+enterpriseToEbitda	24.019
+52WeekChange	0.3966006
+SandP52WeekChange	0.26265144
+lastDividendValue	1.980111
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1786.TW
+underlyingSymbol	1786.TW
+shortName	SCIVISION BIOTECH INC
+longName	SciVision Biotech Inc.
+firstTradeDateEpochUtc	1363050000	 (2013-03-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	965344d7-4d71-3cc5-8f10-baef6711f142
+messageBoardId	finmb_53509551
+gmtOffSetMilliseconds	28800000
+currentPrice	98.6
+targetHighPrice	146.0
+targetLowPrice	146.0
+targetMeanPrice	146.0
+targetMedianPrice	146.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	745001024
+totalCashPerShare	11.003
+ebitda	261418000
+totalDebt	347912992
+quickRatio	5.802
+currentRatio	6.924
+totalRevenue	712988032
+debtToEquity	21.39
+revenuePerShare	10.666
+returnOnAssets	0.0586
+returnOnEquity	0.113400005
+freeCashflow	189209248
+operatingCashflow	272012000
+earningsGrowth	0.571
+revenueGrowth	0.271
+grossMargins	0.71879995
+ebitdaMargins	0.36665002
+operatingMargins	0.30121002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0     -15810.434708    -312283.163265
+Tax Rate For Calcs                                             0.152845     0.183428          0.123519          0.160557
+Normalized EBITDA                                           281348000.0  242066000.0       177272000.0       177209000.0
+Total Unusual Items                                                 NaN    3782000.0         -128000.0        -1945000.0
+Total Unusual Items Excluding Goodwill                              NaN    3782000.0         -128000.0        -1945000.0
+Net Income From Continuing Operation Net Minority Interest  177900000.0  141716000.0       101720000.0       128005000.0
+Reconciled Depreciation                                      63131000.0   62058000.0        53023000.0        15309000.0
+Reconciled Cost Of Revenue                                  200494000.0  185481000.0       163703000.0       123604000.0
+EBITDA                                                      281348000.0  242066000.0       177144000.0       175264000.0
+EBIT                                                        218217000.0  180008000.0       124121000.0       159955000.0
+Net Interest Income                                           6677000.0   -1574000.0        -5435000.0        -5547000.0
+Interest Expense                                              8220000.0    6458000.0         8066000.0         7467000.0
+Interest Income                                              14897000.0    4884000.0         2631000.0         1920000.0
+Normalized Income                                           177900000.0  141716000.0  101832189.565292  129637716.836735
+Net Income From Continuing And Discontinued Operation       177900000.0  141716000.0       101720000.0       128005000.0
+Total Expenses                                              513350000.0  422737000.0       383597000.0       320244000.0
+Diluted Average Shares                                       76442000.0   74658000.0        70978000.0        70546000.0
+Basic Average Shares                                         66847000.0   66190000.0        66190000.0        66190000.0
+Diluted EPS                                                        2.41         1.92              1.51              1.89
+Basic EPS                                                          2.66         2.14              1.54              1.93
+Diluted NI Availto Com Stockholders                         177900000.0  141716000.0       101720000.0       128005000.0
+Net Income Common Stockholders                              177900000.0  141716000.0       101720000.0       128005000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0               0.0               0.0
+Net Income                                                  177900000.0  141716000.0       101720000.0       128005000.0
+Net Income Including Noncontrolling Interests               177900000.0  141716000.0       101720000.0       128005000.0
+Net Income Continuous Operations                            177900000.0  141716000.0       101720000.0       128005000.0
+Tax Provision                                                32097000.0   31834000.0        14335000.0        24483000.0
+Pretax Income                                               209997000.0  173550000.0       116055000.0       152488000.0
+Other Non Operating Income Expenses                           3682000.0   40513000.0         -324000.0        13343000.0
+Net Non Operating Interest Income Expense                     6677000.0   -1574000.0        -5435000.0        -5547000.0
+Interest Expense Non Operating                                8220000.0    6458000.0         8066000.0         7467000.0
+Interest Income Non Operating                                14897000.0    4884000.0         2631000.0         1920000.0
+Operating Income                                            199638000.0  134611000.0       121942000.0       146637000.0
+Operating Expense                                           312856000.0  237256000.0       219894000.0       196640000.0
+Research And Development                                     53415000.0   52460000.0        65942000.0        59775000.0
+Selling General And Administration                          259441000.0  184796000.0       153952000.0       136865000.0
+Selling And Marketing Expense                               176670000.0  110177000.0        94069000.0        83891000.0
+General And Administrative Expense                           82771000.0   74619000.0        59883000.0        52974000.0
+Gross Profit                                                512494000.0  371867000.0       341836000.0       343277000.0
+Cost Of Revenue                                             200494000.0  185481000.0       163703000.0       123604000.0
+Total Revenue                                               712988000.0  557348000.0       505539000.0       466881000.0
+Operating Revenue                                           712988000.0  557348000.0       505539000.0       466881000.0

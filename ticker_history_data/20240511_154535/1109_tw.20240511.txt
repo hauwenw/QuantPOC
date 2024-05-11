@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 37, Baoqing Road
+address2	7th Floor Zhongzheng District
+city	Taipei
+country	Taiwan
+phone	886 2 2381 6731
+fax	886 2 2331 4086
+website	https://www.hsingta.com.tw
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Hsing Ta Cement Co., Ltd. produces and sells cement and clinker products in Taiwan and China. The company offers Portland, low-alkali, hydraulic mixed cement, and dry-mixed cement sand, as well as building materials, special cement clinker, silicate cement clinker, mineral powder, and stones. It also engages in quarrying, processing, warehousing, and distributing of minerals; manufacturing, processing, warehousing, and distributing limestone chemicals, cement products, and limestone; recycling and wholesale of recycled materials; treatment and recycling of sewage; sale and leasing of real estate; and consultancy of building management. In addition, the company is involved in the research and development of environmental protection materials and material technology; provision of technology promotion services; development and service of energy conservation and environmental protection technology; manufacture of special equipment for environmental protection; promotion services of environmental protection technologies and energy conservation technologies; manufacture, processing, and wholesale of non-metallic ore and products; wholesale of chemical products; and sale of light building materials, building decoration materials, asbestos products, and ecological environment materials. Hsing Ta Cement Co., Ltd. was incorporated in 1964 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Da-Kuan  Yang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Suchiu  Tsai', 'title': 'Manager of Financial & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'ShuYen  Chou', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Baolin  Zhang', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Qingshou  Zhang', 'title': 'Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	19.85
+open	19.85
+dayLow	19.8
+dayHigh	20.25
+regularMarketPreviousClose	19.85
+regularMarketOpen	19.85
+regularMarketDayLow	19.8
+regularMarketDayHigh	20.25
+dividendRate	0.8
+dividendYield	0.0398
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.4124
+fiveYearAvgDividendYield	5.89
+beta	0.375
+trailingPE	10.438144
+forwardPE	16.071428
+volume	491752
+regularMarketVolume	491752
+averageVolume	622778
+averageVolume10days	869175
+averageDailyVolume10Day	869175
+bid	20.2
+ask	20.25
+marketCap	6908469760
+fiftyTwoWeekLow	17.0
+fiftyTwoWeekHigh	21.05
+priceToSalesTrailing12Months	1.1036134
+fiftyDayAverage	19.115
+twoHundredDayAverage	18.1785
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.0604534
+currency	TWD
+enterpriseValue	4190377472
+profitMargins	0.10957
+sharesOutstanding	341159008
+heldPercentInsiders	0.5694
+heldPercentInstitutions	0.00902
+impliedSharesOutstanding	347897984
+bookValue	23.794
+priceToBook	0.85105485
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.907
+netIncomeToCommon	685884032
+trailingEps	1.94
+forwardEps	1.26
+lastSplitFactor	950:1000
+lastSplitDate	1539216000	 (2018-10-11 08:00:00)
+enterpriseToRevenue	0.669
+enterpriseToEbitda	3.258
+52WeekChange	0.12188363
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1109.TW
+underlyingSymbol	1109.TW
+shortName	HSING TA CEMENT CO LTD
+longName	Hsing Ta Cement Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5844487c-9657-3f52-b9ef-ab31b99f10d9
+messageBoardId	finmb_9845439
+gmtOffSetMilliseconds	28800000
+currentPrice	20.25
+recommendationKey	none
+totalCash	4502383104
+totalCashPerShare	13.197
+ebitda	1286365056
+totalDebt	47833000
+quickRatio	4.062
+currentRatio	4.806
+totalRevenue	6259864064
+debtToEquity	0.479
+revenuePerShare	18.349
+returnOnAssets	0.053639997
+returnOnEquity	0.08218
+freeCashflow	517027136
+operatingCashflow	714732992
+earningsGrowth	0.91
+revenueGrowth	-0.046
+grossMargins	0.21423
+ebitdaMargins	0.20549
+operatingMargins	0.17875
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    149606.210947      -25200.0    -952058.302075    -4125888.51466
+Tax Rate For Calcs                                                  0.273503           0.2          0.340507          0.316063
+Normalized EBITDA                                               1420758000.0  1305720000.0      2156069000.0      2458157000.0
+Total Unusual Items                                                 547000.0     -126000.0        -2796000.0       -13054000.0
+Total Unusual Items Excluding Goodwill                              547000.0     -126000.0        -2796000.0       -13054000.0
+Net Income From Continuing Operation Net Minority Interest       685884000.0   399166000.0       862861000.0      1004034000.0
+Reconciled Depreciation                                          308398000.0   311970000.0       313924000.0       324512000.0
+Reconciled Cost Of Revenue                                      4918790000.0  5138589000.0      5175302000.0      4983512000.0
+EBITDA                                                          1421305000.0  1305594000.0      2153273000.0      2445103000.0
+EBIT                                                            1112907000.0   993624000.0      1839349000.0      2120591000.0
+Net Interest Income                                               49811000.0    40714000.0        19561000.0         7101000.0
+Interest Expense                                                   1289000.0      870000.0          375000.0         2160000.0
+Interest Income                                                   51100000.0    41584000.0        19936000.0         9261000.0
+Normalized Income                                           685486606.210947   399266800.0  864704941.697925  1012962111.48534
+Net Income From Continuing And Discontinued Operation            685884000.0   399166000.0       862861000.0      1004034000.0
+Total Expenses                                                  5271119000.0  5477073000.0      5617891000.0      5477881000.0
+Diluted Average Shares                                                   NaN   342720000.0       343244000.0       343462000.0
+Basic Average Shares                                                     NaN   341691000.0       341958000.0       341958000.0
+Diluted EPS                                                              NaN          1.16              2.51              2.92
+Basic EPS                                                                NaN          1.17              2.52              2.94
+Diluted NI Availto Com Stockholders                              685884000.0   399166000.0       862861000.0      1004034000.0
+Net Income Common Stockholders                                   685884000.0   399166000.0       862861000.0      1004034000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0               0.0
+Net Income                                                       685884000.0   399166000.0       862861000.0      1004034000.0
+Minority Interests                                              -121703000.0  -118572000.0      -349929000.0      -444839000.0
+Net Income Including Noncontrolling Interests                    807587000.0   517738000.0      1212790000.0      1448873000.0
+Net Income Continuous Operations                                 807587000.0   517738000.0      1212790000.0      1448873000.0
+Tax Provision                                                    304031000.0   475016000.0       626184000.0       669558000.0
+Pretax Income                                                   1111618000.0   992754000.0      1838974000.0      2118431000.0
+Other Non Operating Income Expenses                               72515000.0    40901000.0        61871000.0         8971000.0
+Special Income Charges                                              547000.0     -126000.0        -2796000.0       -13054000.0
+Write Off                                                          -547000.0      126000.0         2796000.0        13054000.0
+Net Non Operating Interest Income Expense                         49811000.0    40714000.0        19561000.0         7101000.0
+Interest Expense Non Operating                                     1289000.0      870000.0          375000.0         2160000.0
+Interest Income Non Operating                                     51100000.0    41584000.0        19936000.0         9261000.0
+Operating Income                                                 988745000.0   911265000.0      1760338000.0      2115413000.0
+Operating Expense                                                352329000.0   338484000.0       442589000.0       494369000.0
+Selling General And Administration                               352329000.0   338484000.0       442589000.0       494369000.0
+Selling And Marketing Expense                                    143827000.0   121029000.0       172624000.0       184119000.0
+General And Administrative Expense                               208502000.0   217455000.0       269965000.0       310250000.0
+Gross Profit                                                    1341074000.0  1249749000.0      2202927000.0      2609782000.0
+Cost Of Revenue                                                 4918790000.0  5138589000.0      5175302000.0      4983512000.0
+Total Revenue                                                   6259864000.0  6388338000.0      7378229000.0      7593294000.0
+Operating Revenue                                               6259864000.0  6388338000.0      7378229000.0      7593294000.0

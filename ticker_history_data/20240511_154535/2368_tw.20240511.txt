@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 113, Xiyuan Road
+address2	Zhongli Industrial Zone Zhongli District
+city	Taoyuan City
+country	Taiwan
+phone	886 3 461 2541
+fax	886 3 250 6349
+website	https://www.gce.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Gold Circuit Electronics Ltd. manufactures, processes, and trades multilayer printed circuit boards in Taiwan. The company was founded in 1970 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chen-Tse  Yang', 'age': 52, 'title': 'Chairman, Manager, President & CEO', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Chin  Yang', 'title': 'VP of Finance Department, Corporate Governance Officer and Head of Finance & Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chen-Jung  Yang', 'age': 51, 'title': 'Director of Legal Affairs & Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsi-Kuei  Huang', 'title': 'Sales President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Ching  Yang', 'age': 62, 'title': 'Special Assistant & Director', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin-Song  Cai', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Hung  Kuo', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Sung  Tsai', 'title': 'Factory Affairs President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Te-Ming  Yang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Chih  Lung', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	198.5
+open	202.0
+dayLow	188.5
+dayHigh	203.0
+regularMarketPreviousClose	198.5
+regularMarketOpen	202.0
+regularMarketDayLow	188.5
+regularMarketDayHigh	203.0
+dividendRate	3.5
+dividendYield	0.0153
+exDividendDate	1681344000	 (2023-04-13 08:00:00)
+payoutRatio	0.48479998
+beta	0.172
+trailingPE	26.731302
+forwardPE	12.115505
+volume	13041496
+regularMarketVolume	13041496
+averageVolume	9082807
+averageVolume10days	6465608
+averageDailyVolume10Day	6465608
+bid	193.0
+ask	193.5
+marketCap	93930782720
+fiftyTwoWeekLow	94.0
+fiftyTwoWeekHigh	284.0
+priceToSalesTrailing12Months	3.126446
+fiftyDayAverage	225.18
+twoHundredDayAverage	215.2425
+trailingAnnualDividendRate	3.5
+trailingAnnualDividendYield	0.017632242
+currency	TWD
+enterpriseValue	91347312640
+profitMargins	0.11745
+floatShares	290104983
+sharesOutstanding	486688000
+heldPercentInsiders	0.33969003
+heldPercentInstitutions	0.35998002
+impliedSharesOutstanding	487926016
+bookValue	34.583
+priceToBook	5.5807767
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.181
+netIncomeToCommon	3528591872
+trailingEps	7.22
+forwardEps	15.93
+pegRatio	0.43
+lastSplitFactor	900:1000
+lastSplitDate	1662508800	 (2022-09-07 08:00:00)
+enterpriseToRevenue	3.04
+enterpriseToEbitda	15.084
+52WeekChange	0.99586344
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1681344000	 (2023-04-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2368.TW
+underlyingSymbol	2368.TW
+shortName	GOLD CIRCUIT ELECTRONICS CO
+longName	Gold Circuit Electronics Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9d0a14aa-5cb9-317b-9b48-e9525bdb09d2
+messageBoardId	finmb_9845961
+gmtOffSetMilliseconds	28800000
+currentPrice	193.0
+targetHighPrice	308.0
+targetLowPrice	242.0
+targetMeanPrice	267.2
+targetMedianPrice	269.0
+recommendationMean	1.3
+recommendationKey	strong_buy
+numberOfAnalystOpinions	10
+totalCash	7743334912
+totalCashPerShare	15.91
+ebitda	6055936000
+totalDebt	5159860224
+quickRatio	1.774
+currentRatio	2.378
+totalRevenue	30043949056
+debtToEquity	30.657
+revenuePerShare	61.731
+returnOnAssets	0.10168
+returnOnEquity	0.22652
+freeCashflow	2610792960
+operatingCashflow	5317089792
+earningsGrowth	0.193
+revenueGrowth	0.007
+grossMargins	0.25708
+ebitdaMargins	0.20156999
+operatingMargins	0.1988
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   14402168.8725   -11270122.180857    13882140.670734   -15026661.432931
+Tax Rate For Calcs                                                 0.323753           0.284966           0.277055           0.233987
+Normalized EBITDA                                              6258303000.0       7392579000.0       4841592000.0       3660517000.0
+Total Unusual Items                                              44485000.0        -39549000.0         50106000.0        -64220000.0
+Total Unusual Items Excluding Goodwill                           44485000.0        -39549000.0         50106000.0        -64220000.0
+Net Income From Continuing Operation Net Minority Interest     3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Reconciled Depreciation                                         966905000.0        874382000.0        775716000.0        730447000.0
+Reconciled Cost Of Revenue                                    22320154000.0      24056976000.0      20236434000.0      18107743000.0
+EBITDA                                                         6302788000.0       7353030000.0       4891698000.0       3596297000.0
+EBIT                                                           5335883000.0       6478648000.0       4115982000.0       2865850000.0
+Net Interest Income                                              78493000.0        -27489000.0        -51079000.0       -146606000.0
+Interest Expense                                                117976000.0         90315000.0         67464000.0        167968000.0
+Interest Income                                                 196469000.0         62826000.0         16385000.0         21362000.0
+Normalized Income                                           3498509168.8725  4596153877.819143  2890630140.670734  2115805338.567069
+Net Income From Continuing And Discontinued Operation          3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Total Expenses                                                24952368000.0      26708803000.0      22535059000.0      20260185000.0
+Diluted Average Shares                                                  NaN        520156000.0        544285000.0        489667500.0
+Basic Average Shares                                                    NaN        515578000.0        540764000.0        486687600.0
+Diluted EPS                                                             NaN               8.78               5.38           4.222222
+Basic EPS                                                               NaN               8.86               5.41           4.244444
+Diluted NI Availto Com Stockholders                            3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Net Income Common Stockholders                                 3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Otherunder Preferred Stock Dividend                                     0.0                0.0                0.0                0.0
+Net Income                                                     3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Net Income Including Noncontrolling Interests                  3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Net Income Continuous Operations                               3528592000.0       4567875000.0       2926854000.0       2066612000.0
+Tax Provision                                                  1689315000.0       1820458000.0       1121664000.0        631270000.0
+Pretax Income                                                  5217907000.0       6388333000.0       4048518000.0       2697882000.0
+Other Non Operating Income Expenses                               3347000.0        379110000.0        -22924000.0       -229430000.0
+Special Income Charges                                           44485000.0        -39549000.0         50106000.0        -64220000.0
+Write Off                                                       -44485000.0         39549000.0        -50106000.0         64220000.0
+Net Non Operating Interest Income Expense                        78493000.0        -27489000.0        -51079000.0       -146606000.0
+Interest Expense Non Operating                                  117976000.0         90315000.0         67464000.0        167968000.0
+Interest Income Non Operating                                   196469000.0         62826000.0         16385000.0         21362000.0
+Operating Income                                               5091582000.0       6076261000.0       4072415000.0       3138138000.0
+Operating Expense                                              2632214000.0       2651827000.0       2298625000.0       2152442000.0
+Other Operating Expenses                                        -36852000.0        -13916000.0          2819000.0         44376000.0
+Research And Development                                        802580000.0        718228000.0        623220000.0        533478000.0
+Selling General And Administration                             1866486000.0       1947515000.0       1672586000.0       1574588000.0
+Selling And Marketing Expense                                   880142000.0        963997000.0        840157000.0        789095000.0
+General And Administrative Expense                              986344000.0        983518000.0        832429000.0        785493000.0
+Gross Profit                                                   7723796000.0       8728088000.0       6371040000.0       5290580000.0
+Cost Of Revenue                                               22320154000.0      24056976000.0      20236434000.0      18107743000.0
+Total Revenue                                                 30043950000.0      32785064000.0      26607474000.0      23398323000.0
+Operating Revenue                                             30043950000.0      32785064000.0      26607474000.0      23398323000.0

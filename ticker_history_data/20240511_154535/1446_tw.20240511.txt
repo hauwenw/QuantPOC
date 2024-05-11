@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 473, Zhongshan South Road
+address2	Yong-kang District
+city	Tainan City
+zip	710
+country	Taiwan
+phone	886 6 233 3133
+fax	886 6 233 2133
+website	https://www.hongho.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hong Ho Precision Textile Co., Ltd. operates as a vertical integrated fabric manufacturer company in Taiwan. The company operates through four segments: Plain Weaving, Trade, Construction, and Others. It engages in the production of textiles through preparation, weaving, outsourcing dyeing and finishing, and outsourcing of finished products; manufacturing and trading of garments; construction business; and leasing of residential and commercial buildings. The company was founded in 1967 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tian Ming He', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yong Lu Chen', 'title': 'Head of Finance Department & Head of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	48.5
+open	48.8
+dayLow	48.6
+dayHigh	53.3
+regularMarketPreviousClose	48.5
+regularMarketOpen	48.8
+regularMarketDayLow	48.6
+regularMarketDayHigh	53.3
+dividendRate	0.2
+dividendYield	0.0039
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	0.25
+fiveYearAvgDividendYield	0.89
+beta	0.551
+trailingPE	64.75
+volume	9976351
+regularMarketVolume	9976351
+averageVolume	1155461
+averageVolume10days	5871674
+averageDailyVolume10Day	5871674
+bid	51.7
+ask	51.8
+marketCap	7133378048
+fiftyTwoWeekLow	30.1
+fiftyTwoWeekHigh	53.3
+priceToSalesTrailing12Months	12.442792
+fiftyDayAverage	36.604
+twoHundredDayAverage	37.063
+trailingAnnualDividendRate	0.7
+trailingAnnualDividendYield	0.014432989
+currency	TWD
+enterpriseValue	9507365888
+profitMargins	0.19179001
+floatShares	129881187
+sharesOutstanding	137710000
+heldPercentInsiders	0.56094
+impliedSharesOutstanding	142059008
+bookValue	11.047
+priceToBook	4.689056
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	109953000
+trailingEps	0.8
+lastSplitFactor	1:1.615
+lastSplitDate	1198108800	 (2007-12-20 08:00:00)
+enterpriseToRevenue	16.584
+enterpriseToEbitda	64.958
+52WeekChange	0.70675457
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1446.TW
+underlyingSymbol	1446.TW
+shortName	HONG HO PRECISION TEXTILE CO
+longName	Hong Ho Precision Textile Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b36cf2f8-d795-30ae-8e0c-18f97fbd9d50
+messageBoardId	finmb_9845954
+gmtOffSetMilliseconds	28800000
+currentPrice	51.8
+recommendationKey	none
+totalCash	289012000
+totalCashPerShare	2.099
+ebitda	146362000
+totalDebt	2663000064
+quickRatio	0.097
+currentRatio	1.322
+totalRevenue	573294016
+debtToEquity	175.049
+revenuePerShare	4.163
+returnOnAssets	0.01954
+returnOnEquity	0.07424
+freeCashflow	471398880
+operatingCashflow	524239008
+revenueGrowth	9.422
+grossMargins	0.42031
+ebitdaMargins	0.25530002
+operatingMargins	0.37805
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                             0.169847          0.2          0.2          0.2
+Normalized EBITDA                                           167493000.0   -3652000.0    2482000.0   -1026000.0
+Net Income From Continuing Operation Net Minority Interest  109953000.0  -37806000.0  -17164000.0   -7438000.0
+Reconciled Depreciation                                      11402000.0   11435000.0    5783000.0    6648000.0
+Reconciled Cost Of Revenue                                  332333000.0  137389000.0  146467000.0  334603000.0
+EBITDA                                                      167493000.0   -3652000.0    2482000.0   -1026000.0
+EBIT                                                        156091000.0  -15087000.0   -3301000.0   -7674000.0
+Net Interest Income                                         -14253000.0   -3697000.0   -3120000.0   -2469000.0
+Interest Expense                                             23642000.0    7011000.0    3861000.0    5256000.0
+Interest Income                                               9389000.0    3314000.0     741000.0    2787000.0
+Normalized Income                                           109953000.0  -37806000.0  -17164000.0   -7438000.0
+Net Income From Continuing And Discontinued Operation       109953000.0  -37806000.0  -17164000.0   -7438000.0
+Total Expenses                                              427769000.0  196855000.0  205369000.0  487875000.0
+Diluted Average Shares                                              NaN  137710000.0  137710000.0  137710000.0
+Basic Average Shares                                                NaN  137710000.0  137710000.0  137710000.0
+Diluted EPS                                                         NaN        -0.27        -0.12        -0.05
+Basic EPS                                                           NaN        -0.27        -0.12        -0.05
+Diluted NI Availto Com Stockholders                         109953000.0  -37806000.0  -17164000.0   -7438000.0
+Net Income Common Stockholders                              109953000.0  -37806000.0  -17164000.0   -7438000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                  109953000.0  -37806000.0  -17164000.0   -7438000.0
+Net Income Including Noncontrolling Interests               109953000.0  -37806000.0  -17164000.0   -7438000.0
+Net Income Continuous Operations                            109953000.0  -37806000.0  -17164000.0   -7438000.0
+Tax Provision                                                22496000.0   15708000.0   10002000.0   -5492000.0
+Pretax Income                                               132449000.0  -22098000.0   -7162000.0  -12930000.0
+Other Non Operating Income Expenses                           1844000.0   17134000.0    2685000.0  -14602000.0
+Net Non Operating Interest Income Expense                   -14253000.0   -3697000.0   -3120000.0   -2469000.0
+Interest Expense Non Operating                               23642000.0    7011000.0    3861000.0    5256000.0
+Interest Income Non Operating                                 9389000.0    3314000.0     741000.0    2787000.0
+Operating Income                                            145525000.0  -41150000.0  -12143000.0    2682000.0
+Operating Expense                                            95436000.0   59466000.0   58902000.0  153272000.0
+Selling General And Administration                           95436000.0   59466000.0   58902000.0  153272000.0
+Selling And Marketing Expense                                45900000.0   19304000.0   20237000.0   35884000.0
+General And Administrative Expense                           49536000.0   40162000.0   38665000.0  117388000.0
+Gross Profit                                                240961000.0   18316000.0   46759000.0  155954000.0
+Cost Of Revenue                                             332333000.0  137389000.0  146467000.0  334603000.0
+Total Revenue                                               573294000.0  155705000.0  193226000.0  490557000.0
+Operating Revenue                                           573294000.0  155705000.0  193226000.0  490557000.0

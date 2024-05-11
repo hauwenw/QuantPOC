@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	Grand Pavilion
+address2	Hibiscus Way 802 West Bay Road PO Box 31119
+city	Grand Cayman
+zip	KY1-1205
+country	Cayman Islands
+website	https://www.ww-holding.com.tw
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	WW Holding Inc., together with its subsidiaries, engages in manufacturing and selling of sports equipment, clothing, and accessories; handbags; belts; suitcases; and leather accessories in Taiwan. The company operates in two segments, Sports Equipment Business and Luxury Bag business. The company offers sports equipment and accessories, including protective gear, helmets, teeth and wrist protectors, gloves, shock-proof pants, angle protectors, and ankle and knee protectors, as well as related medical aid devices; and bags, such as leather bags, backpacks, luggage, and commercial bags products. It also acts as an agent for selling tennis and badminton products under the PRINCE brand. The company was founded in 1998 and is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tang-Kai  Wang', 'title': 'Chief Accountant and Vice President of Finance & Accounting', 'fiscalYear': 2020, 'totalPay': 3029000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David B. Goldston', 'title': 'VP & General Counsel', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	125.5
+open	126.0
+dayLow	120.0
+dayHigh	126.5
+regularMarketPreviousClose	125.5
+regularMarketOpen	126.0
+regularMarketDayLow	120.0
+regularMarketDayHigh	126.5
+dividendRate	4.91
+dividendYield	0.0404
+exDividendDate	1692057600	 (2023-08-15 08:00:00)
+payoutRatio	0.5478
+beta	0.284
+trailingPE	13.54515
+forwardPE	12.789474
+volume	428816
+regularMarketVolume	428816
+averageVolume	388192
+averageVolume10days	222391
+averageDailyVolume10Day	222391
+bid	121.5
+ask	122.5
+marketCap	8026168320
+fiftyTwoWeekLow	72.18855
+fiftyTwoWeekHigh	135.0
+priceToSalesTrailing12Months	1.0132561
+fiftyDayAverage	121.07
+twoHundredDayAverage	99.613434
+trailingAnnualDividendRate	5.3
+trailingAnnualDividendYield	0.042231075
+currency	TWD
+enterpriseValue	7953187840
+profitMargins	0.07784
+sharesOutstanding	66059000
+heldPercentInsiders	0.63769
+heldPercentInstitutions	0.0019400001
+impliedSharesOutstanding	67731400
+bookValue	48.217
+priceToBook	2.5198581
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.161
+netIncomeToCommon	616566016
+trailingEps	8.97
+forwardEps	9.5
+enterpriseToRevenue	1.004
+enterpriseToEbitda	9.979
+52WeekChange	0.5069065
+SandP52WeekChange	0.26265144
+lastDividendValue	4.913792
+lastDividendDate	1692057600	 (2023-08-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8442.TW
+underlyingSymbol	8442.TW
+shortName	WW HOLDING INC
+longName	WW Holding Inc.
+firstTradeDateEpochUtc	1478653200	 (2016-11-09 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6465aa9d-431b-340f-baea-bd35c104b65d
+messageBoardId	finmb_5456332
+gmtOffSetMilliseconds	28800000
+currentPrice	121.5
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	1485538048
+totalCashPerShare	22.488
+ebitda	797016000
+totalDebt	1412605952
+quickRatio	1.714
+currentRatio	2.266
+totalRevenue	7921164800
+debtToEquity	44.35
+revenuePerShare	129.359
+returnOnAssets	0.06623
+returnOnEquity	0.22171
+freeCashflow	866613120
+operatingCashflow	1012947008
+earningsGrowth	-0.367
+revenueGrowth	-0.112
+grossMargins	0.20304
+ebitdaMargins	0.10062
+operatingMargins	0.102180004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    412373.965633   -3289623.367729    458559.586104    -231391.900328
+Tax Rate For Calcs                                                  0.020532          0.095835         0.110337          0.012762
+Normalized EBITDA                                                989225000.0      1061154000.0      335622000.0        92841000.0
+Total Unusual Items                                               20084000.0       -34326000.0        4156000.0       -18132000.0
+Total Unusual Items Excluding Goodwill                            20084000.0       -34326000.0        4156000.0       -18132000.0
+Net Income From Continuing Operation Net Minority Interest       616566000.0       636328000.0       75318000.0      -153406000.0
+Reconciled Depreciation                                          283288000.0       260106000.0      217516000.0       200100000.0
+Reconciled Cost Of Revenue                                      6312860000.0      6752485000.0     4624551000.0      3189489000.0
+EBITDA                                                          1009309000.0      1026828000.0      339778000.0        74709000.0
+EBIT                                                             726021000.0       766722000.0      122262000.0      -125391000.0
+Net Interest Income                                              -70022000.0       -56506000.0      -35809000.0       -25828000.0
+Interest Expense                                                  96530000.0        62948000.0       37603000.0        29998000.0
+Interest Income                                                   26508000.0         6442000.0        1794000.0         4170000.0
+Normalized Income                                           596894373.965633  667364376.632271  71620559.586104 -135505391.900328
+Net Income From Continuing And Discontinued Operation            616566000.0       636328000.0       75318000.0      -153406000.0
+Total Expenses                                                  7264197000.0      7812076000.0     5329330000.0      3837850000.0
+Diluted Average Shares                                                   NaN        62199000.0       60443217.0        60425089.0
+Basic Average Shares                                                     NaN        60426000.0       60425089.0        60425089.0
+Diluted EPS                                                              NaN             10.34         1.241206          -2.54199
+Basic EPS                                                                NaN             10.61         1.251136          -2.54199
+Diluted NI Availto Com Stockholders                              616566000.0       636328000.0       75318000.0      -153406000.0
+Net Income Common Stockholders                                   616566000.0       636328000.0       75318000.0      -153406000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0               0.0
+Net Income                                                       616566000.0       636328000.0       75318000.0      -153406000.0
+Net Income Including Noncontrolling Interests                    616566000.0       636328000.0       75318000.0      -153406000.0
+Net Income Continuous Operations                                 616566000.0       636328000.0       75318000.0      -153406000.0
+Tax Provision                                                     12925000.0        67446000.0        9341000.0        -1983000.0
+Pretax Income                                                    629491000.0       703774000.0       84659000.0      -155389000.0
+Other Non Operating Income Expenses                               22461000.0        67920000.0       33595000.0        13578000.0
+Special Income Charges                                            20084000.0       -34326000.0        4156000.0       -18904000.0
+Other Special Charges                                                    NaN          349000.0        1332000.0         2686000.0
+Write Off                                                        -20084000.0        34326000.0       -5488000.0        16218000.0
+Net Non Operating Interest Income Expense                        -70022000.0       -56506000.0      -35809000.0       -25828000.0
+Interest Expense Non Operating                                    96530000.0        62948000.0       37603000.0        29998000.0
+Interest Income Non Operating                                     26508000.0         6442000.0        1794000.0         4170000.0
+Operating Income                                                 656968000.0       726686000.0       70821000.0       -96197000.0
+Operating Expense                                                951337000.0      1059591000.0      704779000.0       648361000.0
+Research And Development                                         148079000.0       172355000.0      132340000.0       123518000.0
+Selling General And Administration                               803258000.0       887236000.0      572439000.0       524843000.0
+Selling And Marketing Expense                                    258738000.0       327297000.0      224086000.0       218184000.0
+General And Administrative Expense                               544520000.0       559939000.0      348353000.0       306659000.0
+Gross Profit                                                    1608305000.0      1786277000.0      775600000.0       552164000.0
+Cost Of Revenue                                                 6312860000.0      6752485000.0     4624551000.0      3189489000.0
+Total Revenue                                                   7921165000.0      8538762000.0     5400151000.0      3741653000.0
+Operating Revenue                                               7921165000.0      8538762000.0     5400151000.0      3741653000.0

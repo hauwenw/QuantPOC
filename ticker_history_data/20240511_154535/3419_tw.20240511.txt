@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 326, Gongdao 5th Road
+address2	Section 2 East District
+city	Hsinchu City
+zip	300042
+country	Taiwan
+phone	886 3 571 4225
+fax	886 3 571 3853
+website	https://www.whayu.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Wha Yu Industrial Co., Ltd. provides antenna products for wireless transmission industry in Taiwan. The company offers telecommunication BTS, in building coverage optimization, outdoor coverage optimization, GPS, automotive, Wi-Fi, LTE, walkie talkie, various embedded, maritime, mmWave active, handheld game console, small cell, and dispenser antennas, as well as electronic cables and BSD blind spot detection radars. It also provides electronic manufacturing services. The company was founded in 1981 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shi-Zhong  Chen', 'title': 'Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	16.6
+open	16.7
+dayLow	16.4
+dayHigh	16.7
+regularMarketPreviousClose	16.6
+regularMarketOpen	16.7
+regularMarketDayLow	16.4
+regularMarketDayHigh	16.7
+dividendRate	0.2
+dividendYield	0.012200001
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+beta	0.942
+forwardPE	30.943398
+volume	131565
+regularMarketVolume	131565
+averageVolume	357685
+averageVolume10days	249612
+averageDailyVolume10Day	249612
+bid	16.4
+ask	16.45
+marketCap	1975888384
+fiftyTwoWeekLow	15.65
+fiftyTwoWeekHigh	22.65
+priceToSalesTrailing12Months	1.4098464
+fiftyDayAverage	16.558
+twoHundredDayAverage	18.0
+currency	TWD
+enterpriseValue	1850995456
+profitMargins	-0.08567
+sharesOutstanding	120481000
+heldPercentInsiders	0.21052
+heldPercentInstitutions	0.012560001
+impliedSharesOutstanding	120481000
+bookValue	10.899
+priceToBook	1.5047251
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-120065000
+trailingEps	-1.0
+forwardEps	0.53
+lastSplitFactor	1.06665:1
+lastSplitDate	1378771200	 (2013-09-10 08:00:00)
+enterpriseToRevenue	1.321
+enterpriseToEbitda	-15.023
+52WeekChange	-0.17587942
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3419.TW
+underlyingSymbol	3419.TW
+shortName	WHA YU INDUSTRIAL CO. LTD
+longName	Wha Yu Industrial Co., Ltd.
+firstTradeDateEpochUtc	1200877200	 (2008-01-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fb14dacc-d533-34c9-9dbc-4bc0f0a701ea
+messageBoardId	finmb_20701021
+gmtOffSetMilliseconds	28800000
+currentPrice	16.4
+recommendationKey	none
+totalCash	521756000
+totalCashPerShare	4.331
+ebitda	-123212000
+totalDebt	380567008
+quickRatio	2.115
+currentRatio	2.639
+totalRevenue	1401491968
+debtToEquity	28.627
+revenuePerShare	11.632
+returnOnAssets	-0.053260002
+returnOnEquity	-0.08883
+freeCashflow	306422752
+operatingCashflow	177020000
+revenueGrowth	-0.437
+grossMargins	0.15793
+ebitdaMargins	-0.087910004
+operatingMargins	-0.16864
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -1903000.0      403600.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2           0.2           0.0           0.0
+Normalized EBITDA                                            -22431000.0   103741000.0     2170000.0    48389000.0
+Total Unusual Items                                           -9515000.0     2018000.0    10071000.0   -17622000.0
+Total Unusual Items Excluding Goodwill                        -9515000.0     2018000.0    10071000.0   -17622000.0
+Net Income From Continuing Operation Net Minority Interest  -120065000.0    33428000.0   -39813000.0   -32958000.0
+Reconciled Depreciation                                       77504000.0    73161000.0    49618000.0    59185000.0
+Reconciled Cost Of Revenue                                  1180151000.0  1600946000.0  1304257000.0  1136023000.0
+EBITDA                                                       -31946000.0   105759000.0    12241000.0    30767000.0
+EBIT                                                        -109450000.0    32598000.0   -37377000.0   -28418000.0
+Net Interest Income                                           -5089000.0    -5811000.0      602000.0    -3506000.0
+Interest Expense                                              13154000.0     7609000.0     2968000.0     5864000.0
+Interest Income                                                8065000.0     1798000.0     3570000.0     2358000.0
+Normalized Income                                           -112453000.0    31813600.0   -49884000.0   -15336000.0
+Net Income From Continuing And Discontinued Operation       -120065000.0    33428000.0   -39813000.0    73850000.0
+Total Expenses                                              1586748000.0  1975643000.0  1645082000.0  1456484000.0
+Diluted Average Shares                                               NaN   120481000.0   120481000.0   120902000.0
+Basic Average Shares                                                 NaN   120481000.0   120481000.0   120481000.0
+Diluted EPS                                                          NaN          0.28         -0.33          0.61
+Basic EPS                                                            NaN          0.28         -0.33          0.61
+Diluted NI Availto Com Stockholders                         -120065000.0    33428000.0   -39813000.0    73850000.0
+Net Income Common Stockholders                              -120065000.0    33428000.0   -39813000.0    73850000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -120065000.0    33428000.0   -39813000.0    73850000.0
+Minority Interests                                             5679000.0     3252000.0      532000.0     1324000.0
+Net Income Including Noncontrolling Interests               -125744000.0    30176000.0   -40345000.0    72526000.0
+Net Income Discontinuous Operations                                  NaN           NaN           0.0   106808000.0
+Net Income Continuous Operations                            -125744000.0    30176000.0   -40345000.0   -34282000.0
+Tax Provision                                                  3140000.0    -5187000.0           0.0           0.0
+Pretax Income                                               -122604000.0    24989000.0   -40345000.0   -34282000.0
+Other Non Operating Income Expenses                           77256000.0    17557000.0    11314000.0    23480000.0
+Special Income Charges                                        -9515000.0     2018000.0    10071000.0   -17622000.0
+Write Off                                                      9515000.0    -2018000.0   -10071000.0    17622000.0
+Net Non Operating Interest Income Expense                     -5089000.0    -5811000.0      602000.0    -3506000.0
+Interest Expense Non Operating                                13154000.0     7609000.0     2968000.0     5864000.0
+Interest Income Non Operating                                  8065000.0     1798000.0     3570000.0     2358000.0
+Operating Income                                            -185256000.0     5514000.0   -64549000.0   -29517000.0
+Operating Expense                                            406597000.0   374697000.0   340825000.0   320461000.0
+Other Operating Expenses                                         51000.0      -93000.0     -343000.0     -352000.0
+Research And Development                                     128721000.0   118813000.0    93961000.0    79430000.0
+Selling General And Administration                           277825000.0   255977000.0   247207000.0   241383000.0
+Selling And Marketing Expense                                130677000.0   143935000.0   117524000.0   112270000.0
+General And Administrative Expense                           147148000.0   112042000.0   129683000.0   129113000.0
+Gross Profit                                                 221341000.0   380211000.0   276276000.0   290944000.0
+Cost Of Revenue                                             1180151000.0  1600946000.0  1304257000.0  1136023000.0
+Total Revenue                                               1401492000.0  1981157000.0  1580533000.0  1426967000.0
+Operating Revenue                                           1401492000.0  1981157000.0  1580533000.0  1426967000.0

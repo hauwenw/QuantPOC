@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 6 Industry East Road 3
+address2	Science-based Industrial Park
+city	Hsinchu City
+country	Taiwan
+phone	886 3 577 2155
+fax	886 3 577 2598
+website	https://microtek.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Microtek International, Inc. designs, manufactures, and sells smart scanners and computer information peripherals in China and Taiwan. The company operates in two segments, Image Scanner and Optoelectronics. It offers NDT/RT film digitizers, line cameras, industrial inspections, and NTR inspecting software; software products, including digital archiving, document management, artworks management, bill management, and inspecting data management; X-ray films and application software; and gel electrophoresis and herbarium specimen. The company also provides scanners, such as hi-speed flatbed, ADF, advanced imaging, large-scale artworks, object, fingerprint gels, and multispectral and anti-counterfeiting scanners; and entry-level and document cameras, as well as optical source devices, light instruments, and light source manufacturing systems. Microtek International, Inc. was incorporated in 1980 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsieh  Ching-Hui', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lin  Po-Tsung', 'title': 'GM of Business & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	21.95
+open	22.2
+dayLow	21.8
+dayHigh	22.25
+regularMarketPreviousClose	21.95
+regularMarketOpen	22.2
+regularMarketDayLow	21.8
+regularMarketDayHigh	22.25
+exDividendDate	768096000	 (1994-05-05 08:00:00)
+beta	0.652
+trailingPE	104.52382
+volume	356466
+regularMarketVolume	356466
+averageVolume	1429188
+averageVolume10days	403465
+averageDailyVolume10Day	403465
+bid	21.95
+ask	22.0
+marketCap	4449836032
+fiftyTwoWeekLow	19.65
+fiftyTwoWeekHigh	30.5
+priceToSalesTrailing12Months	7.7266574
+fiftyDayAverage	24.132
+twoHundredDayAverage	22.86075
+currency	TWD
+enterpriseValue	3733459712
+profitMargins	0.01181
+sharesOutstanding	202726000
+heldPercentInsiders	0.7314
+impliedSharesOutstanding	206403008
+bookValue	10.724
+priceToBook	2.0468109
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	6801000
+trailingEps	0.21
+lastSplitFactor	1:2.2075
+lastSplitDate	1038528000	 (2002-11-29 08:00:00)
+enterpriseToRevenue	6.483
+enterpriseToEbitda	-34.55
+52WeekChange	0.032941222
+SandP52WeekChange	0.26265144
+lastDividendValue	1.10375
+lastDividendDate	768096000	 (1994-05-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2305.TW
+underlyingSymbol	2305.TW
+shortName	MICROTEK INTERNATIONAL INC
+longName	Microtek International, Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	75748b16-08c5-3304-9103-a61fd1fc78e3
+messageBoardId	finmb_7984966
+gmtOffSetMilliseconds	28800000
+currentPrice	21.95
+recommendationKey	none
+totalCash	1041984000
+totalCashPerShare	5.14
+ebitda	-108059000
+totalDebt	269465984
+quickRatio	4.353
+currentRatio	5.468
+totalRevenue	575907008
+debtToEquity	12.083
+revenuePerShare	2.841
+returnOnAssets	-0.0299
+returnOnEquity	0.009980001
+freeCashflow	-100993000
+operatingCashflow	126891000
+revenueGrowth	0.111
+grossMargins	0.305
+ebitdaMargins	-0.18763
+operatingMargins	-0.17989
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   -184000.0    -617600.0      -6200.0    -103400.0
+Tax Rate For Calcs                                                  0.2          0.2          0.2          0.2
+Normalized EBITDA                                            92546000.0   91446000.0  100532000.0  117921000.0
+Total Unusual Items                                           -920000.0   -3088000.0     -31000.0    -517000.0
+Total Unusual Items Excluding Goodwill                        -920000.0   -3088000.0     -31000.0    -517000.0
+Net Income From Continuing Operation Net Minority Interest    6801000.0   12419000.0   13172000.0   16667000.0
+Reconciled Depreciation                                      47242000.0   51121000.0   50977000.0   52598000.0
+Reconciled Cost Of Revenue                                  400257000.0  402426000.0  421519000.0  392046000.0
+EBITDA                                                       91626000.0   88358000.0  100501000.0  117404000.0
+EBIT                                                         44384000.0   37237000.0   49524000.0   64806000.0
+Net Interest Income                                          20934000.0    8685000.0   10037000.0   16784000.0
+Interest Expense                                              4932000.0    4681000.0    4286000.0    5269000.0
+Interest Income                                              25866000.0   13366000.0   14323000.0   22053000.0
+Normalized Income                                             7537000.0   14889400.0   13196800.0   17080600.0
+Net Income From Continuing And Discontinued Operation         6801000.0   12419000.0   13172000.0   16667000.0
+Total Expenses                                              676044000.0  659161000.0  689172000.0  649861000.0
+Diluted Average Shares                                      202726000.0  202726000.0  202726000.0  202726000.0
+Basic Average Shares                                        202726000.0  202726000.0  202726000.0  202726000.0
+Diluted EPS                                                        0.03         0.06         0.06         0.08
+Basic EPS                                                          0.03         0.06         0.06         0.08
+Diluted NI Availto Com Stockholders                           6801000.0   12419000.0   13172000.0   16667000.0
+Net Income Common Stockholders                                6801000.0   12419000.0   13172000.0   16667000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                    6801000.0   12419000.0   13172000.0   16667000.0
+Minority Interests                                          -15466000.0   -6395000.0   -6833000.0   -4912000.0
+Net Income Including Noncontrolling Interests                22267000.0   18814000.0   20005000.0   21579000.0
+Net Income Continuous Operations                             22267000.0   18814000.0   20005000.0   21579000.0
+Tax Provision                                                17185000.0   13742000.0   25233000.0   37958000.0
+Pretax Income                                                39452000.0   32556000.0   45238000.0   59537000.0
+Other Non Operating Income Expenses                         119575000.0  131211000.0   98181000.0  110697000.0
+Special Income Charges                                        -920000.0   -3088000.0     -31000.0    -517000.0
+Write Off                                                      920000.0    3088000.0      31000.0     517000.0
+Net Non Operating Interest Income Expense                    20934000.0    8685000.0   10037000.0   16784000.0
+Interest Expense Non Operating                                4932000.0    4681000.0    4286000.0    5269000.0
+Interest Income Non Operating                                25866000.0   13366000.0   14323000.0   22053000.0
+Operating Income                                           -100137000.0 -104252000.0  -62949000.0  -67427000.0
+Operating Expense                                           275787000.0  256735000.0  267653000.0  257815000.0
+Research And Development                                     87519000.0   85452000.0   92806000.0   87251000.0
+Selling General And Administration                          188268000.0  171283000.0  174847000.0  170564000.0
+Selling And Marketing Expense                                94766000.0   83530000.0   91151000.0   81905000.0
+General And Administrative Expense                           93502000.0   87753000.0   83696000.0   88659000.0
+Gross Profit                                                175650000.0  152483000.0  204704000.0  190388000.0
+Cost Of Revenue                                             400257000.0  402426000.0  421519000.0  392046000.0
+Total Revenue                                               575907000.0  554909000.0  626223000.0  582434000.0
+Operating Revenue                                           575907000.0  554909000.0  626223000.0  582434000.0

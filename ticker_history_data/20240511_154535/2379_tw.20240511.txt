@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	No. 2, Innovation Road II
+address2	Hsinchu Science Park
+city	Hsinchu
+zip	300
+country	Taiwan
+phone	886 3 578 0211
+website	https://www.realtek.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Realtek Semiconductor Corp., together with its subsidiaries, engages in the research, development, production, and sale of various integrated circuits and related application software in Taiwan, Asia, and internationally. It provides communications network ICs, including broadband access controllers, gateway controllers, digital home centers, gigabit ethernet, switch controllers, wireless LAN ICs, and DTV demodulators, as well as Bluetooth, GNSS, and Internet of Things products. The company also offers computer peripheral ICs, such as PC audio codecs, consumer audio codecs, card reader solutions, class-D audio amplifiers, PC camera controllers, type-C PD controllers, and USB hubs; and multimedia ICs. In addition, it engages in the manufacture and installation of computer equipment; wholesale, retail, and related service of electronic materials and information/software; and provision of information and technical support services. The company was incorporated in 1987 and is headquartered in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mu Guang  Fan', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Jong  Chern', 'title': 'Vice CEO, CFO & Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuang-Yu  Yen', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Fang  Huang', 'title': 'COO, VP & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Shun  Weng', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shang-Ta  Lee', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jia-Ching  Shen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chu-Ting  Su', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jr-Neng  Chang', 'title': 'VP & Controller', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yee-Wei  Huang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	532.0
+open	532.0
+dayLow	516.0
+dayHigh	532.0
+regularMarketPreviousClose	532.0
+regularMarketOpen	532.0
+regularMarketDayLow	516.0
+regularMarketDayHigh	532.0
+dividendRate	27.0
+dividendYield	0.052199997
+exDividendDate	1694390400	 (2023-09-11 08:00:00)
+payoutRatio	1.535
+fiveYearAvgDividendYield	4.2
+beta	1.049
+trailingPE	29.408419
+forwardPE	15.520864
+volume	4037833
+regularMarketVolume	4037833
+averageVolume	4645624
+averageVolume10days	3337896
+averageDailyVolume10Day	3337896
+bid	516.0
+ask	519.0
+marketCap	265150169088
+fiftyTwoWeekLow	364.5
+fiftyTwoWeekHigh	620.0
+priceToSalesTrailing12Months	2.7857974
+fiftyDayAverage	560.46
+twoHundredDayAverage	467.3825
+currency	TWD
+enterpriseValue	229594972160
+profitMargins	0.09616
+floatShares	461761331
+sharesOutstanding	512863008
+heldPercentInsiders	0.061550003
+heldPercentInstitutions	0.48111
+impliedSharesOutstanding	519888992
+bookValue	82.339
+priceToBook	6.27892
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.022
+netIncomeToCommon	9152772096
+trailingEps	17.58
+forwardEps	33.31
+pegRatio	0.54
+lastSplitFactor	1.01:1
+lastSplitDate	1376524800	 (2013-08-15 08:00:00)
+enterpriseToRevenue	2.412
+enterpriseToEbitda	27.26
+52WeekChange	0.40489125
+SandP52WeekChange	0.26265144
+lastDividendValue	27.0
+lastDividendDate	1694390400	 (2023-09-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2379.TW
+underlyingSymbol	2379.TW
+shortName	REALTEK SEMICONDUCTOR CORP
+longName	Realtek Semiconductor Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	69ceece9-f5e1-32e8-b602-fffa28c0487d
+messageBoardId	finmb_3051243
+gmtOffSetMilliseconds	28800000
+currentPrice	517.0
+targetHighPrice	707.0
+targetLowPrice	511.0
+targetMeanPrice	593.0
+targetMedianPrice	593.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	13
+totalCash	43590316032
+totalCashPerShare	84.994
+ebitda	8422300160
+totalDebt	8025415168
+quickRatio	1.232
+currentRatio	1.498
+totalRevenue	95179276288
+debtToEquity	19.0
+revenuePerShare	185.584
+returnOnAssets	0.04009
+returnOnEquity	0.20568001
+freeCashflow	9411291136
+operatingCashflow	17896286208
+earningsGrowth	0.05
+revenueGrowth	0.038
+grossMargins	0.42812002
+ebitdaMargins	0.08849
+operatingMargins	0.051209997
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -1045475.054101      1417246.575864      -137606.833838     -947285.137949
+Tax Rate For Calcs                                                   0.041049            0.042413            0.041077           0.060134
+Normalized EBITDA                                               12842405000.0       19910516000.0       19985583000.0      11509727000.0
+Total Unusual Items                                               -25469000.0          33415000.0          -3350000.0        -15753000.0
+Total Unusual Items Excluding Goodwill                            -25469000.0          33415000.0          -3350000.0        -15753000.0
+Net Income From Continuing Operation Net Minority Interest       9152772000.0       16204052000.0       16852759000.0       8793477000.0
+Reconciled Depreciation                                          3024842000.0        2804329000.0        2300871000.0       1983933000.0
+Reconciled Cost Of Revenue                                      54431219000.0       57154955000.0       52315883000.0      44510731000.0
+EBITDA                                                          12816936000.0       19943931000.0       19982233000.0      11493974000.0
+EBIT                                                             9792094000.0       17139602000.0       17681362000.0       9510041000.0
+Net Interest Income                                              2334502000.0         732933000.0         219759000.0        679925000.0
+Interest Expense                                                  247459000.0         217743000.0         106640000.0        153896000.0
+Interest Income                                                  2581961000.0         950676000.0         326399000.0        833821000.0
+Normalized Income                                           9177195524.945898  16172054246.575865  16855971393.166162  8808282714.862051
+Net Income From Continuing And Discontinued Operation            9152772000.0       16204052000.0       16852759000.0       8793477000.0
+Total Expenses                                                  88498815000.0       96099208000.0       88176040000.0      69104154000.0
+Diluted Average Shares                                            520424000.0         531585000.0         520410000.0        519544000.0
+Basic Average Shares                                              512863000.0         512410000.0         510684000.0        510126000.0
+Diluted EPS                                                             17.59               30.48               32.38              16.93
+Basic EPS                                                               17.85               31.62                33.0              17.24
+Diluted NI Availto Com Stockholders                              9152772000.0       16204052000.0       16852759000.0       8793477000.0
+Net Income Common Stockholders                                   9152772000.0       16204052000.0       16852759000.0       8793477000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                 0.0                0.0
+Net Income                                                       9152772000.0       16204052000.0       16852759000.0       8793477000.0
+Minority Interests                                                   -66000.0            -92000.0            -52000.0           -49000.0
+Net Income Including Noncontrolling Interests                    9152838000.0       16204144000.0       16852811000.0       8793526000.0
+Net Income Continuous Operations                                 9152838000.0       16204144000.0       16852811000.0       8793526000.0
+Tax Provision                                                     391797000.0         717715000.0         721911000.0        562619000.0
+Pretax Income                                                    9544635000.0       16921859000.0       17574722000.0       9356145000.0
+Other Non Operating Income Expenses                               602330000.0         485651000.0          42180000.0         67637000.0
+Special Income Charges                                            -25469000.0          33415000.0          -3350000.0        -15753000.0
+Write Off                                                          25469000.0         -33415000.0           3350000.0         15753000.0
+Net Non Operating Interest Income Expense                        2334502000.0         732933000.0         219759000.0        679925000.0
+Interest Expense Non Operating                                    247459000.0         217743000.0         106640000.0        153896000.0
+Interest Income Non Operating                                    2581961000.0         950676000.0         326399000.0        833821000.0
+Operating Income                                                 6680461000.0       15690583000.0       17328246000.0       8655316000.0
+Operating Expense                                               34067596000.0       38944253000.0       35860157000.0      24593423000.0
+Research And Development                                        26434295000.0       30081533000.0       27949765000.0      19054888000.0
+Selling General And Administration                               7633301000.0        8862720000.0        7910392000.0       5538535000.0
+Selling And Marketing Expense                                    3864715000.0        4724569000.0        4477084000.0       3434253000.0
+General And Administrative Expense                               3768586000.0        4138151000.0        3433308000.0       2104282000.0
+Gross Profit                                                    40748057000.0       54634836000.0       53188403000.0      33248739000.0
+Cost Of Revenue                                                 54431219000.0       57154955000.0       52315883000.0      44510731000.0
+Total Revenue                                                   95179276000.0      111789791000.0      105504286000.0      77759470000.0
+Operating Revenue                                               95179276000.0      111789791000.0      105504286000.0      77759470000.0

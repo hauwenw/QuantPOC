@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 121, Songjiang Road
+address2	8-14 Floors Zhongshan District
+city	Taipei
+zip	10485
+country	Taiwan
+phone	886 2 2506 2121
+fax	886 2 2504 1749
+website	https://pressroom.hotaimotor.com.tw
+industry	Auto & Truck Dealerships
+industryKey	auto-truck-dealerships
+industryDisp	Auto & Truck Dealerships
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hotai Motor Co., Ltd., together with its subsidiaries, exports and imports, trades, and sells vehicles, automobile air conditioners, and related parts in Taiwan and Mainland China. It is also involved in the installment sales and vehicle leasing, used vehicles selling, property and casualty insurance, trading of vehicle products/accessories, solar power, energy storage, and vehicle repairing activities, electronic parts and components manufacturing, as well as property management business. The company also provides e-commerce platform, decision making, capital using and financial management, information, taxi, employee training, consulting, factoring, freight forwarding, transportation and storage, and other services; and designs and produces advertisement. It provides products under the TOYOTA, LEXUS, and HINO brands. Hotai Motor Co., Ltd. was incorporated in 1947 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chwen-Shing  Su', 'age': 57, 'title': 'President & Director', 'yearBorn': 1966, 'fiscalYear': 2019, 'totalPay': 40463000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kazuo  Naganuma', 'age': 57, 'title': 'Executive VP & Director', 'yearBorn': 1966, 'fiscalYear': 2019, 'totalPay': 20232000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun-Chien  Yu', 'title': 'Financial Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ting-Ju  Chen', 'title': 'Chief Accounting Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chuan-Hung  Liu', 'title': 'Chief Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sung-Shan  Liu', 'title': 'Chief Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan-Sheng  Liu', 'age': 63, 'title': 'Executive Vice President', 'yearBorn': 1960, 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pin-Tsung  Wu', 'title': 'Chief Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Hao  Wang', 'title': 'Chief Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Lun  Weng', 'title': 'Chief Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	609.0
+open	609.0
+dayLow	607.0
+dayHigh	614.0
+regularMarketPreviousClose	609.0
+regularMarketOpen	609.0
+regularMarketDayLow	607.0
+regularMarketDayHigh	614.0
+dividendRate	2.0
+dividendYield	0.0033000002
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	0.048800003
+fiveYearAvgDividendYield	2.25
+beta	0.838
+trailingPE	14.926829
+forwardPE	13.074129
+volume	131315
+regularMarketVolume	131315
+averageVolume	274208
+averageVolume10days	248592
+averageDailyVolume10Day	248592
+bid	610.0
+ask	613.0
+marketCap	340947009536
+fiftyTwoWeekLow	585.0
+fiftyTwoWeekHigh	867.64703
+priceToSalesTrailing12Months	1.22388
+fiftyDayAverage	637.14
+twoHundredDayAverage	661.63586
+trailingAnnualDividendRate	20.0
+trailingAnnualDividendYield	0.03284072
+currency	TWD
+enterpriseValue	650588192768
+profitMargins	0.082049996
+floatShares	252439977
+sharesOutstanding	557102976
+heldPercentInsiders	0.48527
+heldPercentInstitutions	0.0704
+impliedSharesOutstanding	563412992
+bookValue	118.877
+priceToBook	5.1481786
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	22857674752
+trailingEps	41.0
+forwardEps	46.81
+pegRatio	1.71
+lastSplitFactor	1020:1000
+lastSplitDate	1691107200	 (2023-08-04 08:00:00)
+enterpriseToRevenue	2.335
+enterpriseToEbitda	13.754
+52WeekChange	-0.11455321
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2207.TW
+underlyingSymbol	2207.TW
+shortName	HOTAI MOTOR CO
+longName	Hotai Motor Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a672cc73-356f-3225-a184-82cc47c8b7d4
+messageBoardId	finmb_9849122
+gmtOffSetMilliseconds	28800000
+currentPrice	612.0
+recommendationMean	1.5
+recommendationKey	strong_buy
+totalCash	33274558464
+totalCashPerShare	59.728
+ebitda	47300681728
+totalDebt	308704018432
+quickRatio	0.95
+currentRatio	1.039
+totalRevenue	278578790400
+debtToEquity	307.357
+revenuePerShare	500.049
+returnOnAssets	0.04875
+returnOnEquity	0.3074
+freeCashflow	-51125850112
+operatingCashflow	-19170904064
+revenueGrowth	0.045
+grossMargins	0.20531
+ebitdaMargins	0.16979
+operatingMargins	0.10973
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31      2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                  -251702240.194064    -757895800.0     73530312.888458    -40846265.862512
+Tax Rate For Calcs                                                    0.114186             0.2            0.216757            0.217264
+Normalized EBITDA                                                50515522000.0    4382692000.0       37314409000.0       32846855000.0
+Total Unusual Items                                              -2204309000.0   -3789479000.0         339229000.0        -188003000.0
+Total Unusual Items Excluding Goodwill                           -2204309000.0   -3789479000.0         339229000.0        -188003000.0
+Net Income From Continuing Operation Net Minority Interest       22857675000.0  -19330194000.0       16210758000.0       13848870000.0
+Reconciled Depreciation                                          13071435000.0   12032750000.0       10752938000.0        9671984000.0
+Reconciled Cost Of Revenue                                      208731320000.0  203186980000.0      198701308000.0      189460904000.0
+EBITDA                                                           48311213000.0     593213000.0       37653638000.0       32658852000.0
+EBIT                                                             35239778000.0  -11439537000.0       26900700000.0       22986868000.0
+Net Interest Income                                              -5741114000.0   -3195346000.0       -1930041000.0       -1861983000.0
+Interest Expense                                                  5741114000.0    3195346000.0        1930041000.0        1861983000.0
+Normalized Income                                           24810281759.805935  -16298610800.0  15945059312.888458  13996026734.137487
+Net Income From Continuing And Discontinued Operation            22857675000.0  -19330194000.0       16210758000.0       13848870000.0
+Total Expenses                                                  240052665000.0  253583489000.0      218738974000.0      207388302000.0
+Diluted Average Shares                                                     NaN     557103000.0         557102580.0         557446320.0
+Basic Average Shares                                                       NaN     557103000.0         557102580.0         557102580.0
+Diluted EPS                                                                NaN           -34.7           29.078431           24.843137
+Basic EPS                                                                  NaN           -34.7           29.098039           24.862745
+Diluted NI Availto Com Stockholders                              22857675000.0  -19330194000.0       16210758000.0       13848870000.0
+Net Income Common Stockholders                                   22857675000.0  -19330194000.0       16210758000.0       13848870000.0
+Otherunder Preferred Stock Dividend                                        0.0             0.0                 0.0                 0.0
+Net Income                                                       22857675000.0  -19330194000.0       16210758000.0       13848870000.0
+Minority Interests                                               -3272641000.0   -3584236000.0       -3347332000.0       -2686340000.0
+Net Income Including Noncontrolling Interests                    26130316000.0  -15745958000.0       19558090000.0       16535210000.0
+Net Income Continuous Operations                                 26130316000.0  -15745958000.0       19558090000.0       16535210000.0
+Tax Provision                                                     3368348000.0    1111075000.0        5412569000.0        4589675000.0
+Pretax Income                                                    29498664000.0  -14634883000.0       24970659000.0       21124885000.0
+Other Non Operating Income Expenses                              18466524000.0   17917851000.0       14744168000.0       13079992000.0
+Special Income Charges                                           -3216747000.0   -2862455000.0       -1074423000.0       -1291810000.0
+Other Special Charges                                             -231426000.0     -89475000.0         -64547000.0         -79598000.0
+Write Off                                                         3446185000.0    2950683000.0        1138360000.0        1370940000.0
+Restructuring And Mergern Acquisition                                1988000.0       1247000.0            610000.0            468000.0
+Net Non Operating Interest Income Expense                        -5741114000.0   -3195346000.0       -1930041000.0       -1861983000.0
+Interest Expense Non Operating                                    5741114000.0    3195346000.0        1930041000.0        1861983000.0
+Operating Income                                                 14706150000.0  -28390472000.0        9092618000.0        7991840000.0
+Operating Expense                                                31321345000.0   50396509000.0       20037666000.0       17927398000.0
+Research And Development                                           136125000.0     122665000.0         110888000.0          95228000.0
+Selling General And Administration                               31185220000.0   50273844000.0       19926778000.0       17832170000.0
+Selling And Marketing Expense                                    10819870000.0   10043679000.0        9151095000.0        8238461000.0
+General And Administrative Expense                               20365350000.0   40230165000.0       10775683000.0        9593709000.0
+Gross Profit                                                     46027495000.0   22006037000.0       29130284000.0       25919238000.0
+Cost Of Revenue                                                 208731320000.0  203186980000.0      198701308000.0      189460904000.0
+Total Revenue                                                   254758815000.0  225193017000.0      227831592000.0      215380142000.0
+Operating Revenue                                               254758815000.0  225193017000.0      227831592000.0      215380142000.0

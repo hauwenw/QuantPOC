@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 48-3, Minquan Road
+address2	3rd Floor Xindian District
+city	New Taipei City
+zip	23141
+country	Taiwan
+phone	886 2 2913 8833
+fax	886 2 2913 6622
+website	https://www.chaintech.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Chaintech Technology Corporation engages in the manufacturing and sale of products related to motherboards, display cards, and computer peripherals in Mainland China and Taiwan. It offers graphic cards; mainboards based on Intel and AMD chipsets; all-in-one gaming machine; AI servers; and AI development management platform. The company was formerly known as Walton Chaintech Corporation and changed its name to Chaintech Technology Corporation in 2013. Chaintech Technology Corporation was founded in 1986 and is based in New Taipei City, Taiwan.
+fullTimeEmployees	240
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shu-Jung  Kao', 'title': 'Chairman & GM', 'fiscalYear': 2021, 'totalPay': 3791000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Nu  Lai', 'title': 'Financial & Accounting Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tzu-An  Chou', 'title': 'Assistant Manager of Marketing & Planning Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Ling  Chang', 'title': 'Chief Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	38.55
+open	38.8
+dayLow	38.1
+dayHigh	39.15
+regularMarketPreviousClose	38.55
+regularMarketOpen	38.8
+regularMarketDayLow	38.1
+regularMarketDayHigh	39.15
+dividendRate	0.8
+dividendYield	0.0207
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	0.47619998
+fiveYearAvgDividendYield	1.27
+beta	0.522
+trailingPE	23.005955
+volume	870569
+regularMarketVolume	870569
+averageVolume	1721665
+averageVolume10days	926344
+averageDailyVolume10Day	926344
+bid	38.6
+ask	38.8
+marketCap	3729686528
+fiftyTwoWeekLow	27.75
+fiftyTwoWeekHigh	62.0
+priceToSalesTrailing12Months	0.5466024
+fiftyDayAverage	42.701
+twoHundredDayAverage	46.0355
+currency	TWD
+enterpriseValue	3178758400
+profitMargins	0.023729999
+floatShares	95941236
+sharesOutstanding	96499000
+heldPercentInsiders	0.51338
+heldPercentInstitutions	0.00538
+impliedSharesOutstanding	97403296
+bookValue	22.575
+priceToBook	1.712071
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	161900992
+trailingEps	1.68
+lastSplitFactor	1156:1000
+lastSplitDate	1409011200	 (2014-08-26 08:00:00)
+enterpriseToRevenue	0.466
+enterpriseToEbitda	13.778
+52WeekChange	0.3730018
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2425.TW
+underlyingSymbol	2425.TW
+shortName	CHAINTECH TECHNOLOGY CORPORATIO
+longName	Chaintech Technology Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f9d3edfc-7da5-3972-8c60-d36d68b8f581
+messageBoardId	finmb_9819897
+gmtOffSetMilliseconds	28800000
+currentPrice	38.65
+recommendationKey	none
+totalCash	1123821952
+totalCashPerShare	11.646
+ebitda	230712992
+totalDebt	230528992
+quickRatio	1.947
+currentRatio	2.87
+totalRevenue	6823398912
+debtToEquity	9.145
+revenuePerShare	70.71
+returnOnAssets	0.04098
+returnOnEquity	0.09661
+freeCashflow	-112581624
+operatingCashflow	97223000
+revenueGrowth	0.198
+grossMargins	0.10002
+ebitdaMargins	0.03381
+operatingMargins	0.02399
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1896369.302644     686262.971008   -7514756.159067    -116179.476227
+Tax Rate For Calcs                                                   0.23166          0.156467          0.218287          0.032754
+Normalized EBITDA                                                340117000.0       473545000.0       294171000.0       243146000.0
+Total Unusual Items                                                8186000.0         4386000.0       -34426000.0        -3547000.0
+Total Unusual Items Excluding Goodwill                             8186000.0         4386000.0       -34426000.0        -3547000.0
+Net Income From Continuing Operation Net Minority Interest       161901000.0       320372000.0       122224000.0       145907000.0
+Reconciled Depreciation                                           33455000.0        39209000.0        45832000.0        43472000.0
+Reconciled Cost Of Revenue                                      6140927000.0      5575814000.0      5841667000.0      4235305000.0
+EBITDA                                                           348303000.0       477931000.0       259745000.0       239599000.0
+EBIT                                                             314848000.0       438722000.0       213913000.0       196127000.0
+Net Interest Income                                                7180000.0        -4021000.0        -4901000.0        -5709000.0
+Interest Expense                                                  11330000.0         7838000.0         5724000.0         6503000.0
+Interest Income                                                   18510000.0         3817000.0          823000.0          794000.0
+Normalized Income                                           155611369.302644  316672262.971008  149135243.840933  149337820.523773
+Net Income From Continuing And Discontinued Operation            161901000.0       320372000.0       122224000.0       145907000.0
+Total Expenses                                                  6606464000.0      5888974000.0      6128292000.0      4442552000.0
+Diluted Average Shares                                                   NaN        96648000.0        96570000.0        96605000.0
+Basic Average Shares                                                     NaN        96499000.0        96499000.0        96499000.0
+Diluted EPS                                                              NaN              3.31              1.27              1.51
+Basic EPS                                                                NaN              3.32              1.27              1.51
+Diluted NI Availto Com Stockholders                              161901000.0       320372000.0       122224000.0       145907000.0
+Net Income Common Stockholders                                   161901000.0       320372000.0       122224000.0       145907000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       161901000.0       320372000.0       122224000.0       145907000.0
+Minority Interests                                               -71304000.0       -43093000.0       -40520000.0       -37506000.0
+Net Income Including Noncontrolling Interests                    233205000.0       363465000.0       162744000.0       183413000.0
+Net Income Discontinuous Operations                                      NaN               NaN               NaN               0.0
+Net Income Continuous Operations                                 233205000.0       363465000.0       162744000.0       183413000.0
+Tax Provision                                                     70313000.0        67419000.0        45445000.0         6211000.0
+Pretax Income                                                    303518000.0       430884000.0       208189000.0       189624000.0
+Other Non Operating Income Expenses                               71217000.0       120819000.0      -106448000.0       -18957000.0
+Special Income Charges                                             8186000.0         4386000.0       -34426000.0        -3547000.0
+Write Off                                                         -8186000.0        -4386000.0        34426000.0         3547000.0
+Net Non Operating Interest Income Expense                          7180000.0        -4021000.0        -4901000.0        -5709000.0
+Interest Expense Non Operating                                    11330000.0         7838000.0         5724000.0         6503000.0
+Interest Income Non Operating                                     18510000.0         3817000.0          823000.0          794000.0
+Operating Income                                                 216935000.0       309700000.0       389772000.0       229758000.0
+Operating Expense                                                465537000.0       313160000.0       286625000.0       207247000.0
+Research And Development                                         135101000.0        33798000.0        20980000.0        17887000.0
+Selling General And Administration                               330436000.0       279362000.0       265645000.0       189360000.0
+Selling And Marketing Expense                                    168150000.0       131223000.0       174123000.0       105616000.0
+General And Administrative Expense                               162286000.0       148139000.0        91522000.0        83744000.0
+Gross Profit                                                     682472000.0       622860000.0       676397000.0       437005000.0
+Cost Of Revenue                                                 6140927000.0      5575814000.0      5841667000.0      4235305000.0
+Total Revenue                                                   6823399000.0      6198674000.0      6518064000.0      4672310000.0
+Operating Revenue                                               6823399000.0      6198674000.0      6518064000.0      4672310000.0

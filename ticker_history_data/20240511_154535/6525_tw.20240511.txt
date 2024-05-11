@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	Harbour Place
+address2	2nd Floor PO Box 472
+city	Grand Cayman
+zip	KY1-1106
+country	Cayman Islands
+website	https://www.gemservices.com
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	GEM Services, Inc., a semiconductor assembly and test contractor, provides services for power management semiconductors. The company offers assembly services, including wafer probe, assembly, and test; packaging development; and electrical testing services, such as wafer probe, electrical test, data-log, and characterization testing. It also provides reliability testing services comprising reliability testing capability and failure analysis services; and logistic services consisting of drop shipment services and shipping directly to the end customers. In addition, the company is involved in semiconductor packaging and testing foundry; and plant and factory leasing activities. Further, it engages in the manufacture and sale of electronic parts. GEM Services, Inc. was incorporated in 1998 and is based in Grand Cayman, Cayman Islands. GEM Services, Inc. is a subsidiary of Elite Advanced Laser Corporation.
+companyOfficers	[{'maxAge': 1, 'name': 'Yen-Chiang  Tang', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui-Ping  Wang', 'title': 'Head-Finance & Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Anthony  Chia', 'title': 'Chief Operations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	68.6
+open	68.6
+dayLow	68.5
+dayHigh	69.2
+regularMarketPreviousClose	68.6
+regularMarketOpen	68.6
+regularMarketDayLow	68.5
+regularMarketDayHigh	69.2
+dividendRate	5.5
+dividendYield	0.0798
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	1.2761
+fiveYearAvgDividendYield	6.32
+trailingPE	15.986079
+forwardPE	12.303572
+volume	125201
+regularMarketVolume	125201
+averageVolume	107123
+averageVolume10days	148355
+averageDailyVolume10Day	148355
+bid	68.7
+ask	69.0
+marketCap	8891338752
+fiftyTwoWeekLow	62.0
+fiftyTwoWeekHigh	80.0
+priceToSalesTrailing12Months	2.0147343
+fiftyDayAverage	67.834
+twoHundredDayAverage	67.4295
+trailingAnnualDividendRate	3.5
+trailingAnnualDividendYield	0.05102041
+currency	TWD
+enterpriseValue	6930963968
+profitMargins	0.12748
+floatShares	51541566
+sharesOutstanding	129047000
+heldPercentInsiders	0.59278
+heldPercentInstitutions	0.043390002
+impliedSharesOutstanding	129047000
+bookValue	30.617
+priceToBook	2.2503839
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.022
+netIncomeToCommon	562604992
+trailingEps	4.31
+forwardEps	5.6
+lastSplitFactor	1100:1000
+lastSplitDate	1562630400	 (2019-07-09 08:00:00)
+enterpriseToRevenue	1.571
+enterpriseToEbitda	5.908
+52WeekChange	-0.041724622
+SandP52WeekChange	0.26265144
+lastDividendValue	5.5
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6525.TW
+underlyingSymbol	6525.TW
+shortName	GEM SERVICES INC
+longName	GEM Services, Inc.
+firstTradeDateEpochUtc	1460422800	 (2016-04-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4f94b5ca-dd8e-3130-a471-cb4b78310fbe
+messageBoardId	finmb_7622702
+gmtOffSetMilliseconds	28800000
+currentPrice	68.9
+recommendationKey	none
+totalCash	2007565056
+totalCashPerShare	15.526
+ebitda	1173176960
+totalDebt	29759000
+quickRatio	1.664
+currentRatio	1.768
+totalRevenue	4413156864
+debtToEquity	0.752
+revenuePerShare	34.177
+returnOnAssets	0.052389998
+returnOnEquity	0.1452
+freeCashflow	-38570500
+operatingCashflow	973124992
+earningsGrowth	-0.024
+revenueGrowth	-0.005
+grossMargins	0.20335
+ebitdaMargins	0.26584
+operatingMargins	0.12214
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    379692.810247     963663.915559   -1014929.828344     784855.812828
+Tax Rate For Calcs                                                  0.207709          0.180461          0.185004          0.203806
+Normalized EBITDA                                               1361653000.0      1681901000.0      1445923000.0      1186610000.0
+Total Unusual Items                                                1828000.0         5340000.0        -5486000.0         3851000.0
+Total Unusual Items Excluding Goodwill                             1828000.0         5340000.0        -5486000.0         3851000.0
+Net Income From Continuing Operation Net Minority Interest       566094000.0       930323000.0       857985000.0       684661000.0
+Reconciled Depreciation                                          646870000.0       548785000.0       387131000.0       328979000.0
+Reconciled Cost Of Revenue                                      3466447000.0      3970230000.0      3349622000.0      2546565000.0
+EBITDA                                                          1363481000.0      1687241000.0      1440437000.0      1190461000.0
+EBIT                                                             716611000.0      1138456000.0      1053306000.0       861482000.0
+Net Interest Income                                               38731000.0        12807000.0         5411000.0        13498000.0
+Interest Expense                                                   2108000.0         3277000.0          559000.0         1565000.0
+Interest Income                                                   40839000.0        16084000.0         5970000.0        15063000.0
+Normalized Income                                           564645692.810247  925946663.915559  862456070.171656  681594855.812828
+Net Income From Continuing And Discontinued Operation            566094000.0       930323000.0       857985000.0       684661000.0
+Total Expenses                                                  3798199000.0      4358757000.0      3664710000.0      2832159000.0
+Diluted Average Shares                                           130483000.0       130623000.0       130272000.0       130531000.0
+Basic Average Shares                                             129047000.0       129047000.0       129047000.0       129047000.0
+Diluted EPS                                                             4.34              7.12              6.59              5.25
+Basic EPS                                                               4.39              7.21              6.65              5.31
+Diluted NI Availto Com Stockholders                              566094000.0       930323000.0       857985000.0       684661000.0
+Net Income Common Stockholders                                   566094000.0       930323000.0       857985000.0       684661000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       566094000.0       930323000.0       857985000.0       684661000.0
+Net Income Including Noncontrolling Interests                    566094000.0       930323000.0       857985000.0       684661000.0
+Net Income Continuous Operations                                 566094000.0       930323000.0       857985000.0       684661000.0
+Tax Provision                                                    148409000.0       204856000.0       194762000.0       175256000.0
+Pretax Income                                                    714503000.0      1135179000.0      1052747000.0       859917000.0
+Other Non Operating Income Expenses                               22272000.0        11783000.0         5983000.0         6846000.0
+Special Income Charges                                             1828000.0         5340000.0        -5486000.0         3851000.0
+Other Special Charges                                               239000.0        -2846000.0               NaN        -2241000.0
+Write Off                                                         -2067000.0        -2494000.0         5486000.0        -1610000.0
+Net Non Operating Interest Income Expense                         38731000.0        12807000.0         5411000.0        13498000.0
+Interest Expense Non Operating                                     2108000.0         3277000.0          559000.0         1565000.0
+Interest Income Non Operating                                     40839000.0        16084000.0         5970000.0        15063000.0
+Operating Income                                                 620790000.0       862710000.0      1091219000.0       917962000.0
+Operating Expense                                                331752000.0       388527000.0       315088000.0       285594000.0
+Research And Development                                          47786000.0        52749000.0        46260000.0        43520000.0
+Selling General And Administration                               283966000.0       335778000.0       268828000.0       242074000.0
+Selling And Marketing Expense                                     19979000.0        17980000.0        17897000.0        18813000.0
+General And Administrative Expense                               263987000.0       317798000.0       250931000.0       223261000.0
+Gross Profit                                                     952542000.0      1251237000.0      1406307000.0      1203556000.0
+Cost Of Revenue                                                 3466447000.0      3970230000.0      3349622000.0      2546565000.0
+Total Revenue                                                   4418989000.0      5221467000.0      4755929000.0      3750121000.0
+Operating Revenue                                               4418989000.0      5221467000.0      4755929000.0      3750121000.0

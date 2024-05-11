@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 91, Gongdao 5th Road
+address2	Sec. 2
+city	Hsinchu City
+zip	30070
+country	Taiwan
+phone	886 3 516 0258
+fax	886 3 516 0028
+website	https://www.okbiotech.com
+industry	Medical Devices
+industryKey	medical-devices
+industryDisp	Medical Devices
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	OK Biotech Co., Ltd. manufactures, markets, and sells blood glucose monitoring devices and related homecare medical products worldwide. It also provides glucometers and blood glucose test strips; nebulizer, portable nebulizer, and mesh nebulizer and test strips; and personal sound amplifiers. The company was founded in 2006 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jia De  Lai', 'title': 'Manager, MD & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qi Zheng  Hou', 'title': 'Financial Manager & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'De Quan Zhang', 'title': 'Chief Operating Officer, Deputy General Manager, Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'De Zhao Wang', 'title': 'Business Office Associate, Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.2
+open	25.3
+dayLow	25.25
+dayHigh	25.6
+regularMarketPreviousClose	25.2
+regularMarketOpen	25.3
+regularMarketDayLow	25.25
+regularMarketDayHigh	25.6
+dividendRate	1.23
+dividendYield	0.048600003
+exDividendDate	1693958400	 (2023-09-06 08:00:00)
+payoutRatio	61.4694
+fiveYearAvgDividendYield	5.46
+beta	0.329
+trailingPE	1265.0
+volume	332151
+regularMarketVolume	332151
+averageVolume	743141
+averageVolume10days	2235986
+averageDailyVolume10Day	2235986
+bid	25.3
+ask	25.35
+marketCap	3719175936
+fiftyTwoWeekLow	23.65
+fiftyTwoWeekHigh	40.43576
+priceToSalesTrailing12Months	3.1201532
+fiftyDayAverage	24.648
+twoHundredDayAverage	25.741312
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.011904762
+currency	TWD
+enterpriseValue	3651831040
+profitMargins	0.00247
+floatShares	125850357
+sharesOutstanding	147003008
+heldPercentInsiders	0.24097
+heldPercentInstitutions	0.0125899995
+impliedSharesOutstanding	147003008
+bookValue	16.45
+priceToBook	1.5379938
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	2948000
+trailingEps	0.02
+lastSplitFactor	1102.1342:1000
+lastSplitDate	1693958400	 (2023-09-06 08:00:00)
+enterpriseToRevenue	3.064
+enterpriseToEbitda	60.546
+52WeekChange	-0.17300922
+SandP52WeekChange	0.26265144
+lastDividendValue	1.229387
+lastDividendDate	1693958400	 (2023-09-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4155.TW
+underlyingSymbol	4155.TW
+shortName	OK BIOTECH CO LTD
+longName	OK Biotech Co., Ltd.
+firstTradeDateEpochUtc	1340154000	 (2012-06-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d79aabdd-488c-38ab-bf73-9830b8524244
+messageBoardId	finmb_115614604
+gmtOffSetMilliseconds	28800000
+currentPrice	25.3
+recommendationKey	none
+totalCash	365340000
+totalCashPerShare	2.506
+ebitda	60315000
+totalDebt	331950016
+quickRatio	1.477
+currentRatio	2.279
+totalRevenue	1191985024
+debtToEquity	13.86
+revenuePerShare	9.295
+returnOnAssets	-0.00246
+returnOnEquity	-0.00075
+freeCashflow	-526990880
+operatingCashflow	2933000
+revenueGrowth	-0.144
+grossMargins	0.16517
+ebitdaMargins	0.0506
+operatingMargins	-0.04765
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -1506800.0   -5446575.668873   1564624.837451    1868542.016142
+Tax Rate For Calcs                                                   0.2          0.221352         0.318986          0.200144
+Normalized EBITDA                                            100104000.0       279506000.0      105194000.0       200517000.0
+Total Unusual Items                                           -7534000.0       -24606000.0        4905000.0         9336000.0
+Total Unusual Items Excluding Goodwill                        -7534000.0       -24606000.0        4905000.0         9336000.0
+Net Income From Continuing Operation Net Minority Interest     2948000.0       143462000.0       43462000.0       129728000.0
+Reconciled Depreciation                                       75547000.0        67882000.0       55882000.0        50077000.0
+Reconciled Cost Of Revenue                                   995101000.0      1138565000.0     1076552000.0      1158458000.0
+EBITDA                                                        92570000.0       254900000.0      110099000.0       209853000.0
+EBIT                                                          17023000.0       187018000.0       54217000.0       159776000.0
+Net Interest Income                                           -1850000.0        -8256000.0       -7105000.0        -6786000.0
+Interest Expense                                               8997000.0        11424000.0        8077000.0         8120000.0
+Interest Income                                                7147000.0         3168000.0         972000.0         1334000.0
+Normalized Income                                              8975200.0  162621424.331127  40121624.837451  122260542.016142
+Net Income From Continuing And Discontinued Operation          2948000.0       143462000.0       43462000.0       129728000.0
+Total Expenses                                              1190220000.0      1343386000.0     1253529000.0      1356060000.0
+Diluted Average Shares                                               NaN       130234000.0      121200002.0       101987128.0
+Basic Average Shares                                                 NaN       104955000.0      106598353.0        93777365.0
+Diluted EPS                                                          NaN              1.16         0.399037          1.285786
+Basic EPS                                                            NaN              1.37         0.407905          1.383329
+Diluted NI Availto Com Stockholders                            2948000.0       143462000.0       43462000.0       129728000.0
+Net Income Common Stockholders                                 2948000.0       143462000.0       43462000.0       129728000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0              0.0               0.0
+Net Income                                                     2948000.0       143462000.0       43462000.0       129728000.0
+Minority Interests                                             4542000.0         6736000.0       12040000.0         8425000.0
+Net Income Including Noncontrolling Interests                 -1594000.0       136726000.0       31422000.0       121303000.0
+Net Income Continuous Operations                              -1594000.0       136726000.0       31422000.0       121303000.0
+Tax Provision                                                  9620000.0        38868000.0       14718000.0        30353000.0
+Pretax Income                                                  8026000.0       175594000.0       46140000.0       151656000.0
+Other Non Operating Income Expenses                           10319000.0        60892000.0       13845000.0       -17861000.0
+Special Income Charges                                        -7534000.0       -24606000.0        4905000.0         9336000.0
+Other Special Charges                                        -13720000.0        -6663000.0      -11589000.0       -19659000.0
+Write Off                                                     21254000.0        31269000.0        6684000.0        10323000.0
+Net Non Operating Interest Income Expense                     -1850000.0        -8256000.0       -7105000.0        -6786000.0
+Interest Expense Non Operating                                 8997000.0        11424000.0        8077000.0         8120000.0
+Interest Income Non Operating                                  7147000.0         3168000.0         972000.0         1334000.0
+Operating Income                                               1765000.0       140137000.0        9849000.0       128353000.0
+Operating Expense                                            195119000.0       204821000.0      176977000.0       197602000.0
+Other Operating Expenses                                             NaN               NaN       -4925000.0        -8070000.0
+Research And Development                                      46713000.0        48731000.0       28736000.0        45461000.0
+Selling General And Administration                           148406000.0       156090000.0      148241000.0       152141000.0
+Selling And Marketing Expense                                 74467000.0        87560000.0       85573000.0        80004000.0
+General And Administrative Expense                            73939000.0        68530000.0       62668000.0        72137000.0
+Gross Profit                                                 196884000.0       344958000.0      186826000.0       325955000.0
+Cost Of Revenue                                              995101000.0      1138565000.0     1076552000.0      1158458000.0
+Total Revenue                                               1191985000.0      1483523000.0     1263378000.0      1484413000.0
+Operating Revenue                                           1191985000.0      1483523000.0     1263378000.0      1484413000.0

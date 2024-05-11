@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	Building E032
+address2	No. 1, Wei Wang Street Shulin District
+city	New Taipei City
+zip	1106
+country	Taiwan
+phone	886 2 8684 1618
+website	https://www.lemtech.com
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Lemtech Holdings Co., Limited researches, develops, produces, and sells precision metal dies and metal stampings in Asia, the Americas, and Europe. The company operates through 3C Electronics, Vehicle Parts, Connected Fitness, and Tooling and Others segments. It offers electronic product thermal modules, electronic product components, automotive components, and building material components made by stamping and forming, as well as stamping die support for automotive and electronic product manufacturers. The company serves information, communications, consumer electronics, household appliances, automobile, and construction industries. Lemtech Holdings Co., Limited was founded in 2003 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ricky  Eu', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 2232000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Ling  Chien', 'title': 'Senior Manager & CFO', 'fiscalYear': 2021, 'totalPay': 1181000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hang  Ye', 'title': 'CTO & Director', 'fiscalYear': 2021, 'totalPay': 1319000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Murali  Nair', 'title': 'Chief Marketing Officer', 'fiscalYear': 2021, 'totalPay': 495000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	124.0
+open	126.5
+dayLow	123.0
+dayHigh	127.5
+regularMarketPreviousClose	124.0
+regularMarketOpen	126.5
+regularMarketDayLow	123.0
+regularMarketDayHigh	127.5
+dividendRate	2.17
+dividendYield	0.0173
+exDividendDate	1711929600	 (2024-04-01 08:00:00)
+payoutRatio	0.4321
+fiveYearAvgDividendYield	2.95
+beta	1.022
+trailingPE	24.950098
+forwardPE	9.881423
+volume	302110
+regularMarketVolume	302110
+averageVolume	834607
+averageVolume10days	710548
+averageDailyVolume10Day	710548
+bid	125.0
+ask	125.5
+marketCap	7774099968
+fiftyTwoWeekLow	67.3
+fiftyTwoWeekHigh	141.0
+priceToSalesTrailing12Months	1.666751
+fiftyDayAverage	123.96
+twoHundredDayAverage	94.3645
+trailingAnnualDividendRate	1.665
+trailingAnnualDividendYield	0.013427419
+currency	TWD
+enterpriseValue	8190744064
+profitMargins	0.055760004
+floatShares	40908068
+sharesOutstanding	62192800
+heldPercentInsiders	0.41077
+heldPercentInstitutions	0.020350002
+impliedSharesOutstanding	62674900
+bookValue	54.91
+priceToBook	2.2764523
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.741
+netIncomeToCommon	260095008
+trailingEps	5.01
+forwardEps	12.65
+lastSplitFactor	1149.766:1000
+lastSplitDate	1630886400	 (2021-09-06 08:00:00)
+enterpriseToRevenue	1.756
+enterpriseToEbitda	13.355
+52WeekChange	0.80635834
+SandP52WeekChange	0.26265144
+lastDividendValue	0.773
+lastDividendDate	1711929600	 (2024-04-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4912.TW
+underlyingSymbol	4912.TW
+shortName	LEMTECH HOLDINGS CO LIMITED
+longName	Lemtech Holdings Co., Limited
+firstTradeDateEpochUtc	1305507600	 (2011-05-16 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6c47a747-534f-34cf-8357-afe7e67a0f41
+messageBoardId	finmb_83109823
+gmtOffSetMilliseconds	28800000
+currentPrice	125.0
+recommendationKey	none
+totalCash	1619483008
+totalCashPerShare	26.04
+ebitda	613329984
+totalDebt	1934328064
+quickRatio	1.346
+currentRatio	1.72
+totalRevenue	4664223744
+debtToEquity	55.003
+revenuePerShare	74.996
+returnOnAssets	0.02717
+returnOnEquity	0.07961
+freeCashflow	447877376
+operatingCashflow	1124423936
+earningsGrowth	2.295
+revenueGrowth	0.03
+grossMargins	0.2606
+ebitdaMargins	0.13149999
+operatingMargins	0.10724
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    207132.640118   -2139959.375418    1284486.973223    3358105.804357
+Tax Rate For Calcs                                                   0.08369          0.179678          0.255976          0.292518
+Normalized EBITDA                                                721605000.0       894167000.0       940908000.0       931871000.0
+Total Unusual Items                                                2475000.0       -11910000.0         5018000.0        11480000.0
+Total Unusual Items Excluding Goodwill                             2475000.0       -11910000.0         5018000.0        11480000.0
+Net Income From Continuing Operation Net Minority Interest       260095000.0       390763000.0       465717000.0       455845000.0
+Reconciled Depreciation                                          360594000.0       314980000.0       296745000.0       261590000.0
+Reconciled Cost Of Revenue                                      3448732000.0      4708823000.0      5037774000.0      4190903000.0
+EBITDA                                                           724080000.0       882257000.0       945926000.0       943351000.0
+EBIT                                                             363486000.0       567277000.0       649181000.0       681761000.0
+Net Interest Income                                              -15259000.0       -20420000.0       -12847000.0       -33548000.0
+Interest Expense                                                  63916000.0        36810000.0        21282000.0        38744000.0
+Interest Income                                                   48657000.0        16390000.0         8435000.0         5196000.0
+Normalized Income                                           257827132.640118  400533040.624582  461983486.973223  447723105.804357
+Net Income From Continuing And Discontinued Operation            260095000.0       390763000.0       465717000.0       455845000.0
+Total Expenses                                                  4338176000.0      5510455000.0      5742302000.0      4797469000.0
+Diluted Average Shares                                                   NaN        72306000.0        72471000.0        56619000.0
+Basic Average Shares                                                     NaN        62335000.0        62002000.0        54768000.0
+Diluted EPS                                                              NaN              5.68              6.48              8.11
+Basic EPS                                                                NaN              6.27              7.51              8.32
+Diluted NI Availto Com Stockholders                              260095000.0       390763000.0       465717000.0       455845000.0
+Net Income Common Stockholders                                   260095000.0       390763000.0       465717000.0       455845000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       260095000.0       390763000.0       465717000.0       455845000.0
+Minority Interests                                               -14404000.0       -44391000.0        -1455000.0          922000.0
+Net Income Including Noncontrolling Interests                    274499000.0       435154000.0       467172000.0       454923000.0
+Net Income Continuous Operations                                 274499000.0       435154000.0       467172000.0       454923000.0
+Tax Provision                                                     25071000.0        95313000.0       160727000.0       188094000.0
+Pretax Income                                                    299570000.0       530467000.0       627899000.0       643017000.0
+Other Non Operating Income Expenses                               -7817000.0        91151000.0         6207000.0        -8359000.0
+Special Income Charges                                             2475000.0       -11910000.0         5018000.0        11480000.0
+Write Off                                                         -2475000.0        11910000.0        -5018000.0       -11480000.0
+Net Non Operating Interest Income Expense                        -15259000.0       -20420000.0       -12847000.0       -33548000.0
+Interest Expense Non Operating                                    63916000.0        36810000.0        21282000.0        38744000.0
+Interest Income Non Operating                                     48657000.0        16390000.0         8435000.0         5196000.0
+Operating Income                                                 326048000.0       474473000.0       626816000.0       673781000.0
+Operating Expense                                                889444000.0       801632000.0       704528000.0       606566000.0
+Research And Development                                         210569000.0       204050000.0       163125000.0       130398000.0
+Selling General And Administration                               678875000.0       597582000.0       541403000.0       476168000.0
+Selling And Marketing Expense                                    177687000.0       186049000.0       175927000.0       149493000.0
+General And Administrative Expense                               501188000.0       411533000.0       365476000.0       326675000.0
+Gross Profit                                                    1215492000.0      1276105000.0      1331344000.0      1280347000.0
+Cost Of Revenue                                                 3448732000.0      4708823000.0      5037774000.0      4190903000.0
+Total Revenue                                                   4664224000.0      5984928000.0      6369118000.0      5471250000.0
+Operating Revenue                                               4664224000.0      5984928000.0      6369118000.0      5471250000.0

@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 30, Bade Road
+address2	12th Floor Section 3 Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2570 9988
+fax	886 2 2570 6985
+website	https://www.sanfar.com.tw
+industry	Real Estate - Diversified
+industryKey	real-estate-diversified
+industryDisp	Real Estate - Diversified
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	San Far Property Limited engages in the development and sale of residential and building properties in Taiwan. The company leases real estate properties; and undertakes civil and building works. It also produces CDs and DVDs; and engages in the production, publication, and import and export trading activities. The company was incorporated in 1993 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ding-Sheng  Zhong', 'title': 'Chairman & CSO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tiquan  Yang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Ling  Cai', 'title': 'Executive VP, Director of Financial Governance & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiue-Liang  Chen', 'title': 'Vice General Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Chen  Huang', 'title': 'Vice General Manager of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Yuan  Chen', 'title': 'Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chin-Hao  Lin', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.7
+open	37.0
+dayLow	36.65
+dayHigh	38.2
+regularMarketPreviousClose	36.7
+regularMarketOpen	37.0
+regularMarketDayLow	36.65
+regularMarketDayHigh	38.2
+dividendRate	0.43
+dividendYield	0.0116
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	1.1256
+beta	0.528
+trailingPE	97.10527
+volume	2287542
+regularMarketVolume	2287542
+averageVolume	1553040
+averageVolume10days	2997183
+averageDailyVolume10Day	2997183
+bid	36.9
+ask	36.95
+marketCap	12049842176
+fiftyTwoWeekLow	13.3
+fiftyTwoWeekHigh	39.7
+priceToSalesTrailing12Months	12.511244
+fiftyDayAverage	28.941
+twoHundredDayAverage	20.8085
+currency	TWD
+enterpriseValue	17972617216
+profitMargins	0.092259996
+sharesOutstanding	326553984
+heldPercentInsiders	0.67502
+heldPercentInstitutions	0.0137
+impliedSharesOutstanding	331609984
+bookValue	19.84
+priceToBook	1.8598791
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.819
+netIncomeToCommon	88856000
+trailingEps	0.38
+lastSplitFactor	1050:1000
+lastSplitDate	1632873600	 (2021-09-29 08:00:00)
+enterpriseToRevenue	18.661
+enterpriseToEbitda	144.601
+52WeekChange	1.6357143
+SandP52WeekChange	0.26265144
+lastDividendValue	0.42773
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9946.TW
+underlyingSymbol	9946.TW
+shortName	SAN FAR PROPERTY LIMITED
+longName	San Far Property Limited
+firstTradeDateEpochUtc	1198803600	 (2007-12-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b6464f14-a0f1-3256-b91e-57d27c3b9d29
+messageBoardId	finmb_20387518
+gmtOffSetMilliseconds	28800000
+currentPrice	36.9
+recommendationKey	none
+totalCash	2223794944
+totalCashPerShare	6.81
+ebitda	124291000
+totalDebt	8146569216
+quickRatio	0.349
+currentRatio	2.197
+totalRevenue	963121024
+debtToEquity	125.741
+revenuePerShare	2.949
+returnOnAssets	0.0046200003
+returnOnEquity	0.013739999
+freeCashflow	-315015008
+operatingCashflow	-441012992
+earningsGrowth	0.808
+revenueGrowth	0.416
+grossMargins	0.27691
+ebitdaMargins	0.12905
+operatingMargins	0.18332
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                         0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                             0.055868      0.038481           0.2      0.171129
+Normalized EBITDA                                           140853000.0   193878000.0   242760000.0   230908000.0
+Net Income From Continuing Operation Net Minority Interest   88856000.0   139677000.0   222278000.0   182975000.0
+Reconciled Depreciation                                       8816000.0    10508000.0     9480000.0     5428000.0
+Reconciled Cost Of Revenue                                  696423000.0  1886711000.0  1297251000.0  1055716000.0
+EBITDA                                                      140853000.0   193878000.0   242760000.0   230908000.0
+EBIT                                                        132037000.0   183370000.0   233280000.0   225480000.0
+Net Interest Income                                         -19950000.0   -32492000.0   -14657000.0     2999000.0
+Interest Expense                                             37923000.0    38103000.0    18160000.0     4728000.0
+Interest Income                                              17973000.0     5611000.0     3503000.0     7727000.0
+Normalized Income                                            88856000.0   139677000.0   222278000.0   182975000.0
+Net Income From Continuing And Discontinued Operation        88856000.0   139677000.0   222278000.0   182975000.0
+Total Expenses                                              847646000.0  2098556000.0  1495080000.0  1282197000.0
+Diluted Average Shares                                              NaN   326710000.0   328698000.0   343525000.0
+Basic Average Shares                                                NaN   326554000.0   328698000.0   343099000.0
+Diluted EPS                                                         NaN          0.43          0.68          0.53
+Basic EPS                                                           NaN          0.43          0.68          0.53
+Diluted NI Availto Com Stockholders                          88856000.0   139677000.0   222278000.0   182975000.0
+Net Income Common Stockholders                               88856000.0   139677000.0   222278000.0   182975000.0
+Otherunder Preferred Stock Dividend                                 0.0           0.0           0.0           0.0
+Net Income                                                   88856000.0   139677000.0   222278000.0   182975000.0
+Net Income Including Noncontrolling Interests                88856000.0   139677000.0   222278000.0   182975000.0
+Net Income Continuous Operations                             88856000.0   139677000.0   222278000.0   182975000.0
+Tax Provision                                                 5258000.0     5590000.0    -7158000.0    37777000.0
+Pretax Income                                                94114000.0   145267000.0   215120000.0   220752000.0
+Other Non Operating Income Expenses                          -1411000.0     2611000.0     8889000.0     8178000.0
+Net Non Operating Interest Income Expense                   -19950000.0   -32492000.0   -14657000.0     2999000.0
+Interest Expense Non Operating                               37923000.0    38103000.0    18160000.0     4728000.0
+Interest Income Non Operating                                17973000.0     5611000.0     3503000.0     7727000.0
+Operating Income                                            115475000.0   175148000.0   220888000.0   209575000.0
+Operating Expense                                           151223000.0   211845000.0   197829000.0   226481000.0
+Selling General And Administration                          151223000.0   211845000.0   197829000.0   226481000.0
+Selling And Marketing Expense                                43214000.0   107994000.0    96118000.0   133714000.0
+General And Administrative Expense                          108009000.0   103851000.0   101711000.0    92767000.0
+Gross Profit                                                266698000.0   386993000.0   418717000.0   436056000.0
+Cost Of Revenue                                             696423000.0  1886711000.0  1297251000.0  1055716000.0
+Total Revenue                                               963121000.0  2273704000.0  1715968000.0  1491772000.0
+Operating Revenue                                           963121000.0  2273704000.0  1715968000.0  1491772000.0

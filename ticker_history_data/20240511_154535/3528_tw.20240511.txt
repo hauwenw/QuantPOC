@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 75, Section 1, Xintai 5th Road
+address2	21st Floor Sec. 1 Xizhi District
+city	New Taipei City
+zip	221
+country	Taiwan
+phone	886 2 2698 2526
+fax	886 2 2698 2528
+website	https://www.anstek.com.tw
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Answer Technology Co., Ltd. provides analog, logic, mixed signal processing integrated circuits (IC) in Taiwan, Asia, Europe, and internationally. Answer Technology Co., Ltd. was founded in 2000 and is headquartered in New Taipei City, Taiwan.
+fullTimeEmployees	167
+companyOfficers	[{'maxAge': 1, 'name': 'Lien-Hong  Cheng', 'title': 'Supervisor of Information Security', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	48.6
+open	50.1
+dayLow	48.65
+dayHigh	50.1
+regularMarketPreviousClose	48.6
+regularMarketOpen	50.1
+regularMarketDayLow	48.65
+regularMarketDayHigh	50.1
+dividendRate	4.1
+dividendYield	0.082200006
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	1.5074
+fiveYearAvgDividendYield	6.63
+beta	0.068
+trailingPE	18.327206
+forwardPE	14.0422535
+volume	66022
+regularMarketVolume	66022
+averageVolume	72299
+averageVolume10days	37938
+averageDailyVolume10Day	37938
+bid	49.4
+ask	49.85
+marketCap	3321306112
+fiftyTwoWeekLow	42.8
+fiftyTwoWeekHigh	63.3
+priceToSalesTrailing12Months	0.5274964
+fiftyDayAverage	48.352
+twoHundredDayAverage	50.72925
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.030864198
+currency	TWD
+enterpriseValue	4743060992
+profitMargins	0.017439999
+sharesOutstanding	66626000
+heldPercentInsiders	0.68469
+impliedSharesOutstanding	66626000
+bookValue	27.155
+priceToBook	1.8357576
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.619
+netIncomeToCommon	109829000
+trailingEps	2.72
+forwardEps	3.55
+lastSplitFactor	1020:1000
+lastSplitDate	1530748800	 (2018-07-05 08:00:00)
+enterpriseToRevenue	0.753
+enterpriseToEbitda	12.271
+52WeekChange	-0.14199656
+SandP52WeekChange	0.26265144
+lastDividendValue	4.1
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3528.TW
+underlyingSymbol	3528.TW
+shortName	ANSWER TECHNOLOGY CO. LTD.
+longName	Answer Technology Co., Ltd.
+firstTradeDateEpochUtc	1201222800	 (2008-01-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dca46bf2-23b4-3066-9ffe-5eae33cad280
+messageBoardId	finmb_37256150
+gmtOffSetMilliseconds	28800000
+currentPrice	49.85
+recommendationKey	none
+totalCash	622420992
+totalCashPerShare	9.342
+ebitda	386528992
+totalDebt	2044176000
+quickRatio	0.472
+currentRatio	1.359
+totalRevenue	6296357888
+debtToEquity	112.988
+revenuePerShare	94.833
+returnOnAssets	0.036059998
+returnOnEquity	0.05824
+freeCashflow	469137504
+operatingCashflow	418705984
+earningsGrowth	-0.605
+revenueGrowth	-0.218
+grossMargins	0.11047
+ebitdaMargins	0.061389998
+operatingMargins	0.03541
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    675321.529261     235443.12136     925495.220756
+Tax Rate For Calcs                                                  0.201228         0.204555          0.200889
+Normalized EBITDA                                                535024000.0      414769000.0       305107000.0
+Total Unusual Items                                                3356000.0        1151000.0         4607000.0
+Total Unusual Items Excluding Goodwill                             3356000.0        1151000.0         4607000.0
+Net Income From Continuing Operation Net Minority Interest       373985000.0      300068000.0       208922000.0
+Reconciled Depreciation                                           21867000.0       21370000.0        28212000.0
+Reconciled Cost Of Revenue                                      5392611000.0     5520586000.0      4425874000.0
+EBITDA                                                           538380000.0      415920000.0       309714000.0
+EBIT                                                             516513000.0      394550000.0       281502000.0
+Net Interest Income                                              -46786000.0      -16992000.0       -19525000.0
+Interest Expense                                                  48313000.0       17317000.0        20059000.0
+Interest Income                                                    1527000.0         325000.0          534000.0
+Normalized Income                                           371304321.529261  299152443.12136  205240495.220756
+Net Income From Continuing And Discontinued Operation            373985000.0      300068000.0       208922000.0
+Total Expenses                                                  5826173000.0     5938782000.0      4768563000.0
+Diluted Average Shares                                            67826000.0       67244000.0        66484000.0
+Basic Average Shares                                              66141000.0       65717000.0        65616000.0
+Diluted EPS                                                             5.51             4.46              3.14
+Basic EPS                                                               5.65             4.57              3.18
+Diluted NI Availto Com Stockholders                              373985000.0      300068000.0       208922000.0
+Net Income Common Stockholders                                   373985000.0      300068000.0       208922000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0
+Net Income                                                       373985000.0      300068000.0       208922000.0
+Net Income Including Noncontrolling Interests                    373985000.0      300068000.0       208922000.0
+Net Income Continuous Operations                                 373985000.0      300068000.0       208922000.0
+Tax Provision                                                     94215000.0       77165000.0        52521000.0
+Pretax Income                                                    468200000.0      377233000.0       261443000.0
+Other Non Operating Income Expenses                              -69375000.0       52782000.0        69885000.0
+Special Income Charges                                             3356000.0        1151000.0         4607000.0
+Other Special Charges                                                    NaN              NaN         -299000.0
+Write Off                                                         -3356000.0       -1151000.0        -4607000.0
+Net Non Operating Interest Income Expense                        -46786000.0      -16992000.0       -19525000.0
+Interest Expense Non Operating                                    48313000.0       17317000.0        20059000.0
+Interest Income Non Operating                                      1527000.0         325000.0          534000.0
+Operating Income                                                 581005000.0      341091000.0       204665000.0
+Operating Expense                                                433562000.0      418196000.0       342689000.0
+Research And Development                                         103319000.0      100037000.0        78492000.0
+Selling General And Administration                               330243000.0      318159000.0       264197000.0
+Selling And Marketing Expense                                    211370000.0      201332000.0       166563000.0
+General And Administrative Expense                               118873000.0      116827000.0        97634000.0
+Gross Profit                                                    1014567000.0      759287000.0       547354000.0
+Cost Of Revenue                                                 5392611000.0     5520586000.0      4425874000.0
+Total Revenue                                                   6407178000.0     6279873000.0      4973228000.0
+Operating Revenue                                               6407178000.0     6279873000.0      4973228000.0

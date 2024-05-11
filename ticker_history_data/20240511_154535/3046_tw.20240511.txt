@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 369, Fuxing North Road
+address2	7th and 5th Floor Songshan District
+city	Taipei
+zip	105
+country	Taiwan
+phone	886 2 7710 1195
+website	https://www.aopen.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Aopen Inc. engages in the research, design, and marketing of computer products in Taiwan. The company offers embedded PCs, such as digital signage media players, video wall controllers, industrial and medical box PCs, and chrome boxes; touch panel PCs, such as all-in-one panel and fan-less panel PCs, as well as panel PC with fan; and chrome bases. It also offers AOPEN Intelligent Control (AiCU and AiCU Advanced), a network digital signage solution that provides remote device-control on both hard- and software level. In addition, the company provides digital signage displays, including open frame displays, FHD and 4K digital signage displays, and digital signage displays with interactive whiteboard feature; and medical displays. Further, it offers commercial, consumer, gaming, and portable monitors; video conference cameras; mini projectors; wireless display solutions; and IT accessories, such as keyboards, mice, RGB light sticks, display stands, and screen protectors. Additionally, the company is involved in the provision of hardware design, custom manufactured device, and consulting services. It serves QSR, smart retail, smart manufacturing, hospitality, healthcare, and transportation industries. The company was incorporated in 1996 and is based in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	61.2
+open	61.6
+dayLow	60.2
+dayHigh	61.6
+regularMarketPreviousClose	61.2
+regularMarketOpen	61.6
+regularMarketDayLow	60.2
+regularMarketDayHigh	61.6
+dividendRate	2.0
+dividendYield	0.0326
+exDividendDate	1720051200	 (2024-07-04 08:00:00)
+payoutRatio	0.44509998
+trailingPE	18.219585
+forwardPE	64.631584
+volume	234881
+regularMarketVolume	234881
+averageVolume	368257
+averageVolume10days	201579
+averageDailyVolume10Day	201579
+bid	60.9
+ask	61.5
+marketCap	4816707072
+fiftyTwoWeekLow	58.2
+fiftyTwoWeekHigh	104.315506
+priceToSalesTrailing12Months	0.79156995
+fiftyDayAverage	63.11
+twoHundredDayAverage	66.5645
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.032679737
+currency	TWD
+enterpriseValue	3257171456
+profitMargins	0.04204
+sharesOutstanding	78448000
+heldPercentInsiders	0.52492
+heldPercentInstitutions	0.00014999999
+impliedSharesOutstanding	78448000
+bookValue	16.994
+priceToBook	3.6130402
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.446
+netIncomeToCommon	255795008
+trailingEps	3.37
+forwardEps	0.95
+lastSplitFactor	0.702068:1
+lastSplitDate	1411603200	 (2014-09-25 08:00:00)
+enterpriseToRevenue	0.535
+enterpriseToEbitda	17.889
+52WeekChange	-0.23511273
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1720051200	 (2024-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3046.TW
+underlyingSymbol	3046.TW
+shortName	AOPEN INC
+longName	Aopen Inc.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1ebe1cb7-1b62-3785-99ab-9b40656d29c7
+messageBoardId	finmb_11515736
+gmtOffSetMilliseconds	28800000
+currentPrice	61.4
+recommendationKey	none
+totalCash	1542610048
+totalCashPerShare	19.755
+ebitda	182080992
+totalDebt	5127000
+quickRatio	1.447
+currentRatio	1.53
+totalRevenue	6085004800
+debtToEquity	0.386
+revenuePerShare	80.512
+returnOnAssets	0.042069998
+returnOnEquity	0.23818001
+freeCashflow	587917888
+operatingCashflow	628598016
+earningsGrowth	0.311
+revenueGrowth	0.36
+grossMargins	0.07042
+ebitdaMargins	0.02992
+operatingMargins	0.03959
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     131000.0    -216258.727761       9345.574381           0.0
+Tax Rate For Calcs                                                   0.2          0.022743          0.065814           0.2
+Normalized EBITDA                                            221593000.0       225906000.0       173568000.0   -22123000.0
+Total Unusual Items                                             655000.0        -9509000.0          142000.0           NaN
+Total Unusual Items Excluding Goodwill                          655000.0        -9509000.0          142000.0           NaN
+Net Income From Continuing Operation Net Minority Interest   232207000.0       199102000.0       130205000.0   -66475000.0
+Reconciled Depreciation                                       10155000.0        11542000.0        24742000.0    38158000.0
+Reconciled Cost Of Revenue                                  5254009000.0      3020561000.0      2211857000.0  1425845000.0
+EBITDA                                                       222248000.0       216397000.0       173710000.0   -22123000.0
+EBIT                                                         212093000.0       204855000.0       148968000.0   -60281000.0
+Net Interest Income                                           16981000.0         7824000.0         4585000.0      326000.0
+Interest Expense                                                329000.0         2283000.0         3011000.0     4675000.0
+Interest Income                                               17310000.0        10107000.0         7596000.0     5001000.0
+Normalized Income                                            231683000.0  208394741.272239  130072345.574381   -66475000.0
+Net Income From Continuing And Discontinued Operation        232207000.0       199102000.0       130205000.0   -66475000.0
+Total Expenses                                              5502351000.0      3248135000.0      2498102000.0  1821118000.0
+Diluted Average Shares                                               NaN        72099000.0        71916825.0    71916825.0
+Basic Average Shares                                                 NaN        71917000.0        71916825.0    71916825.0
+Diluted EPS                                                          NaN              2.78          1.808135     -0.923937
+Basic EPS                                                            NaN              2.79          1.808135     -0.923937
+Diluted NI Availto Com Stockholders                          232207000.0       199102000.0       130205000.0   -66475000.0
+Net Income Common Stockholders                               232207000.0       199102000.0       130205000.0   -66475000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0           0.0
+Net Income                                                   232207000.0       199102000.0       130205000.0   -66475000.0
+Minority Interests                                             3304000.0         1137000.0        -6146000.0    -1084000.0
+Net Income Including Noncontrolling Interests                228903000.0       197965000.0       136351000.0   -65391000.0
+Net Income Continuous Operations                             228903000.0       197965000.0       136351000.0   -65391000.0
+Tax Provision                                                -17139000.0         4607000.0         9606000.0      435000.0
+Pretax Income                                                211764000.0       202572000.0       145957000.0   -64956000.0
+Other Non Operating Income Expenses                           10380000.0        90894000.0        46327000.0   -13573000.0
+Special Income Charges                                          655000.0        -9509000.0          142000.0           NaN
+Write Off                                                      -655000.0         9509000.0         -142000.0           NaN
+Net Non Operating Interest Income Expense                     16981000.0         7824000.0         4585000.0      326000.0
+Interest Expense Non Operating                                  329000.0         2283000.0         3011000.0     4675000.0
+Interest Income Non Operating                                 17310000.0        10107000.0         7596000.0     5001000.0
+Operating Income                                             164483000.0        81416000.0        75306000.0   -64904000.0
+Operating Expense                                            248342000.0       227574000.0       286245000.0   395273000.0
+Research And Development                                      20375000.0        16171000.0        19798000.0    31162000.0
+Selling General And Administration                           227967000.0       211403000.0       266447000.0   364111000.0
+Selling And Marketing Expense                                117815000.0       105160000.0       141118000.0   213118000.0
+General And Administrative Expense                           110152000.0       106243000.0       125329000.0   150993000.0
+Gross Profit                                                 412825000.0       308990000.0       361551000.0   330369000.0
+Cost Of Revenue                                             5254009000.0      3020561000.0      2211857000.0  1425845000.0
+Total Revenue                                               5666834000.0      3329551000.0      2573408000.0  1756214000.0
+Operating Revenue                                           5666834000.0      3329551000.0      2573408000.0  1756214000.0

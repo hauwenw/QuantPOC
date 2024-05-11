@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 198, Zhongyuan Road
+address2	Zhongli District
+city	Taoyuan City
+zip	320
+country	Taiwan
+phone	886 3 4515 494
+website	https://www.action.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Action Electronics Co., Ltd., together with its subsidiaries, engages in the sale, maintenance, installation, and servicing of various household appliances; manufacturing, processing, and trading of automotive audio-visual electronic products; and warehousing and logistic services and asset development, etc. in Taiwan and internationally. It is also involved in housing and building development, rental, and real estate leasing and trading, etc. activities. In addition, the company offers consumer electronic products and accessories, portable multimedia products, and LCD TV products; manufactures and sells car LCD TVs; and provides plant and leasing services. Action Electronics Co., Ltd. was founded in 1976 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsiu-Yun  Peng', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 621000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chen  Chelsea', 'title': 'Head of Corporate Governance', 'fiscalYear': 2021, 'totalPay': 869000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeffery  Peng', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 1440000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vincent  Wang', 'title': 'Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shih-Yun  Lei', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'totalPay': 1106000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	18.9
+open	19.05
+dayLow	18.95
+dayHigh	19.3
+regularMarketPreviousClose	18.9
+regularMarketOpen	19.05
+regularMarketDayLow	18.95
+regularMarketDayHigh	19.3
+dividendRate	0.22
+dividendYield	0.0114
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.5789
+fiveYearAvgDividendYield	5.36
+beta	0.721
+trailingPE	50.657894
+volume	1937702
+regularMarketVolume	1937702
+averageVolume	3391871
+averageVolume10days	5389926
+averageDailyVolume10Day	5389926
+bid	19.2
+ask	19.25
+marketCap	5335291904
+fiftyTwoWeekLow	13.7
+fiftyTwoWeekHigh	21.3
+priceToSalesTrailing12Months	3.4947066
+fiftyDayAverage	18.294
+twoHundredDayAverage	17.3935
+trailingAnnualDividendRate	0.1
+trailingAnnualDividendYield	0.0052910056
+currency	TWD
+enterpriseValue	5627241984
+profitMargins	0.07139
+sharesOutstanding	277158016
+heldPercentInsiders	0.23313999
+heldPercentInstitutions	0.03213
+impliedSharesOutstanding	286143008
+bookValue	10.145
+priceToBook	1.8974863
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.146
+netIncomeToCommon	108993000
+trailingEps	0.38
+lastSplitFactor	1.03202:1
+lastSplitDate	1313539200	 (2011-08-17 08:00:00)
+enterpriseToRevenue	3.686
+enterpriseToEbitda	37.438
+52WeekChange	0.3949275
+SandP52WeekChange	0.26265144
+lastDividendValue	0.22
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3024.TW
+underlyingSymbol	3024.TW
+shortName	ACTION ELECTRONICS
+longName	Action Electronics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	49db6e02-9530-336d-bc33-eb736634bf2d
+messageBoardId	finmb_9830449
+gmtOffSetMilliseconds	28800000
+currentPrice	19.25
+recommendationKey	none
+totalCash	978510976
+totalCashPerShare	3.531
+ebitda	150310000
+totalDebt	1270471040
+quickRatio	0.579
+currentRatio	1.44
+totalRevenue	1526678016
+debtToEquity	45.185
+revenuePerShare	5.508
+returnOnAssets	0.0135699995
+returnOnEquity	0.03864
+freeCashflow	-118742000
+operatingCashflow	869000
+earningsGrowth	0.199
+revenueGrowth	0.266
+grossMargins	0.27703
+ebitdaMargins	0.09846
+operatingMargins	0.06489
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   2506007.077984  -1179803.306058      313800.0     3829400.0
+Tax Rate For Calcs                                                   0.27427         0.158129           0.2           0.2
+Normalized EBITDA                                                224005000.0      202599000.0   130964000.0   135461000.0
+Total Unusual Items                                                9137000.0       -7461000.0     1569000.0    19147000.0
+Total Unusual Items Excluding Goodwill                             9137000.0       -7461000.0     1569000.0    19147000.0
+Net Income From Continuing Operation Net Minority Interest       108993000.0       91774000.0     9783000.0    39385000.0
+Reconciled Depreciation                                           72073000.0       75278000.0    64604000.0    70141000.0
+Reconciled Cost Of Revenue                                      1103735000.0     1095637000.0  1191520000.0   980541000.0
+EBITDA                                                           233142000.0      195138000.0   132533000.0   154608000.0
+EBIT                                                             161069000.0      119860000.0    67929000.0    84467000.0
+Net Interest Income                                                2641000.0       -4177000.0    -6584000.0    -7219000.0
+Interest Expense                                                  10885000.0       10848000.0     8712000.0    10486000.0
+Interest Income                                                   13526000.0        6671000.0     2128000.0     3267000.0
+Normalized Income                                           102362007.077984  98055196.693942     8527800.0    24067400.0
+Net Income From Continuing And Discontinued Operation            108993000.0       91774000.0   208540000.0    46096000.0
+Total Expenses                                                  1429618000.0     1424149000.0  1517899000.0  1248715000.0
+Diluted Average Shares                                                   NaN      277505000.0   278055000.0   277589000.0
+Basic Average Shares                                                     NaN      277158000.0   277158000.0   277158000.0
+Diluted EPS                                                              NaN             0.33          0.75          0.17
+Basic EPS                                                                NaN             0.33          0.75          0.17
+Diluted NI Availto Com Stockholders                              108993000.0       91774000.0   208540000.0    46096000.0
+Net Income Common Stockholders                                   108993000.0       91774000.0   208540000.0    46096000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0           0.0           0.0
+Net Income                                                       108993000.0       91774000.0   208540000.0    46096000.0
+Minority Interests                                                       NaN              0.0    -1061000.0     2598000.0
+Net Income Including Noncontrolling Interests                    108993000.0       91774000.0   209601000.0    43498000.0
+Net Income Discontinuous Operations                                      NaN              0.0   198757000.0     6711000.0
+Net Income Continuous Operations                                 108993000.0       91774000.0    10844000.0    36787000.0
+Tax Provision                                                     41191000.0       17238000.0    48373000.0    37194000.0
+Pretax Income                                                    150184000.0      109012000.0    59217000.0    73981000.0
+Other Non Operating Income Expenses                               49450000.0       35459000.0    25796000.0    34836000.0
+Special Income Charges                                             9137000.0       -7461000.0     1569000.0    19147000.0
+Other Special Charges                                                    NaN              NaN           NaN     -526000.0
+Write Off                                                         -9137000.0        7461000.0    -1569000.0   -19147000.0
+Impairment Of Capital Assets                                             NaN              NaN           NaN     7714000.0
+Net Non Operating Interest Income Expense                          2641000.0       -4177000.0    -6584000.0    -7219000.0
+Interest Expense Non Operating                                    10885000.0       10848000.0     8712000.0    10486000.0
+Interest Income Non Operating                                     13526000.0        6671000.0     2128000.0     3267000.0
+Operating Income                                                  97060000.0       62252000.0    18093000.0    32162000.0
+Operating Expense                                                325883000.0      328512000.0   326379000.0   268174000.0
+Research And Development                                          29980000.0       26863000.0    34438000.0    31584000.0
+Selling General And Administration                               295903000.0      301649000.0   291941000.0   236590000.0
+Selling And Marketing Expense                                    128628000.0      119117000.0   108640000.0    82352000.0
+General And Administrative Expense                               167275000.0      182532000.0   183301000.0   154238000.0
+Gross Profit                                                     422943000.0      390764000.0   344472000.0   300336000.0
+Cost Of Revenue                                                 1103735000.0     1095637000.0  1191520000.0   980541000.0
+Total Revenue                                                   1526678000.0     1486401000.0  1535992000.0  1280877000.0
+Operating Revenue                                               1526678000.0     1486401000.0  1535992000.0  1280877000.0

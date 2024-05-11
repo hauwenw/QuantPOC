@@ -1,0 +1,138 @@
+=== Ticker Info ===
+address1	No. 222 Industry Road
+address2	Hsiao Pyi Li Madou District
+city	Tainan City
+country	Taiwan
+phone	886 6 570 3271
+fax	886 6 570 0296
+website	https://www.csssc.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chien Shing Stainless Steel Co., Ltd. engages in the stainless-steel business in Taiwan and internationally. It engages in the cutting and sliding of stainless-steel coils; trading of various stainless-steel materials; and manufacture of customized stainless-steel applications. The company was founded in 1978 and is headquartered in Tainan City, Taiwan.
+fullTimeEmployees	65
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shuo-Tang  Yeh', 'title': 'Chairman of the Board & President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Yun  Chiu', 'title': 'Head of Finance, Accounting & Treasury Department', 'fiscalYear': 2021, 'totalPay': 1084000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ye Cai  Yun', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 387000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jing-Wen  Huang', 'title': 'CFO & Chief Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	11.25
+open	11.35
+dayLow	11.2
+dayHigh	11.5
+regularMarketPreviousClose	11.25
+regularMarketOpen	11.35
+regularMarketDayLow	11.2
+regularMarketDayHigh	11.5
+beta	0.495
+trailingPE	14.012346
+volume	1351344
+regularMarketVolume	1351344
+averageVolume	5159839
+averageVolume10days	2218008
+averageDailyVolume10Day	2218008
+bid	11.3
+ask	11.35
+marketCap	3191245568
+fiftyTwoWeekLow	5.18
+fiftyTwoWeekHigh	13.95
+priceToSalesTrailing12Months	4.320136
+fiftyDayAverage	11.3018
+twoHundredDayAverage	8.1628
+currency	TWD
+enterpriseValue	2707936512
+profitMargins	0.30895
+sharesOutstanding	281167008
+heldPercentInsiders	0.2876
+impliedSharesOutstanding	283735008
+bookValue	6.062
+priceToBook	1.8723195
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	228218000
+trailingEps	0.81
+lastSplitFactor	1.05:1
+lastSplitDate	965347200	 (2000-08-04 08:00:00)
+enterpriseToRevenue	3.666
+enterpriseToEbitda	-17.864
+52WeekChange	1.1826923
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	842572800	 (1996-09-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2025.TW
+underlyingSymbol	2025.TW
+shortName	CHIEN SHING STAINLESS STEEL CO
+longName	Chien Shing Stainless Steel Co., Ltd.
+firstTradeDateEpochUtc	946861200	 (2000-01-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a4fe48e8-0519-3d2d-b824-d354c54b11bf
+messageBoardId	finmb_9819904
+gmtOffSetMilliseconds	28800000
+currentPrice	11.35
+recommendationKey	none
+totalCash	483312000
+totalCashPerShare	1.719
+ebitda	-151584992
+quickRatio	5.47
+currentRatio	13.535
+totalRevenue	738691008
+revenuePerShare	2.627
+returnOnAssets	-0.07113
+returnOnEquity	0.14392
+freeCashflow	-471015360
+operatingCashflow	-684838016
+revenueGrowth	0.452
+grossMargins	-0.21096
+ebitdaMargins	-0.20521
+operatingMargins	-0.25656
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31    2022-12-31    2021-12-31
+Tax Effect Of Unusual Items                                         0.0           0.0           0.0
+Tax Rate For Calcs                                              0.06244      0.036222      0.000499
+Normalized EBITDA                                           280874000.0   924038000.0   411009000.0
+Net Income From Continuing Operation Net Minority Interest  228218000.0   780657000.0   276324000.0
+Reconciled Depreciation                                      37457000.0   106675000.0   120894000.0
+Reconciled Cost Of Revenue                                  894525000.0  1340478000.0  2166542000.0
+EBITDA                                                      280874000.0   924038000.0   411009000.0
+EBIT                                                        243417000.0   817363000.0   290115000.0
+Net Interest Income                                           3342000.0    -6354000.0   -13572000.0
+Interest Expense                                                    0.0     7366000.0    13653000.0
+Interest Income                                               3342000.0     1012000.0       81000.0
+Normalized Income                                           228218000.0   780657000.0   276324000.0
+Net Income From Continuing And Discontinued Operation       228218000.0   780657000.0   276324000.0
+Total Expenses                                              927682000.0  1376842000.0  2205420000.0
+Diluted Average Shares                                              NaN   281167000.0   281963265.0
+Basic Average Shares                                                NaN   281167000.0   281963265.0
+Diluted EPS                                                         NaN      2.776489          0.98
+Basic EPS                                                           NaN          2.78          0.98
+Diluted NI Availto Com Stockholders                         228218000.0   780657000.0   276324000.0
+Net Income Common Stockholders                              228218000.0   780657000.0   276324000.0
+Otherunder Preferred Stock Dividend                                 0.0           0.0           0.0
+Net Income                                                  228218000.0   780657000.0   276324000.0
+Net Income Including Noncontrolling Interests               228218000.0   780657000.0   276324000.0
+Net Income Continuous Operations                            228218000.0   780657000.0   276324000.0
+Tax Provision                                                15199000.0    29340000.0      138000.0
+Pretax Income                                               243417000.0   809997000.0   276462000.0
+Other Non Operating Income Expenses                         429066000.0   962186000.0    24513000.0
+Net Non Operating Interest Income Expense                     3342000.0    -6354000.0   -13572000.0
+Interest Expense Non Operating                                      0.0     7366000.0    13653000.0
+Interest Income Non Operating                                 3342000.0     1012000.0       81000.0
+Operating Income                                           -188991000.0  -145835000.0   265521000.0
+Operating Expense                                            33157000.0    36364000.0    38878000.0
+Other Operating Expenses                                      1744000.0     1715000.0     1687000.0
+Selling General And Administration                           31413000.0    34649000.0    37191000.0
+Selling And Marketing Expense                                 4959000.0     6285000.0     8946000.0
+General And Administrative Expense                           26454000.0    28364000.0    28245000.0
+Gross Profit                                               -155834000.0  -109471000.0   304399000.0
+Cost Of Revenue                                             894525000.0  1340478000.0  2166542000.0
+Total Revenue                                               738691000.0  1231007000.0  2470941000.0
+Operating Revenue                                           738691000.0  1231007000.0  2470941000.0

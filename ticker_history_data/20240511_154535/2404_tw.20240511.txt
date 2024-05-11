@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 13, Qiaohe Road
+address2	13F Zhonghe District
+city	New Taipei City
+zip	235029
+country	Taiwan
+phone	886 2 2917 4060
+fax	886 2 2910 8765
+website	https://www.uisco.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	United Integrated Services Co., Ltd. provides engineering construction services in Taiwan. The company engages in the contracting of various running water, instrumental control, and refrigerating and air conditioning projects; installation of clean rooms and related transactions; designing and installation of engineering toll collection systems; and installation and designing of controlling equipment in computer rooms. It also offers traffic surveillance and control system engineering building services; and technical advisory services for planning and designing of projects. In addition, the company provides factory computer control monitoring systems; engineering environment monitoring systems; and electrical and mechanical engineering contracts for transmission and distribution of electric power. Further, it designs, installs, maintains, and trades in various equipment for computerized automatic engineering monitoring systems; and imports restrained telecom radio frequency equipment. Additionally, the company is involved in the contracting of computer and communication system integration project, as well as manufacturing and trading of related software and hardware. United Integrated Services Co., Ltd. was incorporated in 1982 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hui Wen  Lee', 'title': 'Chairman & CEO', 'fiscalYear': 2021, 'totalPay': 21753000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ruo Se  Lee', 'title': 'CTO & Director', 'fiscalYear': 2021, 'totalPay': 24426000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiangching  Tseng', 'title': 'Chief Engineer & VP of Engineering', 'fiscalYear': 2021, 'totalPay': 13645000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Ming  Lai', 'title': 'President of Overseas Business Department & Director', 'fiscalYear': 2021, 'totalPay': 8347000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsu Chun  Yua', 'title': 'Chief Business Officer', 'fiscalYear': 2021, 'totalPay': 6528000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Liyu  Lin', 'title': 'Finance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Limei  Pan', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	383.5
+open	383.5
+dayLow	372.0
+dayHigh	384.0
+regularMarketPreviousClose	383.5
+regularMarketOpen	383.5
+regularMarketDayLow	372.0
+regularMarketDayHigh	384.0
+dividendRate	15.0
+dividendYield	0.04
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.6127
+fiveYearAvgDividendYield	6.75
+beta	0.719
+trailingPE	15.312372
+forwardPE	15.01201
+volume	2213081
+regularMarketVolume	2213081
+averageVolume	2991134
+averageVolume10days	1551790
+averageDailyVolume10Day	1551790
+bid	373.0
+ask	377.5
+marketCap	70345129984
+fiftyTwoWeekLow	205.0
+fiftyTwoWeekHigh	448.5
+priceToSalesTrailing12Months	1.0211272
+fiftyDayAverage	384.92
+twoHundredDayAverage	282.4775
+currency	TWD
+enterpriseValue	54811742208
+profitMargins	0.06757
+floatShares	160688643
+sharesOutstanding	187587008
+heldPercentInsiders	0.15812999
+heldPercentInstitutions	0.39821
+impliedSharesOutstanding	188556000
+bookValue	64.659
+priceToBook	5.799657
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.021
+netIncomeToCommon	4655215104
+trailingEps	24.49
+forwardEps	24.98
+lastSplitFactor	800:1000
+lastSplitDate	1543449600	 (2018-11-29 08:00:00)
+enterpriseToRevenue	0.796
+enterpriseToEbitda	8.981
+52WeekChange	0.6741072
+SandP52WeekChange	0.26265144
+lastDividendValue	15.0
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2404.TW
+underlyingSymbol	2404.TW
+shortName	UNITED INTEGRATION SERVICES CO 
+longName	United Integrated Services Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	77679226-4842-3c73-b34d-33602bf1bb5d
+messageBoardId	finmb_20406646
+gmtOffSetMilliseconds	28800000
+currentPrice	375.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	19220776960
+totalCashPerShare	102.463
+ebitda	6102923776
+totalDebt	3387979008
+quickRatio	1.233
+currentRatio	1.282
+totalRevenue	68889681920
+debtToEquity	27.259
+revenuePerShare	367.241
+returnOnAssets	0.094790004
+returnOnEquity	0.42081
+freeCashflow	3104679680
+operatingCashflow	4390721024
+earningsGrowth	-0.017
+revenueGrowth	-0.013
+grossMargins	0.10932
+ebitdaMargins	0.08859
+operatingMargins	0.09039
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     654087.743293      199595.850623     3162908.84462     2126416.515244
+Tax Rate For Calcs                                                   0.251863           0.244303          0.206686           0.194905
+Normalized EBITDA                                                6803404000.0       5563287000.0      3623015000.0       5128680000.0
+Total Unusual Items                                                 2597000.0           817000.0        15303000.0         10910000.0
+Total Unusual Items Excluding Goodwill                              2597000.0           817000.0        15303000.0         10910000.0
+Net Income From Continuing Operation Net Minority Interest       4655215000.0       3999485000.0      2769475000.0       4033304000.0
+Reconciled Depreciation                                           138498000.0        109966000.0        71182000.0         50188000.0
+Reconciled Cost Of Revenue                                      61358489000.0      41481586000.0     21519505000.0      30152496000.0
+EBITDA                                                           6806001000.0       5564104000.0      3638318000.0       5139590000.0
+EBIT                                                             6667503000.0       5454138000.0      3567136000.0       5089402000.0
+Net Interest Income                                               198644000.0        137159000.0        84614000.0         96828000.0
+Interest Expense                                                  188079000.0         26239000.0        11822000.0          7600000.0
+Interest Income                                                   386723000.0        163398000.0        96436000.0        104428000.0
+Normalized Income                                           4653272087.743293  3998867595.850623  2757334908.84462  4024520416.515244
+Net Income From Continuing And Discontinued Operation            4655215000.0       3999485000.0      2769475000.0       4033304000.0
+Total Expenses                                                  62830768000.0      42770763000.0     22481783000.0      31226906000.0
+Diluted Average Shares                                                    NaN        191486000.0       192834000.0        193661000.0
+Basic Average Shares                                                      NaN        188233000.0       190587000.0        190587000.0
+Diluted EPS                                                               NaN              20.89             14.36              20.83
+Basic EPS                                                                 NaN              21.25             14.53              21.16
+Diluted NI Availto Com Stockholders                              4655215000.0       3999485000.0      2769475000.0       4033304000.0
+Net Income Common Stockholders                                   4655215000.0       3999485000.0      2769475000.0       4033304000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0                0.0
+Net Income                                                       4655215000.0       3999485000.0      2769475000.0       4033304000.0
+Minority Interests                                               -192283000.0       -102360000.0       -51007000.0        -58028000.0
+Net Income Including Noncontrolling Interests                    4847498000.0       4101845000.0      2820482000.0       4091332000.0
+Net Income Continuous Operations                                 4847498000.0       4101845000.0      2820482000.0       4091332000.0
+Tax Provision                                                    1631926000.0       1326054000.0       734832000.0        990470000.0
+Pretax Income                                                    6479424000.0       5427899000.0      3555314000.0       5081802000.0
+Other Non Operating Income Expenses                               129085000.0       -247255000.0       261871000.0        312882000.0
+Special Income Charges                                              2597000.0           817000.0        15303000.0         10910000.0
+Write Off                                                          -2597000.0          -817000.0       -15303000.0        -10910000.0
+Net Non Operating Interest Income Expense                         198644000.0        137159000.0        84614000.0         96828000.0
+Interest Expense Non Operating                                    188079000.0         26239000.0        11822000.0          7600000.0
+Interest Income Non Operating                                     386723000.0        163398000.0        96436000.0        104428000.0
+Operating Income                                                 6058912000.0       5429547000.0      3124358000.0       4609736000.0
+Operating Expense                                                1472279000.0       1289177000.0       962278000.0       1074410000.0
+Research And Development                                           25425000.0         27165000.0        30000000.0         34723000.0
+Selling General And Administration                               1446854000.0       1262012000.0       932278000.0       1039687000.0
+Selling And Marketing Expense                                      42237000.0         39507000.0        27285000.0         37216000.0
+General And Administrative Expense                               1404617000.0       1222505000.0       904993000.0       1002471000.0
+Gross Profit                                                     7531191000.0       6718724000.0      4086636000.0       5684146000.0
+Cost Of Revenue                                                 61358489000.0      41481586000.0     21519505000.0      30152496000.0
+Total Revenue                                                   68889680000.0      48200310000.0     25606141000.0      35836642000.0
+Operating Revenue                                               68889680000.0      48200310000.0     25606141000.0      35836642000.0

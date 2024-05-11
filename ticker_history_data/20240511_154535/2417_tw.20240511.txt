@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 135, Jian 1st Road
+address2	Zhonghe District
+city	New Taipei City
+zip	23585
+country	Taiwan
+phone	886 2 2226 3630
+fax	886 2 3234 4842
+website	https://www.avermedia.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	AVerMedia Technologies, Inc. designs, manufactures, and sells audio and video computer peripherals and solutions for content creation, live streaming, video conferencing cameras, ear-phone-free speakerphones, and edge AI computing applications. It provides audio mixers, game and video capture products, webcams, speakerphone, microphones, streaming kits, wireless microphones, headsets, speakers, accessories, stream and record software products, video signal converters, and TV tuners. AVerMedia Technologies, Inc. was founded in 1990 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chung Song  Kuo', 'title': 'CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chandler  Lin', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesse  Lin', 'title': 'CFO & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shin-Liang  Chou', 'title': 'Senior Director of Legal Affairs & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ke  Ching', 'title': 'Chief Internal Auditor (Parental Leave)', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jin Ke  Ye', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://ir.avermedia.com.tw/
+maxAge	86400
+priceHint	2
+previousClose	37.85
+open	38.25
+dayLow	36.9
+dayHigh	38.35
+regularMarketPreviousClose	37.85
+regularMarketOpen	38.25
+regularMarketDayLow	36.9
+regularMarketDayHigh	38.35
+dividendRate	0.2
+dividendYield	0.0053
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	20.0215
+fiveYearAvgDividendYield	3.71
+beta	1.341
+trailingPE	3810.0
+volume	1529893
+regularMarketVolume	1529893
+averageVolume	6086334
+averageVolume10days	1742170
+averageDailyVolume10Day	1742170
+bid	38.05
+ask	38.1
+marketCap	5220309504
+fiftyTwoWeekLow	19.8
+fiftyTwoWeekHigh	55.6
+priceToSalesTrailing12Months	1.6110892
+fiftyDayAverage	42.733
+twoHundredDayAverage	33.85975
+trailingAnnualDividendRate	0.15
+trailingAnnualDividendYield	0.0039630122
+currency	TWD
+enterpriseValue	5001227776
+profitMargins	0.00055
+sharesOutstanding	137016000
+heldPercentInsiders	0.35127997
+heldPercentInstitutions	0.03502
+impliedSharesOutstanding	137203008
+bookValue	21.74
+priceToBook	1.7525299
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	1770000
+trailingEps	0.01
+lastSplitFactor	800:1000
+lastSplitDate	1632960000	 (2021-09-30 08:00:00)
+enterpriseToRevenue	1.543
+enterpriseToEbitda	68.7
+52WeekChange	0.8186158
+SandP52WeekChange	0.26265144
+lastDividendValue	0.200215
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2417.TW
+underlyingSymbol	2417.TW
+shortName	AVERMEDIA TECHNOLOGIES INC
+longName	AVerMedia Technologies, Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	92ebb5e2-b8b8-3071-9fae-f220d15d1041
+messageBoardId	finmb_108677
+gmtOffSetMilliseconds	28800000
+currentPrice	38.1
+recommendationKey	none
+totalCash	2339258112
+totalCashPerShare	17.053
+ebitda	72798000
+totalDebt	875788032
+quickRatio	1.834
+currentRatio	2.466
+totalRevenue	3240236032
+debtToEquity	20.751
+revenuePerShare	24.131
+returnOnAssets	-0.00913
+returnOnEquity	0.029979998
+freeCashflow	465799360
+operatingCashflow	463473984
+revenueGrowth	-0.119
+grossMargins	0.55201
+ebitdaMargins	0.02247
+operatingMargins	0.042680003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31       2022-12-31       2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -4929.562776   -450965.784325    -36262.803976       -5120.653852
+Tax Rate For Calcs                                                0.004603         0.110721         0.285534           0.131299
+Normalized EBITDA                                              340130000.0      430698000.0      684074000.0       2005648000.0
+Total Unusual Items                                             -1071000.0       -4073000.0        -127000.0           -39000.0
+Total Unusual Items Excluding Goodwill                          -1071000.0       -4073000.0        -127000.0           -39000.0
+Net Income From Continuing Operation Net Minority Interest       1770000.0       31074000.0       42587000.0       1233096000.0
+Reconciled Depreciation                                        193777000.0      190115000.0      159681000.0        137649000.0
+Reconciled Cost Of Revenue                                    1451589000.0     1994024000.0     2385814000.0       3260666000.0
+EBITDA                                                         339059000.0      426625000.0      683947000.0       2005609000.0
+EBIT                                                           145282000.0      236510000.0      524266000.0       1867960000.0
+Net Interest Income                                             32098000.0        -936000.0       -3858000.0          -801000.0
+Interest Expense                                                17750000.0       14185000.0        7942000.0          5765000.0
+Interest Income                                                 49848000.0       13249000.0        4084000.0          4964000.0
+Normalized Income                                           2836070.437224  34696034.215675  42677737.196024  1233129879.346148
+Net Income From Continuing And Discontinued Operation            1770000.0       31074000.0       42587000.0       1233096000.0
+Total Expenses                                                3328552000.0     3896283000.0     4178083000.0       5200759000.0
+Diluted Average Shares                                                 NaN      137069000.0      160059000.0        154942000.0
+Basic Average Shares                                                   NaN      136948000.0      159646000.0        153839000.0
+Diluted EPS                                                            NaN             0.23             0.27               6.37
+Basic EPS                                                              NaN             0.23             0.27               6.41
+Diluted NI Availto Com Stockholders                              1770000.0       31074000.0       42587000.0       1233096000.0
+Net Income Common Stockholders                                   1770000.0       31074000.0       42587000.0       1233096000.0
+Otherunder Preferred Stock Dividend                                    0.0              0.0              0.0                0.0
+Net Income                                                       1770000.0       31074000.0       42587000.0       1233096000.0
+Minority Interests                                            -125175000.0     -166635000.0     -326309000.0       -384595000.0
+Net Income Including Noncontrolling Interests                  126945000.0      197709000.0      368896000.0       1617691000.0
+Net Income Continuous Operations                               126945000.0      197709000.0      368896000.0       1617691000.0
+Tax Provision                                                     587000.0       24616000.0      147428000.0        244504000.0
+Pretax Income                                                  127532000.0      222325000.0      516324000.0       1862195000.0
+Other Non Operating Income Expenses                            184821000.0      149718000.0      -16226000.0         12649000.0
+Special Income Charges                                          -1071000.0       -4073000.0        -127000.0           -39000.0
+Write Off                                                        1071000.0        4073000.0         127000.0            39000.0
+Net Non Operating Interest Income Expense                       32098000.0        -936000.0       -3858000.0          -801000.0
+Interest Expense Non Operating                                  17750000.0       14185000.0        7942000.0          5765000.0
+Interest Income Non Operating                                   49848000.0       13249000.0        4084000.0          4964000.0
+Operating Income                                               -88316000.0       77616000.0      536535000.0       1850386000.0
+Operating Expense                                             1876963000.0     1902259000.0     1792269000.0       1940093000.0
+Research And Development                                       621727000.0      626306000.0      572722000.0        524668000.0
+Selling General And Administration                            1255236000.0     1275953000.0     1219547000.0       1415425000.0
+Selling And Marketing Expense                                 1066945000.0     1082066000.0     1025029000.0       1186809000.0
+General And Administrative Expense                             188291000.0      193887000.0      194518000.0        228616000.0
+Gross Profit                                                  1788647000.0     1979875000.0     2328804000.0       3790479000.0
+Cost Of Revenue                                               1451589000.0     1994024000.0     2385814000.0       3260666000.0
+Total Revenue                                                 3240236000.0     3973899000.0     4714618000.0       7051145000.0
+Operating Revenue                                             3240236000.0     3973899000.0     4714618000.0       7051145000.0

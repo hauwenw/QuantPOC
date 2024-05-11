@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 16, Li-Hsin Road
+address2	Science Park
+city	Hsinchu City
+country	Taiwan
+phone	886 3 578 6688
+fax	886 3 563 2888
+website	https://www.macronix.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Macronix International Co., Ltd., an investment holding company, engages in the design, manufacture, and supply of integrated circuits and memory chips in Taiwan, China, and internationally. The company provides a range of NOR flash, NAND flash, and read-only memory products. It also offers wafer foundry services to IC design and IDM companies. In addition, the company develops integrated circuit systems and software; and provides after-sales services, as well as offers Combi-SIM IC and related services. It serves the consumer, communications, computing, automotive, networking, and other segment markets. The company was incorporated in 1989 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Miin Chyou  Wu', 'age': 74, 'title': 'Founder, Chairman & CEO', 'yearBorn': 1949, 'fiscalYear': 2022, 'totalPay': 172959000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chih-Yuan  Lu Ph.D.', 'age': 73, 'title': 'President & Director', 'yearBorn': 1950, 'fiscalYear': 2022, 'totalPay': 109805000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dang-Hsing  Yiu', 'age': 70, 'title': 'Chief Marketing Officer, Senior VP & Director', 'yearBorn': 1953, 'fiscalYear': 2022, 'totalPay': 36797000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ful-Long  Ni', 'age': 64, 'title': 'VP & Director', 'yearBorn': 1959, 'fiscalYear': 2022, 'totalPay': 58455000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Fu  Yeh', 'age': 66, 'title': 'VP of Finance Center & Director', 'yearBorn': 1957, 'fiscalYear': 2022, 'totalPay': 10365000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Y. L. Lin', 'title': 'Associate Vice President of Administration Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ke-Zhong  Wang', 'title': 'Head of Emerging R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rui-Kun  Chen', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	26.35
+open	26.5
+dayLow	26.4
+dayHigh	27.15
+regularMarketPreviousClose	26.35
+regularMarketOpen	26.5
+regularMarketDayLow	26.4
+regularMarketDayHigh	27.15
+dividendRate	1.8
+dividendYield	0.0669
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	2.4828
+fiveYearAvgDividendYield	4.22
+beta	1.089
+forwardPE	32.80488
+volume	9217002
+regularMarketVolume	9217002
+averageVolume	7824871
+averageVolume10days	9067871
+averageDailyVolume10Day	9067871
+bid	26.9
+ask	26.95
+marketCap	49869099008
+fiftyTwoWeekLow	25.1
+fiftyTwoWeekHigh	35.55
+priceToSalesTrailing12Months	1.8976347
+fiftyDayAverage	27.012
+twoHundredDayAverage	29.63775
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.018975332
+currency	TWD
+enterpriseValue	58134396928
+profitMargins	-0.09222
+floatShares	1792469653
+sharesOutstanding	1853869952
+heldPercentInsiders	0.04231
+heldPercentInstitutions	0.22402
+impliedSharesOutstanding	1916359936
+bookValue	26.067
+priceToBook	1.0319561
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-2423592960
+trailingEps	-1.31
+forwardEps	0.82
+pegRatio	-0.07
+lastSplitFactor	1020.006:1000
+lastSplitDate	1535068800	 (2018-08-24 08:00:00)
+enterpriseToRevenue	2.212
+enterpriseToEbitda	78.876
+52WeekChange	-0.17103237
+SandP52WeekChange	0.26265144
+lastDividendValue	1.8
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2337.TW
+underlyingSymbol	2337.TW
+shortName	MACRONIX INTERNATIONAL
+longName	Macronix International Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	835ae254-98a9-347e-8d43-be744d4bdd73
+messageBoardId	finmb_357696
+gmtOffSetMilliseconds	28800000
+currentPrice	26.9
+targetHighPrice	36.0
+targetLowPrice	23.5
+targetMeanPrice	29.13
+targetMedianPrice	28.5
+recommendationMean	3.2
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	11905911808
+totalCashPerShare	6.422
+ebitda	737038720
+totalDebt	20170074112
+totalRevenue	26279608320
+debtToEquity	41.738
+revenuePerShare	14.176
+revenueGrowth	-0.189
+grossMargins	0.23275
+ebitdaMargins	0.02805
+operatingMargins	-0.22604
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31     2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    -536926.623841            0.0   255290253.666633            0.0
+Tax Rate For Calcs                                                    0.09823       0.128505           0.102407       0.088243
+Normalized EBITDA                                                2605437000.0  15040651000.0      15355595000.0   9834329000.0
+Total Unusual Items                                                -5466000.0            0.0       2492896000.0            0.0
+Total Unusual Items Excluding Goodwill                             -5466000.0            0.0       2492896000.0            0.0
+Net Income From Continuing Operation Net Minority Interest      -1699593000.0   8969775000.0      11962952000.0   5326083000.0
+Reconciled Depreciation                                          4223513000.0   4538894000.0       4284232000.0   3746327000.0
+Reconciled Cost Of Revenue                                      20862948000.0  24249635000.0      29523012000.0  26391592000.0
+EBITDA                                                           2599971000.0  15040651000.0      17848491000.0   9834329000.0
+EBIT                                                            -1623542000.0  10501757000.0      13564259000.0   6088002000.0
+Net Interest Income                                               -13400000.0    -80411000.0       -210840000.0   -216098000.0
+Interest Expense                                                  260694000.0    209363000.0        236570000.0    246956000.0
+Interest Income                                                   247294000.0    128952000.0         25730000.0     30858000.0
+Normalized Income                                          -1694663926.623841   8969775000.0  9725346253.666634   5326083000.0
+Net Income From Continuing And Discontinued Operation           -1699593000.0   8969775000.0      11962952000.0   5326083000.0
+Total Expenses                                                  30025241000.0  34118293000.0      39508886000.0  33934470000.0
+Diluted Average Shares                                           1853868000.0   1917425000.0       1914072320.0   1877058000.0
+Basic Average Shares                                             1853868000.0   1850115000.0       1846134568.0   1839322000.0
+Diluted EPS                                                             -0.92           4.68               6.25           2.84
+Basic EPS                                                               -0.92           4.85               6.48            2.9
+Diluted NI Availto Com Stockholders                             -1699593000.0   8969775000.0      11962952000.0   5326083000.0
+Net Income Common Stockholders                                  -1699593000.0   8969775000.0      11962952000.0   5326083000.0
+Otherunder Preferred Stock Dividend                                       0.0            0.0                0.0            0.0
+Net Income                                                      -1699593000.0   8969775000.0      11962952000.0   5326083000.0
+Minority Interests                                                  -446000.0            0.0           113000.0       471000.0
+Net Income Including Noncontrolling Interests                   -1699147000.0   8969775000.0      11962839000.0   5325612000.0
+Net Income Continuous Operations                                -1699147000.0   8969775000.0      11962839000.0   5325612000.0
+Tax Provision                                                    -185089000.0   1322619000.0       1364850000.0    515434000.0
+Pretax Income                                                   -1884236000.0  10292394000.0      13327689000.0   5841046000.0
+Other Non Operating Income Expenses                               536263000.0   1003644000.0        146433000.0    190667000.0
+Special Income Charges                                             -5466000.0            0.0       2505176000.0            0.0
+Other Special Charges                                                     NaN            NaN      -2505176000.0            NaN
+Write Off                                                           5466000.0            0.0                NaN            NaN
+Net Non Operating Interest Income Expense                         -13400000.0    -80411000.0       -210840000.0   -216098000.0
+Interest Expense Non Operating                                    260694000.0    209363000.0        236570000.0    246956000.0
+Interest Income Non Operating                                     247294000.0    128952000.0         25730000.0     30858000.0
+Operating Income                                                -2401633000.0   9369161000.0      11064105000.0   5866477000.0
+Operating Expense                                                9162293000.0   9868658000.0       9985874000.0   7542878000.0
+Research And Development                                         5785863000.0   5912844000.0       5615664000.0   4115844000.0
+Selling General And Administration                               3376430000.0   3955814000.0       4370210000.0   3427034000.0
+Selling And Marketing Expense                                    1644637000.0   1794296000.0       1789142000.0   1538615000.0
+General And Administrative Expense                               1731793000.0   2161518000.0       2581068000.0   1888419000.0
+Gross Profit                                                     6760660000.0  19237819000.0      21049979000.0  13409355000.0
+Cost Of Revenue                                                 20862948000.0  24249635000.0      29523012000.0  26391592000.0
+Total Revenue                                                   27623608000.0  43487454000.0      50572991000.0  39800947000.0
+Operating Revenue                                               27623608000.0  43487454000.0      50572991000.0  39800947000.0

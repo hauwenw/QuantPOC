@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 66, Dun Hua South Road
+address2	1st, 6th, 9th, 10th, 12th & 13th Floors Section 1
+city	Taipei
+zip	105
+country	Taiwan
+phone	886 2 2586 5859
+fax	886 2 2772 1585
+website	https://www.yuanta.com
+industry	Financial Conglomerates
+industryKey	financial-conglomerates
+industryDisp	Financial Conglomerates
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Yuanta Financial Holding Co., Ltd. operates as a financial services company primarily in Taiwan. The company operates through five segments: Banking, Securities, Futures, Insurance, and Others. It offers personal and corporate banking services; and securities brokerage, lending, trading, dealing, underwriting, financing and refinancing, trading assistance, and investment consulting services, as well as engages in the securities investment trust business. The company also provides futures management, consultant, contract trading, and contract and agency financing services; and issues financial and derivative instruments. In addition, it offers asset management services; investment and management, financial, enterprise management, business information, and economic and trade consultancy services; marketing strategy and plan, technique promotion, and technique services; insurance agency services; and investment intermediary, trust, financial advisory, investment consultancy, and discretionary account services. Further, the company manages mutual, private, and venture capital funds; and provides derivative instruments brokerage and dealing services. Additionally, it is involved in the real estate investment, investment trusts, and leasing business; and provision of monetary debt management services for financial institutions, as well as information services. In addition, the company offers life, medical, accident injury, and investment-oriented insurance products. Yuanta Financial Holding Co., Ltd. was founded in 1961 and is based in Taipei, Taiwan.
+fullTimeEmployees	14913
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chien  Weng', 'age': 65, 'title': 'President, Manager & Representative Director', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsu-Shu  Mai', 'title': 'CFO & Senior VP of Financial Management Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng Huang  Wei', 'title': 'Executive VP & Chief International Operations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Jung  Lu', 'title': 'VP of Accounting Dept. & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fang-Ming  Lo', 'title': 'VP of IT Dept & Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching Sun  Yang', 'title': 'Chief Administration Officer & Senior VP of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ricky  Huang', 'title': 'IR Professional', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chu Su  Yung', 'title': 'Chief Legal Officer & VP of Legal Affairs Dept.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jing-Fang  Lin', 'title': 'VP & Chief Human Resource Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiu-Wei  Chen', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	31.65
+open	31.65
+dayLow	31.65
+dayHigh	32.2
+regularMarketPreviousClose	31.65
+regularMarketOpen	31.65
+regularMarketDayLow	31.65
+regularMarketDayHigh	32.2
+dividendRate	0.79
+dividendYield	0.024600001
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.3771
+fiveYearAvgDividendYield	4.48
+beta	0.736
+trailingPE	15.358851
+forwardPE	12.943547
+volume	13304741
+regularMarketVolume	13304741
+averageVolume	21500251
+averageVolume10days	18122774
+averageDailyVolume10Day	18122774
+bid	32.1
+ask	32.15
+marketCap	407320068096
+fiftyTwoWeekLow	22.019705
+fiftyTwoWeekHigh	32.2
+priceToSalesTrailing12Months	2.676634
+fiftyDayAverage	29.818
+twoHundredDayAverage	26.686234
+trailingAnnualDividendRate	1.1
+trailingAnnualDividendYield	0.034755137
+currency	TWD
+enterpriseValue	287210242048
+profitMargins	0.17458001
+floatShares	10399083371
+sharesOutstanding	12689099776
+heldPercentInsiders	0.19455
+heldPercentInstitutions	0.23977
+impliedSharesOutstanding	12689099776
+bookValue	22.618
+priceToBook	1.4192235
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.639
+netIncomeToCommon	26566197248
+trailingEps	2.09
+forwardEps	2.48
+pegRatio	-1.41
+lastSplitFactor	1015:1000
+lastSplitDate	1691712000	 (2023-08-11 08:00:00)
+enterpriseToRevenue	1.887
+enterpriseToEbitda	9.394
+52WeekChange	0.42901313
+SandP52WeekChange	0.26265144
+lastDividendValue	0.788177
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2885.TW
+underlyingSymbol	2885.TW
+shortName	YUANTA FINANCIAL HOLDING CO. LT
+longName	Yuanta Financial Holding Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	16fa9f22-2438-3933-8b30-69dfb8946d91
+messageBoardId	finmb_9682881
+gmtOffSetMilliseconds	28800000
+currentPrice	32.1
+targetHighPrice	30.7
+targetLowPrice	19.4
+targetMeanPrice	26.13
+targetMedianPrice	27.2
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	672465551360
+totalCashPerShare	52.996
+ebitda	30574106624
+totalDebt	530987024384
+quickRatio	0.465
+currentRatio	0.855
+totalRevenue	152176230400
+debtToEquity	172.188
+revenuePerShare	11.993
+returnOnAssets	0.0057599996
+returnOnEquity	0.09741
+freeCashflow	-141089013760
+operatingCashflow	-35466862592
+earningsGrowth	0.639
+revenueGrowth	0.241
+grossMargins	0.51421
+ebitdaMargins	0.20091
+operatingMargins	0.23318
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -2563400.0    -10299600.0  4967280503.847074  3977309728.723897
+Tax Rate For Calcs                                                    0.2            0.2           0.157463           0.155665
+Normalized EBITDA                                           37280490000.0  31678908000.0      22715182000.0      17803585000.0
+Total Unusual Items                                           -12817000.0    -51498000.0      31545679000.0      25550436000.0
+Total Unusual Items Excluding Goodwill                        -12817000.0    -51498000.0      31545679000.0      25550436000.0
+Net Income From Continuing Operation Net Minority Interest  33985651000.0  28413813000.0      34865957000.0      24104576000.0
+Reconciled Depreciation                                      3269205000.0   3162099000.0       3107200000.0       3137501000.0
+Reconciled Cost Of Revenue                                   3741724000.0   3480289000.0                NaN                NaN
+EBITDA                                                      37267673000.0  31627410000.0      54260861000.0      43354021000.0
+EBIT                                                        33998468000.0  28465311000.0      51153661000.0      40216520000.0
+Net Interest Income                                                   NaN  30701365000.0      29973751000.0      26918952000.0
+Interest Expense                                                      NaN  14530723000.0       7012317000.0       9450242000.0
+Interest Income                                                       NaN  45232088000.0      36986068000.0      36369194000.0
+Normalized Income                                           33995904600.0  28455011400.0  8287558503.847074  2531449728.723897
+Net Income From Continuing And Discontinued Operation       28528229000.0  22710413000.0      34865957000.0      24104576000.0
+Total Expenses                                              64104232000.0  63088069000.0                NaN                NaN
+Diluted Average Shares                                                NaN  12689082000.0      12689082385.0      12689082466.0
+Basic Average Shares                                                  NaN  12689082000.0      12689082385.0      12689082466.0
+Diluted EPS                                                           NaN           1.69           2.747713           1.899631
+Basic EPS                                                             NaN           1.69           2.748768           1.903487
+Diluted NI Availto Com Stockholders                         28528229000.0  22710413000.0      34865957000.0      24104576000.0
+Net Income Common Stockholders                              28528229000.0  22710413000.0      34865957000.0      24104576000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                NaN                NaN
+Net Income                                                  28528229000.0  22710413000.0      34865957000.0      24104576000.0
+Minority Interests                                                    NaN  -1254086000.0      -2324754000.0      -1872468000.0
+Net Income Including Noncontrolling Interests               28528229000.0  22710413000.0      37190711000.0      25977044000.0
+Net Income Discontinuous Operations                         -5457422000.0  -5703400000.0                NaN                NaN
+Net Income Continuous Operations                            33985651000.0  28413813000.0      37190711000.0      25977044000.0
+Tax Provision                                                         NaN   5703400000.0       6950633000.0       4789234000.0
+Pretax Income                                               33985651000.0  28413813000.0      44141344000.0      30766278000.0
+Special Income Charges                                        -12817000.0    -51498000.0       -280546000.0      -1424908000.0
+Write Off                                                      12817000.0     51498000.0        280546000.0       1424908000.0
+Gain On Sale Of Security                                              NaN  -2252381000.0      31484945000.0      26746711000.0
+Operating Income                                            33998468000.0  28465311000.0                NaN                NaN
+Operating Expense                                           60362508000.0  59607780000.0      74564903000.0      82710536000.0
+Other Operating Expenses                                    44230840000.0  44962227000.0      21301277000.0      39928431000.0
+Depreciation And Amortization In Income Statement                     NaN   3162099000.0       3107200000.0       3137501000.0
+Depreciation Income Statement                                         NaN   3162099000.0       3107200000.0       3137501000.0
+Selling General And Administration                          16131668000.0  14645553000.0      16201356000.0      12661042000.0
+General And Administrative Expense                          16131668000.0  14645553000.0      16201356000.0      12661042000.0
+Gross Profit                                                94360976000.0  88073091000.0                NaN                NaN
+Cost Of Revenue                                              3741724000.0   3480289000.0                NaN                NaN
+Total Revenue                                               98102700000.0  91553380000.0     119027201000.0     116757920000.0
+Operating Revenue                                           98102700000.0  91553380000.0     119027201000.0     116757920000.0

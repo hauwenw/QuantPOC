@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 100, Daqing Street
+address2	Section 2 South District
+city	Taichung
+zip	40242
+country	Taiwan
+phone	886 4 2369 2388
+fax	886 4 2261 7586
+website	https://www.bionime.com
+industry	Medical Instruments & Supplies
+industryKey	medical-instruments-supplies
+industryDisp	Medical Instruments & Supplies
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Bionime Corporation designs, manufactures, and sells medical instruments in China, Switzerland, the United States, Algeria, Egypt, and internationally. The company offers blood glucose monitors and self-monitors, as well as accessories, such as test strips and lancing devices for hospital and clinical use. It is also involved in the provision of biotechnology services; examining of pharmaceuticals; and selling of precision instruments. Bionime Corporation was incorporated in 2003 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chun-Mu  Huang', 'title': 'Founder, Chairman & GM', 'fiscalYear': 2021, 'totalPay': 4429000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Zhen  Chen', 'title': 'CFO, Assistant GM of Administration Division & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Jen  Hsiu', 'title': 'Assistant General Manager of Operation Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhen Teng Xu', 'title': 'Vice President of Research and Development', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Hong  Shi', 'title': 'Assistant General Manager of Sales Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Lun  Zhang', 'title': 'Assistant General Manager of Marketing Planning Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	70.7
+open	70.6
+dayLow	69.4
+dayHigh	70.6
+regularMarketPreviousClose	70.7
+regularMarketOpen	70.6
+regularMarketDayLow	69.4
+regularMarketDayHigh	70.6
+dividendRate	2.1
+dividendYield	0.03
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	19.0894
+fiveYearAvgDividendYield	3.09
+beta	0.59
+trailingPE	635.4546
+forwardPE	22.403847
+volume	93042
+regularMarketVolume	93042
+averageVolume	65536
+averageVolume10days	86274
+averageDailyVolume10Day	86274
+bid	69.9
+ask	70.0
+marketCap	4251318016
+fiftyTwoWeekLow	67.2
+fiftyTwoWeekHigh	90.1
+priceToSalesTrailing12Months	2.421621
+fiftyDayAverage	70.176
+twoHundredDayAverage	73.8115
+currency	TWD
+enterpriseValue	6625759744
+profitMargins	0.00354
+sharesOutstanding	60820000
+heldPercentInsiders	0.46098
+heldPercentInstitutions	0.029590001
+impliedSharesOutstanding	61173600
+bookValue	32.654
+priceToBook	2.140626
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.586
+netIncomeToCommon	6209000
+trailingEps	0.11
+forwardEps	3.12
+lastSplitFactor	1.1:1
+lastSplitDate	1311292800	 (2011-07-22 08:00:00)
+enterpriseToRevenue	3.774
+enterpriseToEbitda	51.712
+52WeekChange	-0.05795151
+SandP52WeekChange	0.26265144
+lastDividendValue	2.099834
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4737.TW
+underlyingSymbol	4737.TW
+shortName	BIONIME CORPORATION
+longName	Bionime Corporation
+firstTradeDateEpochUtc	1293066000	 (2010-12-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1be58b87-4578-317d-92a9-7c024b62c6ea
+messageBoardId	finmb_24887133
+gmtOffSetMilliseconds	28800000
+currentPrice	69.9
+recommendationKey	none
+totalCash	449012992
+totalCashPerShare	7.383
+ebitda	128129000
+totalDebt	2816271104
+quickRatio	0.616
+currentRatio	1.005
+totalRevenue	1755566976
+debtToEquity	141.294
+revenuePerShare	28.895
+returnOnAssets	-0.00162
+returnOnEquity	0.00321
+freeCashflow	-263229120
+operatingCashflow	203443008
+earningsGrowth	-0.589
+revenueGrowth	-0.18
+grossMargins	0.40765
+ebitdaMargins	0.07298
+operatingMargins	-0.042519998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    7302800.0    -5917400.0     4112400.0    -4656800.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                            143267000.0   299950000.0   227731000.0   239429000.0
+Total Unusual Items                                           36514000.0   -29587000.0    20562000.0   -23284000.0
+Total Unusual Items Excluding Goodwill                        36514000.0   -29587000.0    20562000.0   -23284000.0
+Net Income From Continuing Operation Net Minority Interest     6209000.0    91025000.0    87413000.0    62434000.0
+Reconciled Depreciation                                      163422000.0   153232000.0   154657000.0   163482000.0
+Reconciled Cost Of Revenue                                  1039917000.0  1206463000.0  1066793000.0   919461000.0
+EBITDA                                                       179781000.0   270363000.0   248293000.0   216145000.0
+EBIT                                                          16359000.0   117131000.0    93636000.0    52663000.0
+Net Interest Income                                          -43915000.0   -29705000.0   -18338000.0   -20237000.0
+Interest Expense                                              48234000.0    30648000.0    19051000.0    21552000.0
+Interest Income                                                4319000.0      943000.0      713000.0     1315000.0
+Normalized Income                                            -23002200.0   114694600.0    70963400.0    81061200.0
+Net Income From Continuing And Discontinued Operation          6209000.0    91025000.0    87413000.0    62434000.0
+Total Expenses                                              1805420000.0  2049585000.0  1795192000.0  1624181000.0
+Diluted Average Shares                                               NaN    61424000.0    60827000.0    60376000.0
+Basic Average Shares                                                 NaN    60533000.0    60078000.0    59176000.0
+Diluted EPS                                                          NaN          1.48          1.44          1.03
+Basic EPS                                                            NaN           1.5          1.45          1.06
+Diluted NI Availto Com Stockholders                            6209000.0    91025000.0    87413000.0    62434000.0
+Net Income Common Stockholders                                 6209000.0    91025000.0    87413000.0    62434000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                     6209000.0    91025000.0    87413000.0    62434000.0
+Minority Interests                                             -322000.0     -795000.0    -1912000.0    -1086000.0
+Net Income Including Noncontrolling Interests                  6531000.0    91820000.0    89325000.0    63520000.0
+Net Income Continuous Operations                               6531000.0    91820000.0    89325000.0    63520000.0
+Tax Provision                                                -38406000.0    -5337000.0   -14740000.0   -32409000.0
+Pretax Income                                                -31875000.0    86483000.0    74585000.0    31111000.0
+Other Non Operating Income Expenses                           25379000.0   -15229000.0    17629000.0    30227000.0
+Special Income Charges                                        36514000.0   -29587000.0    20562000.0   -23284000.0
+Write Off                                                    -36514000.0    29587000.0   -20562000.0    23284000.0
+Net Non Operating Interest Income Expense                    -43915000.0   -29705000.0   -18338000.0   -20237000.0
+Interest Expense Non Operating                                48234000.0    30648000.0    19051000.0    21552000.0
+Interest Income Non Operating                                  4319000.0      943000.0      713000.0     1315000.0
+Operating Income                                             -49853000.0   161004000.0    54732000.0    44405000.0
+Operating Expense                                            765503000.0   843122000.0   728399000.0   704720000.0
+Research And Development                                     242338000.0   201977000.0   187860000.0   247875000.0
+Selling General And Administration                           523165000.0   641145000.0   540539000.0   456845000.0
+Selling And Marketing Expense                                279359000.0   399511000.0   302768000.0   235804000.0
+General And Administrative Expense                           243806000.0   241634000.0   237771000.0   221041000.0
+Gross Profit                                                 715650000.0  1004126000.0   783131000.0   749125000.0
+Cost Of Revenue                                             1039917000.0  1206463000.0  1066793000.0   919461000.0
+Total Revenue                                               1755567000.0  2210589000.0  1849924000.0  1668586000.0
+Operating Revenue                                           1755567000.0  2210589000.0  1849924000.0  1668586000.0

@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	No.11, Jingke Road
+address2	Nantun District
+city	Taichung
+zip	40852
+country	Taiwan
+phone	886 4 3600 2345
+fax	886 4 3600 3345
+website	https://www.largan.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	LARGAN Precision Co.,Ltd, together with its subsidiaries, designs, manufactures, and sells plastic aspherical lens in China, Korea, Vietnam, Japan, and internationally. The company offers cellphone/NB, web cam, car, camera, and scanner lens. It also engages in the sale of medical equipment, and development of the software. The company was incorporated in 1987 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. En-Ping  Lin', 'title': 'CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Chih  Huang', 'title': 'President, CTO & Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsing-Ju  Tsaur', 'title': 'Finance & Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chia Huang  Yin', 'title': 'Special Assistant to CEO and Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. En-Chou  Lin', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	2205.0
+open	2205.0
+dayLow	2205.0
+dayHigh	2230.0
+regularMarketPreviousClose	2205.0
+regularMarketOpen	2205.0
+regularMarketDayLow	2205.0
+regularMarketDayHigh	2230.0
+dividendRate	67.5
+dividendYield	0.030299999
+exDividendDate	1710979200	 (2024-03-21 08:00:00)
+payoutRatio	0.4389
+fiveYearAvgDividendYield	3.48
+beta	0.919
+trailingPE	14.492754
+forwardPE	13.23285
+volume	209026
+regularMarketVolume	209026
+averageVolume	594875
+averageVolume10days	357705
+averageDailyVolume10Day	357705
+bid	2230.0
+ask	2235.0
+marketCap	297633644544
+fiftyTwoWeekLow	1925.0
+fiftyTwoWeekHigh	2880.0
+priceToSalesTrailing12Months	6.0937743
+fiftyDayAverage	2378.0
+twoHundredDayAverage	2303.775
+trailingAnnualDividendRate	67.5
+trailingAnnualDividendYield	0.030612245
+currency	TWD
+enterpriseValue	179211583488
+profitMargins	0.36653
+floatShares	108531002
+sharesOutstanding	133468000
+heldPercentInsiders	0.28457
+heldPercentInstitutions	0.28704
+impliedSharesOutstanding	134391008
+bookValue	1240.074
+priceToBook	1.7982798
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.234
+netIncomeToCommon	17902321664
+trailingEps	153.87
+forwardEps	168.52
+pegRatio	-6.18
+lastSplitFactor	1.02:1
+lastSplitDate	1249862400	 (2009-08-10 08:00:00)
+enterpriseToRevenue	3.669
+enterpriseToEbitda	7.776
+52WeekChange	0.05687201
+SandP52WeekChange	0.26265144
+lastDividendValue	41.0
+lastDividendDate	1710979200	 (2024-03-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3008.TW
+underlyingSymbol	3008.TW
+shortName	LARGAN PRECISION CO
+longName	LARGAN Precision Co.,Ltd
+firstTradeDateEpochUtc	1015808400	 (2002-03-11 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	be433b06-c4fa-3ce2-838f-c92ad7521428
+messageBoardId	finmb_2482620
+gmtOffSetMilliseconds	28800000
+currentPrice	2230.0
+targetHighPrice	3500.0
+targetLowPrice	2500.0
+targetMeanPrice	3007.35
+targetMedianPrice	3000.0
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	17
+totalCash	118503055360
+totalCashPerShare	887.875
+ebitda	23047133184
+totalDebt	80562000
+quickRatio	4.389
+currentRatio	4.551
+totalRevenue	48842248192
+debtToEquity	0.049
+revenuePerShare	365.947
+returnOnAssets	0.05856
+returnOnEquity	0.111669995
+freeCashflow	6590028800
+operatingCashflow	18198562816
+earningsGrowth	0.232
+revenueGrowth	0.243
+grossMargins	0.48740003
+ebitdaMargins	0.47187
+operatingMargins	0.44189
+financialCurrency	TWD
+trailingPegRatio	2.4002
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0       192360.988439      1038690.236096
+Tax Rate For Calcs                                               0.190013        0.18693            0.189146              0.2259
+Normalized EBITDA                                           27524859000.0  32946753000.0       27772511000.0       36035691000.0
+Total Unusual Items                                                   NaN            0.0           1017000.0           4598000.0
+Total Unusual Items Excluding Goodwill                                NaN            0.0           1017000.0           4598000.0
+Net Income From Continuing Operation Net Minority Interest  17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Reconciled Depreciation                                      5421735000.0   5118283000.0        4744971000.0        4344199000.0
+Reconciled Cost Of Revenue                                  25036696000.0  21579583000.0       18813768000.0       18476853000.0
+EBITDA                                                      27524859000.0  32946753000.0       27773528000.0       36040289000.0
+EBIT                                                        22103124000.0  27828470000.0       23028557000.0       31696090000.0
+Net Interest Income                                          3933512000.0   1690133000.0         948604000.0        1302654000.0
+Interest Expense                                                1143000.0      1768000.0           1947000.0           2323000.0
+Interest Income                                              3934655000.0   1691901000.0         950551000.0        1304977000.0
+Normalized Income                                           17902322000.0  22625049000.0  18670405360.988438  24530571690.236095
+Net Income From Continuing And Discontinued Operation       17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Total Expenses                                              31022967000.0  27278138000.0       23815298000.0       23916969000.0
+Diluted Average Shares                                        134993000.0    135567000.0         135798000.0         135596000.0
+Basic Average Shares                                          133468000.0    133468000.0         134056000.0         134140000.0
+Diluted EPS                                                        132.62         166.89              137.49              180.94
+Basic EPS                                                          134.13         169.52              139.28               182.9
+Diluted NI Availto Com Stockholders                         17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Net Income Common Stockholders                              17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                 0.0                 0.0
+Net Income                                                  17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Minority Interests                                                    NaN            0.0                 0.0                 0.0
+Net Income Including Noncontrolling Interests               17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Net Income Continuous Operations                            17902322000.0  22625049000.0       18671230000.0       24534131000.0
+Tax Provision                                                4199659000.0   5201653000.0        4355380000.0        7159636000.0
+Pretax Income                                               22101981000.0  27826702000.0       23026610000.0       31693767000.0
+Other Non Operating Income Expenses                           137155000.0   5498554000.0       -1219324000.0       -1681593000.0
+Special Income Charges                                                NaN            0.0           1017000.0           4598000.0
+Other Special Charges                                                 NaN            NaN          -1017000.0          -4598000.0
+Net Non Operating Interest Income Expense                    3933512000.0   1690133000.0         948604000.0        1302654000.0
+Interest Expense Non Operating                                  1143000.0      1768000.0           1947000.0           2323000.0
+Interest Income Non Operating                                3934655000.0   1691901000.0         950551000.0        1304977000.0
+Operating Income                                            17819280000.0  20397090000.0       23147104000.0       32027520000.0
+Operating Expense                                            5986271000.0   5698555000.0        5001530000.0        5440116000.0
+Other Operating Expenses                                              NaN            NaN          -1017000.0          -4598000.0
+Research And Development                                     4191167000.0   4153972000.0        3601890000.0        3794356000.0
+Selling General And Administration                           1795104000.0   1544583000.0        1399640000.0        1645760000.0
+Selling And Marketing Expense                                 290626000.0    399416000.0         369013000.0         399738000.0
+General And Administrative Expense                           1504478000.0   1145167000.0        1030627000.0        1246022000.0
+Gross Profit                                                23805551000.0  26095645000.0       28148634000.0       37467636000.0
+Cost Of Revenue                                             25036696000.0  21579583000.0       18813768000.0       18476853000.0
+Total Revenue                                               48842247000.0  47675228000.0       46962402000.0       55944489000.0
+Operating Revenue                                           48842247000.0  47675228000.0       46962402000.0       55944489000.0

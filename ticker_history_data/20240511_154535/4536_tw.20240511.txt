@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 18, 20th Road
+address2	Industrial Park
+city	Taichung
+zip	408
+country	Taiwan
+phone	886 4 2359 1229
+fax	886 4 2359 3778
+website	https://www.topkey.com.tw
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Topkey Corporation produces, processes, sells, and trades sporting products in Taiwan, rest of Asia, Europe, and the United States. The company operates through Sporting Products, Aviation and Medical Products, and Others segments. It offers glass fiber products, composite materials, glasses, vehicle and composite components, water gage, HRNT, and carbon fiber products, as well as helmets and agency services. The company also designs, develops, and manufactures various precision molds; and processes a variety of plastic and rubber products, as well as engages in international investment and trade activities. In addition, it provides medical products: thermoplastic resin and fiber reinforced thermoplastic products; aviation composite components; knee braces; tennis rackets; and carbon bicycle frame sets and other accessories. Topkey Corporation was incorporated in 1980 and is based in Taichung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Pei-Ni  Shen', 'title': 'General Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'J. T. Chang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Curtis  Wu', 'title': 'Chief Operating Officer of Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qing-Long  Huang', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	191.5
+open	196.5
+dayLow	196.5
+dayHigh	201.0
+regularMarketPreviousClose	191.5
+regularMarketOpen	196.5
+regularMarketDayLow	196.5
+regularMarketDayHigh	201.0
+dividendRate	11.0
+dividendYield	0.0547
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.7101
+fiveYearAvgDividendYield	4.1
+beta	0.588
+trailingPE	12.967742
+forwardPE	12.876362
+volume	1483678
+regularMarketVolume	1483678
+averageVolume	431288
+averageVolume10days	374788
+averageDailyVolume10Day	374788
+bid	200.0
+ask	201.0
+marketCap	18254819328
+fiftyTwoWeekLow	157.5
+fiftyTwoWeekHigh	203.5
+priceToSalesTrailing12Months	1.96997
+fiftyDayAverage	190.73
+twoHundredDayAverage	178.3325
+trailingAnnualDividendRate	8.5
+trailingAnnualDividendYield	0.044386424
+currency	TWD
+enterpriseValue	15919252480
+profitMargins	0.15274
+floatShares	62634921
+sharesOutstanding	90820000
+heldPercentInsiders	0.31459
+heldPercentInstitutions	0.068280004
+impliedSharesOutstanding	91751504
+bookValue	88.455
+priceToBook	2.2723417
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.42
+netIncomeToCommon	1415377024
+trailingEps	15.5
+forwardEps	15.61
+enterpriseToRevenue	1.718
+enterpriseToEbitda	7.781
+52WeekChange	0.030769229
+SandP52WeekChange	0.26265144
+lastDividendValue	11.0
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4536.TW
+underlyingSymbol	4536.TW
+shortName	TOPKEY CORPORATION
+longName	Topkey Corporation
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7100e04d-0917-3911-98d9-77094bf53364
+messageBoardId	finmb_141380793
+gmtOffSetMilliseconds	28800000
+currentPrice	201.0
+targetHighPrice	197.5
+targetLowPrice	197.5
+targetMeanPrice	197.5
+targetMedianPrice	197.5
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	5486707200
+totalCashPerShare	60.413
+ebitda	2045972992
+totalDebt	2740011008
+quickRatio	1.818
+currentRatio	2.259
+totalRevenue	9266546688
+debtToEquity	32.447
+revenuePerShare	102.032
+returnOnAssets	0.071100004
+returnOnEquity	0.17908001
+freeCashflow	1752257280
+operatingCashflow	3516905984
+earningsGrowth	-0.417
+revenueGrowth	-0.312
+grossMargins	0.32707
+ebitdaMargins	0.22079
+operatingMargins	0.18778
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    2761269.209157   -12697598.728333   72652153.905984   -1671757.502112
+Tax Rate For Calcs                                                   0.257077           0.233833          0.363934          0.341105
+Normalized EBITDA                                                2479117000.0       3728510000.0      1725334000.0      1695853000.0
+Total Unusual Items                                                10741000.0        -54302000.0       199630000.0        -4901000.0
+Total Unusual Items Excluding Goodwill                             10741000.0        -54302000.0       199630000.0        -4901000.0
+Net Income From Continuing Operation Net Minority Interest       1415377000.0       2260065000.0       831647000.0       679023000.0
+Reconciled Depreciation                                           398667000.0        408746000.0       435514000.0       445955000.0
+Reconciled Cost Of Revenue                                       6235759000.0       7083503000.0      6037246000.0      4735490000.0
+EBITDA                                                           2489858000.0       3674208000.0      1924964000.0      1690952000.0
+EBIT                                                             2091191000.0       3265462000.0      1489450000.0      1244997000.0
+Net Interest Income                                               136234000.0          2496000.0        -5286000.0        -5999000.0
+Interest Expense                                                   94435000.0        104257000.0        26336000.0        42269000.0
+Interest Income                                                   230669000.0        106753000.0        21050000.0        36270000.0
+Normalized Income                                           1407397269.209157  2301669401.271667  704669153.905984  682252242.497888
+Net Income From Continuing And Discontinued Operation            1415377000.0       2260065000.0       831647000.0       679023000.0
+Total Expenses                                                   7557814000.0       8419173000.0      7251312000.0      5819248000.0
+Diluted Average Shares                                                    NaN         91452000.0        91144000.0        91114000.0
+Basic Average Shares                                                      NaN         90820000.0        90820000.0        90820000.0
+Diluted EPS                                                               NaN              24.71              9.12              7.45
+Basic EPS                                                                 NaN              24.89              9.16              7.48
+Diluted NI Availto Com Stockholders                              1415377000.0       2260065000.0       831647000.0       679023000.0
+Net Income Common Stockholders                                   1415377000.0       2260065000.0       831647000.0       679023000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0               0.0
+Net Income                                                       1415377000.0       2260065000.0       831647000.0       679023000.0
+Minority Interests                                                -68058000.0       -161946000.0       -98990000.0      -113448000.0
+Net Income Including Noncontrolling Interests                    1483435000.0       2422011000.0       930637000.0       792471000.0
+Net Income Continuous Operations                                 1483435000.0       2422011000.0       930637000.0       792471000.0
+Tax Provision                                                     513321000.0        739194000.0       532477000.0       410257000.0
+Pretax Income                                                    1996756000.0       3161205000.0      1463114000.0      1202728000.0
+Other Non Operating Income Expenses                               155541000.0        147552000.0      -140525000.0       134324000.0
+Special Income Charges                                             10741000.0        -51358000.0      -108700000.0        -5559000.0
+Other Special Charges                                              -7669000.0          1422000.0        -5683000.0         4185000.0
+Write Off                                                          -3072000.0         49936000.0       114383000.0         1374000.0
+Net Non Operating Interest Income Expense                         136234000.0          2496000.0        -5286000.0        -5999000.0
+Interest Expense Non Operating                                     94435000.0        104257000.0        26336000.0        42269000.0
+Interest Income Non Operating                                     230669000.0        106753000.0        21050000.0        36270000.0
+Operating Income                                                 1708733000.0       2546136000.0      1440616000.0      1415114000.0
+Operating Expense                                                1322055000.0       1335670000.0      1214066000.0      1083758000.0
+Research And Development                                          447713000.0        402684000.0       342155000.0       310546000.0
+Selling General And Administration                                874342000.0        932986000.0       871911000.0       773212000.0
+Selling And Marketing Expense                                     204751000.0        234743000.0       244048000.0       220761000.0
+General And Administrative Expense                                669591000.0        698243000.0       627863000.0       552451000.0
+Gross Profit                                                     3030788000.0       3881806000.0      2654682000.0      2498872000.0
+Cost Of Revenue                                                  6235759000.0       7083503000.0      6037246000.0      4735490000.0
+Total Revenue                                                    9266547000.0      10965309000.0      8691928000.0      7234362000.0
+Operating Revenue                                                9266547000.0      10965309000.0      8691928000.0      7234362000.0

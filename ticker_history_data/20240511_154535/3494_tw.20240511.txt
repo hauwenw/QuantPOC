@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 213, Beixin Road
+address2	9th Floor Sec. 3 Xindian District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 2912 6268
+fax	886 2 2912 6118
+website	https://www.hiti.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	HiTi Digital, Inc. engages in the development, manufacturing, distribution, retailing, and investment in printers, cameras, and related peripheries in Taiwan and internationally. It offers industrial, commercial, and consumer photo printers; direct-to-card printers; order station/operation console products; print kit/consumables; and printer accessories. The company also provides professional image software designed for passport/ID photo format. In addition, it manufactures and sells chemical material paper products. The company was formerly known as Hi-Touch Imaging Technologies Co., Ltd. and changed its name to HiTi Digital, Inc. in 2007. HiTi Digital, Inc. was founded in 2001 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Guan Zhi  Huang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming Hong  Sun', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhi Bin  Yang', 'title': 'Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	5.05
+open	5.04
+dayLow	4.98
+dayHigh	5.09
+regularMarketPreviousClose	5.05
+regularMarketOpen	5.04
+regularMarketDayLow	4.98
+regularMarketDayHigh	5.09
+exDividendDate	1441152000	 (2015-09-02 08:00:00)
+beta	0.738
+volume	65596
+regularMarketVolume	65596
+averageVolume	139136
+averageVolume10days	98356
+averageDailyVolume10Day	98356
+bid	5.03
+ask	5.04
+marketCap	724320000
+fiftyTwoWeekLow	4.78
+fiftyTwoWeekHigh	9.43
+priceToSalesTrailing12Months	1.0716267
+fiftyDayAverage	5.5352
+twoHundredDayAverage	6.2709
+currency	TWD
+enterpriseValue	1913280000
+profitMargins	-0.3018
+sharesOutstanding	144000000
+heldPercentInsiders	0.4327
+impliedSharesOutstanding	145440000
+bookValue	3.125
+priceToBook	1.6096001
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-203990000
+trailingEps	-1.52
+lastSplitFactor	668.7076:1000
+lastSplitDate	1637193600	 (2021-11-18 08:00:00)
+enterpriseToRevenue	2.831
+enterpriseToEbitda	-15.321
+52WeekChange	-0.28854316
+SandP52WeekChange	0.26265144
+lastDividendValue	0.433672
+lastDividendDate	1441152000	 (2015-09-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3494.TW
+underlyingSymbol	3494.TW
+shortName	HITI DIGITAL INC.
+longName	HiTi Digital, Inc.
+firstTradeDateEpochUtc	1197507600	 (2007-12-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	21953d2f-b267-31d0-bb3f-202ec4d4eb7b
+messageBoardId	finmb_22398663
+gmtOffSetMilliseconds	28800000
+currentPrice	5.03
+recommendationKey	none
+totalCash	14784000
+totalCashPerShare	0.103
+ebitda	-124881000
+totalDebt	1065388032
+quickRatio	0.05
+currentRatio	0.408
+totalRevenue	675907008
+debtToEquity	181.084
+revenuePerShare	5.041
+returnOnAssets	-0.06613
+returnOnEquity	-0.38198003
+freeCashflow	11877375
+operatingCashflow	-83444000
+revenueGrowth	0.459
+grossMargins	0.0574
+ebitdaMargins	-0.18476
+operatingMargins	-0.48549
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                  -2271000.0   -1136600.0    -399600.0    -304200.0
+Tax Rate For Calcs                                                  0.2          0.2          0.2          0.2
+Normalized EBITDA                                           -98689000.0 -163139000.0  -39049000.0 -465722000.0
+Total Unusual Items                                         -11355000.0   -5683000.0   -1998000.0   -1521000.0
+Total Unusual Items Excluding Goodwill                      -11355000.0   -5683000.0   -1998000.0   -1521000.0
+Net Income From Continuing Operation Net Minority Interest -203990000.0 -236463000.0 -188823000.0 -438446000.0
+Reconciled Depreciation                                     110561000.0  150688000.0  174896000.0  210625000.0
+Reconciled Cost Of Revenue                                  637112000.0  552178000.0  401000000.0  603365000.0
+EBITDA                                                     -110044000.0 -168822000.0  -41047000.0 -467243000.0
+EBIT                                                       -220605000.0 -319510000.0 -215943000.0 -677868000.0
+Net Interest Income                                         -43316000.0  -34626000.0  -26115000.0  -42573000.0
+Interest Expense                                             44798000.0   34983000.0   27384000.0   43694000.0
+Interest Income                                               1482000.0     357000.0    1269000.0    1121000.0
+Normalized Income                                          -194906000.0 -231916600.0 -187224600.0 -437229200.0
+Net Income From Continuing And Discontinued Operation      -203990000.0 -236463000.0 -188823000.0 -438446000.0
+Total Expenses                                              891814000.0  871594000.0  700412000.0  995573000.0
+Diluted Average Shares                                              NaN  121819000.0  120000000.0  120000000.0
+Basic Average Shares                                                NaN  121819000.0  120000000.0  120000000.0
+Diluted EPS                                                         NaN        -1.94        -1.57        -3.65
+Basic EPS                                                           NaN        -1.94        -1.57        -3.65
+Diluted NI Availto Com Stockholders                        -203990000.0 -236463000.0 -188823000.0 -438446000.0
+Net Income Common Stockholders                             -203990000.0 -236463000.0 -188823000.0 -438446000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                 -203990000.0 -236463000.0 -188823000.0 -438446000.0
+Minority Interests                                           73494000.0  118124000.0   55787000.0  305305000.0
+Net Income Including Noncontrolling Interests              -277484000.0 -354587000.0 -244610000.0 -743751000.0
+Net Income Continuous Operations                           -277484000.0 -354587000.0 -244610000.0 -743751000.0
+Tax Provision                                                12081000.0      94000.0    1283000.0   22189000.0
+Pretax Income                                              -265403000.0 -354493000.0 -243327000.0 -721562000.0
+Other Non Operating Income Expenses                           3322000.0    1748000.0   41201000.0 -170620000.0
+Special Income Charges                                      -11355000.0   -5683000.0   -1998000.0   -1521000.0
+Other Special Charges                                          268000.0    2090000.0    2226000.0          NaN
+Write Off                                                    11087000.0    3593000.0    -228000.0    1521000.0
+Net Non Operating Interest Income Expense                   -43316000.0  -34626000.0  -26115000.0  -42573000.0
+Interest Expense Non Operating                               44798000.0   34983000.0   27384000.0   43694000.0
+Interest Income Non Operating                                 1482000.0     357000.0    1269000.0    1121000.0
+Operating Income                                           -215907000.0 -331291000.0 -244852000.0 -506848000.0
+Operating Expense                                           254702000.0  319416000.0  299412000.0  392208000.0
+Research And Development                                     62201000.0   70847000.0   77864000.0  124351000.0
+Selling General And Administration                          192501000.0  248569000.0  221548000.0  267857000.0
+Selling And Marketing Expense                                86687000.0  113855000.0  115350000.0  113519000.0
+General And Administrative Expense                          105814000.0  134714000.0  106198000.0  154338000.0
+Gross Profit                                                 38795000.0  -11875000.0   54560000.0 -114640000.0
+Cost Of Revenue                                             637112000.0  552178000.0  401000000.0  603365000.0
+Total Revenue                                               675907000.0  540303000.0  455560000.0  488725000.0
+Operating Revenue                                           675907000.0  540303000.0  455560000.0  488725000.0

@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No.207-5, Beixin Road
+address2	6th Floor Section 3 Xindian District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 8913 1771
+fax	886 2 8913 1772
+website	https://www.castlestech.com
+industry	Business Equipment & Supplies
+industryKey	business-equipment-supplies
+industryDisp	Business Equipment & Supplies
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Castles Technology Co., Ltd. manufactures and sells payment solutions for the financial, retail, hospitality, and transportation sectors. Its products include Android, mobile, and EFT POS solutions; and unattended terminals, PIN pads, and other products. Castles Technology Co., Ltd. was founded in 1993 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jia-Hua  Huang', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mei Yu  Tu', 'title': 'Accounting Supervisor & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'You-Chang  Li', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Chieh  Feng', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Jiang  Chen', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	122.5
+open	123.5
+dayLow	120.5
+dayHigh	123.5
+regularMarketPreviousClose	122.5
+regularMarketOpen	123.5
+regularMarketDayLow	120.5
+regularMarketDayHigh	123.5
+dividendRate	0.8
+dividendYield	0.0064999997
+exDividendDate	1697587200	 (2023-10-18 08:00:00)
+payoutRatio	0.0932
+beta	0.958
+trailingPE	14.27739
+forwardPE	10.268231
+volume	769046
+regularMarketVolume	769046
+averageVolume	3772652
+averageVolume10days	1490991
+averageDailyVolume10Day	1490991
+bid	122.5
+ask	123.0
+marketCap	12748942336
+fiftyTwoWeekLow	80.7619
+fiftyTwoWeekHigh	153.5
+priceToSalesTrailing12Months	1.5846963
+fiftyDayAverage	133.9
+twoHundredDayAverage	125.48214
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.009795919
+currency	TWD
+enterpriseValue	12052133888
+profitMargins	0.111770004
+floatShares	80027816
+sharesOutstanding	104073000
+heldPercentInsiders	0.24509001
+heldPercentInstitutions	0.01048
+impliedSharesOutstanding	104073000
+bookValue	35.456
+priceToBook	3.4549863
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.024
+netIncomeToCommon	899198976
+trailingEps	8.58
+forwardEps	11.93
+lastSplitFactor	1050:1000
+lastSplitDate	1697587200	 (2023-10-18 08:00:00)
+enterpriseToRevenue	1.498
+enterpriseToEbitda	9.67
+52WeekChange	0.48699427
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1697587200	 (2023-10-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5258.TW
+underlyingSymbol	5258.TW
+shortName	CASTLES TECH CO LTD
+longName	Castles Technology Co., Ltd.
+firstTradeDateEpochUtc	1340154000	 (2012-06-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cc2cc777-a21b-3a15-b3b7-848845645230
+messageBoardId	finmb_114702483
+gmtOffSetMilliseconds	28800000
+currentPrice	122.5
+targetHighPrice	95.24
+targetLowPrice	95.24
+targetMeanPrice	95.24
+targetMedianPrice	95.24
+recommendationMean	2.5
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	2013251968
+totalCashPerShare	19.345
+ebitda	1246371968
+totalDebt	1180893952
+quickRatio	1.435
+currentRatio	2.12
+totalRevenue	8045038080
+debtToEquity	30.868
+revenuePerShare	77.366
+returnOnAssets	0.10803001
+returnOnEquity	0.27475
+freeCashflow	812891392
+operatingCashflow	1145496064
+earningsGrowth	-0.004
+revenueGrowth	-0.056
+grossMargins	0.33336
+ebitdaMargins	0.15492
+operatingMargins	0.18542999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -7532846.380811  -13585549.597009    7466737.780569    6428534.204785
+Tax Rate For Calcs                                                  0.238668           0.21057          0.152791           0.24368
+Normalized EBITDA                                               1404248000.0      1227349000.0       354757000.0       341166000.0
+Total Unusual Items                                              -31562000.0       -64518000.0        48869000.0        26381000.0
+Total Unusual Items Excluding Goodwill                           -31562000.0       -64518000.0        48869000.0        26381000.0
+Net Income From Continuing Operation Net Minority Interest       899199000.0       761273000.0       222916000.0       198122000.0
+Reconciled Depreciation                                          122571000.0       118674000.0       108037000.0        74492000.0
+Reconciled Cost Of Revenue                                      5363177000.0      5082436000.0      3219975000.0      2771103000.0
+EBITDA                                                          1372686000.0      1162831000.0       403626000.0       367547000.0
+EBIT                                                            1250115000.0      1044157000.0       295589000.0       293055000.0
+Net Interest Income                                               -2725000.0       -20667000.0       -16169000.0       -15618000.0
+Interest Expense                                                  26609000.0        24035000.0        16914000.0        18035000.0
+Interest Income                                                   23884000.0         3368000.0          745000.0         2417000.0
+Normalized Income                                           923228153.619189  812205450.402991  181513737.780569  178169534.204785
+Net Income From Continuing And Discontinued Operation            899199000.0       761273000.0       222916000.0       198122000.0
+Total Expenses                                                  6857135000.0      6308402000.0      4176448000.0      3537614000.0
+Diluted Average Shares                                                   NaN        99071000.0        95676000.0        96150569.0
+Basic Average Shares                                                     NaN        97902000.0        94927350.0        95203135.0
+Diluted EPS                                                              NaN              7.68          2.371429          2.057348
+Basic EPS                                                                NaN              7.78          2.390476          2.085403
+Diluted NI Availto Com Stockholders                              899199000.0       761273000.0       222916000.0       198122000.0
+Net Income Common Stockholders                                   899199000.0       761273000.0       222916000.0       198122000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       899199000.0       761273000.0       222916000.0       198122000.0
+Minority Interests                                               -32295000.0       -44042000.0       -13180000.0        -9881000.0
+Net Income Including Noncontrolling Interests                    931494000.0       805315000.0       236096000.0       208003000.0
+Net Income Continuous Operations                                 931494000.0       805315000.0       236096000.0       208003000.0
+Tax Provision                                                    292012000.0       214807000.0        42579000.0        67017000.0
+Pretax Income                                                   1223506000.0      1020122000.0       278675000.0       275020000.0
+Other Non Operating Income Expenses                               69890000.0        13713000.0       -32893000.0        67357000.0
+Special Income Charges                                           -31562000.0       -64518000.0        48869000.0        26381000.0
+Write Off                                                         31562000.0        64518000.0       -48869000.0       -26381000.0
+Net Non Operating Interest Income Expense                         -2725000.0       -20667000.0       -16169000.0       -15618000.0
+Interest Expense Non Operating                                    26609000.0        24035000.0        16914000.0        18035000.0
+Interest Income Non Operating                                     23884000.0         3368000.0          745000.0         2417000.0
+Operating Income                                                1187903000.0      1091594000.0       278868000.0       196900000.0
+Operating Expense                                               1493958000.0      1225966000.0       956473000.0       766511000.0
+Research And Development                                         632687000.0       588236000.0       487020000.0       412478000.0
+Selling General And Administration                               861271000.0       637730000.0       469453000.0       354033000.0
+Selling And Marketing Expense                                    464762000.0       393927000.0       300247000.0       239594000.0
+General And Administrative Expense                               396509000.0       243803000.0       169206000.0       114439000.0
+Gross Profit                                                    2681861000.0      2317560000.0      1235341000.0       963411000.0
+Cost Of Revenue                                                 5363177000.0      5082436000.0      3219975000.0      2771103000.0
+Total Revenue                                                   8045038000.0      7399996000.0      4455316000.0      3734514000.0
+Operating Revenue                                               8045038000.0      7399996000.0      4455316000.0      3734514000.0

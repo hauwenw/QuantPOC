@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No.8, Guangfu Road
+address2	8th Floor Section 2
+city	Hsinchu City
+zip	30071
+country	Taiwan
+phone	886 3 572 7000
+fax	886 3 563 7326
+website	https://www.arcadyan.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Arcadyan Technology Corporation, together with its subsidiaries, engages in the research, development, manufacture, and sale of wireless networking products, integrated access devices, digital home multimedia appliances, mobile broadband products, and wireless audio and video products. It provides various broadband solutions, such as FTTx, DSL CPEs, wireless LAN, and mobile broadband products, as well as set-top boxes. The company also offers 5G, broadband, wireless, multimedia, and automotive solutions. In addition, it is involved in the investment activities; and technical support services. The company operates in Asia, Europe, the United States, and internationally. Arcadyan Technology Corporation was incorporated in 2003 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Peng  Tseng', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Wei  Huang', 'title': 'CFO, Chief Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	157.0
+open	158.5
+dayLow	156.5
+dayHigh	159.0
+regularMarketPreviousClose	157.0
+regularMarketOpen	158.5
+regularMarketDayLow	156.5
+regularMarketDayHigh	159.0
+dividendRate	7.0
+dividendYield	0.044299997
+exDividendDate	1721001600	 (2024-07-15 08:00:00)
+payoutRatio	0.5697
+fiveYearAvgDividendYield	4.94
+trailingPE	13.847503
+forwardPE	12.559619
+volume	2452810
+regularMarketVolume	2452810
+averageVolume	2339146
+averageVolume10days	2443772
+averageDailyVolume10Day	2443772
+bid	157.5
+ask	158.0
+marketCap	34816090112
+fiftyTwoWeekLow	109.0
+fiftyTwoWeekHigh	205.5
+priceToSalesTrailing12Months	0.66085166
+fiftyDayAverage	181.05
+twoHundredDayAverage	167.575
+trailingAnnualDividendRate	6.5
+trailingAnnualDividendYield	0.041401275
+currency	TWD
+enterpriseValue	25735933952
+profitMargins	0.04833
+floatShares	145151950
+sharesOutstanding	220355008
+heldPercentInsiders	0.3402
+heldPercentInstitutions	0.31881002
+impliedSharesOutstanding	235410000
+bookValue	63.398
+priceToBook	2.4921923
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.253
+netIncomeToCommon	2546327040
+trailingEps	11.41
+forwardEps	12.58
+lastSplitFactor	1109.98:1000
+lastSplitDate	1311897600	 (2011-07-29 08:00:00)
+enterpriseToRevenue	0.488
+enterpriseToEbitda	6.524
+52WeekChange	0.4298643
+SandP52WeekChange	0.26265144
+lastDividendValue	7.0
+lastDividendDate	1721001600	 (2024-07-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3596.TW
+underlyingSymbol	3596.TW
+shortName	ARCADYAN TECHNOLOGY CORPORATION
+longName	Arcadyan Technology Corporation
+firstTradeDateEpochUtc	1236733200	 (2009-03-11 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9d15dd67-51fd-33c5-aa5a-8f3eea49991c
+messageBoardId	finmb_26685342
+gmtOffSetMilliseconds	28800000
+currentPrice	158.0
+targetHighPrice	239.0
+targetLowPrice	165.0
+targetMeanPrice	196.0
+targetMedianPrice	196.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	5
+totalCash	10590802944
+totalCashPerShare	47.987
+ebitda	3944530944
+totalDebt	1361080960
+quickRatio	0.677
+currentRatio	1.242
+totalRevenue	52683669504
+debtToEquity	9.662
+revenuePerShare	239.091
+returnOnAssets	0.04978
+returnOnEquity	0.18556
+freeCashflow	8686438400
+operatingCashflow	8627894272
+earningsGrowth	0.261
+revenueGrowth	0.138
+grossMargins	0.14576
+ebitdaMargins	0.07487
+operatingMargins	0.060399998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -10205073.867037   -23763203.521393    35895081.090119     4551226.961319
+Tax Rate For Calcs                                                   0.253246           0.223475           0.251225           0.302669
+Normalized EBITDA                                                4217259000.0       3420571000.0       2735069000.0       2887702000.0
+Total Unusual Items                                               -40297000.0       -106335000.0        142880000.0         15037000.0
+Total Unusual Items Excluding Goodwill                            -40297000.0       -106335000.0        142880000.0         15037000.0
+Net Income From Continuing Operation Net Minority Interest       2420569000.0       2013156000.0       1787544000.0       1713942000.0
+Reconciled Depreciation                                           842502000.0        734176000.0        567822000.0        517979000.0
+Reconciled Cost Of Revenue                                      43772840000.0      40581732000.0      32930556000.0      28711844000.0
+EBITDA                                                           4176962000.0       3314236000.0       2877949000.0       2902739000.0
+EBIT                                                             3334460000.0       2580060000.0       2310127000.0       2384760000.0
+Net Interest Income                                                24523000.0        -22521000.0         29190000.0          -796000.0
+Interest Expense                                                  134467000.0        113877000.0         37347000.0         46410000.0
+Interest Income                                                   158990000.0         91356000.0         66537000.0         45614000.0
+Normalized Income                                           2450660926.132963  2095727796.478607  1680559081.090119  1703456226.961319
+Net Income From Continuing And Discontinued Operation            2420569000.0       2013156000.0       1787544000.0       1713942000.0
+Total Expenses                                                  47993755000.0      44967961000.0      36040971000.0      31481818000.0
+Diluted Average Shares                                            220354000.0        218722000.0        223268000.0        220584556.0
+Basic Average Shares                                              220354000.0        218722000.0        207793000.0        205016986.0
+Diluted EPS                                                             10.83               8.98               8.06               7.77
+Basic EPS                                                               10.98                9.2                8.6               8.36
+Diluted NI Availto Com Stockholders                              2420569000.0       2013156000.0       1787544000.0       1713942000.0
+Net Income Common Stockholders                                   2420569000.0       2013156000.0       1787544000.0       1713942000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2420569000.0       2013156000.0       1787544000.0       1713942000.0
+Minority Interests                                                 30963000.0         98103000.0         85744000.0         83337000.0
+Net Income Including Noncontrolling Interests                    2389606000.0       1915053000.0       1701800000.0       1630605000.0
+Net Income Continuous Operations                                 2389606000.0       1915053000.0       1701800000.0       1630605000.0
+Tax Provision                                                     810387000.0        551130000.0        570980000.0        707745000.0
+Pretax Income                                                    3199993000.0       2466183000.0       2272780000.0       2338350000.0
+Other Non Operating Income Expenses                                39835000.0         15535000.0         55986000.0         46590000.0
+Net Non Operating Interest Income Expense                          24523000.0        -22521000.0         29190000.0          -796000.0
+Interest Expense Non Operating                                    134467000.0        113877000.0         37347000.0         46410000.0
+Interest Income Non Operating                                     158990000.0         91356000.0         66537000.0         45614000.0
+Operating Income                                                 3164367000.0       2199788000.0       2199087000.0       2283477000.0
+Operating Expense                                                4220915000.0       4386229000.0       3110415000.0       2769974000.0
+Research And Development                                         2886769000.0       2510385000.0       1939487000.0       1724851000.0
+Selling General And Administration                               1334146000.0       1875844000.0       1170928000.0       1045123000.0
+Selling And Marketing Expense                                     741569000.0       1306155000.0        674707000.0        508753000.0
+General And Administrative Expense                                592577000.0        569689000.0        496221000.0        536370000.0
+Gross Profit                                                     7385282000.0       6586017000.0       5309502000.0       5053451000.0
+Cost Of Revenue                                                 43772840000.0      40581732000.0      32930556000.0      28711844000.0
+Total Revenue                                                   51158122000.0      47167749000.0      38240058000.0      33765295000.0
+Operating Revenue                                               51158122000.0      47167749000.0      38240058000.0      33765295000.0

@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 167, Fuxing North Road
+address2	5th Floor Songshan District
+city	Taipei
+zip	105
+country	Taiwan
+phone	886 2 2713 6621
+fax	886 2 2715 2181
+website	https://www.maywufa.com.tw
+industry	Drug Manufacturers - Specialty & Generic
+industryKey	drug-manufacturers-specialty-generic
+industryDisp	Drug Manufacturers - Specialty & Generic
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Maywufa Company Ltd. manufactures and sells hair and skin care products under the Maywufa brand in Taiwan. It offers hair care products; health care products and food supplements; and mother and baby skin care products. The company also provides pharmaceuticals and medical devices, such as PG2 Lyophilized injection for treatment of cancer-related fatigue; AmCad-UT Detection device, an ultrasound CAD for thyroid cancer detection; Bio-Three tablets for the treatment of mild diarrhea, abdominal pain, and constipation; and Cerebrolysin, a supplementary nutrient boost for patients who cannot ingest adequate food and patients who have difficulties in the digestion, absorption, synthesis, and utilization of proteins, as well as for patients suffering from severe trauma, burns, fractures, insufficient protein intake, or malnutrition. In addition, it sells and distributes pharmaceutical products; and operates and manages pharmacy chain under the Pharmacy Franchise name. Maywufa Company Ltd. was founded in 1976 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yuru  Lai', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Li  Lee BBA', 'title': 'Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.95
+open	25.0
+dayLow	24.9
+dayHigh	25.2
+regularMarketPreviousClose	24.95
+regularMarketOpen	25.0
+regularMarketDayLow	24.9
+regularMarketDayHigh	25.2
+dividendRate	1.1
+dividendYield	0.043899998
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	0.84620005
+fiveYearAvgDividendYield	4.58
+beta	0.368
+trailingPE	19.269232
+forwardPE	22.772726
+volume	370060
+regularMarketVolume	370060
+averageVolume	771948
+averageVolume10days	492920
+averageDailyVolume10Day	492920
+bid	25.05
+ask	25.15
+marketCap	3329520640
+fiftyTwoWeekLow	20.3
+fiftyTwoWeekHigh	28.35
+priceToSalesTrailing12Months	2.55975
+fiftyDayAverage	25.375
+twoHundredDayAverage	22.68725
+trailingAnnualDividendRate	1.15
+trailingAnnualDividendYield	0.046092182
+currency	TWD
+enterpriseValue	3198450688
+profitMargins	0.13
+sharesOutstanding	132915000
+heldPercentInsiders	0.55002
+heldPercentInstitutions	0.0046900003
+impliedSharesOutstanding	133434000
+bookValue	15.327
+priceToBook	1.6343707
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.302
+netIncomeToCommon	169098000
+trailingEps	1.3
+forwardEps	1.1
+lastSplitFactor	1.025:1
+lastSplitDate	1280188800	 (2010-07-27 08:00:00)
+enterpriseToRevenue	2.459
+enterpriseToEbitda	14.848
+52WeekChange	0.09868419
+SandP52WeekChange	0.26265144
+lastDividendValue	1.1
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1731.TW
+underlyingSymbol	1731.TW
+shortName	MAYWUFA CO
+longName	Maywufa Company Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3f5fcc02-4a17-3eb0-8f03-24cf133711c5
+messageBoardId	finmb_9870669
+gmtOffSetMilliseconds	28800000
+currentPrice	25.05
+recommendationKey	none
+totalCash	573611008
+totalCashPerShare	4.316
+ebitda	215411008
+totalDebt	442540992
+quickRatio	2.332
+currentRatio	3.068
+totalRevenue	1300721024
+debtToEquity	21.723
+revenuePerShare	9.786
+returnOnAssets	0.04538
+returnOnEquity	0.08383001
+freeCashflow	-105504000
+operatingCashflow	244319008
+earningsGrowth	0.348
+revenueGrowth	0.091
+grossMargins	0.65683997
+ebitdaMargins	0.16561002
+operatingMargins	0.11251
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -132894.724326     145584.63761     127066.450407    5889447.272867
+Tax Rate For Calcs                                                  0.195721         0.223289          0.224103          0.176505
+Normalized EBITDA                                                239814000.0      239543000.0       247556000.0       213405000.0
+Total Unusual Items                                                -679000.0         652000.0          567000.0        33367000.0
+Total Unusual Items Excluding Goodwill                             -679000.0         652000.0          567000.0        33367000.0
+Net Income From Continuing Operation Net Minority Interest       169098000.0      161830000.0       164321000.0       171002000.0
+Reconciled Depreciation                                           28795000.0       29281000.0        31029000.0        33989000.0
+Reconciled Cost Of Revenue                                       446349000.0      428548000.0       429771000.0       389054000.0
+EBITDA                                                           239135000.0      240195000.0       248123000.0       246772000.0
+EBIT                                                             210340000.0      210914000.0       217094000.0       212783000.0
+Net Interest Income                                                7510000.0        2842000.0         -424000.0          117000.0
+Interest Expense                                                     92000.0        2561000.0         5312000.0         5129000.0
+Interest Income                                                    7602000.0        5403000.0         4888000.0         5246000.0
+Normalized Income                                           169644105.275674  161323584.63761  163881066.450407  143524447.272867
+Net Income From Continuing And Discontinued Operation            169098000.0      161830000.0       164321000.0       171002000.0
+Total Expenses                                                  1105374000.0     1046598000.0      1090028000.0       894988000.0
+Diluted Average Shares                                                   NaN      133295000.0       133315000.0       133404000.0
+Basic Average Shares                                                     NaN      132915000.0       132915000.0       132915000.0
+Diluted EPS                                                              NaN             1.21              1.23              1.28
+Basic EPS                                                                NaN             1.22              1.24              1.29
+Diluted NI Availto Com Stockholders                              169098000.0      161830000.0       164321000.0       171002000.0
+Net Income Common Stockholders                                   169098000.0      161830000.0       164321000.0       171002000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                       169098000.0      161830000.0       164321000.0       171002000.0
+Net Income Including Noncontrolling Interests                    169098000.0      161830000.0       164321000.0       171002000.0
+Net Income Continuous Operations                                 169098000.0      161830000.0       164321000.0       171002000.0
+Tax Provision                                                     41150000.0       46523000.0        47461000.0        36652000.0
+Pretax Income                                                    210248000.0      208353000.0       211782000.0       207654000.0
+Other Non Operating Income Expenses                               20291000.0       24058000.0        32840000.0        18841000.0
+Special Income Charges                                             -679000.0         652000.0          567000.0               0.0
+Write Off                                                           679000.0        -652000.0         -567000.0               0.0
+Net Non Operating Interest Income Expense                          7510000.0        2842000.0         -424000.0          117000.0
+Interest Expense Non Operating                                       92000.0        2561000.0         5312000.0         5129000.0
+Interest Income Non Operating                                      7602000.0        5403000.0         4888000.0         5246000.0
+Operating Income                                                 195347000.0      198507000.0       199183000.0       170337000.0
+Operating Expense                                                659025000.0      618050000.0       660257000.0       505934000.0
+Other Operating Expenses                                                 NaN              NaN        17710000.0          242000.0
+Selling General And Administration                               659025000.0      618050000.0       642547000.0       505692000.0
+Selling And Marketing Expense                                    555166000.0      519603000.0       541111000.0       402082000.0
+General And Administrative Expense                               103859000.0       98447000.0       101436000.0       103610000.0
+Gross Profit                                                     854372000.0      816557000.0       859440000.0       676271000.0
+Cost Of Revenue                                                  446349000.0      428548000.0       429771000.0       389054000.0
+Total Revenue                                                   1300721000.0     1245105000.0      1289211000.0      1065325000.0
+Operating Revenue                                               1300721000.0     1245105000.0      1289211000.0      1065325000.0

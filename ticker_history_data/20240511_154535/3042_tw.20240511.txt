@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 16, Chung Yang South Road Peitou
+address2	4th Floor Section 2
+city	Taipei
+zip	112
+country	Taiwan
+phone	886 2 2894 1202
+website	https://www.txccorp.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	TXC Corporation engages in the research, design, development, production, and sale of crystal and oscillator products in Taiwan and internationally. The company's products include crystals, oscillators, and sensors, as well as automotive crystals. It also engages in the 5G infrastructure and device ecosystem development activities. The company's products are used in various applications, including mobile communication, information and storage device, Internet of Things, vehicle electronics, telecommunication equipment, smart home, AI, medical care, 5G, etc. TXC Corporation was incorporated in 1983 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wan-Shing  Lin', 'title': 'Chairman, CEO & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ya-Ping  Guo', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin-Bao  Lin', 'title': 'Founder & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Guan-Wen  Hong', 'title': 'CFO, VP, Accounting Supervisor & Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chih-Hsun  Chu', 'title': 'CTO & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiu-Lin  Chen', 'title': 'Assistant Vice President of the Administrator Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Caroline  Kuo', 'title': 'Vice President of Sales & Marketing Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shang-Hsin  Chen Chueh', 'title': 'Deputy CEO, Chairman of Ningbo Factory & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Qi-Zhong  Chang', 'title': 'Chief Engineer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  You', 'title': 'Executive Vice President of Chongqing Factory', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.txccorp.com/en/f_investor/01.asp
+maxAge	86400
+priceHint	2
+previousClose	112.5
+open	112.5
+dayLow	109.0
+dayHigh	113.0
+regularMarketPreviousClose	112.5
+regularMarketOpen	112.5
+regularMarketDayLow	109.0
+regularMarketDayHigh	113.0
+dividendRate	7.0
+dividendYield	0.0633
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	1.1475
+fiveYearAvgDividendYield	5.39
+beta	0.849
+trailingPE	18.114754
+forwardPE	14.130434
+volume	2491451
+regularMarketVolume	2491451
+averageVolume	4508764
+averageVolume10days	2627850
+averageDailyVolume10Day	2627850
+bid	110.5
+ask	111.0
+marketCap	34229364736
+fiftyTwoWeekLow	84.7
+fiftyTwoWeekHigh	124.0
+priceToSalesTrailing12Months	3.154663
+fiftyDayAverage	110.362
+twoHundredDayAverage	100.4895
+trailingAnnualDividendRate	4.5
+trailingAnnualDividendYield	0.04
+currency	TWD
+enterpriseValue	33419096064
+profitMargins	0.15794
+floatShares	281350094
+sharesOutstanding	309768000
+heldPercentInsiders	0.08167
+heldPercentInstitutions	0.2745
+impliedSharesOutstanding	309768000
+bookValue	38.332
+priceToBook	2.882709
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.078
+netIncomeToCommon	1713702016
+trailingEps	6.1
+forwardEps	7.82
+pegRatio	-5.97
+lastSplitFactor	1.02:1
+lastSplitDate	1312329600	 (2011-08-03 08:00:00)
+enterpriseToRevenue	3.08
+enterpriseToEbitda	10.886
+52WeekChange	0.2969483
+SandP52WeekChange	0.26265144
+lastDividendValue	7.0
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3042.TW
+underlyingSymbol	3042.TW
+shortName	TXC CORPN
+longName	TXC Corporation
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	645fb56c-2b67-3208-9d19-8317b7304ab9
+messageBoardId	finmb_35871
+gmtOffSetMilliseconds	28800000
+currentPrice	110.5
+targetHighPrice	125.0
+targetLowPrice	91.0
+targetMeanPrice	106.83
+targetMedianPrice	106.5
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	6
+totalCash	4821829120
+totalCashPerShare	15.566
+ebitda	3069918976
+totalDebt	4012666880
+quickRatio	1.705
+currentRatio	2.267
+totalRevenue	10850402304
+debtToEquity	33.795
+revenuePerShare	35.029
+returnOnAssets	0.06041
+returnOnEquity	0.14077
+freeCashflow	1604947200
+operatingCashflow	3053483008
+earningsGrowth	-0.077
+revenueGrowth	0.011
+grossMargins	0.35575
+ebitdaMargins	0.28293
+operatingMargins	0.20334
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                       1016.487612        6564.956703        -627.409928        5069.493661
+Tax Rate For Calcs                                                   0.169415           0.168332           0.156852           0.163532
+Normalized EBITDA                                                3349030000.0       4670790000.0       4794738000.0       2579888000.0
+Total Unusual Items                                                    6000.0            39000.0            -4000.0            31000.0
+Total Unusual Items Excluding Goodwill                                 6000.0            39000.0            -4000.0            31000.0
+Net Income From Continuing Operation Net Minority Interest       1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Reconciled Depreciation                                          1228171000.0       1248635000.0       1056338000.0        849760000.0
+Reconciled Cost Of Revenue                                       6990395000.0       8138850000.0       9617622000.0       7715586000.0
+EBITDA                                                           3349036000.0       4670829000.0       4794734000.0       2579919000.0
+EBIT                                                             2120865000.0       3422194000.0       3738396000.0       1730159000.0
+Net Interest Income                                                19585000.0        -21412000.0        -20681000.0          2888000.0
+Interest Expense                                                   57619000.0         48847000.0         41553000.0         21442000.0
+Interest Income                                                    77204000.0         27435000.0         20872000.0         24330000.0
+Normalized Income                                           1713697016.487612  2805471564.956703  3116987372.590072  1429261069.493661
+Net Income From Continuing And Discontinued Operation            1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Total Expenses                                                   8981387000.0      10358513000.0      11770102000.0       9430763000.0
+Diluted Average Shares                                            322954000.0        324166000.0        315063000.0        312356000.0
+Basic Average Shares                                              309757000.0        309757000.0        309757000.0        309757000.0
+Diluted EPS                                                              5.33               8.68               9.91               4.58
+Basic EPS                                                                5.53               9.06              10.06               4.61
+Diluted NI Availto Com Stockholders                              1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Net Income Common Stockholders                                   1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Minority Interests                                                        NaN                NaN                0.0                0.0
+Net Income Including Noncontrolling Interests                    1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Net Income Continuous Operations                                 1713702000.0       2805504000.0       3116984000.0       1429287000.0
+Tax Provision                                                     349544000.0        567843000.0        579859000.0        279430000.0
+Pretax Income                                                    2063246000.0       3373347000.0       3696843000.0       1708717000.0
+Other Non Operating Income Expenses                               170067000.0        566419000.0        229015000.0         57739000.0
+Special Income Charges                                                 6000.0            39000.0            -4000.0            31000.0
+Write Off                                                             -6000.0           -39000.0             4000.0           -31000.0
+Net Non Operating Interest Income Expense                          19585000.0        -21412000.0        -20681000.0          2888000.0
+Interest Expense Non Operating                                     57619000.0         48847000.0         41553000.0         21442000.0
+Interest Income Non Operating                                      77204000.0         27435000.0         20872000.0         24330000.0
+Operating Income                                                 1869015000.0       2811175000.0       3474749000.0       1617629000.0
+Operating Expense                                                1990992000.0       2219663000.0       2152480000.0       1715177000.0
+Research And Development                                          950460000.0       1039164000.0        945213000.0        769441000.0
+Selling General And Administration                               1040532000.0       1180499000.0       1207267000.0        945736000.0
+Selling And Marketing Expense                                     446702000.0        527312000.0        581974000.0        494737000.0
+General And Administrative Expense                                593830000.0        653187000.0        625293000.0        450999000.0
+Gross Profit                                                     3860007000.0       5030838000.0       5627229000.0       3332806000.0
+Cost Of Revenue                                                  6990395000.0       8138850000.0       9617622000.0       7715586000.0
+Total Revenue                                                   10850402000.0      13169688000.0      15244851000.0      11048392000.0
+Operating Revenue                                               10850402000.0      13169688000.0      15244851000.0      11048392000.0

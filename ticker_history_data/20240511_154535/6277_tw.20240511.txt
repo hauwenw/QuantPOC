@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No.125, Datung Road
+address2	3rd Floor Sec. 2 Sijhih District
+city	New Taipei City
+zip	221
+country	Taiwan
+phone	886 2 8692 6789
+website	https://www.aten.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Aten International Co., Ltd engages in manufacturing and trading of computer peripheral, wired and wireless communication equipment, and electronic modules and parts in Taiwan and internationally. The company also offers cable, desktop, rack, Cat 5, over IP, extenders, matrix, and secure KVM switches; LCD KVM switches/consoles, computer sharing devices, management software/control center, remote control and monitoring solutions, serial console server, and KVM modules and accessories. In addition, it provides professional audio and video products including control system, modular matrix switches, networked AV, presentation switches, and room booking system; video converters, extenders, matrix switches, switches, and splitters; and wireless, audio, and accessories. Further, the company offers power distribution and racks, which includes energy and DCIM management software, professional online UPS, rack PDU, standing network racks, and accessories; USB solutions, such as capture, docks and switches, gamepad emulator, extenders, converters, and tap/USB to bluetooth KM switches; and serial connectivity comprising auto switches, industry control, secure device servers, and printer network. It also provides Cat 5, Cat 6, Cat 6A, KVM, HDMI, DisplayPort, fiber, daisy chain, DVI, and VGA cables. Additionally, the company offers content creation, hybrid meeting space, smart classroom, data center/server room, hybrid workplace, remote learning, office desktop, remote management, high-tech production line, control room, and digital signage solutions. It serves banking and finance, corporate, education, government, healthcare, hospitality and entertainment, manufacturing, media and telecom, retail, transportation, utilities and resources, and worship and non-profit markets. The company was formerly known as HOZN Automation Co. Ltd. and changed its name to Aten International Co., Ltd in 1988. The company was incorporated in 1979 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sun-Chung  Chen', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kelly  Lin', 'title': 'Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hank  Kwuo', 'title': 'Assistant Vice President of Global Legal & IPR Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Da  Lin', 'title': 'Senior VP, President Office/Global Marketing /R&D Division and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lanie  Chen', 'title': 'Sr. Assistant Vice President of Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Anlen  Wang', 'title': 'Sr. Assistant Vice President of Global Human Resources Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	80.1
+open	80.1
+dayLow	80.0
+dayHigh	80.2
+regularMarketPreviousClose	80.1
+regularMarketOpen	80.1
+regularMarketDayLow	80.0
+regularMarketDayHigh	80.2
+dividendRate	7.8
+dividendYield	0.0971
+exDividendDate	1701907200	 (2023-12-07 08:00:00)
+payoutRatio	1.1588
+fiveYearAvgDividendYield	7.93
+beta	0.258
+trailingPE	17.23176
+forwardPE	11.045392
+volume	47651
+regularMarketVolume	47651
+averageVolume	104548
+averageVolume10days	60402
+averageDailyVolume10Day	60402
+bid	80.2
+ask	80.3
+marketCap	9593522176
+fiftyTwoWeekLow	78.3
+fiftyTwoWeekHigh	90.4
+priceToSalesTrailing12Months	1.8605648
+fiftyDayAverage	80.474
+twoHundredDayAverage	80.71
+trailingAnnualDividendRate	4.3
+trailingAnnualDividendYield	0.0536829
+currency	TWD
+enterpriseValue	8684317696
+profitMargins	0.109680004
+floatShares	84911624
+sharesOutstanding	119471000
+heldPercentInsiders	0.30109
+heldPercentInstitutions	0.01682
+impliedSharesOutstanding	119471000
+bookValue	39.675
+priceToBook	2.0239446
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.392
+netIncomeToCommon	565540992
+trailingEps	4.66
+forwardEps	7.27
+lastSplitFactor	1.07:1
+lastSplitDate	1248825600	 (2009-07-29 08:00:00)
+enterpriseToRevenue	1.684
+enterpriseToEbitda	9.669
+52WeekChange	-0.057511747
+SandP52WeekChange	0.26265144
+lastDividendValue	2.1
+lastDividendDate	1701907200	 (2023-12-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6277.TW
+underlyingSymbol	6277.TW
+shortName	ATEN INTERNATIONAL CO
+longName	Aten International Co., Ltd
+firstTradeDateEpochUtc	1067475600	 (2003-10-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fc095e22-3903-3170-8702-9cd982d8735c
+messageBoardId	finmb_7604219
+gmtOffSetMilliseconds	28800000
+currentPrice	80.3
+recommendationMean	2.7
+recommendationKey	hold
+totalCash	1674487040
+totalCashPerShare	14.016
+ebitda	898171008
+totalDebt	700532992
+quickRatio	1.359
+currentRatio	2.115
+totalRevenue	5156241920
+debtToEquity	14.58
+revenuePerShare	43.159
+returnOnAssets	0.0682
+returnOnEquity	0.118149996
+freeCashflow	631374528
+operatingCashflow	1063057984
+earningsGrowth	-0.387
+revenueGrowth	-0.128
+grossMargins	0.59944
+ebitdaMargins	0.17419
+operatingMargins	0.14624
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -6025434.060222   -5565621.364223    8015050.190569  121153328.872663
+Tax Rate For Calcs                                                  0.239933          0.177679          0.257884          0.112997
+Normalized EBITDA                                               1047234000.0      1162012000.0      1068742000.0       805335000.0
+Total Unusual Items                                              -25113000.0       -31324000.0        31080000.0      1072181000.0
+Total Unusual Items Excluding Goodwill                           -25113000.0       -31324000.0        31080000.0      1072181000.0
+Net Income From Continuing Operation Net Minority Interest       565541000.0       729500000.0       637313000.0      1499268000.0
+Reconciled Depreciation                                          227715000.0       217909000.0       213887000.0       163012000.0
+Reconciled Cost Of Revenue                                      2065366000.0      2239803000.0      2155200000.0      1984333000.0
+EBITDA                                                          1022121000.0      1130688000.0      1099822000.0      1877516000.0
+EBIT                                                             794406000.0       912779000.0       885935000.0      1714504000.0
+Net Interest Income                                              -30312000.0       -15455000.0       -16069000.0       -17711000.0
+Interest Expense                                                  41287000.0        21532000.0        17744000.0        21186000.0
+Interest Income                                                   10975000.0         6077000.0         1675000.0         3475000.0
+Normalized Income                                           584628565.939778  755258378.635777  614248050.190569  548240328.872663
+Net Income From Continuing And Discontinued Operation            565541000.0       729500000.0       637313000.0      1499268000.0
+Total Expenses                                                  4368407000.0      4553495000.0      4358117000.0      4217061000.0
+Diluted Average Shares                                                   NaN       121698000.0       121441000.0       121891707.0
+Basic Average Shares                                                     NaN       119471000.0       119471000.0       119463586.0
+Diluted EPS                                                              NaN              5.99              5.25              12.3
+Basic EPS                                                                NaN              6.11              5.33             12.55
+Diluted NI Availto Com Stockholders                              565541000.0       729500000.0       637313000.0      1499268000.0
+Net Income Common Stockholders                                   565541000.0       729500000.0       637313000.0      1499268000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       565541000.0       729500000.0       637313000.0      1499268000.0
+Minority Interests                                                -6880000.0        -3391000.0        -6985000.0        -2710000.0
+Net Income Including Noncontrolling Interests                    572421000.0       732891000.0       644298000.0      1501978000.0
+Net Income Continuous Operations                                 572421000.0       732891000.0       644298000.0      1501978000.0
+Tax Provision                                                    180698000.0       158356000.0       223893000.0       191340000.0
+Pretax Income                                                    753119000.0       891247000.0       868191000.0      1693318000.0
+Other Non Operating Income Expenses                               25544000.0        29939000.0        88304000.0        39656000.0
+Special Income Charges                                           -25362000.0          673000.0        -1450000.0         1446000.0
+Other Special Charges                                             25547000.0          357000.0         1249000.0          352000.0
+Write Off                                                          -185000.0        -1030000.0          201000.0        -1798000.0
+Net Non Operating Interest Income Expense                        -30312000.0       -15455000.0       -16069000.0       -17711000.0
+Interest Expense Non Operating                                    41287000.0        21532000.0        17744000.0        21186000.0
+Interest Income Non Operating                                     10975000.0         6077000.0         1675000.0         3475000.0
+Operating Income                                                 787835000.0       849672000.0       805574000.0       606552000.0
+Operating Expense                                               2303041000.0      2313692000.0      2202917000.0      2232728000.0
+Research And Development                                         527431000.0       512511000.0       493622000.0       489644000.0
+Selling General And Administration                              1775610000.0      1801181000.0      1709295000.0      1743084000.0
+Selling And Marketing Expense                                   1263680000.0      1273916000.0      1221588000.0      1230751000.0
+General And Administrative Expense                               511930000.0       527265000.0       487707000.0       512333000.0
+Gross Profit                                                    3090876000.0      3163364000.0      3008491000.0      2839280000.0
+Cost Of Revenue                                                 2065366000.0      2239803000.0      2155200000.0      1984333000.0
+Total Revenue                                                   5156242000.0      5403167000.0      5163691000.0      4823613000.0
+Operating Revenue                                               5156242000.0      5403167000.0      5163691000.0      4823613000.0

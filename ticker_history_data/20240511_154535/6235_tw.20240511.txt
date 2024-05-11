@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 1, Taiping East Road
+address2	5th Floor Pingzhen District
+city	Taoyuan City
+zip	324
+country	Taiwan
+website	https://www.waffer.com.tw
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Waffer Technology Corporation engages in the production and sale of magnesium aluminum alloy molded products in the Mainland of China, Taiwan, the United States, and internationally. The company's products include cosmetic and internal parts for notebooks; handheld scanners and mobile phone parts; camera, video cam, projector, and monitoring optical parts; and auto parts, as well as other products, such as wearable, tools, sports, and other products. It is also involved in the provision of light-metal solution of magnesium and aluminum alloy, mold and tooling research and development, magnesium alloy injection and die-casting, CNC, and painting and assembly of vertical integration OEM/ODM processing services. In addition, the company manufactures and processes automotive aluminum alloy die-cast tools, 3C product magnesium injection tools, other light metal die-casting tools, and fixtures and gauges. It serves medical, industrial, telecommunications, construction, automotive, sporting goods, aeronautical, transportation, national defense, and other industries. The company was formerly known as Waffer Industrial Company, Limited and changed its name to Waffer Technology Corporation in 2000. Waffer Technology Corporation was founded in 1950 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. J. H. Chen', 'title': 'Vice Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	91.8
+open	90.8
+dayLow	84.1
+dayHigh	90.8
+regularMarketPreviousClose	91.8
+regularMarketOpen	90.8
+regularMarketDayLow	84.1
+regularMarketDayHigh	90.8
+dividendRate	1.68
+dividendYield	0.0198
+exDividendDate	1711584000	 (2024-03-28 08:00:00)
+payoutRatio	0.1691
+beta	1.027
+trailingPE	20.581114
+forwardPE	6.762132
+volume	8408174
+regularMarketVolume	8408174
+averageVolume	4369466
+averageVolume10days	4921013
+averageDailyVolume10Day	4921013
+bid	85.0
+ask	85.1
+marketCap	16416730112
+fiftyTwoWeekLow	81.7
+fiftyTwoWeekHigh	183.0
+priceToSalesTrailing12Months	2.8431177
+fiftyDayAverage	100.464
+twoHundredDayAverage	116.766
+trailingAnnualDividendRate	1.68
+trailingAnnualDividendYield	0.018300653
+currency	TWD
+enterpriseValue	17172617216
+profitMargins	0.13899
+floatShares	144127029
+sharesOutstanding	193138000
+heldPercentInsiders	0.36546
+heldPercentInstitutions	0.05584
+impliedSharesOutstanding	194184000
+bookValue	20.51
+priceToBook	4.14432
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.372
+netIncomeToCommon	802558976
+trailingEps	4.13
+forwardEps	12.57
+lastSplitFactor	0.5:1
+lastSplitDate	1313107200	 (2011-08-12 08:00:00)
+enterpriseToRevenue	2.974
+enterpriseToEbitda	13.482
+52WeekChange	-0.1219008
+SandP52WeekChange	0.26265144
+lastDividendValue	1.67897
+lastDividendDate	1711584000	 (2024-03-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6235.TW
+underlyingSymbol	6235.TW
+shortName	WAFFER TECHNOLOGY CORP
+longName	Waffer Technology Corporation
+firstTradeDateEpochUtc	1093222800	 (2004-08-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	de8cde6a-a893-3c57-8273-ae4fbc2fb7bf
+messageBoardId	finmb_721206
+gmtOffSetMilliseconds	28800000
+currentPrice	85.0
+targetHighPrice	205.0
+targetLowPrice	205.0
+targetMeanPrice	205.0
+targetMedianPrice	205.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+numberOfAnalystOpinions	1
+totalCash	774563968
+totalCashPerShare	4.01
+ebitda	1273761024
+totalDebt	1530482048
+quickRatio	0.825
+currentRatio	1.125
+totalRevenue	5774199808
+debtToEquity	38.637
+revenuePerShare	29.975
+returnOnAssets	0.07911
+returnOnEquity	0.22077
+freeCashflow	-965186368
+operatingCashflow	940971008
+earningsGrowth	0.316
+revenueGrowth	0.271
+grossMargins	0.31134
+ebitdaMargins	0.2206
+operatingMargins	0.16079001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.208768      0.085724       0.18694      0.080319
+Normalized EBITDA                                           1445515000.0   700885000.0   473172000.0   932197000.0
+Net Income From Continuing Operation Net Minority Interest   802559000.0   323042000.0   164735000.0   649834000.0
+Reconciled Depreciation                                      393839000.0   320963000.0   255297000.0   207953000.0
+Reconciled Cost Of Revenue                                  3976441000.0  3021969000.0  2090583000.0  1518662000.0
+EBITDA                                                      1445515000.0   700885000.0   473172000.0   932197000.0
+EBIT                                                        1051676000.0   379922000.0   217875000.0   724244000.0
+Net Interest Income                                          -28738000.0   -23262000.0   -12650000.0   -15257000.0
+Interest Expense                                              37360000.0    26591000.0    15264000.0    17658000.0
+Interest Income                                                8622000.0     3329000.0     2614000.0     2401000.0
+Normalized Income                                            802559000.0   323042000.0   164735000.0   649834000.0
+Net Income From Continuing And Discontinued Operation        802559000.0   323042000.0   164735000.0   649834000.0
+Total Expenses                                              4864759000.0  3787621000.0  2702916000.0  2026554000.0
+Diluted Average Shares                                               NaN   178966000.0   173575000.0   174955930.0
+Basic Average Shares                                                 NaN   176490000.0   170744000.0   173205295.0
+Diluted EPS                                                          NaN          1.81          0.95       3.71721
+Basic EPS                                                            NaN          1.83          0.96      3.756236
+Diluted NI Availto Com Stockholders                          802559000.0   323042000.0   164735000.0   649834000.0
+Net Income Common Stockholders                               802559000.0   323042000.0   164735000.0   649834000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   802559000.0   323042000.0   164735000.0   649834000.0
+Net Income Including Noncontrolling Interests                802559000.0   323042000.0   164735000.0   649834000.0
+Net Income Continuous Operations                             802559000.0   323042000.0   164735000.0   649834000.0
+Tax Provision                                                211757000.0    30289000.0    37876000.0    56752000.0
+Pretax Income                                               1014316000.0   353331000.0   202611000.0   706586000.0
+Other Non Operating Income Expenses                          133613000.0     7134000.0    93870000.0   750970000.0
+Net Non Operating Interest Income Expense                    -28738000.0   -23262000.0   -12650000.0   -15257000.0
+Interest Expense Non Operating                                37360000.0    26591000.0    15264000.0    17658000.0
+Interest Income Non Operating                                  8622000.0     3329000.0     2614000.0     2401000.0
+Operating Income                                             909441000.0   369459000.0   121391000.0   -29127000.0
+Operating Expense                                            888318000.0   765652000.0   612333000.0   507892000.0
+Research And Development                                     315139000.0   247579000.0   197600000.0    94583000.0
+Selling General And Administration                           573179000.0   518073000.0   414733000.0   413309000.0
+Selling And Marketing Expense                                218751000.0   277755000.0   238939000.0   159417000.0
+General And Administrative Expense                           354428000.0   240318000.0   175794000.0   253892000.0
+Gross Profit                                                1797759000.0  1135111000.0   733724000.0   478765000.0
+Cost Of Revenue                                             3976441000.0  3021969000.0  2090583000.0  1518662000.0
+Total Revenue                                               5774200000.0  4157080000.0  2824307000.0  1997427000.0
+Operating Revenue                                           5774200000.0  4157080000.0  2824307000.0  1997427000.0

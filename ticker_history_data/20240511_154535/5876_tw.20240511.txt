@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 149, Minsheng East Road
+address2	3rd-12th Floor Section 2
+city	Taipei
+zip	10483
+country	Taiwan
+phone	886 2 2581 7111
+fax	886 2 2531 8501
+website	https://www.scsb.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	The Shanghai Commercial & Savings Bank, Ltd. provides various commercial banking services. The company offers time, savings, demand, checking, and negotiable certificate of deposit, as well as remittances; and corporate and personal finance. It also provides credit card, ATMs, and internet and mobile banking services. In addition, the company offers traveling, human resources, insurance broker, microfinance, leasing, real estate, nominee, trustee, commodity trading, property holding, IT application, securities brokerage, and property management services. Further, the company is involved in the purchase, evaluation, auction, and management of creditor's right of financial institutions; and investing in exchange fund bills and notes, and bonds. It operates branches in Taiwan, Hong Kong, Vietnam, Singapore, and Wuxi China. The Shanghai Commercial & Savings Bank, Ltd. was founded in 1915 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Yi  Kuo', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shouming  Hisu', 'title': 'Chief Accountant & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-Hui  Hsieh', 'title': 'Executive VP & Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Con-Sing  Yung', 'age': 55, 'title': 'Senior Executive VP, MD & Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Kuei  Peng', 'title': 'Senior Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shao-Yu  Lu', 'title': 'Executive VP & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ru-Hung  Wei', 'title': 'First Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Hwa  Huang', 'title': 'First Executive VP & Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mu-Tsai  Chen', 'title': 'MD & Independent Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiu-Cheng  Hung', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	46.35
+open	46.35
+dayLow	46.25
+dayHigh	46.9
+regularMarketPreviousClose	46.35
+regularMarketOpen	46.35
+regularMarketDayLow	46.25
+regularMarketDayHigh	46.9
+dividendRate	1.8
+dividendYield	0.038399998
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	0.5941
+fiveYearAvgDividendYield	4.07
+beta	0.449
+trailingPE	15.478548
+forwardPE	12.342106
+volume	5175193
+regularMarketVolume	5175193
+averageVolume	5333646
+averageVolume10days	5676476
+averageDailyVolume10Day	5676476
+bid	46.85
+ask	46.9
+marketCap	227474849792
+fiftyTwoWeekLow	41.5
+fiftyTwoWeekHigh	48.4
+priceToSalesTrailing12Months	5.6499763
+fiftyDayAverage	46.235
+twoHundredDayAverage	44.77475
+trailingAnnualDividendRate	1.8
+trailingAnnualDividendYield	0.03883495
+currency	TWD
+enterpriseValue	342252126208
+profitMargins	0.36597002
+floatShares	3875287777
+sharesOutstanding	4850209792
+heldPercentInsiders	0.21851
+heldPercentInstitutions	0.16121
+impliedSharesOutstanding	4870980096
+bookValue	39.738
+priceToBook	1.1802306
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.017
+netIncomeToCommon	14734334976
+trailingEps	3.03
+forwardEps	3.8
+pegRatio	0.89
+lastSplitFactor	1020:1000
+lastSplitDate	1470873600	 (2016-08-11 08:00:00)
+enterpriseToRevenue	8.501
+52WeekChange	0.0107758045
+SandP52WeekChange	0.26265144
+lastDividendValue	1.8
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5876.TW
+underlyingSymbol	5876.TW
+shortName	THE SHANGHAI COMM & SAVINGS BAN
+longName	The Shanghai Commercial & Savings Bank, Ltd.
+firstTradeDateEpochUtc	1411606800	 (2014-09-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4a1a0850-9ff9-38ac-a39e-7fe3e7af97b0
+messageBoardId	finmb_22596134
+gmtOffSetMilliseconds	28800000
+currentPrice	46.9
+targetHighPrice	49.0
+targetLowPrice	49.0
+targetMeanPrice	49.0
+targetMedianPrice	49.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	64277172224
+totalCashPerShare	13.252
+totalDebt	114644738048
+totalRevenue	40261206016
+revenuePerShare	8.301
+returnOnAssets	0.0073
+returnOnEquity	0.07112
+operatingCashflow	67827417088
+earningsGrowth	0.013
+revenueGrowth	0.077
+operatingMargins	0.57616
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                    10433886.921326    -10536850.913685     -4586568.073614      -6673783.32364
+Tax Rate For Calcs                                                    0.179175             0.17802            0.156677             0.17348
+Total Unusual Items                                                 58233000.0         -59189000.0         -29274000.0         -38470000.0
+Total Unusual Items Excluding Goodwill                              58233000.0         -59189000.0         -29274000.0         -38470000.0
+Net Income From Continuing Operation Net Minority Interest       14659995000.0       14937870000.0       14255581000.0       13462945000.0
+Reconciled Depreciation                                           1883004000.0        1762644000.0        1659855000.0        1713459000.0
+Net Interest Income                                              39151574000.0       33243343000.0       26470295000.0       26388610000.0
+Interest Expense                                                 41720357000.0       16800536000.0        9048820000.0       15598447000.0
+Interest Income                                                  80871931000.0       50043879000.0       35519115000.0       41987057000.0
+Normalized Income                                           14612195886.921326  14986522149.086315  14280268431.926386  13494741216.676359
+Net Income From Continuing And Discontinued Operation            14659995000.0       14937870000.0       14255581000.0       13462945000.0
+Diluted Average Shares                                            4852065000.0        4489872000.0        4471812000.0        4530092918.0
+Basic Average Shares                                              4850206000.0        4487904000.0        4470206000.0        4528259412.0
+Diluted EPS                                                               3.02                3.33                3.19            2.971411
+Basic EPS                                                                 3.02                3.33                3.19            2.971411
+Diluted NI Availto Com Stockholders                              14659995000.0       14937870000.0       14255581000.0       13462945000.0
+Net Income Common Stockholders                                   14659995000.0       14937870000.0       14255581000.0       13462945000.0
+Net Income                                                       14659995000.0       14937870000.0       14255581000.0       13462945000.0
+Minority Interests                                               -2765142000.0       -4158154000.0       -4415037000.0       -4351671000.0
+Net Income Including Noncontrolling Interests                    17425137000.0       19096024000.0       18670618000.0       17814616000.0
+Net Income Continuous Operations                                 17425137000.0       19096024000.0       18670618000.0       17814616000.0
+Tax Provision                                                     3803667000.0        4135726000.0        3468731000.0        3739152000.0
+Pretax Income                                                    21228804000.0       23231750000.0       22139349000.0       21553768000.0
+Special Income Charges                                              58233000.0         -59189000.0         -29274000.0         -38470000.0
+Write Off                                                          -58233000.0          59189000.0          29274000.0          38470000.0
+Gain On Sale Of Security                                          1538337000.0          -9670000.0        2086207000.0        3420629000.0
+Operating Expense                                                18199784000.0       17030577000.0       14791396000.0       14606093000.0
+Other Operating Expenses                                                   0.0                 0.0                 0.0                 0.0
+Depreciation And Amortization In Income Statement                 1883004000.0        1762644000.0        1659855000.0        1713459000.0
+Depreciation Income Statement                                     1883004000.0        1762644000.0        1659855000.0        1713459000.0
+Selling General And Administration                                5202076000.0        4677469000.0        3793366000.0        3882966000.0
+General And Administrative Expense                                5202076000.0        4677469000.0        3793366000.0        3882966000.0
+Total Revenue                                                    48918111000.0       44131942000.0       37928334000.0       37635234000.0
+Operating Revenue                                                48918111000.0       44131942000.0       37928334000.0       37635234000.0

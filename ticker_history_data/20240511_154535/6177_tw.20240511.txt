@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 96, Jianguo North Road
+address2	10th Floor Section 1 Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2506 1966
+fax	886 2 2506 1989
+website	https://www.da-li.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Da-Li Development Co.,Ltd., together its subsidiaries, operates construction business in Taiwan and the United States. The company operates through development and construction segments. It also engages in sale and rental business of residential buildings and departmental stores. The company was incorporated in 1977 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Chang  Hsieh', 'title': 'GM & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching Chih  Liu', 'title': 'Chief of Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei Ru  Pan', 'title': 'Chief Accountant & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chen Cheng  Hsieh', 'title': 'Manager of Information Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng Hsiung  Liao', 'title': 'Assistant Vice President of Legal Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui Chun  Tung', 'title': 'Senior Manager of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching Ching  Liang', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Chih  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yao-Fang  Li', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	64.3
+open	64.5
+dayLow	61.7
+dayHigh	64.9
+regularMarketPreviousClose	64.3
+regularMarketOpen	64.5
+regularMarketDayLow	61.7
+regularMarketDayHigh	64.9
+dividendRate	1.0
+dividendYield	0.0161
+exDividendDate	1692748800	 (2023-08-23 08:00:00)
+payoutRatio	0.2132
+fiveYearAvgDividendYield	8.42
+beta	0.382
+trailingPE	13.219616
+forwardPE	17.222223
+volume	10286790
+regularMarketVolume	10286790
+averageVolume	6254193
+averageVolume10days	23297698
+averageDailyVolume10Day	23297698
+bid	61.6
+ask	62.0
+marketCap	25279879168
+fiftyTwoWeekLow	29.6
+fiftyTwoWeekHigh	71.8
+priceToSalesTrailing12Months	1.6388121
+fiftyDayAverage	45.981
+twoHundredDayAverage	35.99968
+currency	TWD
+enterpriseValue	41912819712
+profitMargins	0.13406
+floatShares	208069722
+sharesOutstanding	407740000
+heldPercentInsiders	0.48127997
+heldPercentInstitutions	0.02592
+impliedSharesOutstanding	411206016
+bookValue	22.016
+priceToBook	2.8161337
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	2068023040
+trailingEps	4.69
+forwardEps	3.6
+lastSplitFactor	1050:1000
+lastSplitDate	1692748800	 (2023-08-23 08:00:00)
+enterpriseToRevenue	2.717
+enterpriseToEbitda	15.698
+52WeekChange	1.0503938
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1692748800	 (2023-08-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6177.TW
+underlyingSymbol	6177.TW
+shortName	DA-LI CONSTRUCTION CO. LTD.
+longName	Da-Li Development Co.,Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b4ea71c0-0023-3540-b128-0a090f19340c
+messageBoardId	finmb_9871756
+gmtOffSetMilliseconds	28800000
+currentPrice	62.0
+targetHighPrice	60.0
+targetLowPrice	60.0
+targetMeanPrice	60.0
+targetMedianPrice	60.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	2300361984
+totalCashPerShare	5.642
+ebitda	2669997056
+totalDebt	18652282880
+quickRatio	0.123
+currentRatio	1.408
+totalRevenue	15425733632
+debtToEquity	201.476
+revenuePerShare	37.859
+returnOnAssets	0.04404
+returnOnEquity	0.24826999
+freeCashflow	5764867072
+operatingCashflow	6161978880
+revenueGrowth	43.815
+grossMargins	0.25345
+ebitdaMargins	0.17309
+operatingMargins	0.19194001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     173731.151533     -361369.897905      416084.896032   -1105138.627082
+Tax Rate For Calcs                                                   0.216084           0.198337           0.051933          0.100825
+Normalized EBITDA                                                2864015000.0       1688534000.0       1814877000.0       330766000.0
+Total Unusual Items                                                  804000.0         -1822000.0          8012000.0       -10961000.0
+Total Unusual Items Excluding Goodwill                               804000.0         -1822000.0          8012000.0       -10961000.0
+Net Income From Continuing Operation Net Minority Interest       2068023000.0       1198817000.0       1564460000.0       158075000.0
+Reconciled Depreciation                                           138212000.0         97241000.0         41383000.0        39757000.0
+Reconciled Cost Of Revenue                                      11516109000.0       6220656000.0       7460179000.0      1523562000.0
+EBITDA                                                           2864819000.0       1686712000.0       1822889000.0       319805000.0
+EBIT                                                             2726607000.0       1589471000.0       1781506000.0       280048000.0
+Net Interest Income                                               -69760000.0        -88700000.0       -135112000.0      -113003000.0
+Interest Expense                                                   78580000.0         94399000.0        136435000.0       113789000.0
+Interest Income                                                     8820000.0          5699000.0          1323000.0          786000.0
+Normalized Income                                           2067392731.151533  1200277630.102095  1556864084.896032  167930861.372918
+Net Income From Continuing And Discontinued Operation            2068023000.0       1198817000.0       1564460000.0       158075000.0
+Total Expenses                                                  12867481000.0       7124143000.0       8337027000.0      1933868000.0
+Diluted Average Shares                                            408304000.0        407889000.0        407920800.0       384547800.0
+Basic Average Shares                                              407451000.0        407306000.0        407305500.0       337315650.0
+Diluted EPS                                                              5.06               2.94           3.838095          0.409524
+Basic EPS                                                                5.08               2.94           3.838095          0.466667
+Diluted NI Availto Com Stockholders                              2068023000.0       1198817000.0       1564460000.0       158075000.0
+Net Income Common Stockholders                                   2068023000.0       1198817000.0       1564460000.0       158075000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0               0.0
+Net Income                                                       2068023000.0       1198817000.0       1564460000.0       158075000.0
+Minority Interests                                                 -7809000.0           273000.0          4822000.0         8579000.0
+Net Income Including Noncontrolling Interests                    2075832000.0       1198544000.0       1559638000.0       149496000.0
+Net Income Continuous Operations                                 2075832000.0       1198544000.0       1559638000.0       149496000.0
+Tax Provision                                                     572195000.0        296528000.0         85433000.0        16763000.0
+Pretax Income                                                    2648027000.0       1495072000.0       1645071000.0       166259000.0
+Other Non Operating Income Expenses                                93086000.0         77256000.0         35805000.0       133721000.0
+Special Income Charges                                               804000.0         -1822000.0         -4068000.0        -2561000.0
+Other Special Charges                                               -798000.0                NaN           -21000.0               NaN
+Write Off                                                             -6000.0          1822000.0          4089000.0         2561000.0
+Net Non Operating Interest Income Expense                         -69760000.0        -88700000.0       -135112000.0      -113003000.0
+Interest Expense Non Operating                                     78580000.0         94399000.0        136435000.0       113789000.0
+Interest Income Non Operating                                       8820000.0          5699000.0          1323000.0          786000.0
+Operating Income                                                 2558253000.0       1464338000.0       1741540000.0       169475000.0
+Operating Expense                                                1351372000.0        903487000.0        876848000.0       410306000.0
+Selling General And Administration                               1351372000.0        903487000.0        876848000.0       410306000.0
+Selling And Marketing Expense                                     933861000.0        408188000.0        536673000.0       102973000.0
+General And Administrative Expense                                417511000.0        495299000.0        340175000.0       307333000.0
+Gross Profit                                                     3909625000.0       2367825000.0       2618388000.0       579781000.0
+Cost Of Revenue                                                 11516109000.0       6220656000.0       7460179000.0      1523562000.0
+Total Revenue                                                   15425734000.0       8588481000.0      10078567000.0      2103343000.0
+Operating Revenue                                               15425734000.0       8588481000.0      10078567000.0      2103343000.0

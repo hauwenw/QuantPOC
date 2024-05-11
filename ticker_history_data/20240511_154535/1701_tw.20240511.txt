@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 23, Hsiang Yang Road
+city	Taipei
+zip	10046
+country	Taiwan
+phone	886 2 2312 4200
+fax	886 2 2361 5143
+website	https://www.ccpc.com.tw
+industry	Drug Manufacturers - Specialty & Generic
+industryKey	drug-manufacturers-specialty-generic
+industryDisp	Drug Manufacturers - Specialty & Generic
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	China Chemical & Pharmaceutical Co., Ltd. engages in the research and development, manufacture, and sale of generic pharmaceutical and healthcare products for humans and animals. The company provides sexual function supplements; cardiovascular drugs, anti-lipidemia drugs, and peripheral circulation impediment relieving agents; diabetes treatment drugs, adrenocortico steroids, and weight control drugs; and anti-infection drugs, such as antibiotics, antifungal drugs, and anti-viral drugs. It also offers nutritional supplements comprising vitamins, liver toning agents, and electrolyte and calorie preparations; antipyretic, analgesic, and anti-inflammatory medicines; digestive drugs, intestinal improvement agents, and antispasmodics; cough suppressants, antihistamines, and asthma treatment agents; BPH drugs for the urinary system; hypnotic, mental stability, and antidepressant drugs; hematology/oncology drugs; and other general preparations. In addition, the company provides over the counter drugs such as vitamins, external skin care products, cold and cough medicines, anti-inflammatory analgesics, and gastrointestinal drugs; and antibacterial and disinfection medicines. Further, it manufactures animal health products, including drugs for pigs and cattle, companion animal products, poultry drugs, and feed supplements; and offers contract manufacturing services. China Chemical & Pharmaceutical Co., Ltd. was founded in 1952 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Yung  Wu', 'title': 'President & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chao-Lang  Lin', 'title': 'Director of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Te-Feng  Chao', 'title': 'Director of Administrative Support Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Teng-Pao  Lin', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yin-Nan  Sun', 'title': 'VP, Deputy GM & President of Chunghwa Yuming Healthcare Co Ltd', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	22.0
+open	22.1
+dayLow	22.1
+dayHigh	22.35
+regularMarketPreviousClose	22.0
+regularMarketOpen	22.1
+regularMarketDayLow	22.1
+regularMarketDayHigh	22.35
+dividendRate	0.8
+dividendYield	0.0359
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.7407
+fiveYearAvgDividendYield	3.79
+beta	0.128
+trailingPE	20.648146
+volume	828473
+regularMarketVolume	828473
+averageVolume	684276
+averageVolume10days	553412
+averageDailyVolume10Day	553412
+bid	22.3
+ask	22.35
+marketCap	6647205888
+fiftyTwoWeekLow	21.2
+fiftyTwoWeekHigh	26.8
+priceToSalesTrailing12Months	0.77520967
+fiftyDayAverage	22.613
+twoHundredDayAverage	23.4035
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.022727273
+currency	TWD
+enterpriseValue	9615318016
+profitMargins	0.03759
+floatShares	196151387
+sharesOutstanding	298080992
+heldPercentInsiders	0.35402
+heldPercentInstitutions	0.07434
+impliedSharesOutstanding	299436000
+bookValue	25.003
+priceToBook	0.8918929
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.048
+netIncomeToCommon	322294016
+trailingEps	1.08
+lastSplitFactor	110:100
+lastSplitDate	1122336000	 (2005-07-26 08:00:00)
+enterpriseToRevenue	1.121
+enterpriseToEbitda	18.315
+52WeekChange	-0.12890625
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1701.TW
+underlyingSymbol	1701.TW
+shortName	CHINA CHEMICAL & PHARMACEUTICAL
+longName	China Chemical & Pharmaceutical Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	163d194e-491c-32f9-ac52-b5bd4f184363
+messageBoardId	finmb_9896965
+gmtOffSetMilliseconds	28800000
+currentPrice	22.3
+recommendationKey	none
+totalCash	489217984
+totalCashPerShare	1.646
+ebitda	525003008
+totalDebt	3437740032
+quickRatio	0.798
+currentRatio	1.646
+totalRevenue	8574720000
+debtToEquity	46.018
+revenuePerShare	28.847
+returnOnAssets	0.01161
+returnOnEquity	0.04343
+freeCashflow	-86107624
+operatingCashflow	601908992
+earningsGrowth	0.079
+revenueGrowth	-0.019
+grossMargins	0.36619
+ebitdaMargins	0.06123
+operatingMargins	0.03957
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31      2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1290056.117193    1937532.2779    2715343.850495    4639280.335746
+Tax Rate For Calcs                                                  0.172907        0.185837          0.216742          0.149231
+Normalized EBITDA                                                772479000.0     911975000.0       959938000.0       934554000.0
+Total Unusual Items                                               -7461000.0      10426000.0        12528000.0        31088000.0
+Total Unusual Items Excluding Goodwill                            -7461000.0      10426000.0        12528000.0        31088000.0
+Net Income From Continuing Operation Net Minority Interest       322294000.0     477541000.0       517508000.0       557365000.0
+Reconciled Depreciation                                          314263000.0     291818000.0       277466000.0       265177000.0
+Reconciled Cost Of Revenue                                      5434715000.0    5368631000.0      5084206000.0      5212253000.0
+EBITDA                                                           765018000.0     922401000.0       972466000.0       965642000.0
+EBIT                                                             450755000.0     630583000.0       695000000.0       700465000.0
+Net Interest Income                                              -48375000.0     -30726000.0       -12424000.0       -20404000.0
+Interest Expense                                                  59538000.0      41883000.0        35760000.0        42825000.0
+Interest Income                                                   11163000.0      11157000.0        23336000.0        22421000.0
+Normalized Income                                           328464943.882807  469052532.2779  507695343.850495  530916280.335746
+Net Income From Continuing And Discontinued Operation            322294000.0     477541000.0       517508000.0       557365000.0
+Total Expenses                                                  8336047000.0    8087740000.0      7537637000.0      7790912000.0
+Diluted Average Shares                                                   NaN     299535000.0       300098000.0       299849000.0
+Basic Average Shares                                                     NaN     297253000.0       297253000.0       297253000.0
+Diluted EPS                                                              NaN            1.59              1.72              1.86
+Basic EPS                                                                NaN            1.61              1.74              1.88
+Diluted NI Availto Com Stockholders                              322294000.0     477541000.0       517508000.0       557365000.0
+Net Income Common Stockholders                                   322294000.0     477541000.0       517508000.0       557365000.0
+Otherunder Preferred Stock Dividend                                      0.0             0.0               0.0               0.0
+Net Income                                                       322294000.0     477541000.0       517508000.0       557365000.0
+Minority Interests                                                -1279000.0      -1757000.0         1153000.0        -2135000.0
+Net Income Including Noncontrolling Interests                    323573000.0     479298000.0       516355000.0       559500000.0
+Net Income Continuous Operations                                 323573000.0     479298000.0       516355000.0       559500000.0
+Tax Provision                                                     67644000.0     109402000.0       142885000.0        98140000.0
+Pretax Income                                                    391217000.0     588700000.0       659240000.0       657640000.0
+Other Non Operating Income Expenses                               49651000.0      55058000.0       105414000.0       102027000.0
+Special Income Charges                                            -7461000.0      10426000.0        12528000.0        31088000.0
+Write Off                                                          7461000.0     -10426000.0       -12528000.0       -31088000.0
+Net Non Operating Interest Income Expense                        -48375000.0     -30726000.0       -12424000.0       -20404000.0
+Interest Expense Non Operating                                    59538000.0      41883000.0        35760000.0        42825000.0
+Interest Income Non Operating                                     11163000.0      11157000.0        23336000.0        22421000.0
+Operating Income                                                 238673000.0     368772000.0       411361000.0       390144000.0
+Operating Expense                                               2901332000.0    2719109000.0      2453431000.0      2578659000.0
+Research And Development                                         485656000.0     435732000.0       391335000.0       444175000.0
+Selling General And Administration                              2415676000.0    2283377000.0      2062096000.0      2134484000.0
+Selling And Marketing Expense                                   2070338000.0    1964192000.0      1784754000.0      1916296000.0
+General And Administrative Expense                               345338000.0     319185000.0       277342000.0       218188000.0
+Gross Profit                                                    3140005000.0    3087881000.0      2864792000.0      2968803000.0
+Cost Of Revenue                                                 5434715000.0    5368631000.0      5084206000.0      5212253000.0
+Total Revenue                                                   8574720000.0    8456512000.0      7948998000.0      8181056000.0
+Operating Revenue                                               8574720000.0    8456512000.0      7948998000.0      8181056000.0

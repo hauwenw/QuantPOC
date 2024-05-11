@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	PO Box 31119
+address2	Grand Pavilion, Hibiscus Way 802 West Bay Road
+city	Grand Cayman
+zip	KY1-1205
+country	Cayman Islands
+website	https://www.hygroup.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	HY Electronic (Cayman) Limited engages in research and development, manufacture, and sale of rectifier diodes, bridge rectifiers, solar diodes, and wafers in China, Asia, Europe, and internationally. The company provides standard rectifiers, fast recovery diodes, schottky rectifiers, low VF schottky barrier diodes, high voltage glass passivated rectifiers, PV solar cell protection schottky rectifiers, and silicon carbide schottky diodes; standard, low VF, fast recovery, three-phase, and schottky barrier bridge rectifiers; protection devices, including transient voltage suppressors diodes, Zener Diodes, and electrical static discharge guards; power modules; and press fit products. It also offers automotive devices; synchronous rectification MosFETs; Super Junction MosFETs; wide band gap semiconductors; small signal diodes, which include schottky rectifiers, switching diode, zener diode, transistors, and MOSFET products; and adjustable precision shunt regulation products. In addition, the company provides OEM, ODM, and OBM services. It serves power supply, automotive, industrial, consumer, communication, and other applications. The company was incorporated in 2009 and is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Kuei-Jen  Kao', 'title': 'President, CEO & Director', 'fiscalYear': 2021, 'totalPay': 2635000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chien-Ju  Kan', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'I-Hua  Lin', 'title': 'Chief Accountant', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Cheng', 'title': 'Director of Administration Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Teng', 'title': 'Chief Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Fang', 'title': 'President of Subsidiary', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	12.85
+open	12.8
+dayLow	12.7
+dayHigh	12.95
+regularMarketPreviousClose	12.85
+regularMarketOpen	12.8
+regularMarketDayLow	12.7
+regularMarketDayHigh	12.95
+exDividendDate	1564012800	 (2019-07-25 08:00:00)
+beta	0.797
+volume	44004
+regularMarketVolume	44004
+averageVolume	67710
+averageVolume10days	33235
+averageDailyVolume10Day	33235
+bid	12.8
+ask	12.95
+marketCap	1042465856
+fiftyTwoWeekLow	12.5
+fiftyTwoWeekHigh	19.95
+priceToSalesTrailing12Months	0.88535595
+fiftyDayAverage	13.445
+twoHundredDayAverage	14.31225
+currency	TWD
+enterpriseValue	1834904064
+profitMargins	-0.19885
+sharesOutstanding	80499296
+heldPercentInsiders	0.62374
+impliedSharesOutstanding	80812496
+bookValue	8.543
+priceToBook	1.5158609
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-234136000
+trailingEps	-2.91
+lastSplitFactor	1025:1000
+lastSplitDate	1564012800	 (2019-07-25 08:00:00)
+enterpriseToRevenue	1.558
+enterpriseToEbitda	-17.472
+52WeekChange	-0.1618123
+SandP52WeekChange	0.26265144
+lastDividendValue	0.245232
+lastDividendDate	1564012800	 (2019-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6573.TW
+underlyingSymbol	6573.TW
+shortName	HY ELECTRONIC (CAYMAN) LIMITED
+longName	HY Electronic (Cayman) Limited
+firstTradeDateEpochUtc	1506387600	 (2017-09-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	db8fca72-c1ff-3202-934e-d04a1ed285b0
+messageBoardId	finmb_419197017
+gmtOffSetMilliseconds	28800000
+currentPrice	12.95
+recommendationKey	none
+totalCash	131815000
+totalCashPerShare	1.637
+ebitda	-105022000
+totalDebt	911736000
+quickRatio	0.437
+currentRatio	0.74
+totalRevenue	1177453952
+debtToEquity	130.202
+revenuePerShare	14.627
+returnOnAssets	-0.05866
+returnOnEquity	-0.28962
+freeCashflow	-78574376
+operatingCashflow	-64474000
+revenueGrowth	-0.044
+grossMargins	0.03629
+ebitdaMargins	-0.08919
+operatingMargins	-0.23608999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -404000.0     4251800.0    -3217800.0      545800.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                            -76475000.0  -106667000.0     2431000.0   -37897000.0
+Total Unusual Items                                           -2020000.0    21259000.0   -16089000.0     2729000.0
+Total Unusual Items Excluding Goodwill                        -2020000.0    21259000.0   -16089000.0     2729000.0
+Net Income From Continuing Operation Net Minority Interest  -234136000.0  -208091000.0  -155577000.0  -186714000.0
+Reconciled Depreciation                                      117666000.0   109651000.0   126383000.0   136010000.0
+Reconciled Cost Of Revenue                                  1134721000.0  1197536000.0  1892628000.0  1523927000.0
+EBITDA                                                       -78495000.0   -85408000.0   -13658000.0   -35168000.0
+EBIT                                                        -196161000.0  -195059000.0  -140041000.0  -171178000.0
+Net Interest Income                                          -40066000.0   -39657000.0   -36999000.0   -34562000.0
+Interest Expense                                              41151000.0    40316000.0    37625000.0    37273000.0
+Interest Income                                                1085000.0      659000.0      626000.0     2711000.0
+Normalized Income                                           -232520000.0  -225098200.0  -142705800.0  -188897200.0
+Net Income From Continuing And Discontinued Operation       -234136000.0  -208091000.0  -155577000.0  -186714000.0
+Total Expenses                                              1378596000.0  1456047000.0  2196936000.0  1803028000.0
+Diluted Average Shares                                               NaN    80499000.0    80499000.0    73467000.0
+Basic Average Shares                                                 NaN    80499000.0    80499000.0    73467000.0
+Diluted EPS                                                          NaN         -2.59         -1.93         -2.54
+Basic EPS                                                            NaN         -2.59         -1.93         -2.54
+Diluted NI Availto Com Stockholders                         -234136000.0  -208091000.0  -155577000.0  -186714000.0
+Net Income Common Stockholders                              -234136000.0  -208091000.0  -155577000.0  -186714000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -234136000.0  -208091000.0  -155577000.0  -186714000.0
+Minority Interests                                             5532000.0    29115000.0    26618000.0    50746000.0
+Net Income Including Noncontrolling Interests               -239668000.0  -237206000.0  -182195000.0  -237460000.0
+Net Income Continuous Operations                            -239668000.0  -237206000.0  -182195000.0  -237460000.0
+Tax Provision                                                  2356000.0     1831000.0     4529000.0    29009000.0
+Pretax Income                                               -237312000.0  -235375000.0  -177666000.0  -208451000.0
+Other Non Operating Income Expenses                            6112000.0    31242000.0   -16667000.0    19586000.0
+Special Income Charges                                        -2020000.0    21259000.0   -16089000.0     2729000.0
+Write Off                                                      2020000.0   -21259000.0    16089000.0    -2729000.0
+Net Non Operating Interest Income Expense                    -40066000.0   -39657000.0   -36999000.0   -34562000.0
+Interest Expense Non Operating                                41151000.0    40316000.0    37625000.0    37273000.0
+Interest Income Non Operating                                  1085000.0      659000.0      626000.0     2711000.0
+Operating Income                                            -201142000.0  -235555000.0   -99771000.0  -187778000.0
+Operating Expense                                            243875000.0   258511000.0   304308000.0   279101000.0
+Research And Development                                      50707000.0    58617000.0    86981000.0    73247000.0
+Selling General And Administration                           193168000.0   199894000.0   217327000.0   205854000.0
+Selling And Marketing Expense                                 89011000.0    85522000.0    96317000.0    87708000.0
+General And Administrative Expense                           104157000.0   114372000.0   121010000.0   118146000.0
+Gross Profit                                                  42733000.0    22956000.0   204537000.0    91323000.0
+Cost Of Revenue                                             1134721000.0  1197536000.0  1892628000.0  1523927000.0
+Total Revenue                                               1177454000.0  1220492000.0  2097165000.0  1615250000.0
+Operating Revenue                                           1177454000.0  1220492000.0  2097165000.0  1615250000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 37, Pingdong Road
+address2	Lane 659 Pingzhen District
+city	Taoyuan
+zip	32465
+country	Taiwan
+phone	886 3 460 6677
+fax	886 3 460 4549
+website	https://www.optimax.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Optimax Technology Corporation engages in the manufacture and sale of polarizers for liquid crystal display (LCD) manufacturers in Taiwan. The company offers dye-based polarizing plates, used in TN/STN/TFT/PMVA/OLED applications; and iodine-based polarizing plates for flat panel displays used in electronic watches, mobile phones, tablets, electronic computers, notebook computers, desktop LCD monitors, digital cameras, portable DVD, industrial automation control panels, measuring instruments, televisions, public inquiry systems, etc. It also provides protective sticker products used in protecting the displays of electronic watches, digital cameras, mobile phone screens, display panels, etc.; and polarized sunglasses. The company was founded in 1998 and is based in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wilson  Chao', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 5955000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ren-Qiang  Ma', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'totalPay': 2694000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sam  Su', 'title': 'IT Manager', 'fiscalYear': 2021, 'totalPay': 1684000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Oscar  Yen', 'title': 'Sales Manager', 'fiscalYear': 2021, 'totalPay': 1503000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sheng-Chang  Peng', 'title': 'Sales Manager', 'fiscalYear': 2021, 'totalPay': 1476000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zong-Ze  Chen', 'title': 'Financial Manager', 'fiscalYear': 2021, 'totalPay': 1159000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	34.15
+open	34.9
+dayLow	33.6
+dayHigh	34.95
+regularMarketPreviousClose	34.15
+regularMarketOpen	34.9
+regularMarketDayLow	33.6
+regularMarketDayHigh	34.95
+dividendRate	1.2
+dividendYield	0.0356
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	1.165
+beta	1.359
+trailingPE	32.71845
+volume	1670995
+regularMarketVolume	1670995
+averageVolume	3203953
+averageVolume10days	2122215
+averageDailyVolume10Day	2122215
+bid	33.7
+ask	33.75
+marketCap	5661600256
+fiftyTwoWeekLow	17.1
+fiftyTwoWeekHigh	46.75
+priceToSalesTrailing12Months	2.824214
+fiftyDayAverage	37.493
+twoHundredDayAverage	33.771
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.029282575
+currency	TWD
+enterpriseValue	6807102976
+profitMargins	0.08607
+sharesOutstanding	168000000
+heldPercentInsiders	0.25209
+heldPercentInstitutions	0.0067000003
+impliedSharesOutstanding	169882000
+bookValue	14.558
+priceToBook	2.3148785
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	172532000
+trailingEps	1.03
+lastSplitFactor	522.5425:1000
+lastSplitDate	1639612800	 (2021-12-16 08:00:00)
+enterpriseToRevenue	3.396
+enterpriseToEbitda	24.631
+52WeekChange	0.91477275
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3051.TW
+underlyingSymbol	3051.TW
+shortName	OPTIMAX TECHNOLOGY CORPORATION
+longName	Optimax Technology Corporation
+firstTradeDateEpochUtc	1035853200	 (2002-10-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cf0c8c67-ea39-3177-8baa-ab89eb8bc247
+messageBoardId	finmb_9284010
+gmtOffSetMilliseconds	28800000
+currentPrice	33.7
+recommendationKey	none
+totalCash	176779008
+totalCashPerShare	1.052
+ebitda	276360000
+totalDebt	1322281984
+quickRatio	1.723
+currentRatio	3.523
+totalRevenue	2004664064
+debtToEquity	54.066
+revenuePerShare	11.933
+returnOnAssets	0.02981
+returnOnEquity	0.07069
+freeCashflow	583350144
+operatingCashflow	643713984
+revenueGrowth	-0.237
+grossMargins	0.26597
+ebitdaMargins	0.13786
+operatingMargins	0.28021
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   2437658.997859    -1323000.0   -2068069.551531    -5984600.0
+Tax Rate For Calcs                                                  0.126849           0.2          0.029855           0.2
+Normalized EBITDA                                                297403000.0   575904000.0      1047419000.0   437131000.0
+Total Unusual Items                                               19217000.0    -6615000.0       -69270000.0   -29923000.0
+Total Unusual Items Excluding Goodwill                            19217000.0    -6615000.0       -69270000.0   -29923000.0
+Net Income From Continuing Operation Net Minority Interest       172532000.0   443572000.0       809938000.0    16464000.0
+Reconciled Depreciation                                           76975000.0    79074000.0        89237000.0   249427000.0
+Reconciled Cost Of Revenue                                      1471481000.0  2202825000.0      2410993000.0  1972214000.0
+EBITDA                                                           316620000.0   569289000.0       978149000.0   407208000.0
+EBIT                                                             239645000.0   490215000.0       888912000.0   157781000.0
+Net Interest Income                                              -38472000.0   -49069000.0       -53613000.0  -126026000.0
+Interest Expense                                                  42048000.0    49758000.0        54049000.0   126583000.0
+Interest Income                                                    3576000.0      689000.0          436000.0      557000.0
+Normalized Income                                           155752658.997859   448864000.0  877139930.448469    40402400.0
+Net Income From Continuing And Discontinued Operation            172532000.0   443572000.0       809938000.0    16464000.0
+Total Expenses                                                  1822651000.0  2616617000.0      2790063000.0  2290677000.0
+Diluted Average Shares                                                   NaN   169517000.0       170000000.0   170000000.0
+Basic Average Shares                                                     NaN   169256000.0       170000000.0   170000000.0
+Diluted EPS                                                              NaN          2.62              4.76           0.1
+Basic EPS                                                                NaN          2.62              4.76           0.1
+Diluted NI Availto Com Stockholders                              172532000.0   443572000.0       809938000.0    16464000.0
+Net Income Common Stockholders                                   172532000.0   443572000.0       809938000.0    16464000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0           0.0
+Net Income                                                       172532000.0   443572000.0       809938000.0    16464000.0
+Minority Interests                                                       0.0           0.0               0.0           0.0
+Net Income Including Noncontrolling Interests                    172532000.0   443572000.0       809938000.0    16464000.0
+Net Income Continuous Operations                                 172532000.0   443572000.0       809938000.0    16464000.0
+Tax Provision                                                     25065000.0    -3115000.0        24925000.0    14734000.0
+Pretax Income                                                    197597000.0   440457000.0       834863000.0    31198000.0
+Other Non Operating Income Expenses                               57609000.0   173763000.0       580496000.0    59988000.0
+Special Income Charges                                            19217000.0    -6615000.0       -69270000.0   -29923000.0
+Write Off                                                        -19217000.0     6615000.0        69270000.0    29923000.0
+Net Non Operating Interest Income Expense                        -38472000.0   -49069000.0       -53613000.0  -126026000.0
+Interest Expense Non Operating                                    42048000.0    49758000.0        54049000.0   126583000.0
+Interest Income Non Operating                                      3576000.0      689000.0          436000.0      557000.0
+Operating Income                                                 182013000.0   330829000.0       401768000.0   127159000.0
+Operating Expense                                                351170000.0   413792000.0       379070000.0   318463000.0
+Research And Development                                          52834000.0    57340000.0        54946000.0    51788000.0
+Selling General And Administration                               298336000.0   356452000.0       324124000.0   266675000.0
+Selling And Marketing Expense                                    140858000.0   182946000.0       175780000.0   119305000.0
+General And Administrative Expense                               157478000.0   173506000.0       148344000.0   147370000.0
+Gross Profit                                                     533183000.0   744621000.0       780838000.0   445622000.0
+Cost Of Revenue                                                 1471481000.0  2202825000.0      2410993000.0  1972214000.0
+Total Revenue                                                   2004664000.0  2947446000.0      3191831000.0  2417836000.0
+Operating Revenue                                               2004664000.0  2947446000.0      3191831000.0  2417836000.0

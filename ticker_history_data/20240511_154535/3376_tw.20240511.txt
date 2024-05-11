@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 174, Jyunying Street
+address2	Shulin District
+city	New Taipei City
+zip	238
+country	Taiwan
+phone	886 2 2681 3316
+fax	886 2 2681 0670
+website	https://www.szs.com.tw
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Shin Zu Shing Co., Ltd. engages in the research, design, development, production, assembly, testing, manufacturing, and sale of various precision springs, stamping parts, hinge components, CNC lathes, and metal injection molding in Taiwan, Singapore, and China. It offers its products for use in notebook computers, LCD monitors, digital cameras, and other electronic product parts. The company was formerly known as Zu Shing Spring and Mechanical Co., Ltd. and changed its name to Shin Zu Shing Co., Ltd. in November 1997. Shin Zu Shing Co., Ltd. was founded in 1965 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Sheng-Nan  Lu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Min-Wen  Wu', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Qing-Zheng  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Fen  Fan', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Chin  Weng', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Juan  You', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.szs.com.tw/profile/news.aspx
+maxAge	86400
+priceHint	2
+previousClose	182.0
+open	186.0
+dayLow	172.0
+dayHigh	192.5
+regularMarketPreviousClose	182.0
+regularMarketOpen	186.0
+regularMarketDayLow	172.0
+regularMarketDayHigh	192.5
+dividendRate	6.0
+dividendYield	0.0347
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	1.3986
+fiveYearAvgDividendYield	4.54
+trailingPE	40.32634
+forwardPE	22.883598
+volume	17497122
+regularMarketVolume	17497122
+averageVolume	9259121
+averageVolume10days	9971061
+averageDailyVolume10Day	9971061
+bid	173.0
+ask	173.5
+marketCap	32480403456
+fiftyTwoWeekLow	79.0
+fiftyTwoWeekHigh	236.0
+priceToSalesTrailing12Months	2.9321833
+fiftyDayAverage	182.21
+twoHundredDayAverage	127.9265
+currency	TWD
+enterpriseValue	27669520384
+profitMargins	0.08998
+floatShares	138664409
+sharesOutstanding	187748000
+heldPercentInsiders	0.22773
+heldPercentInstitutions	0.24736999
+impliedSharesOutstanding	192732000
+bookValue	85.223
+priceToBook	2.0299685
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.508
+netIncomeToCommon	996736000
+trailingEps	4.29
+forwardEps	7.56
+pegRatio	11.19
+lastSplitFactor	1049.966:1000
+lastSplitDate	1281571200	 (2010-08-12 08:00:00)
+enterpriseToRevenue	2.498
+enterpriseToEbitda	17.661
+52WeekChange	0.88043475
+SandP52WeekChange	0.26265144
+lastDividendValue	6.0
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3376.TW
+underlyingSymbol	3376.TW
+shortName	SHIN ZU SHING CO
+longName	Shin Zu Shing Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f6452f26-52b4-3cd1-9530-a9f52f8f7609
+messageBoardId	finmb_20386604
+gmtOffSetMilliseconds	28800000
+currentPrice	173.0
+targetHighPrice	190.0
+targetLowPrice	95.0
+targetMeanPrice	142.5
+targetMedianPrice	142.5
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	6429788160
+totalCashPerShare	34.307
+ebitda	1566705024
+totalDebt	1676123008
+quickRatio	2.002
+currentRatio	2.4
+totalRevenue	11077208064
+debtToEquity	10.494
+revenuePerShare	58.996
+returnOnAssets	0.03016
+returnOnEquity	0.06231
+freeCashflow	542176384
+operatingCashflow	1032062976
+earningsGrowth	1.53
+revenueGrowth	0.537
+grossMargins	0.1825
+ebitdaMargins	0.14144
+operatingMargins	0.09002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                   4214431.006646    -4616418.71995     3947184.117704            0.0
+Tax Rate For Calcs                                                  0.305859          0.268474           0.283644       0.315807
+Normalized EBITDA                                               1769605000.0      2925281000.0       2254360000.0   3154407000.0
+Total Unusual Items                                               13779000.0       -17195000.0         13916000.0            0.0
+Total Unusual Items Excluding Goodwill                            13779000.0       -17195000.0         13916000.0            0.0
+Net Income From Continuing Operation Net Minority Interest       807404000.0      1659184000.0       1169603000.0   1672971000.0
+Reconciled Depreciation                                          596864000.0       628772000.0        629459000.0    699357000.0
+Reconciled Cost Of Revenue                                      8262923000.0      9322982000.0       9702342000.0  11577906000.0
+EBITDA                                                          1783384000.0      2908086000.0       2268276000.0   3154407000.0
+EBIT                                                            1186520000.0      2279314000.0       1638817000.0   2455050000.0
+Net Interest Income                                              113255000.0        50825000.0         67075000.0     52281000.0
+Interest Expense                                                  23350000.0        11199000.0          6106000.0      9875000.0
+Interest Income                                                  136605000.0        62024000.0         73181000.0     62156000.0
+Normalized Income                                           797839431.006646  1671762581.28005  1159634184.117704   1672971000.0
+Net Income From Continuing And Discontinued Operation            807404000.0      1659184000.0       1169603000.0   1672971000.0
+Total Expenses                                                  9172642000.0     10248210000.0      10578115000.0  12535718000.0
+Diluted Average Shares                                                   NaN       192628000.0        193528000.0    186323000.0
+Basic Average Shares                                                     NaN       191004000.0        192286000.0    184876000.0
+Diluted EPS                                                              NaN              8.61               6.04           8.98
+Basic EPS                                                                NaN              8.68               6.08           9.05
+Diluted NI Availto Com Stockholders                              807404000.0      1659184000.0       1169603000.0   1672971000.0
+Net Income Common Stockholders                                   807404000.0      1659184000.0       1169603000.0   1672971000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0                0.0            0.0
+Net Income                                                       807404000.0      1659184000.0       1169603000.0   1672971000.0
+Net Income Including Noncontrolling Interests                    807404000.0      1659184000.0       1169603000.0   1672971000.0
+Net Income Discontinuous Operations                                      NaN               NaN                0.0            0.0
+Net Income Continuous Operations                                 807404000.0      1659184000.0       1169603000.0   1672971000.0
+Tax Provision                                                    355766000.0       608931000.0        463108000.0    772204000.0
+Pretax Income                                                   1163170000.0      2268115000.0       1632711000.0   2445175000.0
+Other Non Operating Income Expenses                              140545000.0       662896000.0         -8558000.0   -303151000.0
+Special Income Charges                                            13779000.0       -17195000.0         13916000.0            0.0
+Write Off                                                        -13779000.0        17195000.0        -13916000.0            0.0
+Net Non Operating Interest Income Expense                        113255000.0        50825000.0         67075000.0     52281000.0
+Interest Expense Non Operating                                    23350000.0        11199000.0          6106000.0      9875000.0
+Interest Income Non Operating                                    136605000.0        62024000.0         73181000.0     62156000.0
+Operating Income                                                 895105000.0      1576488000.0       1562834000.0   2697065000.0
+Operating Expense                                                909719000.0       925228000.0        875773000.0    957812000.0
+Research And Development                                         313902000.0       198327000.0        253252000.0    257518000.0
+Selling General And Administration                               595817000.0       726901000.0        622521000.0    700294000.0
+Selling And Marketing Expense                                    134363000.0       229876000.0        203406000.0    205976000.0
+General And Administrative Expense                               461454000.0       497025000.0        419115000.0    494318000.0
+Gross Profit                                                    1804824000.0      2501716000.0       2438607000.0   3654877000.0
+Cost Of Revenue                                                 8262923000.0      9322982000.0       9702342000.0  11577906000.0
+Total Revenue                                                  10067747000.0     11824698000.0      12140949000.0  15232783000.0
+Operating Revenue                                              10067747000.0     11824698000.0      12140949000.0  15232783000.0

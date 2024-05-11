@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 506, Section 5
+address2	4th Floor Zhongshan North Road Shilin District
+city	Taipei
+country	Taiwan
+phone	886 2 2731 0868
+fax	886 2 2731 1508
+website	https://www.langinc.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lang Inc. manufactures and sells electronic products, communication connectors, and cable components in Taiwan and China. It offers sockets, connection lines, and remote control products. The company was formerly known as Jye Tai Precision Industrial Co., Ltd. and changed its name to Lang Inc. in December 2020. Lang Inc. was founded in 1973 and is headquartered in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	39.15
+open	39.2
+dayLow	38.85
+dayHigh	39.45
+regularMarketPreviousClose	39.15
+regularMarketOpen	39.2
+regularMarketDayLow	38.85
+regularMarketDayHigh	39.45
+exDividendDate	1290038400	 (2010-11-18 08:00:00)
+beta	0.304
+trailingPE	150.57693
+volume	274200
+regularMarketVolume	274200
+averageVolume	2025184
+averageVolume10days	624040
+averageDailyVolume10Day	624040
+bid	39.15
+ask	39.2
+marketCap	3044014336
+fiftyTwoWeekLow	29.6
+fiftyTwoWeekHigh	55.4
+priceToSalesTrailing12Months	1.1230291
+fiftyDayAverage	42.748
+twoHundredDayAverage	37.161
+currency	TWD
+enterpriseValue	2407199232
+profitMargins	0.00562
+sharesOutstanding	77752600
+heldPercentInsiders	0.17875999
+heldPercentInstitutions	0.00213
+impliedSharesOutstanding	77752600
+bookValue	14.744
+priceToBook	2.6553175
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	15222000
+trailingEps	0.26
+lastSplitFactor	0.522922:1
+lastSplitDate	1439164800	 (2015-08-10 08:00:00)
+enterpriseToRevenue	0.888
+enterpriseToEbitda	41.588
+52WeekChange	0.2899506
+SandP52WeekChange	0.26265144
+lastDividendValue	0.093832
+lastDividendDate	1290038400	 (2010-11-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6165.TW
+underlyingSymbol	6165.TW
+shortName	LANG INC
+longName	Lang Inc.
+firstTradeDateEpochUtc	1059958800	 (2003-08-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d3375963-8a1a-333e-aad2-bd618f3be64d
+messageBoardId	finmb_9870734
+gmtOffSetMilliseconds	28800000
+currentPrice	39.15
+recommendationKey	none
+totalCash	713331968
+totalCashPerShare	11.367
+ebitda	57882000
+totalDebt	663499008
+quickRatio	1.609
+currentRatio	1.706
+totalRevenue	2710539008
+debtToEquity	71.69
+revenuePerShare	46.392
+returnOnAssets	0.00491
+returnOnEquity	0.01885
+freeCashflow	-360178880
+operatingCashflow	-22553000
+revenueGrowth	-0.131
+grossMargins	0.24909
+ebitdaMargins	0.02135
+operatingMargins	0.062179998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31    2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   558320.756295     2161800.0  -27356668.987216  -1272007.235504
+Tax Rate For Calcs                                                 0.355392           0.2          0.328128         0.143196
+Normalized EBITDA                                               138906000.0   219463000.0       358977000.0      114103000.0
+Total Unusual Items                                               1571000.0    10809000.0       -83372000.0       -8883000.0
+Total Unusual Items Excluding Goodwill                            1571000.0    10809000.0       -83372000.0       -8883000.0
+Net Income From Continuing Operation Net Minority Interest       15222000.0    33209000.0       137041000.0       58616000.0
+Reconciled Depreciation                                         102198000.0   106463000.0        77284000.0       30636000.0
+Reconciled Cost Of Revenue                                     2035376000.0  2168089000.0      2009232000.0      655685000.0
+EBITDA                                                          140477000.0   230272000.0       275605000.0      105220000.0
+EBIT                                                             38279000.0   123809000.0       198321000.0       74584000.0
+Net Interest Income                                                590000.0    -4416000.0        -5908000.0       -1283000.0
+Interest Expense                                                 14373000.0     7998000.0         6987000.0        3269000.0
+Interest Income                                                  14963000.0     3582000.0         1079000.0        1986000.0
+Normalized Income                                           14209320.756295    24561800.0  193056331.012784  66226992.764496
+Net Income From Continuing And Discontinued Operation            15222000.0    33209000.0       138688000.0       59905000.0
+Total Expenses                                                 2697148000.0  2928956000.0      2515962000.0      848278000.0
+Diluted Average Shares                                                  NaN    62781000.0        62686000.0       61119000.0
+Basic Average Shares                                                    NaN    53242000.0        53242000.0       51735000.0
+Diluted EPS                                                             NaN          0.61              2.27             1.02
+Basic EPS                                                               NaN          0.62               2.6             1.16
+Diluted NI Availto Com Stockholders                              15222000.0    33209000.0       138688000.0       59905000.0
+Net Income Common Stockholders                                   15222000.0    33209000.0       138688000.0       59905000.0
+Otherunder Preferred Stock Dividend                                     0.0           0.0               0.0              0.0
+Net Income                                                       15222000.0    33209000.0       138688000.0       59905000.0
+Minority Interests                                                -188000.0     1650000.0         8489000.0       -2487000.0
+Net Income Including Noncontrolling Interests                    15410000.0    31559000.0       130199000.0       62392000.0
+Net Income Discontinuous Operations                                     NaN           0.0         1647000.0        1289000.0
+Net Income Continuous Operations                                 15410000.0    31559000.0       128552000.0       61103000.0
+Tax Provision                                                     8496000.0    84252000.0        62782000.0       10212000.0
+Pretax Income                                                    23906000.0   115811000.0       191334000.0       71315000.0
+Other Non Operating Income Expenses                               8354000.0    30068000.0        81263000.0       86399000.0
+Special Income Charges                                            1571000.0    10809000.0       -83372000.0       -8883000.0
+Write Off                                                        -1571000.0   -10809000.0        83372000.0        8883000.0
+Net Non Operating Interest Income Expense                          590000.0    -4416000.0        -5908000.0       -1283000.0
+Interest Expense Non Operating                                   14373000.0     7998000.0         6987000.0        3269000.0
+Interest Income Non Operating                                    14963000.0     3582000.0         1079000.0        1986000.0
+Operating Income                                                 13391000.0    82467000.0       200231000.0       -2916000.0
+Operating Expense                                               661772000.0   760867000.0       506730000.0      192593000.0
+Research And Development                                        128497000.0   118354000.0        82444000.0       44044000.0
+Selling General And Administration                              533275000.0   642513000.0       424286000.0      148549000.0
+Selling And Marketing Expense                                   205424000.0   227461000.0       118055000.0       22216000.0
+General And Administrative Expense                              327851000.0   415052000.0       306231000.0      126333000.0
+Gross Profit                                                    675163000.0   843334000.0       706961000.0      189677000.0
+Cost Of Revenue                                                2035376000.0  2168089000.0      2009232000.0      655685000.0
+Total Revenue                                                  2710539000.0  3011423000.0      2716193000.0      845362000.0
+Operating Revenue                                              2710539000.0  3011423000.0      2716193000.0      845362000.0

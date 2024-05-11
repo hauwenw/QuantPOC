@@ -1,0 +1,141 @@
+=== Ticker Info ===
+address1	No. 186, Fuxing Road
+address2	Section 4 East District
+city	Taichung
+country	Taiwan
+phone	886 4 3611 8888
+website	https://www.taroko.com.tw
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	TRK Corporation, together with its subsidiaries, engages in the operation and management of commercial real estate properties in Taiwan. The company manages shopping mall properties; and operates parent-child amusement park under the Game Love Paradise name. It is also involved in the sports, leisure, and tourism; and security trading businesses. The company was founded in 1962 and is based in Taichung, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	18.1
+open	18.15
+dayLow	17.9
+dayHigh	18.15
+regularMarketPreviousClose	18.1
+regularMarketOpen	18.15
+regularMarketDayLow	17.9
+regularMarketDayHigh	18.15
+exDividendDate	1605484800	 (2020-11-16 08:00:00)
+beta	0.377
+trailingPE	26.865671
+volume	165331
+regularMarketVolume	165331
+averageVolume	894078
+averageVolume10days	257811
+averageDailyVolume10Day	257811
+bid	18.0
+ask	18.05
+marketCap	1620000000
+fiftyTwoWeekLow	15.25
+fiftyTwoWeekHigh	25.0
+priceToSalesTrailing12Months	1.2228703
+fiftyDayAverage	19.125
+twoHundredDayAverage	18.26075
+currency	TWD
+enterpriseValue	4652155904
+profitMargins	0.04543
+sharesOutstanding	90000000
+heldPercentInsiders	0.48033002
+impliedSharesOutstanding	91730800
+bookValue	8.653
+priceToBook	2.0802035
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	60178000
+trailingEps	0.67
+lastSplitFactor	446.5943:1000
+lastSplitDate	1599696000	 (2020-09-10 08:00:00)
+enterpriseToRevenue	3.512
+enterpriseToEbitda	21.394
+52WeekChange	0.1575563
+SandP52WeekChange	0.26265144
+lastDividendValue	3.911541
+lastDividendDate	1605484800	 (2020-11-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1432.TW
+underlyingSymbol	1432.TW
+shortName	TRK CORPORATION
+longName	TRK Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	96c22165-9b52-364e-842c-f8a6d217ef88
+messageBoardId	finmb_9708940
+gmtOffSetMilliseconds	28800000
+currentPrice	18.0
+recommendationKey	none
+totalCash	491894016
+totalCashPerShare	5.465
+ebitda	217450000
+totalDebt	3513707008
+quickRatio	0.393
+currentRatio	0.685
+totalRevenue	1324752000
+debtToEquity	445.248
+revenuePerShare	14.824
+returnOnAssets	0.010290001
+returnOnEquity	0.07236
+freeCashflow	280263264
+operatingCashflow	426327008
+revenueGrowth	0.063
+grossMargins	0.43346
+ebitdaMargins	0.16414
+operatingMargins	-0.03925
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31   2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                          0.0       95000.0          0.0  -41179.452458
+Tax Rate For Calcs                                                   0.2           0.2          0.0       0.067177
+Normalized EBITDA                                            538941000.0   416727000.0  272515000.0    507387000.0
+Total Unusual Items                                                  0.0      475000.0   -1198000.0      -613000.0
+Total Unusual Items Excluding Goodwill                               0.0      475000.0   -1198000.0      -613000.0
+Net Income From Continuing Operation Net Minority Interest    60178000.0   -31160000.0 -151273000.0        63000.0
+Reconciled Depreciation                                      420372000.0   395033000.0  370735000.0    421040000.0
+Reconciled Cost Of Revenue                                   750531000.0   686247000.0  523187000.0    623290000.0
+EBITDA                                                       538941000.0   417202000.0  271317000.0    506774000.0
+EBIT                                                         118569000.0    22169000.0  -99418000.0     85734000.0
+Net Interest Income                                          -61243000.0   -56515000.0  -55494000.0    -66705000.0
+Interest Expense                                              65174000.0    57502000.0   56386000.0     68749000.0
+Interest Income                                                3931000.0      987000.0     892000.0      2044000.0
+Normalized Income                                             60178000.0   -31540000.0 -150075000.0  634820.547542
+Net Income From Continuing And Discontinued Operation         60178000.0   -31160000.0 -151273000.0        63000.0
+Total Expenses                                              1244310000.0  1113863000.0  919580000.0   1198598000.0
+Diluted Average Shares                                               NaN    88239000.0   73916000.0     76696000.0
+Basic Average Shares                                                 NaN    88239000.0   73916000.0     76696000.0
+Diluted EPS                                                          NaN         -0.35        -2.05       0.000821
+Basic EPS                                                            NaN         -0.35        -2.05       0.000821
+Diluted NI Availto Com Stockholders                           60178000.0   -31160000.0 -151273000.0        63000.0
+Net Income Common Stockholders                                60178000.0   -31160000.0 -151273000.0        63000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0          0.0            0.0
+Net Income                                                    60178000.0   -31160000.0 -151273000.0        63000.0
+Minority Interests                                             5198000.0     5758000.0    4531000.0    -15781000.0
+Net Income Including Noncontrolling Interests                 54980000.0   -36918000.0 -155804000.0     15844000.0
+Net Income Continuous Operations                              54980000.0   -36918000.0 -155804000.0     15844000.0
+Tax Provision                                                 -1585000.0     1585000.0          0.0      1141000.0
+Pretax Income                                                 53395000.0   -35333000.0 -155804000.0     16985000.0
+Other Non Operating Income Expenses                           38627000.0    29818000.0   42959000.0    132786000.0
+Special Income Charges                                               0.0      475000.0   -1198000.0      -613000.0
+Write Off                                                            0.0     -475000.0    1198000.0       613000.0
+Net Non Operating Interest Income Expense                    -61243000.0   -56515000.0  -55494000.0    -66705000.0
+Interest Expense Non Operating                                65174000.0    57502000.0   56386000.0     68749000.0
+Interest Income Non Operating                                  3931000.0      987000.0     892000.0      2044000.0
+Operating Income                                              80442000.0    -7036000.0 -141525000.0    -43779000.0
+Operating Expense                                            493779000.0   427616000.0  396393000.0    575308000.0
+Selling General And Administration                           493779000.0   427616000.0  396393000.0    575308000.0
+Selling And Marketing Expense                                330066000.0   311838000.0  295507000.0    378099000.0
+General And Administrative Expense                           163713000.0   115778000.0  100886000.0    197209000.0
+Gross Profit                                                 574221000.0   420580000.0  254868000.0    531529000.0
+Cost Of Revenue                                              750531000.0   686247000.0  523187000.0    623290000.0
+Total Revenue                                               1324752000.0  1106827000.0  778055000.0   1154819000.0
+Operating Revenue                                           1324752000.0  1106827000.0  778055000.0   1154819000.0

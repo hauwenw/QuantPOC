@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	2, No. 23, Huanke 1st Road
+address2	9th Floor Hsinchu County
+city	Zhubei
+country	Taiwan
+phone	886 3 593 5588
+fax	886 3 593 5566
+website	https://www.spaces.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Space Shuttle Hi-Tech Co., Ltd., together with its subsidiaries, manufactures and sells telecommunication wires and cables in Taiwan. The company operates through four divisions: Wires, Electrical Products, Optical Cables, and Optic Electrical. It offers a range of wires for the computer, communication cable, and various electronic products. The company was founded in 1985 and is headquartered in Zhubei, Taiwan.
+fullTimeEmployees	423
+companyOfficers	[{'maxAge': 1, 'name': 'Jian Cheng  Wang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui Cheng Zhu', 'title': 'Head of Finance & Accounting and Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.0
+open	18.3
+dayLow	16.8
+dayHigh	18.3
+regularMarketPreviousClose	18.0
+regularMarketOpen	18.3
+regularMarketDayLow	16.8
+regularMarketDayHigh	18.3
+exDividendDate	1283385600	 (2010-09-02 08:00:00)
+beta	0.74
+volume	1708294
+regularMarketVolume	1708294
+averageVolume	1046501
+averageVolume10days	1627313
+averageDailyVolume10Day	1627313
+bid	17.2
+ask	17.25
+marketCap	2399768064
+fiftyTwoWeekLow	11.15
+fiftyTwoWeekHigh	19.0
+priceToSalesTrailing12Months	0.8114652
+fiftyDayAverage	14.914
+twoHundredDayAverage	13.73175
+currency	TWD
+enterpriseValue	2778456320
+profitMargins	-0.046490002
+floatShares	88780296
+sharesOutstanding	139116992
+heldPercentInsiders	0.51031
+heldPercentInstitutions	0.022249999
+impliedSharesOutstanding	141890000
+bookValue	8.862
+priceToBook	1.946513
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-137476000
+trailingEps	-0.99
+lastSplitFactor	0.7542:1
+lastSplitDate	1253145600	 (2009-09-17 08:00:00)
+enterpriseToRevenue	0.94
+enterpriseToEbitda	-47.39
+52WeekChange	0.5198238
+SandP52WeekChange	0.26265144
+lastDividendValue	0.67
+lastDividendDate	1283385600	 (2010-09-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2440.TW
+underlyingSymbol	2440.TW
+shortName	SPACE SHUTTLE HI-TECH CO
+longName	Space Shuttle Hi-Tech Co., Ltd.
+firstTradeDateEpochUtc	974077200	 (2000-11-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e0e310bd-7f6a-3710-a5bb-cbbef1742fa0
+messageBoardId	finmb_11479384
+gmtOffSetMilliseconds	28800000
+currentPrice	17.25
+recommendationKey	none
+totalCash	449780000
+totalCashPerShare	3.233
+ebitda	-58630000
+totalDebt	828467968
+quickRatio	1.651
+currentRatio	2.06
+totalRevenue	2957327104
+debtToEquity	67.201
+revenuePerShare	21.258
+returnOnAssets	-0.022969998
+returnOnEquity	-0.10462
+freeCashflow	-241552752
+operatingCashflow	-221632992
+revenueGrowth	0.163
+grossMargins	0.0234
+ebitdaMargins	-0.01983
+operatingMargins	-0.01856
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -4570000.0      427400.0   -1010466.616161   30002840.842478
+Tax Rate For Calcs                                                   0.2           0.2          0.304266          0.222067
+Normalized EBITDA                                            -36077000.0    65605000.0       211669000.0       205292000.0
+Total Unusual Items                                          -22850000.0     2137000.0        -3321000.0       135107000.0
+Total Unusual Items Excluding Goodwill                       -22850000.0     2137000.0        -3321000.0       135107000.0
+Net Income From Continuing Operation Net Minority Interest  -137476000.0   -23364000.0       104692000.0       219766000.0
+Reconciled Depreciation                                       37243000.0    37568000.0        37676000.0        37519000.0
+Reconciled Cost Of Revenue                                  2888134000.0  2948379000.0      3894247000.0      2721215000.0
+EBITDA                                                       -58927000.0    67742000.0       208348000.0       340399000.0
+EBIT                                                         -96170000.0    30174000.0       170672000.0       302880000.0
+Net Interest Income                                          -21233000.0   -17519000.0       -17955000.0       -17984000.0
+Interest Expense                                              27770000.0    21594000.0        20195000.0        20380000.0
+Interest Income                                                6537000.0     4075000.0         2240000.0         2396000.0
+Normalized Income                                           -119196000.0   -25073600.0  107002533.383839  114661840.842478
+Net Income From Continuing And Discontinued Operation       -137476000.0   -23364000.0       104692000.0       219766000.0
+Total Expenses                                              3028362000.0  3104686000.0      4042108000.0      2860304000.0
+Diluted Average Shares                                               NaN   139117000.0       139301000.0       139117000.0
+Basic Average Shares                                                 NaN   139117000.0       139117000.0       139117000.0
+Diluted EPS                                                          NaN         -0.17              0.75          1.579721
+Basic EPS                                                            NaN         -0.17              0.75              1.58
+Diluted NI Availto Com Stockholders                         -137476000.0   -23364000.0       104692000.0       219766000.0
+Net Income Common Stockholders                              -137476000.0   -23364000.0       104692000.0       219766000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                  -137476000.0   -23364000.0       104692000.0       219766000.0
+Net Income Including Noncontrolling Interests               -137476000.0   -23364000.0       104692000.0       219766000.0
+Net Income Continuous Operations                            -137476000.0   -23364000.0       104692000.0       219766000.0
+Tax Provision                                                 13536000.0    31944000.0        45785000.0        62734000.0
+Pretax Income                                               -123940000.0     8580000.0       150477000.0       282500000.0
+Other Non Operating Income Expenses                           -8822000.0    -7045000.0         4269000.0         6086000.0
+Special Income Charges                                       -22850000.0     2137000.0        -3321000.0       135107000.0
+Other Special Charges                                                NaN           NaN               NaN      -138215000.0
+Write Off                                                     22850000.0    -2137000.0         3321000.0         3108000.0
+Net Non Operating Interest Income Expense                    -21233000.0   -17519000.0       -17955000.0       -17984000.0
+Interest Expense Non Operating                                27770000.0    21594000.0        20195000.0        20380000.0
+Interest Income Non Operating                                  6537000.0     4075000.0         2240000.0         2396000.0
+Operating Income                                             -71035000.0    31007000.0       160852000.0       129773000.0
+Operating Expense                                            140228000.0   156307000.0       147861000.0       139089000.0
+Research And Development                                       6687000.0     8447000.0         7621000.0         7830000.0
+Selling General And Administration                           133541000.0   147860000.0       140240000.0       131259000.0
+Selling And Marketing Expense                                 22390000.0    29465000.0        32741000.0        31387000.0
+General And Administrative Expense                           111151000.0   118395000.0       107499000.0        99872000.0
+Gross Profit                                                  69193000.0   187314000.0       308713000.0       268862000.0
+Cost Of Revenue                                             2888134000.0  2948379000.0      3894247000.0      2721215000.0
+Total Revenue                                               2957327000.0  3135693000.0      4202960000.0      2990077000.0
+Operating Revenue                                           2957327000.0  3135693000.0      4202960000.0      2990077000.0

@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.8, Shinkaifa Road
+address2	Nanzih District
+city	Kaohsiung
+zip	811
+country	Taiwan
+phone	886 7 962 0668
+fax	886 7 365 1716
+website	https://www.jmct.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	JMC Electronics Co., Ltd. produces reel to reel chip on film that is applied to LCD in Taiwan. The company was formerly known as Sumiko Electronics Taiwan Co., Ltd. and changed its name to JMC Electronics Co., Ltd. in 2014. JMC Electronics Co., Ltd. was incorporated in 1973 and is headquartered in Kaohsiung, Taiwan.
+fullTimeEmployees	589
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Wan-Hsia  Li', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsing-Chen  Chen', 'title': 'Manager of Finance and Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng Tung Ko', 'title': 'Head of Administrative Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sung-Chou  Chen', 'title': 'Head of Marketing Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Yang  Chen', 'title': 'Head of Quality Assurance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hsiung  Hsia', 'title': 'Head of R&D Engineering Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bao Tsai Jin', 'title': 'Head of Design Engineering Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Yi  Lin', 'title': 'Head of Process Engineering Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Meng-Hsien  Lin', 'title': 'Deputy Head of Manufacturing Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	49.5
+open	50.5
+dayLow	48.55
+dayHigh	50.5
+regularMarketPreviousClose	49.5
+regularMarketOpen	50.5
+regularMarketDayLow	48.55
+regularMarketDayHigh	50.5
+dividendRate	0.45
+dividendYield	0.0092
+exDividendDate	1694044800	 (2023-09-07 08:00:00)
+payoutRatio	0.7895
+fiveYearAvgDividendYield	3.41
+beta	0.666
+trailingPE	85.52631
+forwardPE	9.502924
+volume	298384
+regularMarketVolume	298384
+averageVolume	671041
+averageVolume10days	3063585
+averageDailyVolume10Day	3063585
+bid	48.75
+ask	48.85
+marketCap	4046249984
+fiftyTwoWeekLow	32.65
+fiftyTwoWeekHigh	52.3
+priceToSalesTrailing12Months	2.2919307
+fiftyDayAverage	37.433
+twoHundredDayAverage	36.5785
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.0060606063
+currency	TWD
+enterpriseValue	4795949056
+profitMargins	0.00424
+sharesOutstanding	83000000
+heldPercentInsiders	0.6031
+heldPercentInstitutions	0.00091
+impliedSharesOutstanding	84660000
+bookValue	30.483
+priceToBook	1.5992521
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	7477000
+trailingEps	0.57
+forwardEps	5.13
+lastSplitFactor	830:1000
+lastSplitDate	1603411200	 (2020-10-23 08:00:00)
+enterpriseToRevenue	2.717
+enterpriseToEbitda	13.502
+52WeekChange	0.42752564
+SandP52WeekChange	0.26265144
+lastDividendValue	0.45
+lastDividendDate	1694044800	 (2023-09-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6552.TW
+underlyingSymbol	6552.TW
+shortName	JMC ELECTRONICS CO LTD
+longName	JMC Electronics Co., Ltd.
+firstTradeDateEpochUtc	1441674000	 (2015-09-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dafd8c2f-f766-3fb1-834a-71bff58ccabb
+messageBoardId	finmb_308589292
+gmtOffSetMilliseconds	28800000
+currentPrice	48.75
+recommendationKey	none
+totalCash	607369984
+totalCashPerShare	7.318
+ebitda	355208000
+totalDebt	1357069056
+quickRatio	0.791
+currentRatio	1.022
+totalRevenue	1765432960
+debtToEquity	53.638
+revenuePerShare	21.27
+returnOnAssets	-0.01417
+returnOnEquity	0.00301
+freeCashflow	196219872
+operatingCashflow	362860000
+revenueGrowth	0.113
+grossMargins	0.02211
+ebitdaMargins	0.20120001
+operatingMargins	-0.06415
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2      0.231217      0.170169      0.215847
+Normalized EBITDA                                            500527000.0   530182000.0   776498000.0   529352000.0
+Net Income From Continuing Operation Net Minority Interest     7477000.0    73358000.0   324411000.0   148328000.0
+Reconciled Depreciation                                      475467000.0   414395000.0   368866000.0   323734000.0
+Reconciled Cost Of Revenue                                  1726407000.0  1891927000.0  2403390000.0  2269081000.0
+EBITDA                                                       500527000.0   530182000.0   776498000.0   529352000.0
+EBIT                                                          25060000.0   115787000.0   407632000.0   205618000.0
+Net Interest Income                                          -10977000.0   -17712000.0   -16275000.0   -16053000.0
+Interest Expense                                              23275000.0    20366000.0    16696000.0    16461000.0
+Interest Income                                               12298000.0     2654000.0      421000.0      408000.0
+Normalized Income                                              7477000.0    73358000.0   324411000.0   148328000.0
+Net Income From Continuing And Discontinued Operation          7477000.0    73358000.0   324411000.0   148328000.0
+Total Expenses                                              1867093000.0  2107685000.0  2641862000.0  2464347000.0
+Diluted Average Shares                                               NaN    83099000.0    83154000.0    94461000.0
+Basic Average Shares                                                 NaN    83000000.0    83000000.0    94333000.0
+Diluted EPS                                                          NaN          0.88           3.9          1.57
+Basic EPS                                                            NaN          0.88          3.91          1.57
+Diluted NI Availto Com Stockholders                            7477000.0    73358000.0   324411000.0   148328000.0
+Net Income Common Stockholders                                 7477000.0    73358000.0   324411000.0   148328000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                     7477000.0    73358000.0   324411000.0   148328000.0
+Net Income Including Noncontrolling Interests                  7477000.0    73358000.0   324411000.0   148328000.0
+Net Income Continuous Operations                               7477000.0    73358000.0   324411000.0   148328000.0
+Tax Provision                                                 -5692000.0    22063000.0    66525000.0    40829000.0
+Pretax Income                                                  1785000.0    95421000.0   390936000.0   189157000.0
+Other Non Operating Income Expenses                          103832000.0   101130000.0    46214000.0    22704000.0
+Net Non Operating Interest Income Expense                    -10977000.0   -17712000.0   -16275000.0   -16053000.0
+Interest Expense Non Operating                                23275000.0    20366000.0    16696000.0    16461000.0
+Interest Income Non Operating                                 12298000.0     2654000.0      421000.0      408000.0
+Operating Income                                            -101660000.0     5152000.0   360997000.0   182506000.0
+Operating Expense                                            140686000.0   215758000.0   238472000.0   195266000.0
+Research And Development                                      56425000.0    62870000.0    68947000.0    67052000.0
+Selling General And Administration                            84261000.0   152888000.0   169525000.0   128214000.0
+Selling And Marketing Expense                                 20157000.0    44134000.0    34229000.0    22689000.0
+General And Administrative Expense                            64104000.0   108754000.0   135296000.0   105525000.0
+Gross Profit                                                  39026000.0   220910000.0   599469000.0   377772000.0
+Cost Of Revenue                                             1726407000.0  1891927000.0  2403390000.0  2269081000.0
+Total Revenue                                               1765433000.0  2112837000.0  3002859000.0  2646853000.0
+Operating Revenue                                           1765433000.0  2112837000.0  3002859000.0  2646853000.0

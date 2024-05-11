@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 293, Zhongxiao East Road
+address2	4th Floor Section 5 Xinyi District
+city	Taipei
+country	Taiwan
+phone	886 2 2769 5567
+fax	886 2 2769 6607
+website	https://www.holiday.com.tw
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Holiday Entertainment Co., Ltd. provides audio-visual and singing equipment in Taiwan. The company engages in the distribution and sale of audio-visual equipment and supplies; audio tape and record publishing activities; and restaurant businesses. It also offers advisory services relating to management of audio-visual and singing equipment. As of December 31, 2021, the company operated 49 business premises. Holiday Entertainment Co., Ltd. was founded in 1993 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jiun-De  Lee', 'title': 'Assistant VP of Finance Division & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tien-Hsing  Li', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jing-Wen  Cheng', 'title': 'Chief Administrative Officer of Management Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	91.5
+open	91.0
+dayLow	90.1
+dayHigh	91.2
+regularMarketPreviousClose	91.5
+regularMarketOpen	91.0
+regularMarketDayLow	90.1
+regularMarketDayHigh	91.2
+dividendRate	3.3
+dividendYield	0.0363
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.37759998
+fiveYearAvgDividendYield	7.65
+trailingPE	10.4119
+forwardPE	18.421053
+volume	246888
+regularMarketVolume	246888
+averageVolume	266358
+averageVolume10days	243504
+averageDailyVolume10Day	243504
+bid	90.8
+ask	91.0
+marketCap	11390652416
+fiftyTwoWeekLow	77.0
+fiftyTwoWeekHigh	113.0
+priceToSalesTrailing12Months	4.2056217
+fiftyDayAverage	88.79
+twoHundredDayAverage	89.4675
+trailingAnnualDividendRate	5.2
+trailingAnnualDividendYield	0.0568306
+currency	TWD
+enterpriseValue	6791133696
+profitMargins	0.27283
+floatShares	25481539
+sharesOutstanding	125172000
+heldPercentInsiders	0.69459
+heldPercentInstitutions	0.0072500003
+impliedSharesOutstanding	125454000
+bookValue	42.973
+priceToBook	2.1176088
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.026
+netIncomeToCommon	738950016
+trailingEps	8.74
+forwardEps	4.94
+lastSplitFactor	850:1000
+lastSplitDate	1663200000	 (2022-09-15 08:00:00)
+enterpriseToRevenue	2.507
+enterpriseToEbitda	10.395
+52WeekChange	0.14898992
+SandP52WeekChange	0.26265144
+lastDividendValue	3.3
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9943.TW
+underlyingSymbol	9943.TW
+shortName	HOLIDAY ENTERTAINMENT CO
+longName	Holiday Entertainment Co.,Ltd
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6511aa36-2038-31be-b2c0-b9a79067680a
+messageBoardId	finmb_9794200
+gmtOffSetMilliseconds	28800000
+currentPrice	91.0
+recommendationKey	none
+totalCash	1696902016
+totalCashPerShare	20.062
+ebitda	653305024
+totalDebt	773411008
+quickRatio	1.335
+currentRatio	1.371
+totalRevenue	2708434944
+debtToEquity	21.176
+revenuePerShare	32.026
+returnOnAssets	0.06239
+returnOnEquity	0.20568001
+freeCashflow	893930368
+operatingCashflow	891960000
+earningsGrowth	-0.024
+revenueGrowth	-0.084
+grossMargins	0.53382
+ebitdaMargins	0.24121
+operatingMargins	0.22044
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.155959      0.142291      0.036437      0.143218
+Normalized EBITDA                                           1228731000.0   945143000.0   460313000.0  1173184000.0
+Net Income From Continuing Operation Net Minority Interest   745275000.0   470114000.0    62727000.0   649404000.0
+Reconciled Depreciation                                      335383000.0   384142000.0   383221000.0   399268000.0
+Reconciled Cost Of Revenue                                  1267472000.0  1169376000.0   905595000.0  1283717000.0
+EBITDA                                                      1228731000.0   945143000.0   460313000.0  1173184000.0
+EBIT                                                         893348000.0   561001000.0    77092000.0   773916000.0
+Net Interest Income                                           32551000.0     -688000.0    -7240000.0    -4123000.0
+Interest Expense                                              10245000.0    11374000.0    12514000.0    13753000.0
+Interest Income                                               42796000.0    10686000.0     5274000.0     9630000.0
+Normalized Income                                            745275000.0   470114000.0    62727000.0   649404000.0
+Net Income From Continuing And Discontinued Operation        745275000.0   470114000.0    62727000.0   649404000.0
+Total Expenses                                              2120722000.0  2061903000.0  1700606000.0  2199810000.0
+Diluted Average Shares                                        84617000.0    92998000.0   147265000.0   125206700.0
+Basic Average Shares                                          84605000.0    92998000.0   147265000.0   125183750.0
+Diluted EPS                                                         8.81          5.06          0.43      5.186655
+Basic EPS                                                           8.81          5.06          0.43      5.188235
+Diluted NI Availto Com Stockholders                          745275000.0   470114000.0    62727000.0   649404000.0
+Net Income Common Stockholders                               745275000.0   470114000.0    62727000.0   649404000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   745275000.0   470114000.0    62727000.0   649404000.0
+Minority Interests                                             -100000.0    -1306000.0      502000.0    -1890000.0
+Net Income Including Noncontrolling Interests                745375000.0   471420000.0    62225000.0   651294000.0
+Net Income Continuous Operations                             745375000.0   471420000.0    62225000.0   651294000.0
+Tax Provision                                                137728000.0    78207000.0     2353000.0   108869000.0
+Pretax Income                                                883103000.0   549627000.0    64578000.0   760163000.0
+Other Non Operating Income Expenses                          -10361000.0    83601000.0    43087000.0    48292000.0
+Net Non Operating Interest Income Expense                     32551000.0     -688000.0    -7240000.0    -4123000.0
+Interest Expense Non Operating                                10245000.0    11374000.0    12514000.0    13753000.0
+Interest Income Non Operating                                 42796000.0    10686000.0     5274000.0     9630000.0
+Operating Income                                             650917000.0   315261000.0   -18701000.0   548815000.0
+Operating Expense                                            853250000.0   892527000.0   795011000.0   916093000.0
+Other Operating Expenses                                             NaN   892527000.0   795011000.0   916093000.0
+Selling General And Administration                           853250000.0   892527000.0           NaN           NaN
+General And Administrative Expense                           853250000.0   892527000.0           NaN           NaN
+Gross Profit                                                1504167000.0  1207788000.0   776310000.0  1464908000.0
+Cost Of Revenue                                             1267472000.0  1169376000.0   905595000.0  1283717000.0
+Total Revenue                                               2771639000.0  2377164000.0  1681905000.0  2748625000.0
+Operating Revenue                                           2771639000.0  2377164000.0  1681905000.0  2748625000.0

@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 11, Gongye 2nd Road
+address2	Touqiao Industrial Zone Xingnan Village Minxiong Township
+city	Chiayi
+country	Taiwan
+phone	886 0 5221 1521
+website	https://www.agv.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	AGV Products Corporation engages in the manufacture, processing, and sale of canned food in Taiwan and Mainland China. The company offers drinks, beans, mushrooms, bamboo shoots, and pickles. It is also involved in the rental and sale of public housing and commercial buildings. The company was founded in 1971 and is based in Chiayi Hsien, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Chan  Chen', 'title': 'President, GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Hua  Chen', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. He-Shun  Chang', 'title': 'Accounting Manager & Director-General', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Cheng  Yang', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nai-Pin  Lin', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	12.05
+open	12.0
+dayLow	11.95
+dayHigh	12.1
+regularMarketPreviousClose	12.05
+regularMarketOpen	12.0
+regularMarketDayLow	11.95
+regularMarketDayHigh	12.1
+dividendRate	0.23
+dividendYield	0.0191
+exDividendDate	1713484800	 (2024-04-19 08:00:00)
+payoutRatio	0.9756
+beta	0.585
+trailingPE	29.390245
+volume	542496
+regularMarketVolume	542496
+averageVolume	1222232
+averageVolume10days	1668732
+averageDailyVolume10Day	1668732
+bid	12.0
+ask	12.05
+marketCap	5958881792
+fiftyTwoWeekLow	11.05
+fiftyTwoWeekHigh	14.95
+priceToSalesTrailing12Months	1.2160889
+fiftyDayAverage	11.879
+twoHundredDayAverage	12.1615
+trailingAnnualDividendRate	0.23
+trailingAnnualDividendYield	0.019087138
+currency	TWD
+enterpriseValue	10443793408
+profitMargins	0.04101
+floatShares	494513000
+sharesOutstanding	494512992
+heldPercentInsiders	0.24937999
+heldPercentInstitutions	0.04277
+impliedSharesOutstanding	500643008
+bookValue	13.75
+priceToBook	0.87636364
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	200936000
+trailingEps	0.41
+lastSplitFactor	1015:1000
+lastSplitDate	1473206400	 (2016-09-07 08:00:00)
+enterpriseToRevenue	2.131
+enterpriseToEbitda	45.226
+52WeekChange	0.080717444
+SandP52WeekChange	0.26265144
+lastDividendValue	0.23
+lastDividendDate	1713484800	 (2024-04-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1217.TW
+underlyingSymbol	1217.TW
+shortName	AGV PRODUCTS
+longName	AGV Products Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b04e14e7-b481-3e87-8854-556253633146
+messageBoardId	finmb_9709530
+gmtOffSetMilliseconds	28800000
+currentPrice	12.05
+recommendationKey	none
+totalCash	838510976
+totalCashPerShare	1.696
+ebitda	230922000
+totalDebt	4558241792
+quickRatio	0.606
+currentRatio	0.982
+totalRevenue	4900038144
+debtToEquity	60.258
+revenuePerShare	9.909
+returnOnAssets	0.00556
+returnOnEquity	0.028859999
+freeCashflow	184607872
+operatingCashflow	433304000
+revenueGrowth	-0.015
+grossMargins	0.28851
+ebitdaMargins	0.04713
+operatingMargins	-0.03839
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -397762.416488     -23821.062316    -159665.104262   -8135940.253295
+Tax Rate For Calcs                                                  0.165459          0.051009          0.238662          0.196307
+Normalized EBITDA                                                526873000.0       553896000.0       544127000.0       610563000.0
+Total Unusual Items                                               -2404000.0         -467000.0         -669000.0       -41445000.0
+Total Unusual Items Excluding Goodwill                            -2404000.0         -467000.0         -669000.0       -41445000.0
+Net Income From Continuing Operation Net Minority Interest       200936000.0       277890000.0       201182000.0       232904000.0
+Reconciled Depreciation                                          130961000.0       130842000.0       135186000.0       135113000.0
+Reconciled Cost Of Revenue                                      3486325000.0      3363675000.0      3251492000.0      3095482000.0
+EBITDA                                                           524469000.0       553429000.0       543458000.0       569118000.0
+EBIT                                                             393508000.0       422587000.0       408272000.0       434005000.0
+Net Interest Income                                             -128296000.0      -117642000.0      -122572000.0      -123109000.0
+Interest Expense                                                 132766000.0       119325000.0       123028000.0       123695000.0
+Interest Income                                                    4470000.0         1683000.0          456000.0          586000.0
+Normalized Income                                           202942237.583512  278333178.937684  201691334.895738  266213059.746705
+Net Income From Continuing And Discontinued Operation            200936000.0       277890000.0       201182000.0       232904000.0
+Total Expenses                                                  4769270000.0      4629338000.0      4539337000.0      4399166000.0
+Diluted Average Shares                                                   NaN       494892000.0       494834000.0       494829000.0
+Basic Average Shares                                                     NaN       494513000.0       494513000.0       494513000.0
+Diluted EPS                                                              NaN              0.56              0.41              0.47
+Basic EPS                                                                NaN              0.56              0.41              0.47
+Diluted NI Availto Com Stockholders                              200936000.0       277890000.0       201182000.0       232904000.0
+Net Income Common Stockholders                                   200936000.0       277890000.0       201182000.0       232904000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       200936000.0       277890000.0       201182000.0       232904000.0
+Minority Interests                                               -16664000.0        -9903000.0       -15985000.0       -16490000.0
+Net Income Including Noncontrolling Interests                    217600000.0       287793000.0       217167000.0       249394000.0
+Net Income Continuous Operations                                 217600000.0       287793000.0       217167000.0       249394000.0
+Tax Provision                                                     43142000.0        15469000.0        68077000.0        60916000.0
+Pretax Income                                                    260742000.0       303262000.0       285244000.0       310310000.0
+Other Non Operating Income Expenses                               72686000.0       141929000.0        71785000.0        83968000.0
+Special Income Charges                                            -2404000.0         -467000.0         -669000.0       -41445000.0
+Write Off                                                          2404000.0          467000.0          669000.0        41445000.0
+Net Non Operating Interest Income Expense                       -128296000.0      -117642000.0      -122572000.0      -123109000.0
+Interest Expense Non Operating                                   132766000.0       119325000.0       123028000.0       123695000.0
+Interest Income Non Operating                                      4470000.0         1683000.0          456000.0          586000.0
+Operating Income                                                 130768000.0       171287000.0       171543000.0       215320000.0
+Operating Expense                                               1282945000.0      1265663000.0      1287845000.0      1303684000.0
+Research And Development                                          48171000.0        48551000.0        52282000.0        41890000.0
+Selling General And Administration                              1234774000.0      1217112000.0      1235563000.0      1261794000.0
+Selling And Marketing Expense                                    917363000.0       899680000.0       914636000.0       949874000.0
+General And Administrative Expense                               317411000.0       317432000.0       320927000.0       311920000.0
+Gross Profit                                                    1413713000.0      1436950000.0      1459388000.0      1519004000.0
+Cost Of Revenue                                                 3486325000.0      3363675000.0      3251492000.0      3095482000.0
+Total Revenue                                                   4900038000.0      4800625000.0      4710880000.0      4614486000.0
+Operating Revenue                                               4900038000.0      4800625000.0      4710880000.0      4614486000.0

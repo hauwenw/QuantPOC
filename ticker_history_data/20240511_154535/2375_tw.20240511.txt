@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 81, Xintai 5th Road
+address2	13th Floor Section 1 Xizhi District
+city	New Taipei City
+zip	22101
+country	Taiwan
+phone	886 2 2698 1010
+fax	886 2 2698 0386
+website	https://jamicon.teapo.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Kaimei Electronic Corp. manufactures and sells aluminum electrolytic capacitors and motor fans in Hong Kong, China, Taiwan, rest of the Asia Pacific region, Europe, the Americas, and internationally. Its products portfolio includes conductive polymer aluminum solid, conductive polymer hybrid, and aluminum electrolytic capacitors; and DC fans, DC blowers, AC fans, and accessories. The company also engages in the import and export of electronic products; manufacture and sale of resistors, electronic parts and materials, machine equipment, chip resistors, and inductors; reinvestment business; import and sale of aluminum electrolytic capacitors and motor fans; and sale of electronic components. Kaimei Electronic Corp. was founded in 1978 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Liang  Liu', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pen-Chi  Chen', 'title': 'Deputy GM, Manager of Finance & Finance Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Hui  Chen', 'title': 'Senior Manager & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Pin  Kao', 'title': 'Deputy General Manager of Information Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jiang Xie Qing  Sheng', 'title': 'President of Global Marketing Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yen-Ju  Lee', 'title': 'Director of Sales Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Tsu  Chang', 'age': 50, 'title': 'Head of Product Manufacturing Center & Director', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Ming  Tang', 'title': 'Chairman & President of Teapo Electronic (Dongguan) Co., Ltd.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Chuan  Lo', 'title': 'Suzhou President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	64.2
+open	64.8
+dayLow	63.8
+dayHigh	64.9
+regularMarketPreviousClose	64.2
+regularMarketOpen	64.8
+regularMarketDayLow	63.8
+regularMarketDayHigh	64.9
+dividendRate	1.5
+dividendYield	0.0232
+exDividendDate	1691366400	 (2023-08-07 08:00:00)
+payoutRatio	0.48860002
+beta	1.54
+trailingPE	21.042345
+forwardPE	11.918818
+volume	368652
+regularMarketVolume	368652
+averageVolume	531455
+averageVolume10days	954699
+averageDailyVolume10Day	954699
+bid	64.5
+ask	64.6
+marketCap	7020404736
+fiftyTwoWeekLow	57.0
+fiftyTwoWeekHigh	78.5
+priceToSalesTrailing12Months	1.4592938
+fiftyDayAverage	62.83
+twoHundredDayAverage	65.381
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.01246106
+currency	TWD
+enterpriseValue	7664680448
+profitMargins	0.055180002
+sharesOutstanding	108675000
+heldPercentInsiders	0.12752
+heldPercentInstitutions	0.05341
+impliedSharesOutstanding	110004000
+bookValue	82.61
+priceToBook	0.7819876
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	265480992
+trailingEps	3.07
+forwardEps	5.42
+lastSplitFactor	800:1000
+lastSplitDate	1661990400	 (2022-09-01 08:00:00)
+enterpriseToRevenue	1.593
+enterpriseToEbitda	12.345
+52WeekChange	-0.040118873
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1691366400	 (2023-08-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2375.TW
+underlyingSymbol	2375.TW
+shortName	KAIMEI ELECTRONIC CORP
+longName	Kaimei Electronic Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e0712083-522f-3df4-9f11-0b6a584f17fa
+messageBoardId	finmb_9870451
+gmtOffSetMilliseconds	28800000
+currentPrice	64.6
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2984371968
+totalCashPerShare	27.461
+ebitda	620872000
+totalDebt	3628625920
+quickRatio	0.994
+currentRatio	1.38
+totalRevenue	4810823168
+debtToEquity	40.418
+revenuePerShare	44.268
+returnOnAssets	0.00737
+returnOnEquity	0.02982
+freeCashflow	4760523264
+operatingCashflow	1272276992
+revenueGrowth	-0.079
+grossMargins	0.15178001
+ebitdaMargins	0.12906
+operatingMargins	0.02341
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   6247277.69183   -4495718.553757    -1279322.532902    -156445.068094
+Tax Rate For Calcs                                                 0.385159          0.224617           0.150899          0.103264
+Normalized EBITDA                                               979713000.0      1362485000.0       1862476000.0      1447942000.0
+Total Unusual Items                                              16220000.0       -20015000.0         -8478000.0        -1515000.0
+Total Unusual Items Excluding Goodwill                           16220000.0       -20015000.0         -8478000.0        -1515000.0
+Net Income From Continuing Operation Net Minority Interest      265481000.0       612123000.0       1170920000.0       562559000.0
+Reconciled Depreciation                                         460632000.0       461411000.0        448495000.0       463099000.0
+Reconciled Cost Of Revenue                                     4080638000.0      4845194000.0       5960978000.0      4922619000.0
+EBITDA                                                          995933000.0      1342470000.0       1853998000.0      1446427000.0
+EBIT                                                            535301000.0       881059000.0       1405503000.0       983328000.0
+Net Interest Income                                             124300000.0        69595000.0         19945000.0        59689000.0
+Interest Expense                                                103513000.0        89629000.0         64322000.0        53140000.0
+Interest Income                                                 227813000.0       159224000.0         84267000.0       112829000.0
+Normalized Income                                           255508277.69183  627642281.446243  1178118677.467098  563917554.931906
+Net Income From Continuing And Discontinued Operation           265481000.0       612123000.0       1170920000.0       562559000.0
+Total Expenses                                                 4631373000.0      5549639000.0       6765630000.0      5715707000.0
+Diluted Average Shares                                                  NaN       123993000.0        108806000.0       133065600.0
+Basic Average Shares                                                    NaN       123116000.0        108654000.0       132905600.0
+Diluted EPS                                                             NaN              4.94               8.61             4.225
+Basic EPS                                                               NaN              4.97               8.62            4.2375
+Diluted NI Availto Com Stockholders                             265481000.0       612123000.0       1170920000.0       562559000.0
+Net Income Common Stockholders                                  265481000.0       612123000.0       1170920000.0       562559000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0                0.0               0.0
+Net Income                                                      265481000.0       612123000.0       1170920000.0       562559000.0
+Minority Interests                                                      0.0        -1538000.0         32122000.0      -271574000.0
+Net Income Including Noncontrolling Interests                   265481000.0       613661000.0       1138798000.0       834133000.0
+Net Income Continuous Operations                                265481000.0       613661000.0       1138798000.0       834133000.0
+Tax Provision                                                   166307000.0       177769000.0        202383000.0        96055000.0
+Pretax Income                                                   431788000.0       791430000.0       1341181000.0       930188000.0
+Other Non Operating Income Expenses                              34035000.0       210008000.0        182837000.0        19168000.0
+Special Income Charges                                           16220000.0       -20015000.0         -8478000.0        -1515000.0
+Write Off                                                       -16220000.0        20015000.0          8478000.0         1515000.0
+Net Non Operating Interest Income Expense                       124300000.0        69595000.0         19945000.0        59689000.0
+Interest Expense Non Operating                                  103513000.0        89629000.0         64322000.0        53140000.0
+Interest Income Non Operating                                   227813000.0       159224000.0         84267000.0       112829000.0
+Operating Income                                                179450000.0       318673000.0        949906000.0       728937000.0
+Operating Expense                                               550735000.0       704445000.0        804652000.0       793088000.0
+Research And Development                                         58356000.0        65437000.0         80842000.0        91173000.0
+Selling General And Administration                              492379000.0       639008000.0        723810000.0       701915000.0
+Selling And Marketing Expense                                   197648000.0       240700000.0        288440000.0       297606000.0
+General And Administrative Expense                              294731000.0       398308000.0        435370000.0       404309000.0
+Gross Profit                                                    730185000.0      1023118000.0       1754558000.0      1522025000.0
+Cost Of Revenue                                                4080638000.0      4845194000.0       5960978000.0      4922619000.0
+Total Revenue                                                  4810823000.0      5868312000.0       7715536000.0      6444644000.0
+Operating Revenue                                              4810823000.0      5868312000.0       7715536000.0      6444644000.0

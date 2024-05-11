@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	101, Fu-Hsing North Road
+address2	13th Floor Songshan Dist
+city	Taipei
+zip	10595
+country	Taiwan
+phone	886 2 2719 3333
+fax	886 2 2719 1858
+website	https://www.oucc.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Oriental Union Chemical Corporation produces and sells ethylene oxide, ethylene glycol, and other related chemical products primarily in Taiwan and internationally. The company offers MEG for use in polyester fiber, antifreeze, dehumidifier, engineering plastics, PET bottles and brake fluid; DEG for use in dehumidifiers, lubricants, leveling agents, solvents, grinding aids, and unsaturated and polyol raw materials; TEG for use in dehumidifying agents, solvents, and polyols; and ethylene oxide (EO) for use in raw materials for ethylene glycol, glycol ether, ethanol ether, non-ionic surfactants, and disinfectants. It also provides surfactants and performance chemicals, including non-ionic surfactants, such as derivatives of EO and propylene oxide for use in personal care, textile and leather additives, pesticides, coatings, water treatment, and electronic materials; construction chemicals comprising monomers for polycarboxylic ether superplasticizer, polycarboxylic ether superplasticizers, and functional chemical additives; solvent and amine chemicals, consisting of ethanolamines, glycol ethers, and ethylene carbonate; and fine chemicals, such as reactive grade polyols and polyetheramines. In addition, the company offers various gases, such as oxygen for use in petrochemical industry, pure oxygen combustion, metal cutting, wastewater treatment, incinerators, hospitals, and fisheries; nitrogen for use in oil refining industry, electronics and semiconductors, plastics, food freezing and packaging, chemical industry, metal heat treatment, etc.; argon for welding, solar energy, electronics and semiconductors, metal manufacturing, etc. applications; and carbon dioxide for use in welding, food freezing and packaging, electronics and semiconductors, carbonated drinks, etc. Further, it manufactures monoethanolamine, polyethylene glycol, polyoxyethylene lauryl ether, and methoxy polyethylene glycols. The company was incorporated in 1975 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shi-Chin  Tsai', 'title': 'President & Director', 'fiscalYear': 2020, 'totalPay': 5317000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Y. S. Chang', 'title': 'Vice President of Technical and R&D Center', 'fiscalYear': 2020, 'totalPay': 3432000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Victoria  Peng', 'title': "VP of President's Office & In Charge of HR & Administration Center", 'fiscalYear': 2020, 'totalPay': 4083000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. K.  Tsai', 'title': 'Executive VP & VP of EOG & GAS Business Group', 'fiscalYear': 2020, 'totalPay': 4000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Chiang', 'title': 'Assistant Vice President of Financial Department', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen  Yu', 'title': 'Assistant Vice President of Accounting', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vince  Chou', 'title': 'Chief Internal Auditor', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	17.3
+open	17.5
+dayLow	17.4
+dayHigh	17.65
+regularMarketPreviousClose	17.3
+regularMarketOpen	17.5
+regularMarketDayLow	17.4
+regularMarketDayHigh	17.65
+dividendRate	0.2
+dividendYield	0.0113
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.6667
+fiveYearAvgDividendYield	4.94
+forwardPE	73.541664
+volume	1369038
+regularMarketVolume	1369038
+averageVolume	1414159
+averageVolume10days	1016300
+averageDailyVolume10Day	1016300
+bid	17.6
+ask	17.65
+marketCap	15479526400
+fiftyTwoWeekLow	16.8
+fiftyTwoWeekHigh	23.85
+priceToSalesTrailing12Months	0.74609876
+fiftyDayAverage	17.916
+twoHundredDayAverage	19.18725
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.011560694
+currency	TWD
+enterpriseValue	29709389824
+profitMargins	-0.01643
+floatShares	624273476
+sharesOutstanding	877027008
+heldPercentInsiders	0.45035
+heldPercentInstitutions	0.061669998
+impliedSharesOutstanding	877027008
+bookValue	15.55
+priceToBook	1.1350482
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.963
+netIncomeToCommon	-340872000
+trailingEps	-0.39
+forwardEps	0.24
+pegRatio	2.87
+lastSplitFactor	1.1:1
+lastSplitDate	1343692800	 (2012-07-31 08:00:00)
+enterpriseToRevenue	1.432
+enterpriseToEbitda	60.707
+52WeekChange	-0.14527845
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1710.TW
+underlyingSymbol	1710.TW
+shortName	ORIENTAL UNION CHEMICAL CORP
+longName	Oriental Union Chemical Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	635a9b45-1c54-3767-a297-6700e5f744b5
+messageBoardId	finmb_9845343
+gmtOffSetMilliseconds	28800000
+currentPrice	17.65
+targetHighPrice	27.0
+targetLowPrice	27.0
+targetMeanPrice	27.0
+targetMedianPrice	27.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	1719975040
+totalCashPerShare	2.211
+ebitda	489387008
+totalDebt	15062429696
+quickRatio	0.401
+currentRatio	0.643
+totalRevenue	20747288576
+debtToEquity	102.234
+revenuePerShare	24.342
+returnOnAssets	-0.01059
+returnOnEquity	-0.05204
+freeCashflow	-236749632
+operatingCashflow	-128936000
+earningsGrowth	-0.958
+revenueGrowth	-0.013
+grossMargins	0.020539999
+ebitdaMargins	0.02359
+operatingMargins	-0.00465
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31        2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                   150076400.0    218274200.0    -115724.887733       974800.0
+Tax Rate For Calcs                                                    0.2            0.2          0.136953            0.2
+Normalized EBITDA                                             507564000.0   -463482000.0      2732398000.0    115948000.0
+Total Unusual Items                                           750382000.0   1091371000.0         -845000.0      4874000.0
+Total Unusual Items Excluding Goodwill                        750382000.0   1091371000.0         -845000.0      4874000.0
+Net Income From Continuing Operation Net Minority Interest    265724000.0     38873000.0       899758000.0  -1064698000.0
+Reconciled Depreciation                                      1078934000.0   1096099000.0      1096467000.0   1061082000.0
+Reconciled Cost Of Revenue                                  20480005000.0  22136114000.0     24929674000.0  18245325000.0
+EBITDA                                                       1257946000.0    627889000.0      2731553000.0    120822000.0
+EBIT                                                          179012000.0   -468210000.0      1635086000.0   -940260000.0
+Net Interest Income                                          -335165000.0   -266076000.0      -217456000.0   -304933000.0
+Interest Expense                                              375387000.0    306808000.0       260011000.0    367029000.0
+Interest Income                                                40222000.0     40732000.0        42555000.0     62096000.0
+Normalized Income                                            -334581600.0   -834223800.0  900487275.112267  -1068597200.0
+Net Income From Continuing And Discontinued Operation         265724000.0     38873000.0       899758000.0  -1064698000.0
+Total Expenses                                              21497007000.0  23240341000.0     26058550000.0  19218513000.0
+Diluted Average Shares                                                NaN    876790000.0       873694000.0    871949000.0
+Basic Average Shares                                                  NaN    876594000.0       872947000.0    871949000.0
+Diluted EPS                                                           NaN           0.04              1.03          -1.22
+Basic EPS                                                             NaN           0.04              1.03          -1.22
+Diluted NI Availto Com Stockholders                           265724000.0     38873000.0       899758000.0  -1064698000.0
+Net Income Common Stockholders                                265724000.0     38873000.0       899758000.0  -1064698000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0               0.0            0.0
+Net Income                                                    265724000.0     38873000.0       899758000.0  -1064698000.0
+Minority Interests                                            490022000.0    828898000.0      -286997000.0    406949000.0
+Net Income Including Noncontrolling Interests                -224298000.0   -790025000.0      1186755000.0  -1471647000.0
+Net Income Continuous Operations                             -224298000.0   -790025000.0      1186755000.0  -1471647000.0
+Tax Provision                                                  27923000.0     15007000.0       188320000.0    164358000.0
+Pretax Income                                                -196375000.0   -775018000.0      1375075000.0  -1307289000.0
+Other Non Operating Income Expenses                            31326000.0     33812000.0       601980000.0     33013000.0
+Special Income Charges                                        747128000.0      -849000.0        -1177000.0      -638000.0
+Other Special Charges                                        -747530000.0      2362000.0               NaN            NaN
+Write Off                                                        402000.0     -1513000.0         1177000.0       638000.0
+Net Non Operating Interest Income Expense                    -335165000.0   -266076000.0      -217456000.0   -304933000.0
+Interest Expense Non Operating                                375387000.0    306808000.0       260011000.0    367029000.0
+Interest Income Non Operating                                  40222000.0     40732000.0        42555000.0     62096000.0
+Operating Income                                             -680076000.0  -1159242000.0      1423169000.0   -455354000.0
+Operating Expense                                            1017002000.0   1104227000.0      1128876000.0    973188000.0
+Research And Development                                      209604000.0    193876000.0       195881000.0    149965000.0
+Selling General And Administration                            807398000.0    910351000.0       932995000.0    823223000.0
+Selling And Marketing Expense                                 530363000.0    646613000.0       663766000.0    545283000.0
+General And Administrative Expense                            277035000.0    263738000.0       269229000.0    277940000.0
+Gross Profit                                                  336926000.0    -55015000.0      2552045000.0    517834000.0
+Cost Of Revenue                                             20480005000.0  22136114000.0     24929674000.0  18245325000.0
+Total Revenue                                               20816931000.0  22081099000.0     27481719000.0  18763159000.0
+Operating Revenue                                           20816931000.0  22081099000.0     27481719000.0  18763159000.0

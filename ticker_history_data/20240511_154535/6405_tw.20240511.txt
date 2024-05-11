@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 18, Beiyuan Road
+address2	Zhongli District
+city	Taoyuan City
+zip	32063
+country	Taiwan
+phone	886 3 433 5831
+fax	886 3 433 5503
+website	https://www.onano-nm.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Onano Industrial Corp. provides slimmed opto-electronic glass and alloy materials in Taiwan. The company offers slimming, polishing, and film coating services for TFT-LCD, OLED, solar cell glass, etc. Its products are used in various applications, including smart phones, tablets, ultra-thin laptops, and others. The company was incorporated in 2004 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Pona  Chen', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	23.2
+open	23.3
+dayLow	22.85
+dayHigh	23.3
+regularMarketPreviousClose	23.2
+regularMarketOpen	23.3
+regularMarketDayLow	22.85
+regularMarketDayHigh	23.3
+dividendRate	0.1
+dividendYield	0.0044
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	28.5714
+fiveYearAvgDividendYield	3.66
+beta	1.029
+volume	42001
+regularMarketVolume	42001
+averageVolume	228887
+averageVolume10days	42613
+averageDailyVolume10Day	42613
+bid	22.95
+ask	23.0
+marketCap	1510110080
+fiftyTwoWeekLow	22.2
+fiftyTwoWeekHigh	29.8
+priceToSalesTrailing12Months	7.224854
+fiftyDayAverage	24.194
+twoHundredDayAverage	24.55425
+currency	TWD
+enterpriseValue	-15924000
+profitMargins	-0.41146
+sharesOutstanding	65800000
+heldPercentInsiders	0.42641
+impliedSharesOutstanding	65943000
+bookValue	37.622
+priceToBook	0.6100154
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-86002000
+trailingEps	-1.31
+lastSplitFactor	1.45:1
+lastSplitDate	1372118400	 (2013-06-25 08:00:00)
+enterpriseToRevenue	-0.076
+enterpriseToEbitda	0.309
+52WeekChange	0.01999998
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6405.TW
+underlyingSymbol	6405.TW
+shortName	ONANO INDUSTRIAL CORP
+longName	Onano Industrial Corp.
+firstTradeDateEpochUtc	1363050000	 (2013-03-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	52f0a064-8163-3c20-bbdf-6b2b62c9727b
+messageBoardId	finmb_223872800
+gmtOffSetMilliseconds	28800000
+currentPrice	22.95
+recommendationKey	none
+totalCash	1526034048
+totalCashPerShare	23.192
+ebitda	-51456000
+quickRatio	20.116
+currentRatio	20.272
+totalRevenue	209016000
+revenuePerShare	3.177
+returnOnAssets	-0.02757
+returnOnEquity	-0.03415
+freeCashflow	-21175500
+operatingCashflow	5243000
+revenueGrowth	-0.395
+grossMargins	-0.02111
+ebitdaMargins	-0.24618
+operatingMargins	-0.72022
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                      2400.0       5800.0      -897.689769      5396.343023
+Tax Rate For Calcs                                                  0.2          0.2         0.052805         0.256969
+Normalized EBITDA                                           -17633000.0  123411000.0      186999000.0      218375000.0
+Total Unusual Items                                             12000.0      29000.0         -17000.0          21000.0
+Total Unusual Items Excluding Goodwill                          12000.0      29000.0         -17000.0          21000.0
+Net Income From Continuing Operation Net Minority Interest  -86002000.0    4454000.0       99589000.0       87165000.0
+Reconciled Depreciation                                      66252000.0   84720000.0       80217000.0       96680000.0
+Reconciled Cost Of Revenue                                  213428000.0  328189000.0      397008000.0      394273000.0
+EBITDA                                                      -17621000.0  123440000.0      186982000.0      218396000.0
+EBIT                                                        -83873000.0   38720000.0      106765000.0      121716000.0
+Net Interest Income                                          32943000.0   15585000.0         221000.0        1143000.0
+Interest Expense                                               256000.0    1601000.0        1624000.0        4406000.0
+Interest Income                                              33199000.0   17186000.0        1845000.0        5549000.0
+Normalized Income                                           -86011600.0    4430800.0  99605102.310231  87149396.343023
+Net Income From Continuing And Discontinued Operation       -86002000.0    4454000.0       99589000.0       87165000.0
+Total Expenses                                              326456000.0  440588000.0      516736000.0      523911000.0
+Diluted Average Shares                                              NaN   65810000.0       66002000.0       66292000.0
+Basic Average Shares                                                NaN   65800000.0       65800000.0       65800000.0
+Diluted EPS                                                         NaN         0.07             1.51             1.31
+Basic EPS                                                           NaN         0.07             1.51             1.32
+Diluted NI Availto Com Stockholders                         -86002000.0    4454000.0       99589000.0       87165000.0
+Net Income Common Stockholders                              -86002000.0    4454000.0       99589000.0       87165000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0              0.0              0.0
+Net Income                                                  -86002000.0    4454000.0       99589000.0       87165000.0
+Net Income Including Noncontrolling Interests               -86002000.0    4454000.0       99589000.0       87165000.0
+Net Income Continuous Operations                            -86002000.0    4454000.0       99589000.0       87165000.0
+Tax Provision                                                 1873000.0   32665000.0        5552000.0       30145000.0
+Pretax Income                                               -84129000.0   37119000.0      105141000.0      117310000.0
+Other Non Operating Income Expenses                            356000.0   87135000.0       81260000.0      198323000.0
+Special Income Charges                                          12000.0      29000.0         -17000.0          21000.0
+Write Off                                                      -12000.0     -29000.0          17000.0         -21000.0
+Net Non Operating Interest Income Expense                    32943000.0   15585000.0         221000.0        1143000.0
+Interest Expense Non Operating                                 256000.0    1601000.0        1624000.0        4406000.0
+Interest Income Non Operating                                33199000.0   17186000.0        1845000.0        5549000.0
+Operating Income                                           -117440000.0  -65630000.0       23677000.0      -82177000.0
+Operating Expense                                           113028000.0  112399000.0      119728000.0      129638000.0
+Research And Development                                     65341000.0   60958000.0       56430000.0       63795000.0
+Selling General And Administration                           47687000.0   51441000.0       63298000.0       65843000.0
+Selling And Marketing Expense                                 7397000.0    9309000.0        9952000.0        9015000.0
+General And Administrative Expense                           40290000.0   42132000.0       53346000.0       56828000.0
+Gross Profit                                                 -4412000.0   46769000.0      143405000.0       47461000.0
+Cost Of Revenue                                             213428000.0  328189000.0      397008000.0      394273000.0
+Total Revenue                                               209016000.0  374958000.0      540413000.0      441734000.0
+Operating Revenue                                           209016000.0  374958000.0      540413000.0      441734000.0

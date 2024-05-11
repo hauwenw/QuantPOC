@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	Taichung Industrial Park
+address2	3, 27th Road
+city	Taichung
+country	Taiwan
+phone	886 4 2359 0096
+fax	886 4 2358 3251
+website	https://www.umec.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Universal Microelectronics Co., Ltd. designs, manufactures, and sells magnetic components, power supplies, information and communication components/products, photonics equipment and components, and LCM and TV products in Taiwan, Asia, Europe, North America, and internationally. The company offers power supplies, such as DC/DC, AC/DC medicals, AC/DC open frames, redundant, adapters, PV inverter, and AC/DC chassis products; and LUPS for use in communication, Internet, industrial control, and IT home electronics. It provides magnetic components, including telecom products and power transformers/inductor products, as well as communication, Internet, and power systems. In addition, the company offers photonics equipment and components, which include optical modules OEM die/wire bonding, optical passive components, active optical cables, and optical fiber transceivers; and industrial embedded systems, radar products, and marine products, as well as IOT application and other contract manufacturing, and EMS/OEM products. Further, the company provides LCM and TV products, such as LED and CCFL backlights, LCD modules, LED displays, and LED TV (OEM/ODM) products, as well as solar power street, high bay, and street light products. Universal Microelectronics Co., Ltd. was founded in 1984 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	2393
+companyOfficers	[{'maxAge': 1, 'name': 'Zhengming  Ou', 'title': 'GM & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.2
+open	24.25
+dayLow	23.75
+dayHigh	24.25
+regularMarketPreviousClose	24.2
+regularMarketOpen	24.25
+regularMarketDayLow	23.75
+regularMarketDayHigh	24.25
+dividendRate	0.5
+dividendYield	0.0211
+exDividendDate	1700179200	 (2023-11-17 08:00:00)
+payoutRatio	0.5952
+beta	1.228
+trailingPE	28.273811
+volume	261361
+regularMarketVolume	261361
+averageVolume	359084
+averageVolume10days	162449
+averageDailyVolume10Day	162449
+bid	23.75
+ask	23.9
+marketCap	5229940224
+fiftyTwoWeekLow	23.5
+fiftyTwoWeekHigh	35.95
+priceToSalesTrailing12Months	1.1360097
+fiftyDayAverage	26.202
+twoHundredDayAverage	27.67125
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.008264462
+currency	TWD
+enterpriseValue	3483888640
+profitMargins	0.02313
+sharesOutstanding	220208000
+heldPercentInsiders	0.50648
+heldPercentInstitutions	0.0146
+impliedSharesOutstanding	223848000
+bookValue	15.912
+priceToBook	1.4925842
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	106486000
+trailingEps	0.84
+lastSplitFactor	102.5351:100
+lastSplitDate	1217894400	 (2008-08-05 08:00:00)
+enterpriseToRevenue	0.757
+enterpriseToEbitda	14.175
+52WeekChange	-0.28139186
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1700179200	 (2023-11-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2413.TW
+underlyingSymbol	2413.TW
+shortName	UNIVERSAL MICROELECTRONICS
+longName	Universal Microelectronics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d69f1e42-bdda-3e23-bd1f-846087d58cc3
+messageBoardId	finmb_12718841
+gmtOffSetMilliseconds	28800000
+currentPrice	23.75
+recommendationKey	none
+totalCash	762014976
+totalCashPerShare	6.009
+ebitda	245770000
+totalDebt	1233277952
+quickRatio	0.722
+currentRatio	1.743
+totalRevenue	4603781120
+debtToEquity	61.094
+revenuePerShare	36.301
+returnOnAssets	0.010290001
+returnOnEquity	0.0523
+freeCashflow	-2176500
+operatingCashflow	346950016
+revenueGrowth	-0.277
+grossMargins	0.14876
+ebitdaMargins	0.053379998
+operatingMargins	-0.02318
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     15486.899027    -136495.753473    245017.450373   1227693.339722
+Tax Rate For Calcs                                                  0.186589          0.203119         0.248749         0.337278
+Normalized EBITDA                                                337653000.0       537817000.0      266319000.0      195446000.0
+Total Unusual Items                                                  83000.0         -672000.0         985000.0        3640000.0
+Total Unusual Items Excluding Goodwill                               83000.0         -672000.0         985000.0        3640000.0
+Net Income From Continuing Operation Net Minority Interest       106486000.0       262577000.0       44706000.0      -12273000.0
+Reconciled Depreciation                                          171734000.0       174464000.0      181718000.0      190846000.0
+Reconciled Cost Of Revenue                                      3918917000.0      3995500000.0     3414832000.0     3222699000.0
+EBITDA                                                           337736000.0       537145000.0      267304000.0      199086000.0
+EBIT                                                             166002000.0       362681000.0       85586000.0        8240000.0
+Net Interest Income                                              -23905000.0       -27815000.0      -26014000.0      -23897000.0
+Interest Expense                                                  35630000.0        33824000.0       26848000.0       29110000.0
+Interest Income                                                   11725000.0         6009000.0         834000.0        5213000.0
+Normalized Income                                           106418486.899027  263112504.246527  43966017.450373 -14685306.660278
+Net Income From Continuing And Discontinued Operation            106486000.0       262577000.0       44706000.0      -12273000.0
+Total Expenses                                                  4518310000.0      4576152000.0     3984555000.0     3789588000.0
+Diluted Average Shares                                                   NaN       127464563.0      126821000.0      127007000.0
+Basic Average Shares                                                     NaN       126848792.0      126821000.0      127007000.0
+Diluted EPS                                                              NaN              2.06             0.35             -0.1
+Basic EPS                                                                NaN              2.07             0.35             -0.1
+Diluted NI Availto Com Stockholders                              106486000.0       262577000.0       44706000.0      -12273000.0
+Net Income Common Stockholders                                   106486000.0       262577000.0       44706000.0      -12273000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0              0.0
+Net Income                                                       106486000.0       262577000.0       44706000.0      -12273000.0
+Minority Interests                                                  440000.0          517000.0         579000.0        1558000.0
+Net Income Including Noncontrolling Interests                    106046000.0       262060000.0       44127000.0      -13831000.0
+Net Income Continuous Operations                                 106046000.0       262060000.0       44127000.0      -13831000.0
+Tax Provision                                                     24326000.0        66797000.0       14611000.0       -7039000.0
+Pretax Income                                                    130372000.0       328857000.0       58738000.0      -20870000.0
+Other Non Operating Income Expenses                               67571000.0       102344000.0       30189000.0       -8611000.0
+Special Income Charges                                               83000.0         -672000.0         985000.0        3640000.0
+Write Off                                                           -83000.0          672000.0        -985000.0       -3640000.0
+Net Non Operating Interest Income Expense                        -23905000.0       -27815000.0      -26014000.0      -23897000.0
+Interest Expense Non Operating                                    35630000.0        33824000.0       26848000.0       29110000.0
+Interest Income Non Operating                                     11725000.0         6009000.0         834000.0        5213000.0
+Operating Income                                                  85471000.0       258037000.0       55799000.0       12371000.0
+Operating Expense                                                599393000.0       580652000.0      569723000.0      566889000.0
+Research And Development                                         191241000.0       183734000.0      196311000.0      207958000.0
+Selling General And Administration                               408152000.0       396918000.0      373412000.0      358931000.0
+Selling And Marketing Expense                                    101159000.0       114386000.0      108654000.0      106857000.0
+General And Administrative Expense                               306993000.0       282532000.0      264758000.0      252074000.0
+Gross Profit                                                     684864000.0       838689000.0      625522000.0      579260000.0
+Cost Of Revenue                                                 3918917000.0      3995500000.0     3414832000.0     3222699000.0
+Total Revenue                                                   4603781000.0      4834189000.0     4040354000.0     3801959000.0
+Operating Revenue                                               4603781000.0      4834189000.0     4040354000.0     3801959000.0

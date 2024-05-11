@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No.11, Wenhua Road
+address2	Hsinchu Industrial Park Hukou County
+city	Hsinchu City
+zip	303035
+country	Taiwan
+phone	886 3 598 3101
+fax	886 3 598 3103
+website	https://www.coremaxcorp.com
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Coremax Corporation engages in the research, development, manufacture, and marketing of metal-based specialty chemicals and electronic/battery materials in Taiwan. The company provides catalysts in liquid form, including prime cobalt acetate, prime manganese acetate, prime cobalt manganese acetate, prime cobalt manganese bromide, prime cobalt bromide, prime manganese bromide, and regenerated cobalt manganese bromide solutions; and in crystalline forms, such as cobalt acetate and manganese acetate. It also offers specialty chemicals and battery materials comprising cobalt hydroxide, cobalt sulfate, cobalt oxide, electronic and industrial grade sulfuric acid, ITO etching, Cr etching, nickel sulfate, oxalic acid, and tin (?) chloride dihydrate products used in tires, pigments, paints, electronic and battery, and traditional industries; and organic and chemical compound fertilizers for the use in agricultural industry. The company was formerly known as Coremax Taiwan Corporation and changed its name to Coremax Corporation in 2000. Coremax Corporation was incorporated in 1992 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chi-Cheng  Ho', 'title': 'Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hsien  Weng', 'title': 'Chief Finance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Poju  Lu', 'title': 'Supervisor of Accounting Division, Manager of Finance Department  & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chao-Hui  Huang', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eugene Lawrence  Ho', 'title': 'GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuh-Ren  Chu', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	62.1
+open	62.2
+dayLow	61.9
+dayHigh	63.0
+regularMarketPreviousClose	62.1
+regularMarketOpen	62.2
+regularMarketDayLow	61.9
+regularMarketDayHigh	63.0
+dividendRate	2.98
+dividendYield	0.0475
+exDividendDate	1690848000	 (2023-08-01 08:00:00)
+payoutRatio	99.2893
+fiveYearAvgDividendYield	2.96
+beta	1.631
+trailingPE	2090.0
+forwardPE	16.243525
+volume	214990
+regularMarketVolume	214990
+averageVolume	423590
+averageVolume10days	816395
+averageDailyVolume10Day	816395
+bid	62.7
+ask	62.9
+marketCap	7373770752
+fiftyTwoWeekLow	58.0
+fiftyTwoWeekHigh	96.50918
+priceToSalesTrailing12Months	1.4094323
+fiftyDayAverage	63.308
+twoHundredDayAverage	72.599174
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.012882448
+currency	TWD
+enterpriseValue	8299929600
+profitMargins	-0.01916
+floatShares	84945369
+sharesOutstanding	117604000
+heldPercentInsiders	0.28752002
+heldPercentInstitutions	0.02406
+impliedSharesOutstanding	117604000
+bookValue	46.026
+priceToBook	1.3622735
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-100229000
+trailingEps	0.03
+forwardEps	3.86
+lastSplitFactor	1.05:1
+lastSplitDate	1379376000	 (2013-09-17 08:00:00)
+enterpriseToRevenue	1.586
+enterpriseToEbitda	38.841
+52WeekChange	-0.2614174
+SandP52WeekChange	0.26265144
+lastDividendValue	2.978678
+lastDividendDate	1690848000	 (2023-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4739.TW
+underlyingSymbol	4739.TW
+shortName	COREMAX CORPORATION
+longName	Coremax Corporation
+firstTradeDateEpochUtc	1322701200	 (2011-12-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fec5548f-f1da-3c70-97af-a50ff776c91f
+messageBoardId	finmb_83535970
+gmtOffSetMilliseconds	28800000
+currentPrice	62.7
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2781104896
+totalCashPerShare	23.648
+ebitda	213690000
+totalDebt	2755368960
+quickRatio	1.589
+currentRatio	2.029
+totalRevenue	5231731200
+debtToEquity	43.291
+revenuePerShare	48.371
+returnOnAssets	-0.00551
+returnOnEquity	-0.01212
+freeCashflow	372530368
+operatingCashflow	1123847040
+revenueGrowth	-0.33
+grossMargins	0.03366
+ebitdaMargins	0.04084
+operatingMargins	-0.020639999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     580600.0           0.0   -5457853.261911           0.0
+Tax Rate For Calcs                                                   0.2      0.277494          0.259539      0.197589
+Normalized EBITDA                                            332420000.0  1072891000.0       940538000.0   499563000.0
+Total Unusual Items                                            2903000.0           0.0       -21029000.0           0.0
+Total Unusual Items Excluding Goodwill                         2903000.0           0.0       -21029000.0           0.0
+Net Income From Continuing Operation Net Minority Interest  -100229000.0   493160000.0       462930000.0   155164000.0
+Reconciled Depreciation                                      311327000.0   288872000.0       289543000.0   274042000.0
+Reconciled Cost Of Revenue                                  5055610000.0  8057095000.0      6395418000.0  4809896000.0
+EBITDA                                                       335323000.0  1072891000.0       919509000.0   499563000.0
+EBIT                                                          23996000.0   784019000.0       629966000.0   225521000.0
+Net Interest Income                                          -46822000.0   -39347000.0       -23133000.0   -16610000.0
+Interest Expense                                              88948000.0    50323000.0        24370000.0    19087000.0
+Interest Income                                               42126000.0    10976000.0         1237000.0     2477000.0
+Normalized Income                                           -102551400.0   493160000.0  478501146.738089   155164000.0
+Net Income From Continuing And Discontinued Operation       -100229000.0   493160000.0       462930000.0   155164000.0
+Total Expenses                                              5328119000.0  8498786000.0      6733381000.0  5069063000.0
+Diluted Average Shares                                               NaN   111113000.0       101077380.0    90573728.0
+Basic Average Shares                                                 NaN   104391000.0        99846633.0    90413590.0
+Diluted EPS                                                          NaN          4.47          4.587165      1.717704
+Basic EPS                                                            NaN          4.72          4.636809      1.717704
+Diluted NI Availto Com Stockholders                         -100229000.0   493160000.0       462930000.0   155164000.0
+Net Income Common Stockholders                              -100229000.0   493160000.0       462930000.0   155164000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                  -100229000.0   493160000.0       462930000.0   155164000.0
+Minority Interests                                           -25803000.0   -36940000.0        14510000.0   -10481000.0
+Net Income Including Noncontrolling Interests                -74426000.0   530100000.0       448420000.0   165645000.0
+Net Income Continuous Operations                             -74426000.0   530100000.0       448420000.0   165645000.0
+Tax Provision                                                  9474000.0   203596000.0       157176000.0    40789000.0
+Pretax Income                                                -64952000.0   733696000.0       605596000.0   206434000.0
+Other Non Operating Income Expenses                           75355000.0   190208000.0        44356000.0     6742000.0
+Special Income Charges                                         2903000.0           0.0       -21029000.0           0.0
+Write Off                                                     -2903000.0           0.0        21029000.0           0.0
+Net Non Operating Interest Income Expense                    -46822000.0   -39347000.0       -23133000.0   -16610000.0
+Interest Expense Non Operating                                88948000.0    50323000.0        24370000.0    19087000.0
+Interest Income Non Operating                                 42126000.0    10976000.0         1237000.0     2477000.0
+Operating Income                                             -96388000.0   582835000.0       605402000.0   216302000.0
+Operating Expense                                            272509000.0   441691000.0       337963000.0   259167000.0
+Research And Development                                      13410000.0    20558000.0         8971000.0    29438000.0
+Selling General And Administration                           259099000.0   421133000.0       328992000.0   229729000.0
+Selling And Marketing Expense                                 81400000.0   134621000.0       101442000.0    70110000.0
+General And Administrative Expense                           177699000.0   286512000.0       227550000.0   159619000.0
+Gross Profit                                                 176121000.0  1024526000.0       943365000.0   475469000.0
+Cost Of Revenue                                             5055610000.0  8057095000.0      6395418000.0  4809896000.0
+Total Revenue                                               5231731000.0  9081621000.0      7338783000.0  5285365000.0
+Operating Revenue                                           5231731000.0  9081621000.0      7338783000.0  5285365000.0

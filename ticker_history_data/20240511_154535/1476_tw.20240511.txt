@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 738, Zhongyang Rd.
+address2	Xinzhuang District
+city	New Taipei City
+zip	242
+country	Taiwan
+phone	886 2 2299 6000
+fax	886 2 2299 1366
+website	https://www.eclat.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Eclat Textile Co., Ltd. designs, manufactures, process, sells, and markets clothing, knitted fabrics, garments, and textile raw materials in the Taiwan and internationally. The company operates in two Fabrics Division and Garments Division. It also operates in printing, dyeing, and finishing mill; and offers yarns, chemical synthetic fibers and silks, etc. In addition, it provides the wholesale of drugs and medical goods; retail sale of medical equipment; medical materials and equipment manufacturing; and invests in securities, real estate, and manufacturing industries. Eclat Textile Co., Ltd. was incorporated in 1977 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kun-Tang  Chen', 'title': 'President, President of Garment Division & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-Chin  Tsai', 'title': 'President & President of Fabric Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shu-Wen  Wang', 'title': 'Executive VP & Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-Chieh  Lo', 'title': 'CFO, VP of Financial & Accounting Department and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan Sheng He', 'title': 'Vice President of Operating Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Chen  Wang', 'title': 'Consultant & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui-Ting  Hung', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	485.0
+open	488.5
+dayLow	483.0
+dayHigh	489.0
+regularMarketPreviousClose	485.0
+regularMarketOpen	488.5
+regularMarketDayLow	483.0
+regularMarketDayHigh	489.0
+dividendRate	13.5
+dividendYield	0.0277
+exDividendDate	1712793600	 (2024-04-11 08:00:00)
+payoutRatio	1.0204
+fiveYearAvgDividendYield	2.67
+beta	1.021
+trailingPE	29.326923
+forwardPE	18.107607
+volume	305988
+regularMarketVolume	305988
+averageVolume	710551
+averageVolume10days	579952
+averageDailyVolume10Day	579952
+bid	486.5
+ask	489.0
+marketCap	133891096576
+fiftyTwoWeekLow	458.5
+fiftyTwoWeekHigh	598.0
+priceToSalesTrailing12Months	4.1938734
+fiftyDayAverage	531.97
+twoHundredDayAverage	535.5325
+trailingAnnualDividendRate	13.5
+trailingAnnualDividendYield	0.027835052
+currency	TWD
+enterpriseValue	125947772928
+profitMargins	0.18089001
+floatShares	165841194
+sharesOutstanding	274367008
+heldPercentInsiders	0.3411
+heldPercentInstitutions	0.27982
+impliedSharesOutstanding	278283008
+bookValue	86.061
+priceToBook	5.670397
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.724
+netIncomeToCommon	5775025152
+trailingEps	16.64
+forwardEps	26.95
+pegRatio	2.65
+lastSplitFactor	1020:1000
+lastSplitDate	1500940800	 (2017-07-25 08:00:00)
+enterpriseToRevenue	3.945
+enterpriseToEbitda	16.245
+52WeekChange	0.024134278
+SandP52WeekChange	0.26265144
+lastDividendValue	13.5
+lastDividendDate	1712793600	 (2024-04-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1476.TW
+underlyingSymbol	1476.TW
+shortName	ECLAT TEXTILE CO
+longName	Eclat Textile Co., Ltd.
+firstTradeDateEpochUtc	987555600	 (2001-04-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dbe53ebf-48fe-361b-b96b-e3155794132b
+messageBoardId	finmb_9846195
+gmtOffSetMilliseconds	28800000
+currentPrice	488.0
+targetHighPrice	781.0
+targetLowPrice	587.0
+targetMeanPrice	671.8
+targetMedianPrice	660.0
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	15
+totalCash	9207174144
+totalCashPerShare	33.558
+ebitda	7753097216
+totalDebt	1263800960
+quickRatio	1.374
+currentRatio	1.878
+totalRevenue	31925401600
+debtToEquity	5.352
+revenuePerShare	116.36
+returnOnAssets	0.12731
+returnOnEquity	0.25742
+freeCashflow	2862822144
+operatingCashflow	5564931072
+earningsGrowth	0.724
+revenueGrowth	0.175
+grossMargins	0.31583
+ebitdaMargins	0.24285
+operatingMargins	0.19344
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0
+Tax Rate For Calcs                                               0.204915       0.193736       0.200838
+Normalized EBITDA                                            9403060000.0   7041010000.0   6060382000.0
+Net Income From Continuing Operation Net Minority Interest   6790348000.0   5148611000.0   4254626000.0
+Reconciled Depreciation                                       794235000.0    632346000.0    702604000.0
+Reconciled Cost Of Revenue                                  28670846000.0  26426100000.0  20096659000.0
+EBITDA                                                       9403060000.0   7041010000.0   6060382000.0
+EBIT                                                         8608825000.0   6408664000.0   5357778000.0
+Net Interest Income                                           -22942000.0     -1521000.0     -3923000.0
+Interest Expense                                               68424000.0     22899000.0     33920000.0
+Interest Income                                                45482000.0     21378000.0     29997000.0
+Normalized Income                                            6790348000.0   5148611000.0   4254626000.0
+Net Income From Continuing And Discontinued Operation        6790348000.0   5148611000.0   4254534000.0
+Total Expenses                                              31999165000.0  29518765000.0  22678849000.0
+Diluted Average Shares                                        274387000.0    274381000.0    274384000.0
+Basic Average Shares                                          274367000.0    274367000.0    274367000.0
+Diluted EPS                                                         24.75          18.76          15.51
+Basic EPS                                                           24.75          18.77          15.51
+Diluted NI Availto Com Stockholders                          6790348000.0   5148611000.0   4254534000.0
+Net Income Common Stockholders                               6790348000.0   5148611000.0   4254534000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0
+Net Income                                                   6790348000.0   5148611000.0   4254534000.0
+Net Income Including Noncontrolling Interests                6790348000.0   5148611000.0   4254534000.0
+Net Income Discontinuous Operations                                   NaN            0.0       -92000.0
+Net Income Continuous Operations                             6790348000.0   5148611000.0   4254626000.0
+Tax Provision                                                1750053000.0   1237154000.0   1069232000.0
+Pretax Income                                                8540401000.0   6385765000.0   5323858000.0
+Other Non Operating Income Expenses                           826335000.0     -9083000.0   -162207000.0
+Net Non Operating Interest Income Expense                     -22942000.0     -1521000.0     -3923000.0
+Interest Expense Non Operating                                 68424000.0     22899000.0     33920000.0
+Interest Income Non Operating                                  45482000.0     21378000.0     29997000.0
+Operating Income                                             7737008000.0   6398482000.0   5496552000.0
+Operating Expense                                            3328319000.0   3092665000.0   2582190000.0
+Research And Development                                      160278000.0    162617000.0    146887000.0
+Selling General And Administration                           3168041000.0   2930048000.0   2435303000.0
+Selling And Marketing Expense                                1701503000.0   1736179000.0   1375374000.0
+General And Administrative Expense                           1466538000.0   1193869000.0   1059929000.0
+Gross Profit                                                11065327000.0   9491147000.0   8078742000.0
+Cost Of Revenue                                             28670846000.0  26426100000.0  20096659000.0
+Total Revenue                                               39736173000.0  35917247000.0  28175401000.0
+Operating Revenue                                           39736173000.0  35917247000.0  28175401000.0

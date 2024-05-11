@@ -1,0 +1,138 @@
+=== Ticker Info ===
+address1	No. 123, Songren Road
+address2	23rd Floor Xinyi District
+city	Taipei
+country	Taiwan
+phone	886 2 2371 3111
+fax	886 2 8729 1943
+website	https://www.hnfhc.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Hua Nan Financial Holdings Co., Ltd., together with its subsidiaries, provides financial services in Taiwan and internationally. The company provides various banking services, including commercial banking, offshore banking, overseas branch banking, and other banking services. It offers security related services, such as security trading, underwriting, transfer agent, margin loan and securities financing, futures trading services, and buying and selling foreign securities, as well as security investment consulting; property insurance services, including automobile insurance, fire insurance, casualty insurance, liability insurance, and reinsurance of the preceding insurance businesses; investment trust services; venture capital investments and consulting services; asset management services, including properties purchase, properties leasing and purchase, evaluation, and auction and management services; financing and leasing services; and broker business and futures consulting services. The company was founded in 1919 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	11100
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Robert  Li', 'title': 'Director & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Y.M.  Hu', 'title': 'Executive VP & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po-Hsun  Chen', 'title': 'GM of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Doris  Huang', 'title': 'Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. M.C.  Chiou', 'title': 'Executive VP and G.M. of Law & Ordinance Compliance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Chi  Yeh', 'title': 'General Manager of Marketing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pi-E  Huang', 'title': 'Chief Auditor & G.M. of the Auditing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ping-Hui  Chang', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tsung-Sheng  Hu', 'title': 'Division Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsi-Han  Chen', 'title': 'Chief Information Security Officer, Senior VP & GM of Information Technology Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.15
+open	25.2
+dayLow	25.2
+dayHigh	26.3
+regularMarketPreviousClose	25.15
+regularMarketOpen	25.2
+regularMarketDayLow	25.2
+regularMarketDayHigh	26.3
+dividendRate	0.59
+dividendYield	0.0225
+exDividendDate	1692230400	 (2023-08-17 08:00:00)
+payoutRatio	0.3734
+fiveYearAvgDividendYield	2.64
+beta	0.429
+trailingPE	16.613924
+forwardPE	16.203703
+volume	63896733
+regularMarketVolume	63896733
+averageVolume	16424775
+averageVolume10days	39470843
+averageDailyVolume10Day	39470843
+bid	26.2
+ask	26.25
+marketCap	358120882176
+fiftyTwoWeekLow	20.2
+fiftyTwoWeekHigh	26.3
+priceToSalesTrailing12Months	6.2569747
+fiftyDayAverage	23.012
+twoHundredDayAverage	21.79975
+currency	TWD
+enterpriseValue	692377944064
+profitMargins	0.37770998
+floatShares	9849107620
+sharesOutstanding	13642699776
+heldPercentInsiders	0.12956001
+heldPercentInstitutions	0.33831
+impliedSharesOutstanding	13919299584
+bookValue	15.232
+priceToBook	1.7233455
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.384
+netIncomeToCommon	21618294784
+trailingEps	1.58
+forwardEps	1.62
+pegRatio	1.12
+lastSplitFactor	1034:1000
+lastSplitDate	1660176000	 (2022-08-11 08:00:00)
+enterpriseToRevenue	12.097
+52WeekChange	0.19589972
+SandP52WeekChange	0.26265144
+lastDividendValue	0.59
+lastDividendDate	1692230400	 (2023-08-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2880.TW
+underlyingSymbol	2880.TW
+shortName	HUA NAN FINANCIAL HOLDINGS CO
+longName	Hua Nan Financial Holdings Co., Ltd.
+firstTradeDateEpochUtc	1008810000	 (2001-12-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e0707134-4435-3da6-80ce-6f5bd61c43ef
+messageBoardId	finmb_9263644
+gmtOffSetMilliseconds	28800000
+currentPrice	26.25
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	173053788160
+totalCashPerShare	12.685
+totalDebt	507307393024
+totalRevenue	57235468288
+revenuePerShare	4.195
+returnOnAssets	0.00577
+returnOnEquity	0.11012
+operatingCashflow	-143249129472
+earningsGrowth	0.384
+revenueGrowth	0.176
+operatingMargins	0.44949
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31        2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   106263566.481856     76994443.3454      61611036.64191   122851016.173562
+Tax Rate For Calcs                                                    0.174722          0.175512            0.119283           0.226664
+Total Unusual Items                                                608188000.0       438685000.0         516510000.0        541997000.0
+Total Unusual Items Excluding Goodwill                             608188000.0       438685000.0         516510000.0        541997000.0
+Net Income From Continuing Operation Net Minority Interest       21618294000.0     17308343000.0       17206199000.0       8653353000.0
+Reconciled Depreciation                                           2091880000.0      2079937000.0        2127717000.0       2185685000.0
+Net Interest Income                                              27867948000.0     33177691000.0       28000367000.0      24642539000.0
+Interest Expense                                                 59876234000.0     21673878000.0        8596255000.0      12220586000.0
+Interest Income                                                  87744182000.0     54851569000.0       36596622000.0      36863125000.0
+Normalized Income                                           21116369566.481857  16946652443.3454  16751300036.641911  8234207016.173562
+Net Income From Continuing And Discontinued Operation            21618294000.0     17308343000.0       17206199000.0       8653353000.0
+Diluted Average Shares                                           13642746000.0     13642746000.0       13642746000.0      13642745930.0
+Basic Average Shares                                             13642746000.0     13642746000.0       13642746000.0      13642745930.0
+Diluted EPS                                                               1.58              1.27                1.26           0.634282
+Basic EPS                                                                 1.58              1.27                1.26           0.638298
+Diluted NI Availto Com Stockholders                              21618294000.0     17308343000.0       17206199000.0       8653353000.0
+Net Income Common Stockholders                                   21618294000.0     17308343000.0       17206199000.0       8653353000.0
+Net Income                                                       21618294000.0     17308343000.0       17206199000.0       8653353000.0
+Minority Interests                                                   -126000.0         -128000.0           -122000.0          -130000.0
+Net Income Including Noncontrolling Interests                    21618420000.0     17308471000.0       17206321000.0       8653483000.0
+Net Income Continuous Operations                                 21618420000.0     17308471000.0       17206321000.0       8653483000.0
+Tax Provision                                                     4576885000.0      3684520000.0        2330406000.0       2536322000.0
+Pretax Income                                                    26195305000.0     20992991000.0       19536727000.0      11189805000.0
+Special Income Charges                                             -31077000.0       -22017000.0         -20287000.0         35325000.0
+Write Off                                                           31077000.0        22017000.0          20287000.0        -35325000.0
+Gain On Sale Of Security                                         14441733000.0     20148959000.0        1386496000.0      -8409428000.0
+Operating Expense                                                31108195000.0     29268555000.0       28439663000.0      26337703000.0
+Other Operating Expenses                                           317999000.0      1002243000.0         345933000.0        536382000.0
+Depreciation And Amortization In Income Statement                 2091880000.0      2079937000.0        2127717000.0       2185685000.0
+Depreciation Income Statement                                     2091880000.0      2079937000.0        2127717000.0       2185685000.0
+Selling General And Administration                                9422521000.0      8174011000.0        7522748000.0       7121846000.0
+General And Administrative Expense                                9422521000.0      8174011000.0        7522748000.0       7121846000.0
+Total Revenue                                                    59631132000.0     53586509000.0       50733958000.0      39545239000.0
+Operating Revenue                                                59631132000.0     53586509000.0       50733958000.0      39545239000.0

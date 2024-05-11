@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No.2, Zihyou Street
+address2	Tucheng District
+city	New Taipei City
+zip	236
+country	Taiwan
+phone	886 2 2268 3466
+website	https://www.foxconn.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Hon Hai Precision Industry Co., Ltd. provides electronic OEM services. The company offers consumer electronics comprising of television sets, game consoles, set-top boxes, and speakers. It also provides cloud networking products consisting of routers, servers, edge computing, data centers, and satellite communications and other related equipment. In addition, the company offers desktop computers, notebook computers, tablets, business machines, printers, etc. Further, it provides connectors, precision optical components, lenses, electronic components, semiconductor products, automotive electronic parts, cutting tools/mold fixtures, and mechanical equipment. The company operates in Taiwan, Mainland China, India, Japan, Vietnam, Malaysia, Singapore, the Czech Republic, Hungary, Slovakia, the United States, Brazil, and Mexico. Hon Hai Precision Industry Co., Ltd. was founded in 1974 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yang-Wei  Liu', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. De-Cai  Huang', 'title': 'Financial Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zong-Kai  Chou', 'title': 'Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yen Shyang  Hwang', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chin-Min  Huang', 'title': 'Deputy Director of Public Relations Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Bin  Lee', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun  Seki', 'age': 62, 'title': 'Chief Strategy Officer of Electric Vehicles', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Chiang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alex  Yang', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Wu', 'title': 'Investor Relations Associate', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	170.5
+open	171.5
+dayLow	167.0
+dayHigh	172.0
+regularMarketPreviousClose	170.5
+regularMarketOpen	171.5
+regularMarketDayLow	167.0
+regularMarketDayHigh	172.0
+dividendRate	5.3
+dividendYield	0.0313
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.5263
+fiveYearAvgDividendYield	4.56
+beta	0.616
+trailingPE	16.832176
+forwardPE	12.363238
+volume	84846995
+regularMarketVolume	84846995
+averageVolume	118841028
+averageVolume10days	97926888
+averageDailyVolume10Day	97926888
+bid	169.5
+ask	170.0
+marketCap	2349524320256
+fiftyTwoWeekLow	94.0
+fiftyTwoWeekHigh	175.0
+priceToSalesTrailing12Months	0.3812788
+fiftyDayAverage	141.36
+twoHundredDayAverage	112.8405
+trailingAnnualDividendRate	5.4
+trailingAnnualDividendYield	0.031671554
+currency	TWD
+enterpriseValue	2136683839488
+profitMargins	0.02306
+floatShares	12116344075
+sharesOutstanding	13861499904
+heldPercentInsiders	0.12568
+heldPercentInstitutions	0.24639
+impliedSharesOutstanding	13943300096
+bookValue	107.716
+priceToBook	1.5735823
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.329
+netIncomeToCommon	142098202624
+trailingEps	10.07
+forwardEps	13.71
+pegRatio	0.72
+lastSplitFactor	800:1000
+lastSplitDate	1539820800	 (2018-10-18 08:00:00)
+enterpriseToRevenue	0.347
+enterpriseToEbitda	9.024
+52WeekChange	0.66176474
+SandP52WeekChange	0.26265144
+lastDividendValue	5.3
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2317.TW
+underlyingSymbol	2317.TW
+shortName	HON HAI PRECISION INDUSTRY
+longName	Hon Hai Precision Industry Co., Ltd.
+firstTradeDateEpochUtc	726195600	 (1993-01-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3af37278-fdbc-37b5-9e58-008954f3ace1
+messageBoardId	finmb_883723
+gmtOffSetMilliseconds	28800000
+currentPrice	169.5
+targetHighPrice	210.0
+targetLowPrice	130.0
+targetMeanPrice	172.2
+targetMedianPrice	168.0
+recommendationMean	1.8
+recommendationKey	buy
+numberOfAnalystOpinions	15
+totalCash	1349645369344
+totalCashPerShare	97.366
+ebitda	236787843072
+totalDebt	943669051392
+quickRatio	1.198
+currentRatio	1.59
+totalRevenue	6162221105152
+debtToEquity	55.963
+revenuePerShare	444.556
+returnOnAssets	0.02578
+returnOnEquity	0.09278
+freeCashflow	262372196352
+operatingCashflow	445552721920
+earningsGrowth	0.297
+revenueGrowth	-0.057
+grossMargins	0.06296
+ebitdaMargins	0.038429998
+operatingMargins	0.02642
+financialCurrency	TWD
+trailingPegRatio	1.7638
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                             0.0              0.0              0.0              0.0
+Tax Rate For Calcs                                                 0.194746         0.194334         0.205344         0.214107
+Normalized EBITDA                                            342173235000.0   298707989000.0   291011397000.0   250902981000.0
+Net Income From Continuing Operation Net Minority Interest   142098208000.0   141482714000.0   139320332000.0   101794807000.0
+Reconciled Depreciation                                       84405761000.0    76460308000.0    75481159000.0    65113734000.0
+Reconciled Cost Of Revenue                                  5774273890000.0  6226911592000.0  5632046836000.0  5055104342000.0
+EBITDA                                                       342173235000.0   298707989000.0   291011397000.0   250902981000.0
+EBIT                                                         257767474000.0   222247681000.0   215530238000.0   185789247000.0
+Net Interest Income                                           16156953000.0     8566751000.0    10497546000.0     7617339000.0
+Interest Expense                                              65543261000.0    34736195000.0    21958495000.0    40317013000.0
+Interest Income                                               81700214000.0    43302946000.0    32456041000.0    47934352000.0
+Normalized Income                                            142098208000.0   141482714000.0   139320332000.0   101794807000.0
+Net Income From Continuing And Discontinued Operation        142098208000.0   141482714000.0   139320332000.0   101794807000.0
+Total Expenses                                              5995692864000.0  6453208908000.0  5845214390000.0  5247195617000.0
+Diluted Average Shares                                        14105570000.0    14086786000.0    13861508000.0    14022810000.0
+Basic Average Shares                                          13861508000.0    13861508000.0    13861508000.0    13861508000.0
+Diluted EPS                                                           10.07            10.06             9.91             7.28
+Basic EPS                                                             10.25            10.21            10.05             7.34
+Diluted NI Availto Com Stockholders                          142098208000.0   141482714000.0   139320332000.0   101794807000.0
+Net Income Common Stockholders                               142098208000.0   141482714000.0   139320332000.0   101794807000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0              0.0              0.0
+Net Income                                                   142098208000.0   141482714000.0   139320332000.0   101794807000.0
+Minority Interests                                           -12691174000.0    -9588835000.0   -14502709000.0   -12530780000.0
+Net Income Including Noncontrolling Interests                154789382000.0   151071549000.0   153823041000.0   114325587000.0
+Net Income Continuous Operations                             154789382000.0   151071549000.0   153823041000.0   114325587000.0
+Tax Provision                                                 37434831000.0    36439937000.0    39748702000.0    31146647000.0
+Pretax Income                                                192224213000.0   187511486000.0   193571743000.0   145472234000.0
+Other Non Operating Income Expenses                           22910994000.0     -615895000.0    15709988000.0    19201998000.0
+Net Non Operating Interest Income Expense                     16156953000.0     8566751000.0    10497546000.0     7617339000.0
+Interest Expense Non Operating                                65543261000.0    34736195000.0    21958495000.0    40317013000.0
+Interest Income Non Operating                                 81700214000.0    43302946000.0    32456041000.0    47934352000.0
+Operating Income                                             166528495000.0   173787842000.0   148959492000.0   110827448000.0
+Operating Expense                                            221418974000.0   226297316000.0   213167554000.0   192091275000.0
+Research And Development                                     110019767000.0   114258072000.0   105068764000.0    94110512000.0
+Selling General And Administration                           111399207000.0   112039244000.0   108098790000.0    97980763000.0
+Selling And Marketing Expense                                 24988413000.0    30373898000.0    30505863000.0    27243581000.0
+General And Administrative Expense                            86410794000.0    81665346000.0    77592927000.0    70737182000.0
+Gross Profit                                                 387947469000.0   400085158000.0   362127046000.0   302918723000.0
+Cost Of Revenue                                             5774273890000.0  6226911592000.0  5632046836000.0  5055104342000.0
+Total Revenue                                               6162221359000.0  6626996750000.0  5994173882000.0  5358023065000.0
+Operating Revenue                                           6162221359000.0  6626996750000.0  5994173882000.0  5358023065000.0

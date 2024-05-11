@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No.308, Zhongshan South Road
+address2	1F. Houhong Village Gangshan District
+city	Kaohsiung
+zip	820
+country	Taiwan
+phone	886 7 622 8422
+fax	886 7 623 5977
+website	https://www.cleanaway.tw
+industry	Waste Management
+industryKey	waste-management
+industryDisp	Waste Management
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Cleanaway Company Limited operates as an intermediate treatment solidification company in the waste disposal process in Taiwan, Mainland China, Vietnam, Malaysia, and internationally. It operates through six segments: Solidification and Excavation, Landfill, Removal, Mainland Business, Investment, and Papermaking. The company offers intermediate treatment for hazardous industrial waste and pollution; undertakes disposal site remediation projects; contaminated and illegal dump sites cleanup; landfill for hazardous industrial waste intermediate treatment products and general industrial waste; and waste removal services. It also manufactures and sells kraft paper, paper for electronic carriers, paper for paper tubes, and other types of paper products. The company was formerly known as Cleanaway Kang Lien Co Ltd. and changed its name to Cleanaway Company Limited in May 2009. Cleanaway Company Limited was incorporated in 1999 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yung-Fa  Yang', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ping-Cheng  Hung', 'title': 'CFO, Corporate Governance Officer, Accounting Supervisor & Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Tien  Chen', 'title': 'Chief Information Security Officer & COO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lwon-Kuo  Sung', 'title': 'Vice President of Technology', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Nan  Chen', 'title': 'Vice President of Administration & Chief Sustainability Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Hong  Lai', 'title': 'Manager of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-Cheng  Tsai', 'title': 'Vice President of Marketing & Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Chih  Kao', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	190.5
+open	191.5
+dayLow	190.0
+dayHigh	192.0
+regularMarketPreviousClose	190.5
+regularMarketOpen	191.5
+regularMarketDayLow	190.0
+regularMarketDayHigh	192.0
+dividendRate	9.99
+dividendYield	0.0521
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	1.2147
+fiveYearAvgDividendYield	5.74
+trailingPE	23.296837
+forwardPE	17.174889
+volume	269101
+regularMarketVolume	269101
+averageVolume	265277
+averageVolume10days	295688
+averageDailyVolume10Day	295688
+bid	191.5
+ask	192.0
+marketCap	20909309952
+fiftyTwoWeekLow	172.0
+fiftyTwoWeekHigh	217.0
+priceToSalesTrailing12Months	4.9093366
+fiftyDayAverage	183.78
+twoHundredDayAverage	180.8675
+currency	TWD
+enterpriseValue	27667994624
+profitMargins	0.21781999
+floatShares	69921485
+sharesOutstanding	109187000
+heldPercentInsiders	0.3369
+heldPercentInstitutions	0.14848
+impliedSharesOutstanding	110056000
+bookValue	59.465
+priceToBook	3.2203817
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.211
+netIncomeToCommon	927724992
+trailingEps	8.22
+forwardEps	11.15
+enterpriseToRevenue	6.496
+enterpriseToEbitda	21.513
+52WeekChange	-0.047263682
+SandP52WeekChange	0.26265144
+lastDividendValue	9.985112
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8422.TW
+underlyingSymbol	8422.TW
+shortName	CLEANAWAY COMPANY LIMITED
+longName	Cleanaway Company Limited
+firstTradeDateEpochUtc	1317776400	 (2011-10-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a24087c8-dd0e-3499-bd99-4ad1ee878042
+messageBoardId	finmb_114652192
+gmtOffSetMilliseconds	28800000
+currentPrice	191.5
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	1425837056
+totalCashPerShare	13.037
+ebitda	1286108032
+totalDebt	7596785152
+quickRatio	0.97
+currentRatio	1.088
+totalRevenue	4259090944
+debtToEquity	107.652
+revenuePerShare	39.012
+returnOnAssets	0.04686
+returnOnEquity	0.13972999
+freeCashflow	-5358119424
+operatingCashflow	39802000
+earningsGrowth	-0.208
+revenueGrowth	-0.005
+grossMargins	0.39528
+ebitdaMargins	0.30197
+operatingMargins	0.22111
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    385504.239202      997472.15209    -4566970.495687      239497.386612
+Tax Rate For Calcs                                                  0.228109          0.213272            0.21389           0.211011
+Normalized EBITDA                                               1515405000.0      1920193000.0       1684041000.0       1668971000.0
+Total Unusual Items                                                1690000.0         4677000.0        -21352000.0          1135000.0
+Total Unusual Items Excluding Goodwill                             1690000.0         4677000.0        -21352000.0          1135000.0
+Net Income From Continuing Operation Net Minority Interest       993987000.0      1342974000.0       1153169000.0       1177219000.0
+Reconciled Depreciation                                          168189000.0       189415000.0        187297000.0        176164000.0
+Reconciled Cost Of Revenue                                      2455881000.0      3036659000.0       1104399000.0        798427000.0
+EBITDA                                                          1517095000.0      1924870000.0       1662689000.0       1670106000.0
+EBIT                                                            1348906000.0      1735455000.0       1475392000.0       1493942000.0
+Net Interest Income                                              -45983000.0       -28641000.0         -1143000.0           801000.0
+Interest Expense                                                  80153000.0        33514000.0          6522000.0          6218000.0
+Interest Income                                                   34170000.0         4873000.0          5379000.0          7019000.0
+Normalized Income                                           992682504.239202  1339294472.15209  1169954029.504313  1176323497.386612
+Net Income From Continuing And Discontinued Operation            993987000.0      1342974000.0       1153169000.0       1177219000.0
+Total Expenses                                                  3004861000.0      3575064000.0       1567636000.0       1234134000.0
+Diluted Average Shares                                                   NaN       110691000.0        109055000.0        109195000.0
+Basic Average Shares                                                     NaN       108888000.0        108888000.0        108888000.0
+Diluted EPS                                                              NaN             12.14              10.57              10.78
+Basic EPS                                                                NaN             12.33              10.59              10.81
+Diluted NI Availto Com Stockholders                              993987000.0      1342974000.0       1153169000.0       1177219000.0
+Net Income Common Stockholders                                   993987000.0      1342974000.0       1153169000.0       1177219000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0                0.0                0.0
+Net Income                                                       993987000.0      1342974000.0       1153169000.0       1177219000.0
+Minority Interests                                                14648000.0         4009000.0         -1525000.0          3421000.0
+Net Income Including Noncontrolling Interests                    979339000.0      1338965000.0       1154694000.0       1173798000.0
+Net Income Continuous Operations                                 979339000.0      1338965000.0       1154694000.0       1173798000.0
+Tax Provision                                                    289414000.0       362976000.0        314176000.0        313926000.0
+Pretax Income                                                   1268753000.0      1701941000.0       1468870000.0       1487724000.0
+Other Non Operating Income Expenses                               24673000.0        13890000.0          2616000.0          6625000.0
+Special Income Charges                                              174000.0         1927000.0        -21351000.0          1135000.0
+Other Special Charges                                               204000.0         -848000.0         12303000.0          -240000.0
+Write Off                                                          -378000.0        -1079000.0          9048000.0          -895000.0
+Net Non Operating Interest Income Expense                        -45983000.0       -28641000.0         -1143000.0           801000.0
+Interest Expense Non Operating                                    80153000.0        33514000.0          6522000.0          6218000.0
+Interest Income Non Operating                                     34170000.0         4873000.0          5379000.0          7019000.0
+Operating Income                                                1260405000.0      1669001000.0       1455315000.0       1446405000.0
+Operating Expense                                                548980000.0       538405000.0        463237000.0        435707000.0
+Research And Development                                          32550000.0        31124000.0         27589000.0         20024000.0
+Selling General And Administration                               516430000.0       507281000.0        435648000.0        415683000.0
+General And Administrative Expense                               516430000.0       507281000.0        435648000.0        415683000.0
+Gross Profit                                                    1809385000.0      2207406000.0       1918552000.0       1882112000.0
+Cost Of Revenue                                                 2455881000.0      3036659000.0       1104399000.0        798427000.0
+Total Revenue                                                   4265266000.0      5244065000.0       3022951000.0       2680539000.0
+Operating Revenue                                               4265266000.0      5244065000.0       3022951000.0       2680539000.0

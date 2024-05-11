@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 261, Taiwan Glass Building
+address2	11th Floor Section 3 Nanking East Road
+city	Taipei
+country	Taiwan
+phone	886 2 2713 0333
+fax	886 2 2715 0333
+website	https://www.taiwanglass.com
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Taiwan Glass Ind. Corp. manufactures, processes, and sells various glass products in Taiwan and internationally. The company provides flat glass, including float glass and processed glass; auto glass; ultra-thin glass; photoelectric glass, such as photovoltaic cover glass; and fiber glass comprising glass fiber and fabrics. It also offers liquor, wine and beer, food jar, pepper, spice, sauce, oil and vinegar, soft drink, juice and milk, pharmaceutical, and cobalt blue containers; tableware, including bowls and plates, water tumblers, wine glasses, mugs, storage jars and boxes, ashtrays, candleholders, and others; and kitchenware, such as tea pots, pitchers, bubble balls, storage jars, coffee pots, and glass covers. The company was incorporated in 1964 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Por-Shih  Lin', 'age': 78, 'title': 'CEO, President & Director', 'yearBorn': 1945, 'fiscalYear': 2021, 'totalPay': 31632000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles-Ming  Lin', 'age': 44, 'title': 'GM - Finance Department, VP, Financial Officer & Director', 'yearBorn': 1979, 'fiscalYear': 2021, 'totalPay': 15472000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Por-Chain  Lin', 'age': 74, 'title': 'Executive Director', 'yearBorn': 1949, 'fiscalYear': 2021, 'totalPay': 24057000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Te  Su', 'age': 74, 'title': 'VP & Director', 'yearBorn': 1949, 'fiscalYear': 2021, 'totalPay': 15815000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Hung  Lin', 'age': 52, 'title': 'COO of Flat Glass Business & China Prod, VP and Director', 'yearBorn': 1971, 'fiscalYear': 2021, 'totalPay': 15950000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Yu  Lin', 'age': 45, 'title': 'VP & Director', 'yearBorn': 1978, 'fiscalYear': 2021, 'totalPay': 15379000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. H.  Peng', 'age': 78, 'title': 'Executive Director', 'yearBorn': 1945, 'fiscalYear': 2021, 'totalPay': 12028000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Y. C. Lin', 'title': 'Founder', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu Hui  Huang', 'title': 'Manager of Accounting', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiu-Ling  Chang', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	16.95
+open	17.0
+dayLow	16.95
+dayHigh	17.2
+regularMarketPreviousClose	16.95
+regularMarketOpen	17.0
+regularMarketDayLow	16.95
+regularMarketDayHigh	17.2
+exDividendDate	1656374400	 (2022-06-28 08:00:00)
+fiveYearAvgDividendYield	0.87
+beta	1.203
+trailingPE	1720.0001
+forwardPE	5.119048
+volume	1853864
+regularMarketVolume	1853864
+averageVolume	2977112
+averageVolume10days	1920770
+averageDailyVolume10Day	1920770
+bid	17.15
+ask	17.2
+marketCap	50018631680
+fiftyTwoWeekLow	16.4
+fiftyTwoWeekHigh	23.25
+priceToSalesTrailing12Months	1.0964421
+fiftyDayAverage	17.347
+twoHundredDayAverage	18.61775
+currency	TWD
+enterpriseValue	65982308352
+profitMargins	0.00075999997
+floatShares	937617028
+sharesOutstanding	2908059904
+heldPercentInsiders	0.65564
+heldPercentInstitutions	0.03565
+impliedSharesOutstanding	2933649920
+bookValue	16.353
+priceToBook	1.0517948
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	34594000
+trailingEps	0.01
+forwardEps	3.36
+lastSplitFactor	1.045:1
+lastSplitDate	1342483200	 (2012-07-17 08:00:00)
+enterpriseToRevenue	1.446
+enterpriseToEbitda	15.537
+52WeekChange	-0.06267029
+SandP52WeekChange	0.26265144
+lastDividendValue	1.82
+lastDividendDate	1656374400	 (2022-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1802.TW
+underlyingSymbol	1802.TW
+shortName	TAIWAN GLASS INDUSTRIAL CORPORA
+longName	Taiwan Glass Ind. Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f3529e7f-6e7c-3589-8956-c152b0a4e0f3
+messageBoardId	finmb_874651
+gmtOffSetMilliseconds	28800000
+currentPrice	17.2
+recommendationKey	none
+totalCash	10952011776
+totalCashPerShare	3.766
+ebitda	4246864896
+totalDebt	23760146432
+quickRatio	0.88
+currentRatio	1.356
+totalRevenue	45619036160
+debtToEquity	46.854
+revenuePerShare	15.687
+returnOnAssets	-0.0029
+returnOnEquity	0.00049
+freeCashflow	1030702656
+operatingCashflow	4350441984
+revenueGrowth	0.056
+grossMargins	0.10012
+ebitdaMargins	0.09309
+operatingMargins	0.03917
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    15241200.0     -9939600.0     -2891502.738265   -15548581.223619
+Tax Rate For Calcs                                                    0.2            0.2            0.121984           0.169153
+Normalized EBITDA                                            5639517000.0   6212657000.0       19165245000.0       8843179000.0
+Total Unusual Items                                            76206000.0    -49698000.0         -23704000.0        -91920000.0
+Total Unusual Items Excluding Goodwill                         76206000.0    -49698000.0         -23704000.0        -91920000.0
+Net Income From Continuing Operation Net Minority Interest     34594000.0   -579062000.0       11244849000.0       2605015000.0
+Reconciled Depreciation                                      4788045000.0   5002903000.0        4979993000.0       4951686000.0
+Reconciled Cost Of Revenue                                  41051700000.0  39390748000.0       36327707000.0      34793133000.0
+EBITDA                                                       5715723000.0   6162959000.0       19141541000.0       8751259000.0
+EBIT                                                          927678000.0   1160056000.0       14161548000.0       3799573000.0
+Net Interest Income                                          -577411000.0   -464539000.0        -430988000.0       -627301000.0
+Interest Expense                                              641037000.0    538552000.0         495047000.0        673795000.0
+Interest Income                                                63626000.0     74013000.0          64059000.0         46494000.0
+Normalized Income                                             -26370800.0   -539303600.0  11265661497.261736  2681386418.776381
+Net Income From Continuing And Discontinued Operation          34594000.0   -720576000.0       11476678000.0       2468521000.0
+Total Expenses                                              45962702000.0  44572797000.0       42093651000.0      39235828000.0
+Diluted Average Shares                                                NaN   2908061000.0        2915121000.0       2910066000.0
+Basic Average Shares                                                  NaN   2908061000.0        2908061000.0       2908061000.0
+Diluted EPS                                                           NaN          -0.25                3.94               0.85
+Basic EPS                                                             NaN          -0.25                3.95               0.85
+Diluted NI Availto Com Stockholders                            34594000.0   -720576000.0       11476678000.0       2468521000.0
+Net Income Common Stockholders                                 34594000.0   -720576000.0       11476678000.0       2468521000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                 0.0                0.0
+Net Income                                                     34594000.0   -720576000.0       11476678000.0       2468521000.0
+Minority Interests                                              9745000.0    102298000.0        -754561000.0          7973000.0
+Net Income Including Noncontrolling Interests                  24849000.0   -822874000.0       12231239000.0       2460548000.0
+Net Income Discontinuous Operations                                   0.0   -141514000.0         231829000.0       -136494000.0
+Net Income Continuous Operations                               24849000.0   -681360000.0       11999410000.0       2597042000.0
+Tax Provision                                                 261792000.0   1302864000.0        1667091000.0        528736000.0
+Pretax Income                                                 286641000.0    621504000.0       13666501000.0       3125778000.0
+Other Non Operating Income Expenses                           328968000.0    462459000.0        1718500000.0       1216333000.0
+Special Income Charges                                         76206000.0    -49698000.0         -23704000.0        -91920000.0
+Write Off                                                     -76206000.0     49698000.0          23704000.0         91920000.0
+Net Non Operating Interest Income Expense                    -577411000.0   -464539000.0        -430988000.0       -627301000.0
+Interest Expense Non Operating                                641037000.0    538552000.0         495047000.0        673795000.0
+Interest Income Non Operating                                  63626000.0     74013000.0          64059000.0         46494000.0
+Operating Income                                             -343664000.0   -713731000.0       11498205000.0       2605194000.0
+Operating Expense                                            4911002000.0   5182049000.0        5765944000.0       4442695000.0
+Other Operating Expenses                                     -128689000.0   -146582000.0          10401000.0         21365000.0
+Research And Development                                     1039591000.0   1030615000.0        1028050000.0        601989000.0
+Selling General And Administration                           4000100000.0   4298016000.0        4727493000.0       3819341000.0
+Selling And Marketing Expense                                2757309000.0   2888030000.0        3211503000.0       2602432000.0
+General And Administrative Expense                           1242791000.0   1409986000.0        1515990000.0       1216909000.0
+Gross Profit                                                 4567338000.0   4468318000.0       17264149000.0       7047889000.0
+Cost Of Revenue                                             41051700000.0  39390748000.0       36327707000.0      34793133000.0
+Total Revenue                                               45619038000.0  43859066000.0       53591856000.0      41841022000.0
+Operating Revenue                                           45619038000.0  43859066000.0       53591856000.0      41841022000.0

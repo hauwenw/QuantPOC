@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No.168, Liancheng Road
+address2	8th Floor Zhonghe District
+city	New Taipei City
+zip	23553
+country	Taiwan
+phone	886 2 2243 6177
+fax	886 2 2243 6181
+website	https://www.koja.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ko Ja (Cayman) Co., Ltd. manufactures and sells membrane touch switches in Taiwan, Mainland China, and internationally. It also engages in the general investment activities; sale of chemical raw materials; and provision of management services and optoelectronic products, as well as manufactures and sells backlight parts of keyboards and electroconduction slurry. Ko Ja (Cayman) Co., Ltd. was founded in 1975 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Han-Ho  Ho', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 7750000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Guy  Tang', 'title': 'CFO, Accounting Director & Chief Corporate Governance Officer', 'fiscalYear': 2021, 'totalPay': 2515000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Kai  Lin', 'title': 'VP & Director', 'fiscalYear': 2021, 'totalPay': 700000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Sheng  Tsai', 'title': 'Managing Director of Manufacturing Department', 'fiscalYear': 2021, 'totalPay': 7493000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Hung  Lin', 'title': 'Deputy GM & Director', 'fiscalYear': 2021, 'totalPay': 4847000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Ping  Lin', 'title': 'General Manager of Management Department', 'fiscalYear': 2021, 'totalPay': 535000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	50.8
+open	50.7
+dayLow	50.1
+dayHigh	50.8
+regularMarketPreviousClose	50.8
+regularMarketOpen	50.7
+regularMarketDayLow	50.1
+regularMarketDayHigh	50.8
+dividendRate	2.0
+dividendYield	0.0394
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	0.73260003
+fiveYearAvgDividendYield	6.52
+beta	0.418
+trailingPE	18.608059
+volume	67776
+regularMarketVolume	67776
+averageVolume	149706
+averageVolume10days	68773
+averageDailyVolume10Day	68773
+bid	50.4
+ask	50.8
+marketCap	3268370432
+fiftyTwoWeekLow	44.55
+fiftyTwoWeekHigh	76.8
+priceToSalesTrailing12Months	1.2955053
+fiftyDayAverage	52.004
+twoHundredDayAverage	56.38225
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.02952756
+currency	TWD
+enterpriseValue	2271161344
+profitMargins	0.07012
+sharesOutstanding	64338000
+heldPercentInsiders	0.42014
+heldPercentInstitutions	0.0073100002
+impliedSharesOutstanding	64725600
+bookValue	51.673
+priceToBook	0.9831053
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.193
+netIncomeToCommon	176890000
+trailingEps	2.73
+lastSplitFactor	1.15:1
+lastSplitDate	1372723200	 (2013-07-02 08:00:00)
+enterpriseToRevenue	0.9
+enterpriseToEbitda	5.77
+52WeekChange	0.08896029
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5215.TW
+underlyingSymbol	5215.TW
+shortName	KO JA (CAYMAN) CO LTD
+longName	Ko Ja (Cayman) Co., Ltd.
+firstTradeDateEpochUtc	1324861200	 (2011-12-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1b72925c-a4ed-35e4-bb68-96182880fcf6
+messageBoardId	finmb_144392822
+gmtOffSetMilliseconds	28800000
+currentPrice	50.8
+recommendationKey	none
+totalCash	1199702016
+totalCashPerShare	18.647
+ebitda	393600000
+totalDebt	75039000
+quickRatio	3.337
+currentRatio	3.86
+totalRevenue	2522853888
+debtToEquity	2.174
+revenuePerShare	39.213
+returnOnAssets	0.03644
+returnOnEquity	0.05325
+freeCashflow	-1610250
+operatingCashflow	91702000
+earningsGrowth	0.169
+revenueGrowth	0.446
+grossMargins	0.26959
+ebitdaMargins	0.15601
+operatingMargins	0.14181
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    3341000.0    -377224.534809     931108.807748    -384390.199981
+Tax Rate For Calcs                                                   0.2          0.332064          0.281557          0.274761
+Normalized EBITDA                                            464163000.0       560528000.0       860766000.0      1110191000.0
+Total Unusual Items                                           16705000.0        -1136000.0         3307000.0        -1399000.0
+Total Unusual Items Excluding Goodwill                        16705000.0        -1136000.0         3307000.0        -1399000.0
+Net Income From Continuing Operation Net Minority Interest   176890000.0       297445000.0       553648000.0       748812000.0
+Reconciled Depreciation                                      149182000.0       128168000.0        95751000.0        83100000.0
+Reconciled Cost Of Revenue                                  1842721000.0      1839100000.0      2526503000.0      2291833000.0
+EBITDA                                                       480868000.0       559392000.0       864073000.0      1108792000.0
+EBIT                                                         331686000.0       431224000.0       768322000.0      1025692000.0
+Net Interest Income                                           44637000.0        30931000.0        13933000.0         8615000.0
+Interest Expense                                               5041000.0         3228000.0         4029000.0         2245000.0
+Interest Income                                               49678000.0        34159000.0        17962000.0        10860000.0
+Normalized Income                                            163526000.0  298203775.465191  551272108.807748  749826609.800019
+Net Income From Continuing And Discontinued Operation        176890000.0       297445000.0       553648000.0       748812000.0
+Total Expenses                                              2289322000.0      2184260000.0      2915406000.0      2648125000.0
+Diluted Average Shares                                               NaN        64850000.0        63746000.0        58366000.0
+Basic Average Shares                                                 NaN        64338000.0        63201000.0        57951000.0
+Diluted EPS                                                          NaN              4.59              8.69             13.01
+Basic EPS                                                            NaN              4.62              8.76             13.11
+Diluted NI Availto Com Stockholders                          176890000.0       297445000.0       553648000.0       748812000.0
+Net Income Common Stockholders                               176890000.0       297445000.0       553648000.0       748812000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0               0.0
+Net Income                                                   176890000.0       297445000.0       553648000.0       748812000.0
+Minority Interests                                            -6795000.0        11571000.0         4547000.0         6568000.0
+Net Income Including Noncontrolling Interests                183685000.0       285874000.0       549101000.0       742244000.0
+Net Income Continuous Operations                             183685000.0       285874000.0       549101000.0       742244000.0
+Tax Provision                                                142960000.0       142122000.0       215192000.0       281203000.0
+Pretax Income                                                326645000.0       427996000.0       764293000.0      1023447000.0
+Other Non Operating Income Expenses                           12990000.0        10658000.0        12900000.0        11808000.0
+Special Income Charges                                         -583000.0          355000.0           -9000.0               0.0
+Write Off                                                       583000.0               0.0            9000.0               0.0
+Restructuring And Mergern Acquisition                                0.0         -355000.0               NaN               NaN
+Net Non Operating Interest Income Expense                     44637000.0        30931000.0        13933000.0         8615000.0
+Interest Expense Non Operating                                 5041000.0         3228000.0         4029000.0         2245000.0
+Interest Income Non Operating                                 49678000.0        34159000.0        17962000.0        10860000.0
+Operating Income                                             233532000.0       278448000.0       757550000.0      1070522000.0
+Operating Expense                                            446601000.0       345160000.0       388903000.0       356292000.0
+Other Operating Expenses                                      27986000.0          -20000.0          922000.0          932000.0
+Research And Development                                     137279000.0       104664000.0       102296000.0        76877000.0
+Selling General And Administration                           281336000.0       240516000.0       285685000.0       278483000.0
+Selling And Marketing Expense                                 51425000.0        39027000.0        50908000.0        56351000.0
+General And Administrative Expense                           229911000.0       201489000.0       234777000.0       222132000.0
+Gross Profit                                                 680133000.0       623608000.0      1146453000.0      1426814000.0
+Cost Of Revenue                                             1842721000.0      1839100000.0      2526503000.0      2291833000.0
+Total Revenue                                               2522854000.0      2462708000.0      3672956000.0      3718647000.0
+Operating Revenue                                           2522854000.0      2462708000.0      3672956000.0      3718647000.0

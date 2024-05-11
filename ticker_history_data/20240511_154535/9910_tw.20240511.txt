@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 52 Kegong 8th Road
+city	Douliu
+zip	640111
+country	Taiwan
+phone	886 5 537 9100
+fax	886 5 537 9105
+website	https://www.fengtay.com
+industry	Footwear & Accessories
+industryKey	footwear-accessories
+industryDisp	Footwear & Accessories
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Feng Tay Enterprises Co., Ltd. manufactures and sells athletic shoes in Singapore, the United States, Mainland China, Switzerland, Mexico, and internationally. The company develops and produces casual shoes, inline and ice skates, ski boots, cycling shoes, golf balls, soccer balls, backpacks and handbags, ice hockey helmets and sticks, footwear accessories, shoe molds, and tools. It also offers international trade services; manufactures and repairs molds, cutting dies, shoe lasts, injections, as well as processes metal parts; manufactures and processes plastic products; engages in the wholesale and retail of general merchandise, and provision of related services; and develops industrial parks. Feng Tay Enterprises Co., Ltd. was founded in 1971 and is headquartered in Douliu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Chi  Chen', 'age': 60, 'title': 'GM, President & Director', 'yearBorn': 1963, 'fiscalYear': 2022, 'totalPay': 57282000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Chin  Chen', 'title': 'Chief Accounting Officer & Finance Chief Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shi-Chung  Yeh', 'title': 'General Manager of Group Technology Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bo Ya  You', 'title': 'Deputy General Manager of Sustainable Development Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-Wei  Hsu', 'title': 'Chief Corporate Governance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Ying  Lee', 'title': 'Chief Internal Audit Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Feng  Pong', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	162.0
+open	164.0
+dayLow	161.5
+dayHigh	163.5
+regularMarketPreviousClose	162.0
+regularMarketOpen	164.0
+regularMarketDayLow	161.5
+regularMarketDayHigh	163.5
+dividendRate	7.7
+dividendYield	0.047399998
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	1.3824
+fiveYearAvgDividendYield	2.7
+beta	0.904
+trailingPE	29.174147
+forwardPE	20.061728
+volume	750054
+regularMarketVolume	750054
+averageVolume	1320789
+averageVolume10days	960891
+averageDailyVolume10Day	960891
+bid	162.5
+ask	163.0
+marketCap	160465993728
+fiftyTwoWeekLow	152.0
+fiftyTwoWeekHigh	203.0
+priceToSalesTrailing12Months	1.8709468
+fiftyDayAverage	161.85
+twoHundredDayAverage	174.09723
+trailingAnnualDividendRate	4.3
+trailingAnnualDividendYield	0.026543211
+currency	TWD
+enterpriseValue	164808671232
+profitMargins	0.058000002
+floatShares	406606000
+sharesOutstanding	987483008
+heldPercentInsiders	0.52098
+heldPercentInstitutions	0.08182
+impliedSharesOutstanding	996712000
+bookValue	23.454
+priceToBook	6.9284554
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.214
+netIncomeToCommon	4974907904
+trailingEps	5.57
+forwardEps	8.1
+pegRatio	1.03
+lastSplitFactor	1120:1000
+lastSplitDate	1691107200	 (2023-08-04 08:00:00)
+enterpriseToRevenue	1.922
+enterpriseToEbitda	17.48
+52WeekChange	-0.052083313
+SandP52WeekChange	0.26265144
+lastDividendValue	7.7
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9910.TW
+underlyingSymbol	9910.TW
+shortName	FENG TAY ENTERPRISE CO LTD
+longName	Feng Tay Enterprises Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3cf1489a-707c-3b45-a424-7d952b02c84b
+messageBoardId	finmb_8935573
+gmtOffSetMilliseconds	28800000
+currentPrice	162.5
+targetHighPrice	215.0
+targetLowPrice	133.0
+targetMeanPrice	177.24
+targetMedianPrice	178.0
+recommendationMean	2.4
+recommendationKey	buy
+numberOfAnalystOpinions	14
+totalCash	3858842112
+totalCashPerShare	3.908
+ebitda	9428167680
+totalDebt	6306947072
+quickRatio	0.961
+currentRatio	1.66
+totalRevenue	85767266304
+debtToEquity	25.173
+revenuePerShare	86.854
+returnOnAssets	0.08071999
+returnOnEquity	0.20975
+freeCashflow	1862575488
+operatingCashflow	7300047872
+earningsGrowth	-0.214
+revenueGrowth	-0.014
+grossMargins	0.20726
+ebitdaMargins	0.10993
+operatingMargins	0.10182
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0    -2195089.911015            0.0            0.0
+Tax Rate For Calcs                                               0.230917            0.27535       0.254935       0.268646
+Normalized EBITDA                                           10313439000.0      16512118000.0   9619412000.0  10170751000.0
+Total Unusual Items                                                   0.0         -7972000.0            0.0            NaN
+Total Unusual Items Excluding Goodwill                                0.0         -7972000.0            0.0            NaN
+Net Income From Continuing Operation Net Minority Interest   4974908000.0       9081733000.0   4541841000.0   4878868000.0
+Reconciled Depreciation                                      2980240000.0       2862637000.0   2541505000.0   2398802000.0
+Reconciled Cost Of Revenue                                  67991313000.0      72616941000.0  54450541000.0  52495714000.0
+EBITDA                                                      10313439000.0      16504146000.0   9619412000.0  10170751000.0
+EBIT                                                         7333199000.0      13641509000.0   7077907000.0   7771949000.0
+Net Interest Income                                          -129722000.0       -105171000.0   -105823000.0    -79366000.0
+Interest Expense                                              252120000.0        167042000.0    150012000.0    125618000.0
+Interest Income                                               122398000.0         61871000.0     44189000.0     46252000.0
+Normalized Income                                            4974908000.0  9087509910.088985   4541841000.0   4878868000.0
+Net Income From Continuing And Discontinued Operation        4974908000.0       9081733000.0   4541841000.0   4878868000.0
+Total Expenses                                              79183612000.0      84548855000.0  63972699000.0  61890437000.0
+Diluted Average Shares                                        987483000.0        987483000.0    987482720.0    987482720.0
+Basic Average Shares                                          987483000.0        987483000.0    987482720.0    987482720.0
+Diluted EPS                                                          5.04                9.2       4.598214         4.9375
+Basic EPS                                                            5.04                9.2       4.598214         4.9375
+Diluted NI Availto Com Stockholders                          4974908000.0       9081733000.0   4541841000.0   4878868000.0
+Net Income Common Stockholders                               4974908000.0       9081733000.0   4541841000.0   4878868000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0            0.0            0.0
+Net Income                                                   4974908000.0       9081733000.0   4541841000.0   4878868000.0
+Minority Interests                                           -471029000.0       -682540000.0   -619892000.0   -713303000.0
+Net Income Including Noncontrolling Interests                5445937000.0       9764273000.0   5161733000.0   5592171000.0
+Net Income Continuous Operations                             5445937000.0       9764273000.0   5161733000.0   5592171000.0
+Tax Provision                                                1635142000.0       3710194000.0   1766162000.0   2054160000.0
+Pretax Income                                                7081079000.0      13474467000.0   6927895000.0   7646331000.0
+Other Non Operating Income Expenses                           549898000.0       1979123000.0    637563000.0    623478000.0
+Special Income Charges                                                0.0         -7972000.0            0.0            NaN
+Write Off                                                             0.0          7972000.0            0.0            NaN
+Net Non Operating Interest Income Expense                    -129722000.0       -105171000.0   -105823000.0    -79366000.0
+Interest Expense Non Operating                                252120000.0        167042000.0    150012000.0    125618000.0
+Interest Income Non Operating                                 122398000.0         61871000.0     44189000.0     46252000.0
+Operating Income                                             6583652000.0      11354069000.0   6377165000.0   7069301000.0
+Operating Expense                                           11192299000.0      11931914000.0   9522158000.0   9394723000.0
+Research And Development                                     2677760000.0       2929431000.0   2477067000.0   2529048000.0
+Selling General And Administration                           8514539000.0       9002483000.0   7045091000.0   6865675000.0
+General And Administrative Expense                           8514539000.0       9002483000.0   7045091000.0   6865675000.0
+Gross Profit                                                17775951000.0      23285983000.0  15899323000.0  16464024000.0
+Cost Of Revenue                                             67991313000.0      72616941000.0  54450541000.0  52495714000.0
+Total Revenue                                               85767264000.0      95902924000.0  70349864000.0  68959738000.0
+Operating Revenue                                           85767264000.0      95902924000.0  70349864000.0  68959738000.0

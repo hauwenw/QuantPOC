@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 550, Ruiguang Road
+address2	9th Floor Neihu
+city	Taipei
+zip	11492
+country	Taiwan
+phone	886 2 5589 9999
+fax	886 2 5555 7777
+website	https://www.twinhead.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Twinhead International Corp. designs, develops, manufactures, and sells computers, computer components, peripherals, software, ASIC chips, and workstations in Taiwan, the United States, France, Germany, and internationally. The company provides rugged laptops and tablets; mainboards; sells materials and others; trades in computers and computer peripheral equipment; and operates in telecommunication-related business. It also offers partial or full customization services; project management services; manufacturing services, including special features validation, industrial grade specification product verification, flexible production systems, and supply chain management; and certification application services. The company serves government departments, automobile, manufacturing, public safety, utilities/oil and gas, transportation and logistics, military, police, medical, and field service industries. Twinhead International Corp. was incorporated in 1984 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Fred  Kao', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	82.9
+open	83.3
+dayLow	82.4
+dayHigh	83.3
+regularMarketPreviousClose	82.9
+regularMarketOpen	83.3
+regularMarketDayLow	82.4
+regularMarketDayHigh	83.3
+exDividendDate	1662422400	 (2022-09-06 08:00:00)
+beta	-0.395
+trailingPE	23.714285
+volume	47050
+regularMarketVolume	47050
+averageVolume	220259
+averageVolume10days	87604
+averageDailyVolume10Day	87604
+bid	82.8
+ask	83.1
+marketCap	2572916992
+fiftyTwoWeekLow	60.96
+fiftyTwoWeekHigh	160.5
+priceToSalesTrailing12Months	2.380966
+fiftyDayAverage	88.976
+twoHundredDayAverage	99.2707
+currency	TWD
+enterpriseValue	2820377088
+profitMargins	0.1007
+sharesOutstanding	30999000
+heldPercentInsiders	0.55701
+impliedSharesOutstanding	31186200
+bookValue	14.621
+priceToBook	5.6767664
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.761
+netIncomeToCommon	108814000
+trailingEps	3.5
+lastSplitFactor	1250:1000
+lastSplitDate	1697414400	 (2023-10-16 08:00:00)
+enterpriseToRevenue	2.61
+enterpriseToEbitda	29.242
+52WeekChange	-0.052511394
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1662422400	 (2022-09-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2364.TW
+underlyingSymbol	2364.TW
+shortName	TWINHEAD INTERNATIONAL CORP
+longName	Twinhead International Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1c386530-5e73-3b16-b6b3-d52b2d772aef
+messageBoardId	finmb_9898496
+gmtOffSetMilliseconds	28800000
+currentPrice	83.0
+recommendationKey	none
+totalCash	364910016
+totalCashPerShare	11.772
+ebitda	96450000
+totalDebt	637366976
+quickRatio	0.523
+currentRatio	0.862
+totalRevenue	1080619008
+debtToEquity	148.837
+revenuePerShare	34.86
+returnOnAssets	0.03663
+returnOnEquity	0.27425
+freeCashflow	119914872
+operatingCashflow	179527008
+earningsGrowth	0.758
+revenueGrowth	0.086
+grossMargins	0.36716998
+ebitdaMargins	0.08925
+operatingMargins	0.09806
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31   2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     -1156.682321      -883.813674          0.0     18934.745387
+Tax Rate For Calcs                                                  0.060878         0.012448     0.009455         0.021371
+Normalized EBITDA                                                167096000.0      130419000.0   77455000.0       70968000.0
+Total Unusual Items                                                 -19000.0         -71000.0          0.0         886000.0
+Total Unusual Items Excluding Goodwill                              -19000.0         -71000.0          0.0         886000.0
+Net Income From Continuing Operation Net Minority Interest       108816000.0       79598000.0   28182000.0       21387000.0
+Reconciled Depreciation                                           44314000.0       40416000.0   40590000.0       44405000.0
+Reconciled Cost Of Revenue                                       683843000.0      635281000.0  608149000.0      606187000.0
+EBITDA                                                           167077000.0      130348000.0   77455000.0       71854000.0
+EBIT                                                             122763000.0       89932000.0   36865000.0       27449000.0
+Net Interest Income                                               -5916000.0      -10048000.0  -10679000.0      -11434000.0
+Interest Expense                                                  12674000.0       11446000.0   10847000.0       11680000.0
+Interest Income                                                    6758000.0        1398000.0     168000.0         246000.0
+Normalized Income                                           108833843.317679  79668116.186326   28182000.0  20519934.745387
+Net Income From Continuing And Discontinued Operation            108816000.0       79598000.0   28182000.0       21387000.0
+Total Expenses                                                  1008411000.0      912721000.0  858615000.0      862016000.0
+Diluted Average Shares                                                   NaN       31108000.0   31213750.0       31000000.0
+Basic Average Shares                                                     NaN       30999000.0   30998750.0       30998750.0
+Diluted EPS                                                              NaN             2.56        0.904            0.688
+Basic EPS                                                                NaN             2.57        0.912            0.688
+Diluted NI Availto Com Stockholders                              108816000.0       79598000.0   28182000.0       21387000.0
+Net Income Common Stockholders                                   108816000.0       79598000.0   28182000.0       21387000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0          0.0              0.0
+Net Income                                                       108816000.0       79598000.0   28182000.0       21387000.0
+Minority Interests                                                 5429000.0        2089000.0    2410000.0        5955000.0
+Net Income Including Noncontrolling Interests                    103387000.0       77509000.0   25772000.0       15432000.0
+Net Income Continuous Operations                                 103387000.0       77509000.0   25772000.0       15432000.0
+Tax Provision                                                      6702000.0         977000.0     246000.0         337000.0
+Pretax Income                                                    110089000.0       78486000.0   26018000.0       15769000.0
+Other Non Operating Income Expenses                               43816000.0       67189000.0   27419000.0       24974000.0
+Special Income Charges                                              -19000.0         -71000.0          0.0         886000.0
+Write Off                                                            19000.0          71000.0          0.0        -886000.0
+Net Non Operating Interest Income Expense                         -5916000.0      -10048000.0  -10679000.0      -11434000.0
+Interest Expense Non Operating                                    12674000.0       11446000.0   10847000.0       11680000.0
+Interest Income Non Operating                                      6758000.0        1398000.0     168000.0         246000.0
+Operating Income                                                  72208000.0       21416000.0    9278000.0        1343000.0
+Operating Expense                                                324568000.0      277440000.0  250466000.0      255829000.0
+Research And Development                                         103433000.0       89825000.0   76988000.0       86102000.0
+Selling General And Administration                               221135000.0      187615000.0  173478000.0      169727000.0
+Selling And Marketing Expense                                     77681000.0       60965000.0   55712000.0       56639000.0
+General And Administrative Expense                               143454000.0      126650000.0  117766000.0      113088000.0
+Gross Profit                                                     396776000.0      298856000.0  259744000.0      257172000.0
+Cost Of Revenue                                                  683843000.0      635281000.0  608149000.0      606187000.0
+Total Revenue                                                   1080619000.0      934137000.0  867893000.0      863359000.0
+Operating Revenue                                               1080619000.0      934137000.0  867893000.0      863359000.0

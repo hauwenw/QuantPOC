@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 41, Nancun Road
+address2	Dunnan Village Houli District
+city	Taichung
+zip	42127
+country	Taiwan
+phone	886 4 2558 0669
+fax	886 4 2557 4960
+website	https://www.toty.com.tw
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	CHANG TYPE Industrial Co., Ltd. engages in researching, developing, manufacturing, and selling hand tools, electrical and computer machinery, motors, electric tools, automatic control systems, and electrical testing instruments in China and the United States. It is also involved in the manufacturing, processing, and trading of woodworking machinery and hardware parts, as well as the import and export trade of raw materials related to the products. In addition, the company offers miter, scroll, radial arm, and band saw products; and designs molds and fixtures. It serves original equipment manufacturers and original design manufacturers. CHANG TYPE Industrial Co., Ltd. was founded in 1989 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jing Jin  Zhang', 'title': 'Chairman and President', 'fiscalYear': 2013, 'totalPay': 2813000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiu Yue Liu', 'title': 'Executive Vice President and Director', 'fiscalYear': 2013, 'totalPay': 2320000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jin Hua  Zhang', 'title': 'Accounting Supervisor', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1388448000
+maxAge	86400
+priceHint	2
+previousClose	31.6
+open	31.6
+dayLow	31.6
+dayHigh	32.1
+regularMarketPreviousClose	31.6
+regularMarketOpen	31.6
+regularMarketDayLow	31.6
+regularMarketDayHigh	32.1
+dividendRate	1.0
+dividendYield	0.0313
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	0.5495
+fiveYearAvgDividendYield	4.86
+beta	0.806
+trailingPE	17.582417
+forwardPE	6.597938
+volume	18000
+regularMarketVolume	18000
+averageVolume	33591
+averageVolume10days	60674
+averageDailyVolume10Day	60674
+bid	31.85
+ask	32.05
+marketCap	2521600000
+fiftyTwoWeekLow	29.15
+fiftyTwoWeekHigh	40.7
+priceToSalesTrailing12Months	0.7464706
+fiftyDayAverage	32.059
+twoHundredDayAverage	32.146
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.015822785
+currency	TWD
+enterpriseValue	3505818112
+profitMargins	0.0341
+floatShares	42055560
+sharesOutstanding	78800000
+heldPercentInsiders	0.79511
+impliedSharesOutstanding	82247504
+bookValue	24.254
+priceToBook	1.31937
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	115190000
+trailingEps	1.82
+forwardEps	4.85
+lastSplitFactor	1097.756:1000
+lastSplitDate	1283990400	 (2010-09-09 08:00:00)
+enterpriseToRevenue	1.038
+enterpriseToEbitda	10.057
+52WeekChange	-0.058823526
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1541.TW
+underlyingSymbol	1541.TW
+shortName	CHANG TYPE INDUSTRIAL CO
+longName	CHANG TYPE Industrial Co., Ltd.
+firstTradeDateEpochUtc	1048035600	 (2003-03-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	80d0040a-3917-3b3d-925c-cf46929f62fe
+messageBoardId	finmb_11481790
+gmtOffSetMilliseconds	28800000
+currentPrice	32.0
+recommendationKey	none
+totalCash	82560000
+totalCashPerShare	1.048
+ebitda	348608000
+totalDebt	1066777984
+quickRatio	0.975
+currentRatio	1.75
+totalRevenue	3378030080
+debtToEquity	55.818
+revenuePerShare	42.868
+returnOnAssets	0.04697
+returnOnEquity	0.06083
+freeCashflow	218152992
+operatingCashflow	179446000
+revenueGrowth	0.657
+grossMargins	0.19622
+ebitdaMargins	0.103199996
+operatingMargins	0.10922
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -2002702.734319           0.0    -809377.236959    -103575.592399
+Tax Rate For Calcs                                                  0.211994      0.235716          0.193816          0.227139
+Normalized EBITDA                                                292006000.0   495924000.0       463184000.0       667716000.0
+Total Unusual Items                                               -9447000.0           0.0        -4176000.0         -456000.0
+Total Unusual Items Excluding Goodwill                            -9447000.0           0.0        -4176000.0         -456000.0
+Net Income From Continuing Operation Net Minority Interest       115190000.0   272059000.0       299261000.0       456555000.0
+Reconciled Depreciation                                          117501000.0   117488000.0        77057000.0        68833000.0
+Reconciled Cost Of Revenue                                      2715202000.0  3462976000.0      5421816000.0      4205170000.0
+EBITDA                                                           282559000.0   495924000.0       459008000.0       667260000.0
+EBIT                                                             165058000.0   378436000.0       381951000.0       598427000.0
+Net Interest Income                                              -18879000.0   -22470000.0       -10744000.0        -7693000.0
+Interest Expense                                                  18879000.0    22470000.0        10744000.0         7693000.0
+Normalized Income                                           122634297.265681   272059000.0  302627622.763041  456907424.407601
+Net Income From Continuing And Discontinued Operation            115190000.0   272059000.0       299261000.0       456555000.0
+Total Expenses                                                  3083400000.0  3886689000.0      5803835000.0      4586082000.0
+Diluted Average Shares                                            78800000.0    78800000.0        78800000.0        78800000.0
+Basic Average Shares                                              78800000.0    78800000.0        78800000.0        78800000.0
+Diluted EPS                                                             1.46          3.45               3.8              5.79
+Basic EPS                                                               1.46          3.45               3.8              5.79
+Diluted NI Availto Com Stockholders                              115190000.0   272059000.0       299261000.0       456555000.0
+Net Income Common Stockholders                                   115190000.0   272059000.0       299261000.0       456555000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0               0.0
+Net Income                                                       115190000.0   272059000.0       299261000.0       456555000.0
+Net Income Including Noncontrolling Interests                    115190000.0   272059000.0       299261000.0       456555000.0
+Net Income Continuous Operations                                 115190000.0   272059000.0       299261000.0       456555000.0
+Tax Provision                                                     30989000.0    83907000.0        71946000.0       134179000.0
+Pretax Income                                                    146179000.0   355966000.0       371207000.0       590734000.0
+Other Non Operating Income Expenses                             -120125000.0   207678000.0       -12985000.0       -86980000.0
+Special Income Charges                                            -9447000.0           0.0        -4176000.0         -456000.0
+Write Off                                                          9447000.0           0.0         4176000.0          456000.0
+Net Non Operating Interest Income Expense                        -18879000.0   -22470000.0       -10744000.0        -7693000.0
+Interest Expense Non Operating                                    18879000.0    22470000.0        10744000.0         7693000.0
+Operating Income                                                 294630000.0   170758000.0       399112000.0       685863000.0
+Operating Expense                                                368198000.0   423713000.0       382019000.0       380912000.0
+Research And Development                                          17508000.0    22451000.0        27022000.0        41615000.0
+Selling General And Administration                               350690000.0   401262000.0       354997000.0       339297000.0
+Selling And Marketing Expense                                    230273000.0   222893000.0       233408000.0       225049000.0
+General And Administrative Expense                               120417000.0   178369000.0       121589000.0       114248000.0
+Gross Profit                                                     662828000.0   594471000.0       781131000.0      1066775000.0
+Cost Of Revenue                                                 2715202000.0  3462976000.0      5421816000.0      4205170000.0
+Total Revenue                                                   3378030000.0  4057447000.0      6202947000.0      5271945000.0
+Operating Revenue                                               3378030000.0  4057447000.0      6202947000.0      5271945000.0

@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre
+address2	Oleander Way 802 West Bay Road PO Box 32052
+city	Grand Cayman
+zip	1208
+country	Cayman Islands
+website	https://www.apex-intl.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Apex International Co., Ltd. manufactures, processes, trades, and sells printed circuit boards in Singapore, Thailand, Vietnam, Korea, and internationally. The company provides single-sided, double-sided, and multi-layer printed circuit boards used in hard disks, satellite communications equipment, and multimedia equipment for automobiles. It also offers printed circuit boards for use in home appliances, such as DVD, LCD TV, and recreation appliances; PC related products, including HDD and printer; set-top-box, router, telephone, and tuner; and auto parts comprising car audio and navigator. The company was founded in 2001 and is based in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shu-Mu  Wang', 'age': 63, 'title': 'Chairman & Chief Strategy Officer', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jui-Hsiang  Chou', 'age': 63, 'title': 'CEO,GM, Chief Sustainability Officer & Director', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin Wang Yang', 'title': 'Senior Manager & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Roger  Liu', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jiun-Ting  Lin', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Du Chuan Chen', 'title': 'CTO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Yuan  Cheng', 'age': 64, 'title': 'Executive VP & Director', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sen-Tien  Wu', 'age': 53, 'title': 'VP,Chief Strategy Officer & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shun-Chung  Lee', 'age': 53, 'title': 'Chief Business Officer & Director', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shou-Hua  Hsu', 'title': 'C.E.S', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	41.7
+open	41.8
+dayLow	40.7
+dayHigh	41.8
+regularMarketPreviousClose	41.7
+regularMarketOpen	41.8
+regularMarketDayLow	40.7
+regularMarketDayHigh	41.8
+dividendRate	2.0
+dividendYield	0.048899997
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	2.0833
+fiveYearAvgDividendYield	5.63
+beta	0.819
+forwardPE	5.1061172
+volume	579522
+regularMarketVolume	579522
+averageVolume	755429
+averageVolume10days	532953
+averageDailyVolume10Day	532953
+bid	40.9
+ask	40.95
+marketCap	7768464384
+fiftyTwoWeekLow	37.65
+fiftyTwoWeekHigh	71.6
+priceToSalesTrailing12Months	0.61516553
+fiftyDayAverage	41.138
+twoHundredDayAverage	49.44725
+currency	TWD
+enterpriseValue	15489197056
+profitMargins	-0.06311
+floatShares	175696438
+sharesOutstanding	189938000
+heldPercentInsiders	0.28478
+heldPercentInstitutions	0.19473
+impliedSharesOutstanding	191634000
+bookValue	36.349
+priceToBook	1.125203
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-796944000
+trailingEps	-4.2
+forwardEps	8.01
+lastSplitFactor	1032:1000
+lastSplitDate	1500508800	 (2017-07-20 08:00:00)
+enterpriseToRevenue	1.227
+enterpriseToEbitda	23.272
+52WeekChange	-0.2643885
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4927.TW
+underlyingSymbol	4927.TW
+shortName	APEX INTERNATIONAL CO LTD
+longName	Apex International Co., Ltd.
+firstTradeDateEpochUtc	1318899600	 (2011-10-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	83579534-b26f-32c8-b5c5-5be7242204db
+messageBoardId	finmb_85139365
+gmtOffSetMilliseconds	28800000
+currentPrice	40.9
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	665449984
+totalCashPerShare	3.504
+ebitda	665580992
+totalDebt	8355307008
+quickRatio	0.508
+currentRatio	0.817
+totalRevenue	12628250624
+debtToEquity	120.482
+revenuePerShare	66.486
+returnOnAssets	-0.01983
+returnOnEquity	-0.1069
+freeCashflow	527774240
+operatingCashflow	2098776064
+revenueGrowth	-0.141
+grossMargins	0.08144
+ebitdaMargins	0.05271
+operatingMargins	-0.096190006
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    312412.168713   -3317007.38231    -1574843.856805      370878.695576
+Tax Rate For Calcs                                                   0.00702         0.071139           0.036313           0.028193
+Normalized EBITDA                                                772373000.0     2241117000.0       2348776000.0       2025722000.0
+Total Unusual Items                                               44506000.0      -46627000.0        -43369000.0         13155000.0
+Total Unusual Items Excluding Goodwill                            44506000.0      -46627000.0        -43369000.0         13155000.0
+Net Income From Continuing Operation Net Minority Interest      -796944000.0      874482000.0       1377897000.0       1198609000.0
+Reconciled Depreciation                                         1341894000.0     1087180000.0        824132000.0        761518000.0
+Reconciled Cost Of Revenue                                     11599833000.0    12076878000.0      11681718000.0       9325012000.0
+EBITDA                                                           816879000.0     2194490000.0       2305407000.0       2038877000.0
+EBIT                                                            -525015000.0     1107310000.0       1481275000.0       1277359000.0
+Net Interest Income                                             -277468000.0     -160078000.0        -44722000.0        -37209000.0
+Interest Expense                                                 280592000.0      161671000.0         45247000.0         38682000.0
+Interest Income                                                    3124000.0        1593000.0           525000.0          1473000.0
+Normalized Income                                          -841137587.831287  917791992.61769  1419691156.143195  1185824878.695576
+Net Income From Continuing And Discontinued Operation           -796944000.0      874482000.0       1377897000.0       1198609000.0
+Total Expenses                                                 13277259000.0    13848274000.0      13279906000.0      10651557000.0
+Diluted Average Shares                                                   NaN      189938000.0        189938000.0        189938000.0
+Basic Average Shares                                                     NaN      189938000.0        189938000.0        189819000.0
+Diluted EPS                                                              NaN              4.6               7.25               6.31
+Basic EPS                                                                NaN              4.6               7.25               6.31
+Diluted NI Availto Com Stockholders                             -796944000.0      874482000.0       1377897000.0       1198609000.0
+Net Income Common Stockholders                                  -796944000.0      874482000.0       1377897000.0       1198609000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0                0.0                0.0
+Net Income                                                      -796944000.0      874482000.0       1377897000.0       1198609000.0
+Minority Interests                                                 3008000.0       -3885000.0         -5985000.0         -5146000.0
+Net Income Including Noncontrolling Interests                   -799952000.0      878367000.0       1383882000.0       1203755000.0
+Net Income Continuous Operations                                -799952000.0      878367000.0       1383882000.0       1203755000.0
+Tax Provision                                                     -5655000.0       67272000.0         52146000.0         34922000.0
+Pretax Income                                                   -805607000.0      945639000.0       1436028000.0       1238677000.0
+Other Non Operating Income Expenses                               76363000.0       94393000.0          3342000.0         81775000.0
+Special Income Charges                                            44506000.0      -46627000.0        -43369000.0         13155000.0
+Write Off                                                        -44506000.0       46627000.0         43369000.0        -13155000.0
+Net Non Operating Interest Income Expense                       -277468000.0     -160078000.0        -44722000.0        -37209000.0
+Interest Expense Non Operating                                   280592000.0      161671000.0         45247000.0         38682000.0
+Interest Income Non Operating                                      3124000.0        1593000.0           525000.0          1473000.0
+Operating Income                                                -649008000.0     1057951000.0       1520777000.0       1180956000.0
+Operating Expense                                               1677426000.0     1771396000.0       1598188000.0       1326545000.0
+Research And Development                                          57095000.0       53600000.0         45440000.0         35150000.0
+Selling General And Administration                              1620331000.0     1717796000.0       1552748000.0       1291395000.0
+Selling And Marketing Expense                                    845964000.0      975651000.0        797226000.0        715014000.0
+General And Administrative Expense                               774367000.0      742145000.0        755522000.0        576381000.0
+Gross Profit                                                    1028418000.0     2829347000.0       3118965000.0       2507501000.0
+Cost Of Revenue                                                11599833000.0    12076878000.0      11681718000.0       9325012000.0
+Total Revenue                                                  12628251000.0    14906225000.0      14800683000.0      11832513000.0
+Operating Revenue                                              12628251000.0    14906225000.0      14800683000.0      11832513000.0

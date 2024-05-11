@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 246 NeiHu Road
+address2	6F Sec. 1
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8752 2000
+fax	886 2 8751 1001
+website	https://www.alitech.com/index.php/en/
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	ALi Corporation engages in the research, development, design, and sale of chipsets for consumer electronic products in Hong Kong, Mainland China, Korea, Taiwan, France, Singapore, and internationally. It develops and sells set-top box (STB) system-on-chips. The company's products include mirror dongles, Pico projectors, robot vacuum cleaners, and various home appliances with voice control. It provides its STB solutions for digital satellite, digital cable, and digital terrestrial STB, as well as H.264 HD or SD STB applications; smart display solution to HDMI dongle and Pico projector; smart mobile robot, including consumer robots and commercial service robots; human machine interfaces; and smart speakers and voice controllers. The company was formerly known as Acer Laboratories, Inc. and changed its name to ALi Corporation in 2002. ALi Corporation was founded in 1987 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hou-Yi  Liang', 'title': 'Chairman of Strategic Development Office & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ca-Shew  Chen', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chin  Wu', 'title': 'Co-founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chia-Hsin  Tsai', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.7
+open	20.55
+dayLow	19.5
+dayHigh	20.55
+regularMarketPreviousClose	20.7
+regularMarketOpen	20.55
+regularMarketDayLow	19.5
+regularMarketDayHigh	20.55
+exDividendDate	1437609600	 (2015-07-23 08:00:00)
+fiveYearAvgDividendYield	6.5
+beta	1.283
+forwardPE	20.773195
+volume	3109364
+regularMarketVolume	3109364
+averageVolume	7349690
+averageVolume10days	1902894
+averageDailyVolume10Day	1902894
+bid	20.15
+ask	20.2
+marketCap	3906782464
+fiftyTwoWeekLow	16.75
+fiftyTwoWeekHigh	35.45
+priceToSalesTrailing12Months	2.7022457
+fiftyDayAverage	24.479
+twoHundredDayAverage	24.622
+currency	TWD
+enterpriseValue	3201358080
+profitMargins	-1.16998
+sharesOutstanding	193884992
+heldPercentInsiders	0.02957
+heldPercentInstitutions	0.050219998
+impliedSharesOutstanding	193884992
+bookValue	8.293
+priceToBook	2.42976
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-1691508992
+trailingEps	-8.81
+forwardEps	0.97
+lastSplitFactor	636.3035:1000
+lastSplitDate	1571875200	 (2019-10-24 08:00:00)
+enterpriseToRevenue	2.214
+enterpriseToEbitda	-5.139
+52WeekChange	0.1163435
+SandP52WeekChange	0.26265144
+lastDividendValue	1.241696
+lastDividendDate	1437609600	 (2015-07-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3041.TW
+underlyingSymbol	3041.TW
+shortName	ALI CORPORATION
+longName	ALi Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	77e61f8d-521a-3b48-a56c-ec489f08ec0c
+messageBoardId	finmb_7603787
+gmtOffSetMilliseconds	28800000
+currentPrice	20.15
+recommendationMean	2.5
+recommendationKey	buy
+totalCash	820278016
+totalCashPerShare	4.244
+ebitda	-622915008
+totalDebt	125903000
+quickRatio	1.147
+currentRatio	1.572
+totalRevenue	1445753984
+debtToEquity	7.85
+revenuePerShare	7.481
+returnOnAssets	-0.12951
+returnOnEquity	-0.69454
+freeCashflow	204563376
+operatingCashflow	-469161984
+revenueGrowth	-0.316
+grossMargins	0.21110001
+ebitdaMargins	-0.43085998
+operatingMargins	-0.26665002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -6001600.0    -6821800.0       44400.0    2314078.932354
+Tax Rate For Calcs                                                   0.2           0.2           0.2          0.186514
+Normalized EBITDA                                          -1093876000.0   171625000.0    60958000.0      -176864000.0
+Total Unusual Items                                          -30008000.0   -34109000.0      222000.0        12407000.0
+Total Unusual Items Excluding Goodwill                       -30008000.0   -34109000.0      222000.0        12407000.0
+Net Income From Continuing Operation Net Minority Interest -1691509000.0    14157000.0   -90421000.0      -238851000.0
+Reconciled Depreciation                                       90007000.0   103126000.0   139605000.0       131144000.0
+Reconciled Cost Of Revenue                                  1140555000.0  1614755000.0  1748026000.0      1413905000.0
+EBITDA                                                     -1123884000.0   137516000.0    61180000.0      -164457000.0
+EBIT                                                       -1213891000.0    34390000.0   -78425000.0      -295601000.0
+Net Interest Income                                           10686000.0    13862000.0     5827000.0         9487000.0
+Interest Expense                                               1436000.0      476000.0      851000.0          602000.0
+Interest Income                                               12122000.0    14338000.0     6678000.0        10089000.0
+Normalized Income                                          -1667502600.0    41444200.0   -90598600.0 -248943921.067646
+Net Income From Continuing And Discontinued Operation      -1691509000.0    14157000.0   -90421000.0      -238851000.0
+Total Expenses                                              2069063000.0  2520698000.0  2908686000.0      2439374000.0
+Diluted Average Shares                                       193267000.0   194026000.0   190397000.0       188963000.0
+Basic Average Shares                                         193267000.0   192247000.0   190397000.0       188963000.0
+Diluted EPS                                                        -8.75          0.07         -0.47             -1.26
+Basic EPS                                                          -8.75          0.07         -0.47             -1.26
+Diluted NI Availto Com Stockholders                        -1691509000.0    14157000.0   -90421000.0      -238851000.0
+Net Income Common Stockholders                             -1691509000.0    14157000.0   -90421000.0      -238851000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                 -1691509000.0    14157000.0   -90421000.0      -238851000.0
+Minority Interests                                              -74000.0    -2512000.0     -771000.0         2106000.0
+Net Income Including Noncontrolling Interests              -1691435000.0    16669000.0   -89650000.0      -240957000.0
+Net Income Continuous Operations                           -1691435000.0    16669000.0   -89650000.0      -240957000.0
+Tax Provision                                                476108000.0    17245000.0    10374000.0       -55246000.0
+Pretax Income                                              -1215327000.0    33914000.0   -79276000.0      -296203000.0
+Other Non Operating Income Expenses                         -489887000.0    58216000.0     7937000.0        49613000.0
+Special Income Charges                                       -30008000.0   -34109000.0      222000.0        12407000.0
+Other Special Charges                                                NaN           NaN           NaN         -407000.0
+Write Off                                                     30008000.0    34109000.0     -222000.0       -12407000.0
+Net Non Operating Interest Income Expense                     10686000.0    13862000.0     5827000.0         9487000.0
+Interest Expense Non Operating                                 1436000.0      476000.0      851000.0          602000.0
+Interest Income Non Operating                                 12122000.0    14338000.0     6678000.0        10089000.0
+Operating Income                                            -623309000.0   130371000.0   -93312000.0      -367759000.0
+Operating Expense                                            928508000.0   905943000.0  1160660000.0      1025469000.0
+Research And Development                                     712294000.0   635608000.0   844569000.0       714317000.0
+Selling General And Administration                           216214000.0   270335000.0   316091000.0       311152000.0
+Selling And Marketing Expense                                 45470000.0    79171000.0    98447000.0        94086000.0
+General And Administrative Expense                           170744000.0   191164000.0   217644000.0       217066000.0
+Gross Profit                                                 305199000.0  1036314000.0  1067348000.0       657710000.0
+Cost Of Revenue                                             1140555000.0  1614755000.0  1748026000.0      1413905000.0
+Total Revenue                                               1445754000.0  2651069000.0  2815374000.0      2071615000.0
+Operating Revenue                                           1445754000.0  2651069000.0  2815374000.0      2071615000.0

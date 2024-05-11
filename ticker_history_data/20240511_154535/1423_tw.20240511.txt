@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	310, Chung Hsiao East Road
+address2	12th Floor Sec.4
+city	Taipei
+country	Taiwan
+phone	886 2 2781 1161
+fax	886 2 2752 1193
+website	https://www.reward.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Reward Wool Industry Corporation engages in the production and sale of wool products in Taiwan. It offers wool tops, special processing tops, and other products. The company was incorporated in 1964 and is based in Taipei, Taiwan.
+fullTimeEmployees	52
+maxAge	86400
+priceHint	2
+previousClose	31.9
+open	31.9
+dayLow	31.8
+dayHigh	33.35
+regularMarketPreviousClose	31.9
+regularMarketOpen	31.9
+regularMarketDayLow	31.8
+regularMarketDayHigh	33.35
+dividendRate	3.08
+dividendYield	0.0941
+exDividendDate	1697068800	 (2023-10-12 08:00:00)
+payoutRatio	8.0994
+beta	0.268
+trailingPE	86.052635
+volume	350360
+regularMarketVolume	350360
+averageVolume	81853
+averageVolume10days	220628
+averageDailyVolume10Day	220628
+bid	32.5
+ask	32.7
+marketCap	3258489600
+fiftyTwoWeekLow	29.2
+fiftyTwoWeekHigh	34.09722
+priceToSalesTrailing12Months	26.238995
+fiftyDayAverage	31.209
+twoHundredDayAverage	31.487833
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.018808778
+currency	TWD
+enterpriseValue	2560383488
+profitMargins	0.56797004
+sharesOutstanding	99648000
+heldPercentInsiders	0.65663004
+impliedSharesOutstanding	99648000
+bookValue	28.723
+priceToBook	1.1384605
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	70533000
+trailingEps	0.38
+lastSplitFactor	720:1000
+lastSplitDate	1697068800	 (2023-10-12 08:00:00)
+enterpriseToRevenue	20.617
+enterpriseToEbitda	-41.29
+52WeekChange	0.021431684
+SandP52WeekChange	0.26265144
+lastDividendValue	2.8
+lastDividendDate	1697068800	 (2023-10-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1423.TW
+underlyingSymbol	1423.TW
+shortName	REWARD WOOL
+longName	Reward Wool Industry Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8e22ab45-5e5b-31b8-a6c3-8469014db160
+messageBoardId	finmb_9755101
+gmtOffSetMilliseconds	28800000
+currentPrice	32.7
+recommendationKey	none
+totalCash	698105984
+totalCashPerShare	7.006
+ebitda	-62010000
+quickRatio	13.029
+currentRatio	17.052
+totalRevenue	124185000
+revenuePerShare	1.004
+returnOnAssets	-0.01367
+returnOnEquity	0.02388
+freeCashflow	24270876
+operatingCashflow	149338000
+revenueGrowth	-0.171
+grossMargins	-0.31359
+ebitdaMargins	-0.49933997
+operatingMargins	-0.25928
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                    18834.504875     -3462.198001     -10897.102058          0.0
+Tax Rate For Calcs                                                 0.238411         0.138488          0.201798     0.125452
+Normalized EBITDA                                               102539000.0       94904000.0       203236000.0  417856000.0
+Total Unusual Items                                                 79000.0         -25000.0          -54000.0          0.0
+Total Unusual Items Excluding Goodwill                              79000.0         -25000.0          -54000.0          0.0
+Net Income From Continuing Operation Net Minority Interest       70533000.0       73350000.0       153942000.0  354023000.0
+Reconciled Depreciation                                           9910000.0        9695000.0        10260000.0   13014000.0
+Reconciled Cost Of Revenue                                      163128000.0      177375000.0       218753000.0  349979000.0
+EBITDA                                                          102618000.0       94879000.0       203182000.0  417856000.0
+EBIT                                                             92708000.0       85184000.0       192922000.0  404842000.0
+Net Interest Income                                              22304000.0        5678000.0         1680000.0    2291000.0
+Interest Expense                                                    95000.0          43000.0           61000.0      35000.0
+Interest Income                                                  22399000.0        5721000.0         1741000.0    2326000.0
+Normalized Income                                           70472834.504875  73371537.801999  153985102.897942  354023000.0
+Net Income From Continuing And Discontinued Operation            70533000.0       73350000.0       153942000.0  354023000.0
+Total Expenses                                                  194974000.0      212315000.0       256296000.0  400109000.0
+Diluted Average Shares                                                  NaN       99840000.0       100496880.0  100352976.0
+Basic Average Shares                                                    NaN       99648000.0        99648000.0   99568969.0
+Diluted EPS                                                             NaN             0.53          1.527778     3.527778
+Basic EPS                                                               NaN             0.53          1.541667     3.555556
+Diluted NI Availto Com Stockholders                              70533000.0       73350000.0       153942000.0  354023000.0
+Net Income Common Stockholders                                   70533000.0       73350000.0       153942000.0  354023000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0               0.0          0.0
+Net Income                                                       70533000.0       73350000.0       153942000.0  354023000.0
+Net Income Including Noncontrolling Interests                    70533000.0       73350000.0       153942000.0  354023000.0
+Net Income Continuous Operations                                 70533000.0       73350000.0       153942000.0  354023000.0
+Tax Provision                                                    22080000.0       11791000.0        38919000.0   50784000.0
+Pretax Income                                                    92613000.0       85141000.0       192861000.0  404807000.0
+Other Non Operating Income Expenses                             141539000.0      105363000.0        41761000.0   38196000.0
+Special Income Charges                                              79000.0         -25000.0          -54000.0          0.0
+Write Off                                                          -79000.0          25000.0           54000.0          0.0
+Net Non Operating Interest Income Expense                        22304000.0        5678000.0         1680000.0    2291000.0
+Interest Expense Non Operating                                      95000.0          43000.0           61000.0      35000.0
+Interest Income Non Operating                                    22399000.0        5721000.0         1741000.0    2326000.0
+Operating Income                                                -70789000.0      -36373000.0       -66151000.0 -197386000.0
+Operating Expense                                                31846000.0       34940000.0        37543000.0   50130000.0
+Selling General And Administration                               31846000.0       34940000.0        37543000.0   50130000.0
+Selling And Marketing Expense                                     3623000.0        7334000.0         5320000.0    5177000.0
+General And Administrative Expense                               28223000.0       27606000.0        32223000.0   44953000.0
+Gross Profit                                                    -38943000.0       -1433000.0       -28608000.0 -147256000.0
+Cost Of Revenue                                                 163128000.0      177375000.0       218753000.0  349979000.0
+Total Revenue                                                   124185000.0      175942000.0       190145000.0  202723000.0
+Operating Revenue                                               124185000.0      175942000.0       190145000.0  202723000.0

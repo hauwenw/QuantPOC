@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No.607, Ruiguang Road
+address2	7th Floor Neihu District
+city	Taipei City
+zip	114
+country	Taiwan
+phone	886 2 2657 5859
+fax	886 2 8797 8898
+website	https://www.yijinn.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Yi Jinn Industrial Co., Ltd. engages in the research and development, production, and sale of polyester textured yarns in Taiwan, rest of Asia, America, Europe, and Africa. It operates in three segments: Textile, Leasing, and General. The Textile segment processes and trades in various artificial and natural fibre, as well as textile products. The Leasing segment engages in real estate sales and leasing business. The General segment is involved in the import and export business of textile products; investment in various securities; and real estate development. The company was incorporated in 1981 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Mao-Cheng  Weng', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 3252000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Heng-Chia  Chang', 'title': 'Deputy General Manager', 'fiscalYear': 2021, 'totalPay': 1186000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	22.35
+open	22.5
+dayLow	22.3
+dayHigh	22.95
+regularMarketPreviousClose	22.35
+regularMarketOpen	22.5
+regularMarketDayLow	22.3
+regularMarketDayHigh	22.95
+dividendRate	1.0
+dividendYield	0.044299997
+exDividendDate	1711584000	 (2024-03-28 08:00:00)
+payoutRatio	0.39220002
+fiveYearAvgDividendYield	6.2
+beta	0.399
+trailingPE	8.843137
+forwardPE	41.759254
+volume	1229760
+regularMarketVolume	1229760
+averageVolume	1590950
+averageVolume10days	3775525
+averageDailyVolume10Day	3775525
+bid	22.5
+ask	22.6
+marketCap	5015097344
+fiftyTwoWeekLow	17.15
+fiftyTwoWeekHigh	26.4
+priceToSalesTrailing12Months	1.6070656
+fiftyDayAverage	20.758
+twoHundredDayAverage	18.68075
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.04474273
+currency	TWD
+enterpriseValue	17813639168
+profitMargins	0.18173
+floatShares	193082364
+sharesOutstanding	222399008
+heldPercentInsiders	0.50049996
+heldPercentInstitutions	0.01276
+impliedSharesOutstanding	230460000
+bookValue	24.738
+priceToBook	0.911553
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	45.55
+netIncomeToCommon	567120000
+trailingEps	2.55
+forwardEps	0.54
+lastSplitFactor	1039.432:1000
+lastSplitDate	1411516800	 (2014-09-24 08:00:00)
+enterpriseToRevenue	5.708
+enterpriseToEbitda	91.457
+52WeekChange	0.21236563
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1711584000	 (2024-03-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1457.TW
+underlyingSymbol	1457.TW
+shortName	YI JINN INDUSTRIAL CO
+longName	Yi Jinn Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a055bd7e-3ec9-3d18-a417-78b76e6d4a93
+messageBoardId	finmb_9870742
+gmtOffSetMilliseconds	28800000
+currentPrice	22.55
+recommendationKey	none
+totalCash	1226788992
+totalCashPerShare	5.516
+ebitda	194776000
+totalDebt	9929867264
+quickRatio	1.344
+currentRatio	1.562
+totalRevenue	3120655104
+debtToEquity	103.468
+revenuePerShare	14.032
+returnOnAssets	-0.00014999999
+returnOnEquity	0.116009995
+freeCashflow	-1446606464
+operatingCashflow	360755008
+earningsGrowth	46.675
+revenueGrowth	-0.111
+grossMargins	0.06644
+ebitdaMargins	0.06242
+operatingMargins	-0.02026
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31         2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0        4239.746747           0.0           0.0
+Tax Rate For Calcs                                              0.160218           0.058079      0.077021      0.219633
+Normalized EBITDA                                           1698989000.0       2492775000.0   696663000.0  1083452000.0
+Total Unusual Items                                                  0.0            73000.0           0.0           0.0
+Total Unusual Items Excluding Goodwill                               0.0            73000.0           0.0           0.0
+Net Income From Continuing Operation Net Minority Interest   567120000.0       1013957000.0   200603000.0   719892000.0
+Reconciled Depreciation                                      199546000.0        179908000.0   174754000.0   144412000.0
+Reconciled Cost Of Revenue                                  2913324000.0       3762208000.0  3590229000.0  2501874000.0
+EBITDA                                                      1698989000.0       2492848000.0   696663000.0  1083452000.0
+EBIT                                                        1499443000.0       2312940000.0   521909000.0   939040000.0
+Net Interest Income                                         -211375000.0       -157201000.0  -124772000.0  -127378000.0
+Interest Expense                                             212674000.0        157624000.0   125224000.0   128753000.0
+Interest Income                                                1299000.0           423000.0      452000.0     1375000.0
+Normalized Income                                            567120000.0  1013888239.746747   200603000.0   719892000.0
+Net Income From Continuing And Discontinued Operation        567120000.0       1013957000.0   200603000.0   644257000.0
+Total Expenses                                              1703802000.0       2021256000.0  3816152000.0  1801884000.0
+Diluted Average Shares                                               NaN        223382000.0   223295000.0   223642000.0
+Basic Average Shares                                                 NaN        223083000.0   223170000.0   223209000.0
+Diluted EPS                                                          NaN               4.54           0.9          2.88
+Basic EPS                                                            NaN               4.55           0.9          2.89
+Diluted NI Availto Com Stockholders                          567120000.0       1013957000.0   200603000.0   644257000.0
+Net Income Common Stockholders                               567120000.0       1013957000.0   200603000.0   644257000.0
+Otherunder Preferred Stock Dividend                                  0.0                0.0           0.0           0.0
+Net Income                                                   567120000.0       1013957000.0   200603000.0   644257000.0
+Minority Interests                                          -513486000.0      -1016181000.0  -165529000.0    87571000.0
+Net Income Including Noncontrolling Interests               1080606000.0       2030138000.0   366132000.0   556686000.0
+Net Income Discontinuous Operations                                  NaN                NaN           0.0   -75635000.0
+Net Income Continuous Operations                            1080606000.0       2030138000.0   366132000.0   632321000.0
+Tax Provision                                                206163000.0        125178000.0    30553000.0   177966000.0
+Pretax Income                                               1286769000.0       2155316000.0   396685000.0   810287000.0
+Other Non Operating Income Expenses                           81154000.0         -1668000.0   191326000.0    33668000.0
+Special Income Charges                                               0.0            73000.0           0.0           0.0
+Write Off                                                            0.0           -73000.0           0.0           0.0
+Net Non Operating Interest Income Expense                   -211375000.0       -157201000.0  -124772000.0  -127378000.0
+Interest Expense Non Operating                               212674000.0        157624000.0   125224000.0   128753000.0
+Interest Income Non Operating                                  1299000.0           423000.0      452000.0     1375000.0
+Operating Income                                            1416853000.0       2314126000.0   330027000.0   905331000.0
+Operating Expense                                          -1209522000.0      -1740952000.0   225923000.0  -699990000.0
+Other Operating Expenses                                   -1421623000.0      -2004729000.0           NaN  -921898000.0
+Selling General And Administration                           212101000.0        263777000.0   225923000.0   221908000.0
+Selling And Marketing Expense                                 82893000.0        135982000.0   129539000.0   112196000.0
+General And Administrative Expense                           129208000.0        127795000.0    96384000.0   109712000.0
+Gross Profit                                                 207331000.0        573174000.0   555950000.0   205341000.0
+Cost Of Revenue                                             2913324000.0       3762208000.0  3590229000.0  2501874000.0
+Total Revenue                                               3120655000.0       4335382000.0  4146179000.0  2707215000.0
+Operating Revenue                                           3120655000.0       4335382000.0  4146179000.0  2707215000.0

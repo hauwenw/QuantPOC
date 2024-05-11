@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No.15, Xinshu Road
+address2	Lane 315 XinZhuang District
+city	New Taipei City
+zip	242
+country	Taiwan
+phone	886 2 2208 0151
+website	https://www.eurocharm.com.tw
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Eurocharm Holdings Co., Ltd. manufactures and sells motorcycle and auto equipment parts, medical equipment, and machine parts in Taiwan, Vietnam, and internationally. It offers motorcycle parts, including rail RR grabs, carrier luggage, swing arm RR, clutch center subs, clutch plates, arm pillion steps, step assy pillions, crank cases, and engine blocks; bodywork left, ABS front fone wheel, bodywork left-right, chassis, wind shield, left right hand body side, fuel tank panel, gear fine blanking, retainer kick spring, fin, spring seat, outer assy, seat catch comp, hinge fuel lid, arm and cam RR brake, joint, and rim products; and motorcycle frames, trailing arm welds, rear frames, main pipe comps, pipe main comps, pipe L floor comps, pipe R LWR sub frame comps, handle comps, pedal comp brakes, pedal gear changes, carrier fronts, side stands, metal comp fuel fillers, pipe comp air feeds, steering columns, pipe assy RR grips, link assy ENG hangers, stay FR covers, plate comp pivot comp-1, and stand comp mains. The company also provides automotive parts, such as chassis frame assy, side steps, hunger seat assy, BKT sub assy fuel tanks, BKT sub assy under engines, frame FR seat cushion sides, frame sub assy FR seat cushions, panel RR seat backs, and RFT sub assy frame FR bumpers; and recreational vehicle parts comprising swing arms, lower and upper arms, weld-FTAs, foot controls, seat rails, bumpers, and hoop-rolls. In addition, it offers medical and healthcare equipment, including medical beds, patient lifters, and shower chairs, as well as assembling services. The company was founded in 1974 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Min-Hui  Yu', 'title': 'Chairman & GM', 'fiscalYear': 2021, 'totalPay': 5588000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Chang  Yu', 'title': 'Executive Assistant & Director', 'fiscalYear': 2021, 'totalPay': 4760000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Yuan  Yu', 'title': 'Executive Assistant & Director', 'fiscalYear': 2021, 'totalPay': 5050000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Chan', 'title': 'Deputy GM, Chief Accountant and VP of Administration & Finance', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cina-Jin  Zhan', 'title': 'Deputy General Manager of Product & Technology', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Tong  Lin', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	190.0
+open	192.5
+dayLow	192.5
+dayHigh	198.0
+regularMarketPreviousClose	190.0
+regularMarketOpen	192.5
+regularMarketDayLow	192.5
+regularMarketDayHigh	198.0
+dividendRate	7.06
+dividendYield	0.0365
+exDividendDate	1691712000	 (2023-08-11 08:00:00)
+payoutRatio	0.4614
+fiveYearAvgDividendYield	3.59
+beta	0.61
+trailingPE	12.786135
+forwardPE	11.268011
+volume	108091
+regularMarketVolume	108091
+averageVolume	65555
+averageVolume10days	49203
+averageDailyVolume10Day	49203
+bid	194.5
+ask	195.5
+marketCap	13036331008
+fiftyTwoWeekLow	165.0
+fiftyTwoWeekHigh	204.0
+priceToSalesTrailing12Months	1.7938275
+fiftyDayAverage	190.41
+twoHundredDayAverage	179.105
+trailingAnnualDividendRate	7.8
+trailingAnnualDividendYield	0.041052632
+currency	TWD
+enterpriseValue	12278132736
+profitMargins	0.14212
+floatShares	27477226
+sharesOutstanding	66682000
+heldPercentInsiders	0.67739
+heldPercentInstitutions	0.090179995
+impliedSharesOutstanding	66853900
+bookValue	75.458
+priceToBook	2.5908453
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.017
+netIncomeToCommon	1032844992
+trailingEps	15.29
+forwardEps	17.35
+enterpriseToRevenue	1.689
+enterpriseToEbitda	9.104
+52WeekChange	0.071232915
+SandP52WeekChange	0.26265144
+lastDividendValue	7.055131
+lastDividendDate	1691712000	 (2023-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5288.TW
+underlyingSymbol	5288.TW
+shortName	EUROCHARM HOLDINGS CO LTD(TW)
+longName	Eurocharm Holdings Co., Ltd.
+firstTradeDateEpochUtc	1411606800	 (2014-09-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cad00f6e-fb11-3e75-88a7-d5e95af94646
+messageBoardId	finmb_263689618
+gmtOffSetMilliseconds	28800000
+currentPrice	195.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1357037952
+totalCashPerShare	20.415
+ebitda	1348696960
+totalDebt	757145024
+quickRatio	1.848
+currentRatio	2.505
+totalRevenue	7267326976
+debtToEquity	15.048
+revenuePerShare	109.768
+returnOnAssets	0.09333
+returnOnEquity	0.21767999
+freeCashflow	1406729856
+operatingCashflow	2052950016
+earningsGrowth	-0.018
+revenueGrowth	-0.165
+grossMargins	0.20951
+ebitdaMargins	0.18558
+operatingMargins	0.14497
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -2355521.081805   -4321775.766317           0.0    -657608.518982
+Tax Rate For Calcs                                                   0.178125          0.168694      0.172793          0.230174
+Normalized EBITDA                                                1621364000.0      1474395000.0   937878000.0       902945000.0
+Total Unusual Items                                               -13224000.0       -25619000.0           0.0        -2857000.0
+Total Unusual Items Excluding Goodwill                            -13224000.0       -25619000.0           0.0        -2857000.0
+Net Income From Continuing Operation Net Minority Interest       1032845000.0       941354000.0   627513000.0       553202000.0
+Reconciled Depreciation                                           287385000.0       270613000.0   164349000.0       164395000.0
+Reconciled Cost Of Revenue                                       5744734000.0      6478423000.0  4662448000.0      3751757000.0
+EBITDA                                                           1608140000.0      1448776000.0   937878000.0       900088000.0
+EBIT                                                             1320755000.0      1178163000.0   773529000.0       735693000.0
+Net Interest Income                                                 4667000.0       -14389000.0    13333000.0        37124000.0
+Interest Expense                                                   65668000.0        52226000.0    19882000.0        17086000.0
+Interest Income                                                    70335000.0        37837000.0    33215000.0        54210000.0
+Normalized Income                                           1043713478.918195  962651224.233683   627513000.0  555401391.481018
+Net Income From Continuing And Discontinued Operation            1032845000.0       941354000.0   627513000.0       553202000.0
+Total Expenses                                                   6174082000.0      6918331000.0  5040171000.0      4041513000.0
+Diluted Average Shares                                             69649000.0        68014000.0    66015000.0        66076000.0
+Basic Average Shares                                               66206000.0        65863000.0    65826000.0        65826000.0
+Diluted EPS                                                             14.95             13.91          9.51              8.37
+Basic EPS                                                                15.6             14.29          9.53               8.4
+Diluted NI Availto Com Stockholders                              1032845000.0       941354000.0   627513000.0       553202000.0
+Net Income Common Stockholders                                   1032845000.0       941354000.0   627513000.0       553202000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0           0.0               0.0
+Net Income                                                       1032845000.0       941354000.0   627513000.0       553202000.0
+Minority Interests                                                  1320000.0         5356000.0     4091000.0               0.0
+Net Income Including Noncontrolling Interests                    1031525000.0       935998000.0   623422000.0       553202000.0
+Net Income Continuous Operations                                 1031525000.0       935998000.0   623422000.0       553202000.0
+Tax Provision                                                     223562000.0       189939000.0   130225000.0       165405000.0
+Pretax Income                                                    1255087000.0      1125937000.0   753647000.0       718607000.0
+Other Non Operating Income Expenses                               171755000.0        22009000.0    15727000.0        47599000.0
+Special Income Charges                                            -13224000.0       -25619000.0           0.0        -2857000.0
+Other Special Charges                                                     NaN         -313000.0           NaN               NaN
+Write Off                                                          13224000.0        25932000.0           0.0         2857000.0
+Net Non Operating Interest Income Expense                           4667000.0       -14389000.0    13333000.0        37124000.0
+Interest Expense Non Operating                                     65668000.0        52226000.0    19882000.0        17086000.0
+Interest Income Non Operating                                      70335000.0        37837000.0    33215000.0        54210000.0
+Operating Income                                                 1093245000.0      1119023000.0   683277000.0       617394000.0
+Operating Expense                                                 429348000.0       439908000.0   377723000.0       289756000.0
+Other Operating Expenses                                                  NaN               NaN      326000.0           10000.0
+Research And Development                                           85790000.0        84123000.0    90278000.0        60975000.0
+Selling General And Administration                                343558000.0       355785000.0   287445000.0       228781000.0
+Selling And Marketing Expense                                      98952000.0       117340000.0   101045000.0        61076000.0
+General And Administrative Expense                                244606000.0       238445000.0   186400000.0       167705000.0
+Gross Profit                                                     1522593000.0      1558931000.0  1061000000.0       907150000.0
+Cost Of Revenue                                                  5744734000.0      6478423000.0  4662448000.0      3751757000.0
+Total Revenue                                                    7267327000.0      8037354000.0  5723448000.0      4658907000.0
+Operating Revenue                                                7267327000.0      8037354000.0  5723448000.0      4658907000.0

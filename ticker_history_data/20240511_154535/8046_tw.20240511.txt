@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No.201-36, Dunhua North Road
+address2	3F. Songshan Dist.
+city	Taipei
+zip	105
+country	Taiwan
+phone	886 2 2712 2211
+website	https://www.nanyapcb.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Nan Ya Printed Circuit Board Corporation manufactures and sells printed circuit boards (PCBs) and IC substrates in Taiwan, Mainland China, Korea, and internationally. It offers conventional PCBs that are used in the motherboards of desktops and notebooks, and home electrical appliances; high density interconnections that are used in smartphones, game consoles, GPS, PDAs, automobile appliances, and MP3 players; and rigid-flex PCBs for use in portable devices and notebooks. The company also provides flip chip substrates comprising pin/land grid arrays for microprocessors; and ball grid arrays for graphic microprocessors, northbridge chipsets, high-end ASIC chipsets, and set-top box chipsets. In addition, it offers wire bond substrates for MCP, southbridge chipsets, communication, and networking applications, as well as for use in memory, portable devices, handsets, consumer electronics, and PC peripheral devices. The company was founded in 1997 and is headquartered in Taipei City, Taiwan. Nan Ya Printed Circuit Board Corporation is a subsidiary of Nan Ya Plastics Corporation.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ann-De  Tang', 'title': 'President & Director', 'fiscalYear': 2019, 'totalPay': 6214000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jia Fang  Chang', 'age': 68, 'title': 'General Manager', 'yearBorn': 1955, 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhen-Xiao  Lei', 'title': 'Head of Finance Department', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Feng  Jiang', 'title': 'Accounting Officer & Company Secretary', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chya-Wei  Chuang', 'title': 'Chief Information Security Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	186.5
+open	187.0
+dayLow	185.0
+dayHigh	190.0
+regularMarketPreviousClose	186.5
+regularMarketOpen	187.0
+regularMarketDayLow	185.0
+regularMarketDayHigh	190.0
+dividendRate	18.0
+dividendYield	0.0947
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	3.4884
+fiveYearAvgDividendYield	2.75
+beta	1.52
+trailingPE	36.750484
+forwardPE	14.14743
+volume	1504780
+regularMarketVolume	1504780
+averageVolume	2879778
+averageVolume10days	1771932
+averageDailyVolume10Day	1771932
+bid	189.5
+ask	190.0
+marketCap	122771546112
+fiftyTwoWeekLow	171.0
+fiftyTwoWeekHigh	313.0
+priceToSalesTrailing12Months	3.338679
+fiftyDayAverage	198.52
+twoHundredDayAverage	230.805
+trailingAnnualDividendRate	5.5
+trailingAnnualDividendYield	0.029490616
+currency	TWD
+enterpriseValue	111337758720
+profitMargins	0.0908
+floatShares	213183087
+sharesOutstanding	646166016
+heldPercentInsiders	0.67569
+heldPercentInstitutions	0.11564
+impliedSharesOutstanding	668505984
+bookValue	69.498
+priceToBook	2.7338915
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	3338928128
+trailingEps	5.17
+forwardEps	13.43
+pegRatio	1.45
+lastSplitFactor	1.03:1
+lastSplitDate	1311811200	 (2011-07-28 08:00:00)
+enterpriseToRevenue	3.028
+enterpriseToEbitda	13.421
+52WeekChange	-0.32384342
+SandP52WeekChange	0.26265144
+lastDividendValue	18.0
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8046.TW
+underlyingSymbol	8046.TW
+shortName	NAN YA PRINTED CIRCUIT BOARD CO
+longName	Nan Ya Printed Circuit Board Corporation
+firstTradeDateEpochUtc	1085533200	 (2004-05-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3fac0760-782b-3ec5-b484-5624072ac920
+messageBoardId	finmb_26340271
+gmtOffSetMilliseconds	28800000
+currentPrice	190.0
+targetHighPrice	315.0
+targetLowPrice	135.0
+targetMeanPrice	194.8
+targetMedianPrice	185.0
+recommendationMean	3.2
+recommendationKey	hold
+numberOfAnalystOpinions	10
+totalCash	13080341504
+totalCashPerShare	20.243
+ebitda	8296009216
+totalDebt	1646560000
+quickRatio	1.744
+currentRatio	2.094
+totalRevenue	36772491264
+debtToEquity	3.667
+revenuePerShare	56.909
+returnOnAssets	0.01915
+returnOnEquity	0.07468
+freeCashflow	-7445770752
+operatingCashflow	9397825536
+revenueGrowth	-0.436
+grossMargins	0.11093
+ebitdaMargins	0.22559999
+operatingMargins	-0.111820005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    4529164.278062       114409.94244            0.0            0.0
+Tax Rate For Calcs                                                    0.18153           0.234447       0.191945       0.084221
+Normalized EBITDA                                               12996950000.0      29727478000.0  16761270000.0   6981113000.0
+Total Unusual Items                                                24950000.0           488000.0            0.0            NaN
+Total Unusual Items Excluding Goodwill                             24950000.0           488000.0            0.0            NaN
+Net Income From Continuing Operation Net Minority Interest       5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Reconciled Depreciation                                          5895871000.0       4343965000.0   3633895000.0   2933479000.0
+Reconciled Cost Of Revenue                                      34075178000.0      38779224000.0  37345601000.0  32760832000.0
+EBITDA                                                          13021900000.0      29727966000.0  16761270000.0   6981113000.0
+EBIT                                                             7126029000.0      25384001000.0  13127375000.0   4047634000.0
+Net Interest Income                                               307509000.0        113940000.0     14312000.0     37280000.0
+Interest Expense                                                   19371000.0         22499000.0     32317000.0     44576000.0
+Interest Income                                                   326880000.0        136439000.0     46629000.0     81856000.0
+Normalized Income                                           5796168164.278062  19415210409.94244  10581525000.0   3665917000.0
+Net Income From Continuing And Discontinued Operation            5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Total Expenses                                                  35947546000.0      41072401000.0  39357809000.0  34405202000.0
+Diluted Average Shares                                            646253000.0        646387000.0    646214000.0    646211000.0
+Basic Average Shares                                              646166000.0        646166000.0    646166000.0    646166000.0
+Diluted EPS                                                               9.0              30.04          16.37           5.67
+Basic EPS                                                                 9.0              30.05          16.38           5.67
+Diluted NI Availto Com Stockholders                              5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Net Income Common Stockholders                                   5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0            0.0            0.0
+Net Income                                                       5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Net Income Including Noncontrolling Interests                    5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Net Income Continuous Operations                                 5816589000.0      19415584000.0  10581525000.0   3665917000.0
+Tax Provision                                                    1290069000.0       5945918000.0   2513533000.0    337141000.0
+Pretax Income                                                    7106658000.0      25361502000.0  13095058000.0   4003058000.0
+Other Non Operating Income Expenses                               453095000.0       1611121000.0    163467000.0   -183733000.0
+Special Income Charges                                             24950000.0           488000.0            0.0            NaN
+Write Off                                                         -24950000.0          -488000.0            0.0            NaN
+Net Non Operating Interest Income Expense                         307509000.0        113940000.0     14312000.0     37280000.0
+Interest Expense Non Operating                                     19371000.0         22499000.0     32317000.0     44576000.0
+Interest Income Non Operating                                     326880000.0        136439000.0     46629000.0     81856000.0
+Operating Income                                                 6305032000.0      23574435000.0  12870648000.0   4107541000.0
+Operating Expense                                                1872368000.0       2293177000.0   2012208000.0   1644370000.0
+Selling General And Administration                               1872368000.0       2293177000.0   2012208000.0   1644370000.0
+Selling And Marketing Expense                                     386349000.0        663664000.0    568489000.0    457089000.0
+General And Administrative Expense                               1486019000.0       1629513000.0   1443719000.0   1187281000.0
+Gross Profit                                                     8177400000.0      25867612000.0  14882856000.0   5751911000.0
+Cost Of Revenue                                                 34075178000.0      38779224000.0  37345601000.0  32760832000.0
+Total Revenue                                                   42252578000.0      64646836000.0  52228457000.0  38512743000.0
+Operating Revenue                                               42252578000.0      64646836000.0  52228457000.0  38512743000.0

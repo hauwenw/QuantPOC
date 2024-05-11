@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No. 880, Zhongzheng Road
+address2	13th Floor Zhonghe District
+city	New Taipei City
+country	Taiwan
+phone	886 2 3234 9988
+fax	886 2 2255 566
+website	https://www.taitwun.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Tai Twun Enterprise Co., Ltd. manufactures and sells electronic components comprising electronic and communication terminals and connectors. The company offers cooler and heat pipe components; single card, IO, FPC, board, and battery series connectors; and other components that are used in NB PC, mobile phone, 3.5G HSDPA, MFP printer, DVD, and LCD TV applications. It also provides consumer electronics products, such as AC USB adaptors, car chargers, and USB card readers. Tai Twun Enterprise Co., Ltd. was founded in 1988 and is headquartered in New Taipei City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	19.75
+open	19.8
+dayLow	19.6
+dayHigh	19.8
+regularMarketPreviousClose	19.75
+regularMarketOpen	19.8
+regularMarketDayLow	19.6
+regularMarketDayHigh	19.8
+exDividendDate	1659052800	 (2022-07-29 08:00:00)
+fiveYearAvgDividendYield	5.05
+beta	0.966
+volume	24070
+regularMarketVolume	24070
+averageVolume	155789
+averageVolume10days	134274
+averageDailyVolume10Day	134274
+bid	19.7
+ask	19.75
+marketCap	834042496
+fiftyTwoWeekLow	16.5
+fiftyTwoWeekHigh	26.72688
+priceToSalesTrailing12Months	50.343605
+fiftyDayAverage	19.556
+twoHundredDayAverage	20.01477
+currency	TWD
+enterpriseValue	513516000
+sharesOutstanding	42230000
+heldPercentInsiders	0.55247
+impliedSharesOutstanding	42230000
+bookValue	7.323
+priceToBook	2.6969821
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-191628992
+trailingEps	-9.91
+lastSplitFactor	540.6542:1000
+lastSplitDate	1704931200	 (2024-01-11 08:00:00)
+enterpriseToRevenue	30.996
+enterpriseToEbitda	-19.376
+52WeekChange	-0.16251606
+SandP52WeekChange	0.26265144
+lastDividendValue	0.924806
+lastDividendDate	1659052800	 (2022-07-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3432.TW
+underlyingSymbol	3432.TW
+shortName	TAI TWUN ENTERPRISE CO LTD
+longName	Tai Twun Enterprise Co., Ltd.
+firstTradeDateEpochUtc	1297040400	 (2011-02-07 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	955d5e97-a00e-309a-bab4-d11d5eceb317
+messageBoardId	finmb_47791908
+gmtOffSetMilliseconds	28800000
+currentPrice	19.75
+recommendationKey	none
+totalCash	245516992
+totalCashPerShare	6.82
+ebitda	-26502000
+totalDebt	48033000
+quickRatio	14.187
+currentRatio	14.295
+totalRevenue	16567000
+debtToEquity	18.219
+revenuePerShare	0.46
+returnOnAssets	-0.04389
+returnOnEquity	-0.54252
+freeCashflow	52733248
+operatingCashflow	43669000
+revenueGrowth	-0.093
+grossMargins	0.31991
+ebitdaMargins	-1.59969
+operatingMargins	-1.9638001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31         2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                      2800.0        6804.322566  23768978.719258    -12746.819904
+Tax Rate For Calcs                                                  0.2           0.200127         0.207004         0.310898
+Normalized EBITDA                                           -16536000.0      -1460059000.0      -39259000.0       53212000.0
+Total Unusual Items                                             14000.0            34000.0      114824000.0         -41000.0
+Total Unusual Items Excluding Goodwill                          14000.0            34000.0      114824000.0         -41000.0
+Net Income From Continuing Operation Net Minority Interest -191629000.0      -1170230000.0       56976000.0       32558000.0
+Reconciled Depreciation                                       2440000.0          2408000.0        2949000.0        3105000.0
+Reconciled Cost Of Revenue                                   11267000.0         14168000.0       24811000.0       22141000.0
+EBITDA                                                      -16522000.0      -1460025000.0       75565000.0       53171000.0
+EBIT                                                        -18962000.0      -1462433000.0       72616000.0       50066000.0
+Net Interest Income                                           1438000.0          -392000.0        -741000.0        -499000.0
+Interest Expense                                               687000.0           587000.0         767000.0        2819000.0
+Interest Income                                               2125000.0           195000.0          26000.0        2320000.0
+Normalized Income                                          -191640200.0 -1170257195.677434 -34079021.280742  32586253.180096
+Net Income From Continuing And Discontinued Operation      -191629000.0      -1170230000.0       56976000.0       32558000.0
+Total Expenses                                               44916000.0         43635000.0       56970000.0       54027000.0
+Diluted Average Shares                                       19463550.0         19463550.0       36105427.0       36101102.0
+Basic Average Shares                                         19463550.0         19463550.0       35999999.0       35999999.0
+Diluted EPS                                                   -9.839931         -60.130857         1.572169         0.906309
+Basic EPS                                                     -9.839931         -60.130857         1.590666         0.906309
+Diluted NI Availto Com Stockholders                        -191629000.0      -1170230000.0       56976000.0       32558000.0
+Net Income Common Stockholders                             -191629000.0      -1170230000.0       56976000.0       32558000.0
+Otherunder Preferred Stock Dividend                                 0.0                0.0              0.0              0.0
+Net Income                                                 -191629000.0      -1170230000.0       56976000.0       32558000.0
+Net Income Including Noncontrolling Interests              -191629000.0      -1170230000.0       56976000.0       32558000.0
+Net Income Continuous Operations                           -191629000.0      -1170230000.0       56976000.0       32558000.0
+Tax Provision                                               171980000.0       -292790000.0       14873000.0       14689000.0
+Pretax Income                                               -19649000.0      -1463020000.0       71849000.0       47247000.0
+Other Non Operating Income Expenses                           7248000.0      -1437959000.0         296000.0       70281000.0
+Special Income Charges                                          14000.0            34000.0         102000.0         -41000.0
+Other Special Charges                                               NaN                NaN          -5000.0              NaN
+Write Off                                                      -14000.0           -34000.0         -97000.0          41000.0
+Net Non Operating Interest Income Expense                     1438000.0          -392000.0        -741000.0        -499000.0
+Interest Expense Non Operating                                 687000.0           587000.0         767000.0        2819000.0
+Interest Income Non Operating                                 2125000.0           195000.0          26000.0        2320000.0
+Operating Income                                            -28349000.0        -24703000.0      -20242000.0      -22494000.0
+Operating Expense                                            33649000.0         29467000.0       32159000.0       31886000.0
+Research And Development                                      1921000.0          2026000.0        2664000.0        2235000.0
+Selling General And Administration                           31728000.0         27441000.0       29495000.0       29651000.0
+Selling And Marketing Expense                                 2693000.0          2966000.0        3360000.0        4676000.0
+General And Administrative Expense                           29035000.0         24475000.0       26135000.0       24975000.0
+Gross Profit                                                  5300000.0          4764000.0       11917000.0        9392000.0
+Cost Of Revenue                                              11267000.0         14168000.0       24811000.0       22141000.0
+Total Revenue                                                16567000.0         18932000.0       36728000.0       31533000.0
+Operating Revenue                                            16567000.0         18932000.0       36728000.0       31533000.0

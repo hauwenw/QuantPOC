@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No.1, Hangzhan South Road
+address2	Dayuan District
+city	Taoyuan City
+zip	33758
+country	Taiwan
+phone	886 3 399 8888
+fax	886 3 399 8313
+website	https://www.china-airlines.com
+industry	Airlines
+industryKey	airlines
+industryDisp	Airlines
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	China Airlines, Ltd., together with its subsidiaries, provides air transportation services for passengers, cargo, and others. The company offers airport, ground, aircraft and flight equipment maintenance, machine and equipment maintenance, and investment services, as well as communications and data processing services to other airlines. It is also involved in the sale of aircrafts, aircraft parts, and equipment; cleaning of aircrafts; forwarding and storage of air cargo; and sale and maintenance of hardware and software. In addition, the company engages in the hotel, international trading, inflight catering, and travel businesses, as well as real estate leasing activities; and cleaning and leasing of the towels of airlines, hotels, restaurants, and health clubs. As of April 30, 2022, its fleet consisted of 85 aircraft, including 63 passenger jets and 22 freighters. The company was incorporated in 1959 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shing-Hwang  Kao', 'age': 62, 'title': 'President & Director', 'yearBorn': 1961, 'fiscalYear': 2020, 'totalPay': 7923000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Yuan  Chen', 'age': 60, 'title': 'MD & Director', 'yearBorn': 1963, 'fiscalYear': 2020, 'totalPay': 520000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chen-Min  Wang', 'title': 'Senior Vice President', 'fiscalYear': 2020, 'totalPay': 3598000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yang  Yen', 'title': 'Accounting Officer, Finance Officer & Assistant VP of Finance Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Na  Huang', 'title': 'Vice President of Administration Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jia-Ling  Shan', 'title': 'Assistant Vice President of Legal & Insurance Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shwu-Huoy  Lu', 'title': 'Vice President of Corporate Communications Office', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Hao  Chang', 'title': 'Vice President of Corporate Development Office', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Ming  Lu', 'title': 'Vice President of Human Resources Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Mei  Lo', 'title': 'Senior Vice President', 'fiscalYear': 2020, 'totalPay': 3589206, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	21.15
+open	21.6
+dayLow	21.55
+dayHigh	22.8
+regularMarketPreviousClose	21.15
+regularMarketOpen	21.6
+regularMarketDayLow	21.55
+regularMarketDayHigh	22.8
+dividendRate	0.46
+dividendYield	0.020299999
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	0.32869998
+beta	0.738
+trailingPE	16.178572
+forwardPE	26.964287
+volume	238011678
+regularMarketVolume	238011678
+averageVolume	35751230
+averageVolume10days	83317395
+averageDailyVolume10Day	83317395
+bid	22.65
+ask	22.7
+marketCap	137010749440
+fiftyTwoWeekLow	18.65
+fiftyTwoWeekHigh	28.75
+priceToSalesTrailing12Months	0.74133277
+fiftyDayAverage	19.963
+twoHundredDayAverage	21.1985
+currency	TWD
+enterpriseValue	175852093440
+profitMargins	0.03689
+floatShares	3597437819
+sharesOutstanding	6049039872
+heldPercentInsiders	0.01362
+heldPercentInstitutions	0.48202
+impliedSharesOutstanding	6077369856
+bookValue	12.331
+priceToBook	1.836834
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	6818551808
+trailingEps	1.4
+forwardEps	0.84
+pegRatio	0.63
+lastSplitFactor	0.6933:1
+lastSplitDate	1251331200	 (2009-08-27 08:00:00)
+enterpriseToRevenue	0.951
+enterpriseToEbitda	4.309
+52WeekChange	0.19841266
+SandP52WeekChange	0.26265144
+lastDividendValue	0.460219
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2610.TW
+underlyingSymbol	2610.TW
+shortName	CHINA AIR LINES
+longName	China Airlines, Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7d27d130-e40c-3d05-9a86-02b89d0c0027
+messageBoardId	finmb_882561
+gmtOffSetMilliseconds	28800000
+currentPrice	22.65
+targetHighPrice	20.4
+targetLowPrice	14.6
+targetMeanPrice	17.0
+targetMedianPrice	16.0
+recommendationMean	3.2
+recommendationKey	hold
+numberOfAnalystOpinions	3
+totalCash	34657742848
+totalCashPerShare	5.729
+ebitda	40814370816
+totalDebt	70606209024
+quickRatio	0.508
+currentRatio	0.774
+totalRevenue	184816795648
+debtToEquity	91.13
+revenuePerShare	30.629
+returnOnAssets	0.02168
+returnOnEquity	0.099659994
+freeCashflow	18921416704
+operatingCashflow	55845601280
+revenueGrowth	0.213
+grossMargins	0.12894
+ebitdaMargins	0.22083999
+operatingMargins	0.02293
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                0.197117        0.156105        0.195023             0.2
+Normalized EBITDA                                            42570720000.0   35528590000.0   43483754000.0   33778349000.0
+Net Income From Continuing Operation Net Minority Interest    6818552000.0    2859503000.0    9379905000.0     140000000.0
+Reconciled Depreciation                                      30656950000.0   30327038000.0   29949707000.0   31374183000.0
+Reconciled Cost Of Revenue                                  160986016000.0  139352258000.0  115486946000.0  105031349000.0
+EBITDA                                                       42570720000.0   35528590000.0   43483754000.0   33778349000.0
+EBIT                                                         11913770000.0    5201552000.0   13534047000.0    2404166000.0
+Net Interest Income                                           -805644000.0   -1900947000.0   -2251103000.0   -2775457000.0
+Interest Expense                                              2608298000.0    2540792000.0    2407442000.0    3057963000.0
+Interest Income                                               1802654000.0     639845000.0     156339000.0     282506000.0
+Normalized Income                                             6818552000.0    2859503000.0    9379905000.0     140000000.0
+Net Income From Continuing And Discontinued Operation         6818552000.0    2859503000.0    9379905000.0     140000000.0
+Total Expenses                                              174659369000.0  148137737000.0  123873368000.0  113066134000.0
+Diluted Average Shares                                        6149987000.0    6143269000.0    6141128000.0    5418776000.0
+Basic Average Shares                                          6029240000.0    5996406000.0    5615684000.0    5418776000.0
+Diluted EPS                                                           1.11            0.47            1.54            0.03
+Basic EPS                                                             1.13            0.48            1.67            0.03
+Diluted NI Availto Com Stockholders                           6818552000.0    2859503000.0    9379905000.0     140000000.0
+Net Income Common Stockholders                                6818552000.0    2859503000.0    9379905000.0     140000000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0             0.0
+Net Income                                                    6818552000.0    2859503000.0    9379905000.0     140000000.0
+Minority Interests                                            -652649000.0     614102000.0     423241000.0     419814000.0
+Net Income Including Noncontrolling Interests                 7471201000.0    2245401000.0    8956664000.0    -279814000.0
+Net Income Continuous Operations                              7471201000.0    2245401000.0    8956664000.0    -279814000.0
+Tax Provision                                                 1834271000.0     415359000.0    2169941000.0    -373983000.0
+Pretax Income                                                 9305472000.0    2660760000.0   11126605000.0    -653797000.0
+Other Non Operating Income Expenses                           -485452000.0    2039146000.0   -1201126000.0     115035000.0
+Net Non Operating Interest Income Expense                     -805644000.0   -1900947000.0   -2251103000.0   -2775457000.0
+Interest Expense Non Operating                                2608298000.0    2540792000.0    2407442000.0    3057963000.0
+Interest Income Non Operating                                 1802654000.0     639845000.0     156339000.0     282506000.0
+Operating Income                                             10157421000.0    2584734000.0   14968035000.0    2184416000.0
+Operating Expense                                            13673353000.0    8785479000.0    8386422000.0    8034785000.0
+Other Operating Expenses                                     13673353000.0    8785479000.0    8386422000.0    8034785000.0
+Gross Profit                                                 23830774000.0   11370213000.0   23354457000.0   10219201000.0
+Cost Of Revenue                                             160986016000.0  139352258000.0  115486946000.0  105031349000.0
+Total Revenue                                               184816790000.0  150722471000.0  138841403000.0  115250550000.0
+Operating Revenue                                           184816790000.0  150722471000.0  138841403000.0  115250550000.0

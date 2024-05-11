@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 20, 25 Rd.
+address2	Taichung Industrial Park
+city	Taichung
+zip	40850
+country	Taiwan
+phone	886 4 2359 1253
+fax	886 4 2359 3893
+website	https://www.ece.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Excel Cell Electronic Co., Ltd. manufactures and supplies electronic components in Taiwan, Asia, Europe, the United States, and internationally. It offers electromechanical components, including pushbutton, selector, emergency stop, key selector, DIP, slide, push, micro, and trigger switches, as well as pilot lamps and accessories; Mos, reed, solid state, and electromechanical relays; reed sensors and sockets; Eurostyle PCB, plug in, screwless, high power, and wire to PCB type terminal blocks; FPC, board to board, board to wire, USB, I/O and battery, EPJ, machine pin socket, and other connectors; chip inductors and beads; resettable fuses; and stepping motors. The company also provides stamping products, such as lead frames of semiconductors for discrete devices/integrated circuits and photoelectric products; heat spreaders for IC/BGA; and high precision electronic components. Its products are used in industrial control and instrument equipment, security systems, consumer electronics and household appliances, computer peripherals, and network and communication applications, as well as in optoelectronics, power energy, and automotive electronics industries. Excel Cell Electronic Co., Ltd. was incorporated in 1981 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Pen-Lin  Liao', 'title': 'Chairman & CEO', 'fiscalYear': 2022, 'totalPay': 5024000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yueh-Shiang  Liao', 'title': 'President of the General Administration Department & Director', 'fiscalYear': 2022, 'totalPay': 2354000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pen-Tien  Liao', 'title': 'Second Business Division President & Director', 'fiscalYear': 2022, 'totalPay': 3585000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min-Cheng  Hsu', 'title': 'First Business Division President & Director', 'fiscalYear': 2022, 'totalPay': 3771000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huai-Jen  Tsai', 'title': 'Vice President of Third Business Division', 'fiscalYear': 2022, 'totalPay': 2564000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ti-Yi  Tsai', 'title': 'Chief Finance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Chang  Chiang', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	24.0
+open	24.05
+dayLow	23.9
+dayHigh	24.05
+regularMarketPreviousClose	24.0
+regularMarketOpen	24.05
+regularMarketDayLow	23.9
+regularMarketDayHigh	24.05
+dividendRate	0.3
+dividendYield	0.0125
+exDividendDate	1711670400	 (2024-03-29 08:00:00)
+payoutRatio	0.625
+fiveYearAvgDividendYield	3.95
+beta	0.255
+trailingPE	50.104168
+volume	62000
+regularMarketVolume	62000
+averageVolume	144941
+averageVolume10days	116210
+averageDailyVolume10Day	116210
+bid	24.0
+ask	24.05
+marketCap	2623710720
+fiftyTwoWeekLow	22.6
+fiftyTwoWeekHigh	29.4
+priceToSalesTrailing12Months	1.460496
+fiftyDayAverage	23.553
+twoHundredDayAverage	24.04
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.0125
+currency	TWD
+enterpriseValue	3105850112
+profitMargins	0.01964
+sharesOutstanding	109094000
+heldPercentInsiders	0.41744998
+heldPercentInstitutions	0.00386
+impliedSharesOutstanding	110747000
+bookValue	23.11
+priceToBook	1.0406749
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	35280000
+trailingEps	0.48
+lastSplitFactor	110:100
+lastSplitDate	1095120000	 (2004-09-14 08:00:00)
+enterpriseToRevenue	1.729
+enterpriseToEbitda	23.691
+52WeekChange	-0.09073722
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1711670400	 (2024-03-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2483.TW
+underlyingSymbol	2483.TW
+shortName	EXCEL CELL ELECTRONICS
+longName	Excel Cell Electronic Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	de37393b-dad4-317b-9b95-2a6f0cce3e10
+messageBoardId	finmb_4598738
+gmtOffSetMilliseconds	28800000
+currentPrice	24.05
+recommendationKey	none
+totalCash	794660992
+totalCashPerShare	7.284
+ebitda	131099000
+totalDebt	1260860032
+quickRatio	1.063
+currentRatio	1.419
+totalRevenue	1796451968
+debtToEquity	49.697
+revenuePerShare	16.467
+returnOnAssets	-0.00451
+returnOnEquity	0.014359999
+freeCashflow	30002500
+operatingCashflow	294192000
+revenueGrowth	-0.111
+grossMargins	0.139
+ebitdaMargins	0.07298
+operatingMargins	-0.02347
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    1068400.0    -486204.169899   -2690809.108884    -23307.981096
+Tax Rate For Calcs                                                   0.2          0.232745          0.338296         0.070845
+Normalized EBITDA                                            205582000.0       397051000.0       391664000.0      234350000.0
+Total Unusual Items                                            5342000.0        -2089000.0        -7954000.0        -329000.0
+Total Unusual Items Excluding Goodwill                         5342000.0        -2089000.0        -7954000.0        -329000.0
+Net Income From Continuing Operation Net Minority Interest    35280000.0       167822000.0       153097000.0       83272000.0
+Reconciled Depreciation                                      164469000.0       156712000.0       140227000.0      133569000.0
+Reconciled Cost Of Revenue                                  1546745000.0      1808362000.0      1814100000.0     1404398000.0
+EBITDA                                                       210924000.0       394962000.0       383710000.0      234021000.0
+EBIT                                                          46455000.0       238250000.0       243483000.0      100452000.0
+Net Interest Income                                           -3945000.0       -13605000.0        -8381000.0       -5565000.0
+Interest Expense                                              21083000.0        16518000.0         9821000.0        9888000.0
+Interest Income                                               17138000.0         2913000.0         1440000.0        4323000.0
+Normalized Income                                             31006400.0  169424795.830101  158360190.891116  83577692.018904
+Net Income From Continuing And Discontinued Operation         35280000.0       167822000.0       153097000.0       83272000.0
+Total Expenses                                              1827973000.0      2111813000.0      2159330000.0     1757110000.0
+Diluted Average Shares                                       109171000.0       109504000.0       109418000.0      109568421.0
+Basic Average Shares                                         109094000.0       109094000.0       109094000.0      109568421.0
+Diluted EPS                                                         0.32              1.53               1.4             0.76
+Basic EPS                                                           0.32              1.54               1.4             0.76
+Diluted NI Availto Com Stockholders                           35280000.0       167822000.0       153097000.0       83272000.0
+Net Income Common Stockholders                                35280000.0       167822000.0       153097000.0       83272000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0              0.0
+Net Income                                                    35280000.0       167822000.0       153097000.0       83272000.0
+Minority Interests                                            -1756000.0        -2303000.0        -1518000.0        -876000.0
+Net Income Including Noncontrolling Interests                 37036000.0       170125000.0       154615000.0       84148000.0
+Net Income Continuous Operations                              37036000.0       170125000.0       154615000.0       84148000.0
+Tax Provision                                                -11664000.0        51607000.0        79047000.0        6416000.0
+Pretax Income                                                 25372000.0       221732000.0       233662000.0       90564000.0
+Other Non Operating Income Expenses                           14433000.0        14273000.0       213235000.0       20112000.0
+Special Income Charges                                          542000.0         1408000.0        -5747000.0        -447000.0
+Other Special Charges                                          -542000.0        -1408000.0         5747000.0         447000.0
+Net Non Operating Interest Income Expense                     -3945000.0       -13605000.0        -8381000.0       -5565000.0
+Interest Expense Non Operating                                21083000.0        16518000.0         9821000.0        9888000.0
+Interest Income Non Operating                                 17138000.0         2913000.0         1440000.0        4323000.0
+Operating Income                                             -31521000.0       113782000.0        11712000.0       23005000.0
+Operating Expense                                            281228000.0       303451000.0       345230000.0      352712000.0
+Research And Development                                      88129000.0        88510000.0        99539000.0       96823000.0
+Selling General And Administration                           193099000.0       214941000.0       245691000.0      255889000.0
+Selling And Marketing Expense                                 67985000.0        78679000.0        98523000.0       77794000.0
+General And Administrative Expense                           125114000.0       136262000.0       147168000.0      178095000.0
+Gross Profit                                                 249707000.0       417233000.0       356942000.0      375717000.0
+Cost Of Revenue                                             1546745000.0      1808362000.0      1814100000.0     1404398000.0
+Total Revenue                                               1796452000.0      2225595000.0      2171042000.0     1780115000.0
+Operating Revenue                                           1796452000.0      2225595000.0      2171042000.0     1780115000.0

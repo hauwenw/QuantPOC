@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	Taipei Metro Tower
+address2	30th Floor 207, Tun Hwa South Road, Sec. 2 Da'an District
+city	Taipei
+zip	10675
+country	Taiwan
+phone	886 2 2733 8000
+fax	886 2 2736 6263
+website	https://www.acc.com.tw
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Asia Cement Corporation engages in the manufacturing and selling cement, clinker, ready-mixed concrete, and cement related products in China, Taiwan, and internationally. It is also involved in reforestation and leasing business. Asia Cement Corporation was incorporated in 1957 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kun-Yen  Lee', 'age': 83, 'title': 'Manager, President & Director', 'yearBorn': 1940, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ling-Ling  Wu', 'age': 57, 'title': 'Senior VP, CFO & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. H. Y.  Kao', 'title': 'Assistant VP of Accounting Department & Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ji-Fa  Li', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Karen  Yang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. S. J.  Lin', 'age': 79, 'title': 'President & Director - Shanghai Yali Cement Products Co Ltd & Shanghai Yafu Cement Products Co Ltd', 'yearBorn': 1944, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'W. T.  Hsu', 'title': 'President of Fu Ming Transportation Co Ltd and Director of Fu Ming Transportation Co Ltd', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.45
+open	43.75
+dayLow	43.75
+dayHigh	46.0
+regularMarketPreviousClose	43.45
+regularMarketOpen	43.75
+regularMarketDayLow	43.75
+regularMarketDayHigh	46.0
+dividendRate	2.3
+dividendYield	0.05
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.7011
+fiveYearAvgDividendYield	6.79
+beta	0.304
+trailingPE	14.02439
+forwardPE	14.375
+volume	23929367
+regularMarketVolume	23929367
+averageVolume	5146302
+averageVolume10days	9022755
+averageDailyVolume10Day	9022755
+bid	45.95
+ask	46.0
+marketCap	163141763072
+fiftyTwoWeekLow	38.2
+fiftyTwoWeekHigh	46.0
+priceToSalesTrailing12Months	2.034623
+fiftyDayAverage	41.787
+twoHundredDayAverage	40.68575
+trailingAnnualDividendRate	2.1
+trailingAnnualDividendYield	0.048331413
+currency	TWD
+enterpriseValue	206480883712
+profitMargins	0.13573
+floatShares	2733265173
+sharesOutstanding	3546560000
+heldPercentInsiders	0.34715998
+heldPercentInstitutions	0.15221
+impliedSharesOutstanding	3570629888
+bookValue	47.7
+priceToBook	0.9643606
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.176
+netIncomeToCommon	10882826240
+trailingEps	3.28
+forwardEps	3.2
+pegRatio	0.37
+lastSplitFactor	1020:1000
+lastSplitDate	1409184000	 (2014-08-28 08:00:00)
+enterpriseToRevenue	2.575
+enterpriseToEbitda	17.511
+52WeekChange	0.03954804
+SandP52WeekChange	0.26265144
+lastDividendValue	2.299588
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1102.TW
+underlyingSymbol	1102.TW
+shortName	ASIA CEMENT CORP
+longName	Asia Cement Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7c2a2a9b-b149-3985-bb92-017d3fda86e6
+messageBoardId	finmb_877186
+gmtOffSetMilliseconds	28800000
+currentPrice	46.0
+targetHighPrice	45.0
+targetLowPrice	30.1
+targetMeanPrice	39.93
+targetMedianPrice	40.75
+recommendationMean	2.9
+recommendationKey	hold
+numberOfAnalystOpinions	6
+totalCash	98941607936
+totalCashPerShare	27.898
+ebitda	11791176704
+totalDebt	119586922496
+quickRatio	1.365
+currentRatio	1.476
+totalRevenue	80182796288
+debtToEquity	62.329
+revenuePerShare	24.179
+returnOnAssets	0.01411
+returnOnEquity	0.05894
+freeCashflow	5692417536
+operatingCashflow	7269415936
+earningsGrowth	1.175
+revenueGrowth	-0.177
+grossMargins	0.13017
+ebitdaMargins	0.14705
+operatingMargins	0.07356
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                    60296566.39463     23982316.389964   -128302555.829505   -120978096.098627
+Tax Rate For Calcs                                                   0.204663            0.171076            0.200883             0.22242
+Normalized EBITDA                                               20169902000.0       21121202000.0       28396971000.0       30798997000.0
+Total Unusual Items                                               294614000.0         140185000.0        -638694000.0        -543918000.0
+Total Unusual Items Excluding Goodwill                            294614000.0         140185000.0        -638694000.0        -543918000.0
+Net Income From Continuing Operation Net Minority Interest      10882826000.0       12016396000.0       15068221000.0       14710486000.0
+Reconciled Depreciation                                          4755698000.0        4769335000.0        4930038000.0        4947551000.0
+Reconciled Cost Of Revenue                                      69745612000.0       78585021000.0       69151726000.0       54911404000.0
+EBITDA                                                          20464516000.0       21261387000.0       27758277000.0       30255079000.0
+EBIT                                                            15708818000.0       16492052000.0       22828239000.0       25307528000.0
+Net Interest Income                                              -419941000.0        -348959000.0         -86479000.0         -78382000.0
+Interest Expense                                                 1772450000.0        1295075000.0         894326000.0        1163645000.0
+Interest Income                                                  1352509000.0         946116000.0         807847000.0        1085263000.0
+Normalized Income                                           10648508566.39463  11900193316.389963  15578612444.170494  15133425903.901373
+Net Income From Continuing And Discontinued Operation           10882826000.0       12016396000.0       15068221000.0       14710486000.0
+Total Expenses                                                  73017365000.0       81909415000.0       72007693000.0       58026824000.0
+Diluted Average Shares                                           3320343000.0        3318235000.0        3315103000.0        3313723000.0
+Basic Average Shares                                             3316177000.0        3313166000.0        3203972000.0        3129384000.0
+Diluted EPS                                                              3.28                3.62                4.57                4.41
+Basic EPS                                                                3.28                3.63                 4.7                 4.7
+Diluted NI Availto Com Stockholders                             10882826000.0       12016396000.0       15068221000.0       14710486000.0
+Net Income Common Stockholders                                  10882826000.0       12016396000.0       15068221000.0       14710486000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                 0.0                 0.0
+Net Income                                                      10882826000.0       12016396000.0       15068221000.0       14710486000.0
+Minority Interests                                               -201284000.0        -580740000.0       -2459549000.0       -4063321000.0
+Net Income Including Noncontrolling Interests                   11084110000.0       12597136000.0       17527770000.0       18773807000.0
+Net Income Continuous Operations                                11084110000.0       12597136000.0       17527770000.0       18773807000.0
+Tax Provision                                                    2852258000.0        2599841000.0        4406143000.0        5370076000.0
+Pretax Income                                                   13936368000.0       15196977000.0       21933913000.0       24143883000.0
+Other Non Operating Income Expenses                              4403478000.0        2663655000.0       -1984375000.0         -87377000.0
+Special Income Charges                                            294614000.0         140185000.0        -638694000.0        -543918000.0
+Write Off                                                        -294614000.0        -140185000.0         638694000.0         543918000.0
+Net Non Operating Interest Income Expense                        -419941000.0        -348959000.0         -86479000.0         -78382000.0
+Interest Expense Non Operating                                   1772450000.0        1295075000.0         894326000.0        1163645000.0
+Interest Income Non Operating                                    1352509000.0         946116000.0         807847000.0        1085263000.0
+Operating Income                                                 7165434000.0        8431088000.0       18324911000.0       20214056000.0
+Operating Expense                                                3271753000.0        3324394000.0        2855967000.0        3115420000.0
+Selling General And Administration                               3271753000.0        3324394000.0        2855967000.0        3115420000.0
+General And Administrative Expense                               3271753000.0        3324394000.0        2855967000.0        3115420000.0
+Gross Profit                                                    10437187000.0       11755482000.0       21180878000.0       23329476000.0
+Cost Of Revenue                                                 69745612000.0       78585021000.0       69151726000.0       54911404000.0
+Total Revenue                                                   80182799000.0       90340503000.0       90332604000.0       78240880000.0
+Operating Revenue                                               80182799000.0       90340503000.0       90332604000.0       78240880000.0

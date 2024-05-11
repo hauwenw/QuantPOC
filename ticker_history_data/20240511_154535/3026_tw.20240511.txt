@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 62 Huang Shan Road
+address2	Sec. 2 Nei Hu District
+city	Taipei
+zip	11452
+country	Taiwan
+phone	886 2 2627 0383
+fax	886 2 2658 9558
+website	https://www.holystone.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Holy Stone Enterprise Co.,Ltd. engages in the production and sale of multilayer ceramic capacitors (MLCCs) under the IHHEC brand name in Taiwan. The company offers MLCC solutions for PoE circuits, switching power supplies, battery management systems, automotive touchscreen LCD modules, LED lightings, and termination MLCCs. It also distributes passive components, active components, peripheral components, consumer components, and power components. Holy Stone Enterprise Co.,Ltd. was founded in 1981 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jing-Rong  Tang', 'age': 68, 'title': 'Chairman & President', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shu-Ying  Chang', 'title': 'Director of Finance & Accounting Division and Accountant Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Yun  Shen', 'title': 'Executive Vice GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shao-Kuo  Huang', 'title': 'Vice GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	97.9
+open	98.0
+dayLow	97.6
+dayHigh	98.2
+regularMarketPreviousClose	97.9
+regularMarketOpen	98.0
+regularMarketDayLow	97.6
+regularMarketDayHigh	98.2
+dividendRate	5.0
+dividendYield	0.0511
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	1.2019
+fiveYearAvgDividendYield	7.27
+beta	0.679
+trailingPE	23.557693
+forwardPE	11.750599
+volume	146418
+regularMarketVolume	146418
+averageVolume	200397
+averageVolume10days	233622
+averageDailyVolume10Day	233622
+bid	97.9
+ask	98.0
+marketCap	16257219584
+fiftyTwoWeekLow	92.7
+fiftyTwoWeekHigh	103.809525
+priceToSalesTrailing12Months	1.2278589
+fiftyDayAverage	96.53
+twoHundredDayAverage	96.6715
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.051072523
+currency	TWD
+enterpriseValue	16064074752
+profitMargins	0.06424
+floatShares	134369241
+sharesOutstanding	165890000
+heldPercentInsiders	0.17698999
+heldPercentInstitutions	0.13458
+impliedSharesOutstanding	165890000
+bookValue	59.285
+priceToBook	1.653032
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.619
+netIncomeToCommon	850499968
+trailingEps	4.16
+forwardEps	8.34
+lastSplitFactor	1050:1000
+lastSplitDate	1689811200	 (2023-07-20 08:00:00)
+enterpriseToRevenue	1.213
+enterpriseToEbitda	11.447
+52WeekChange	0.018811941
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3026.TW
+underlyingSymbol	3026.TW
+shortName	HOLY STONE ENTERPRISE
+longName	Holy Stone Enterprise Co.,Ltd.
+firstTradeDateEpochUtc	947811600	 (2000-01-14 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dd9e221a-9b3f-3469-8ad3-f8fd4baa8b7f
+messageBoardId	finmb_9834622
+gmtOffSetMilliseconds	28800000
+currentPrice	98.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	3436230912
+totalCashPerShare	20.714
+ebitda	1403360000
+totalDebt	3059066880
+quickRatio	1.924
+currentRatio	2.899
+totalRevenue	13240299520
+debtToEquity	30.483
+revenuePerShare	79.814
+returnOnAssets	0.02878
+returnOnEquity	0.0655
+freeCashflow	928040896
+operatingCashflow	1604102016
+earningsGrowth	-0.616
+revenueGrowth	-0.112
+grossMargins	0.17308001
+ebitdaMargins	0.10599
+operatingMargins	-0.00717
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -1165000.621967    -8267475.333177     -550140.34026      318930.430619
+Tax Rate For Calcs                                                  0.209382           0.232874          0.112319            0.22732
+Normalized EBITDA                                               1612580000.0       2157780000.0      2624280000.0       2124934000.0
+Total Unusual Items                                               -5564000.0        -35502000.0        -4898000.0          1403000.0
+Total Unusual Items Excluding Goodwill                            -5564000.0        -35502000.0        -4898000.0          1403000.0
+Net Income From Continuing Operation Net Minority Interest       850500000.0       1231362000.0      1952417000.0       1312345000.0
+Reconciled Depreciation                                          708375000.0        618202000.0       537609000.0        516455000.0
+Reconciled Cost Of Revenue                                     10948628000.0      11936441000.0     12926647000.0      11748577000.0
+EBITDA                                                          1607016000.0       2122278000.0      2619382000.0       2126337000.0
+EBIT                                                             898641000.0       1504076000.0      2081773000.0       1609882000.0
+Net Interest Income                                              -33524000.0        -13601000.0          685000.0         -1468000.0
+Interest Expense                                                  65799000.0         32788000.0        12887000.0         18291000.0
+Interest Income                                                   32275000.0         19187000.0        13572000.0         16823000.0
+Normalized Income                                           854898999.378033  1258596524.666823  1956764859.65974  1311260930.430619
+Net Income From Continuing And Discontinued Operation            850500000.0       1231362000.0      1952417000.0       1312345000.0
+Total Expenses                                                 12523234000.0      13624068000.0     14585574000.0      13321974000.0
+Diluted Average Shares                                           167444000.0        168511000.0       168522900.0        167952750.0
+Basic Average Shares                                             165890000.0        165890000.0       165890550.0        165890550.0
+Diluted EPS                                                             5.08               7.31         11.580952           7.809524
+Basic EPS                                                               5.13               7.42         11.771429           7.914286
+Diluted NI Availto Com Stockholders                              850500000.0       1231362000.0      1952417000.0       1312345000.0
+Net Income Common Stockholders                                   850500000.0       1231362000.0      1952417000.0       1312345000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0                0.0
+Net Income                                                       850500000.0       1231362000.0      1952417000.0       1312345000.0
+Minority Interests                                               192040000.0        102698000.0       115907000.0         82555000.0
+Net Income Including Noncontrolling Interests                    658460000.0       1128664000.0      1836510000.0       1229790000.0
+Net Income Continuous Operations                                 658460000.0       1128664000.0      1836510000.0       1229790000.0
+Tax Provision                                                    174382000.0        342624000.0       232376000.0        361801000.0
+Pretax Income                                                    832842000.0       1471288000.0      2068886000.0       1591591000.0
+Other Non Operating Income Expenses                              144787000.0         27657000.0         5972000.0         59015000.0
+Special Income Charges                                            -5564000.0        -35502000.0        -4898000.0          1403000.0
+Write Off                                                          5564000.0         35502000.0         4898000.0         -1403000.0
+Net Non Operating Interest Income Expense                        -33524000.0        -13601000.0          685000.0         -1468000.0
+Interest Expense Non Operating                                    65799000.0         32788000.0        12887000.0         18291000.0
+Interest Income Non Operating                                     32275000.0         19187000.0        13572000.0         16823000.0
+Operating Income                                                 717066000.0       1447364000.0      2016472000.0       1508454000.0
+Operating Expense                                               1574606000.0       1687627000.0      1658927000.0       1573397000.0
+Research And Development                                         462828000.0        349917000.0       364486000.0        309703000.0
+Selling General And Administration                              1111778000.0       1337710000.0      1294441000.0       1263694000.0
+Selling And Marketing Expense                                   1111778000.0       1337710000.0      1294441000.0       1263694000.0
+Gross Profit                                                    2291672000.0       3134991000.0      3675399000.0       3081851000.0
+Cost Of Revenue                                                10948628000.0      11936441000.0     12926647000.0      11748577000.0
+Total Revenue                                                  13240300000.0      15071432000.0     16602046000.0      14830428000.0
+Operating Revenue                                              13240300000.0      15071432000.0     16602046000.0      14830428000.0

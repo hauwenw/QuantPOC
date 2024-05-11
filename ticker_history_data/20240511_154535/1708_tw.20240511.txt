@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 99, Dunhua South Road
+address2	23rd Floor Section 2
+city	Taipei
+country	Taiwan
+phone	886 2 2704 7272
+fax	886 2 2704 3380
+website	https://www.sesoda.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Sesoda Corporation manufactures and markets sulfate of potash (SOP) in Taiwan. The company offers standard, soluble, low chloride, granular, and industrial grade SOP products; and hydrochloric acid for use in the metallurgical, chemical, food, and pharmaceutical industries. It also provides liquid calcium chloride for use in fluoride ion removal before wastewater discharge in the electronic and optoelectronic industries; and calcium sulfate for use in the industrial production of cement and chalk. In addition, the company trades in soda ash, baking soda, flake calcium chloride, sodium bicarbonate, calcium dihydrogen phosphate, liquid caustic soda, mixed calcium phosphate, ammonium bicarbonate, anhydrous sodium sulfate, sodium sesquicarbonate, hydrogen peroxide, potassium chloride, barium chloride, and salt products. Further, it provides bulk shipping services. Sesoda Corporation was incorporated in 1957 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Cherng  Hwang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chih-Chun  Chen', 'title': 'Finance Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yun Chu  Ching', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gu An Wang', 'title': 'Development Associate', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Yung  Liu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	34.1
+open	34.4
+dayLow	34.25
+dayHigh	35.35
+regularMarketPreviousClose	34.1
+regularMarketOpen	34.4
+regularMarketDayLow	34.25
+regularMarketDayHigh	35.35
+dividendRate	3.0
+dividendYield	0.095699996
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	2.4
+fiveYearAvgDividendYield	4.17
+beta	0.451
+trailingPE	26.401512
+volume	4996831
+regularMarketVolume	4996831
+averageVolume	940536
+averageVolume10days	2804617
+averageDailyVolume10Day	2804617
+bid	34.85
+ask	34.9
+marketCap	8677719040
+fiftyTwoWeekLow	29.35
+fiftyTwoWeekHigh	39.95
+priceToSalesTrailing12Months	1.4760077
+fiftyDayAverage	31.182
+twoHundredDayAverage	31.845
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.043988273
+currency	TWD
+enterpriseValue	11692254208
+profitMargins	-0.00484
+floatShares	165703129
+sharesOutstanding	249002000
+heldPercentInsiders	0.30523002
+heldPercentInstitutions	0.03539
+impliedSharesOutstanding	250591008
+bookValue	25.568
+priceToBook	1.3630319
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.091
+netIncomeToCommon	-28458000
+trailingEps	1.32
+lastSplitFactor	1090:1000
+lastSplitDate	1630022400	 (2021-08-27 08:00:00)
+enterpriseToRevenue	1.989
+enterpriseToEbitda	15.71
+52WeekChange	-0.02106744
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1717113600	 (2024-05-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1708.TW
+underlyingSymbol	1708.TW
+shortName	SESODA CORPN
+longName	Sesoda Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c3769450-b648-3f41-b4da-5fc046053d60
+messageBoardId	finmb_9707463
+gmtOffSetMilliseconds	28800000
+currentPrice	34.85
+recommendationKey	none
+totalCash	1603680000
+totalCashPerShare	6.44
+ebitda	744238016
+totalDebt	5029079040
+quickRatio	0.671
+currentRatio	0.978
+totalRevenue	5879182848
+debtToEquity	78.992
+revenuePerShare	23.611
+returnOnAssets	0.00976
+returnOnEquity	-0.00422
+freeCashflow	428262368
+operatingCashflow	884603008
+earningsGrowth	1.2
+revenueGrowth	-0.223
+grossMargins	0.1462
+ebitdaMargins	0.12659
+operatingMargins	0.16433
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31         2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   12834600.0   -20052566.418696           0.0           0.0
+Tax Rate For Calcs                                                   0.2           0.248019         0.181      0.075125
+Normalized EBITDA                                            716684000.0       2312988000.0  1342429000.0   767670000.0
+Total Unusual Items                                           64173000.0        -80851000.0           0.0           0.0
+Total Unusual Items Excluding Goodwill                        64173000.0        -80851000.0           0.0           0.0
+Net Income From Continuing Operation Net Minority Interest   -28458000.0       1204422000.0   670871000.0   174129000.0
+Reconciled Depreciation                                      543325000.0        516592000.0   470941000.0   474540000.0
+Reconciled Cost Of Revenue                                  5019654000.0       5177065000.0  3229062000.0  3197912000.0
+EBITDA                                                       780857000.0       2232137000.0  1342429000.0   767670000.0
+EBIT                                                         237532000.0       1715545000.0   871488000.0   293130000.0
+Net Interest Income                                         -185542000.0       -107261000.0   -51646000.0  -101750000.0
+Interest Expense                                             224280000.0        113880000.0    52354000.0   104857000.0
+Interest Income                                               38738000.0          6619000.0      708000.0     3107000.0
+Normalized Income                                            -79796400.0  1265220433.581304   670871000.0   174129000.0
+Net Income From Continuing And Discontinued Operation        -28458000.0       1204422000.0   670871000.0   174129000.0
+Total Expenses                                              5733205000.0       6195814000.0  3981366000.0  3780664000.0
+Diluted Average Shares                                       249002000.0        251797000.0   250252000.0   249555000.0
+Basic Average Shares                                         249002000.0        249002000.0   249002000.0   249002000.0
+Diluted EPS                                                        -0.11               4.78          2.68           0.7
+Basic EPS                                                          -0.11               4.84          2.69           0.7
+Diluted NI Availto Com Stockholders                          -28458000.0       1204422000.0   670871000.0   174129000.0
+Net Income Common Stockholders                               -28458000.0       1204422000.0   670871000.0   174129000.0
+Otherunder Preferred Stock Dividend                                  0.0                0.0           0.0           0.0
+Net Income                                                   -28458000.0       1204422000.0   670871000.0   174129000.0
+Minority Interests                                                   NaN                0.0           0.0           0.0
+Net Income Including Noncontrolling Interests                -28458000.0       1204422000.0   670871000.0   174129000.0
+Net Income Continuous Operations                             -28458000.0       1204422000.0   670871000.0   174129000.0
+Tax Provision                                                 41710000.0        397243000.0   148263000.0    14144000.0
+Pretax Income                                                 13252000.0       1601665000.0   819134000.0   188273000.0
+Other Non Operating Income Expenses                           21893000.0        126824000.0    77038000.0    20505000.0
+Special Income Charges                                        64173000.0        -80851000.0           0.0           0.0
+Write Off                                                    -64173000.0         80851000.0           0.0           0.0
+Net Non Operating Interest Income Expense                   -185542000.0       -107261000.0   -51646000.0  -101750000.0
+Interest Expense Non Operating                               224280000.0        113880000.0    52354000.0   104857000.0
+Interest Income Non Operating                                 38738000.0          6619000.0      708000.0     3107000.0
+Operating Income                                             145978000.0       1829375000.0   813900000.0   254328000.0
+Operating Expense                                            713551000.0       1018749000.0   752304000.0   582752000.0
+Selling General And Administration                           713551000.0       1018749000.0   752304000.0   582752000.0
+Selling And Marketing Expense                                423143000.0        480199000.0   415662000.0   333887000.0
+General And Administrative Expense                           290408000.0        538550000.0   336642000.0   248865000.0
+Gross Profit                                                 859529000.0       2848124000.0  1566204000.0   837080000.0
+Cost Of Revenue                                             5019654000.0       5177065000.0  3229062000.0  3197912000.0
+Total Revenue                                               5879183000.0       8025189000.0  4795266000.0  4034992000.0
+Operating Revenue                                           5879183000.0       8025189000.0  4795266000.0  4034992000.0

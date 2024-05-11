@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 289, Zhongxiao East Road
+address2	11th Floor Sec. 4 Da-an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2777 1355
+fax	886 2 2741 8097
+website	https://www.sunty.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Sunty Development Co., LTD builds, rents, and sells residential and commercial building projects in Greater Taipei, Taiwan. The company operates through two departments, Real Estate Transaction department and Construction department. It undertakes residential unit, office space, and parking facility projects, as well as undertakes civil engineering contracts. The company was founded in 1987 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Tai-Lin  Wei', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiu-Wei  Mai', 'title': 'Senior Manager & Vice Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu Juan  Yeh', 'title': 'Director of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bo-Yin  Chien', 'title': 'General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.2
+open	24.7
+dayLow	23.6
+dayHigh	24.7
+regularMarketPreviousClose	24.2
+regularMarketOpen	24.7
+regularMarketDayLow	23.6
+regularMarketDayHigh	24.7
+dividendRate	0.5
+dividendYield	0.0208
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.2146
+trailingPE	10.300429
+volume	1809622
+regularMarketVolume	1809622
+averageVolume	1319588
+averageVolume10days	4332117
+averageDailyVolume10Day	4332117
+bid	23.95
+ask	24.0
+marketCap	8455535616
+fiftyTwoWeekLow	12.4
+fiftyTwoWeekHigh	26.35
+priceToSalesTrailing12Months	1.7502259
+fiftyDayAverage	20.144
+twoHundredDayAverage	16.98425
+trailingAnnualDividendRate	0.75
+trailingAnnualDividendYield	0.030991735
+currency	TWD
+enterpriseValue	10885656576
+profitMargins	0.17063999
+sharesOutstanding	352313984
+heldPercentInsiders	0.81494004
+heldPercentInstitutions	1.0000001e-05
+impliedSharesOutstanding	358544000
+bookValue	17.427
+priceToBook	1.3771733
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	9.557
+netIncomeToCommon	824369024
+trailingEps	2.33
+enterpriseToRevenue	2.253
+enterpriseToEbitda	11.909
+52WeekChange	0.91235065
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3266.TW
+underlyingSymbol	3266.TW
+shortName	SUNTY DEVELOPMENT CO LTD
+longName	Sunty Development Co., LTD
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c1b6927a-9cc0-39ea-8d78-e0010bde6e25
+messageBoardId	finmb_12763525
+gmtOffSetMilliseconds	28800000
+currentPrice	24.0
+recommendationKey	none
+totalCash	1520846976
+totalCashPerShare	4.307
+ebitda	914038976
+totalDebt	3895655936
+quickRatio	0.245
+currentRatio	1.809
+totalRevenue	4831111168
+debtToEquity	62.935
+revenuePerShare	13.858
+returnOnAssets	0.04066
+returnOnEquity	0.13092
+freeCashflow	2051748864
+operatingCashflow	2079389056
+earningsGrowth	10.0
+revenueGrowth	1.163
+grossMargins	0.29567
+ebitdaMargins	0.1892
+operatingMargins	0.14974
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.111704      0.168759      0.253161      0.140086
+Normalized EBITDA                                            789899000.0   247579000.0    91913000.0   203322000.0
+Net Income From Continuing Operation Net Minority Interest   683723000.0   200247000.0    86898000.0   141319000.0
+Reconciled Depreciation                                       32051000.0    33808000.0    34903000.0    33669000.0
+Reconciled Cost Of Revenue                                  3002296000.0  2339461000.0   777322000.0  2710375000.0
+EBITDA                                                       789899000.0   247579000.0    91913000.0   203322000.0
+EBIT                                                         757848000.0   213771000.0    57010000.0   169653000.0
+Net Interest Income                                          -12404000.0   -16946000.0     -836000.0    -1110000.0
+Interest Expense                                              32622000.0    23606000.0     1891000.0     3170000.0
+Interest Income                                               20218000.0     6660000.0     1055000.0     2060000.0
+Normalized Income                                            683723000.0   200247000.0    86898000.0   141319000.0
+Net Income From Continuing And Discontinued Operation        683723000.0   200247000.0    86898000.0   141319000.0
+Total Expenses                                              3496430000.0  2722225000.0   990103000.0  3056070000.0
+Diluted Average Shares                                               NaN   352991000.0   352614000.0   352759000.0
+Basic Average Shares                                                 NaN   352314000.0   352314000.0   352314000.0
+Diluted EPS                                                          NaN          0.57          0.25           0.4
+Basic EPS                                                            NaN          0.57          0.25           0.4
+Diluted NI Availto Com Stockholders                          683723000.0   200247000.0    86898000.0   141319000.0
+Net Income Common Stockholders                               683723000.0   200247000.0    86898000.0   141319000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   683723000.0   200247000.0    86898000.0   141319000.0
+Minority Interests                                            39508000.0    42174000.0    45733000.0    -1842000.0
+Net Income Including Noncontrolling Interests                644215000.0   158073000.0    41165000.0   143161000.0
+Net Income Continuous Operations                             644215000.0   158073000.0    41165000.0   143161000.0
+Tax Provision                                                 81011000.0    32092000.0    13954000.0    23322000.0
+Pretax Income                                                725226000.0   190165000.0    55119000.0   166483000.0
+Other Non Operating Income Expenses                           -4472000.0    20965000.0    29102000.0     7394000.0
+Net Non Operating Interest Income Expense                    -12404000.0   -16946000.0     -836000.0    -1110000.0
+Interest Expense Non Operating                                32622000.0    23606000.0     1891000.0     3170000.0
+Interest Income Non Operating                                 20218000.0     6660000.0     1055000.0     2060000.0
+Operating Income                                             745920000.0   186146000.0    26853000.0   160199000.0
+Operating Expense                                            494134000.0   382764000.0   212781000.0   345695000.0
+Research And Development                                       2182000.0     2505000.0     1288000.0     1906000.0
+Selling General And Administration                           491952000.0   380259000.0   211493000.0   343789000.0
+Selling And Marketing Expense                                204357000.0   163414000.0    25470000.0   133340000.0
+General And Administrative Expense                           287595000.0   216845000.0   186023000.0   210449000.0
+Gross Profit                                                1240054000.0   568910000.0   239634000.0   505894000.0
+Cost Of Revenue                                             3002296000.0  2339461000.0   777322000.0  2710375000.0
+Total Revenue                                               4242350000.0  2908371000.0  1016956000.0  3216269000.0
+Operating Revenue                                           4242350000.0  2908371000.0  1016956000.0  3216269000.0

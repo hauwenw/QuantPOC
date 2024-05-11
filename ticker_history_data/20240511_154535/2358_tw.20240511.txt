@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 68, Section 1
+address2	Baoan Road Rende District
+city	Tainan City
+zip	717
+country	Taiwan
+phone	886 6 266 4126
+fax	886 6 266 4983
+website	https://www.tingsin.com.tw
+industry	Aluminum
+industryKey	aluminum
+industryDisp	Aluminum
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Ting Sin Co., Ltd. manufactures, sells, and tests aluminum alloy products worldwide. It operates through two segments, Aluminum Alloy Business and Leather Goods Business. The company offers aluminum ingots, aluminum alloy billets, aluminum alloy continuous casting and rolling coils, aluminum shots (deoxidizer), and magnesium bone nails; aluminum wire rods; and aluminum/magnesium alloys. It also engages in the research, development, designing, manufacturing, and sale of leather goods and their related application products, as well as related technologies and products. The company was formerly known as MAG Technology Co., Ltd. and changed its name to Ting Sin Co.,Ltd in 2014. Ting Sin Co.,Ltd was incorporated in 1987 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Zhao Xin  Yan', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hengyu  Xu', 'title': 'Financial Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	4
+previousClose	4.56
+open	4.56
+dayLow	4.56
+dayHigh	4.56
+regularMarketPreviousClose	4.56
+regularMarketOpen	4.56
+regularMarketDayLow	4.56
+regularMarketDayHigh	4.56
+dividendRate	0.27
+dividendYield	0.0255
+exDividendDate	1669075200	 (2022-11-22 08:00:00)
+payoutRatio	27.3649
+beta	0.463
+forwardPE	2.1923077
+volume	1255533
+regularMarketVolume	1255533
+averageVolume	1345062
+marketCap	623000896
+fiftyTwoWeekLow	4.27
+fiftyTwoWeekHigh	14.9
+priceToSalesTrailing12Months	0.41585764
+fiftyDayAverage	5.513
+twoHundredDayAverage	8.8382
+currency	TWD
+enterpriseValue	2264742912
+profitMargins	-0.31457
+sharesOutstanding	136623008
+heldPercentInsiders	0.26569
+heldPercentInstitutions	0.00018999999
+impliedSharesOutstanding	151611008
+bookValue	10.904
+priceToBook	0.41819513
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+netIncomeToCommon	-471268000
+trailingEps	-3.47
+forwardEps	2.08
+lastSplitFactor	0.58372:1
+lastSplitDate	1476921600	 (2016-10-20 08:00:00)
+enterpriseToRevenue	1.512
+enterpriseToEbitda	-4.73
+52WeekChange	-0.6292683
+SandP52WeekChange	0.26265144
+lastDividendValue	0.273649
+lastDividendDate	1669075200	 (2022-11-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2358.TW
+underlyingSymbol	2358.TW
+shortName	TING SIN CO LTD
+longName	Ting Sin Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	636ec34c-e38f-35ff-9135-82ba33051b9b
+messageBoardId	finmb_153996
+gmtOffSetMilliseconds	28800000
+currentPrice	4.56
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	290598016
+totalCashPerShare	2.127
+ebitda	-478830016
+totalDebt	1865879040
+quickRatio	0.7
+currentRatio	2.819
+totalRevenue	1498110976
+debtToEquity	119.895
+revenuePerShare	10.995
+returnOnAssets	-0.08389
+returnOnEquity	-0.28244
+freeCashflow	686313600
+operatingCashflow	-104632000
+revenueGrowth	-0.55
+grossMargins	-0.041989997
+ebitdaMargins	-0.31962
+operatingMargins	-2.0143402
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   -5657800.0    2388310.634699  -7809703.582849
+Tax Rate For Calcs                                                   0.2          0.170594         0.319389
+Normalized EBITDA                                            144717000.0       260155000.0      130752000.0
+Total Unusual Items                                          -28289000.0        14000000.0      -24452000.0
+Total Unusual Items Excluding Goodwill                       -28289000.0        14000000.0      -24452000.0
+Net Income From Continuing Operation Net Minority Interest     1586000.0       144150000.0       10429000.0
+Reconciled Depreciation                                       63928000.0        56643000.0       50105000.0
+Reconciled Cost Of Revenue                                  1910839000.0      2173288000.0     1733532000.0
+EBITDA                                                       116428000.0       274155000.0      106300000.0
+EBIT                                                          52500000.0       217512000.0       56195000.0
+Net Interest Income                                          -55058000.0       -43590000.0      -40720000.0
+Interest Expense                                              55850000.0        43713000.0       40872000.0
+Interest Income                                                 792000.0          123000.0         152000.0
+Normalized Income                                             24217200.0  132538310.634699  27071296.417151
+Net Income From Continuing And Discontinued Operation          1586000.0       144150000.0       10429000.0
+Total Expenses                                              2046822000.0      2325064000.0     1836889000.0
+Diluted Average Shares                                       127260000.0       112052000.0       93162088.0
+Basic Average Shares                                         127246000.0       111562000.0       93162088.0
+Diluted EPS                                                         0.01              1.29         0.109483
+Basic EPS                                                           0.01              1.29         0.109483
+Diluted NI Availto Com Stockholders                            1586000.0       144150000.0       10429000.0
+Net Income Common Stockholders                                 1586000.0       144150000.0       10429000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0              0.0
+Net Income                                                     1586000.0       144150000.0       10429000.0
+Minority Interests                                             5121000.0               0.0              0.0
+Net Income Including Noncontrolling Interests                 -3535000.0       144150000.0       10429000.0
+Net Income Continuous Operations                              -3535000.0       144150000.0       10429000.0
+Tax Provision                                                   185000.0        29649000.0        4894000.0
+Pretax Income                                                 -3350000.0       173799000.0       15323000.0
+Other Non Operating Income Expenses                           13965000.0         5553000.0       -3474000.0
+Special Income Charges                                       -28289000.0        14000000.0      -24452000.0
+Write Off                                                     28289000.0       -14000000.0       24452000.0
+Net Non Operating Interest Income Expense                    -55058000.0       -43590000.0      -40720000.0
+Interest Expense Non Operating                                55850000.0        43713000.0       40872000.0
+Interest Income Non Operating                                   792000.0          123000.0         152000.0
+Operating Income                                              66032000.0       197836000.0       83969000.0
+Operating Expense                                            135983000.0       151776000.0      103357000.0
+Research And Development                                       7969000.0        13778000.0        8466000.0
+Selling General And Administration                           128014000.0       137998000.0       94891000.0
+Selling And Marketing Expense                                 40319000.0        44555000.0       44996000.0
+General And Administrative Expense                            87695000.0        93443000.0       49895000.0
+Gross Profit                                                 202015000.0       349612000.0      187326000.0
+Cost Of Revenue                                             1910839000.0      2173288000.0     1733532000.0
+Total Revenue                                               2112854000.0      2522900000.0     1920858000.0
+Operating Revenue                                           2112854000.0      2522900000.0     1920858000.0

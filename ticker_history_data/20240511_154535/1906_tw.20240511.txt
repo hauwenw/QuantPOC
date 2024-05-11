@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 25, Shisan North Road
+address2	Yunlin County
+city	Douliu
+zip	640106
+country	Taiwan
+phone	886 2 5581 1777
+fax	886 2 5581 1778
+website	https://www.baolongintl.com
+industry	Paper & Paper Products
+industryKey	paper-paper-products
+industryDisp	Paper & Paper Products
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Baolong International Co., Ltd. sells industrial paper products. The company was founded in 1954 and is based in Douliu, Taiwan.
+fullTimeEmployees	20
+companyOfficers	[{'maxAge': 1, 'name': 'Weize  Xu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yucheng  Zhang', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.85
+open	16.0
+dayLow	15.95
+dayHigh	16.6
+regularMarketPreviousClose	15.85
+regularMarketOpen	16.0
+regularMarketDayLow	15.95
+regularMarketDayHigh	16.6
+dividendRate	0.5
+dividendYield	0.0312
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	0.641
+fiveYearAvgDividendYield	3.21
+beta	0.821
+trailingPE	20.576923
+volume	589941
+regularMarketVolume	589941
+averageVolume	122278
+averageVolume10days	160212
+averageDailyVolume10Day	160212
+bid	16.05
+ask	16.1
+marketCap	2423549952
+fiftyTwoWeekLow	14.55
+fiftyTwoWeekHigh	16.75
+priceToSalesTrailing12Months	0.7145123
+fiftyDayAverage	15.589
+twoHundredDayAverage	15.51625
+trailingAnnualDividendRate	0.15
+trailingAnnualDividendYield	0.009463723
+currency	TWD
+enterpriseValue	4279116032
+profitMargins	0.00887
+sharesOutstanding	151000000
+heldPercentInsiders	0.64599
+heldPercentInstitutions	0.00149
+impliedSharesOutstanding	151478000
+bookValue	28.789
+priceToBook	0.5575046
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	30098000
+trailingEps	0.78
+lastSplitFactor	1:1.2702
+lastSplitDate	1046044800	 (2003-02-24 08:00:00)
+enterpriseToRevenue	1.262
+52WeekChange	0.028846145
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1906.TW
+underlyingSymbol	1906.TW
+shortName	BAOLONG INTERNATIONAL CO LTD
+longName	Baolong International Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7d5461d6-feeb-3189-94d1-b6ac4158c9cb
+messageBoardId	finmb_9829919
+gmtOffSetMilliseconds	28800000
+currentPrice	16.05
+recommendationKey	none
+totalCash	110322000
+totalCashPerShare	0.731
+totalDebt	1965888000
+quickRatio	0.163
+currentRatio	0.183
+totalRevenue	3391894016
+debtToEquity	45.222
+revenuePerShare	22.463
+returnOnAssets	0.00035
+returnOnEquity	0.00653
+freeCashflow	-23100124
+operatingCashflow	57795000
+revenueGrowth	-0.138
+grossMargins	0.075279996
+operatingMargins	0.01087
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                               0.32493      0.068681      0.049572       0.01909
+Normalized EBITDA                                             80492000.0   480200000.0   212091000.0   111339000.0
+Net Income From Continuing Operation Net Minority Interest    30098000.0   426884000.0   184576000.0    93259000.0
+Reconciled Depreciation                                        1174000.0      937000.0      729000.0      615000.0
+Reconciled Cost Of Revenue                                  3136542000.0  4151392000.0  1620079000.0  1110916000.0
+EBITDA                                                        80492000.0   480200000.0   212091000.0   111339000.0
+EBIT                                                          79318000.0   479263000.0   211362000.0   110724000.0
+Net Interest Income                                          -33873000.0   -20446000.0   -17143000.0   -15603000.0
+Interest Expense                                              34733000.0    20898000.0    17159000.0    15650000.0
+Interest Income                                                 860000.0      452000.0       16000.0       47000.0
+Normalized Income                                             30098000.0   426884000.0   184576000.0    93259000.0
+Net Income From Continuing And Discontinued Operation         30098000.0   426884000.0   184576000.0    93259000.0
+Total Expenses                                              3387926000.0  4588154000.0  1841437000.0  1236153000.0
+Diluted Average Shares                                       151023000.0   151088000.0   151031000.0   150417742.0
+Basic Average Shares                                         151000000.0   151000000.0   151000000.0   150417742.0
+Diluted EPS                                                          0.2          2.83          1.22          0.62
+Basic EPS                                                            0.2          2.83          1.22          0.62
+Diluted NI Availto Com Stockholders                           30098000.0   426884000.0   184576000.0    93259000.0
+Net Income Common Stockholders                                30098000.0   426884000.0   184576000.0    93259000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    30098000.0   426884000.0   184576000.0    93259000.0
+Net Income Including Noncontrolling Interests                 30098000.0   426884000.0   184576000.0    93259000.0
+Net Income Continuous Operations                              30098000.0   426884000.0   184576000.0    93259000.0
+Tax Provision                                                 14487000.0    31481000.0     9627000.0     1815000.0
+Pretax Income                                                 44585000.0   458365000.0   194203000.0    95074000.0
+Other Non Operating Income Expenses                           57251000.0   417753000.0   179810000.0    63845000.0
+Net Non Operating Interest Income Expense                    -33873000.0   -20446000.0   -17143000.0   -15603000.0
+Interest Expense Non Operating                                34733000.0    20898000.0    17159000.0    15650000.0
+Interest Income Non Operating                                   860000.0      452000.0       16000.0       47000.0
+Operating Income                                               3968000.0    10887000.0     1824000.0     9308000.0
+Operating Expense                                            251384000.0   436762000.0   221358000.0   125237000.0
+Selling General And Administration                           251384000.0   436762000.0   221358000.0   125237000.0
+Selling And Marketing Expense                                192037000.0   375855000.0   169327000.0   102446000.0
+General And Administrative Expense                            59347000.0    60907000.0    52031000.0    22791000.0
+Gross Profit                                                 255352000.0   447649000.0   223182000.0   134545000.0
+Cost Of Revenue                                             3136542000.0  4151392000.0  1620079000.0  1110916000.0
+Total Revenue                                               3391894000.0  4599041000.0  1843261000.0  1245461000.0
+Operating Revenue                                           3391894000.0  4599041000.0  1843261000.0  1245461000.0

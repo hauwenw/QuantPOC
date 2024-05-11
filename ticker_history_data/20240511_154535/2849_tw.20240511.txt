@@ -1,0 +1,135 @@
+=== Ticker Info ===
+address1	101 Tower
+address2	40th Floor Section 5 No.7 Hsinyi Road
+city	Taipei
+zip	11049
+country	Taiwan
+phone	886 2 8101 2277
+website	https://www.entiebank.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	EnTie Commercial Bank Co., Ltd. provides banking products and services primarily in Taiwan. The company operates through three segments: Retail Banking, Corporate Banking, and Operating Management. It also offers checking accounts, demand deposits, time deposits, and negotiable certificates of deposit. In addition, the company offers loans, trade financing, cash management, trust, financing, funding cost, deployment of funds, and structured credit solutions, ALM, and interest related services. Further, it provides mortgage, personal loan, credit card, insurance, mutual funds, structured investment linked, wealth management, and personal trust products. EnTie Commercial Bank Co., Ltd. was founded in 1992 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	1503
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chen-Fang  Chang', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Vivian  Chen', 'title': 'First VP & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Arens  Chang', 'title': 'Senior VP, COO & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Katherine  Chung', 'title': 'VP & Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Austin  Fang', 'title': 'First VP & Head of Information Services', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chloe  Jiang', 'title': 'Section Chief of Department Secretariat of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Morris  Chang', 'title': 'Senior VP & Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jason  Chen', 'title': 'Acting AVP and Head of Legal & Compliance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Serena  Shen', 'title': 'VP & Head of Human Resources', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eason  Hung', 'title': 'Executive VP & Chief Credit Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.entiebank.com.tw/ENGLISH/MsgToShareholders.asp
+maxAge	86400
+priceHint	2
+previousClose	14.2
+open	14.2
+dayLow	14.1
+dayHigh	14.3
+regularMarketPreviousClose	14.2
+regularMarketOpen	14.2
+regularMarketDayLow	14.1
+regularMarketDayHigh	14.3
+dividendRate	0.4
+dividendYield	0.027999999
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	0.39220002
+fiveYearAvgDividendYield	4.78
+beta	0.332
+trailingPE	14.0196085
+volume	137888
+regularMarketVolume	137888
+averageVolume	93111
+averageVolume10days	121543
+averageDailyVolume10Day	121543
+bid	14.2
+ask	14.3
+marketCap	27993823232
+fiftyTwoWeekLow	13.6
+fiftyTwoWeekHigh	15.8
+priceToSalesTrailing12Months	6.3256445
+fiftyDayAverage	14.043
+twoHundredDayAverage	14.178
+currency	TWD
+enterpriseValue	7856291328
+profitMargins	0.24879
+floatShares	564946497
+sharesOutstanding	1957609984
+heldPercentInsiders	0.70193
+heldPercentInstitutions	0.0309
+impliedSharesOutstanding	1964499968
+bookValue	17.13
+priceToBook	0.8347928
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	1101026944
+trailingEps	1.02
+lastSplitFactor	0.447398:1
+lastSplitDate	1219363200	 (2008-08-22 08:00:00)
+enterpriseToRevenue	1.775
+52WeekChange	-0.04347825
+SandP52WeekChange	0.26265144
+lastDividendValue	0.4
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2849.TW
+underlyingSymbol	2849.TW
+shortName	EN TIE COMMERCIAL BANK
+longName	EnTie Commercial Bank Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4fd8c837-e04e-35aa-8cf4-b92b989f8753
+messageBoardId	finmb_12721196
+gmtOffSetMilliseconds	28800000
+currentPrice	14.3
+recommendationKey	none
+totalCash	24477956096
+totalCashPerShare	12.504
+totalDebt	4340433920
+totalRevenue	4425449984
+revenuePerShare	2.261
+returnOnAssets	0.00321
+returnOnEquity	0.03323
+operatingCashflow	11973748736
+revenueGrowth	9.86
+operatingMargins	0.33082
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     -19085.341027     -275246.298062     -107123.85494       -8964.718049
+Tax Rate For Calcs                                                   0.119283           0.173767          0.124853           0.151944
+Total Unusual Items                                                 -160000.0         -1584000.0         -858000.0           -59000.0
+Total Unusual Items Excluding Goodwill                              -160000.0         -1584000.0         -858000.0           -59000.0
+Net Income From Continuing Operation Net Minority Interest       1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Reconciled Depreciation                                           334383000.0        317172000.0       316454000.0        331539000.0
+Net Interest Income                                              3570512000.0       4151458000.0      3717834000.0       3505448000.0
+Interest Expense                                                 5351798000.0       2361041000.0      1226327000.0       2030818000.0
+Interest Income                                                  8922310000.0       6512499000.0      4944161000.0       5536266000.0
+Normalized Income                                           1101167914.658973  1066926753.701938  2324450876.14506  2171510035.281951
+Net Income From Continuing And Discontinued Operation            1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Diluted Average Shares                                                    NaN       1973366667.0      1952689076.0       1959766000.0
+Basic Average Shares                                                      NaN       1973366667.0      1952689076.0       1957910000.0
+Diluted EPS                                                               NaN               0.54              1.19               1.11
+Basic EPS                                                                 NaN               0.54              1.19               1.11
+Diluted NI Availto Com Stockholders                              1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Net Income Common Stockholders                                   1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Net Income                                                       1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Net Income Including Noncontrolling Interests                    1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Net Income Discontinuous Operations                                       0.0                0.0               0.0                0.0
+Net Income Continuous Operations                                 1101027000.0       1065618000.0      2323700000.0       2171460000.0
+Tax Provision                                                     149122000.0        224112000.0       331511000.0        389056000.0
+Pretax Income                                                    1250149000.0       1289730000.0      2655211000.0       2560516000.0
+Other Non Operating Income Expenses                                  157000.0           455000.0         5247000.0        -11240000.0
+Special Income Charges                                              -160000.0         -1584000.0         -858000.0           -59000.0
+Other Special Charges                                                160000.0          1584000.0          858000.0            59000.0
+Gain On Sale Of Security                                          612187000.0         33369000.0       206285000.0        537205000.0
+Operating Expense                                                3136569000.0       2864627000.0      2870486000.0       2822866000.0
+Other Operating Expenses                                          -38732000.0        -86487000.0       -37497000.0         15994000.0
+Depreciation And Amortization In Income Statement                 334383000.0        317172000.0       316454000.0        331539000.0
+Amortization                                                       31650000.0         24122000.0        22418000.0         22140000.0
+Depreciation Income Statement                                     302733000.0        293050000.0       294036000.0        309399000.0
+Selling General And Administration                                959860000.0        852361000.0       822209000.0        827095000.0
+General And Administrative Expense                                959860000.0        852361000.0       822209000.0        827095000.0
+Total Revenue                                                    5822808000.0       5982882000.0      5932649000.0       5858260000.0
+Operating Revenue                                                5822808000.0       5982882000.0      5932649000.0       5858260000.0

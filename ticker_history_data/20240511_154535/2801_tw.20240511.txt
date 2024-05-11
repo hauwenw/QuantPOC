@@ -1,0 +1,137 @@
+=== Ticker Info ===
+address1	No. 38, Ziyou Road
+address2	Section 2 Central District
+city	Taichung
+zip	40045
+country	Taiwan
+phone	886 4 2222 2001
+fax	886 2 2562 8443
+website	https://www.bankchb.com
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Chang Hwa Commercial Bank, Ltd., together with its subsidiaries, provides commercial banking products and services in Taiwan and internationally. It offers checking, demand, time, interbank, and savings deposits, as well as negotiable certificates of deposit; and remittances, and credit and debit cards. The company also provides insurance products; syndicated loans; and short-term, mid-term, and long-term loans. In addition, it offers foreign exchange and wealth management services. Further, the company is involved in trust and international banking services, as well as invests in government, financial, and corporate bonds; internet, telephone, and mobile banking services; and the provision of securities underwriting, financing, and brokerage services. Chang Hwa Commercial Bank was founded in 1905 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Chung  Chou', 'title': 'President, MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Jinn  Chiou', 'title': 'Senior VP, Accounting Officer & Division Head of Financial Management', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuei-Mei  Hsu', 'title': 'Senior VP & Head of Operations Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Louisa  Liu', 'title': 'Head of Finance Section', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rueih-Hwa  Cheng', 'title': 'Chief Compliance Officer & Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Hsueh  Liu', 'title': 'Senior VP & Head of Human Resources Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Fang  Wu', 'title': 'Chief Auditor & Executive VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jui-Chun  Wu', 'title': 'Senior VP & Head Loan Asset Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shwu-Fang  Wang', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bin  Chen', 'title': 'Executive VP & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.4
+open	18.4
+dayLow	18.4
+dayHigh	18.65
+regularMarketPreviousClose	18.4
+regularMarketOpen	18.4
+regularMarketDayLow	18.4
+regularMarketDayHigh	18.65
+dividendRate	0.55
+dividendYield	0.0296
+exDividendDate	1691625600	 (2023-08-10 08:00:00)
+payoutRatio	0.46220002
+fiveYearAvgDividendYield	2.64
+beta	0.347
+trailingPE	15.630252
+volume	23965420
+regularMarketVolume	23965420
+averageVolume	12968138
+averageVolume10days	20653385
+averageDailyVolume10Day	20653385
+bid	18.55
+ask	18.6
+marketCap	201964388352
+fiftyTwoWeekLow	16.95
+fiftyTwoWeekHigh	18.7
+priceToSalesTrailing12Months	5.7167363
+fiftyDayAverage	18.137
+twoHundredDayAverage	17.698427
+currency	TWD
+enterpriseValue	156534652928
+profitMargins	0.36747003
+floatShares	6539406937
+sharesOutstanding	10858300416
+heldPercentInsiders	0.35522
+heldPercentInstitutions	0.22424999
+impliedSharesOutstanding	10917000192
+bookValue	17.314
+priceToBook	1.0742753
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.12
+netIncomeToCommon	12982141952
+trailingEps	1.19
+lastSplitFactor	1025:1000
+lastSplitDate	1691625600	 (2023-08-10 08:00:00)
+enterpriseToRevenue	4.431
+52WeekChange	0.05916667
+SandP52WeekChange	0.26265144
+lastDividendValue	0.55
+lastDividendDate	1691625600	 (2023-08-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2801.TW
+underlyingSymbol	2801.TW
+shortName	CHANG HWA COMMERCIAL BANK LTD
+longName	Chang Hwa Commercial Bank, Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c0d3087a-a838-3ece-a621-43d3ca885eda
+messageBoardId	finmb_876766
+gmtOffSetMilliseconds	28800000
+currentPrice	18.6
+recommendationKey	none
+totalCash	227145138176
+totalCashPerShare	20.919
+totalDebt	181715550208
+totalRevenue	35328618496
+revenuePerShare	3.254
+returnOnAssets	0.00465
+returnOnEquity	0.07272
+operatingCashflow	-156374810624
+earningsGrowth	0.108
+revenueGrowth	0.057
+operatingMargins	0.42023998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -29378549.524444    -12661925.646906     -148830.656852     1829775.048174
+Tax Rate For Calcs                                                    0.200439            0.159346           0.130097           0.152774
+Total Unusual Items                                               -146571000.0         -79462000.0         -1144000.0         11977000.0
+Total Unusual Items Excluding Goodwill                            -146571000.0         -79462000.0         -1144000.0         11977000.0
+Net Income From Continuing Operation Net Minority Interest       12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Reconciled Depreciation                                           1650408000.0        1570762000.0       1420297000.0       1402619000.0
+Net Interest Income                                              23086831000.0       24984270000.0      20610705000.0      19227288000.0
+Interest Expense                                                 42610485000.0       16966652000.0       7026311000.0      10675907000.0
+Interest Income                                                  65697316000.0       41950922000.0      27637016000.0      29903195000.0
+Normalized Income                                           13099334450.475555  11037951074.353094  8804798169.343147  7030779775.048174
+Net Income From Continuing And Discontinued Operation            12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Diluted Average Shares                                                     NaN       10905449000.0      10895138075.0      10890672642.0
+Basic Average Shares                                                       NaN       10858293000.0      10858293425.0      10858293127.0
+Diluted EPS                                                                NaN                1.01           0.809756           0.647187
+Basic EPS                                                                  NaN                1.01           0.809756           0.647187
+Diluted NI Availto Com Stockholders                              12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Net Income Common Stockholders                                   12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Net Income                                                       12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Net Income Including Noncontrolling Interests                    12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Net Income Continuous Operations                                 12982142000.0       10971151000.0       8803803000.0       7040927000.0
+Tax Provision                                                     3254446000.0        2079577000.0       1316636000.0       1269639000.0
+Pretax Income                                                    16236588000.0       13050728000.0      10120439000.0       8310566000.0
+Other Non Operating Income Expenses                                 25248000.0          27226000.0         55775000.0         57718000.0
+Special Income Charges                                            -146571000.0         -79462000.0         -1144000.0          -264000.0
+Other Special Charges                                              146571000.0          79462000.0          1144000.0           308000.0
+Write Off                                                                  NaN                 NaN                0.0           -44000.0
+Gain On Sale Of Security                                          7874326000.0        1674303000.0       1506819000.0       2146249000.0
+Operating Expense                                                19168423000.0       17824873000.0      16847775000.0      16242069000.0
+Other Operating Expenses                                            12889000.0         -10069000.0         13302000.0          9929000.0
+Depreciation And Amortization In Income Statement                 1650408000.0        1570762000.0       1420297000.0       1402619000.0
+Amortization                                                       424303000.0         356687000.0        260567000.0        244268000.0
+Depreciation Income Statement                                     1226105000.0        1214075000.0       1159730000.0       1158351000.0
+Selling General And Administration                                4872161000.0        4228255000.0       3693448000.0       3710822000.0
+General And Administrative Expense                                4872161000.0        4228255000.0       3693448000.0       3710822000.0
+Rent And Landing Fees                                              367919000.0         314487000.0        312184000.0        310992000.0
+Total Revenue                                                    38759553000.0       34260738000.0      28697768000.0      27325613000.0
+Operating Revenue                                                38759553000.0       34260738000.0      28697768000.0      27325613000.0

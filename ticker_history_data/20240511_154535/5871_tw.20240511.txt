@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No.362, Ruiguang Road
+address2	Neihu District
+city	Taipei
+zip	11492
+country	Taiwan
+phone	886 2 8752 6388
+website	https://www.chaileaseholding.com
+industry	Credit Services
+industryKey	credit-services
+industryDisp	Credit Services
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Chailease Holding Company Limited, an investment holding company, provides various financial services to small and medium-sized enterprises (SMEs) in Taiwan, China, ASEAN countries, and internationally. It offers leasing services, which includes capital and operating leases for assets, including machinery, medical equipment, airplanes, boats and office equipment; and installment sales service to customers in various industries, such as transportation, warehousing, manufacturing, wholesale and retail, as well as to consumers for raw materials, semi-finished and finished products, furniture and fixtures, and production equipment; import/export factoring services; and direct financing services to SMEs, micro-enterprises and large corporations. The company is also involved in the life and property insurance brokerage, financing and investments of solar power plant, collection of overdue receivables, and gasoline wholesale business. In addition, it offers financial products to cope with SMEs funding needs for business development, including heavy vehicle and automobile financing, construction equipment financing, fishery inventory financing, microenterprises financing, real estate financing, office equipment leasing, medical equipment financing, car rentals, energy services company financing and services, engineering, procurement and construction, and operations and maintenance, inventory financing, and aircraft and ship financing. Further, the company provides house property leasing and management services; real estate development; ship and aircraft leasing; financial consulting and trading activities; mortgage services; and cloud products software. Chailease Holding Company Limited was founded in 1977 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Fong-Long  Chen', 'age': 67, 'title': 'Executive Chairman & President', 'yearBorn': 1956, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Cheng  Chen', 'title': 'Finance & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sharon  Fan', 'title': 'Senior Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu-Tze  Cheng', 'age': 60, 'title': 'Chief Human Resource Officer & Director', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Ching  Hou', 'age': 69, 'title': 'President of Chailease Finance Co., Ltd.', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuen-Ming  Chen', 'age': 68, 'title': 'President of Chailease International Finance Corporation', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lian  Jialin', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tingwei  Wang', 'title': 'Assistant Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	150.0
+open	150.5
+dayLow	150.5
+dayHigh	153.5
+regularMarketPreviousClose	150.0
+regularMarketOpen	150.5
+regularMarketDayLow	150.5
+regularMarketDayHigh	153.5
+dividendRate	6.4
+dividendYield	0.0418
+exDividendDate	1690848000	 (2023-08-01 08:00:00)
+payoutRatio	0.4275
+fiveYearAvgDividendYield	2.95
+beta	1.166
+trailingPE	10.227273
+forwardPE	8.108108
+volume	19010733
+regularMarketVolume	19010733
+averageVolume	5906268
+averageVolume10days	13031910
+averageDailyVolume10Day	13031910
+bid	153.0
+ask	153.5
+marketCap	286311972864
+fiftyTwoWeekLow	150.0
+fiftyTwoWeekHigh	218.13725
+priceToSalesTrailing12Months	4.533167
+fiftyDayAverage	172.15
+twoHundredDayAverage	178.51201
+currency	TWD
+enterpriseValue	894125146112
+profitMargins	0.39636
+floatShares	1113990373
+sharesOutstanding	1871320064
+heldPercentInsiders	0.24642
+heldPercentInstitutions	0.33933
+impliedSharesOutstanding	1871320064
+bookValue	94.426
+priceToBook	1.6203164
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.064
+netIncomeToCommon	24463636480
+trailingEps	14.96
+forwardEps	18.87
+pegRatio	1.0
+lastSplitFactor	1020:1000
+lastSplitDate	1690848000	 (2023-08-01 08:00:00)
+enterpriseToRevenue	14.157
+52WeekChange	-0.25330144
+SandP52WeekChange	0.26265144
+lastDividendValue	6.4
+lastDividendDate	1690848000	 (2023-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5871.TW
+underlyingSymbol	5871.TW
+shortName	CHAILEASE HOLDING COMPANY LIMIT
+longName	Chailease Holding Company Limited
+firstTradeDateEpochUtc	1323738000	 (2011-12-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	86cb3878-1a34-38b6-b93f-46a9fdf2633a
+messageBoardId	finmb_129364722
+gmtOffSetMilliseconds	28800000
+currentPrice	153.0
+targetHighPrice	237.0
+targetLowPrice	143.0
+targetMeanPrice	200.44
+targetMedianPrice	202.0
+recommendationMean	1.9
+recommendationKey	buy
+numberOfAnalystOpinions	9
+totalCash	43183595520
+totalCashPerShare	26.746
+totalDebt	679401619456
+quickRatio	1.316
+currentRatio	1.377
+totalRevenue	63159369728
+debtToEquity	415.954
+revenuePerShare	39.118
+returnOnAssets	0.02861
+returnOnEquity	0.16615999
+operatingCashflow	-16418167808
+earningsGrowth	-0.063
+revenueGrowth	-0.01
+grossMargins	0.7218
+operatingMargins	0.52375
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                 -4205649375.579365  -2595214802.644234  -2190651121.760068  -2058314670.764348
+Tax Rate For Calcs                                                     0.28079            0.276191             0.34511            0.288949
+Normalized EBITDA                                                15023093000.0       11310954000.0        7961844000.0        8505824000.0
+Total Unusual Items                                             -14977902000.0       -9396454000.0       -6347682000.0       -7123450000.0
+Total Unusual Items Excluding Goodwill                          -14977902000.0       -9396454000.0       -6347682000.0       -7123450000.0
+Net Income From Continuing Operation Net Minority Interest       25033636000.0       27221727000.0       21643760000.0       16857199000.0
+Reconciled Depreciation                                           7555284000.0        6494962000.0        5319253000.0        4580278000.0
+Reconciled Cost Of Revenue                                       13110615000.0       11936689000.0       10033747000.0        7829033000.0
+EBITDA                                                              45191000.0        1914500000.0        1614162000.0        1382374000.0
+EBIT                                                             -7510093000.0       -4580462000.0       -3705091000.0       -3197904000.0
+Net Interest Income                                              75332151000.0       64872270000.0       53240589000.0       43152735000.0
+Interest Income                                                  75332151000.0       64872270000.0       53240589000.0       43152735000.0
+Normalized Income                                           35805888624.420631  34022966197.355766  25800790878.239933  21922334329.235653
+Net Income From Continuing And Discontinued Operation            25033636000.0       27221727000.0       21643760000.0       16857199000.0
+Total Expenses                                                   30318028000.0       26660129000.0       22872667000.0       19740431000.0
+Rent Expense Supplemental                                         4095969000.0        3483273000.0        3239625000.0        2679246000.0
+Diluted Average Shares                                                     NaN        1606272000.0        1554286200.0        1553395536.0
+Basic Average Shares                                                       NaN        1583386000.0        1553372280.0        1553371974.0
+Diluted EPS                                                                NaN               16.62           13.813725           10.849673
+Basic EPS                                                                  NaN               16.83           13.813725           10.849673
+Diluted NI Availto Com Stockholders                              25033636000.0       27221727000.0       21643760000.0       16857199000.0
+Net Income Common Stockholders                                   25033636000.0       27221727000.0       21643760000.0       16857199000.0
+Otherunder Preferred Stock Dividend                                        0.0                 0.0                 0.0                 0.0
+Net Income                                                       25033636000.0       27221727000.0       21643760000.0       16857199000.0
+Minority Interests                                               -1011068000.0       -1242476000.0       -1051040000.0        -681222000.0
+Net Income Including Noncontrolling Interests                    26044704000.0       28464203000.0       22694800000.0       17538421000.0
+Net Income Continuous Operations                                 26044704000.0       28464203000.0       22694800000.0       17538421000.0
+Tax Provision                                                    10168244000.0       10861362000.0       11959591000.0        7127073000.0
+Pretax Income                                                    36212948000.0       39325565000.0       34654391000.0       24665494000.0
+Other Non Operating Income Expenses                               2693335000.0        1944257000.0         853609000.0         753364000.0
+Special Income Charges                                          -14977902000.0       -9396454000.0       -6347682000.0       -7123450000.0
+Write Off                                                        14977902000.0        9396454000.0        6347682000.0        7123450000.0
+Net Non Operating Interest Income Expense                        75332151000.0       64872270000.0       53240589000.0       43152735000.0
+Interest Income Non Operating                                    75332151000.0       64872270000.0       53240589000.0       43152735000.0
+Operating Income                                                 -7510093000.0       -4580462000.0       -3705091000.0       -3197904000.0
+Operating Expense                                                17207413000.0       14723440000.0       12838920000.0       11911398000.0
+Other Operating Expenses                                         17207413000.0       14723440000.0       12838920000.0       11911398000.0
+Gross Profit                                                      9697320000.0       10142978000.0        9133829000.0        8713494000.0
+Cost Of Revenue                                                  13110615000.0       11936689000.0       10033747000.0        7829033000.0
+Total Revenue                                                    22807935000.0       22079667000.0       19167576000.0       16542527000.0
+Operating Revenue                                                22807935000.0       22079667000.0       19167576000.0       16542527000.0

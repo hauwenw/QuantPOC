@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 6, Zili 3rd Road
+address2	Nangang Industrial Zone Yongfeng Village
+city	Nantou City
+zip	54067
+country	Taiwan
+phone	886 4 9225 4777
+fax	886 4 9225 5139
+website	https://www.klb.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kung Long Batteries Industrial Co.,Ltd engages in the manufacture and sale of lead-acid batteries in Taiwan and internationally. It offers backup power, cyclic, high power, electric vehicle, long life telecom backup, green energy, and startup power batteries. The company provides its products for use in renewable energy storage systems, communication switches, telecommunications rooms, UPS power supplies, electric vehicles, and automobiles and motorcycles; and cycling high-power, deep-cycle, and solar energy applications. Kung Long Batteries Industrial Co.,Ltd was incorporated in 1990 and is headquartered in Nantou City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jui-Chun  Lee', 'age': 56, 'title': 'MD, President & Chairman', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huang Wei  Liu', 'title': 'Assistant GM of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Neng  Liao', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	138.5
+open	140.5
+dayLow	139.0
+dayHigh	140.5
+regularMarketPreviousClose	138.5
+regularMarketOpen	140.5
+regularMarketDayLow	139.0
+regularMarketDayHigh	140.5
+dividendRate	10.0
+dividendYield	0.0712
+exDividendDate	1692748800	 (2023-08-23 08:00:00)
+payoutRatio	1.3514
+fiveYearAvgDividendYield	6.63
+beta	0.271
+trailingPE	18.986486
+forwardPE	10.384332
+volume	145422
+regularMarketVolume	145422
+averageVolume	129736
+averageVolume10days	104303
+averageDailyVolume10Day	104303
+bid	140.0
+ask	140.5
+marketCap	11529823232
+fiftyTwoWeekLow	129.5
+fiftyTwoWeekHigh	150.0
+priceToSalesTrailing12Months	1.7968163
+fiftyDayAverage	138.1
+twoHundredDayAverage	134.4925
+currency	TWD
+enterpriseValue	9625503744
+profitMargins	0.094919994
+floatShares	61035100
+sharesOutstanding	82062800
+heldPercentInsiders	0.28951
+heldPercentInstitutions	0.17127001
+impliedSharesOutstanding	82361200
+bookValue	50.502
+priceToBook	2.782068
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.307
+netIncomeToCommon	609102016
+trailingEps	7.4
+forwardEps	13.53
+lastSplitFactor	102.55:100
+lastSplitDate	1125619200	 (2005-09-02 08:00:00)
+enterpriseToRevenue	1.5
+enterpriseToEbitda	10.992
+52WeekChange	0.010791421
+SandP52WeekChange	0.26265144
+lastDividendValue	10.0
+lastDividendDate	1692748800	 (2023-08-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1537.TW
+underlyingSymbol	1537.TW
+shortName	KUNG LONG BATTERIE
+longName	Kung Long Batteries Industrial Co.,Ltd
+firstTradeDateEpochUtc	1011747600	 (2002-01-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a7a56a14-be26-39b3-a806-07d6c0168ef1
+messageBoardId	finmb_9794168
+gmtOffSetMilliseconds	28800000
+currentPrice	140.5
+recommendationKey	none
+totalCash	1919847040
+totalCashPerShare	23.395
+ebitda	875662016
+totalDebt	15359000
+quickRatio	2.622
+currentRatio	4.413
+totalRevenue	6416806912
+debtToEquity	0.371
+revenuePerShare	78.321
+returnOnAssets	0.081020005
+returnOnEquity	0.1435
+freeCashflow	776369344
+operatingCashflow	973715008
+earningsGrowth	0.296
+revenueGrowth	0.107
+grossMargins	0.19343
+ebitdaMargins	0.13646
+operatingMargins	0.118219994
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0    8148046.313048
+Tax Rate For Calcs                                              0.297092      0.251213      0.241578          0.258455
+Normalized EBITDA                                           1001071000.0  1323884000.0   968111000.0      1334948000.0
+Total Unusual Items                                                  NaN           NaN           0.0        31526000.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           0.0        31526000.0
+Net Income From Continuing Operation Net Minority Interest   609102000.0   881575000.0   620038000.0       879196000.0
+Reconciled Depreciation                                      134312000.0   146320000.0   149836000.0       179872000.0
+Reconciled Cost Of Revenue                                  5175624000.0  5793008000.0  4577166000.0      5464078000.0
+EBITDA                                                      1001071000.0  1323884000.0   968111000.0      1366474000.0
+EBIT                                                         866759000.0  1177564000.0   818275000.0      1186602000.0
+Net Interest Income                                           38930000.0    12319000.0     8103000.0         7739000.0
+Interest Expense                                                213000.0      227000.0      738000.0          975000.0
+Interest Income                                               39143000.0    12546000.0     8841000.0         8714000.0
+Normalized Income                                            609102000.0   881575000.0   620038000.0  855818046.313048
+Net Income From Continuing And Discontinued Operation        609102000.0   881575000.0   620038000.0       879196000.0
+Total Expenses                                              5673275000.0  6377209000.0  5003131000.0      5951294000.0
+Diluted Average Shares                                               NaN    82229000.0    82330000.0        82151000.0
+Basic Average Shares                                                 NaN    81879000.0    81829000.0        81785000.0
+Diluted EPS                                                          NaN         10.72          7.53              10.7
+Basic EPS                                                            NaN         10.77          7.58             10.75
+Diluted NI Availto Com Stockholders                          609102000.0   881575000.0   620038000.0       879196000.0
+Net Income Common Stockholders                               609102000.0   881575000.0   620038000.0       879196000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                   609102000.0   881575000.0   620038000.0       879196000.0
+Net Income Including Noncontrolling Interests                609102000.0   881575000.0   620038000.0       879196000.0
+Net Income Continuous Operations                             609102000.0   881575000.0   620038000.0       879196000.0
+Tax Provision                                                257444000.0   295762000.0   197499000.0       306431000.0
+Pretax Income                                                866546000.0  1177337000.0   817537000.0      1185627000.0
+Other Non Operating Income Expenses                           84084000.0   223499000.0    14817000.0       -21558000.0
+Special Income Charges                                               NaN           NaN           0.0        31526000.0
+Write Off                                                            NaN           NaN           0.0       -31526000.0
+Net Non Operating Interest Income Expense                     38930000.0    12319000.0     8103000.0         7739000.0
+Interest Expense Non Operating                                  213000.0      227000.0      738000.0          975000.0
+Interest Income Non Operating                                 39143000.0    12546000.0     8841000.0         8714000.0
+Operating Income                                             743532000.0   941519000.0   794617000.0      1167920000.0
+Operating Expense                                            497651000.0   584201000.0   425965000.0       487216000.0
+Research And Development                                      46326000.0    44348000.0    35067000.0        38467000.0
+Selling General And Administration                           451325000.0   539853000.0   390898000.0       448749000.0
+Selling And Marketing Expense                                241268000.0   323548000.0   205810000.0       238610000.0
+General And Administrative Expense                           210057000.0   216305000.0   185088000.0       210139000.0
+Gross Profit                                                1241183000.0  1525720000.0  1220582000.0      1655136000.0
+Cost Of Revenue                                             5175624000.0  5793008000.0  4577166000.0      5464078000.0
+Total Revenue                                               6416807000.0  7318728000.0  5797748000.0      7119214000.0
+Operating Revenue                                           6416807000.0  7318728000.0  5797748000.0      7119214000.0

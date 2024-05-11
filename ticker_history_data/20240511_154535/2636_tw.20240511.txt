@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 563, Zhongxiao East Road
+address2	12th Floor, Sec. 4 Xinyi District
+city	Taipei
+zip	11072
+country	Taiwan
+phone	886 2 753 2093
+fax	886 2 765 7197
+website	https://www.t3ex-group.com
+industry	Integrated Freight & Logistics
+industryKey	integrated-freight-logistics
+industryDisp	Integrated Freight & Logistics
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	T3EX Global Holdings Corp., an investment holding company, provides integrated logistics services in Taiwan, Hong Kong, Midland China, East Asia, and internationally. It offers international freight forwarding services, such as ocean and air freight services. The company also provides domestic logistics services, including sea and air freight import/export customs clearance, bonded area customs clearance and filing for re-import/re-export, logistics park of export and import transit operations, hazardous goods or tank container customs clearance, remote customs clearance and declaration, customs seal clearance operations, and inspection and quarantine; and temporary warehousing for import and export goods, label replacement, sorting and repacking, pallet, warehouse space leasing, inventory management reports, and customized delivery services. It also provides supply chain solutions; e-commerce logistics solutions; and supply chain financing services. T3EX Global Holdings Corp. was incorporated in 1987 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Alicia  Yu', 'title': 'Finance & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Echo  Wan', 'title': 'Corporate Governance Officer, Senior VP & Manager of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Melonie  Lin', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sandy  Shen', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Makoto  Teng', 'title': 'Head of Information Security', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen  Hou', 'title': 'Senior Financial Controller & Senior VP', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	99.3
+open	100.0
+dayLow	100.0
+dayHigh	109.0
+regularMarketPreviousClose	99.3
+regularMarketOpen	100.0
+regularMarketDayLow	100.0
+regularMarketDayHigh	109.0
+dividendRate	6.5
+dividendYield	0.0596
+exDividendDate	1718064000	 (2024-06-11 08:00:00)
+payoutRatio	0.7394
+fiveYearAvgDividendYield	7.35
+beta	1.131
+trailingPE	10.073937
+forwardPE	11.248711
+volume	6525890
+regularMarketVolume	6525890
+averageVolume	2067123
+averageVolume10days	2089063
+averageDailyVolume10Day	2089063
+bid	109.0
+marketCap	14928748544
+fiftyTwoWeekLow	66.1
+fiftyTwoWeekHigh	109.0
+priceToSalesTrailing12Months	1.0210308
+fiftyDayAverage	96.344
+twoHundredDayAverage	84.5725
+trailingAnnualDividendRate	6.5
+trailingAnnualDividendYield	0.06545821
+currency	TWD
+enterpriseValue	10068473856
+profitMargins	0.10075
+floatShares	89074106
+sharesOutstanding	136960992
+heldPercentInsiders	0.29153
+heldPercentInstitutions	0.078260005
+impliedSharesOutstanding	138382000
+bookValue	62.929
+priceToBook	1.7321107
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.326
+netIncomeToCommon	1473056000
+trailingEps	10.82
+forwardEps	9.69
+lastSplitFactor	1019.96:1000
+lastSplitDate	1470096000	 (2016-08-02 08:00:00)
+enterpriseToRevenue	0.689
+enterpriseToEbitda	10.435
+52WeekChange	0.43799472
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1718064000	 (2024-06-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2636.TW
+underlyingSymbol	2636.TW
+shortName	T3EX GLOBAL HOLDINGS CORP
+longName	T3EX Global Holdings Corp.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	550041be-7a73-37c1-9ef2-88b731c80933
+messageBoardId	finmb_33874442
+gmtOffSetMilliseconds	28800000
+currentPrice	109.0
+recommendationMean	1.5
+recommendationKey	strong_buy
+totalCash	9978145792
+totalCashPerShare	72.854
+ebitda	964873024
+totalDebt	4779534848
+quickRatio	1.779
+currentRatio	1.965
+totalRevenue	14621252608
+debtToEquity	53.36
+revenuePerShare	106.755
+returnOnAssets	0.032479998
+returnOnEquity	0.17242001
+freeCashflow	-2199221760
+operatingCashflow	-348063008
+earningsGrowth	0.352
+revenueGrowth	-0.05
+grossMargins	0.19954
+ebitdaMargins	0.06599
+operatingMargins	0.060300004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    2824201.613401     1986773.958412   -11328960.664478    -396976.48821
+Tax Rate For Calcs                                                   0.216896           0.224901           0.196322          0.18585
+Normalized EBITDA                                                2384462000.0       3752643000.0       5364350000.0     1019438000.0
+Total Unusual Items                                                13021000.0          8834000.0        -57706000.0       -2136000.0
+Total Unusual Items Excluding Goodwill                             13021000.0          8834000.0        -57706000.0       -2136000.0
+Net Income From Continuing Operation Net Minority Interest       1473056000.0       2548386000.0       3934872000.0      541992000.0
+Reconciled Depreciation                                           316255000.0        303997000.0        274311000.0      275427000.0
+Reconciled Cost Of Revenue                                      11703775000.0      22619913000.0      27917845000.0    12692356000.0
+EBITDA                                                           2397483000.0       3761477000.0       5306644000.0     1017302000.0
+EBIT                                                             2081228000.0       3457480000.0       5032333000.0      741875000.0
+Net Interest Income                                               204787000.0         42383000.0        -11216000.0      -23676000.0
+Interest Expense                                                  103542000.0         48333000.0         34484000.0       40865000.0
+Interest Income                                                   308329000.0         90716000.0         23268000.0       17189000.0
+Normalized Income                                           1462859201.613401  2541538773.958412  3981249039.335522  543731023.51179
+Net Income From Continuing And Discontinued Operation            1473056000.0       2548386000.0       3934872000.0      541992000.0
+Total Expenses                                                  13730146000.0      25689309000.0      31660444000.0    14462201000.0
+Diluted Average Shares                                            137090000.0        141528000.0        131194000.0      115415000.0
+Basic Average Shares                                              136961000.0        141306000.0        131021000.0      114734000.0
+Diluted EPS                                                             10.75              18.01               30.0              4.7
+Basic EPS                                                               10.76              18.03              30.03             4.72
+Diluted NI Availto Com Stockholders                              1473056000.0       2548386000.0       3934872000.0      541992000.0
+Net Income Common Stockholders                                   1473056000.0       2548386000.0       3934872000.0      541992000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0              0.0
+Net Income                                                       1473056000.0       2548386000.0       3934872000.0      541992000.0
+Minority Interests                                                -75678000.0        -94041000.0        -81789000.0      -28735000.0
+Net Income Including Noncontrolling Interests                    1548734000.0       2642427000.0       4016661000.0      570727000.0
+Net Income Continuous Operations                                 1548734000.0       2642427000.0       4016661000.0      570727000.0
+Tax Provision                                                     428952000.0        766720000.0        981188000.0      130283000.0
+Pretax Income                                                    1977686000.0       3409147000.0       4997849000.0      701010000.0
+Other Non Operating Income Expenses                               858683000.0        818802000.0        675392000.0       27968000.0
+Special Income Charges                                             13021000.0          8834000.0        -57706000.0       -2136000.0
+Write Off                                                         -13021000.0         -8834000.0         57706000.0        2136000.0
+Net Non Operating Interest Income Expense                         204787000.0         42383000.0        -11216000.0      -23676000.0
+Interest Expense Non Operating                                    103542000.0         48333000.0         34484000.0       40865000.0
+Interest Income Non Operating                                     308329000.0         90716000.0         23268000.0       17189000.0
+Operating Income                                                  891107000.0       2528719000.0       4383160000.0      698042000.0
+Operating Expense                                                2026371000.0       3069396000.0       3742599000.0     1769845000.0
+Selling General And Administration                               2026371000.0       3069396000.0       3742599000.0     1769845000.0
+Selling And Marketing Expense                                    1429945000.0       2236590000.0       2582221000.0     1295526000.0
+General And Administrative Expense                                596426000.0        832806000.0       1160378000.0      474319000.0
+Gross Profit                                                     2917478000.0       5598115000.0       8125759000.0     2467887000.0
+Cost Of Revenue                                                 11703775000.0      22619913000.0      27917845000.0    12692356000.0
+Total Revenue                                                   14621253000.0      28218028000.0      36043604000.0    15160243000.0
+Operating Revenue                                               14621253000.0      28218028000.0      36043604000.0    15160243000.0

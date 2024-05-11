@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 88, Yuanfeng Road
+address2	KSND 802 West Bay Road P.O. Box 31119
+city	Kunshan
+zip	KY1-1205
+country	China
+phone	86 51 2575 72938
+website	https://www.eson.com.cn
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Eson Precision Ind. Co., Ltd. designs, develops, manufactures, and sells mechanical parts for consuming electrical products in Taiwan and internationally. The company also designs, manufactures, and sells precision molds, plastics, flat-panel displays, electronic components, and hardware products; and provides cosmetic treatment onto products, and whole set unit assembling services. Its products include TV, 3C, network, automotive, tooling, photoelectric, and PC products. The company was formerly known as Multiwin Precision Ind. Co., Ltd. and changed its name to Eson Precision Ind. Co., Ltd. Eson Precision Ind. Co., Ltd. was founded in 1987 and is headquartered in Kunshan, China.
+companyOfficers	[{'maxAge': 1, 'name': 'Yu-Chuan  Lin', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. You-Ching  Lin', 'title': 'CFO & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Guang  Liu', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Haozhou  Xiao', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	57.3
+open	57.7
+dayLow	56.9
+dayHigh	58.0
+regularMarketPreviousClose	57.3
+regularMarketOpen	57.7
+regularMarketDayLow	56.9
+regularMarketDayHigh	58.0
+dividendRate	1.6
+dividendYield	0.0277
+exDividendDate	1693267200	 (2023-08-29 08:00:00)
+payoutRatio	0.5047
+fiveYearAvgDividendYield	3.11
+beta	0.773
+trailingPE	18.233438
+forwardPE	20.139374
+volume	740085
+regularMarketVolume	740085
+averageVolume	1907621
+averageVolume10days	808599
+averageDailyVolume10Day	808599
+bid	57.7
+ask	57.8
+marketCap	9740975104
+fiftyTwoWeekLow	52.6
+fiftyTwoWeekHigh	91.9
+priceToSalesTrailing12Months	0.84249866
+fiftyDayAverage	56.888
+twoHundredDayAverage	60.4535
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.027923211
+currency	TWD
+enterpriseValue	7880527360
+profitMargins	0.05167
+floatShares	89499011
+sharesOutstanding	168528992
+heldPercentInsiders	0.46885
+heldPercentInstitutions	0.05948
+impliedSharesOutstanding	172199008
+bookValue	43.752
+priceToBook	1.3210825
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.613
+netIncomeToCommon	597465984
+trailingEps	3.17
+forwardEps	2.87
+lastSplitFactor	1050:1000
+lastSplitDate	1409529600	 (2014-09-01 08:00:00)
+enterpriseToRevenue	0.682
+enterpriseToEbitda	5.579
+52WeekChange	-0.12158054
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1693267200	 (2023-08-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5243.TW
+underlyingSymbol	5243.TW
+shortName	ESON PRECISION IND CO LTD
+longName	Eson Precision Ind. Co., Ltd.
+firstTradeDateEpochUtc	1385341200	 (2013-11-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	594ab701-f686-327f-8ab4-7a56af80bc40
+messageBoardId	finmb_241192127
+gmtOffSetMilliseconds	28800000
+currentPrice	57.8
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3172333056
+totalCashPerShare	18.824
+ebitda	1412642944
+totalDebt	1311884032
+quickRatio	1.389
+currentRatio	1.725
+totalRevenue	11562006528
+debtToEquity	17.792
+revenuePerShare	68.605
+returnOnAssets	0.04518
+returnOnEquity	0.08384
+freeCashflow	1174647808
+operatingCashflow	2412363008
+earningsGrowth	-0.611
+revenueGrowth	-0.292
+grossMargins	0.19829
+ebitdaMargins	0.12218001
+operatingMargins	0.05599
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   6292550.005569   -6466897.791937   -1110914.343059   -3851429.085877
+Tax Rate For Calcs                                                  0.341134          0.246433           0.23702          0.246871
+Normalized EBITDA                                               1551600000.0      1685016000.0      1068650000.0      1005847000.0
+Total Unusual Items                                               18446000.0       -26242000.0        -4687000.0       -15601000.0
+Total Unusual Items Excluding Goodwill                            18446000.0       -26242000.0        -4687000.0       -15601000.0
+Net Income From Continuing Operation Net Minority Interest       597466000.0       800915000.0       463781000.0       460969000.0
+Reconciled Depreciation                                          575611000.0       557085000.0       446913000.0       371265000.0
+Reconciled Cost Of Revenue                                      9269382000.0     11797376000.0     10233529000.0      8166970000.0
+EBITDA                                                          1570046000.0      1658774000.0      1063963000.0       990246000.0
+EBIT                                                             994435000.0      1101689000.0       617050000.0       618981000.0
+Net Interest Income                                              -65725000.0       -22244000.0        11351000.0        30291000.0
+Interest Expense                                                  87626000.0        38857000.0         9195000.0         6952000.0
+Interest Income                                                   21901000.0        16613000.0        20546000.0        37243000.0
+Normalized Income                                           585312550.005569  820690102.208063  467357085.656941  472718570.914123
+Net Income From Continuing And Discontinued Operation            597466000.0       800915000.0       463781000.0       460969000.0
+Total Expenses                                                 10714734000.0     13180932000.0     11395557000.0      9203935000.0
+Diluted Average Shares                                           169286000.0       169418000.0       168980000.0       169148000.0
+Basic Average Shares                                             168529000.0       168529000.0       168529000.0       168529000.0
+Diluted EPS                                                             3.53              4.73              2.74              2.73
+Basic EPS                                                               3.55              4.75              2.75              2.74
+Diluted NI Availto Com Stockholders                              597466000.0       800915000.0       463781000.0       460969000.0
+Net Income Common Stockholders                                   597466000.0       800915000.0       463781000.0       460969000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       597466000.0       800915000.0       463781000.0       460969000.0
+Minority Interests                                                       NaN               NaN               0.0           32000.0
+Net Income Including Noncontrolling Interests                    597466000.0       800915000.0       463781000.0       460937000.0
+Net Income Continuous Operations                                 597466000.0       800915000.0       463781000.0       460937000.0
+Tax Provision                                                    309343000.0       261917000.0       144074000.0       151092000.0
+Pretax Income                                                    906809000.0      1062832000.0       607855000.0       612029000.0
+Other Non Operating Income Expenses                              102968000.0        41678000.0        14749000.0        28664000.0
+Special Income Charges                                            18446000.0       -26242000.0        -4687000.0       -18043000.0
+Other Special Charges                                             -1247000.0        12308000.0          754000.0         6064000.0
+Write Off                                                        -17199000.0        13934000.0         3933000.0        11979000.0
+Net Non Operating Interest Income Expense                        -65725000.0       -22244000.0        11351000.0        30291000.0
+Interest Expense Non Operating                                    87626000.0        38857000.0         9195000.0         6952000.0
+Interest Income Non Operating                                     21901000.0        16613000.0        20546000.0        37243000.0
+Operating Income                                                 847273000.0       850604000.0       646888000.0       686000000.0
+Operating Expense                                               1445352000.0      1383556000.0      1162028000.0      1036965000.0
+Research And Development                                         140038000.0       152333000.0       199936000.0       195630000.0
+Selling General And Administration                              1305314000.0      1231223000.0       962092000.0       841335000.0
+Selling And Marketing Expense                                    177218000.0       192382000.0       205133000.0       168159000.0
+General And Administrative Expense                              1128096000.0      1038841000.0       756959000.0       673176000.0
+Gross Profit                                                    2292625000.0      2234160000.0      1808916000.0      1722965000.0
+Cost Of Revenue                                                 9269382000.0     11797376000.0     10233529000.0      8166970000.0
+Total Revenue                                                  11562007000.0     14031536000.0     12042445000.0      9889935000.0
+Operating Revenue                                              11562007000.0     14031536000.0     12042445000.0      9889935000.0

@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 150, Bo'ai 2nd Road
+address2	12th Floor Zuoying District
+city	Kaohsiung
+zip	813
+country	Taiwan
+phone	886 7 558 6368
+fax	886 7 557 2111
+website	https://www.kingtown.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	King's Town Construction Co., Ltd. engages in the residential and building development in Taiwan. The company develops, constructs, rents, and sells specific professional areas. It also engages in the hotel and restaurant businesses; and provision of zoning and rezoning agency business. The company was formerly known as Wei Cheng Construction Co., Ltd. King's Town Construction Co., Ltd. was founded in 1982 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tien-Tsan  Tsai', 'age': 73, 'title': 'President & CEO', 'yearBorn': 1950, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Su-Ying  Liang', 'title': 'Financial Executive & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	54.9
+open	55.8
+dayLow	52.5
+dayHigh	56.0
+regularMarketPreviousClose	54.9
+regularMarketOpen	55.8
+regularMarketDayLow	52.5
+regularMarketDayHigh	56.0
+exDividendDate	1535587200	 (2018-08-30 08:00:00)
+beta	0.271
+trailingPE	43.75
+forwardPE	10.355029
+volume	1796627
+regularMarketVolume	1796627
+averageVolume	1059924
+averageVolume10days	3060948
+averageDailyVolume10Day	3060948
+bid	52.5
+ask	52.9
+marketCap	19394498560
+fiftyTwoWeekLow	30.0
+fiftyTwoWeekHigh	66.2
+priceToSalesTrailing12Months	7.5945296
+fiftyDayAverage	45.105
+twoHundredDayAverage	34.66225
+currency	TWD
+enterpriseValue	36763246592
+profitMargins	0.1731
+floatShares	50968739
+sharesOutstanding	369419008
+heldPercentInsiders	0.81991
+heldPercentInstitutions	0.00488
+impliedSharesOutstanding	369419008
+bookValue	47.989
+priceToBook	1.0940007
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.67
+netIncomeToCommon	442040992
+trailingEps	1.2
+forwardEps	5.07
+lastSplitFactor	1020:1000
+lastSplitDate	1440720000	 (2015-08-28 08:00:00)
+enterpriseToRevenue	14.396
+enterpriseToEbitda	41.763
+52WeekChange	0.6962843
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1535587200	 (2018-08-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2524.TW
+underlyingSymbol	2524.TW
+shortName	KINGS TOWN CONSTRUCTION CO
+longName	King's Town Construction Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ca28c007-0944-34ba-a99c-2b55a1d1e7f7
+messageBoardId	finmb_9673402
+gmtOffSetMilliseconds	28800000
+currentPrice	52.5
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	634227968
+totalCashPerShare	1.717
+ebitda	880278976
+totalDebt	18002976768
+quickRatio	0.069
+currentRatio	3.698
+totalRevenue	2553745920
+debtToEquity	101.551
+revenuePerShare	6.914
+returnOnAssets	0.01396
+returnOnEquity	0.02526
+freeCashflow	-1459617024
+operatingCashflow	-1381763968
+earningsGrowth	-0.674
+revenueGrowth	-0.289
+grossMargins	0.5003
+ebitdaMargins	0.3447
+operatingMargins	0.33973
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                               0.10658       0.12935      0.124206       0.12832
+Normalized EBITDA                                            890073000.0  1464796000.0  2188313000.0  2252865000.0
+Net Income From Continuing Operation Net Minority Interest   442041000.0  1009674000.0  1687409000.0  1684892000.0
+Reconciled Depreciation                                       76676000.0    74270000.0    75015000.0    74252000.0
+Reconciled Cost Of Revenue                                  1276115000.0  1429196000.0  3970638000.0  5684124000.0
+EBITDA                                                       890073000.0  1464796000.0  2188313000.0  2252865000.0
+EBIT                                                         813397000.0  1390526000.0  2113298000.0  2178613000.0
+Net Interest Income                                         -316140000.0  -229977000.0  -186340000.0  -245471000.0
+Interest Expense                                             318623000.0   230847000.0   186579000.0   245689000.0
+Interest Income                                                2483000.0      870000.0      239000.0      218000.0
+Normalized Income                                            442041000.0  1009674000.0  1687409000.0  1684892000.0
+Net Income From Continuing And Discontinued Operation        442041000.0  1009674000.0  1687409000.0  1684892000.0
+Total Expenses                                              1748579000.0  2003709000.0  4583289000.0  6493148000.0
+Diluted Average Shares                                               NaN   370044000.0   371884000.0   376391000.0
+Basic Average Shares                                                 NaN   369680000.0   371407000.0   375895000.0
+Diluted EPS                                                          NaN          2.73          4.54          4.48
+Basic EPS                                                            NaN          2.73          4.54          4.48
+Diluted NI Availto Com Stockholders                          442041000.0  1009674000.0  1687409000.0  1684892000.0
+Net Income Common Stockholders                               442041000.0  1009674000.0  1687409000.0  1684892000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   442041000.0  1009674000.0  1687409000.0  1684892000.0
+Net Income Including Noncontrolling Interests                442041000.0  1009674000.0  1687409000.0  1684892000.0
+Net Income Continuous Operations                             442041000.0  1009674000.0  1687409000.0  1684892000.0
+Tax Provision                                                 52733000.0   150005000.0   239310000.0   248032000.0
+Pretax Income                                                494774000.0  1159679000.0  1926719000.0  1932924000.0
+Other Non Operating Income Expenses                             420000.0     3271000.0    35582000.0    -2083000.0
+Net Non Operating Interest Income Expense                   -316140000.0  -229977000.0  -186340000.0  -245471000.0
+Interest Expense Non Operating                               318623000.0   230847000.0   186579000.0   245689000.0
+Interest Income Non Operating                                  2483000.0      870000.0      239000.0      218000.0
+Operating Income                                             805167000.0  1380421000.0  2073955000.0  2174701000.0
+Operating Expense                                            472464000.0   574513000.0   612651000.0   809024000.0
+Selling General And Administration                           472464000.0   574513000.0   612651000.0   809024000.0
+Selling And Marketing Expense                                333112000.0   428094000.0   461318000.0   657796000.0
+General And Administrative Expense                           139352000.0   146419000.0   151333000.0   151228000.0
+Gross Profit                                                1277631000.0  1954934000.0  2686606000.0  2983725000.0
+Cost Of Revenue                                             1276115000.0  1429196000.0  3970638000.0  5684124000.0
+Total Revenue                                               2553746000.0  3384130000.0  6657244000.0  8667849000.0
+Operating Revenue                                           2553746000.0  3384130000.0  6657244000.0  8667849000.0

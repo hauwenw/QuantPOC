@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 460, Chenggong Road
+address2	16th Floor Sec. 5 Neihu District
+city	Taipei City
+zip	114705
+country	Taiwan
+phone	886 2 2632 8877
+fax	886 2 2633 8755
+website	https://www.delpha.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Delpha Construction Co.,Ltd. constructs commercial buildings in Taiwan. The company is involved in the renting and selling of national housing; development of professional areas; interior decoration; and rental and investment activities. Delpha Construction Co.,Ltd. was founded in 1949 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Lin-Chin  Chien', 'title': 'CFO, Deputy Manager of Finance & Accounting and Finance Manager', 'fiscalYear': 2021, 'totalPay': 1181000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sing-Suei  Wu', 'title': 'Section Chief of Finance & Accounting Department and Accounting Manager', 'fiscalYear': 2021, 'totalPay': 1184000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chen Kang  Wang', 'title': 'Manager, Legal Affair Dept. & Corporate Governance Officer', 'fiscalYear': 2021, 'totalPay': 1314000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jun-Xian  Lee', 'title': 'Vice General Manager of Business Dept. & Engineering Management Dept.', 'fiscalYear': 2021, 'totalPay': 2730000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jyh-Jen  Huang', 'title': 'General Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeffery  Lee', 'title': 'Vice President of Operation Division & Engineering Management', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	46.7
+open	46.8
+dayLow	46.3
+dayHigh	47.9
+regularMarketPreviousClose	46.7
+regularMarketOpen	46.8
+regularMarketDayLow	46.3
+regularMarketDayHigh	47.9
+dividendRate	0.54
+dividendYield	0.0113
+exDividendDate	1714003200	 (2024-04-25 08:00:00)
+beta	0.133
+trailingPE	55.999996
+volume	1876381
+regularMarketVolume	1876381
+averageVolume	2411909
+averageVolume10days	3016936
+averageDailyVolume10Day	3016936
+bid	47.6
+ask	47.75
+marketCap	39983427584
+fiftyTwoWeekLow	21.9
+fiftyTwoWeekHigh	55.2
+priceToSalesTrailing12Months	20.489054
+fiftyDayAverage	46.324
+twoHundredDayAverage	34.39525
+trailingAnnualDividendRate	0.54
+trailingAnnualDividendYield	0.01156317
+currency	TWD
+enterpriseValue	49038307328
+profitMargins	0.26188
+floatShares	343319895
+sharesOutstanding	839987968
+heldPercentInsiders	0.60003
+heldPercentInstitutions	0.00863
+impliedSharesOutstanding	916350976
+bookValue	12.435
+priceToBook	3.827905
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.526
+netIncomeToCommon	511043008
+trailingEps	0.85
+lastSplitFactor	1.02:1
+lastSplitDate	1344211200	 (2012-08-06 08:00:00)
+enterpriseToRevenue	25.129
+enterpriseToEbitda	75.34
+52WeekChange	1.0877192
+SandP52WeekChange	0.26265144
+lastDividendValue	0.54
+lastDividendDate	1714003200	 (2024-04-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2530.TW
+underlyingSymbol	2530.TW
+shortName	DELPHA CONSTRUCTION CORP
+longName	Delpha Construction Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ac745041-a255-343c-92e1-adeae6f2f66a
+messageBoardId	finmb_9896950
+gmtOffSetMilliseconds	28800000
+currentPrice	47.6
+recommendationKey	none
+totalCash	1114377984
+totalCashPerShare	1.327
+ebitda	650894016
+totalDebt	9936388096
+quickRatio	0.133
+currentRatio	2.082
+totalRevenue	1951453056
+debtToEquity	93.054
+revenuePerShare	2.323
+returnOnAssets	0.01836
+returnOnEquity	0.047519997
+freeCashflow	-2280511232
+operatingCashflow	-2121549056
+earningsGrowth	0.531
+revenueGrowth	0.45
+grossMargins	0.43660998
+ebitdaMargins	0.33354
+operatingMargins	0.36183998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0          0.0          0.0
+Tax Rate For Calcs                                              0.225014           0.2          0.2          0.2
+Normalized EBITDA                                            675309000.0   425794000.0  -75413000.0  -71788000.0
+Net Income From Continuing Operation Net Minority Interest   511043000.0   451652000.0 -114623000.0  -89645000.0
+Reconciled Depreciation                                        6334000.0     6094000.0    5283000.0    4572000.0
+Reconciled Cost Of Revenue                                  1099437000.0  1360861000.0          0.0   61950000.0
+EBITDA                                                       675309000.0   425794000.0  -75413000.0  -71788000.0
+EBIT                                                         668975000.0   419700000.0  -80696000.0  -76360000.0
+Net Interest Income                                           -7823000.0   -10762000.0  -36217000.0  -16971000.0
+Interest Expense                                              19153000.0    15457000.0   38135000.0   18300000.0
+Interest Income                                               11330000.0     4695000.0    1918000.0    1329000.0
+Normalized Income                                            511043000.0   451652000.0 -114623000.0  -89645000.0
+Net Income From Continuing And Discontinued Operation        511043000.0   451652000.0 -114623000.0  -89645000.0
+Total Expenses                                              1304569000.0  1594544000.0   95715000.0  151320000.0
+Diluted Average Shares                                               NaN   809134000.0  584065000.0  282364000.0
+Basic Average Shares                                                 NaN   809035000.0  584065000.0  282364000.0
+Diluted EPS                                                          NaN          0.56         -0.2        -0.32
+Basic EPS                                                            NaN          0.56         -0.2        -0.32
+Diluted NI Availto Com Stockholders                          511043000.0   451652000.0 -114623000.0  -89645000.0
+Net Income Common Stockholders                               511043000.0   451652000.0 -114623000.0  -89645000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0          0.0          0.0
+Net Income                                                   511043000.0   451652000.0 -114623000.0  -89645000.0
+Minority Interests                                             7440000.0     6182000.0    5930000.0    6023000.0
+Net Income Including Noncontrolling Interests                503603000.0   445470000.0 -120553000.0  -95668000.0
+Net Income Continuous Operations                             503603000.0   445470000.0 -120553000.0  -95668000.0
+Tax Provision                                                146219000.0   -41227000.0    1722000.0    1008000.0
+Pretax Income                                                649822000.0   404243000.0 -118831000.0  -94660000.0
+Other Non Operating Income Expenses                           10761000.0    15268000.0    2585000.0  -13754000.0
+Net Non Operating Interest Income Expense                     -7823000.0   -10762000.0  -36217000.0  -16971000.0
+Interest Expense Non Operating                                19153000.0    15457000.0   38135000.0   18300000.0
+Interest Income Non Operating                                 11330000.0     4695000.0    1918000.0    1329000.0
+Operating Income                                             646884000.0   399737000.0  -86997000.0  -63943000.0
+Operating Expense                                            205132000.0   233683000.0   95715000.0   89370000.0
+Selling General And Administration                           205132000.0   233683000.0   95715000.0   89370000.0
+Selling And Marketing Expense                                 97828000.0   116868000.0    1045000.0    2618000.0
+General And Administrative Expense                           107304000.0   116815000.0   94670000.0   86752000.0
+Gross Profit                                                 852016000.0   633420000.0    8718000.0   25427000.0
+Cost Of Revenue                                             1099437000.0  1360861000.0          0.0   61950000.0
+Total Revenue                                               1951453000.0  1994281000.0    8718000.0   87377000.0
+Operating Revenue                                           1951453000.0  1994281000.0    8718000.0   87377000.0

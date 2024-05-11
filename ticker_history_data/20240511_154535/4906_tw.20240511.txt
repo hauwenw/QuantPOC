@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	No. 15-1 Zhonghua Road
+address2	Hsinchu Industrial Park Hukou Township
+city	Hsinchu City
+country	Taiwan
+phone	886 3 598 5535
+fax	886 3 597 6663
+website	https://www.gemteks.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Gemtek Technology Co., Ltd. designs, develops, manufactures, and sells wireless communications technologies and solutions in Taiwan and internationally. It provides wireless network service products, which include broadband network related equipment's, such as 5G related technologies, LTE small cell, and CPE; telecommunication network products, such as Wi-Fi AP/router; and business-grade wireless AP/routers and Wi-Fi modules. The company also offers fixed broadband network connection related products, which includes telecommunication integration, such as XPON, VoIP, VDSL, G.fast, and Setup Box; and fiber-optic network products. In addition, it provides telecommunication modules and services; WLAN card; wireless gateway; and cloud software integration services and IoT products. Further, the company engages in the buying and selling of wires, packaging materials, and pallets and related raw materials. Gemtek Technology Co., Ltd. was founded in 1988 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hung-Wen  Chen', 'title': 'Chairman, CEO & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rong Chang  Li', 'title': 'GM, President & COO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Cheng-Jen  Yang', 'title': 'Co-Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jheng Ren  Yang', 'title': 'Founder & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chih - Hung  Lin', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Ming  Yeh', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guang-Ming  Cheng', 'title': 'Chief Sales Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu Tsan  Tsai', 'title': 'Senior Deputy GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung Hui  Hsu', 'title': 'Senior Deputy GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Hua Li', 'title': 'IT Division Vice Director & Supervisor of Information Security', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.3
+open	33.45
+dayLow	33.0
+dayHigh	33.5
+regularMarketPreviousClose	33.3
+regularMarketOpen	33.45
+regularMarketDayLow	33.0
+regularMarketDayHigh	33.5
+dividendRate	1.5
+dividendYield	0.044899996
+exDividendDate	1686700800	 (2023-06-14 08:00:00)
+payoutRatio	1.0791
+fiveYearAvgDividendYield	4.63
+beta	0.57
+trailingPE	24.028778
+forwardPE	11.283784
+volume	1229548
+regularMarketVolume	1229548
+averageVolume	6503636
+averageVolume10days	1684215
+averageDailyVolume10Day	1684215
+bid	33.3
+ask	33.35
+marketCap	13364041728
+fiftyTwoWeekLow	29.3
+fiftyTwoWeekHigh	40.75
+priceToSalesTrailing12Months	0.5113202
+fiftyDayAverage	34.451
+twoHundredDayAverage	34.80975
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.045045044
+currency	TWD
+enterpriseValue	12471220224
+profitMargins	0.02331
+floatShares	382431651
+sharesOutstanding	400120992
+heldPercentInsiders	0.055359997
+heldPercentInstitutions	0.0904
+impliedSharesOutstanding	400120992
+bookValue	32.089
+priceToBook	1.0408552
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	609150016
+trailingEps	1.39
+forwardEps	2.96
+pegRatio	0.64
+lastSplitFactor	1.02918:1
+lastSplitDate	1312416000	 (2011-08-04 08:00:00)
+enterpriseToRevenue	0.477
+enterpriseToEbitda	13.379
+52WeekChange	0.12268913
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1686700800	 (2023-06-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4906.TW
+underlyingSymbol	4906.TW
+shortName	GEMTEK TECHNOLOGY CO
+longName	Gemtek Technology Co., Ltd.
+firstTradeDateEpochUtc	1057021200	 (2003-07-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	09f2a471-38e5-32c5-acb1-eb3c09974c38
+messageBoardId	finmb_8759996
+gmtOffSetMilliseconds	28800000
+currentPrice	33.4
+targetHighPrice	65.0
+targetLowPrice	35.0
+targetMeanPrice	46.33
+targetMedianPrice	39.0
+recommendationMean	2.5
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	3528201984
+totalCashPerShare	8.818
+ebitda	932140032
+totalDebt	2279185920
+quickRatio	1.438
+currentRatio	1.861
+totalRevenue	26136348672
+debtToEquity	17.272
+revenuePerShare	66.311
+returnOnAssets	0.01238
+returnOnEquity	0.04106
+freeCashflow	1978461824
+operatingCashflow	2609198080
+revenueGrowth	-0.308
+grossMargins	0.106029995
+ebitdaMargins	0.03566
+operatingMargins	0.009190001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                 -15512783.079826   -1364274.266234       2777.94411        4947.396725
+Tax Rate For Calcs                                                   0.30827          0.188488         0.057874           0.105264
+Normalized EBITDA                                               1620053000.0      1574094000.0     1229153000.0       2023097000.0
+Total Unusual Items                                              -50322000.0        -7238000.0          48000.0            47000.0
+Total Unusual Items Excluding Goodwill                           -50322000.0        -7238000.0          48000.0            47000.0
+Net Income From Continuing Operation Net Minority Interest       609150000.0       664683000.0      679793000.0       1370155000.0
+Reconciled Depreciation                                          666627000.0       565166000.0      474945000.0        419129000.0
+Reconciled Cost Of Revenue                                     23365192000.0     25034716000.0    20852099000.0      17663796000.0
+EBITDA                                                          1569731000.0      1566856000.0     1229201000.0       2023144000.0
+EBIT                                                             903104000.0      1001690000.0      754256000.0       1604015000.0
+Net Interest Income                                              -58534000.0       -46453000.0       -9513000.0         -3810000.0
+Interest Expense                                                 114436000.0        82357000.0       30803000.0         30843000.0
+Interest Income                                                   55902000.0        35904000.0       21290000.0         27033000.0
+Normalized Income                                           643959216.920174  670556725.733766  679747777.94411  1370112947.396725
+Net Income From Continuing And Discontinued Operation            609150000.0       664683000.0      679793000.0       1370155000.0
+Total Expenses                                                 25622402000.0     27164395000.0    22556646000.0      19461506000.0
+Diluted Average Shares                                                   NaN       419084000.0      409791000.0        412404000.0
+Basic Average Shares                                                     NaN       391633000.0      359145000.0        354868000.0
+Diluted EPS                                                              NaN              1.59             1.69               3.36
+Basic EPS                                                                NaN               1.7             1.89               3.86
+Diluted NI Availto Com Stockholders                              609150000.0       664683000.0      679793000.0       1370155000.0
+Net Income Common Stockholders                                   609150000.0       664683000.0      679793000.0       1370155000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0                0.0
+Net Income                                                       609150000.0       664683000.0      679793000.0       1370155000.0
+Minority Interests                                                63605000.0       -81367000.0       -1791000.0        -37419000.0
+Net Income Including Noncontrolling Interests                    545545000.0       746050000.0      681584000.0       1407574000.0
+Net Income Continuous Operations                                 545545000.0       746050000.0      681584000.0       1407574000.0
+Tax Provision                                                    243123000.0       173283000.0       41869000.0        165598000.0
+Pretax Income                                                    788668000.0       919333000.0      723453000.0       1573172000.0
+Other Non Operating Income Expenses                              324036000.0       102779000.0      195756000.0       1077695000.0
+Special Income Charges                                           -50322000.0        -7238000.0          48000.0            47000.0
+Write Off                                                         50322000.0         7238000.0         -48000.0           -47000.0
+Net Non Operating Interest Income Expense                        -58534000.0       -46453000.0       -9513000.0         -3810000.0
+Interest Expense Non Operating                                   114436000.0        82357000.0       30803000.0         30843000.0
+Interest Income Non Operating                                     55902000.0        35904000.0       21290000.0         27033000.0
+Operating Income                                                 513947000.0       735595000.0      356045000.0        467866000.0
+Operating Expense                                               2257210000.0      2129679000.0     1704547000.0       1797710000.0
+Research And Development                                        1069512000.0       916227000.0      753460000.0        874998000.0
+Selling General And Administration                              1187698000.0      1213452000.0      951087000.0        922712000.0
+Selling And Marketing Expense                                    524312000.0       517931000.0      401480000.0        389400000.0
+General And Administrative Expense                               663386000.0       695521000.0      549607000.0        533312000.0
+Gross Profit                                                    2771157000.0      2865274000.0     2060592000.0       2265576000.0
+Cost Of Revenue                                                23365192000.0     25034716000.0    20852099000.0      17663796000.0
+Total Revenue                                                  26136349000.0     27899990000.0    22912691000.0      19929372000.0
+Operating Revenue                                              26136349000.0     27899990000.0    22912691000.0      19929372000.0

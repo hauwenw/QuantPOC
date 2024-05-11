@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 201-1, Jixian Road
+address2	1st Floor Sanchong District
+city	New Taipei City
+zip	241
+country	Taiwan
+phone	886 2 8791 8888
+website	https://www.gtg.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Chainqui Construction Development Co., Ltd., together with its subsidiaries, engages in the construction, sale, and leasing of residential and commercial buildings in Taiwan and internationally. The company operates in two segments, Real Estate Transaction Group and Construction Group. It is also involved in the provision of mansion management, security, and investing services; and operation of supermarkets. The company was formerly known as Chain Qui Development Co. Ltd. Chainqui Construction Development Co., Ltd. was founded in 1972 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Feng  Chiang', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 4628000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiao-Hui  Hung', 'title': 'Finance Manager', 'fiscalYear': 2021, 'totalPay': 1115000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teng-Hsieh  Wang', 'title': 'Accounting Manager', 'fiscalYear': 2021, 'totalPay': 968000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pe-Mying  Tao', 'title': 'Assistant Manager of Administration Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	23.3
+open	23.3
+dayLow	22.75
+dayHigh	23.55
+regularMarketPreviousClose	23.3
+regularMarketOpen	23.3
+regularMarketDayLow	22.75
+regularMarketDayHigh	23.55
+exDividendDate	1628640000	 (2021-08-11 08:00:00)
+fiveYearAvgDividendYield	3.83
+beta	0.178
+volume	2003506
+regularMarketVolume	2003506
+averageVolume	1898125
+averageVolume10days	3653572
+averageDailyVolume10Day	3653572
+bid	22.8
+ask	22.85
+marketCap	5119739904
+fiftyTwoWeekLow	14.5
+fiftyTwoWeekHigh	27.0
+priceToSalesTrailing12Months	22.910189
+fiftyDayAverage	20.447
+twoHundredDayAverage	17.1345
+currency	TWD
+enterpriseValue	7795124736
+profitMargins	-1.09919
+floatShares	179375830
+sharesOutstanding	224550000
+heldPercentInsiders	0.56764
+heldPercentInstitutions	0.00935
+impliedSharesOutstanding	231078000
+bookValue	17.853
+priceToBook	1.2770962
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-245635008
+trailingEps	-1.09
+lastSplitFactor	1102500:1000000
+lastSplitDate	1598486400	 (2020-08-27 08:00:00)
+enterpriseToRevenue	34.882
+enterpriseToEbitda	-250.172
+52WeekChange	0.47572815
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1628640000	 (2021-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2509.TW
+underlyingSymbol	2509.TW
+shortName	CHAINQUI CONSTRUCTION DEVELOPME
+longName	Chainqui Construction Development Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	61f3506c-8b09-357d-9fc2-1b312b309928
+messageBoardId	finmb_9637441
+gmtOffSetMilliseconds	28800000
+currentPrice	22.8
+recommendationKey	none
+totalCash	1418557952
+totalCashPerShare	6.317
+ebitda	-31159000
+totalDebt	3721926912
+quickRatio	0.351
+currentRatio	1.686
+totalRevenue	223470000
+debtToEquity	84.958
+revenuePerShare	0.995
+returnOnAssets	-0.0059399996
+returnOnEquity	-0.053379998
+freeCashflow	-1089988608
+operatingCashflow	-1169571968
+revenueGrowth	0.11
+grossMargins	0.33560002
+ebitdaMargins	-0.13943
+operatingMargins	-0.55807
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -720600.0          0.0          0.0           0.0
+Tax Rate For Calcs                                                  0.2     0.000985     0.049749      0.141948
+Normalized EBITDA                                           -10531000.0   -1810000.0  158088000.0   409834000.0
+Total Unusual Items                                          -3603000.0          0.0          NaN           NaN
+Total Unusual Items Excluding Goodwill                       -3603000.0          0.0          NaN           NaN
+Net Income From Continuing Operation Net Minority Interest -245635000.0 -150925000.0   44115000.0   232341000.0
+Reconciled Depreciation                                      58684000.0   59159000.0   56890000.0    58131000.0
+Reconciled Cost Of Revenue                                  148474000.0  128592000.0  529667000.0   784710000.0
+EBITDA                                                      -14134000.0   -1810000.0  158088000.0   409834000.0
+EBIT                                                        -72818000.0  -60969000.0  101198000.0   351703000.0
+Net Interest Income                                        -140032000.0  -80738000.0  -55569000.0   -77322000.0
+Interest Expense                                            166300000.0   88345000.0   57217000.0    81569000.0
+Interest Income                                              26268000.0    7607000.0    1648000.0     4247000.0
+Normalized Income                                          -242752600.0 -150925000.0   44115000.0   232341000.0
+Net Income From Continuing And Discontinued Operation      -245635000.0 -150925000.0   44115000.0   232341000.0
+Total Expenses                                              305512000.0  281541000.0  707281000.0  1003842000.0
+Diluted Average Shares                                              NaN  224551000.0  224635000.0   224864000.0
+Basic Average Shares                                                NaN  224551000.0  224551000.0   224551000.0
+Diluted EPS                                                         NaN        -0.67          0.2          1.03
+Basic EPS                                                           NaN        -0.67          0.2          1.03
+Diluted NI Availto Com Stockholders                        -245635000.0 -150925000.0   44115000.0   232341000.0
+Net Income Common Stockholders                             -245635000.0 -150925000.0   44115000.0   232341000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0           0.0
+Net Income                                                 -245635000.0 -150925000.0   44115000.0   232341000.0
+Minority Interests                                           -6207000.0   -1758000.0    2322000.0      552000.0
+Net Income Including Noncontrolling Interests              -239428000.0 -149167000.0   41793000.0   231789000.0
+Net Income Continuous Operations                           -239428000.0 -149167000.0   41793000.0   231789000.0
+Tax Provision                                                  310000.0    -147000.0    2188000.0    38345000.0
+Pretax Income                                              -239118000.0 -149314000.0   43981000.0   270134000.0
+Other Non Operating Income Expenses                         -13441000.0   10403000.0   13931000.0    13221000.0
+Special Income Charges                                       -3603000.0          0.0          NaN           NaN
+Write Off                                                     3603000.0          0.0          NaN           NaN
+Net Non Operating Interest Income Expense                  -140032000.0  -80738000.0  -55569000.0   -77322000.0
+Interest Expense Non Operating                              166300000.0   88345000.0   57217000.0    81569000.0
+Interest Income Non Operating                                26268000.0    7607000.0    1648000.0     4247000.0
+Operating Income                                            -82042000.0  -78979000.0   85619000.0   334235000.0
+Operating Expense                                           157038000.0  152949000.0  177614000.0   219132000.0
+Selling General And Administration                          157038000.0  152949000.0  177614000.0   219132000.0
+Selling And Marketing Expense                                66175000.0   57036000.0   80591000.0   110060000.0
+General And Administrative Expense                           90863000.0   95913000.0   97023000.0   109072000.0
+Gross Profit                                                 74996000.0   73970000.0  263233000.0   553367000.0
+Cost Of Revenue                                             148474000.0  128592000.0  529667000.0   784710000.0
+Total Revenue                                               223470000.0  202562000.0  792900000.0  1338077000.0
+Operating Revenue                                           223470000.0  202562000.0  792900000.0  1338077000.0

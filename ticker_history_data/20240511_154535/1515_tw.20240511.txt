@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 261, Renhua Road
+address2	Dali District
+city	Taichung
+zip	412
+country	Taiwan
+phone	886 4 2491 4141
+fax	886 4 2491 3807
+website	https://www.rexon.net
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Rexon Industrial Corp.,Ltd designs, manufactures, and sells bench top/stationary machinery, and consumer and commercial grade fitness products in Taiwan, the United States, Europe, the rest of Asia, and internationally. The company offers power tools, including sawing, drilling, demolishing, grinding, polishing/sanding, cutting, and planning/routing. It also provides fitness equipment, such as treadmills, as well as after-sale services. In addition, the company engages in merchandise trading activities; and the manufacture and sale of electric components and woodworking tools. The company was formerly known as KuoHsing Machinery Ltd. and changed its name to Rexon Industrial Corp.,Ltd in 1976. The company was founded in 1972 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Guanxiang  Wang', 'title': 'Chairman & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Chou  Lo', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan-Hsiang  Wang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liny  Lin', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	49.05
+open	48.5
+dayLow	45.95
+dayHigh	48.5
+regularMarketPreviousClose	49.05
+regularMarketOpen	48.5
+regularMarketDayLow	45.95
+regularMarketDayHigh	48.5
+exDividendDate	1654732800	 (2022-06-09 08:00:00)
+fiveYearAvgDividendYield	5.07
+beta	1.134
+trailingPE	13.401162
+forwardPE	14.870968
+volume	6205479
+regularMarketVolume	6205479
+averageVolume	1994786
+averageVolume10days	3317881
+averageDailyVolume10Day	3317881
+bid	46.1
+ask	46.2
+marketCap	8365904896
+fiftyTwoWeekLow	28.85
+fiftyTwoWeekHigh	61.2
+priceToSalesTrailing12Months	1.2470677
+fiftyDayAverage	49.231
+twoHundredDayAverage	46.11875
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.024464833
+currency	TWD
+enterpriseValue	6945183232
+profitMargins	0.04603
+sharesOutstanding	181472992
+heldPercentInsiders	0.3859
+heldPercentInstitutions	0.04772
+impliedSharesOutstanding	185784992
+bookValue	20.908
+priceToBook	2.2048974
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	308768000
+trailingEps	3.44
+forwardEps	3.1
+lastSplitFactor	0.793208:1
+lastSplitDate	1353628800	 (2012-11-23 08:00:00)
+enterpriseToRevenue	1.035
+enterpriseToEbitda	8.46
+52WeekChange	0.58965516
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1654732800	 (2022-06-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1515.TW
+underlyingSymbol	1515.TW
+shortName	REXON INDUSTRIAL
+longName	Rexon Industrial Corp.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c4a805b1-e2bb-342b-8a42-37f7679c75e9
+messageBoardId	finmb_9794107
+gmtOffSetMilliseconds	28800000
+currentPrice	46.1
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3283097088
+totalCashPerShare	18.091
+ebitda	820963008
+totalDebt	1299069056
+quickRatio	0.848
+currentRatio	1.0
+totalRevenue	6708461056
+debtToEquity	33.987
+revenuePerShare	36.967
+returnOnAssets	0.035350002
+returnOnEquity	0.08485
+freeCashflow	1787688064
+operatingCashflow	2069556992
+revenueGrowth	2.079
+grossMargins	0.16639
+ebitdaMargins	0.122379996
+operatingMargins	0.12607001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0            0.0            0.0
+Tax Rate For Calcs                                              0.255426      0.253266       0.199503        0.22356
+Normalized EBITDA                                            824808000.0   -12435000.0   1605101000.0   1248026000.0
+Net Income From Continuing Operation Net Minority Interest   308768000.0  -298921000.0   1052892000.0    817480000.0
+Reconciled Depreciation                                      374365000.0   365697000.0    278157000.0    177407000.0
+Reconciled Cost Of Revenue                                  5592241000.0  4394448000.0  15849053000.0   9403085000.0
+EBITDA                                                       824808000.0   -12435000.0   1605101000.0   1248026000.0
+EBIT                                                         450443000.0  -378132000.0   1326944000.0   1070619000.0
+Net Interest Income                                           -6789000.0   -16581000.0     -5797000.0     -7171000.0
+Interest Expense                                              32702000.0    22439000.0      7827000.0     11696000.0
+Interest Income                                               25913000.0     5858000.0      2030000.0      4525000.0
+Normalized Income                                            308768000.0  -298921000.0   1052892000.0    817480000.0
+Net Income From Continuing And Discontinued Operation        308768000.0  -298921000.0   1052892000.0    817480000.0
+Total Expenses                                              6228610000.0  4978885000.0  16941608000.0  10218141000.0
+Diluted Average Shares                                       182174000.0   181473000.0    182822000.0    182825000.0
+Basic Average Shares                                         181473000.0   181473000.0    181473000.0    181473000.0
+Diluted EPS                                                         1.69         -1.65           5.76           4.47
+Basic EPS                                                            1.7         -1.65            5.8            4.5
+Diluted NI Availto Com Stockholders                          308768000.0  -298921000.0   1052892000.0    817480000.0
+Net Income Common Stockholders                               308768000.0  -298921000.0   1052892000.0    817480000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0            0.0            0.0
+Net Income                                                   308768000.0  -298921000.0   1052892000.0    817480000.0
+Minority Interests                                            -2271000.0      199000.0     -3057000.0     -4710000.0
+Net Income Including Noncontrolling Interests                311039000.0  -299120000.0   1055949000.0    822190000.0
+Net Income Discontinuous Operations                                  NaN           NaN            NaN            0.0
+Net Income Continuous Operations                             311039000.0  -299120000.0   1055949000.0    822190000.0
+Tax Provision                                                106702000.0  -101451000.0    263168000.0    236733000.0
+Pretax Income                                                417741000.0  -400571000.0   1319117000.0   1058923000.0
+Other Non Operating Income Expenses                          -55464000.0    45399000.0   -100819000.0    -90259000.0
+Net Non Operating Interest Income Expense                     -6789000.0   -16581000.0     -5797000.0     -7171000.0
+Interest Expense Non Operating                                32702000.0    22439000.0      7827000.0     11696000.0
+Interest Income Non Operating                                 25913000.0     5858000.0      2030000.0      4525000.0
+Operating Income                                             479851000.0  -429577000.0   1425215000.0   1156066000.0
+Operating Expense                                            636369000.0   584437000.0   1092555000.0    815056000.0
+Research And Development                                     173687000.0   142903000.0    215937000.0    198633000.0
+Selling General And Administration                           462682000.0   441534000.0    876618000.0    616423000.0
+Selling And Marketing Expense                                262258000.0   258145000.0    561819000.0    432757000.0
+General And Administrative Expense                           200424000.0   183389000.0    314799000.0    183666000.0
+Gross Profit                                                1116220000.0   154860000.0   2517770000.0   1971122000.0
+Cost Of Revenue                                             5592241000.0  4394448000.0  15849053000.0   9403085000.0
+Total Revenue                                               6708461000.0  4549308000.0  18366823000.0  11374207000.0
+Operating Revenue                                           6708461000.0  4549308000.0  18366823000.0  11374207000.0

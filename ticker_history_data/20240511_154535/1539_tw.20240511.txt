@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 78, Yongfeng Rd
+address2	Taiping District
+city	Taichung
+zip	411032
+country	Taiwan
+phone	886 4 2270 0258
+fax	886 4 2275 9365
+website	https://www.geetech.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Chiu Ting Machinery Co., Ltd. designs, manufactures, and sells bench top and stationery woodworking machinery worldwide. It offers table saws, parallelogram jointers, and snipe planer products. The company sells its products to importers, distributors, and retailers. Chiu Ting Machinery Co., Ltd. was founded in 1980 and is headquartered in Taichung, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	23.4
+open	23.4
+dayLow	23.25
+dayHigh	23.5
+regularMarketPreviousClose	23.4
+regularMarketOpen	23.4
+regularMarketDayLow	23.25
+regularMarketDayHigh	23.5
+dividendRate	2.5
+dividendYield	0.1073
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	1.5152
+fiveYearAvgDividendYield	5.86
+beta	0.86
+trailingPE	14.121212
+forwardPE	10.130435
+volume	135701
+regularMarketVolume	135701
+averageVolume	279058
+averageVolume10days	180184
+averageDailyVolume10Day	180184
+bid	23.3
+ask	23.35
+marketCap	1523120896
+fiftyTwoWeekLow	21.75
+fiftyTwoWeekHigh	30.75
+priceToSalesTrailing12Months	0.9932421
+fiftyDayAverage	24.666
+twoHundredDayAverage	24.40175
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.025641028
+currency	TWD
+enterpriseValue	1488430976
+profitMargins	0.041079998
+floatShares	65016348
+sharesOutstanding	65370000
+heldPercentInsiders	0.58617
+impliedSharesOutstanding	65370000
+bookValue	24.204
+priceToBook	0.9626508
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	62998000
+trailingEps	1.65
+forwardEps	2.3
+lastSplitFactor	101.522:100
+lastSplitDate	1220486400	 (2008-09-04 08:00:00)
+enterpriseToRevenue	0.971
+enterpriseToEbitda	10.97
+52WeekChange	-0.15118396
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1539.TW
+underlyingSymbol	1539.TW
+shortName	CHIU TING MACHINERY CO
+longName	Chiu Ting Machinery Co., Ltd.
+firstTradeDateEpochUtc	1035939600	 (2002-10-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	755ca6a8-8738-37a5-b4f5-324fd40564c5
+messageBoardId	finmb_9844338
+gmtOffSetMilliseconds	28800000
+currentPrice	23.3
+recommendationKey	none
+totalCash	559078016
+totalCashPerShare	8.553
+ebitda	135680000
+totalDebt	524388000
+quickRatio	1.535
+currentRatio	2.243
+totalRevenue	1533484032
+debtToEquity	33.142
+revenuePerShare	23.459
+returnOnAssets	0.01935
+returnOnEquity	0.038599998
+freeCashflow	262862624
+operatingCashflow	237235008
+revenueGrowth	0.478
+grossMargins	0.11265001
+ebitdaMargins	0.088479996
+operatingMargins	0.07497
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     1105.23716        525.861307     105837.909936       19200.0
+Tax Rate For Calcs                                                0.276309          0.175287          0.203144           0.2
+Normalized EBITDA                                              153772000.0       542591000.0       187562000.0    53254000.0
+Total Unusual Items                                                 4000.0            3000.0          521000.0       96000.0
+Total Unusual Items Excluding Goodwill                              4000.0            3000.0          521000.0       96000.0
+Net Income From Continuing Operation Net Minority Interest      62998000.0       391958000.0       102757000.0     3510000.0
+Reconciled Depreciation                                         57678000.0        54026000.0        44140000.0    29596000.0
+Reconciled Cost Of Revenue                                    1360733000.0      2203568000.0      2806707000.0  2048159000.0
+EBITDA                                                         153776000.0       542594000.0       188083000.0    53350000.0
+EBIT                                                            96098000.0       488568000.0       143943000.0    23754000.0
+Net Interest Income                                              3815000.0        -8005000.0       -13238000.0    -7397000.0
+Interest Expense                                                 9047000.0        13302000.0        14990000.0    16440000.0
+Interest Income                                                 12862000.0         5297000.0         1752000.0     9043000.0
+Normalized Income                                           62995105.23716  391955525.861307  102341837.909936     3433200.0
+Net Income From Continuing And Discontinued Operation           62998000.0       392240000.0        88429000.0   -18592000.0
+Total Expenses                                                1453480000.0      2314358000.0      2910685000.0  2136486000.0
+Diluted Average Shares                                                 NaN        65827000.0        65506000.0    65370000.0
+Basic Average Shares                                                   NaN        65370000.0        65370000.0    65370000.0
+Diluted EPS                                                            NaN              5.96              1.35         -0.28
+Basic EPS                                                              NaN               6.0              1.35         -0.28
+Diluted NI Availto Com Stockholders                             62998000.0       392240000.0        88429000.0   -18592000.0
+Net Income Common Stockholders                                  62998000.0       392240000.0        88429000.0   -18592000.0
+Otherunder Preferred Stock Dividend                                    0.0               0.0               0.0           0.0
+Net Income                                                      62998000.0       392240000.0        88429000.0   -18592000.0
+Net Income Including Noncontrolling Interests                   62998000.0       392240000.0        88429000.0   -18592000.0
+Net Income Discontinuous Operations                                    0.0          282000.0       -14328000.0   -22102000.0
+Net Income Continuous Operations                                62998000.0       391958000.0       102757000.0     3510000.0
+Tax Provision                                                   24053000.0        83308000.0        26196000.0     3804000.0
+Pretax Income                                                   87051000.0       475266000.0       128953000.0     7314000.0
+Other Non Operating Income Expenses                              3228000.0       297547000.0       -90288000.0  -136487000.0
+Special Income Charges                                              4000.0            3000.0          521000.0       96000.0
+Write Off                                                          -4000.0           -3000.0         -521000.0      -96000.0
+Net Non Operating Interest Income Expense                        3815000.0        -8005000.0       -13238000.0    -7397000.0
+Interest Expense Non Operating                                   9047000.0        13302000.0        14990000.0    16440000.0
+Interest Income Non Operating                                   12862000.0         5297000.0         1752000.0     9043000.0
+Operating Income                                                80004000.0       185721000.0       231958000.0   151102000.0
+Operating Expense                                               92747000.0       110790000.0       103978000.0    88327000.0
+Research And Development                                        19159000.0        20879000.0        19510000.0    18405000.0
+Selling General And Administration                              73588000.0        89911000.0        84468000.0    69922000.0
+Selling And Marketing Expense                                   24270000.0        32947000.0        38197000.0    30278000.0
+General And Administrative Expense                              49318000.0        56964000.0        46271000.0    39644000.0
+Gross Profit                                                   172751000.0       296511000.0       335936000.0   239429000.0
+Cost Of Revenue                                               1360733000.0      2203568000.0      2806707000.0  2048159000.0
+Total Revenue                                                 1533484000.0      2500079000.0      3142643000.0  2287588000.0
+Operating Revenue                                             1533484000.0      2500079000.0      3142643000.0  2287588000.0

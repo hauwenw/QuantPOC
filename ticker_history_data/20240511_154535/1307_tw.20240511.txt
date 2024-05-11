@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	402 Fengjen Rd.
+address2	Jenwu Dist.
+city	Kaohsiung
+country	Taiwan
+phone	886 7 371 2111
+fax	886 7 371 1940
+website	https://www.sanfang.com
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	San Fang Chemical Industry Co., Ltd. manufactures and sells artificial leather, synthetic resin, and other materials in Taiwan. It provides polyurethane synthetic leathers; full grain and nubuck synthetic leathers; fibers, such as multi and mono filaments, recycled dope dyed yarn, and thermoplastic polyester elastomer (TPEE) elastic fibers; and hot melt, TPU+hot melt, TPU, multi-layer films for shoes, as well as films, hot melt, water-proof tapes, elastic hot melt, and decoration hot melt films for apparels. The company also engages in the manufacture and sale of chemical products; and material processing activities. Its products are used in sports shoes, balls, equipments and bags, and bicycle saddle materials; fibers, hot melt, water-proof tape, and decoration hot melt apparels; vehicle interiors; pain protective films; hot melt, synthetic leather, and film electronics; and furniture upholstery. San Fang Chemical Industry Co., Ltd. was founded in 1973 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsin-Hung  Lin', 'title': 'VP & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hua-Hsing  Wang', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Chu  Chen', 'title': 'Corporate Governance Supervisor, VP & Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Po-Hsueh  Chou', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liang-Chuan  Hsu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.5
+open	33.45
+dayLow	32.95
+dayHigh	34.05
+regularMarketPreviousClose	33.5
+regularMarketOpen	33.45
+regularMarketDayLow	32.95
+regularMarketDayHigh	34.05
+dividendRate	0.8
+dividendYield	0.025899999
+exDividendDate	1688342400	 (2023-07-03 08:00:00)
+payoutRatio	0.42110002
+fiveYearAvgDividendYield	2.87
+beta	0.525
+trailingPE	17.526316
+forwardPE	31.415094
+volume	3110582
+regularMarketVolume	3110582
+averageVolume	962301
+averageVolume10days	2084009
+averageDailyVolume10Day	2084009
+bid	33.25
+ask	33.3
+marketCap	13247338496
+fiftyTwoWeekLow	21.8
+fiftyTwoWeekHigh	34.05
+priceToSalesTrailing12Months	1.3133425
+fiftyDayAverage	28.954
+twoHundredDayAverage	26.407
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.04477612
+currency	TWD
+enterpriseValue	11336939520
+profitMargins	0.07537
+floatShares	158446931
+sharesOutstanding	397817984
+heldPercentInsiders	0.60119
+heldPercentInstitutions	0.00896
+impliedSharesOutstanding	397817984
+bookValue	22.48
+priceToBook	1.4813167
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	4.602
+netIncomeToCommon	760273984
+trailingEps	1.9
+forwardEps	1.06
+lastSplitFactor	1030:1000
+lastSplitDate	1469664000	 (2016-07-28 08:00:00)
+enterpriseToRevenue	1.124
+enterpriseToEbitda	7.093
+52WeekChange	0.47019863
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1688342400	 (2023-07-03 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1307.TW
+underlyingSymbol	1307.TW
+shortName	SAN FANG CHEMICAL
+longName	San Fang Chemical Industry Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1cd81db0-d309-3528-8cca-83fdf88e7642
+messageBoardId	finmb_11538107
+gmtOffSetMilliseconds	28800000
+currentPrice	33.3
+recommendationKey	none
+totalCash	5979267072
+totalCashPerShare	15.03
+ebitda	1598323968
+totalDebt	3989304064
+quickRatio	1.964
+currentRatio	2.442
+totalRevenue	10086735872
+debtToEquity	44.608
+revenuePerShare	25.355
+returnOnAssets	0.03976
+returnOnEquity	0.08726
+freeCashflow	1158185216
+operatingCashflow	2148363008
+earningsGrowth	4.424
+revenueGrowth	0.014
+grossMargins	0.2504
+ebitdaMargins	0.15845999
+operatingMargins	0.122480005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    701604.309493    -378515.934063    1968325.258972     541997.304308
+Tax Rate For Calcs                                                  0.261208          0.210287          0.207827           0.36671
+Normalized EBITDA                                               1723252000.0      1384587000.0       940794000.0      1164573000.0
+Total Unusual Items                                                2686000.0        -1800000.0         9471000.0         1478000.0
+Total Unusual Items Excluding Goodwill                             2686000.0        -1800000.0         9471000.0         1478000.0
+Net Income From Continuing Operation Net Minority Interest       760274000.0       470114000.0       115933000.0       218012000.0
+Reconciled Depreciation                                          623068000.0       731026000.0       755764000.0       774177000.0
+Reconciled Cost Of Revenue                                      7561009000.0      9029397000.0      6909767000.0      6578085000.0
+EBITDA                                                          1725938000.0      1382787000.0       950265000.0      1166051000.0
+EBIT                                                            1102870000.0       651761000.0       194501000.0       391874000.0
+Net Interest Income                                               90351000.0       -15957000.0       -35296000.0       -20456000.0
+Interest Expense                                                  73793000.0        56464000.0        48153000.0        47621000.0
+Interest Income                                                  164144000.0        40507000.0        12857000.0        27165000.0
+Normalized Income                                           758289604.309493  471535484.065937  108430325.258972  217075997.304308
+Net Income From Continuing And Discontinued Operation            760274000.0       470114000.0       115933000.0       218012000.0
+Total Expenses                                                  9102347000.0     10468368000.0      8152479000.0      7944883000.0
+Diluted Average Shares                                                   NaN       398973000.0       398148000.0       398444000.0
+Basic Average Shares                                                     NaN       397818000.0       397818000.0       397818000.0
+Diluted EPS                                                              NaN              1.18              0.29              0.55
+Basic EPS                                                                NaN              1.18              0.29              0.55
+Diluted NI Availto Com Stockholders                              760274000.0       470114000.0       115933000.0       218012000.0
+Net Income Common Stockholders                                   760274000.0       470114000.0       115933000.0       218012000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       760274000.0       470114000.0       115933000.0       218012000.0
+Net Income Including Noncontrolling Interests                    760274000.0       470114000.0       115933000.0       218012000.0
+Net Income Continuous Operations                                 760274000.0       470114000.0       115933000.0       218012000.0
+Tax Provision                                                    268803000.0       125183000.0        30415000.0       126241000.0
+Pretax Income                                                   1029077000.0       595297000.0       146348000.0       344253000.0
+Other Non Operating Income Expenses                              -48349000.0       317923000.0       -59355000.0      -133642000.0
+Special Income Charges                                             2686000.0        -1800000.0         9471000.0         1478000.0
+Write Off                                                         -2686000.0         1800000.0        -9471000.0        -1478000.0
+Net Non Operating Interest Income Expense                         90351000.0       -15957000.0       -35296000.0       -20456000.0
+Interest Expense Non Operating                                    73793000.0        56464000.0        48153000.0        47621000.0
+Interest Income Non Operating                                    164144000.0        40507000.0        12857000.0        27165000.0
+Operating Income                                                 984389000.0       295131000.0       231528000.0       496873000.0
+Operating Expense                                               1541338000.0      1438971000.0      1242712000.0      1366798000.0
+Research And Development                                         330386000.0       301375000.0       294495000.0       309365000.0
+Selling General And Administration                              1210952000.0      1137596000.0       948217000.0      1057433000.0
+Selling And Marketing Expense                                    543785000.0       525236000.0       432270000.0       509481000.0
+General And Administrative Expense                               667167000.0       612360000.0       515947000.0       547952000.0
+Gross Profit                                                    2525727000.0      1734102000.0      1474240000.0      1863671000.0
+Cost Of Revenue                                                 7561009000.0      9029397000.0      6909767000.0      6578085000.0
+Total Revenue                                                  10086736000.0     10763499000.0      8384007000.0      8441756000.0
+Operating Revenue                                              10086736000.0     10763499000.0      8384007000.0      8441756000.0

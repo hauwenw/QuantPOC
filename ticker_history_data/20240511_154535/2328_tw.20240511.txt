@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 97 An-shin Road
+address2	Hsintein
+city	New Taipei City
+country	Taiwan
+phone	886 2 2211 3066
+fax	886 2 2211 2463
+website	https://www.panintl.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Pan-International Industrial Corp., together with its subsidiaries, provides electronic manufacturing services to technology companies in China, Hong Kong, Malaysia, the United States, and Taiwan. The company offers design and manufacturing services for bulk wires and cables; connector systems; wire harnesses; cable assemblies; PCBs; PCBAs; and flex-circuit assemblies. It also offers plastic injection molding components. In addition, the company provides engineering and logistics services. It serves automotive, communications, portable energy, industrial, healthcare, computing, cloud, consumer, and lifestyle markets. Pan-International Industrial Corp. was founded in 1960 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Feng  Tsai', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Feng-An  Huang', 'title': 'CFO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Hao  Tai', 'title': 'Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	35.65
+open	35.9
+dayLow	35.2
+dayHigh	35.9
+regularMarketPreviousClose	35.65
+regularMarketOpen	35.9
+regularMarketDayLow	35.2
+regularMarketDayHigh	35.9
+dividendRate	1.4
+dividendYield	0.0397
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.5809
+fiveYearAvgDividendYield	3.44
+beta	0.879
+trailingPE	14.647302
+forwardPE	17.05314
+volume	2374974
+regularMarketVolume	2374974
+averageVolume	4577546
+averageVolume10days	4933259
+averageDailyVolume10Day	4933259
+bid	35.3
+ask	35.35
+marketCap	18297612288
+fiftyTwoWeekLow	30.25
+fiftyTwoWeekHigh	45.8
+priceToSalesTrailing12Months	0.71379524
+fiftyDayAverage	34.044
+twoHundredDayAverage	35.4135
+trailingAnnualDividendRate	1.3
+trailingAnnualDividendYield	0.036465634
+currency	TWD
+enterpriseValue	13513854976
+profitMargins	0.04902
+floatShares	390273283
+sharesOutstanding	518345984
+heldPercentInsiders	0.27604
+heldPercentInstitutions	0.090959996
+impliedSharesOutstanding	518345984
+bookValue	25.864
+priceToBook	1.3648313
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.11
+netIncomeToCommon	1256710016
+trailingEps	2.41
+forwardEps	2.07
+lastSplitFactor	1005:1000
+lastSplitDate	1407974400	 (2014-08-14 08:00:00)
+enterpriseToRevenue	0.527
+enterpriseToEbitda	6.332
+52WeekChange	-0.03287673
+SandP52WeekChange	0.26265144
+lastDividendValue	1.4
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2328.TW
+underlyingSymbol	2328.TW
+shortName	PAN INTERNATIONAL INDUSTRIAL
+longName	Pan-International Industrial Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	53555512-4d34-30fc-a6d0-30cbc0e2ff77
+messageBoardId	finmb_9845297
+gmtOffSetMilliseconds	28800000
+currentPrice	35.3
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	7390654976
+totalCashPerShare	14.258
+ebitda	2134098048
+totalDebt	665073984
+quickRatio	1.607
+currentRatio	2.062
+totalRevenue	25634258944
+debtToEquity	4.333
+revenuePerShare	49.454
+returnOnAssets	0.0402
+returnOnEquity	0.098929994
+freeCashflow	2976953856
+operatingCashflow	4435586048
+earningsGrowth	-0.106
+revenueGrowth	-0.151
+grossMargins	0.123859994
+ebitdaMargins	0.08325
+operatingMargins	0.06984
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     195108.969417      113904.149564    -919244.684964   -5163298.029945
+Tax Rate For Calcs                                                   0.191096           0.238293          0.249659          0.337537
+Normalized EBITDA                                                2532956000.0       2700678000.0      1983289000.0      1642310000.0
+Total Unusual Items                                                 1021000.0           478000.0        -3682000.0       -15297000.0
+Total Unusual Items Excluding Goodwill                              1021000.0           478000.0        -3682000.0       -15297000.0
+Net Income From Continuing Operation Net Minority Interest       1256710000.0       1322290000.0       967232000.0       663190000.0
+Reconciled Depreciation                                           631778000.0        603492000.0       417290000.0       398648000.0
+Reconciled Cost Of Revenue                                      22459093000.0      22977604000.0     21577044000.0     18403018000.0
+EBITDA                                                           2533977000.0       2701156000.0      1979607000.0      1627013000.0
+EBIT                                                             1902199000.0       2097664000.0      1562317000.0      1228365000.0
+Net Interest Income                                               100713000.0         53796000.0        71849000.0        76602000.0
+Interest Expense                                                   60407000.0         41231000.0        12892000.0        35099000.0
+Interest Income                                                   161120000.0         95027000.0        84741000.0       111701000.0
+Normalized Income                                           1255884108.969417  1321925904.149564  969994755.315036  673323701.970055
+Net Income From Continuing And Discontinued Operation            1256710000.0       1322290000.0       967232000.0       663190000.0
+Total Expenses                                                  24033812000.0      24436586000.0     22840307000.0     19607618000.0
+Diluted Average Shares                                                    NaN        520949000.0       520079000.0       520783000.0
+Basic Average Shares                                                      NaN        518346000.0       518346000.0       518346000.0
+Diluted EPS                                                               NaN               2.54              1.86              1.27
+Basic EPS                                                                 NaN               2.55              1.87              1.28
+Diluted NI Availto Com Stockholders                              1256710000.0       1322290000.0       967232000.0       663190000.0
+Net Income Common Stockholders                                   1256710000.0       1322290000.0       967232000.0       663190000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0               0.0
+Net Income                                                       1256710000.0       1322290000.0       967232000.0       663190000.0
+Minority Interests                                               -233123000.0       -244109000.0      -195365000.0      -127305000.0
+Net Income Including Noncontrolling Interests                    1489833000.0       1566399000.0      1162597000.0       790495000.0
+Net Income Continuous Operations                                 1489833000.0       1566399000.0      1162597000.0       790495000.0
+Tax Provision                                                     351959000.0        490034000.0       386828000.0       402771000.0
+Pretax Income                                                    1841792000.0       2056433000.0      1549425000.0      1193266000.0
+Other Non Operating Income Expenses                               210436000.0        190008000.0       157591000.0       225867000.0
+Special Income Charges                                              1021000.0           478000.0        -3682000.0       -15297000.0
+Write Off                                                          -1021000.0          -478000.0         3682000.0        15297000.0
+Net Non Operating Interest Income Expense                         100713000.0         53796000.0        71849000.0        76602000.0
+Interest Expense Non Operating                                     60407000.0         41231000.0        12892000.0        35099000.0
+Interest Income Non Operating                                     161120000.0         95027000.0        84741000.0       111701000.0
+Operating Income                                                 1600446000.0       1820754000.0      1385887000.0       940095000.0
+Operating Expense                                                1574719000.0       1458982000.0      1263263000.0      1204600000.0
+Research And Development                                          477370000.0        416502000.0       346780000.0       267362000.0
+Selling General And Administration                               1097349000.0       1042480000.0       916483000.0       937238000.0
+Selling And Marketing Expense                                     290760000.0        305104000.0       265656000.0       220811000.0
+General And Administrative Expense                                806589000.0        737376000.0       650827000.0       716427000.0
+Gross Profit                                                     3175165000.0       3279736000.0      2649150000.0      2144695000.0
+Cost Of Revenue                                                 22459093000.0      22977604000.0     21577044000.0     18403018000.0
+Total Revenue                                                   25634258000.0      26257340000.0     24226194000.0     20547713000.0
+Operating Revenue                                               25634258000.0      26257340000.0     24226194000.0     20547713000.0

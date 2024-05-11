@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 237, Songjiang Road
+address2	15th Floor Zhongshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2509 2188
+fax	886 2 2509 3033
+website	https://www.luckygrp.com.tw
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Lucky Cement Co., together with its subsidiaries, manufactures and sells cement in the People's Republic of China. The company offers Portland cement, ready-mixed concrete, hot cement, lower alkali Portland cement, blast furnace slag, limestone, dimension stones, sand, and gravels, as well as ashes. It also engages in the construction business; and provides shipping agent and maritime transportation services. In addition, the company is involved in the lease and sale of residential and commercial buildings, parking lots, and industrial areas; and cement trading, and clay and stone quarrying businesses. Lucky Cement Co. was founded in 1974 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Yun-Ju  Chen', 'title': 'Head of Finance, Executive Deputy GM & Director', 'fiscalYear': 2021, 'totalPay': 2761000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming-Shien  Chen', 'title': 'President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Tien  Chang', 'title': 'Accounting Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	16.9
+open	16.95
+dayLow	16.95
+dayHigh	17.2
+regularMarketPreviousClose	16.9
+regularMarketOpen	16.95
+regularMarketDayLow	16.95
+regularMarketDayHigh	17.2
+dividendRate	0.8
+dividendYield	0.0465
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	0.6154
+fiveYearAvgDividendYield	3.8
+beta	0.741
+trailingPE	13.23077
+volume	1530088
+regularMarketVolume	1530088
+averageVolume	1573173
+averageVolume10days	1595515
+averageDailyVolume10Day	1595515
+bid	17.15
+ask	17.2
+marketCap	6961493504
+fiftyTwoWeekLow	13.4
+fiftyTwoWeekHigh	19.0
+priceToSalesTrailing12Months	1.3664072
+fiftyDayAverage	16.307
+twoHundredDayAverage	15.50625
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.0591716
+currency	TWD
+enterpriseValue	9793021952
+profitMargins	0.10347
+floatShares	190194504
+sharesOutstanding	404737984
+heldPercentInsiders	0.53895
+heldPercentInstitutions	0.00828
+impliedSharesOutstanding	405920992
+bookValue	12.528
+priceToBook	1.3729247
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.788
+netIncomeToCommon	527139008
+trailingEps	1.3
+lastSplitFactor	105:100
+lastSplitDate	969408000	 (2000-09-20 08:00:00)
+enterpriseToRevenue	1.922
+enterpriseToEbitda	13.757
+52WeekChange	0.12786889
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1108.TW
+underlyingSymbol	1108.TW
+shortName	LUCKY CEMENT CO.
+longName	Lucky Cement Co.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	146f5bd3-3388-3c73-a16d-1a90b1d8c080
+messageBoardId	finmb_20356348
+gmtOffSetMilliseconds	28800000
+currentPrice	17.2
+recommendationKey	none
+totalCash	404344992
+totalCashPerShare	0.999
+ebitda	711848000
+totalDebt	3235804928
+quickRatio	0.493
+currentRatio	1.806
+totalRevenue	5094743040
+debtToEquity	63.812
+revenuePerShare	12.588
+returnOnAssets	0.03884
+returnOnEquity	0.105670005
+freeCashflow	347946368
+operatingCashflow	645225984
+earningsGrowth	-0.786
+revenueGrowth	0.168
+grossMargins	0.1733
+ebitdaMargins	0.13972001
+operatingMargins	0.07423
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    541712.360743    -613465.197334    -866832.048097    1542085.236989
+Tax Rate For Calcs                                                  0.201006          0.155229          0.231773          0.117322
+Normalized EBITDA                                                888754000.0       905085000.0       545072000.0       669882000.0
+Total Unusual Items                                                2695000.0        -3952000.0        -3740000.0        13144000.0
+Total Unusual Items Excluding Goodwill                             2695000.0        -3952000.0        -3740000.0        13144000.0
+Net Income From Continuing Operation Net Minority Interest       527139000.0       581216000.0       262205000.0       392269000.0
+Reconciled Depreciation                                          174660000.0       169053000.0       167943000.0       206672000.0
+Reconciled Cost Of Revenue                                      4211831000.0      3158473000.0      3208996000.0      3813497000.0
+EBITDA                                                           891449000.0       901133000.0       541332000.0       683026000.0
+EBIT                                                             716789000.0       732080000.0       373389000.0       476354000.0
+Net Interest Income                                              -53239000.0       -41790000.0       -30134000.0       -30355000.0
+Interest Expense                                                  57039000.0        44058000.0        32077000.0        31946000.0
+Interest Income                                                    3800000.0         2268000.0         1943000.0         1591000.0
+Normalized Income                                           524985712.360743  584554534.802666  265078167.951903  380667085.236989
+Net Income From Continuing And Discontinued Operation            527139000.0       581216000.0       262205000.0       392269000.0
+Total Expenses                                                  4485077000.0      3433872000.0      3426713000.0      4080655000.0
+Diluted Average Shares                                                   NaN       406943000.0       405821000.0       405869000.0
+Basic Average Shares                                                     NaN       404738000.0       404738000.0       404738000.0
+Diluted EPS                                                              NaN              1.43              0.65              0.97
+Basic EPS                                                                NaN              1.44              0.65              0.97
+Diluted NI Availto Com Stockholders                              527139000.0       581216000.0       262205000.0       392269000.0
+Net Income Common Stockholders                                   527139000.0       581216000.0       262205000.0       392269000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       527139000.0       581216000.0       262205000.0       392269000.0
+Minority Interests                                                    3000.0           -5000.0               0.0               0.0
+Net Income Including Noncontrolling Interests                    527136000.0       581221000.0       262205000.0       392269000.0
+Net Income Discontinuous Operations                                      NaN               NaN               NaN               0.0
+Net Income Continuous Operations                                 527136000.0       581221000.0       262205000.0       392269000.0
+Tax Provision                                                    132614000.0       106801000.0        79107000.0        52139000.0
+Pretax Income                                                    659750000.0       688022000.0       341312000.0       444408000.0
+Other Non Operating Income Expenses                              100628000.0        18383000.0        32877000.0        10237000.0
+Special Income Charges                                             2695000.0        -3952000.0        -3740000.0        13682000.0
+Other Special Charges                                                    NaN               NaN               NaN       -15724000.0
+Write Off                                                         -2695000.0         3952000.0         3740000.0         2042000.0
+Net Non Operating Interest Income Expense                        -53239000.0       -41790000.0       -30134000.0       -30355000.0
+Interest Expense Non Operating                                    57039000.0        44058000.0        32077000.0        31946000.0
+Interest Income Non Operating                                      3800000.0         2268000.0         1943000.0         1591000.0
+Operating Income                                                 609666000.0       715381000.0       342309000.0       449517000.0
+Operating Expense                                                273246000.0       275399000.0       217717000.0       267158000.0
+Other Operating Expenses                                          -2328000.0         -453000.0       -13442000.0         8959000.0
+Selling General And Administration                               275574000.0       275852000.0       231159000.0       258199000.0
+Selling And Marketing Expense                                    114730000.0       109743000.0       111495000.0       119454000.0
+General And Administrative Expense                               160844000.0       166109000.0       119664000.0       138745000.0
+Gross Profit                                                     882912000.0       990780000.0       560026000.0       716675000.0
+Cost Of Revenue                                                 4211831000.0      3158473000.0      3208996000.0      3813497000.0
+Total Revenue                                                   5094743000.0      4149253000.0      3769022000.0      4530172000.0
+Operating Revenue                                               5094743000.0      4149253000.0      3769022000.0      4530172000.0

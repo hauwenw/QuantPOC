@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 336, Gongye Road
+address2	Yongfeng Vil
+city	Nantou City
+zip	540406
+country	Taiwan
+phone	886 4 9225 5011
+fax	886 4 9225 0035
+website	https://www.nak.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	NAK Sealing Technologies Corporation manufactures and sells oil seals and technical sealing products in Taiwan and internationally. It offers automotive seals, including engine, transmission, power steering, axle, shock absorber, and motor seals; and industrial seals comprising pump, gear reducer/gearbox, motor, power tool, robotic arm, wind turbine, and washing machine seals. The company also provides agriculture, construction, and mining seals, such as piston, rod, wiper, and axle/hub seals; and other seals, including V-rings, axial face seals, bonded seals, sleeves, rings, rubber molded parts, and O-ring kits and cords. It serves automotive, industrial, and hydraulic and pneumatic, as well as agricultural, and construction and mining markets. The company was formerly known as Mao Shun Co. and changed its name to NAK Sealing Technologies Corporation in 2002. The company was founded in 1976 and is headquartered in Nantou City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Steven  Chien', 'title': 'Chief Executive Officer and General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Adams  Wu', 'title': 'Vice President of Marketing & Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Yao  Shi', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ruqing  Xue', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	131.0
+open	130.0
+dayLow	129.0
+dayHigh	130.0
+regularMarketPreviousClose	131.0
+regularMarketOpen	130.0
+regularMarketDayLow	129.0
+regularMarketDayHigh	130.0
+dividendRate	5.6
+dividendYield	0.0431
+exDividendDate	1690848000	 (2023-08-01 08:00:00)
+payoutRatio	0.4786
+fiveYearAvgDividendYield	5.04
+beta	0.372
+trailingPE	11.111112
+forwardPE	9.976976
+volume	325545
+regularMarketVolume	325545
+averageVolume	237893
+averageVolume10days	138887
+averageDailyVolume10Day	138887
+bid	129.5
+ask	130.0
+marketCap	11200968704
+fiftyTwoWeekLow	125.0
+fiftyTwoWeekHigh	163.0
+priceToSalesTrailing12Months	2.3401039
+fiftyDayAverage	132.79
+twoHundredDayAverage	133.93
+trailingAnnualDividendRate	7.0
+trailingAnnualDividendYield	0.053435113
+currency	TWD
+enterpriseValue	10215088128
+profitMargins	0.20458001
+floatShares	54998726
+sharesOutstanding	86161296
+heldPercentInsiders	0.36525002
+heldPercentInstitutions	0.027309999
+impliedSharesOutstanding	87512896
+bookValue	47.627
+priceToBook	2.7295442
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.1
+netIncomeToCommon	979206016
+trailingEps	11.7
+forwardEps	13.03
+lastSplitFactor	104.998:100
+lastSplitDate	1184198400	 (2007-07-12 08:00:00)
+enterpriseToRevenue	2.134
+enterpriseToEbitda	6.9
+52WeekChange	-0.13621265
+SandP52WeekChange	0.26265144
+lastDividendValue	5.6
+lastDividendDate	1690848000	 (2023-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9942.TW
+underlyingSymbol	9942.TW
+shortName	NAK SEALING TECHNOLOGIES CORP
+longName	NAK Sealing Technologies Corporation
+firstTradeDateEpochUtc	1012266000	 (2002-01-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	17b50aa5-09f3-3ea8-b82c-1e4e1b2715b6
+messageBoardId	finmb_9830128
+gmtOffSetMilliseconds	28800000
+currentPrice	130.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	682568000
+totalCashPerShare	8.208
+ebitda	1480460032
+totalDebt	82666000
+quickRatio	2.482
+currentRatio	3.766
+totalRevenue	4786526208
+debtToEquity	2.085
+revenuePerShare	57.557
+returnOnAssets	0.15494001
+returnOnEquity	0.26328
+freeCashflow	1008298112
+operatingCashflow	1412924032
+earningsGrowth	0.094
+revenueGrowth	-0.035
+grossMargins	0.41287997
+ebitdaMargins	0.3093
+operatingMargins	0.25261
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1324717.490831    -947592.664341    -493394.198708   -3156417.871661
+Tax Rate For Calcs                                                  0.262165           0.28219           0.29474          0.278098
+Normalized EBITDA                                               1520122000.0      1086479000.0       937426000.0       714215000.0
+Total Unusual Items                                               -5053000.0        -3358000.0        -1674000.0       -11350000.0
+Total Unusual Items Excluding Goodwill                            -5053000.0        -3358000.0        -1674000.0       -11350000.0
+Net Income From Continuing Operation Net Minority Interest       979206000.0       650200000.0       539820000.0       385835000.0
+Reconciled Depreciation                                          180049000.0       169371000.0       158418000.0       158530000.0
+Reconciled Cost Of Revenue                                      2810271000.0      2708244000.0      2491244000.0      1926867000.0
+EBITDA                                                          1515069000.0      1083121000.0       935752000.0       702865000.0
+EBIT                                                            1335020000.0       913750000.0       777334000.0       544335000.0
+Net Interest Income                                                -490000.0        -2336000.0        -2722000.0        -2177000.0
+Interest Expense                                                   6118000.0         5747000.0         5368000.0         5605000.0
+Interest Income                                                    5628000.0         3411000.0         2646000.0         3428000.0
+Normalized Income                                           982934282.509169  652610407.335659  541000605.801292  394028582.128339
+Net Income From Continuing And Discontinued Operation            979206000.0       650200000.0       539820000.0       385835000.0
+Total Expenses                                                  3475390000.0      3327969000.0      3067548000.0      2382442000.0
+Diluted Average Shares                                                   NaN        83574000.0        83588000.0        83618000.0
+Basic Average Shares                                                     NaN        83161000.0        83161000.0        83161000.0
+Diluted EPS                                                              NaN              7.78              6.46              4.61
+Basic EPS                                                                NaN              7.82              6.49              4.64
+Diluted NI Availto Com Stockholders                              979206000.0       650200000.0       539820000.0       385835000.0
+Net Income Common Stockholders                                   979206000.0       650200000.0       539820000.0       385835000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       979206000.0       650200000.0       539820000.0       385835000.0
+Minority Interests                                                -1305000.0        -1574000.0        -4617000.0        -3075000.0
+Net Income Including Noncontrolling Interests                    980511000.0       651774000.0       544437000.0       388910000.0
+Net Income Continuous Operations                                 980511000.0       651774000.0       544437000.0       388910000.0
+Tax Provision                                                    348391000.0       256229000.0       227529000.0       149820000.0
+Pretax Income                                                   1328902000.0       908003000.0       771966000.0       538730000.0
+Other Non Operating Income Expenses                               21675000.0        71576000.0       -26466000.0        57237000.0
+Special Income Charges                                            -5053000.0        -3358000.0        -1674000.0       -11350000.0
+Other Special Charges                                              5053000.0         1222000.0         2221000.0         -623000.0
+Write Off                                                                0.0         2136000.0         -547000.0        11973000.0
+Net Non Operating Interest Income Expense                          -490000.0        -2336000.0        -2722000.0        -2177000.0
+Interest Expense Non Operating                                     6118000.0         5747000.0         5368000.0         5605000.0
+Interest Income Non Operating                                      5628000.0         3411000.0         2646000.0         3428000.0
+Operating Income                                                1311136000.0       834267000.0       792058000.0       492072000.0
+Operating Expense                                                665119000.0       619725000.0       576304000.0       455575000.0
+Other Operating Expenses                                                 NaN               NaN         2221000.0         -623000.0
+Research And Development                                          79303000.0        65938000.0        62967000.0        67478000.0
+Selling General And Administration                               585816000.0       553787000.0       513337000.0       388097000.0
+Selling And Marketing Expense                                    214028000.0       221259000.0       221728000.0       161732000.0
+General And Administrative Expense                               371788000.0       332528000.0       291609000.0       226365000.0
+Gross Profit                                                    1976255000.0      1453992000.0      1368362000.0       947647000.0
+Cost Of Revenue                                                 2810271000.0      2708244000.0      2491244000.0      1926867000.0
+Total Revenue                                                   4786526000.0      4162236000.0      3859606000.0      2874514000.0
+Operating Revenue                                               4786526000.0      4162236000.0      3859606000.0      2874514000.0

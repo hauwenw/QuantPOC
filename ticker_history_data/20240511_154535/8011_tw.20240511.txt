@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 3, Wuquan 3rd Road
+address2	Lane 12 Xinzhuang District
+city	New Taipei City
+zip	24891
+country	Taiwan
+phone	886 2 2299 1066
+fax	886 2 2299 3958
+website	https://www.ttcc.com.tw
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Tai Tung Communication Co., Ltd. manufactures and sells communication cables in Taiwan. The company provides fiber optic cables, including loose tube duct, direct burial, aerial, all-dielectric self-supported, slotted-core ribbon type optical, indoor, drop, and micro-soft metal armored cables; and PON products, such as closures, rack-mount patch panels, and high density and wall-mount fiber distribution frames. It also offers launch test cable, patchcord, fan-out fiber cords, adapters, optical splitters, and connector cleaners; and copper cables comprising telecommunication, coaxial, and power cables. The company was formerly known as Tai Tung Electric Wire & Cable Co., Ltd and changed its name to Tai Tung Communication Co., Ltd. in 2000. Tai Tung Communication Co., Ltd. was founded in 1981 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching Hung  Lee', 'title': 'Chairman of the Board & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Sifang  Ding', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching-Wei  Chu Ke', 'title': 'Chief Research & Development Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	23.25
+open	23.1
+dayLow	22.85
+dayHigh	23.65
+regularMarketPreviousClose	23.25
+regularMarketOpen	23.1
+regularMarketDayLow	22.85
+regularMarketDayHigh	23.65
+exDividendDate	1504137600	 (2017-08-31 08:00:00)
+fiveYearAvgDividendYield	3.95
+beta	1.13
+trailingPE	262.77777
+forwardPE	14.968354
+volume	3857359
+regularMarketVolume	3857359
+averageVolume	11832661
+averageVolume10days	3104512
+averageDailyVolume10Day	3104512
+bid	23.6
+ask	23.65
+marketCap	3960712704
+fiftyTwoWeekLow	15.686462
+fiftyTwoWeekHigh	35.55
+priceToSalesTrailing12Months	1.9460695
+fiftyDayAverage	25.039
+twoHundredDayAverage	21.072952
+currency	TWD
+enterpriseValue	7266663424
+profitMargins	0.00701
+sharesOutstanding	167472000
+heldPercentInsiders	0.24194999
+heldPercentInstitutions	0.01643
+impliedSharesOutstanding	177663008
+bookValue	17.41
+priceToBook	1.3584146
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	14264000
+trailingEps	0.09
+forwardEps	1.58
+lastSplitFactor	104.5:100
+lastSplitDate	1256601600	 (2009-10-27 08:00:00)
+enterpriseToRevenue	3.57
+enterpriseToEbitda	19.992
+52WeekChange	0.37336564
+SandP52WeekChange	0.26265144
+lastDividendValue	0.529115
+lastDividendDate	1504137600	 (2017-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8011.TW
+underlyingSymbol	8011.TW
+shortName	TAITUNG COMMUNICATION CO
+longName	Tai Tung Communication Co., Ltd.
+firstTradeDateEpochUtc	1316394000	 (2011-09-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	523e1be9-7fd6-3ea8-a269-8ca67bbcdeba
+messageBoardId	finmb_9829341
+gmtOffSetMilliseconds	28800000
+currentPrice	23.65
+recommendationKey	none
+totalCash	977726976
+totalCashPerShare	5.72
+ebitda	363480992
+totalDebt	3433926912
+quickRatio	1.233
+currentRatio	1.989
+totalRevenue	2035236992
+debtToEquity	91.721
+revenuePerShare	13.217
+returnOnAssets	0.0047
+returnOnEquity	0.01035
+freeCashflow	-636820736
+operatingCashflow	-402832992
+revenueGrowth	0.708
+grossMargins	0.15562001
+ebitdaMargins	0.17859
+operatingMargins	-0.01729
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2      0.026479      0.031642           0.2
+Normalized EBITDA                                            448480000.0    93220000.0    89150000.0   305628000.0
+Net Income From Continuing Operation Net Minority Interest    14264000.0  -243760000.0  -199790000.0   -22357000.0
+Reconciled Depreciation                                      344016000.0   305750000.0   306522000.0   301192000.0
+Reconciled Cost Of Revenue                                  1718506000.0  1660187000.0  1640256000.0  1247933000.0
+EBITDA                                                       448480000.0    93220000.0    89150000.0   305628000.0
+EBIT                                                         104464000.0  -212530000.0  -217372000.0     4436000.0
+Net Interest Income                                          -68746000.0   -51679000.0   -46003000.0   -49954000.0
+Interest Expense                                              72707000.0    52927000.0    47241000.0    52774000.0
+Interest Income                                                3961000.0     1248000.0     1238000.0     2820000.0
+Normalized Income                                             14264000.0  -243760000.0  -199790000.0   -22357000.0
+Net Income From Continuing And Discontinued Operation         14264000.0  -243760000.0  -199790000.0   -22357000.0
+Total Expenses                                              1981696000.0  1897759000.0  1910972000.0  1468923000.0
+Diluted Average Shares                                               NaN   150054000.0   148981165.0   121989671.0
+Basic Average Shares                                                 NaN   150054000.0   148981165.0   121989671.0
+Diluted EPS                                                          NaN         -1.62     -1.345968      -0.18804
+Basic EPS                                                            NaN         -1.62     -1.345968      -0.18804
+Diluted NI Availto Com Stockholders                           14264000.0  -243760000.0  -199790000.0   -22357000.0
+Net Income Common Stockholders                                14264000.0  -243760000.0  -199790000.0   -22357000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    14264000.0  -243760000.0  -199790000.0   -22357000.0
+Minority Interests                                           -22607000.0    14668000.0    56450000.0    44382000.0
+Net Income Including Noncontrolling Interests                 36871000.0  -258428000.0  -256240000.0   -66739000.0
+Net Income Continuous Operations                              36871000.0  -258428000.0  -256240000.0   -66739000.0
+Tax Provision                                                 -5114000.0    -7029000.0    -8373000.0    18401000.0
+Pretax Income                                                 31757000.0  -265457000.0  -264613000.0   -48338000.0
+Other Non Operating Income Expenses                           20133000.0   -29905000.0   -46809000.0    28197000.0
+Net Non Operating Interest Income Expense                    -68746000.0   -51679000.0   -46003000.0   -49954000.0
+Interest Expense Non Operating                                72707000.0    52927000.0    47241000.0    52774000.0
+Interest Income Non Operating                                  3961000.0     1248000.0     1238000.0     2820000.0
+Operating Income                                              53541000.0  -198224000.0  -183003000.0   -31866000.0
+Operating Expense                                            263190000.0   237572000.0   270716000.0   220990000.0
+Other Operating Expenses                                             NaN   237572000.0   270716000.0   220990000.0
+Research And Development                                       3138000.0     2794000.0           NaN           NaN
+Selling General And Administration                           260052000.0   234778000.0           NaN           NaN
+Selling And Marketing Expense                                 60254000.0    58629000.0           NaN           NaN
+General And Administrative Expense                           199798000.0   176149000.0           NaN           NaN
+Gross Profit                                                 316731000.0    39348000.0    87713000.0   189124000.0
+Cost Of Revenue                                             1718506000.0  1660187000.0  1640256000.0  1247933000.0
+Total Revenue                                               2035237000.0  1699535000.0  1727969000.0  1437057000.0
+Operating Revenue                                           2035237000.0  1699535000.0  1727969000.0  1437057000.0

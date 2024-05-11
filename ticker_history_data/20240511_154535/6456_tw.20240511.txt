@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	Grand Pavilion
+address2	Hibiscus Way 802 West Bay Road PO Box 31119
+city	Grand Cayman
+zip	KY1-1205
+country	Cayman Islands
+website	https://www.gis-touch.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	General Interface Solution (GIS) Holding Limited provides touch and display modules in the United States, China, Japan, Taiwan, and internationally. The company offers touch display solutions combining cover glass, touch sensors, and display modules. It also provides BPI Business Platform solutions, including total solutions, co-location, and touch display technology services. Its products are used in wearable devices, mobile phones, tablet PCs, notebooks, automotive devices, AIO products, PND, portable TVs, and interactive whiteboards. General Interface Solution (GIS) Holding Limited was incorporated in 2011 and is based in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsien-Ying  Chou', 'title': 'Chairman & Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tung-Chao  Hsu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yuan-Pin  Lin', 'title': 'CFO, Financial Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po-Lun  Chen', 'title': 'Senior VP & CTO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jeou-Jen  Chiou', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	62.0
+open	62.3
+dayLow	61.3
+dayHigh	62.5
+regularMarketPreviousClose	62.0
+regularMarketOpen	62.3
+regularMarketDayLow	61.3
+regularMarketDayHigh	62.5
+dividendRate	3.5
+dividendYield	0.056399997
+exDividendDate	1685404800	 (2023-05-30 08:00:00)
+payoutRatio	0.9915
+fiveYearAvgDividendYield	4.59
+beta	0.871
+forwardPE	18.4273
+volume	705153
+regularMarketVolume	705153
+averageVolume	976558
+averageVolume10days	1268146
+averageDailyVolume10Day	1268146
+bid	62.0
+ask	62.2
+marketCap	20986073088
+fiftyTwoWeekLow	55.4
+fiftyTwoWeekHigh	80.7
+priceToSalesTrailing12Months	0.29415026
+fiftyDayAverage	58.876
+twoHundredDayAverage	61.6835
+currency	TWD
+enterpriseValue	9165346816
+profitMargins	-0.03842
+floatShares	232174781
+sharesOutstanding	337940000
+heldPercentInsiders	0.34653
+heldPercentInstitutions	0.11978
+impliedSharesOutstanding	345072000
+bookValue	85.404
+priceToBook	0.7271322
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-2741370112
+trailingEps	-8.11
+forwardEps	3.37
+enterpriseToRevenue	0.128
+enterpriseToEbitda	80.853
+52WeekChange	-0.15395093
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1685404800	 (2023-05-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6456.TW
+underlyingSymbol	6456.TW
+shortName	GENERAL INTERFACE SOLUTION HOLD
+longName	General Interface Solution (GIS) Holding Limited
+firstTradeDateEpochUtc	1434070800	 (2015-06-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c7dca358-993e-3638-aec2-9c10a3bfd145
+messageBoardId	finmb_280303607
+gmtOffSetMilliseconds	28800000
+currentPrice	62.1
+targetHighPrice	69.0
+targetLowPrice	65.7
+targetMeanPrice	67.35
+targetMedianPrice	67.35
+recommendationMean	2.7
+recommendationKey	hold
+numberOfAnalystOpinions	2
+totalCash	23528144896
+totalCashPerShare	69.622
+ebitda	113358000
+totalDebt	11504619520
+quickRatio	1.682
+currentRatio	1.944
+totalRevenue	71344734208
+debtToEquity	39.584
+revenuePerShare	211.117
+returnOnAssets	-0.038629998
+returnOnEquity	-0.08931
+freeCashflow	9804025856
+operatingCashflow	7397873152
+revenueGrowth	-0.423
+grossMargins	0.02874
+ebitdaMargins	0.00159
+operatingMargins	-0.06282
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                           0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                               0.120547        0.140188        0.035739        0.045342
+Normalized EBITDA                                            2616578000.0   10082411000.0    9501564000.0    8356668000.0
+Net Income From Continuing Operation Net Minority Interest  -2741370000.0    3443952000.0    4384008000.0    3730920000.0
+Reconciled Depreciation                                      5007782000.0    5823740000.0    4847689000.0    4266786000.0
+Reconciled Cost Of Revenue                                  69516897000.0  113711344000.0  119636412000.0  116143614000.0
+EBITDA                                                       2616578000.0   10082411000.0    9501564000.0    8356668000.0
+EBIT                                                        -2391204000.0    4258671000.0    4653875000.0    4089882000.0
+Net Interest Income                                           -90495000.0       -353000.0      53355000.0      39773000.0
+Interest Expense                                              799636000.0     344184000.0     129128000.0     181760000.0
+Interest Income                                               709141000.0     343831000.0     182483000.0     221533000.0
+Normalized Income                                           -2741370000.0    3443952000.0    4384008000.0    3730920000.0
+Net Income From Continuing And Discontinued Operation       -2741370000.0    3443952000.0    4384008000.0    3730920000.0
+Total Expenses                                              76289547000.0  122472805000.0  128634792000.0  124566435000.0
+Diluted Average Shares                                        341939000.0     341939000.0     341746000.0     341177000.0
+Basic Average Shares                                          341939000.0     337940000.0     337940000.0     337940000.0
+Diluted EPS                                                         -8.11           10.07           12.83           10.94
+Basic EPS                                                           -8.11           10.19           12.97           11.04
+Diluted NI Availto Com Stockholders                         -2741370000.0    3443952000.0    4384008000.0    3730920000.0
+Net Income Common Stockholders                              -2741370000.0    3443952000.0    4384008000.0    3730920000.0
+Otherunder Preferred Stock Dividend                                   0.0             0.0             0.0             0.0
+Net Income                                                  -2741370000.0    3443952000.0    4384008000.0    3730920000.0
+Minority Interests                                             64823000.0      78228000.0      20972000.0             0.0
+Net Income Including Noncontrolling Interests               -2806193000.0    3365724000.0    4363036000.0    3730920000.0
+Net Income Continuous Operations                            -2806193000.0    3365724000.0    4363036000.0    3730920000.0
+Tax Provision                                                -384647000.0     548763000.0     161711000.0     177202000.0
+Pretax Income                                               -3190840000.0    3914487000.0    4524747000.0    3908122000.0
+Other Non Operating Income Expenses                          1842294000.0     927505000.0     729898000.0    1332436000.0
+Net Non Operating Interest Income Expense                     -90495000.0       -353000.0      53355000.0      39773000.0
+Interest Expense Non Operating                                799636000.0     344184000.0     129128000.0     181760000.0
+Interest Income Non Operating                                 709141000.0     343831000.0     182483000.0     221533000.0
+Operating Income                                            -4944813000.0    2988556000.0    3742878000.0    2538301000.0
+Operating Expense                                            6772650000.0    8761461000.0    8998380000.0    8422821000.0
+Research And Development                                     3480868000.0    5092599000.0    5464255000.0    5156015000.0
+Selling General And Administration                           3291782000.0    3668862000.0    3534125000.0    3266806000.0
+Selling And Marketing Expense                                 604351000.0     695558000.0     524731000.0     384335000.0
+General And Administrative Expense                           2687431000.0    2973304000.0    3009394000.0    2882471000.0
+Gross Profit                                                 1827837000.0   11750017000.0   12741258000.0   10961122000.0
+Cost Of Revenue                                             69516897000.0  113711344000.0  119636412000.0  116143614000.0
+Total Revenue                                               71344734000.0  125461361000.0  132377670000.0  127104736000.0
+Operating Revenue                                           71344734000.0  125461361000.0  132377670000.0  127104736000.0

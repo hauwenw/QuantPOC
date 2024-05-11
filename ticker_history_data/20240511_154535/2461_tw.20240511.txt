@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 1 Li Hsin
+address2	6th Road Hsinchu Science Park
+city	Hsinchu City
+zip	300
+country	Taiwan
+phone	886 3 577 0316
+website	https://www.klasergroup.com
+industry	Packaging & Containers
+industryKey	packaging-containers
+industryDisp	Packaging & Containers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	K Laser Technology Inc., together with its subsidiaries, researches, develops, produces, and sells laser holographic packaging materials, and products and optical instruments. It offers lamination and transfer films, hot stamping and cold foils, laminated papers, and eco-paperboards, as well as security solution products which are used in packaging, label, decoration, fashion, security, decoration, and other applications. The company also provides gastrointestinal endoscopy, and fluorescent pigments and dyes, as well as optical film processing services. It operates through 11 manufacturing sites and 13 sales offices worldwide. The company was incorporated in 1988 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wei-Wu  Kuo', 'title': 'Group CEO, GM & Chairman of the Board', 'fiscalYear': 2021, 'totalPay': 12918000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Teresa  Huang', 'title': 'CFO & Corporate Governance Officer', 'fiscalYear': 2021, 'totalPay': 2305000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Serena  Hung', 'title': 'Accounting Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lin  Liugong', 'title': 'Chief Technology Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jacky  Chen', 'title': 'Director of Marketing & Business', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yumei  Tsai', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+irWebsite	http://www.klasergroup.com/eng/Investor.aspx
+maxAge	86400
+priceHint	2
+previousClose	25.1
+open	25.35
+dayLow	24.9
+dayHigh	25.4
+regularMarketPreviousClose	25.1
+regularMarketOpen	25.35
+regularMarketDayLow	24.9
+regularMarketDayHigh	25.4
+dividendRate	1.78
+dividendYield	0.0704
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	2.6403
+beta	0.683
+trailingPE	45.089287
+forwardPE	26.861702
+volume	1144618
+regularMarketVolume	1144618
+averageVolume	1474069
+averageVolume10days	1939971
+averageDailyVolume10Day	1939971
+bid	25.2
+ask	25.25
+marketCap	4318204416
+fiftyTwoWeekLow	21.2
+fiftyTwoWeekHigh	29.45
+priceToSalesTrailing12Months	0.76035595
+fiftyDayAverage	23.96
+twoHundredDayAverage	23.62975
+currency	TWD
+enterpriseValue	6136504320
+profitMargins	0.01833
+floatShares	155656707
+sharesOutstanding	171018000
+heldPercentInsiders	0.17603001
+heldPercentInstitutions	0.03845
+impliedSharesOutstanding	171018000
+bookValue	17.288
+priceToBook	1.4605507
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	104098000
+trailingEps	0.56
+forwardEps	0.94
+lastSplitFactor	108.1767:100
+lastSplitDate	1221091200	 (2008-09-11 08:00:00)
+enterpriseToRevenue	1.081
+enterpriseToEbitda	32.558
+52WeekChange	0.13483143
+SandP52WeekChange	0.26265144
+lastDividendValue	1.478549
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2461.TW
+underlyingSymbol	2461.TW
+shortName	K LASER TECHNOLOGY INC
+longName	K Laser Technology Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3a3cca46-6a7a-3038-b891-dc2a1f0a991d
+messageBoardId	finmb_9858956
+gmtOffSetMilliseconds	28800000
+currentPrice	25.25
+recommendationKey	none
+totalCash	1507602048
+totalCashPerShare	8.896
+ebitda	188479008
+totalDebt	2205921024
+quickRatio	1.135
+currentRatio	1.802
+totalRevenue	5679187968
+debtToEquity	53.948
+revenuePerShare	35.826
+returnOnAssets	-0.00027000002
+returnOnEquity	-0.02003
+freeCashflow	-244356256
+operatingCashflow	189455008
+revenueGrowth	-0.043
+grossMargins	0.21288
+ebitdaMargins	0.03319
+operatingMargins	-0.03375
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -11616400.0    36722000.0   37897852.201335    -818707.019789
+Tax Rate For Calcs                                                   0.2           0.2          0.163776          0.176484
+Normalized EBITDA                                            324302000.0   358516000.0       439227000.0       511902000.0
+Total Unusual Items                                          -58082000.0   183610000.0       231400000.0        -4639000.0
+Total Unusual Items Excluding Goodwill                       -58082000.0   183610000.0       231400000.0        -4639000.0
+Net Income From Continuing Operation Net Minority Interest   104098000.0   277279000.0       363725000.0       144409000.0
+Reconciled Depreciation                                      260214000.0   263455000.0       229879000.0       236602000.0
+Reconciled Cost Of Revenue                                  4470195000.0  5265148000.0      4908947000.0      4175137000.0
+EBITDA                                                       266220000.0   542126000.0       670627000.0       507263000.0
+EBIT                                                           6006000.0   278671000.0       440748000.0       270661000.0
+Net Interest Income                                          -11557000.0   -16810000.0       -11954000.0       -28385000.0
+Interest Expense                                              43592000.0    35459000.0        31678000.0        38560000.0
+Interest Income                                               32035000.0    18649000.0        19724000.0        10175000.0
+Normalized Income                                            150563600.0   130391000.0  170222852.201335  148229292.980211
+Net Income From Continuing And Discontinued Operation        104098000.0   277279000.0       363725000.0       144409000.0
+Total Expenses                                              5678917000.0  6435821000.0      5994571000.0      5194178000.0
+Diluted Average Shares                                               NaN   186705000.0       170891000.0       151633000.0
+Basic Average Shares                                                 NaN   152541000.0       150243000.0       150947000.0
+Diluted EPS                                                          NaN           1.5              2.14              0.95
+Basic EPS                                                            NaN          1.82              2.42              0.96
+Diluted NI Availto Com Stockholders                          104098000.0   277279000.0       363725000.0       144409000.0
+Net Income Common Stockholders                               104098000.0   277279000.0       363725000.0       144409000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                   104098000.0   277279000.0       363725000.0       144409000.0
+Minority Interests                                           187391000.0   165350000.0        21651000.0       -46730000.0
+Net Income Including Noncontrolling Interests                -83293000.0   111929000.0       342074000.0       191139000.0
+Net Income Continuous Operations                             -83293000.0   111929000.0       342074000.0       191139000.0
+Tax Provision                                                 45707000.0   131283000.0        66996000.0        40962000.0
+Pretax Income                                                -37586000.0   243212000.0       409070000.0       232101000.0
+Other Non Operating Income Expenses                            8291000.0   -74336000.0        14336000.0         9817000.0
+Special Income Charges                                       -63383000.0   178791000.0        17537000.0       -27281000.0
+Other Special Charges                                         20492000.0  -274516000.0         4154000.0         2212000.0
+Write Off                                                     42891000.0    95725000.0       -21691000.0        25069000.0
+Net Non Operating Interest Income Expense                    -11557000.0   -16810000.0       -11954000.0       -28385000.0
+Interest Expense Non Operating                                43592000.0    35459000.0        31678000.0        38560000.0
+Interest Income Non Operating                                 32035000.0    18649000.0        19724000.0        10175000.0
+Operating Income                                                271000.0   -14015000.0       151719000.0       245052000.0
+Operating Expense                                           1208722000.0  1170673000.0      1085624000.0      1019041000.0
+Research And Development                                     318574000.0   332296000.0       261625000.0       254895000.0
+Selling General And Administration                           890148000.0   838377000.0       823999000.0       764146000.0
+Selling And Marketing Expense                                437331000.0   407162000.0       375660000.0       328332000.0
+General And Administrative Expense                           452817000.0   431215000.0       448339000.0       435814000.0
+Gross Profit                                                1208993000.0  1156658000.0      1237343000.0      1264093000.0
+Cost Of Revenue                                             4470195000.0  5265148000.0      4908947000.0      4175137000.0
+Total Revenue                                               5679188000.0  6421806000.0      6146290000.0      5439230000.0
+Operating Revenue                                           5679188000.0  6421806000.0      6146290000.0      5439230000.0

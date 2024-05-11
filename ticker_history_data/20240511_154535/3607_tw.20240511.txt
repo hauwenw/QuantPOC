@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 48, Zhongzheng Road
+address2	Lane 1274 Zhongli District
+city	Taoyuan City
+zip	320
+country	Taiwan
+phone	886 3 425 2153
+website	https://www.coxongroup.com
+industry	Packaging & Containers
+industryKey	packaging-containers
+industryDisp	Packaging & Containers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Coxon Precise Industrial Co., Ltd manufactures and sells engineering plastic products in Taiwan. It is involved in the designing, mold manufacturing, injection molding, coating and printing, assembling, and optical lens processing activities. Coxon Precise Industrial Co., Ltd was incorporated in 1989 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Tung  Chang', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jiahong  Xu', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.2
+open	17.15
+dayLow	16.7
+dayHigh	17.15
+regularMarketPreviousClose	17.2
+regularMarketOpen	17.15
+regularMarketDayLow	16.7
+regularMarketDayHigh	17.15
+dividendRate	1.0
+dividendYield	0.059
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+fiveYearAvgDividendYield	7.66
+beta	1.178
+volume	556848
+regularMarketVolume	556848
+averageVolume	2116585
+averageVolume10days	447800
+averageDailyVolume10Day	447800
+bid	16.95
+ask	17.0
+marketCap	2062171008
+fiftyTwoWeekLow	13.95
+fiftyTwoWeekHigh	22.35
+priceToSalesTrailing12Months	0.7819239
+fiftyDayAverage	17.721
+twoHundredDayAverage	16.3365
+currency	TWD
+enterpriseValue	1615346944
+profitMargins	-0.01677
+sharesOutstanding	121662000
+heldPercentInsiders	0.20033
+heldPercentInstitutions	0.0110599995
+impliedSharesOutstanding	121662000
+bookValue	15.033
+priceToBook	1.1275195
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-44215000
+trailingEps	-0.86
+enterpriseToRevenue	0.612
+enterpriseToEbitda	-70.629
+52WeekChange	0.17708337
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3607.TW
+underlyingSymbol	3607.TW
+shortName	COXON PRECISE INDUSTRIAL CO. LT
+longName	Coxon Precise Industrial Co., Ltd
+firstTradeDateEpochUtc	1201482000	 (2008-01-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3078c85a-43d5-3abc-9e6b-35d494d78f10
+messageBoardId	finmb_27163479
+gmtOffSetMilliseconds	28800000
+currentPrice	16.95
+recommendationKey	none
+totalCash	760398016
+totalCashPerShare	6.25
+ebitda	-22871000
+totalDebt	288356000
+quickRatio	1.837
+currentRatio	2.168
+totalRevenue	2637304064
+debtToEquity	15.551
+revenuePerShare	21.677
+returnOnAssets	-0.026619999
+returnOnEquity	-0.02076
+freeCashflow	115891624
+operatingCashflow	191927008
+revenueGrowth	0.025
+grossMargins	0.0866
+ebitdaMargins	-0.008669999
+operatingMargins	-0.03471
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -355400.0      389400.0     2420000.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2
+Normalized EBITDA                                              8552000.0    55772000.0   -26155000.0
+Total Unusual Items                                           -1777000.0     1947000.0    12100000.0
+Total Unusual Items Excluding Goodwill                        -1777000.0     1947000.0    12100000.0
+Net Income From Continuing Operation Net Minority Interest  -271287000.0  -270318000.0  -403626000.0
+Reconciled Depreciation                                      236478000.0   320898000.0   385449000.0
+Reconciled Cost Of Revenue                                  2862422000.0  3832007000.0  3311774000.0
+EBITDA                                                         6775000.0    57719000.0   -14055000.0
+EBIT                                                        -229703000.0  -263179000.0  -399504000.0
+Net Interest Income                                          -18279000.0   -19851000.0   -20973000.0
+Interest Expense                                              23331000.0    23329000.0    23578000.0
+Interest Income                                                5052000.0     3478000.0     2605000.0
+Normalized Income                                           -269865400.0  -271875600.0  -413306000.0
+Net Income From Continuing And Discontinued Operation       -271287000.0  -270318000.0  -403626000.0
+Total Expenses                                              3294780000.0  4308705000.0  3793706000.0
+Diluted Average Shares                                       121662000.0   121662000.0   121662000.0
+Basic Average Shares                                         121662000.0   121662000.0   121662000.0
+Diluted EPS                                                        -2.23         -2.22         -3.32
+Basic EPS                                                          -2.23         -2.22         -3.32
+Diluted NI Availto Com Stockholders                         -271287000.0  -270318000.0  -403626000.0
+Net Income Common Stockholders                              -271287000.0  -270318000.0  -403626000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0
+Net Income                                                  -271287000.0  -270318000.0  -403626000.0
+Minority Interests                                           -12384000.0    23742000.0    20848000.0
+Net Income Including Noncontrolling Interests               -258903000.0  -294060000.0  -424474000.0
+Net Income Discontinuous Operations                                  NaN           NaN           0.0
+Net Income Continuous Operations                            -258903000.0  -294060000.0  -424474000.0
+Tax Provision                                                  5869000.0     7552000.0     1392000.0
+Pretax Income                                               -253034000.0  -286508000.0  -423082000.0
+Other Non Operating Income Expenses                          204218000.0   200158000.0    58022000.0
+Special Income Charges                                        -1777000.0     1947000.0    12100000.0
+Write Off                                                      1777000.0    -1947000.0   -12100000.0
+Net Non Operating Interest Income Expense                    -18279000.0   -19851000.0   -20973000.0
+Interest Expense Non Operating                                23331000.0    23329000.0    23578000.0
+Interest Income Non Operating                                  5052000.0     3478000.0     2605000.0
+Operating Income                                            -436993000.0  -467765000.0  -471116000.0
+Operating Expense                                            432358000.0   476698000.0   481932000.0
+Research And Development                                       8470000.0     8785000.0    15321000.0
+Selling General And Administration                           423888000.0   467913000.0   466611000.0
+Selling And Marketing Expense                                108251000.0   141097000.0   131608000.0
+General And Administrative Expense                           315637000.0   326816000.0   335003000.0
+Gross Profit                                                  -4635000.0     8933000.0    10816000.0
+Cost Of Revenue                                             2862422000.0  3832007000.0  3311774000.0
+Total Revenue                                               2857787000.0  3840940000.0  3322590000.0
+Operating Revenue                                           2857787000.0  3840940000.0  3322590000.0

@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 306 and 308, Bade Road
+address2	3&5-13th Floor and 6th Floor-1 and 2 Section 2
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 8161 8935
+fax	886 2 8161 8932
+website	https://www.sinopac.com
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	SinoPac Financial Holdings Company Limited, through its subsidiaries, provides banking, securities, investment, leasing, and venture capital services worldwide. It operates through Banking, Securities, and Other Business segments. The company offers commercial banking services, such as corporate banking, retail banking, wealth management, financial services, digital banking, etc. It also provides broking, proprietary trading, underwriting, international business, fixed income, financial products, etc.; installment sale, purchase, lease, real estate lease, and other financing services; and products and services in the areas of mutual funds, discretionary accounts, and private equity. In addition, the company assists in deal sourcing, business cooperation, establishing strategic partnerships, and established ecosystem strategic model; and provides foreign exchange services; securities investment consulting services; trust accounts on overseas stocks; fund administration; asset management, insurance brokerage, and corporation management services; and offers venture capital investment services. SinoPac Financial Holdings Company Limited was founded in 1948 and is based in Taipei City, Taiwan.
+fullTimeEmployees	10148
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Ting  Chu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kerry  Hsu', 'title': 'CFO, Spokesperson & Head of Finance Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin  Ho', 'title': 'Head of Operations Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiang-Yuan  Chang', 'title': 'Chief Account & Senior VP of CFO Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huei Tsung Wu', 'title': 'Deputy Head of Information & Technology Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Lin', 'title': 'Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patricia  Lin', 'title': 'Chief Compliance Officer and Head of Legal & Compliance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Hung  Liao', 'title': 'Head of Human Resources Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robert  Tsai', 'title': 'Head of Information Technology Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Eliza S. I. Chen', 'title': 'Senior Vice President of Chief Operation Officer Office and Director of Sinopac Call Center Co Ltd', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	22.35
+open	22.45
+dayLow	22.4
+dayHigh	22.95
+regularMarketPreviousClose	22.35
+regularMarketOpen	22.45
+regularMarketDayLow	22.4
+regularMarketDayHigh	22.95
+dividendRate	0.6
+dividendYield	0.026099999
+exDividendDate	1691539200	 (2023-08-09 08:00:00)
+payoutRatio	0.3704
+fiveYearAvgDividendYield	4.7
+beta	0.443
+trailingPE	14.166667
+forwardPE	13.421053
+volume	23371466
+regularMarketVolume	23371466
+averageVolume	18068119
+averageVolume10days	19450527
+averageDailyVolume10Day	19450527
+bid	22.9
+ask	22.95
+marketCap	284038397952
+fiftyTwoWeekLow	16.470589
+fiftyTwoWeekHigh	22.95
+priceToSalesTrailing12Months	5.504817
+fiftyDayAverage	21.299
+twoHundredDayAverage	19.195612
+currency	TWD
+enterpriseValue	288705183744
+profitMargins	0.38304
+floatShares	10150784713
+sharesOutstanding	12376399872
+heldPercentInsiders	0.13033
+heldPercentInstitutions	0.22278999
+impliedSharesOutstanding	12376399872
+bookValue	15.217
+priceToBook	1.5081817
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.34
+netIncomeToCommon	19764389888
+trailingEps	1.62
+forwardEps	1.71
+pegRatio	1.84
+lastSplitFactor	1020:1000
+lastSplitDate	1691539200	 (2023-08-09 08:00:00)
+enterpriseToRevenue	5.595
+52WeekChange	0.38514793
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1691539200	 (2023-08-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2890.TW
+underlyingSymbol	2890.TW
+shortName	SINOPAC FINANCIAL HLDGS CO LTD
+longName	SinoPac Financial Holdings Company Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	220aafff-bbd9-3af3-b7f0-5b09fa9514b7
+messageBoardId	finmb_7689790
+gmtOffSetMilliseconds	28800000
+currentPrice	22.95
+targetHighPrice	23.9
+targetLowPrice	19.0
+targetMeanPrice	21.45
+targetMedianPrice	21.45
+recommendationMean	2.7
+recommendationKey	hold
+numberOfAnalystOpinions	2
+totalCash	385205403648
+totalCashPerShare	31.124
+totalDebt	389871304704
+totalRevenue	51598155776
+revenuePerShare	4.221
+returnOnAssets	0.00737
+returnOnEquity	0.11545999
+operatingCashflow	-211720683520
+earningsGrowth	0.257
+revenueGrowth	0.234
+operatingMargins	0.40511
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                    13737153.33268     -2879949.899805      6530921.299432    -61213771.555968
+Tax Rate For Calcs                                                   0.143319            0.177468            0.130741            0.123702
+Total Unusual Items                                                95850000.0         -16228000.0          49953000.0        -494850000.0
+Total Unusual Items Excluding Goodwill                             95850000.0         -16228000.0          49953000.0        -494850000.0
+Net Income From Continuing Operation Net Minority Interest      19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Reconciled Depreciation                                          2386354000.0        2307168000.0        2194105000.0        1985932000.0
+Net Interest Income                                             24443630000.0       26903424000.0       22119957000.0       18500556000.0
+Interest Expense                                                51087165000.0       20455158000.0        9059992000.0       13042151000.0
+Interest Income                                                 75530795000.0       47358582000.0       31179949000.0       31542707000.0
+Normalized Income                                           19682277153.33268  15974348050.100195  16167582921.299433  12674990228.444033
+Net Income From Continuing And Discontinued Operation           19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Diluted Average Shares                                                    NaN       11621440000.0       11701061704.0       11701167378.0
+Basic Average Shares                                                      NaN       11611440000.0       11690654507.0       11690654034.0
+Diluted EPS                                                               NaN                1.37            1.382724            1.050878
+Basic EPS                                                                 NaN                1.37            1.382724            1.050878
+Diluted NI Availto Com Stockholders                             19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Net Income Common Stockholders                                  19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Net Income                                                      19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Minority Interests                                                        0.0                 0.0                 0.0                 0.0
+Net Income Including Noncontrolling Interests                   19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Net Income Continuous Operations                                19764390000.0       15961000000.0       16211005000.0       12241354000.0
+Tax Provision                                                    3306504000.0        3443715000.0        2438225000.0        1728037000.0
+Pretax Income                                                   23070894000.0       19404715000.0       18649230000.0       13969391000.0
+Special Income Charges                                             45754000.0         -16228000.0          49953000.0        -494850000.0
+Write Off                                                         -45754000.0          16228000.0         -49953000.0         494850000.0
+Gain On Sale Of Security                                        11859167000.0        2666359000.0        4720667000.0        4531132000.0
+Operating Expense                                               27623241000.0       24433883000.0       24113405000.0       21812060000.0
+Other Operating Expenses                                         -902658000.0        -962766000.0        -713724000.0        -791675000.0
+Depreciation And Amortization In Income Statement                2386354000.0        2307168000.0        2194105000.0        1985932000.0
+Depreciation Income Statement                                    2386354000.0        2307168000.0        2194105000.0        1985932000.0
+Selling General And Administration                               8126279000.0        7269972000.0        6297115000.0        6139354000.0
+General And Administrative Expense                               8126279000.0        7269972000.0        6297115000.0        6139354000.0
+Total Revenue                                                   52821305000.0       46084165000.0       44736948000.0       38620587000.0
+Operating Revenue                                               52821305000.0       46084165000.0       44736948000.0       38620587000.0

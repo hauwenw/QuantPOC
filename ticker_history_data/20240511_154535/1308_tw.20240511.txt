@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 3, Industrial 1st Road
+address2	Lin Yuan
+city	Kaohsiung
+country	Taiwan
+phone	886 7 704 0988
+fax	886 7 641 0641
+website	https://www.apc.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Asia Polymer Corporation designs, develops, manufactures, and sells low-density polyethylene (LDPE) and ethylene vinyl acetate copolymer (EVA) in Taiwan, Asia, and internationally. It offers LDPE resins, including film-grade, injection molding grade, and laminating film-grade products, as well as products for other uses, such as low crystallization point, microfiber, and foaming for various applications in medium duty films, frozen food packaging, extruded tubes, high clarity films, general purpose films, thin gauge films, liner bags, heavy duty films, agriculture and construction films, foam nets, injection moldings, powder coatings, protection films, laminations, extrusion coatings, and wire insulations. The company also provides EVA resins comprising film-grade, foaming-grade, laminating film grade, electric cable-grade, and photovoltaic grade products for use in extrusion castings and coatings, foaming products, sport goods, shoe soles, injection foaming and molded products, wires and cables, PV films, and hot melt adhesives. In addition, it manufactures and sells degradable plastic materials; sells high-density polyethylene and linear low-density polyethylene; wholesales machinery; trades in plastic raw materials; produces and sells petrochemical products; sells chemical products and equipment; and manufactures, processes, and sells medium-density polyethylene. The company was incorporated in 1977 and is headquartered in Kaohsiung, Taiwan. Asia Polymer Corporation Operates as a subsidiary of Usi Corporation.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Pei-Chi  Wu', 'title': 'President, GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ju-Hsuan  Shih', 'title': 'Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Chih  Chen', 'title': 'Company Secretary & Group Legal Division Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Tsung  Wu', 'title': 'Vice President of Sales', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.25
+open	18.25
+dayLow	18.15
+dayHigh	18.5
+regularMarketPreviousClose	18.25
+regularMarketOpen	18.25
+regularMarketDayLow	18.15
+regularMarketDayHigh	18.5
+dividendRate	1.2
+dividendYield	0.065
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	6.0
+fiveYearAvgDividendYield	4.66
+beta	0.396
+forwardPE	68.333336
+volume	1067543
+regularMarketVolume	1067543
+averageVolume	959480
+averageVolume10days	1111981
+averageDailyVolume10Day	1111981
+bid	18.4
+ask	18.45
+marketCap	10954558464
+fiftyTwoWeekLow	18.15
+fiftyTwoWeekHigh	27.35
+priceToSalesTrailing12Months	1.6308396
+fiftyDayAverage	19.707
+twoHundredDayAverage	22.8685
+trailingAnnualDividendRate	0.45
+trailingAnnualDividendYield	0.024657534
+currency	TWD
+enterpriseValue	9432947712
+profitMargins	0.01731
+floatShares	345683112
+sharesOutstanding	593742976
+heldPercentInsiders	0.41779
+heldPercentInstitutions	0.07846
+impliedSharesOutstanding	596900992
+bookValue	22.466
+priceToBook	0.821241
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	116284000
+trailingEps	-0.08
+forwardEps	0.27
+lastSplitFactor	1020:1000
+lastSplitDate	1630540800	 (2021-09-02 08:00:00)
+enterpriseToRevenue	1.404
+enterpriseToEbitda	7.592
+52WeekChange	-0.2764706
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1308.TW
+underlyingSymbol	1308.TW
+shortName	ASIA POLYMER
+longName	Asia Polymer Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c41bd665-a40d-3adb-b934-06bba9c78814
+messageBoardId	finmb_9830159
+gmtOffSetMilliseconds	28800000
+currentPrice	18.45
+targetHighPrice	28.15
+targetLowPrice	21.7
+targetMeanPrice	24.92
+targetMedianPrice	24.92
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	2
+totalCash	2085453056
+totalCashPerShare	3.512
+ebitda	1242424960
+totalDebt	563841984
+quickRatio	2.424
+currentRatio	3.242
+totalRevenue	6717128192
+debtToEquity	4.227
+revenuePerShare	11.313
+returnOnAssets	0.03677
+returnOnEquity	0.00844
+freeCashflow	585491520
+operatingCashflow	822566016
+revenueGrowth	-0.33
+grossMargins	0.17061001
+ebitdaMargins	0.18496001
+operatingMargins	0.06803
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                               0.23058      0.203767      0.170424      0.141452
+Normalized EBITDA                                            479706000.0  2133289000.0  4073393000.0  1642584000.0
+Net Income From Continuing Operation Net Minority Interest   116284000.0  1447369000.0  3101127000.0  1103587000.0
+Reconciled Depreciation                                      319462000.0   305207000.0   312444000.0   314636000.0
+Reconciled Cost Of Revenue                                  5571131000.0  6582460000.0  5968145000.0  4574394000.0
+EBITDA                                                       479706000.0  2133289000.0  4073393000.0  1642584000.0
+EBIT                                                         160244000.0  1828082000.0  3760949000.0  1327948000.0
+Net Interest Income                                           12625000.0     1164000.0   -18362000.0   -34855000.0
+Interest Expense                                               9112000.0    10311000.0    22743000.0    42537000.0
+Interest Income                                               21737000.0    11475000.0     4381000.0     7682000.0
+Normalized Income                                            116284000.0  1447369000.0  3101127000.0  1103587000.0
+Net Income From Continuing And Discontinued Operation        116284000.0  1447369000.0  3101127000.0  1103587000.0
+Total Expenses                                              5793292000.0  6868424000.0  6246558000.0  4781243000.0
+Diluted Average Shares                                       593911000.0   594589000.0   594934000.0   594545760.0
+Basic Average Shares                                         593743000.0   593743000.0   593743000.0   593744040.0
+Diluted EPS                                                          0.2          2.43          5.21      1.852941
+Basic EPS                                                            0.2          2.44          5.22      1.862745
+Diluted NI Availto Com Stockholders                          116284000.0  1447369000.0  3101127000.0  1103587000.0
+Net Income Common Stockholders                               116284000.0  1447369000.0  3101127000.0  1103587000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   116284000.0  1447369000.0  3101127000.0  1103587000.0
+Net Income Including Noncontrolling Interests                116284000.0  1447369000.0  3101127000.0  1103587000.0
+Net Income Continuous Operations                             116284000.0  1447369000.0  3101127000.0  1103587000.0
+Tax Provision                                                 34848000.0   370402000.0   637079000.0   181824000.0
+Pretax Income                                                151132000.0  1817771000.0  3738206000.0  1285411000.0
+Other Non Operating Income Expenses                          174715000.0   341419000.0   373342000.0   272525000.0
+Net Non Operating Interest Income Expense                     12625000.0     1164000.0   -18362000.0   -34855000.0
+Interest Expense Non Operating                                 9112000.0    10311000.0    22743000.0    42537000.0
+Interest Income Non Operating                                 21737000.0    11475000.0     4381000.0     7682000.0
+Operating Income                                             923836000.0  2946908000.0  3319255000.0   922303000.0
+Operating Expense                                            222161000.0   285964000.0   278413000.0   206849000.0
+Research And Development                                       6353000.0     6468000.0     6154000.0     5423000.0
+Selling General And Administration                           215808000.0   279496000.0   272259000.0   201426000.0
+Selling And Marketing Expense                                102378000.0   151638000.0   151241000.0    89753000.0
+General And Administrative Expense                           113430000.0   127858000.0   121018000.0   111673000.0
+Gross Profit                                                1145997000.0  3232872000.0  3597668000.0  1129152000.0
+Cost Of Revenue                                             5571131000.0  6582460000.0  5968145000.0  4574394000.0
+Total Revenue                                               6717128000.0  9815332000.0  9565813000.0  5703546000.0
+Operating Revenue                                           6717128000.0  9815332000.0  9565813000.0  5703546000.0

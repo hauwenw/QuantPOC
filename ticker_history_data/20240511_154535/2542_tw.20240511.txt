@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 267, Lequn 2nd Road
+address2	10th Floor Zhongshan District
+city	Taipei
+zip	10491
+country	Taiwan
+phone	886 2 2755 5899
+fax	88 02 2755 5988
+website	https://www.highwealth.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Highwealth Construction Corp., together with its subsidiaries, engages in the development, construction, trading, sale, and rental of residential and commercial buildings in Taiwan. The company operates through three segments: Developing, Constructing, and Department Store. It provides real estate broker agency services; wholesales construction materials; and catering services, as well as operates and manages hotels, motels, and department stores. Highwealth Construction Corp. was incorporated in 1980 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yuan-Bo  Tsao', 'title': 'Deputy GM & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Qintian  Zheng', 'title': 'Group CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huajun  Fan', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chiu-Lan  Chen', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun-Yan  Chen', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xiuhui  Zheng', 'title': 'Director & Special Assistant to Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhaoxiong  Liao', 'title': 'Vice President of Development Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chiu-Wei  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	45.65
+open	45.8
+dayLow	45.15
+dayHigh	45.95
+regularMarketPreviousClose	45.65
+regularMarketOpen	45.8
+regularMarketDayLow	45.15
+regularMarketDayHigh	45.95
+dividendRate	0.5
+dividendYield	0.0111
+exDividendDate	1695686400	 (2023-09-26 08:00:00)
+payoutRatio	0.3759
+fiveYearAvgDividendYield	6.4
+beta	0.231
+trailingPE	33.984962
+forwardPE	10.462963
+volume	8457893
+regularMarketVolume	8457893
+averageVolume	7271832
+averageVolume10days	20370968
+averageDailyVolume10Day	20370968
+bid	45.2
+ask	45.25
+marketCap	83553099776
+fiftyTwoWeekLow	37.136364
+fiftyTwoWeekHigh	50.0
+priceToSalesTrailing12Months	1.8960387
+fiftyDayAverage	41.375
+twoHundredDayAverage	40.279774
+currency	TWD
+enterpriseValue	215517118464
+profitMargins	0.05531
+floatShares	1237194338
+sharesOutstanding	1848519936
+heldPercentInsiders	0.33174
+heldPercentInstitutions	0.10038
+impliedSharesOutstanding	1860109952
+bookValue	25.196
+priceToBook	1.7939357
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	2437371904
+trailingEps	1.33
+forwardEps	4.32
+lastSplitFactor	1100:1000
+lastSplitDate	1695686400	 (2023-09-26 08:00:00)
+enterpriseToRevenue	4.891
+enterpriseToEbitda	18.078
+52WeekChange	0.20241833
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1695686400	 (2023-09-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2542.TW
+underlyingSymbol	2542.TW
+shortName	HIGHWEALTH CONSTRUCTION CORP
+longName	Highwealth Construction Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4416130e-84b2-3656-b6ad-7a40ab259288
+messageBoardId	finmb_9829366
+gmtOffSetMilliseconds	28800000
+currentPrice	45.2
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	14820813824
+totalCashPerShare	8.018
+ebitda	11921349632
+totalDebt	136024137728
+quickRatio	0.113
+currentRatio	1.383
+totalRevenue	44067192832
+debtToEquity	237.243
+revenuePerShare	24.098
+returnOnAssets	0.032390002
+returnOnEquity	0.16610001
+freeCashflow	9017592832
+operatingCashflow	17177102336
+revenueGrowth	-0.51
+grossMargins	0.34992
+ebitdaMargins	0.27053
+operatingMargins	0.19829
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.178338       0.198498       0.143577       0.148637
+Normalized EBITDA                                           12216968000.0   6067304000.0  12454691000.0   4446396000.0
+Net Income From Continuing Operation Net Minority Interest   2437372000.0   3740998000.0   8186868000.0   2645801000.0
+Reconciled Depreciation                                       271742000.0    190394000.0    240139000.0    242823000.0
+Reconciled Cost Of Revenue                                  28647295000.0  17661182000.0  30556525000.0  17611739000.0
+EBITDA                                                      12216968000.0   6067304000.0  12454691000.0   4446396000.0
+EBIT                                                        11945226000.0   5876910000.0  12214552000.0   4203573000.0
+Net Interest Income                                         -1014613000.0   -957582000.0   -999603000.0   -864654000.0
+Interest Expense                                             1192702000.0   1003632000.0   1017849000.0    887416000.0
+Interest Income                                               178089000.0     46050000.0     18246000.0     22762000.0
+Normalized Income                                            2437372000.0   3740998000.0   8186868000.0   2645801000.0
+Net Income From Continuing And Discontinued Operation        2437372000.0   3740998000.0   8186868000.0   2645801000.0
+Total Expenses                                              32355061000.0  20990255000.0  34267105000.0  20326661000.0
+Diluted Average Shares                                                NaN   1830385000.0   1838296900.0   1841477319.0
+Basic Average Shares                                                  NaN   1802439000.0   1561663400.0   1518245774.0
+Diluted EPS                                                           NaN           2.05            4.5       1.487383
+Basic EPS                                                             NaN           2.08       5.245455       1.743544
+Diluted NI Availto Com Stockholders                          2437372000.0   3740998000.0   8186868000.0   2645801000.0
+Net Income Common Stockholders                               2437372000.0   3740998000.0   8186868000.0   2645801000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   2437372000.0   3740998000.0   8186868000.0   2645801000.0
+Minority Interests                                          -6397567000.0   -164942000.0  -1402242000.0   -177453000.0
+Net Income Including Noncontrolling Interests                8834939000.0   3905940000.0   9589110000.0   2823254000.0
+Net Income Continuous Operations                             8834939000.0   3905940000.0   9589110000.0   2823254000.0
+Tax Provision                                                1917585000.0    967338000.0   1607593000.0    492903000.0
+Pretax Income                                               10752524000.0   4873278000.0  11196703000.0   3316157000.0
+Other Non Operating Income Expenses                            50098000.0    190717000.0   2185830000.0     49443000.0
+Net Non Operating Interest Income Expense                   -1014613000.0   -957582000.0   -999603000.0   -864654000.0
+Interest Expense Non Operating                               1192702000.0   1003632000.0   1017849000.0    887416000.0
+Interest Income Non Operating                                 178089000.0     46050000.0     18246000.0     22762000.0
+Operating Income                                            11712132000.0   5636978000.0  10014960000.0   4136357000.0
+Operating Expense                                            3707766000.0   3329073000.0   3710580000.0   2714922000.0
+Selling General And Administration                           3707766000.0   3329073000.0   3710580000.0   2714922000.0
+Selling And Marketing Expense                                2249386000.0   1173938000.0   2005251000.0   1451014000.0
+General And Administrative Expense                           1458380000.0   2155135000.0   1705329000.0   1263908000.0
+Gross Profit                                                15419898000.0   8966051000.0  13725540000.0   6851279000.0
+Cost Of Revenue                                             28647295000.0  17661182000.0  30556525000.0  17611739000.0
+Total Revenue                                               44067193000.0  26627233000.0  44282065000.0  24463018000.0
+Operating Revenue                                           44067193000.0  26627233000.0  44282065000.0  24463018000.0

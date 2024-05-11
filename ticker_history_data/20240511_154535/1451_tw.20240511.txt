@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No 306, Neihu Road
+address2	13 Floor, Sec 1
+city	Taipei
+country	Taiwan
+phone	886 2 2656 8888
+website	https://www.nhjeans.com
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Nien Hsing Textile Co., Ltd. manufactures, distributes, and sells yarns, and denim fabrics and apparels in Taiwan and internationally. It also engages in the investment business. The company was founded in 1986 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Shu-Hsuan  Tsai', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'En-Tzu  Liu', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.9
+open	20.9
+dayLow	20.9
+dayHigh	21.0
+regularMarketPreviousClose	20.9
+regularMarketOpen	20.9
+regularMarketDayLow	20.9
+regularMarketDayHigh	21.0
+dividendRate	2.0
+dividendYield	0.09689999
+exDividendDate	1688342400	 (2023-07-03 08:00:00)
+payoutRatio	9.0909
+fiveYearAvgDividendYield	7.35
+beta	0.455
+volume	106065
+regularMarketVolume	106065
+averageVolume	164307
+averageVolume10days	288285
+averageDailyVolume10Day	288285
+bid	20.9
+ask	21.0
+marketCap	4320099840
+fiftyTwoWeekLow	17.65
+fiftyTwoWeekHigh	22.35
+priceToSalesTrailing12Months	0.6793875
+fiftyDayAverage	19.676
+twoHundredDayAverage	19.2175
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.023923445
+currency	TWD
+enterpriseValue	2715627008
+profitMargins	-0.05707
+floatShares	106629330
+sharesOutstanding	206210000
+heldPercentInsiders	0.54435
+heldPercentInstitutions	0.04321
+impliedSharesOutstanding	210704000
+bookValue	33.483
+priceToBook	0.62569064
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-362912000
+trailingEps	-0.61
+lastSplitFactor	495:1000
+lastSplitDate	1506643200	 (2017-09-29 08:00:00)
+enterpriseToRevenue	0.427
+enterpriseToEbitda	-11.95
+52WeekChange	0.014527798
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1688342400	 (2023-07-03 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1451.TW
+underlyingSymbol	1451.TW
+shortName	NIEN HSING TEXTILE
+longName	Nien Hsing Textile Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ee910f75-0fdf-3420-b9d1-57e022a0e123
+messageBoardId	finmb_9755635
+gmtOffSetMilliseconds	28800000
+currentPrice	20.95
+recommendationKey	none
+totalCash	1603011968
+totalCashPerShare	7.767
+ebitda	-227248000
+totalDebt	46366000
+quickRatio	3.679
+currentRatio	6.791
+totalRevenue	6358815744
+debtToEquity	0.671
+revenuePerShare	32.115
+returnOnAssets	-0.03269
+returnOnEquity	-0.05001
+freeCashflow	622887744
+operatingCashflow	579572992
+revenueGrowth	-0.2
+grossMargins	-0.00177
+ebitdaMargins	-0.03574
+operatingMargins	-0.0216
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    457735.756201   -1939865.012791    7633025.178079   -4766187.781674
+Tax Rate For Calcs                                                  0.105202          0.190669          0.167281          0.228069
+Normalized EBITDA                                               -179863000.0       792384000.0       502309000.0      -248929000.0
+Total Unusual Items                                                4351000.0       -10174000.0        45630000.0       -20898000.0
+Total Unusual Items Excluding Goodwill                             4351000.0       -10174000.0        45630000.0       -20898000.0
+Net Income From Continuing Operation Net Minority Interest      -362912000.0       426456000.0       242691000.0      -423066000.0
+Reconciled Depreciation                                          223822000.0       242721000.0       252595000.0       272186000.0
+Reconciled Cost Of Revenue                                      6370043000.0      7888120000.0      7339242000.0      6814683000.0
+EBITDA                                                          -175512000.0       782210000.0       547939000.0      -269827000.0
+EBIT                                                            -399334000.0       539489000.0       295344000.0      -542013000.0
+Net Interest Income                                               55942000.0        14582000.0         4961000.0         4279000.0
+Interest Expense                                                   6246000.0        12565000.0         3900000.0         6049000.0
+Interest Income                                                   62188000.0        27147000.0         8861000.0        10328000.0
+Normalized Income                                          -366805264.243799  434690134.987209  204694025.178079 -406934187.781674
+Net Income From Continuing And Discontinued Operation           -362912000.0       426456000.0       242691000.0      -423066000.0
+Total Expenses                                                  6813091000.0      8374593000.0      7810676000.0      7298392000.0
+Diluted Average Shares                                           198000000.0       199804000.0       198138000.0       197694393.0
+Basic Average Shares                                             198000000.0       198000000.0       198000000.0       197694393.0
+Diluted EPS                                                            -1.83              2.13              1.22             -2.14
+Basic EPS                                                              -1.83              2.15              1.23             -2.14
+Diluted NI Availto Com Stockholders                             -362912000.0       426456000.0       242691000.0      -423066000.0
+Net Income Common Stockholders                                  -362912000.0       426456000.0       242691000.0      -423066000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                      -362912000.0       426456000.0       242691000.0      -423066000.0
+Minority Interests                                                       NaN               NaN               NaN               0.0
+Net Income Including Noncontrolling Interests                   -362912000.0       426456000.0       242691000.0      -423066000.0
+Net Income Continuous Operations                                -362912000.0       426456000.0       242691000.0      -423066000.0
+Tax Provision                                                    -42668000.0       100468000.0        48753000.0      -124996000.0
+Pretax Income                                                   -405580000.0       526924000.0       291444000.0      -548062000.0
+Other Non Operating Income Expenses                               -7727000.0       204177000.0        41254000.0      -228957000.0
+Special Income Charges                                             4351000.0       -10174000.0        45630000.0       -20898000.0
+Write Off                                                         -4351000.0        10174000.0       -45630000.0        20898000.0
+Net Non Operating Interest Income Expense                         55942000.0        14582000.0         4961000.0         4279000.0
+Interest Expense Non Operating                                     6246000.0        12565000.0         3900000.0         6049000.0
+Interest Income Non Operating                                     62188000.0        27147000.0         8861000.0        10328000.0
+Operating Income                                                -454275000.0       320576000.0       201785000.0      -279019000.0
+Operating Expense                                                443048000.0       486473000.0       471434000.0       483709000.0
+Research And Development                                          13804000.0        16662000.0        18869000.0        26040000.0
+Selling General And Administration                               429244000.0       469811000.0       452565000.0       457669000.0
+Selling And Marketing Expense                                    266817000.0       282611000.0       281359000.0       301339000.0
+General And Administrative Expense                               162427000.0       187200000.0       171206000.0       156330000.0
+Gross Profit                                                     -11227000.0       807049000.0       673219000.0       204690000.0
+Cost Of Revenue                                                 6370043000.0      7888120000.0      7339242000.0      6814683000.0
+Total Revenue                                                   6358816000.0      8695169000.0      8012461000.0      7019373000.0
+Operating Revenue                                               6358816000.0      8695169000.0      8012461000.0      7019373000.0

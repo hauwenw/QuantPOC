@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 27-1, Kang Ning Street
+address2	1st Floor Lane 169 Xizhi District
+city	New Taipei City
+zip	22180
+country	Taiwan
+phone	886 2 2692 6960
+fax	886 2 2692 5399
+website	https://www.sinher.com.tw
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Sinher Technology Inc. engages in the research, development, manufacture, and sale of hinge products in Taiwan, China, Japan, and Singapore. The company offers NB hinges, including auto lock, spring, band type, central, shaft, and Zn with plate pipe and bend type hinges. It also provides detachable, NB module, and tablet module hinges; AIO and LCD hinges, such as base design type, picture frame type, and multi rotation type hinges; and 3C hinges comprising projector and POS hinges, as well as car hinges and projectors. The company was founded in 2002 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ting-Hung  Su', 'title': 'Chairman of the Board & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chen-Jung  Chen', 'title': 'Finance Department GM & Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. King-Tung  Huang', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Chang  Chiang', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.65
+open	33.95
+dayLow	33.8
+dayHigh	34.6
+regularMarketPreviousClose	33.65
+regularMarketOpen	33.95
+regularMarketDayLow	33.8
+regularMarketDayHigh	34.6
+dividendRate	1.75
+dividendYield	0.0512
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	1.6055
+fiveYearAvgDividendYield	6.36
+beta	0.566
+trailingPE	31.330276
+forwardPE	25.485075
+volume	210033
+regularMarketVolume	210033
+averageVolume	127042
+averageVolume10days	86546
+averageDailyVolume10Day	86546
+bid	34.15
+ask	34.25
+marketCap	2514020608
+fiftyTwoWeekLow	33.05
+fiftyTwoWeekHigh	37.95
+priceToSalesTrailing12Months	1.3172514
+fiftyDayAverage	33.675
+twoHundredDayAverage	34.75975
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.02971768
+currency	TWD
+enterpriseValue	914781376
+profitMargins	0.002
+floatShares	56268571
+sharesOutstanding	73617000
+heldPercentInsiders	0.31427
+heldPercentInstitutions	0.01482
+impliedSharesOutstanding	73726704
+bookValue	46.032
+priceToBook	0.74187523
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	3813000
+trailingEps	1.09
+forwardEps	1.34
+lastSplitFactor	1.1:1
+lastSplitDate	1376438400	 (2013-08-14 08:00:00)
+enterpriseToRevenue	0.479
+enterpriseToEbitda	7.954
+52WeekChange	-0.08811748
+SandP52WeekChange	0.26265144
+lastDividendValue	1.75
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4999.TW
+underlyingSymbol	4999.TW
+shortName	SINHER TECHNOLOGY INC
+longName	Sinher Technology Inc.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3c9d7737-8a39-30bd-8a3b-da80a809c46c
+messageBoardId	finmb_118467521
+gmtOffSetMilliseconds	28800000
+currentPrice	34.15
+recommendationKey	none
+totalCash	1754865024
+totalCashPerShare	23.838
+ebitda	115011000
+totalDebt	155619008
+quickRatio	4.592
+currentRatio	5.106
+totalRevenue	1908535040
+debtToEquity	4.592
+revenuePerShare	25.925
+returnOnAssets	-0.00345
+returnOnEquity	0.0011
+freeCashflow	61339248
+operatingCashflow	226386000
+revenueGrowth	-0.108
+grossMargins	0.16405001
+ebitdaMargins	0.06026
+operatingMargins	0.011670001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -1871600.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2       0.26417      0.327023      0.227851
+Normalized EBITDA                                            186513000.0   448674000.0   444365000.0   705241000.0
+Total Unusual Items                                           -9358000.0           0.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                        -9358000.0           0.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest     3813000.0   205462000.0   181942000.0   420879000.0
+Reconciled Depreciation                                      140122000.0   165606000.0   172256000.0   160099000.0
+Reconciled Cost Of Revenue                                  1595435000.0  1806425000.0  2349892000.0  1959814000.0
+EBITDA                                                       177155000.0   448674000.0   444365000.0   705241000.0
+EBIT                                                          37033000.0   283068000.0   272109000.0   545142000.0
+Net Interest Income                                           30041000.0    10207000.0     1178000.0     9511000.0
+Interest Expense                                               5382000.0     3843000.0     1755000.0       67000.0
+Interest Income                                               35423000.0    14050000.0     2933000.0     9578000.0
+Normalized Income                                             11299400.0   205462000.0   181942000.0   420879000.0
+Net Income From Continuing And Discontinued Operation          3813000.0   205462000.0   181942000.0   420879000.0
+Total Expenses                                              1931167000.0  2156183000.0  2731535000.0  2285491000.0
+Diluted Average Shares                                        73710000.0    74598000.0    74839000.0    75114000.0
+Basic Average Shares                                          73617000.0    74145000.0    74417000.0    74417000.0
+Diluted EPS                                                         0.05          2.75          2.43           5.6
+Basic EPS                                                           0.05          2.77          2.44          5.66
+Diluted NI Availto Com Stockholders                            3813000.0   205462000.0   181942000.0   420879000.0
+Net Income Common Stockholders                                 3813000.0   205462000.0   181942000.0   420879000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                     3813000.0   205462000.0   181942000.0   420879000.0
+Net Income Including Noncontrolling Interests                  3813000.0   205462000.0   181942000.0   420879000.0
+Net Income Continuous Operations                               3813000.0   205462000.0   181942000.0   420879000.0
+Tax Provision                                                 27838000.0    73763000.0    88412000.0   124196000.0
+Pretax Income                                                 31651000.0   279225000.0   270354000.0   545075000.0
+Other Non Operating Income Expenses                           22341000.0    22990000.0    14562000.0    13143000.0
+Special Income Charges                                        -9358000.0           0.0           NaN           NaN
+Write Off                                                      9358000.0           0.0           NaN           NaN
+Net Non Operating Interest Income Expense                     30041000.0    10207000.0     1178000.0     9511000.0
+Interest Expense Non Operating                                 5382000.0     3843000.0     1755000.0       67000.0
+Interest Income Non Operating                                 35423000.0    14050000.0     2933000.0     9578000.0
+Operating Income                                             -22632000.0    99518000.0   314315000.0   655253000.0
+Operating Expense                                            335732000.0   349758000.0   381643000.0   325677000.0
+Research And Development                                      90167000.0    91581000.0   123304000.0   123388000.0
+Selling General And Administration                           245565000.0   258177000.0   258339000.0   202289000.0
+Selling And Marketing Expense                                100186000.0   118087000.0   120045000.0    75938000.0
+General And Administrative Expense                           145379000.0   140090000.0   138294000.0   126351000.0
+Gross Profit                                                 313100000.0   449276000.0   695958000.0   980930000.0
+Cost Of Revenue                                             1595435000.0  1806425000.0  2349892000.0  1959814000.0
+Total Revenue                                               1908535000.0  2255701000.0  3045850000.0  2940744000.0
+Operating Revenue                                           1908535000.0  2255701000.0  3045850000.0  2940744000.0

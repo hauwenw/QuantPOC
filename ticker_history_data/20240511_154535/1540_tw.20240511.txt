@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 1056, Zhongshan Road
+address2	Beizhuangli Shengang District
+city	Taichung
+zip	42952
+country	Taiwan
+phone	886 4 2562 4721
+fax	886 4 2561 3886
+website	https://www.johnford.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Roundtop Machinery Industries Co., Ltd. designs, manufactures, and sells machine tools in Taiwan, Europe, the United States, Asia, and internationally. The company provides vertical machining, high speed horizontal/vertical and horizontal machining, horizontal boring and milling, double column multi-axis/5-face machining, double column fixed/moving multi-axis/5-face machining, turning, floor type boring machining, and gantry type machining centers. It also offers slant-bed CNC super lathes; flat-bed CNC lathes and CNC screw cutting machines; and order-made machines, as well as technical support and after sales services. Roundtop Machinery Industries Co., Ltd. was founded in 1979 and is based in Taichung, Taiwan.
+fullTimeEmployees	95
+companyOfficers	[{'maxAge': 1, 'name': 'Zhenggan  Zhan', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng Ming  Lin', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.5
+open	20.3
+dayLow	19.6
+dayHigh	20.45
+regularMarketPreviousClose	20.5
+regularMarketOpen	20.3
+regularMarketDayLow	19.6
+regularMarketDayHigh	20.45
+dividendRate	0.6
+dividendYield	0.03
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.32970002
+fiveYearAvgDividendYield	4.68
+beta	0.202
+trailingPE	10.989011
+forwardPE	14.084508
+volume	1338288
+regularMarketVolume	1338288
+averageVolume	632280
+averageVolume10days	835148
+averageDailyVolume10Day	835148
+bid	20.0
+ask	20.05
+marketCap	1709479936
+fiftyTwoWeekLow	16.2
+fiftyTwoWeekHigh	21.25
+priceToSalesTrailing12Months	2.9693987
+fiftyDayAverage	19.242
+twoHundredDayAverage	17.92825
+trailingAnnualDividendRate	1.1
+trailingAnnualDividendYield	0.053658538
+currency	TWD
+enterpriseValue	682827008
+profitMargins	0.19294001
+sharesOutstanding	85474000
+heldPercentInsiders	0.29333
+impliedSharesOutstanding	86513800
+bookValue	16.764
+priceToBook	1.1930327
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	111078000
+trailingEps	1.82
+forwardEps	1.42
+lastSplitFactor	1.15:1
+lastSplitDate	1252972800	 (2009-09-15 08:00:00)
+enterpriseToRevenue	1.186
+enterpriseToEbitda	5.505
+52WeekChange	0.2012012
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1540.TW
+underlyingSymbol	1540.TW
+shortName	ROUNDTOP MACHINERY INDUSTRY
+longName	Roundtop Machinery Industries Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9c797979-66cc-3456-bfb6-d9e9a19a0cf1
+messageBoardId	finmb_9857577
+gmtOffSetMilliseconds	28800000
+currentPrice	20.0
+recommendationKey	none
+totalCash	1026652992
+totalCashPerShare	12.011
+ebitda	124040000
+quickRatio	3.859
+currentRatio	4.945
+totalRevenue	575699008
+revenuePerShare	6.735
+returnOnAssets	0.04415
+returnOnEquity	0.07914
+freeCashflow	189037872
+operatingCashflow	207304000
+revenueGrowth	0.645
+grossMargins	0.32057
+ebitdaMargins	0.21546
+operatingMargins	0.2985
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   -175844.168425          0.0          0.0          0.0
+Tax Rate For Calcs                                                  0.231374     0.200071          0.2     0.178942
+Normalized EBITDA                                                153528000.0  143149000.0    3510000.0  -13637000.0
+Total Unusual Items                                                -760000.0          0.0          NaN          NaN
+Total Unusual Items Excluding Goodwill                             -760000.0          0.0          NaN          NaN
+Net Income From Continuing Operation Net Minority Interest       111078000.0  108136000.0   -3624000.0  -20657000.0
+Reconciled Depreciation                                            8253000.0    7949000.0    9464000.0   11417000.0
+Reconciled Cost Of Revenue                                       391148000.0  331952000.0  302481000.0  267769000.0
+EBITDA                                                           152768000.0  143149000.0    3510000.0  -13637000.0
+EBIT                                                             144515000.0  135200000.0   -5954000.0  -25054000.0
+Net Interest Income                                               33073000.0    5272000.0    1483000.0   14674000.0
+Interest Expense                                                         0.0      18000.0     140000.0     105000.0
+Interest Income                                                   33073000.0    5290000.0    1623000.0   14779000.0
+Normalized Income                                           111662155.831575  108136000.0   -3624000.0  -20657000.0
+Net Income From Continuing And Discontinued Operation            111078000.0  108136000.0   -3624000.0  -20657000.0
+Total Expenses                                                   459152000.0  398079000.0  359333000.0  318560000.0
+Diluted Average Shares                                            85577000.0   85566000.0   85474000.0   85474000.0
+Basic Average Shares                                              85474000.0   85474000.0   85474000.0   85474000.0
+Diluted EPS                                                              1.3         1.26        -0.04        -0.24
+Basic EPS                                                                1.3         1.27        -0.04        -0.24
+Diluted NI Availto Com Stockholders                              111078000.0  108136000.0   -3624000.0  -20657000.0
+Net Income Common Stockholders                                   111078000.0  108136000.0   -3624000.0  -20657000.0
+Otherunder Preferred Stock Dividend                                      0.0          0.0          0.0          0.0
+Net Income                                                       111078000.0  108136000.0   -3624000.0  -20657000.0
+Net Income Including Noncontrolling Interests                    111078000.0  108136000.0   -3624000.0  -20657000.0
+Net Income Continuous Operations                                 111078000.0  108136000.0   -3624000.0  -20657000.0
+Tax Provision                                                     33437000.0   27046000.0   -2470000.0   -4502000.0
+Pretax Income                                                    144515000.0  135182000.0   -6094000.0  -25159000.0
+Other Non Operating Income Expenses                               -4345000.0   54698000.0   -9036000.0  -32379000.0
+Special Income Charges                                             -760000.0          0.0          NaN          NaN
+Write Off                                                           760000.0          0.0          NaN          NaN
+Net Non Operating Interest Income Expense                         33073000.0    5272000.0    1483000.0   14674000.0
+Interest Expense Non Operating                                           0.0      18000.0     140000.0     105000.0
+Interest Income Non Operating                                     33073000.0    5290000.0    1623000.0   14779000.0
+Operating Income                                                 116547000.0   75212000.0    1459000.0   -7454000.0
+Operating Expense                                                 68004000.0   66127000.0   56852000.0   50791000.0
+Research And Development                                          13765000.0   11560000.0   12192000.0   11342000.0
+Selling General And Administration                                54239000.0   54567000.0   44660000.0   39449000.0
+Selling And Marketing Expense                                     31720000.0   34900000.0   23064000.0   19868000.0
+General And Administrative Expense                                22519000.0   19667000.0   21596000.0   19581000.0
+Gross Profit                                                     184551000.0  141339000.0   58311000.0   43337000.0
+Cost Of Revenue                                                  391148000.0  331952000.0  302481000.0  267769000.0
+Total Revenue                                                    575699000.0  473291000.0  360792000.0  311106000.0
+Operating Revenue                                                575699000.0  473291000.0  360792000.0  311106000.0

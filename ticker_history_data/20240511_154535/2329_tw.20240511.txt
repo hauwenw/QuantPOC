@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 9, Central 3rd Street
+address2	Nanzih District
+city	Kaohsiung
+zip	811
+country	Taiwan
+phone	886 7 361 3131
+website	https://www.ose.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Orient Semiconductor Electronics, Limited manufactures, assembles, processes, and sells integrated circuits, semiconductor components, computer motherboards, and various electronic, computer and communication circuit boards in Taiwan, the United States, China, and internationally. The company operates in two segments, IC Semiconductor Group and Electronics Manufacturing Group. The company offers IC packaging and testing services comprising memory and logic IC packaging services; and IC testing services, such as wafer probing, automotive, flash memory, system level, and integrated circuit function tests. It also offers product manufacturing services, such as server motherboard and PC cards, solar controller and inverter, photoelectric and industrial analytical measurement instruments, network communication security system, automotive electronics, internet of things (IoT), and FPGA board, as well as USB drives, and solid-state disk for oil / gas, aerospace / satellite, military / extreme environment, and medical industries. In addition, the company provides PCBA assembly, box-build, system integration, packing, and inspection and testing services; engineering services, such as new product introduction management, design for manufacturability, and design for testability services, and engineering change management; materials management solutions, including material planning, supply chain management, and warehouse management system; and turn-key solution services, consisting of wafer probing, substrate/lead frame design, design for manufacturing, assembly, testing, EMS, etc. It offers its integrated circuit packaging and testing services for computer, communication, network, consumer electronics, telecommunications networks, industrial controllers, IoT, automotive electronics, digital cameras, and other commercial product applications. Orient Semiconductor Electronics, Limited was incorporated in 1971 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yueh-Ming  Tung', 'title': 'Chairman & CMO', 'fiscalYear': 2020, 'totalPay': 5852000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung  Simon', 'title': 'CFO & Director of Financial Dept.', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chu  Shu-Yung', 'title': 'Head of Accounting & Corporate Governance Officer', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Chiu  Wang', 'title': 'Chief Information Security Officer & VP of Information Center', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wu  Chia-Jung', 'title': 'Chief Auditor', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chen-Ling  Lai', 'title': 'Vice President', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	59.6
+open	59.9
+dayLow	58.1
+dayHigh	60.0
+regularMarketPreviousClose	59.6
+regularMarketOpen	59.9
+regularMarketDayLow	58.1
+regularMarketDayHigh	60.0
+dividendRate	0.85
+dividendYield	0.014400001
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.2852
+beta	1.288
+trailingPE	19.798658
+forwardPE	20.774649
+volume	7623195
+regularMarketVolume	7623195
+averageVolume	31647515
+averageVolume10days	7872953
+averageDailyVolume10Day	7872953
+bid	59.0
+ask	59.1
+marketCap	32763174912
+fiftyTwoWeekLow	18.55
+fiftyTwoWeekHigh	88.4
+priceToSalesTrailing12Months	1.8601643
+fiftyDayAverage	66.09
+twoHundredDayAverage	55.3845
+currency	TWD
+enterpriseValue	32028065792
+profitMargins	0.12495
+floatShares	437693766
+sharesOutstanding	555308032
+heldPercentInsiders	0.28233
+heldPercentInstitutions	0.08189
+impliedSharesOutstanding	566803968
+bookValue	17.057
+priceToBook	3.4589906
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.778
+netIncomeToCommon	1799261952
+trailingEps	2.98
+forwardEps	2.84
+lastSplitFactor	685.2577:1000
+lastSplitDate	1542844800	 (2018-11-22 08:00:00)
+enterpriseToRevenue	1.818
+enterpriseToEbitda	9.513
+52WeekChange	2.163539
+SandP52WeekChange	0.26265144
+lastDividendValue	0.85
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2329.TW
+underlyingSymbol	2329.TW
+shortName	ORIENT SEMICONDUCTOR ELECTRONIC
+longName	Orient Semiconductor Electronics, Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3e5e801e-a27c-3d38-a73f-8d2fa8660d6b
+messageBoardId	finmb_704714
+gmtOffSetMilliseconds	28800000
+currentPrice	59.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	3909728000
+totalCashPerShare	7.041
+ebitda	3366909952
+totalDebt	1372822016
+totalRevenue	17613053952
+debtToEquity	12.177
+revenuePerShare	31.797
+operatingCashflow	3736686080
+earningsGrowth	1.807
+revenueGrowth	0.284
+grossMargins	0.21691
+ebitdaMargins	0.19116
+operatingMargins	0.12409
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                     981336.986289    -1364373.326065     3645204.715817       816200.0
+Tax Rate For Calcs                                                   0.151957            0.18076           0.210705            0.2
+Normalized EBITDA                                                3244255000.0       2940562000.0       3293824000.0   1345130000.0
+Total Unusual Items                                                 6458000.0         -7548000.0         17300000.0      4081000.0
+Total Unusual Items Excluding Goodwill                              6458000.0         -7548000.0         17300000.0      4081000.0
+Net Income From Continuing Operation Net Minority Interest       1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Reconciled Depreciation                                           996092000.0       1138817000.0       1338790000.0   1515603000.0
+Reconciled Cost Of Revenue                                      13375136000.0      13008745000.0      13011394000.0  13154556000.0
+EBITDA                                                           3250713000.0       2933014000.0       3311124000.0   1349211000.0
+EBIT                                                             2254621000.0       1794197000.0       1972334000.0   -166392000.0
+Net Interest Income                                                 9809000.0        -14807000.0        -29327000.0    -71924000.0
+Interest Expense                                                   36326000.0         25909000.0         33158000.0     76816000.0
+Interest Income                                                    46135000.0         11102000.0          3831000.0      4892000.0
+Normalized Income                                           1875733336.986289  1454836626.673935  1516926204.715817   -269387800.0
+Net Income From Continuing And Discontinued Operation            1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Total Expenses                                                  14622747000.0      14090821000.0      14087957000.0  14040872000.0
+Diluted Average Shares                                            741500000.0        748185000.0        743442000.0    552467000.0
+Basic Average Shares                                              555308000.0        553895000.0        553736000.0    552467000.0
+Diluted EPS                                                              2.54               1.94               2.06          -0.48
+Basic EPS                                                                2.66               2.02               2.24          -0.48
+Diluted NI Availto Com Stockholders                              1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Net Income Common Stockholders                                   1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0            0.0
+Net Income                                                       1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Net Income Including Noncontrolling Interests                    1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Net Income Continuous Operations                                 1881210000.0       1448653000.0       1530581000.0   -266123000.0
+Tax Provision                                                     337085000.0        319635000.0        408595000.0     22915000.0
+Pretax Income                                                    2218295000.0       1768288000.0       1939176000.0   -243208000.0
+Other Non Operating Income Expenses                               134701000.0        319228000.0         49410000.0     -6362000.0
+Special Income Charges                                              6458000.0         -7548000.0         17300000.0      4081000.0
+Write Off                                                          -6458000.0          7548000.0        -17300000.0     -4081000.0
+Net Non Operating Interest Income Expense                           9809000.0        -14807000.0        -29327000.0    -71924000.0
+Interest Expense Non Operating                                     36326000.0         25909000.0         33158000.0     76816000.0
+Interest Income Non Operating                                      46135000.0         11102000.0          3831000.0      4892000.0
+Operating Income                                                 2067689000.0       1440848000.0       1860181000.0   -188963000.0
+Operating Expense                                                1247611000.0       1082076000.0       1076563000.0    886316000.0
+Other Operating Expenses                                              -1000.0           -54000.0                NaN     -1015000.0
+Research And Development                                          386747000.0        340002000.0        302028000.0    267325000.0
+Selling General And Administration                                860865000.0        742128000.0        774535000.0    620006000.0
+Selling And Marketing Expense                                     860865000.0        742128000.0        774535000.0    620006000.0
+Gross Profit                                                     3315300000.0       2522924000.0       2936744000.0    697353000.0
+Cost Of Revenue                                                 13375136000.0      13008745000.0      13011394000.0  13154556000.0
+Total Revenue                                                   16690436000.0      15531669000.0      15948138000.0  13851909000.0
+Operating Revenue                                               16690436000.0      15531669000.0      15948138000.0  13851909000.0

@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	Hsin Chu Industrial Park
+address2	No. 12, Kuanfu North Road Hukou Township
+city	Hsinchu
+zip	30351
+country	Taiwan
+phone	886 3 598 9999
+fax	886 3 598 9688
+website	https://www.ritdisplay.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	RiTdisplay Corporation engages in the research, development, and manufacturing of organic light-emitting diodes and related products in Taiwan and internationally. It also provides various flat-panel display products. The company was founded in 1997 and is based in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ding-Chan  Wang', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kang  Cheng', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	32.85
+open	32.9
+dayLow	32.2
+dayHigh	32.95
+regularMarketPreviousClose	32.85
+regularMarketOpen	32.9
+regularMarketDayLow	32.2
+regularMarketDayHigh	32.95
+dividendRate	1.47
+dividendYield	0.045100003
+exDividendDate	1691452800	 (2023-08-08 08:00:00)
+payoutRatio	10.0266
+beta	1.113
+forwardPE	40.123455
+volume	363374
+regularMarketVolume	363374
+averageVolume	271077
+averageVolume10days	201767
+averageDailyVolume10Day	201767
+bid	32.45
+ask	32.55
+marketCap	2450580992
+fiftyTwoWeekLow	31.452482
+fiftyTwoWeekHigh	44.85
+priceToSalesTrailing12Months	0.9136401
+fiftyDayAverage	33.438263
+twoHundredDayAverage	34.686817
+currency	TWD
+enterpriseValue	3581946368
+profitMargins	-0.0846
+sharesOutstanding	75402496
+heldPercentInsiders	0.48716
+heldPercentInstitutions	0.0012899999
+impliedSharesOutstanding	75402496
+bookValue	25.415
+priceToBook	1.2787724
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-226908000
+trailingEps	-3.01
+forwardEps	0.81
+lastSplitFactor	1430:1000
+lastSplitDate	1532304000	 (2018-07-23 08:00:00)
+enterpriseToRevenue	1.335
+enterpriseToEbitda	40.503
+52WeekChange	-0.17929292
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1691452800	 (2023-08-08 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8104.TW
+underlyingSymbol	8104.TW
+shortName	RITDISPLAY CORPORATION
+longName	RiTdisplay Corporation
+firstTradeDateEpochUtc	1469494800	 (2016-07-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fe3896de-298a-3a93-8855-98ae9cd23c07
+messageBoardId	finmb_7908949
+gmtOffSetMilliseconds	28800000
+currentPrice	32.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1138285952
+totalCashPerShare	15.455
+ebitda	88437000
+totalDebt	2114375040
+quickRatio	1.112
+currentRatio	1.457
+totalRevenue	2682216960
+debtToEquity	101.455
+revenuePerShare	36.417
+returnOnAssets	-0.0073400005
+returnOnEquity	-0.0913
+freeCashflow	376092384
+operatingCashflow	463913984
+revenueGrowth	-0.079
+grossMargins	0.11783
+ebitdaMargins	0.03297
+operatingMargins	-0.04208
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -2214600.0    -1478400.0   -1294874.474213    -943591.109513
+Tax Rate For Calcs                                                   0.2           0.2          0.226337          0.220775
+Normalized EBITDA                                            205094000.0   312239000.0       404217000.0       400175000.0
+Total Unusual Items                                          -11073000.0    -7392000.0        -5721000.0        -4274000.0
+Total Unusual Items Excluding Goodwill                       -11073000.0    -7392000.0        -5721000.0        -4274000.0
+Net Income From Continuing Operation Net Minority Interest  -226908000.0    29919000.0       192160000.0       206554000.0
+Reconciled Depreciation                                      151519000.0   145293000.0       130070000.0       131114000.0
+Reconciled Cost Of Revenue                                  2366167000.0  2291827000.0      1805770000.0      1235586000.0
+EBITDA                                                       194021000.0   304847000.0       398496000.0       395901000.0
+EBIT                                                          42502000.0   159554000.0       268426000.0       264787000.0
+Net Interest Income                                          -34104000.0   -33990000.0       -15837000.0       -16626000.0
+Interest Expense                                              46665000.0    39542000.0        18087000.0        20076000.0
+Interest Income                                               12561000.0     5552000.0         2250000.0         3450000.0
+Normalized Income                                           -218049600.0    35832600.0  196586125.525787  209884408.890487
+Net Income From Continuing And Discontinued Operation       -226908000.0    29919000.0       192160000.0       206554000.0
+Total Expenses                                              2742777000.0  2618884000.0      2071103000.0      1478533000.0
+Diluted Average Shares                                        75418834.0    75454666.0        75888743.0        72603476.0
+Basic Average Shares                                          75402454.0    75333862.0        68807350.0        69165668.0
+Diluted EPS                                                    -3.008498      0.400482          2.627552          2.881516
+Basic EPS                                                      -3.008498      0.400482          2.793606          2.988963
+Diluted NI Availto Com Stockholders                         -226908000.0    29919000.0       192160000.0       206554000.0
+Net Income Common Stockholders                              -226908000.0    29919000.0       192160000.0       206554000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                  -226908000.0    29919000.0       192160000.0       206554000.0
+Minority Interests                                           -22281000.0   -19406000.0        -1518000.0        15869000.0
+Net Income Including Noncontrolling Interests               -204627000.0    49325000.0       193678000.0       190685000.0
+Net Income Continuous Operations                            -204627000.0    49325000.0       193678000.0       190685000.0
+Tax Provision                                                200464000.0    70687000.0        56661000.0        54026000.0
+Pretax Income                                                 -4163000.0   120012000.0       250339000.0       244711000.0
+Other Non Operating Income Expenses                          101574000.0    53024000.0       109990000.0        92088000.0
+Special Income Charges                                       -11073000.0    -7392000.0        -5721000.0        -4274000.0
+Write Off                                                     11073000.0     7392000.0         5721000.0         4274000.0
+Net Non Operating Interest Income Expense                    -34104000.0   -33990000.0       -15837000.0       -16626000.0
+Interest Expense Non Operating                                46665000.0    39542000.0        18087000.0        20076000.0
+Interest Income Non Operating                                 12561000.0     5552000.0         2250000.0         3450000.0
+Operating Income                                             -60560000.0    94666000.0       154772000.0       178393000.0
+Operating Expense                                            376610000.0   327057000.0       265333000.0       242947000.0
+Research And Development                                     147011000.0   124723000.0       112989000.0        94398000.0
+Selling General And Administration                           229599000.0   202334000.0       152344000.0       148549000.0
+Selling And Marketing Expense                                 50175000.0    50114000.0        44688000.0        33009000.0
+General And Administrative Expense                           179424000.0   152220000.0       107656000.0       115540000.0
+Gross Profit                                                 316050000.0   421723000.0       420105000.0       421340000.0
+Cost Of Revenue                                             2366167000.0  2291827000.0      1805770000.0      1235586000.0
+Total Revenue                                               2682217000.0  2713550000.0      2225875000.0      1656926000.0
+Operating Revenue                                           2682217000.0  2713550000.0      2225875000.0      1656926000.0

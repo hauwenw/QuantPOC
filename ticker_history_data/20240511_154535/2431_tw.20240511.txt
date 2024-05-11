@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 501, Nanjing East Road
+address2	11th Floor Section 6 Neihu District
+city	Taipei City
+zip	114
+country	Taiwan
+phone	886 2 8792 1666
+fax	886 2 2793 5577
+website	https://www.lienchang.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lien Chang Electronic Enterprise Co., Ltd manufactures and sells power supply units in Taiwan. It offers consumer chargers; motor/compressor drivers; and automotive parts OEM products. The company was founded in 1968 and is based in Taipei City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	12.45
+open	12.45
+dayLow	12.05
+dayHigh	12.45
+regularMarketPreviousClose	12.45
+regularMarketOpen	12.45
+regularMarketDayLow	12.05
+regularMarketDayHigh	12.45
+dividendRate	0.1
+dividendYield	0.008
+exDividendDate	1690761600	 (2023-07-31 08:00:00)
+payoutRatio	15.0
+fiveYearAvgDividendYield	4.62
+volume	573299
+regularMarketVolume	573299
+averageVolume	1131149
+averageVolume10days	317617
+averageDailyVolume10Day	317617
+bid	12.4
+ask	12.6
+marketCap	1381041152
+fiftyTwoWeekLow	10.3
+fiftyTwoWeekHigh	15.55
+priceToSalesTrailing12Months	2.592195
+fiftyDayAverage	13.113
+twoHundredDayAverage	11.8135
+currency	TWD
+enterpriseValue	470778112
+profitMargins	-0.17985001
+sharesOutstanding	110927000
+heldPercentInsiders	0.41669
+impliedSharesOutstanding	112731000
+bookValue	12.246
+priceToBook	1.0166584
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-95816000
+trailingEps	-0.87
+lastSplitFactor	1.055:1
+lastSplitDate	1311206400	 (2011-07-21 08:00:00)
+enterpriseToRevenue	0.884
+enterpriseToEbitda	-4.098
+52WeekChange	0.16355145
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1690761600	 (2023-07-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2431.TW
+underlyingSymbol	2431.TW
+shortName	LIEN CHANG ELECTRONIC ENTERPRIS
+longName	Lien Chang Electronic Enterprise Co., Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1ed535ef-2096-3e88-a7d8-8814bae583cb
+messageBoardId	finmb_9845950
+gmtOffSetMilliseconds	28800000
+currentPrice	12.45
+recommendationKey	none
+totalCash	934473024
+totalCashPerShare	8.525
+ebitda	-114888000
+totalDebt	40469000
+quickRatio	7.074
+currentRatio	7.656
+totalRevenue	532768992
+debtToEquity	3.015
+revenuePerShare	4.833
+returnOnAssets	-0.05262
+returnOnEquity	-0.06898
+freeCashflow	144876496
+operatingCashflow	-10396000
+revenueGrowth	-0.361
+grossMargins	-0.04997
+ebitdaMargins	-0.21564
+operatingMargins	-0.29342
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                      3800.0        6600.0     267609.236685      412200.0
+Tax Rate For Calcs                                                  0.2           0.2          0.271961           0.2
+Normalized EBITDA                                           -32657000.0   121749000.0       197062000.0    86962000.0
+Total Unusual Items                                             19000.0       33000.0          984000.0     2061000.0
+Total Unusual Items Excluding Goodwill                          19000.0       33000.0          984000.0     2061000.0
+Net Income From Continuing Operation Net Minority Interest  -94093000.0    10417000.0       114731000.0    46775000.0
+Reconciled Depreciation                                      47917000.0    45424000.0        37881000.0    42122000.0
+Reconciled Cost Of Revenue                                  613217000.0   946175000.0      1477411000.0  2007667000.0
+EBITDA                                                      -32638000.0   121782000.0       198046000.0    89023000.0
+EBIT                                                        -80555000.0    76358000.0       160165000.0    46901000.0
+Net Interest Income                                          14787000.0     7245000.0         -457000.0      320000.0
+Interest Expense                                              1670000.0     3756000.0         2576000.0      379000.0
+Interest Income                                              16457000.0    11001000.0         2119000.0      699000.0
+Normalized Income                                           -94108200.0    10390600.0  114014609.236685    45126200.0
+Net Income From Continuing And Discontinued Operation       -94093000.0    10417000.0       114731000.0    46775000.0
+Total Expenses                                              731562000.0  1100409000.0      1672898000.0  2266150000.0
+Diluted Average Shares                                      110927000.0   111062000.0       111433000.0   110927000.0
+Basic Average Shares                                        110927000.0   110927000.0       110927000.0   110927000.0
+Diluted EPS                                                       -0.85          0.09              1.03          0.42
+Basic EPS                                                         -0.85          0.09              1.03          0.42
+Diluted NI Availto Com Stockholders                         -94093000.0    10417000.0       114731000.0    46775000.0
+Net Income Common Stockholders                              -94093000.0    10417000.0       114731000.0    46775000.0
+Otherunder Preferred Stock Dividend                                 0.0           0.0               0.0           0.0
+Net Income                                                  -94093000.0    10417000.0       114731000.0    46775000.0
+Net Income Including Noncontrolling Interests               -94093000.0    10417000.0       114731000.0    46775000.0
+Net Income Continuous Operations                            -94093000.0    10417000.0       114731000.0    46775000.0
+Tax Provision                                                11868000.0    62185000.0        42858000.0     -253000.0
+Pretax Income                                               -82225000.0    72602000.0       157589000.0    46522000.0
+Other Non Operating Income Expenses                          44994000.0   165099000.0       263264000.0    11865000.0
+Special Income Charges                                          19000.0       33000.0          984000.0     2061000.0
+Write Off                                                      -19000.0      -33000.0         -984000.0    -2061000.0
+Net Non Operating Interest Income Expense                    14787000.0     7245000.0         -457000.0      320000.0
+Interest Expense Non Operating                                1670000.0     3756000.0         2576000.0      379000.0
+Interest Income Non Operating                                16457000.0    11001000.0         2119000.0      699000.0
+Operating Income                                           -142025000.0   -99775000.0      -106202000.0    32276000.0
+Operating Expense                                           118345000.0   154234000.0       195487000.0   258483000.0
+Research And Development                                     24142000.0    24782000.0        35568000.0    52073000.0
+Selling General And Administration                           94203000.0   129452000.0       159919000.0   206410000.0
+Selling And Marketing Expense                                39625000.0    68959000.0        91293000.0   131942000.0
+General And Administrative Expense                           54578000.0    60493000.0        68626000.0    74468000.0
+Gross Profit                                                -23680000.0    54459000.0        89285000.0   290759000.0
+Cost Of Revenue                                             613217000.0   946175000.0      1477411000.0  2007667000.0
+Total Revenue                                               589537000.0  1000634000.0      1566696000.0  2298426000.0
+Operating Revenue                                           589537000.0  1000634000.0      1566696000.0  2298426000.0

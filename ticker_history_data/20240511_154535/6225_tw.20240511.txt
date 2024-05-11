@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No. 215, Chang'an East Road
+address2	1st Floor, 9th Floor, Section 2 Chang'an East Road Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2777 1215
+website	https://www.aiptek.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	AIPTEK International Inc., together with its subsidiaries, provides digital cameras, driving recorders and micro projectors in Taiwan and internationally. The company was founded in 1986 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Youjin  Zheng', 'title': 'Chairman of the Board & GM', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	16.5
+open	16.95
+dayLow	16.95
+dayHigh	17.0
+regularMarketPreviousClose	16.5
+regularMarketOpen	16.95
+regularMarketDayLow	16.95
+regularMarketDayHigh	17.0
+exDividendDate	1217462400	 (2008-07-31 08:00:00)
+beta	0.447
+trailingPE	54.83871
+volume	5000
+regularMarketVolume	5000
+averageVolume	15571
+averageVolume10days	4956
+averageDailyVolume10Day	4956
+bid	16.5
+ask	16.9
+marketCap	472600000
+fiftyTwoWeekLow	8.7
+fiftyTwoWeekHigh	18.75
+priceToSalesTrailing12Months	8.8263855
+fiftyDayAverage	16.409
+twoHundredDayAverage	12.4828
+currency	TWD
+enterpriseValue	395220000
+profitMargins	0.16289
+floatShares	25171232
+sharesOutstanding	27800000
+heldPercentInsiders	0.67827004
+impliedSharesOutstanding	27800000
+bookValue	3.428
+priceToBook	4.95916
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	8722000
+trailingEps	0.31
+lastSplitFactor	457.419:1000
+lastSplitDate	1668643200	 (2022-11-17 08:00:00)
+enterpriseToRevenue	7.381
+enterpriseToEbitda	621.415
+52WeekChange	0.57407403
+SandP52WeekChange	0.26265144
+lastDividendValue	5.125216
+lastDividendDate	1217462400	 (2008-07-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6225.TW
+underlyingSymbol	6225.TW
+shortName	AIPTEK INTERNATIONAL INC
+longName	AIPTEK International Inc.
+firstTradeDateEpochUtc	1096246800	 (2004-09-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7a4a1748-76fb-3a6b-a38f-4b7e7896ad2a
+messageBoardId	finmb_9768571
+gmtOffSetMilliseconds	28800000
+currentPrice	17.0
+recommendationKey	none
+totalCash	78169000
+totalCashPerShare	2.812
+ebitda	636000
+totalDebt	789000
+quickRatio	13.769
+currentRatio	15.218
+totalRevenue	53544000
+debtToEquity	0.828
+revenuePerShare	1.926
+returnOnAssets	0.00238
+returnOnEquity	0.09591
+freeCashflow	-6271250
+operatingCashflow	-5716000
+revenueGrowth	1.08
+grossMargins	0.18424
+ebitdaMargins	0.011879999
+operatingMargins	0.0508
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                            2023-12-31  2022-12-31  2021-12-31  2020-12-31
+Tax Effect Of Unusual Items                                        0.0         0.0         0.0         0.0
+Tax Rate For Calcs                                                 0.0         0.0         0.0         0.0
+Normalized EBITDA                                             932000.0  -3061000.0  -3261000.0  -6258000.0
+Total Unusual Items                                          8292000.0   -360000.0         0.0         0.0
+Total Unusual Items Excluding Goodwill                       8292000.0   -360000.0         0.0         0.0
+Net Income From Continuing Operation Net Minority Interest   8722000.0  -3945000.0  -3768000.0  -6760000.0
+Reconciled Depreciation                                       498000.0    517000.0    496000.0    487000.0
+Reconciled Cost Of Revenue                                  43679000.0  27126000.0  24441000.0  18640000.0
+EBITDA                                                       9224000.0  -3421000.0  -3261000.0  -6258000.0
+EBIT                                                         8726000.0  -3938000.0  -3757000.0  -6745000.0
+Net Interest Income                                           341000.0         0.0     -9000.0    -10000.0
+Interest Expense                                                4000.0      7000.0     11000.0     15000.0
+Interest Income                                               345000.0      7000.0      2000.0      5000.0
+Normalized Income                                             430000.0  -3585000.0  -3768000.0  -6760000.0
+Net Income From Continuing And Discontinued Operation        8722000.0  -3945000.0  -3768000.0  -6760000.0
+Total Expenses                                              53518000.0  36940000.0  34774000.0  29744000.0
+Diluted Average Shares                                             NaN  20192000.0  20000000.0  19703323.0
+Basic Average Shares                                               NaN  20192000.0  20000000.0  19703323.0
+Diluted EPS                                                        NaN        -0.2       -0.19   -0.349789
+Basic EPS                                                          NaN        -0.2       -0.19   -0.349789
+Diluted NI Availto Com Stockholders                          8722000.0  -3945000.0  -3768000.0  -6760000.0
+Net Income Common Stockholders                               8722000.0  -3945000.0  -3768000.0  -6760000.0
+Otherunder Preferred Stock Dividend                                0.0         0.0         0.0         0.0
+Net Income                                                   8722000.0  -3945000.0  -3768000.0  -6760000.0
+Minority Interests                                                 0.0         0.0         0.0         0.0
+Net Income Including Noncontrolling Interests                8722000.0  -3945000.0  -3768000.0  -6760000.0
+Net Income Continuous Operations                             8722000.0  -3945000.0  -3768000.0  -6760000.0
+Tax Provision                                                      0.0         0.0         0.0         0.0
+Pretax Income                                                8722000.0  -3945000.0  -3768000.0  -6760000.0
+Other Non Operating Income Expenses                           161000.0     85000.0     87000.0   -208000.0
+Special Income Charges                                        360000.0   -360000.0         0.0         0.0
+Write Off                                                    -360000.0    360000.0         0.0         0.0
+Net Non Operating Interest Income Expense                     341000.0         0.0     -9000.0    -10000.0
+Interest Expense Non Operating                                  4000.0      7000.0     11000.0     15000.0
+Interest Income Non Operating                                 345000.0      7000.0      2000.0      5000.0
+Operating Income                                               26000.0  -2765000.0  -3843000.0  -6542000.0
+Operating Expense                                            9839000.0   9814000.0  10333000.0  11104000.0
+Selling General And Administration                           9839000.0   9814000.0  10333000.0  11104000.0
+General And Administrative Expense                           9839000.0   9814000.0  10333000.0  11104000.0
+Gross Profit                                                 9865000.0   7049000.0   6490000.0   4562000.0
+Cost Of Revenue                                             43679000.0  27126000.0  24441000.0  18640000.0
+Total Revenue                                               53544000.0  34175000.0  30931000.0  23202000.0
+Operating Revenue                                           53544000.0  34175000.0  30931000.0  23202000.0

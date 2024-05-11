@@ -1,0 +1,134 @@
+=== Ticker Info ===
+address1	No 168 Po Ai 2nd Road
+address2	Tsoying District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 557 0535
+fax	886 7 559 0549
+website	https://www.bok.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Bank of Kaohsiung Co., Ltd. provides various commercial banking products and services primarily in Taiwan. The company offers check deposit, time deposit, demand savings deposit, and foreign exchange deposits, as well as negotiable certificate of deposits. It also provides personal loans, such as consumer, mortgage, reverse mortgage, and student loans, as well as personal overdrafts; policy loans; and business loans comprising unsecured and secured overdrafts, short-term unsecured and secured loans, bank discounts, discount notes loans, general export financing, procurement loans, general commercial loans, guarantees and acceptances, and SME and emergency financing services. In addition, the company offers foreign exchange services, including FX market analysis, economic report, foreign exchange service and deposits, and offshore banking services; investment management services, such as offshore bonds services, funds, and life and non-life insurance services; credit cards; electronic banking services; and trust services. It operates through branch offices, mini branch, and offshore banking units. The company was formerly known as City Bank of Kaohsiung Co., Ltd. and changed its name to Bank of Kaohsiung Co., Ltd. in January 1994. Bank of Kaohsiung Co., Ltd. was incorporated in 1982 and is headquartered in Kaohsiung, Taiwan.
+fullTimeEmployees	1085
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jueifang P.  Chen', 'title': 'Senior Vice President of Information Technology Department', 'fiscalYear': 2011, 'totalPay': 1842283, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tsui-Mei  Hsu', 'age': 63, 'title': 'President', 'yearBorn': 1960, 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hong-Ling  Chen', 'title': 'Chief Financial Officer', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Huey  Tsao', 'title': 'Chief Accounting Officer', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Chen  Yu', 'title': 'Chief Corp. Governance Officer, Chief Secretary and SVP of HR Dept. & Exec. Admin Dept', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Te-Chin  Chou', 'title': 'Chief Compliance Officer & Senior VP of Compliance Department', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tung-Chiang  Sung', 'title': 'Sales Department Manager', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. I-Fen  Chen', 'title': 'Senior VP of Information Technology Department & Chief Auditor', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Hung  Wu', 'title': 'Senior Vice President of Business Management Dept', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching-Hui  Lin', 'title': 'GM of Trust Department & Senior VP of Business Management Department', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1325289600
+maxAge	86400
+priceHint	2
+previousClose	11.75
+open	11.7
+dayLow	11.65
+dayHigh	11.8
+regularMarketPreviousClose	11.75
+regularMarketOpen	11.7
+regularMarketDayLow	11.65
+regularMarketDayHigh	11.8
+exDividendDate	1658966400	 (2022-07-28 08:00:00)
+fiveYearAvgDividendYield	1.52
+beta	0.238
+trailingPE	18.650793
+volume	5566432
+regularMarketVolume	5566432
+averageVolume	4882359
+averageVolume10days	4029389
+averageDailyVolume10Day	4029389
+bid	11.75
+ask	11.8
+marketCap	20378025984
+fiftyTwoWeekLow	11.2
+fiftyTwoWeekHigh	12.15
+priceToSalesTrailing12Months	5.207957
+fiftyDayAverage	11.624
+twoHundredDayAverage	11.684592
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.025531916
+currency	TWD
+enterpriseValue	27282282496
+profitMargins	0.22112
+floatShares	214582707
+sharesOutstanding	1734300032
+heldPercentInsiders	0.92086
+heldPercentInstitutions	0.06238
+impliedSharesOutstanding	1741650048
+bookValue	14.705
+priceToBook	0.79904795
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.161
+netIncomeToCommon	865212992
+trailingEps	0.63
+lastSplitFactor	1030:1000
+lastSplitDate	1690934400	 (2023-08-02 08:00:00)
+enterpriseToRevenue	6.972
+52WeekChange	0.014011264
+SandP52WeekChange	0.26265144
+lastDividendValue	0.375308
+lastDividendDate	1658966400	 (2022-07-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2836.TW
+underlyingSymbol	2836.TW
+shortName	BANK OF KAOHSIUNG LTD
+longName	Bank of Kaohsiung Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b898b6ee-87c8-3f69-a94c-5ebf315505d8
+messageBoardId	finmb_9709004
+gmtOffSetMilliseconds	28800000
+currentPrice	11.75
+recommendationKey	none
+totalCash	18832703488
+totalCashPerShare	15.258
+totalDebt	31211984896
+totalRevenue	3912864000
+revenuePerShare	3.17
+returnOnAssets	0.0029499999
+returnOnEquity	0.04998
+operatingCashflow	-17548218368
+earningsGrowth	0.166
+revenueGrowth	0.025
+operatingMargins	0.29044
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1255299.039483    -535485.621986      -2814.561593    -704467.822539
+Tax Rate For Calcs                                                  0.282153          0.180541          0.134027          0.139113
+Total Unusual Items                                                4449000.0        -2966000.0          -21000.0        -5064000.0
+Total Unusual Items Excluding Goodwill                             4449000.0        -2966000.0          -21000.0        -5064000.0
+Net Income From Continuing Operation Net Minority Interest       865213000.0       934500000.0       909672000.0       763315000.0
+Reconciled Depreciation                                          188365000.0       192091000.0       182325000.0       184159000.0
+Net Interest Income                                             2543497000.0      2905870000.0      2790896000.0      2605181000.0
+Interest Expense                                                4224803000.0      1807623000.0      1111324000.0      1640887000.0
+Interest Income                                                 6768300000.0      4713493000.0      3902220000.0      4246068000.0
+Normalized Income                                           862019299.039483  936930514.378014  909690185.438407  767674532.177461
+Net Income From Continuing And Discontinued Operation            865213000.0       934500000.0       909672000.0       763315000.0
+Diluted Average Shares                                                   NaN      1283376285.0      1283344984.0      1283982691.0
+Basic Average Shares                                                     NaN      1277187457.0      1239987561.0      1277464945.0
+Diluted EPS                                                              NaN          0.705486          0.713086          0.591984
+Basic EPS                                                                NaN          0.705486          0.713086          0.601091
+Diluted NI Availto Com Stockholders                              865213000.0       934500000.0       909672000.0       763315000.0
+Net Income Common Stockholders                                   865213000.0       934500000.0       909672000.0       763315000.0
+Net Income                                                       865213000.0       934500000.0       909672000.0       763315000.0
+Net Income Including Noncontrolling Interests                    865213000.0       934500000.0       909672000.0       763315000.0
+Net Income Continuous Operations                                 865213000.0       934500000.0       909672000.0       763315000.0
+Tax Provision                                                    340076000.0       205887000.0       140790000.0       123346000.0
+Pretax Income                                                   1205289000.0      1140387000.0      1050462000.0       886661000.0
+Other Non Operating Income Expenses                               35795000.0        46015000.0        32962000.0        31810000.0
+Special Income Charges                                             4449000.0        -2966000.0          -21000.0        -5064000.0
+Write Off                                                         -4449000.0         2966000.0           21000.0         5064000.0
+Gain On Sale Of Security                                         441030000.0      -349468000.0       609261000.0       542172000.0
+Operating Expense                                               2707575000.0      2649256000.0      2524788000.0      2486920000.0
+Other Operating Expenses                                                 0.0               0.0               0.0               0.0
+Depreciation And Amortization In Income Statement                188365000.0       192091000.0       182325000.0       184159000.0
+Depreciation Income Statement                                    188365000.0       192091000.0       182325000.0       184159000.0
+Selling General And Administration                               773789000.0       697065000.0       621423000.0       619169000.0
+General And Administrative Expense                               773789000.0       697065000.0       621423000.0       619169000.0
+Total Revenue                                                   3780530000.0      3856029000.0      3980803000.0      3698609000.0
+Operating Revenue                                               3780530000.0      3856029000.0      3980803000.0      3698609000.0

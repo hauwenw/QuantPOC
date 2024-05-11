@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 3, Yuanyuan Street
+address2	16th Floor Nangang District
+city	Taipei
+country	Taiwan
+phone	886 2 2655 8218
+fax	886 2 2655 8318
+website	https://www.pbf.com.tw
+industry	Biotechnology
+industryKey	biotechnology
+industryDisp	Biotechnology
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Panion & Bf Biotech Inc., a biotechnology pharmaceutical company, manufactures, distributes, and trades in western medicines, cosmetics, testing reagents, food products, and chemicals in Taiwan, the United States, China, Hong Kong, and internationally. The company offers products in the areas of personal cleaning, medical aesthetic, kidney-specific, pet care, and delay aging, as well as disease treatment, prevention, and diagnosis. It provides body cleansing, emollient lotion, hair cleansing, in-hospital care, minimally invasive, frozen age care and maintenance, oral medication, skin and hand disinfection, respiratory and gastrointestinal tract, and salon products; and pet health products, including surgical and skin prescriptions. The company was founded in 1976 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tsung-Ming  Chiang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zong Huai  Lu', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	94.5
+open	94.6
+dayLow	92.0
+dayHigh	94.6
+regularMarketPreviousClose	94.5
+regularMarketOpen	94.6
+regularMarketDayLow	92.0
+regularMarketDayHigh	94.6
+dividendRate	2.0
+dividendYield	0.021300001
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	1.7391
+fiveYearAvgDividendYield	1.48
+beta	0.24
+trailingPE	81.739136
+forwardPE	19.624218
+volume	652929
+regularMarketVolume	652929
+averageVolume	621159
+averageVolume10days	358888
+averageDailyVolume10Day	358888
+bid	94.0
+ask	94.1
+marketCap	8059466240
+fiftyTwoWeekLow	90.3
+fiftyTwoWeekHigh	158.5
+priceToSalesTrailing12Months	4.282679
+fiftyDayAverage	102.598
+twoHundredDayAverage	105.6245
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.015873017
+currency	TWD
+enterpriseValue	8283981824
+profitMargins	0.04103
+floatShares	68343414
+sharesOutstanding	85739000
+heldPercentInsiders	0.31519
+heldPercentInstitutions	0.04614
+impliedSharesOutstanding	85916496
+bookValue	22.29
+priceToBook	4.2171373
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	77219000
+trailingEps	1.15
+forwardEps	4.79
+lastSplitFactor	1100:1000
+lastSplitDate	1499990400	 (2017-07-14 08:00:00)
+enterpriseToRevenue	4.402
+enterpriseToEbitda	27.781
+52WeekChange	-0.32857144
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1760.TW
+underlyingSymbol	1760.TW
+shortName	PANION & BF BIOTECH INC
+longName	Panion & Bf Biotech Inc.
+firstTradeDateEpochUtc	1198112400	 (2007-12-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e9206944-0bba-391f-95b3-5393d96ec3bd
+messageBoardId	finmb_9239560
+gmtOffSetMilliseconds	28800000
+currentPrice	94.0
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	534624992
+totalCashPerShare	6.235
+ebitda	298192992
+totalDebt	759140992
+quickRatio	0.85
+currentRatio	1.405
+totalRevenue	1881874944
+debtToEquity	39.723
+revenuePerShare	21.949
+returnOnAssets	0.03098
+returnOnEquity	0.039419997
+freeCashflow	46792000
+operatingCashflow	177418000
+revenueGrowth	0.13
+grossMargins	0.51778
+ebitdaMargins	0.15845999
+operatingMargins	0.10813
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     210400.0      -15600.0     -418000.0     -689000.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                            349406000.0   504619000.0   343046000.0   181458000.0
+Total Unusual Items                                            1052000.0      -78000.0    -2090000.0    -3445000.0
+Total Unusual Items Excluding Goodwill                         1052000.0      -78000.0    -2090000.0    -3445000.0
+Net Income From Continuing Operation Net Minority Interest    77219000.0   182345000.0   104402000.0    27901000.0
+Reconciled Depreciation                                      170390000.0   163547000.0   143623000.0    84142000.0
+Reconciled Cost Of Revenue                                   907478000.0  1080052000.0   989073000.0   754605000.0
+EBITDA                                                       350458000.0   504541000.0   340956000.0   178013000.0
+EBIT                                                         180068000.0   340994000.0   197333000.0    93871000.0
+Net Interest Income                                           -4837000.0    -5792000.0   -14043000.0    -2254000.0
+Interest Expense                                              11357000.0     7585000.0    14681000.0     4465000.0
+Interest Income                                                6520000.0     1793000.0      638000.0     2211000.0
+Normalized Income                                             76377400.0   182407400.0   106074000.0    30657000.0
+Net Income From Continuing And Discontinued Operation         77219000.0   182345000.0   104402000.0    27901000.0
+Total Expenses                                              1726098000.0  1984606000.0  1733779000.0  1441783000.0
+Diluted Average Shares                                               NaN    85828000.0    79236000.0    77926000.0
+Basic Average Shares                                                 NaN    85739000.0    79180000.0    77872000.0
+Diluted EPS                                                          NaN          2.12          1.32          0.36
+Basic EPS                                                            NaN          2.13          1.32          0.36
+Diluted NI Availto Com Stockholders                           77219000.0   182345000.0   104402000.0    27901000.0
+Net Income Common Stockholders                                77219000.0   182345000.0   104402000.0    27901000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    77219000.0   182345000.0   104402000.0    27901000.0
+Net Income Including Noncontrolling Interests                 77219000.0   182345000.0   104402000.0    27901000.0
+Net Income Continuous Operations                              77219000.0   182345000.0   104402000.0    27901000.0
+Tax Provision                                                 91492000.0   151064000.0    78250000.0    61505000.0
+Pretax Income                                                168711000.0   333409000.0   182652000.0    89406000.0
+Other Non Operating Income Expenses                           30734000.0   -66582000.0    43526000.0   -18624000.0
+Special Income Charges                                         1052000.0      -78000.0    -2090000.0    -3445000.0
+Write Off                                                     -1052000.0       78000.0     2090000.0     3445000.0
+Net Non Operating Interest Income Expense                     -4837000.0    -5792000.0   -14043000.0    -2254000.0
+Interest Expense Non Operating                                11357000.0     7585000.0    14681000.0     4465000.0
+Interest Income Non Operating                                  6520000.0     1793000.0      638000.0     2211000.0
+Operating Income                                             155777000.0   414042000.0   167432000.0   126854000.0
+Operating Expense                                            818620000.0   904554000.0   744706000.0   687178000.0
+Other Operating Expenses                                             NaN           NaN           NaN    18909000.0
+Research And Development                                     217041000.0   248496000.0   157711000.0   127016000.0
+Selling General And Administration                           601579000.0   656058000.0   586995000.0   560162000.0
+Selling And Marketing Expense                                425642000.0   422151000.0   396673000.0   398386000.0
+General And Administrative Expense                           175937000.0   233907000.0   190322000.0   161776000.0
+Gross Profit                                                 974397000.0  1318596000.0   912138000.0   814032000.0
+Cost Of Revenue                                              907478000.0  1080052000.0   989073000.0   754605000.0
+Total Revenue                                               1881875000.0  2398648000.0  1901211000.0  1568637000.0
+Operating Revenue                                           1881875000.0  2398648000.0  1901211000.0  1568637000.0

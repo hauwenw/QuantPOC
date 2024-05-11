@@ -1,0 +1,134 @@
+=== Ticker Info ===
+address1	No. 49, Guanqian Road
+address2	8-9th Floors Zhongzhang District
+city	Taipei
+zip	100
+country	Taiwan
+phone	886 2 2382 1666
+website	https://www.tfmi.com.tw
+industry	Insurance - Property & Casualty
+industryKey	insurance-property-casualty
+industryDisp	Insurance - Property & Casualty
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Taiwan Fire & Marine Insurance Co., Ltd. provides various insurance products and services in Taiwan. The company offers various lines of insurance products, including fire, marine cargo and hull, fishing vessel, aviation, automobile, money, bond and credit, liability, engineering, personal accident, health, comprehensive travel, and travel accident insurance, as well as reinsurance products; and comprehensive fine art, burglary, glass, and other insurance products. Taiwan Fire & Marine Insurance Co., Ltd. was founded in 1937 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	912
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Feng  Chen', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charles  Sung', 'title': 'Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Chieh  Huang', 'title': 'Executive VP & Manager of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pi-Chen  Wang', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stanley  Fang', 'title': 'Senior Manager of Legal Compliance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tsui-Jung  Chen', 'title': 'Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jimmy  Chu', 'title': 'Vice President of Direct Marketing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Grant  Hsiao', 'title': 'Senior Manager of Human Resources Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tsun-Jung  Hsiao', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen  Cheng', 'title': 'SVP & SVP of Claim Service Dept., Personal Lines', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	28.3
+open	28.5
+dayLow	28.25
+dayHigh	28.75
+regularMarketPreviousClose	28.3
+regularMarketOpen	28.5
+regularMarketDayLow	28.25
+regularMarketDayHigh	28.75
+dividendRate	1.0
+dividendYield	0.0348
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	0.3205
+fiveYearAvgDividendYield	4.74
+trailingPE	9.214744
+volume	589002
+regularMarketVolume	589002
+averageVolume	663719
+averageVolume10days	974097
+averageDailyVolume10Day	974097
+bid	28.65
+ask	28.75
+marketCap	10413249536
+fiftyTwoWeekLow	21.8
+fiftyTwoWeekHigh	29.85
+priceToSalesTrailing12Months	1.5034763
+fiftyDayAverage	27.394
+twoHundredDayAverage	25.28375
+trailingAnnualDividendRate	1.3
+trailingAnnualDividendYield	0.045936394
+currency	TWD
+enterpriseValue	6588698112
+profitMargins	0.16410999
+floatShares	190364398
+sharesOutstanding	362200000
+heldPercentInsiders	0.3461
+heldPercentInstitutions	0.19841999
+impliedSharesOutstanding	367144992
+bookValue	32.73
+priceToBook	0.878399
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.654
+netIncomeToCommon	1136665984
+trailingEps	3.12
+lastSplitFactor	1.16:1
+lastSplitDate	1284595200	 (2010-09-16 08:00:00)
+enterpriseToRevenue	0.951
+enterpriseToEbitda	4.924
+52WeekChange	0.3127854
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2832.TW
+underlyingSymbol	2832.TW
+shortName	TAIWAN FIRE & MARINE INSURANCE 
+longName	Taiwan Fire & Marine Insurance Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	14229430-49db-3138-8322-867cc1064f6b
+messageBoardId	finmb_9794135
+gmtOffSetMilliseconds	28800000
+currentPrice	28.75
+recommendationKey	none
+totalCash	3844843008
+totalCashPerShare	10.653
+ebitda	1338172032
+totalDebt	57640000
+quickRatio	0.405
+currentRatio	0.68
+totalRevenue	6926114816
+debtToEquity	0.488
+revenuePerShare	19.13
+returnOnAssets	0.03528
+returnOnEquity	0.10191
+freeCashflow	2003181568
+operatingCashflow	1197696000
+earningsGrowth	0.645
+revenueGrowth	0.098
+grossMargins	0.41167
+ebitdaMargins	0.19320999
+operatingMargins	0.23558001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                               0.16973      0.209851      0.074938      0.110415
+Net Income From Continuing Operation Net Minority Interest   978269000.0   671961000.0   373208000.0   687595000.0
+Reconciled Depreciation                                       73878000.0    66129000.0    64511000.0    62080000.0
+Interest Income                                              211643000.0   139949000.0   107495000.0   119700000.0
+Normalized Income                                            978269000.0   671961000.0   373208000.0   687595000.0
+Net Income From Continuing And Discontinued Operation        978269000.0   671961000.0   373208000.0   687595000.0
+Total Expenses                                              5574479000.0  5246488000.0  7077699000.0  4598151000.0
+Diluted Average Shares                                       363564000.0   363398000.0   362953000.0   363465000.0
+Basic Average Shares                                         362200000.0   362200000.0   362200000.0   362200000.0
+Diluted EPS                                                         2.69          1.85          1.03          1.89
+Basic EPS                                                            2.7          1.86          1.03           1.9
+Diluted NI Availto Com Stockholders                          978269000.0   671961000.0   373208000.0   687595000.0
+Net Income Common Stockholders                               978269000.0   671961000.0   373208000.0   687595000.0
+Net Income                                                   978269000.0   671961000.0   373208000.0   687595000.0
+Net Income Including Noncontrolling Interests                978269000.0   671961000.0   373208000.0   687595000.0
+Net Income Continuous Operations                             978269000.0   671961000.0   373208000.0   687595000.0
+Tax Provision                                                199985000.0   178462000.0    30233000.0    85344000.0
+Pretax Income                                               1178254000.0   850423000.0   403441000.0   772939000.0
+Other Income Expense                                          97261000.0   228031000.0    63722000.0    73805000.0
+Other Operating Expenses                                      56961000.0    20837000.0    90820000.0    58755000.0
+Selling General And Administration                          1454487000.0  1366549000.0  1280219000.0  1250881000.0
+General And Administrative Expense                          1454487000.0  1366549000.0  1280219000.0  1250881000.0
+Total Revenue                                               6752733000.0  6096911000.0  7481140000.0  5371090000.0
+Operating Revenue                                           6752733000.0  6096911000.0  7481140000.0  5371090000.0

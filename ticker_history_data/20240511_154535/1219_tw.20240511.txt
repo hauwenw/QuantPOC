@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	45 Sha-Tyan Road
+address2	Shalu District
+city	Taichung
+country	Taiwan
+phone	886 4 2636 2111
+fax	886 4 2635 8452
+website	https://www.fwusow.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Fwusow Industry Co., Ltd. engages in the manufacture and sale of animal feeds, cooking oil, agricultural livestock products, and related consumer food in Taiwan. It offers household, sesame, flax, and business oils; bonito products; cereals; and pet foods. The company also provides plant residue, compound, and mixed organic matter fertilizer, as well as microbial preparations. Fwusow Industry Co., Ltd. was founded in 1920 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	910
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Jan-Hui  Dai', 'title': 'Finance Manager, Accounting Manager & Corporate Governance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yao-Zhi  Hong', 'title': 'Assistant VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	19.1
+open	19.1
+dayLow	19.05
+dayHigh	19.15
+regularMarketPreviousClose	19.1
+regularMarketOpen	19.1
+regularMarketDayLow	19.05
+regularMarketDayHigh	19.15
+dividendRate	0.5
+dividendYield	0.026099999
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	0.5319
+fiveYearAvgDividendYield	2.96
+beta	0.121
+trailingPE	20.37234
+volume	305392
+regularMarketVolume	305392
+averageVolume	450630
+averageVolume10days	529538
+averageDailyVolume10Day	529538
+bid	19.1
+ask	19.15
+marketCap	6344375808
+fiftyTwoWeekLow	18.2
+fiftyTwoWeekHigh	21.69903
+priceToSalesTrailing12Months	0.3889005
+fiftyDayAverage	18.808
+twoHundredDayAverage	19.31075
+currency	TWD
+enterpriseValue	9704706048
+profitMargins	0.01916
+floatShares	315860467
+sharesOutstanding	331299008
+heldPercentInsiders	0.27361
+heldPercentInstitutions	0.02177
+impliedSharesOutstanding	331299008
+bookValue	13.688
+priceToBook	1.3990357
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.646
+netIncomeToCommon	312569984
+trailingEps	0.94
+lastSplitFactor	1030:1000
+lastSplitDate	1689033600	 (2023-07-11 08:00:00)
+enterpriseToRevenue	0.595
+enterpriseToEbitda	15.557
+52WeekChange	-0.05170667
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1219.TW
+underlyingSymbol	1219.TW
+shortName	FWUSOW INDUSTRY CO LTD
+longName	Fwusow Industry Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c489448f-57dc-31c0-9fc8-291f9950c20b
+messageBoardId	finmb_11481798
+gmtOffSetMilliseconds	28800000
+currentPrice	19.15
+recommendationKey	none
+totalCash	1000299008
+totalCashPerShare	3.019
+ebitda	623811968
+totalDebt	4294248960
+quickRatio	0.758
+currentRatio	1.543
+totalRevenue	16313622528
+debtToEquity	93.329
+revenuePerShare	49.241
+returnOnAssets	0.02158
+returnOnEquity	0.07322
+freeCashflow	61248000
+operatingCashflow	513319008
+earningsGrowth	3.646
+revenueGrowth	-0.096
+grossMargins	0.091309994
+ebitdaMargins	0.03824
+operatingMargins	0.01884
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -261607.261487    -250737.763976    2411424.54705   -1594985.540061
+Tax Rate For Calcs                                                  0.152186          0.187678         0.204618          0.163521
+Normalized EBITDA                                                784650000.0       720850000.0      662246000.0       990848000.0
+Total Unusual Items                                               -1719000.0        -1336000.0       11785000.0        -9754000.0
+Total Unusual Items Excluding Goodwill                            -1719000.0        -1336000.0       11785000.0        -9754000.0
+Net Income From Continuing Operation Net Minority Interest       312570000.0       321930000.0      322817000.0       615277000.0
+Reconciled Depreciation                                          312054000.0       286629000.0      283300000.0       263116000.0
+Reconciled Cost Of Revenue                                     14824093000.0     15539508000.0    13413278000.0     10974663000.0
+EBITDA                                                           782931000.0       719514000.0      674031000.0       981094000.0
+EBIT                                                             470877000.0       432885000.0      390731000.0       717978000.0
+Net Interest Income                                              -73671000.0       -52909000.0      -33646000.0       -41211000.0
+Interest Expense                                                  80709000.0        56762000.0       36994000.0        42249000.0
+Interest Income                                                    7038000.0         3853000.0        3348000.0         1038000.0
+Normalized Income                                           314027392.738513  323015262.236024  313443424.54705  623436014.459939
+Net Income From Continuing And Discontinued Operation            312570000.0       321930000.0      322817000.0       615277000.0
+Total Expenses                                                 15957599000.0     16682553000.0    14483399000.0     11991483000.0
+Diluted Average Shares                                                   NaN       331299000.0      331299500.0       331393230.0
+Basic Average Shares                                                     NaN       331299000.0      331299500.0       331393230.0
+Diluted EPS                                                              NaN              0.97         0.970874          1.854369
+Basic EPS                                                                NaN              0.97         0.970874          1.854369
+Diluted NI Availto Com Stockholders                              312570000.0       321930000.0      322817000.0       615277000.0
+Net Income Common Stockholders                                   312570000.0       321930000.0      322817000.0       615277000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0               0.0
+Net Income                                                       312570000.0       321930000.0      322817000.0       615277000.0
+Minority Interests                                               -18220000.0        16397000.0       41461000.0        50044000.0
+Net Income Including Noncontrolling Interests                    330790000.0       305533000.0      281356000.0       565233000.0
+Net Income Continuous Operations                                 330790000.0       305533000.0      281356000.0       565233000.0
+Tax Provision                                                     59378000.0        70590000.0       72381000.0       110496000.0
+Pretax Income                                                    390168000.0       376123000.0      353737000.0       675729000.0
+Other Non Operating Income Expenses                               44899000.0        45790000.0       26900000.0       342917000.0
+Special Income Charges                                            -1719000.0        -1336000.0       11785000.0        -9754000.0
+Other Special Charges                                             -1200000.0               NaN              NaN               NaN
+Write Off                                                          2919000.0         1336000.0      -11785000.0         9754000.0
+Net Non Operating Interest Income Expense                        -73671000.0       -52909000.0      -33646000.0       -41211000.0
+Interest Expense Non Operating                                    80709000.0        56762000.0       36994000.0        42249000.0
+Interest Income Non Operating                                      7038000.0         3853000.0        3348000.0         1038000.0
+Operating Income                                                 356024000.0       316855000.0      295383000.0       332682000.0
+Operating Expense                                               1133506000.0      1143045000.0     1070121000.0      1016820000.0
+Other Operating Expenses                                                 NaN               NaN        4456000.0        -8500000.0
+Research And Development                                          47716000.0        56555000.0       35998000.0        35870000.0
+Selling General And Administration                              1085790000.0      1086490000.0     1034123000.0       980950000.0
+Selling And Marketing Expense                                    740263000.0       762922000.0      714729000.0       648934000.0
+General And Administrative Expense                               345527000.0       323568000.0      319394000.0       332016000.0
+Gross Profit                                                    1489530000.0      1459900000.0     1365504000.0      1349502000.0
+Cost Of Revenue                                                14824093000.0     15539508000.0    13413278000.0     10974663000.0
+Total Revenue                                                  16313623000.0     16999408000.0    14778782000.0     12324165000.0
+Operating Revenue                                              16313623000.0     16999408000.0    14778782000.0     12324165000.0

@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 558, Zhongyuan Road
+address2	12th Floor Xinzhuang District
+city	New Taipei City
+zip	242030
+country	Taiwan
+phone	886 2 2995 8400
+fax	886 2 2995 3466
+website	https://www.acepillar.com.tw
+industry	Industrial Distribution
+industryKey	industrial-distribution
+industryDisp	Industrial Distribution
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Ace Pillar Co., Ltd., an industrial automation company, distributes automatic mechatronics components in Taiwan and internationally. It offers automation controller and monitor systems, such as human machine interfaces, PLCs, magnesensors/laserscales, CCD cameras, CNC machine tool solutions, and fanless embedded systems; and automation drive control systems, including servo systems, linear servo and direct drive motors, PACs, and high-speed motion control systems. The company also provides inverters; automation mechanical transmission systems comprising couplings, harmonic reducers, precision bearings, planetary reducers, linear guideways, and ETP bushings; and pneumatic components, such as air-operated valves for chemical liquids, air conditioning units, solenoid valves, pneumatic cylinders, multi axis stages, and power pack with inverters. In addition, it offers technical services for the automation manufactures and customers. The company was founded in 1984 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chang-Chien  Li', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cai Su Feng', 'title': 'Head of Financial and Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhang Yue Ying', 'title': 'Head of Accounting and Assistant Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	30.65
+open	30.8
+dayLow	30.3
+dayHigh	30.8
+regularMarketPreviousClose	30.65
+regularMarketOpen	30.8
+regularMarketDayLow	30.3
+regularMarketDayHigh	30.8
+dividendRate	0.5
+dividendYield	0.0162
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	2.5
+fiveYearAvgDividendYield	2.06
+beta	0.46
+volume	20000
+regularMarketVolume	20000
+averageVolume	188523
+averageVolume10days	68123
+averageDailyVolume10Day	68123
+bid	30.5
+ask	30.6
+marketCap	3446075136
+fiftyTwoWeekLow	27.15
+fiftyTwoWeekHigh	35.0
+priceToSalesTrailing12Months	1.1291932
+fiftyDayAverage	30.279
+twoHundredDayAverage	29.09
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.009787928
+currency	TWD
+enterpriseValue	3383281920
+profitMargins	-0.00686
+sharesOutstanding	112250000
+heldPercentInsiders	0.76777
+impliedSharesOutstanding	112798000
+bookValue	17.54
+priceToBook	1.750285
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-20946000
+trailingEps	-0.2
+lastSplitFactor	1.14969:1
+lastSplitDate	1344297600	 (2012-08-07 08:00:00)
+enterpriseToRevenue	1.109
+enterpriseToEbitda	154.059
+52WeekChange	-0.00967741
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8374.TW
+underlyingSymbol	8374.TW
+shortName	ACE PILLAR CO LTD
+longName	Ace Pillar Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	882a7890-2feb-31f5-957d-9a5be0776454
+messageBoardId	finmb_9857334
+gmtOffSetMilliseconds	28800000
+currentPrice	30.7
+recommendationKey	none
+totalCash	391843008
+totalCashPerShare	3.491
+ebitda	21961000
+totalDebt	222440992
+quickRatio	1.795
+currentRatio	2.747
+totalRevenue	3051802880
+debtToEquity	10.776
+revenuePerShare	27.188
+returnOnAssets	-0.0026800002
+returnOnEquity	-0.00813
+freeCashflow	194920128
+operatingCashflow	184562000
+revenueGrowth	-0.217
+grossMargins	0.20402999
+ebitdaMargins	0.0072000003
+operatingMargins	-0.01521
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    2676400.0  -2974232.672228    1175713.434524   9320911.997801
+Tax Rate For Calcs                                                   0.2         0.241395          0.215411         0.201246
+Normalized EBITDA                                             43469000.0      201016000.0       234444000.0      103526000.0
+Total Unusual Items                                           13382000.0      -12321000.0         5458000.0       46316000.0
+Total Unusual Items Excluding Goodwill                        13382000.0      -12321000.0         5458000.0       46316000.0
+Net Income From Continuing Operation Net Minority Interest   -20946000.0       78953000.0       147895000.0       87180000.0
+Reconciled Depreciation                                       55764000.0       51229000.0        44287000.0       31471000.0
+Reconciled Cost Of Revenue                                  2429143000.0     3023194000.0      3000362000.0     2274067000.0
+EBITDA                                                        56851000.0      188695000.0       239902000.0      149842000.0
+EBIT                                                           1087000.0      137466000.0       195615000.0      118371000.0
+Net Interest Income                                           -5214000.0       -7242000.0        -3369000.0       -7173000.0
+Interest Expense                                               7210000.0        8843000.0         4622000.0        9226000.0
+Interest Income                                                1996000.0        1601000.0         1253000.0        2053000.0
+Normalized Income                                            -31651600.0  88299767.327772  143612713.434524  50184911.997801
+Net Income From Continuing And Discontinued Operation        -20946000.0       78953000.0       147895000.0       87180000.0
+Total Expenses                                              3078658000.0     3654374000.0      3474141000.0     2675575000.0
+Diluted Average Shares                                       112250000.0      112333000.0       112390000.0      112321000.0
+Basic Average Shares                                         112250000.0      112250000.0       112250000.0      112235000.0
+Diluted EPS                                                        -0.19              0.7              1.32             0.78
+Basic EPS                                                          -0.19              0.7              1.32             0.78
+Diluted NI Availto Com Stockholders                          -20946000.0       78953000.0       147895000.0       87180000.0
+Net Income Common Stockholders                               -20946000.0       78953000.0       147895000.0       87180000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0               0.0              0.0
+Net Income                                                   -20946000.0       78953000.0       147895000.0       87180000.0
+Minority Interests                                            -3866000.0      -18621000.0        -1956000.0              NaN
+Net Income Including Noncontrolling Interests                -17080000.0       97574000.0       149851000.0       87180000.0
+Net Income Continuous Operations                             -17080000.0       97574000.0       149851000.0       87180000.0
+Tax Provision                                                 10957000.0       31049000.0        41142000.0       21965000.0
+Pretax Income                                                 -6123000.0      128623000.0       190993000.0      109145000.0
+Other Non Operating Income Expenses                           12564000.0       40139000.0         4341000.0       -8871000.0
+Special Income Charges                                        13382000.0      -12321000.0         5458000.0       46316000.0
+Write Off                                                    -13382000.0       12321000.0        -5458000.0      -46316000.0
+Net Non Operating Interest Income Expense                     -5214000.0       -7242000.0        -3369000.0       -7173000.0
+Interest Expense Non Operating                                 7210000.0        8843000.0         4622000.0        9226000.0
+Interest Income Non Operating                                  1996000.0        1601000.0         1253000.0        2053000.0
+Operating Income                                             -26855000.0      108047000.0       184563000.0       78873000.0
+Operating Expense                                            649515000.0      631180000.0       473779000.0      401508000.0
+Research And Development                                       5420000.0        5805000.0         8738000.0              NaN
+Selling General And Administration                           644095000.0      625375000.0       465041000.0      401508000.0
+Selling And Marketing Expense                                421143000.0      429537000.0       311587000.0      268249000.0
+General And Administrative Expense                           222952000.0      195838000.0       153454000.0      133259000.0
+Gross Profit                                                 622660000.0      739227000.0       658342000.0      480381000.0
+Cost Of Revenue                                             2429143000.0     3023194000.0      3000362000.0     2274067000.0
+Total Revenue                                               3051803000.0     3762421000.0      3658704000.0     2754448000.0
+Operating Revenue                                           3051803000.0     3762421000.0      3658704000.0     2754448000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.37, Kaifa Road
+address2	Nanzih District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 361 2116
+fax	886 7 361 3884
+website	https://www.wus.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	WUS Printed Circuit Co., Ltd. manufactures, processes, assembles, and sells double-sided and multi-layer printed circuit boards in Taiwan. It offers multilayer and mobile phones boards. The company also provides communication RF modules, embedded passives, and high-density microvia (HDI) products. In addition, it is involved in imported commodity trading business; assembly and sale of peripheral equipment, such as electronic products; and research, production, and sale of photo electronic application products. The company's products are used in add-on cards, motherboards, telecom products, radio base stations, mobile phones, digital cameras, notebooks, and other digital and entertainment products. WUS Printed Circuit Co., Ltd. was founded in 1972 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Kang  Chen', 'age': 57, 'title': 'President & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Nan  Chen', 'title': 'Financial & Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mandy  Lu', 'title': 'Director of law', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.85
+open	43.95
+dayLow	42.6
+dayHigh	44.1
+regularMarketPreviousClose	43.85
+regularMarketOpen	43.95
+regularMarketDayLow	42.6
+regularMarketDayHigh	44.1
+dividendRate	0.5
+dividendYield	0.0116
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.1087
+beta	1.083
+trailingPE	9.380435
+volume	2505175
+regularMarketVolume	2505175
+averageVolume	5713521
+averageVolume10days	9375485
+averageDailyVolume10Day	9375485
+bid	43.15
+ask	43.15
+marketCap	7828920832
+fiftyTwoWeekLow	27.1
+fiftyTwoWeekHigh	50.7
+priceToSalesTrailing12Months	2.226694
+fiftyDayAverage	42.475
+twoHundredDayAverage	38.4285
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.011402509
+currency	TWD
+enterpriseValue	7907391488
+profitMargins	0.23766
+floatShares	145864520
+sharesOutstanding	181435008
+heldPercentInsiders	0.24434
+heldPercentInstitutions	0.20989999
+impliedSharesOutstanding	182446000
+bookValue	48.971
+priceToBook	0.88113374
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	15.264
+netIncomeToCommon	835606016
+trailingEps	4.6
+lastSplitFactor	900:1000
+lastSplitDate	1600905600	 (2020-09-24 08:00:00)
+enterpriseToRevenue	2.249
+enterpriseToEbitda	-26.403
+52WeekChange	0.5410714
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2316.TW
+underlyingSymbol	2316.TW
+shortName	WUS PRINTED CIRCUIT CO
+longName	WUS Printed Circuit Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2310efff-6707-3be4-a438-357ed3b298c4
+messageBoardId	finmb_4484073
+gmtOffSetMilliseconds	28800000
+currentPrice	43.15
+recommendationKey	none
+totalCash	3438509056
+totalCashPerShare	18.952
+ebitda	-299486016
+totalDebt	3516987904
+quickRatio	1.467
+currentRatio	1.769
+totalRevenue	3515939072
+debtToEquity	39.584
+revenuePerShare	19.379
+returnOnAssets	-0.03006
+returnOnEquity	0.09873
+freeCashflow	-49834124
+operatingCashflow	70428000
+earningsGrowth	15.395
+revenueGrowth	-0.188
+grossMargins	-0.07819
+ebitdaMargins	-0.08518
+operatingMargins	-0.18806
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                      4059.440614    -118990.17506       8795.50746      379400.0
+Tax Rate For Calcs                                                  0.312265         0.212482           0.1795           0.2
+Normalized EBITDA                                               1637749000.0     1055482000.0     1029235000.0   769191000.0
+Total Unusual Items                                                  13000.0        -560000.0          49000.0     1897000.0
+Total Unusual Items Excluding Goodwill                               13000.0        -560000.0          49000.0     1897000.0
+Net Income From Continuing Operation Net Minority Interest       835606000.0      510587000.0      533553000.0   414059000.0
+Reconciled Depreciation                                          369456000.0      368887000.0      346585000.0   350796000.0
+Reconciled Cost Of Revenue                                      3790840000.0     4951564000.0     4907918000.0  4594437000.0
+EBITDA                                                          1637762000.0     1054922000.0     1029284000.0   771088000.0
+EBIT                                                            1268306000.0      686035000.0      682699000.0   420292000.0
+Net Interest Income                                               45791000.0       43491000.0       44692000.0    46491000.0
+Interest Expense                                                  53295000.0       37685000.0       32421000.0    29588000.0
+Interest Income                                                   99086000.0       81176000.0       77113000.0    76079000.0
+Normalized Income                                           835597059.440614  511028009.82494  533512795.50746   412541400.0
+Net Income From Continuing And Discontinued Operation            835606000.0      510587000.0      533553000.0   414059000.0
+Total Expenses                                                  4175502000.0     5379713000.0     5340384000.0  4992123000.0
+Diluted Average Shares                                                   NaN      181462000.0      181455000.0   193940000.0
+Basic Average Shares                                                     NaN      181435000.0      181435000.0   193917000.0
+Diluted EPS                                                              NaN             2.81             2.94          2.13
+Basic EPS                                                                NaN             2.81             2.94          2.14
+Diluted NI Availto Com Stockholders                              835606000.0      510587000.0      533553000.0   414059000.0
+Net Income Common Stockholders                                   835606000.0      510587000.0      533553000.0   414059000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0              0.0           0.0
+Net Income                                                       835606000.0      510587000.0      533553000.0   414059000.0
+Net Income Including Noncontrolling Interests                    835606000.0      510587000.0      533553000.0   414059000.0
+Net Income Continuous Operations                                 835606000.0      510587000.0      533553000.0   414059000.0
+Tax Provision                                                    379405000.0      137763000.0      116725000.0   -23355000.0
+Pretax Income                                                   1215011000.0      648350000.0      650278000.0   390704000.0
+Other Non Operating Income Expenses                              968648000.0       77659000.0        7464000.0  -186704000.0
+Special Income Charges                                               13000.0        -560000.0          49000.0     1897000.0
+Write Off                                                           -13000.0         560000.0         -49000.0    -1897000.0
+Net Non Operating Interest Income Expense                         45791000.0       43491000.0       44692000.0    46491000.0
+Interest Expense Non Operating                                    53295000.0       37685000.0       32421000.0    29588000.0
+Interest Income Non Operating                                     99086000.0       81176000.0       77113000.0    76079000.0
+Operating Income                                                -659563000.0     -246998000.0        9329000.0  -207150000.0
+Operating Expense                                                384662000.0      428149000.0      432466000.0   397686000.0
+Research And Development                                          42639000.0       46806000.0       45863000.0    43820000.0
+Selling General And Administration                               342023000.0      381343000.0      386603000.0   353866000.0
+Selling And Marketing Expense                                     96731000.0      137798000.0      150935000.0   127776000.0
+General And Administrative Expense                               245292000.0      243545000.0      235668000.0   226090000.0
+Gross Profit                                                    -274901000.0      181151000.0      441795000.0   190536000.0
+Cost Of Revenue                                                 3790840000.0     4951564000.0     4907918000.0  4594437000.0
+Total Revenue                                                   3515939000.0     5132715000.0     5349713000.0  4784973000.0
+Operating Revenue                                               3515939000.0     5132715000.0     5349713000.0  4784973000.0

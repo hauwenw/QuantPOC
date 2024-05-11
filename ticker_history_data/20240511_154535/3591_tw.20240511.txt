@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 17, Qiaohe Road
+address2	17th Floor Zhonghe District
+city	New Taipei City
+zip	235029
+country	Taiwan
+phone	886 2 8227 6996
+fax	886 2 8227 6997
+website	https://www.edison-opto.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Edison Opto Corporation designs, manufactures, and sells LED lighting products in Taiwan and internationally. The company provides LED components, AC/DC modules, LED module and strips, and street/outdoor lighting products; horticulture and stage lighting products, as well as automotive lighting products; and UV modules and infrared emitters. It also offers integrated lighting design manufacturing services. The company was incorporated in 2001 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jason  Wu', 'title': 'Chairman & President', 'fiscalYear': 2021, 'totalPay': 5521000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guolun  Liao', 'title': 'Vice President of R&D Division and Facilities Division', 'fiscalYear': 2021, 'totalPay': 2072000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yaochuan  Hong', 'title': 'Senior Associate Manager of Facilities Division', 'fiscalYear': 2021, 'totalPay': 1592000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Qingyuan  Liu', 'title': 'Senior Associate Manager of Facilities Division', 'fiscalYear': 2021, 'totalPay': 1382000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Tien  Hsu', 'title': 'CFO & Senior Associate Manager of Accounting Center', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Calvin  Sun', 'title': 'Chief Technology Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	24.35
+open	24.35
+dayLow	24.1
+dayHigh	24.6
+regularMarketPreviousClose	24.35
+regularMarketOpen	24.35
+regularMarketDayLow	24.1
+regularMarketDayHigh	24.6
+dividendRate	0.29
+dividendYield	0.0119
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	2.6468
+fiveYearAvgDividendYield	2.85
+trailingPE	222.27274
+forwardPE	42.894737
+volume	618273
+regularMarketVolume	618273
+averageVolume	668213
+averageVolume10days	433217
+averageDailyVolume10Day	433217
+bid	24.45
+ask	24.5
+marketCap	3474564864
+fiftyTwoWeekLow	21.55
+fiftyTwoWeekHigh	28.45
+priceToSalesTrailing12Months	1.6695521
+fiftyDayAverage	25.161
+twoHundredDayAverage	24.577
+currency	TWD
+enterpriseValue	2892042752
+profitMargins	0.03
+floatShares	102849976
+sharesOutstanding	142108992
+heldPercentInsiders	0.35621
+heldPercentInstitutions	0.01534
+impliedSharesOutstanding	145530000
+bookValue	20.152
+priceToBook	1.2132791
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.177
+netIncomeToCommon	62424000
+trailingEps	0.11
+forwardEps	0.57
+lastSplitFactor	1051.6548:1000
+lastSplitDate	1661299200	 (2022-08-24 08:00:00)
+enterpriseToRevenue	1.39
+enterpriseToEbitda	18.192
+52WeekChange	0.09887636
+SandP52WeekChange	0.26265144
+lastDividendValue	0.291146
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3591.TW
+underlyingSymbol	3591.TW
+shortName	EDISON OPTO CORPORATION
+longName	Edison Opto Corporation
+firstTradeDateEpochUtc	1131066000	 (2005-11-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f1a83733-eef5-3b57-9d33-34bd6f255910
+messageBoardId	finmb_29342412
+gmtOffSetMilliseconds	28800000
+currentPrice	24.45
+recommendationKey	none
+totalCash	1070788992
+totalCashPerShare	7.383
+ebitda	158970000
+totalDebt	286663008
+quickRatio	2.41
+currentRatio	3.043
+totalRevenue	2081136000
+debtToEquity	9.39
+revenuePerShare	14.827
+returnOnAssets	0.00834
+returnOnEquity	0.02015
+freeCashflow	-15475125
+operatingCashflow	79464000
+earningsGrowth	0.956
+revenueGrowth	0.2
+grossMargins	0.25206
+ebitdaMargins	0.07639
+operatingMargins	0.04163
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2022-12-31       2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                 -1796837.642071     645644.69405  -6394285.59667
+Tax Rate For Calcs                                                 0.335669          0.10656        0.249348
+Normalized EBITDA                                               205799000.0      281181000.0     204338000.0
+Total Unusual Items                                              -5353000.0        6059000.0     -25644000.0
+Total Unusual Items Excluding Goodwill                           -5353000.0        6059000.0     -25644000.0
+Net Income From Continuing Operation Net Minority Interest       25648000.0      120258000.0      42154000.0
+Reconciled Depreciation                                         132320000.0      124314000.0     125570000.0
+Reconciled Cost Of Revenue                                     1379419000.0     1595656000.0    1535866000.0
+EBITDA                                                          200446000.0      287240000.0     178694000.0
+EBIT                                                             68126000.0      162926000.0      53124000.0
+Net Interest Income                                              -2143000.0       -5324000.0       9524000.0
+Interest Expense                                                 17183000.0       19945000.0       9398000.0
+Interest Income                                                  15040000.0       14621000.0      18922000.0
+Normalized Income                                           29204162.357929  114844644.69405  61403714.40333
+Net Income From Continuing And Discontinued Operation            25648000.0      120258000.0      42154000.0
+Total Expenses                                                 1793069000.0     1961850000.0    1871750000.0
+Diluted Average Shares                                          131582000.0      140169000.0     127026228.0
+Basic Average Shares                                            131149000.0      127037000.0     125207917.0
+Diluted EPS                                                            0.19             0.91        0.332809
+Basic EPS                                                               0.2             0.95        0.332809
+Diluted NI Availto Com Stockholders                              25648000.0      120258000.0      42154000.0
+Net Income Common Stockholders                                   25648000.0      120258000.0      42154000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0             0.0
+Net Income                                                       25648000.0      120258000.0      42154000.0
+Minority Interests                                               -8195000.0       -7487000.0       9331000.0
+Net Income Including Noncontrolling Interests                    33843000.0      127745000.0      32823000.0
+Net Income Continuous Operations                                 33843000.0      127745000.0      32823000.0
+Tax Provision                                                    17100000.0       15236000.0      10903000.0
+Pretax Income                                                    50943000.0      142981000.0      43726000.0
+Other Non Operating Income Expenses                              10107000.0       -1768000.0      30358000.0
+Special Income Charges                                           -5353000.0        6059000.0     -25644000.0
+Write Off                                                         5353000.0       -6059000.0      25644000.0
+Net Non Operating Interest Income Expense                        -2143000.0       -5324000.0       9524000.0
+Interest Expense Non Operating                                   17183000.0       19945000.0       9398000.0
+Interest Income Non Operating                                    15040000.0       14621000.0      18922000.0
+Operating Income                                                 48914000.0      144014000.0      29488000.0
+Operating Expense                                               413650000.0      366194000.0     335884000.0
+Research And Development                                        115059000.0      101865000.0     102909000.0
+Selling General And Administration                              298591000.0      264329000.0     232975000.0
+Selling And Marketing Expense                                   124876000.0      103834000.0      82358000.0
+General And Administrative Expense                              173715000.0      160495000.0     150617000.0
+Gross Profit                                                    462564000.0      510208000.0     365372000.0
+Cost Of Revenue                                                1379419000.0     1595656000.0    1535866000.0
+Total Revenue                                                  1841983000.0     2105864000.0    1901238000.0
+Operating Revenue                                              1841983000.0     2105864000.0    1901238000.0

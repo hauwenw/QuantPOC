@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 501, Nanjing East Road
+address2	9th Floor Section 6 Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8912 1289
+fax	886 2 8912 1111
+website	https://www.csi-sensor.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Creative Sensor Inc. engages in the research and development, manufacturing, and trading of image sensor and its electronic components in Taiwan, the Philippines, Thailand, and internationally. It offers linear sensors, such as contact image sensor modules for image scanning applications; stealth laser dicing services for use in various MEMS, RFID, image sensors, etc.; and LWIR products comprising uncooled infra-red thermal imaging modules/cores used in various areas, including security surveillance, drone, transportation, temperature measurement, national security, etc. The company was founded in 1998 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Ren  Huang', 'title': 'Chief Strategist & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Chang  Yang', 'title': 'Acting President & Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun-Mei  Yen', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Ping  Lin', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Fong  Chen', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	29.1
+open	29.1
+dayLow	29.05
+dayHigh	29.4
+regularMarketPreviousClose	29.1
+regularMarketOpen	29.1
+regularMarketDayLow	29.05
+regularMarketDayHigh	29.4
+dividendRate	1.88
+dividendYield	0.0619
+exDividendDate	1685491200	 (2023-05-31 08:00:00)
+payoutRatio	0.8735
+fiveYearAvgDividendYield	5.92
+beta	0.766
+trailingPE	13.6046505
+volume	117406
+regularMarketVolume	117406
+averageVolume	176272
+averageVolume10days	70606
+averageDailyVolume10Day	70606
+bid	29.25
+ask	29.3
+marketCap	4181959936
+fiftyTwoWeekLow	28.0
+fiftyTwoWeekHigh	36.1
+priceToSalesTrailing12Months	1.1432335
+fiftyDayAverage	29.468
+twoHundredDayAverage	29.489
+trailingAnnualDividendRate	1.9
+trailingAnnualDividendYield	0.0652921
+currency	TWD
+enterpriseValue	2887040768
+profitMargins	0.07007
+sharesOutstanding	142972992
+heldPercentInsiders	0.68245006
+heldPercentInstitutions	0.00119
+impliedSharesOutstanding	143708992
+bookValue	38.23
+priceToBook	0.76510596
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+earningsQuarterlyGrowth	-0.442
+netIncomeToCommon	256323008
+trailingEps	2.15
+lastSplitFactor	101:100
+lastSplitDate	1217376000	 (2008-07-30 08:00:00)
+enterpriseToRevenue	0.789
+enterpriseToEbitda	6.577
+SandP52WeekChange	0.26265144
+lastDividendValue	1.877927
+lastDividendDate	1685491200	 (2023-05-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8249.TW
+underlyingSymbol	8249.TW
+shortName	CREATIVE SENSOR INC
+longName	Creative Sensor Inc.
+firstTradeDateEpochUtc	1116291600	 (2005-05-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d9d37013-dca1-3c50-ace0-3cafb98ce216
+messageBoardId	finmb_12003393
+gmtOffSetMilliseconds	28800000
+currentPrice	29.25
+recommendationKey	none
+totalCash	2695823104
+totalCashPerShare	18.855
+ebitda	438928992
+totalDebt	1307970944
+quickRatio	1.498
+currentRatio	1.644
+totalRevenue	3658010112
+debtToEquity	23.93
+revenuePerShare	32.374
+returnOnAssets	0.03319
+returnOnEquity	0.05474
+freeCashflow	403485248
+operatingCashflow	548289024
+earningsGrowth	-0.447
+revenueGrowth	-0.372
+grossMargins	0.19736
+ebitdaMargins	0.11999
+operatingMargins	0.06098
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                               0.25045      0.305338      0.215138      0.276996
+Normalized EBITDA                                            424411000.0   628591000.0   348381000.0   386330000.0
+Net Income From Continuing Operation Net Minority Interest   246790000.0   359682000.0   176681000.0   190268000.0
+Reconciled Depreciation                                       73192000.0    91441000.0   111388000.0   118775000.0
+Reconciled Cost Of Revenue                                  2482393000.0  3498165000.0  3428050000.0  2936375000.0
+EBITDA                                                       424411000.0   628591000.0   348381000.0   386330000.0
+EBIT                                                         351219000.0   537150000.0   236993000.0   267555000.0
+Net Interest Income                                           11552000.0    -8930000.0    -6186000.0    15972000.0
+Interest Expense                                              21968000.0    19370000.0    11882000.0     4392000.0
+Interest Income                                               33520000.0    10440000.0     5696000.0    20364000.0
+Normalized Income                                            246790000.0   359682000.0   176681000.0   190268000.0
+Net Income From Continuing And Discontinued Operation        246790000.0   359682000.0   176681000.0   190268000.0
+Total Expenses                                              2819033000.0  3843675000.0  3751878000.0  3237769000.0
+Diluted Average Shares                                               NaN   113612000.0   118928000.0   128598000.0
+Basic Average Shares                                                 NaN   111858000.0   117948000.0   127055000.0
+Diluted EPS                                                          NaN          3.17          1.49          1.48
+Basic EPS                                                            NaN          3.22           1.5           1.5
+Diluted NI Availto Com Stockholders                          246790000.0   359682000.0   176681000.0   190268000.0
+Net Income Common Stockholders                               246790000.0   359682000.0   176681000.0   190268000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   246790000.0   359682000.0   176681000.0   190268000.0
+Net Income Including Noncontrolling Interests                246790000.0   359682000.0   176681000.0   190268000.0
+Net Income Continuous Operations                             246790000.0   359682000.0   176681000.0   190268000.0
+Tax Provision                                                 82461000.0   158098000.0    48430000.0    72895000.0
+Pretax Income                                                329251000.0   517780000.0   225111000.0   263163000.0
+Other Non Operating Income Expenses                           83111000.0   109580000.0    24892000.0    84991000.0
+Net Non Operating Interest Income Expense                     11552000.0    -8930000.0    -6186000.0    15972000.0
+Interest Expense Non Operating                                21968000.0    19370000.0    11882000.0     4392000.0
+Interest Income Non Operating                                 33520000.0    10440000.0     5696000.0    20364000.0
+Operating Income                                             237191000.0   413277000.0   199441000.0   162115000.0
+Operating Expense                                            336640000.0   345510000.0   323828000.0   301394000.0
+Research And Development                                      89169000.0    84385000.0    81557000.0    75707000.0
+Selling General And Administration                           247471000.0   261125000.0   242271000.0   225687000.0
+Selling And Marketing Expense                                 73111000.0    76054000.0    70835000.0    72719000.0
+General And Administrative Expense                           174360000.0   185071000.0   171436000.0   152968000.0
+Gross Profit                                                 573831000.0   758787000.0   523269000.0   463509000.0
+Cost Of Revenue                                             2482393000.0  3498165000.0  3428050000.0  2936375000.0
+Total Revenue                                               3056224000.0  4256952000.0  3951319000.0  3399884000.0
+Operating Revenue                                           3056224000.0  4256952000.0  3951319000.0  3399884000.0

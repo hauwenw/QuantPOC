@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 386
+address2	Floor 22-23 Shizheng Road
+city	Taichung
+country	Taiwan
+phone	886 4 2258 2062
+fax	886 4 2565 8889
+website	https://www.sunspring.com.tw
+industry	Building Products & Equipment
+industryKey	building-products-equipment
+industryDisp	Building Products & Equipment
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Sunspring Metal Corporation manufactures, processes, and trades water pipe switch accessories, gate valves, corks, copper pipe fittings, and waterway sanitary equipment in Taiwan and internationally. It is involved in the manufacture and sale of sanitation, construction equipment, metal molds, and hard parts; installation and sale of automatic control equipment; and international investment. Sunspring Metal Corporation was founded in 1973 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Qing Qi  Yang', 'title': 'Chairman, Manager, CEO, President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zheng Fa  Yang', 'title': 'Founder and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Si  Ming', 'title': 'Manager of Financial Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yong Fu  Wu', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xin Hong He', 'title': 'Manager of Information Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shen  Shih', 'title': 'Senior Vice President of China Manufacturing Center and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shu Chuan Yang', 'title': 'Assistant to the CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yeh  Jeans', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	30.3
+open	30.9
+dayLow	30.3
+dayHigh	31.35
+regularMarketPreviousClose	30.3
+regularMarketOpen	30.9
+regularMarketDayLow	30.3
+regularMarketDayHigh	31.35
+dividendRate	1.0
+dividendYield	0.0328
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.4032
+fiveYearAvgDividendYield	1.42
+beta	0.688
+trailingPE	12.298387
+forwardPE	11.423221
+volume	1675988
+regularMarketVolume	1675988
+averageVolume	1125943
+averageVolume10days	1265810
+averageDailyVolume10Day	1265810
+bid	30.5
+ask	30.55
+marketCap	6099816960
+fiftyTwoWeekLow	21.05
+fiftyTwoWeekHigh	31.6
+priceToSalesTrailing12Months	0.8061193
+fiftyDayAverage	28.88
+twoHundredDayAverage	25.08275
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.026402641
+currency	TWD
+enterpriseValue	8824921088
+profitMargins	0.0416
+floatShares	96671100
+sharesOutstanding	199994000
+heldPercentInsiders	0.12954001
+heldPercentInstitutions	0.012200001
+impliedSharesOutstanding	204132000
+bookValue	36.723
+priceToBook	0.83054215
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.226
+netIncomeToCommon	314766016
+trailingEps	2.48
+forwardEps	2.67
+enterpriseToRevenue	1.166
+enterpriseToEbitda	8.564
+52WeekChange	0.44549763
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2062.TW
+underlyingSymbol	2062.TW
+shortName	SUNSPRING METAL CORPORATION
+longName	Sunspring Metal Corporation
+firstTradeDateEpochUtc	1195174800	 (2007-11-16 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	47e7ac76-b065-3b74-94a8-5d70969e78ad
+messageBoardId	finmb_30517167
+gmtOffSetMilliseconds	28800000
+currentPrice	30.5
+recommendationKey	none
+totalCash	1304008960
+totalCashPerShare	6.52
+ebitda	1030412032
+totalDebt	4026885120
+quickRatio	1.24
+currentRatio	1.714
+totalRevenue	7566891008
+debtToEquity	54.813
+revenuePerShare	37.836
+returnOnAssets	0.01689
+returnOnEquity	0.04291
+freeCashflow	1091722112
+operatingCashflow	1278354944
+earningsGrowth	3.173
+revenueGrowth	0.228
+grossMargins	0.119160004
+ebitdaMargins	0.13617
+operatingMargins	0.06806
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    926673.140692   25857028.203691    1760400.038339    -5644200.0
+Tax Rate For Calcs                                                  0.108803          0.229038          0.180925           0.2
+Normalized EBITDA                                               1155125000.0      1673117000.0      1308845000.0   782478000.0
+Total Unusual Items                                                8517000.0       112894000.0         9730000.0   -28221000.0
+Total Unusual Items Excluding Goodwill                             8517000.0       112894000.0         9730000.0   -28221000.0
+Net Income From Continuing Operation Net Minority Interest       314766000.0       736846000.0       436069000.0   -77792000.0
+Reconciled Depreciation                                          745770000.0       762687000.0       718162000.0   744206000.0
+Reconciled Cost Of Revenue                                      6665224000.0      6873711000.0      8255407000.0  6582998000.0
+EBITDA                                                          1163642000.0      1786011000.0      1318575000.0   754257000.0
+EBIT                                                             417872000.0      1023324000.0       600413000.0    10051000.0
+Net Interest Income                                              -34829000.0       -58749000.0       -64675000.0   -61256000.0
+Interest Expense                                                  65335000.0        67208000.0        68314000.0    64918000.0
+Interest Income                                                   30506000.0         8459000.0         3639000.0     3662000.0
+Normalized Income                                           307175673.140692  649809028.203691  428099400.038339   -55215200.0
+Net Income From Continuing And Discontinued Operation            314766000.0       736846000.0       436069000.0   -77792000.0
+Total Expenses                                                  7239026000.0      7566604000.0      9072088000.0  7207997000.0
+Diluted Average Shares                                                   NaN       202594000.0       178240000.0   163014000.0
+Basic Average Shares                                                     NaN       199994000.0       176185000.0   163014000.0
+Diluted EPS                                                              NaN              3.64              2.45         -0.48
+Basic EPS                                                                NaN              3.68              2.48         -0.48
+Diluted NI Availto Com Stockholders                              314766000.0       736846000.0       436069000.0   -77792000.0
+Net Income Common Stockholders                                   314766000.0       736846000.0       436069000.0   -77792000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0           0.0
+Net Income                                                       314766000.0       736846000.0       436069000.0   -77792000.0
+Minority Interests                                                  586000.0         -283000.0          240000.0     -294000.0
+Net Income Including Noncontrolling Interests                    314180000.0       737129000.0       435829000.0   -77498000.0
+Net Income Continuous Operations                                 314180000.0       737129000.0       435829000.0   -77498000.0
+Tax Provision                                                     38357000.0       218987000.0        96270000.0    22631000.0
+Pretax Income                                                    352537000.0       956116000.0       532099000.0   -54867000.0
+Other Non Operating Income Expenses                               19240000.0        25559000.0        19080000.0    96770000.0
+Special Income Charges                                            10350000.0       117739000.0        -7099000.0   -28221000.0
+Other Special Charges                                               920000.0       -85645000.0          934000.0     8835000.0
+Write Off                                                        -11270000.0       -32094000.0         6165000.0    19386000.0
+Net Non Operating Interest Income Expense                        -34829000.0       -58749000.0       -64675000.0   -61256000.0
+Interest Expense Non Operating                                    65335000.0        67208000.0        68314000.0    64918000.0
+Interest Income Non Operating                                     30506000.0         8459000.0         3639000.0     3662000.0
+Operating Income                                                 327865000.0       670183000.0       565855000.0    29626000.0
+Operating Expense                                                573802000.0       692893000.0       816681000.0   624999000.0
+Research And Development                                          48664000.0        54852000.0        54787000.0    56905000.0
+Selling General And Administration                               525138000.0       638041000.0       761894000.0   568094000.0
+Selling And Marketing Expense                                    169415000.0       244283000.0       341296000.0   169309000.0
+General And Administrative Expense                               355723000.0       393758000.0       420598000.0   398785000.0
+Gross Profit                                                     901667000.0      1363076000.0      1382536000.0   654625000.0
+Cost Of Revenue                                                 6665224000.0      6873711000.0      8255407000.0  6582998000.0
+Total Revenue                                                   7566891000.0      8236787000.0      9637943000.0  7237623000.0
+Operating Revenue                                               7566891000.0      8236787000.0      9637943000.0  7237623000.0

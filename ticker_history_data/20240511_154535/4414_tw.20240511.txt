@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 57, Fuxing North Road
+address2	13 Floor- 4 Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2751 3111
+fax	886 2 2740 5567
+website	https://www.roohsing.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Roo Hsing Co., Ltd engages in the manufacturing, processing, trading, and importing and exporting of knitting, woven, cotton, wool, leather, and other garments in Taiwan. The company processes, sells, imports, and exports garment accessories. It also acts as an agent for domestic and foreign companies for bids, quotes, procurement, and distribution. In addition, the company offers trousers, skirts, dresses, pants, sundresses, shirts, jackets, vests, long shorts, sports suits, masks, and other anti-epidemic products, etc. Further, it engages in electronic component wholesale business, real estate leasing and trading, and funeral home development. The company was formerly known as Roo Hsing Garment Co., Ltd. and changed its name to Roo Hsing Co., Ltd. in June 2008. Roo Hsing Co., Ltd was incorporated in 1977 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'James Ian Harrison', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Jung  Hsu', 'title': 'CFO and VP of Financial & Accounting Division', 'fiscalYear': 2021, 'totalPay': 4430000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Ping  Huang', 'title': 'Senior Manager of Corporate Development', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Hsiung  Wu', 'title': 'Assistant Vice President of Sales Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	4
+previousClose	3.62
+open	3.62
+dayLow	3.59
+dayHigh	3.62
+regularMarketPreviousClose	3.62
+regularMarketOpen	3.62
+regularMarketDayLow	3.59
+regularMarketDayHigh	3.62
+exDividendDate	1123545600	 (2005-08-09 08:00:00)
+beta	0.703
+forwardPE	1.9095744
+volume	413243
+regularMarketVolume	413243
+averageVolume	818681
+averageVolume10days	492787
+averageDailyVolume10Day	492787
+bid	3.59
+ask	3.6
+marketCap	3166792704
+fiftyTwoWeekLow	2.92
+fiftyTwoWeekHigh	5.65
+priceToSalesTrailing12Months	0.234275
+fiftyDayAverage	3.6294
+twoHundredDayAverage	3.68685
+currency	TWD
+enterpriseValue	7305954816
+profitMargins	-0.04059
+sharesOutstanding	882115008
+heldPercentInsiders	0.26985002
+heldPercentInstitutions	0.23372
+impliedSharesOutstanding	892110976
+bookValue	4.365
+priceToBook	0.82245135
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-548617984
+trailingEps	-0.66
+forwardEps	1.88
+lastSplitFactor	1041.912:1000
+lastSplitDate	1441584000	 (2015-09-07 08:00:00)
+enterpriseToRevenue	0.54
+enterpriseToEbitda	49.886
+52WeekChange	0.22945201
+SandP52WeekChange	0.26265144
+lastDividendValue	0.719991
+lastDividendDate	1123545600	 (2005-08-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4414.TW
+underlyingSymbol	4414.TW
+shortName	ROO HSING CO. LTD.
+longName	Roo Hsing Co., Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8ed8ead9-17a6-3c50-bdd0-4964d986621a
+messageBoardId	finmb_9898387
+gmtOffSetMilliseconds	28800000
+currentPrice	3.59
+recommendationKey	none
+totalCash	282134016
+totalCashPerShare	0.32
+ebitda	146452000
+totalDebt	4039805952
+quickRatio	0.444
+currentRatio	0.921
+totalRevenue	13517416448
+debtToEquity	95.458
+revenuePerShare	16.173
+returnOnAssets	-0.0095
+returnOnEquity	-0.12702
+freeCashflow	2042109696
+operatingCashflow	1689254016
+revenueGrowth	-0.227
+grossMargins	0.16410999
+ebitdaMargins	0.010829999
+operatingMargins	0.07121
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    -25342.371704   -65057145.264479    -5961940.242795     -1473400.0
+Tax Rate For Calcs                                                  0.011711           0.046402           0.015241            0.2
+Normalized EBITDA                                                434572000.0      -1876376000.0       -319227000.0   1202597000.0
+Total Unusual Items                                               -2164000.0      -1402021000.0       -391180000.0     -7367000.0
+Total Unusual Items Excluding Goodwill                            -2164000.0      -1402021000.0       -391180000.0     -7367000.0
+Net Income From Continuing Operation Net Minority Interest      -548618000.0      -4357538000.0      -1891502000.0   -129653000.0
+Reconciled Depreciation                                          539891000.0        913515000.0        956388000.0    993185000.0
+Reconciled Cost Of Revenue                                     11299094000.0      15452452000.0      14291492000.0  14044682000.0
+EBITDA                                                           432408000.0      -3278397000.0       -710407000.0   1195230000.0
+EBIT                                                            -107483000.0      -4191912000.0      -1666795000.0    202045000.0
+Net Interest Income                                             -452571000.0       -377026000.0       -268738000.0   -290727000.0
+Interest Expense                                                 456778000.0        384575000.0        272787000.0    304373000.0
+Interest Income                                                    4207000.0          7549000.0          4049000.0     13646000.0
+Normalized Income                                          -546479342.371704 -3020574145.264479 -1506283940.242795   -123759400.0
+Net Income From Continuing And Discontinued Operation           -548618000.0      -4357538000.0      -1891502000.0   -129653000.0
+Total Expenses                                                 13720887000.0      18328745000.0      17254976000.0  16848109000.0
+Diluted Average Shares                                                   NaN        818915000.0        818915000.0    817799000.0
+Basic Average Shares                                                     NaN        818915000.0        818915000.0    817799000.0
+Diluted EPS                                                              NaN              -5.32              -2.31          -0.16
+Basic EPS                                                                NaN              -5.32              -2.31          -0.16
+Diluted NI Availto Com Stockholders                             -548618000.0      -4357538000.0      -1891502000.0   -129653000.0
+Net Income Common Stockholders                                  -548618000.0      -4357538000.0      -1891502000.0   -129653000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0            0.0
+Net Income                                                      -548618000.0      -4357538000.0      -1891502000.0   -129653000.0
+Minority Interests                                                 9035000.0          6589000.0         18519000.0    -16818000.0
+Net Income Including Noncontrolling Interests                   -557653000.0      -4364127000.0      -1910021000.0   -112835000.0
+Net Income Continuous Operations                                -557653000.0      -4364127000.0      -1910021000.0   -112835000.0
+Tax Provision                                                     -6608000.0       -212360000.0        -29561000.0     10507000.0
+Pretax Income                                                   -564261000.0      -4576487000.0      -1939582000.0   -102328000.0
+Other Non Operating Income Expenses                              100855000.0      -1757703000.0       -513471000.0    -45185000.0
+Special Income Charges                                            -2164000.0      -1402021000.0       -391180000.0     -7367000.0
+Write Off                                                          2164000.0       1402021000.0        391180000.0      7367000.0
+Restructuring And Mergern Acquisition                                    NaN                NaN                NaN            0.0
+Net Non Operating Interest Income Expense                       -452571000.0       -377026000.0       -268738000.0   -290727000.0
+Interest Expense Non Operating                                   456778000.0        384575000.0        272787000.0    304373000.0
+Interest Income Non Operating                                      4207000.0          7549000.0          4049000.0     13646000.0
+Operating Income                                                -203471000.0      -1039737000.0       -767726000.0    229723000.0
+Operating Expense                                               2421793000.0       2876293000.0       2963484000.0   2803427000.0
+Research And Development                                                 0.0          5793000.0          7871000.0     10371000.0
+Selling General And Administration                              2421793000.0       2870500000.0       2955613000.0   2793056000.0
+Selling And Marketing Expense                                    953880000.0       1329940000.0       1365736000.0   1242003000.0
+General And Administrative Expense                              1467913000.0       1540560000.0       1589877000.0   1551053000.0
+Gross Profit                                                    2218322000.0       1836556000.0       2195758000.0   3033150000.0
+Cost Of Revenue                                                11299094000.0      15452452000.0      14291492000.0  14044682000.0
+Total Revenue                                                  13517416000.0      17289008000.0      16487250000.0  17077832000.0
+Operating Revenue                                              13517416000.0      17289008000.0      16487250000.0  17077832000.0

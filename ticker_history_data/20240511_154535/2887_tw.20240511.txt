@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	No.118, Ren-ai Road
+address2	12, 13, 15, 16, 21-23 Floors Section 4 Da-an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2326 8888
+website	https://www.taishinholdings.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Taishin Financial Holding Co., Ltd., together with its subsidiaries, provides various financial products and services in Taiwan and internationally. The company offers wealth management services to individuals, households, business owners, and micro-businesses; consumer loans, auto and personal loan, lien mortgage, micro corporate loans, and credit cards to individuals, as well as payment processing services for merchants; digital banking services; wholesale banking services for multinationals, corporations, government agencies, and financial institutions; and financial market and trust services. It also provides securities underwriting, brokerage, margin lending, and security transfer services, as well as deals in futures; and property and life insurance brokerage services. In addition, the company engages in the acquisition, evaluation, auction, and management of delinquent loans; lease, wholesale, and retail sale of machinery, precision machinery, motor vehicles, aircrafts, and vessels and components; and financial leasing and investment start-up activities. Further, it accepts mandates from customers, provides analytical opinions or recommendations on securities investment, acts as an agent for investment consultancy of offshore funds, and issues publications or holds lectures about securities investment and other related business. Additionally, the company offers securities investment trust funds; issues beneficial interest certificates; e-banking and ATM services; and invests and trades in securities, securities-related products, and other items. Taishin Financial Holding Co., Ltd. was founded in 1992 and is based in Taipei, Taiwan.
+fullTimeEmployees	11132
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Welch  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carol  Lai', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Chien', 'title': 'Chief Investment Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christy  Shyy', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda  Chen', 'title': 'Vice President for Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Andy  Chang', 'title': 'Senior VP and Head of HR & Corporate Planning Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Chang', 'title': 'Senior VP & Head of the Secretariat Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lu-June  Jai', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent  Tsai', 'title': 'Senior VP & Head of the Performance Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yun-Nien  Chen', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.5
+open	18.55
+dayLow	18.5
+dayHigh	18.8
+regularMarketPreviousClose	18.5
+regularMarketOpen	18.55
+regularMarketDayLow	18.5
+regularMarketDayHigh	18.8
+dividendRate	0.51
+dividendYield	0.0271
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.505
+fiveYearAvgDividendYield	3.54
+beta	0.586
+trailingPE	18.613861
+forwardPE	14.461538
+volume	20072930
+regularMarketVolume	20072930
+averageVolume	17415388
+averageVolume10days	25328273
+averageDailyVolume10Day	25328273
+bid	18.75
+ask	18.8
+marketCap	234569465856
+fiftyTwoWeekLow	17.0
+fiftyTwoWeekHigh	18.85
+priceToSalesTrailing12Months	4.6337056
+fiftyDayAverage	17.91
+twoHundredDayAverage	17.79875
+currency	TWD
+enterpriseValue	468359741440
+profitMargins	0.28844
+floatShares	10996908135
+sharesOutstanding	12477100032
+heldPercentInsiders	0.107980005
+heldPercentInstitutions	0.16660999
+impliedSharesOutstanding	12543800320
+bookValue	16.473
+priceToBook	1.1412615
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.621
+netIncomeToCommon	12647941120
+trailingEps	1.01
+forwardEps	1.3
+pegRatio	3.66
+lastSplitFactor	1042:1000
+lastSplitDate	1690329600	 (2023-07-26 08:00:00)
+enterpriseToRevenue	9.252
+52WeekChange	0.079316854
+SandP52WeekChange	0.26265144
+lastDividendValue	0.51
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2887.TW
+underlyingSymbol	2887.TW
+shortName	TAISHIN FINANCIAL HLDGS CO LTD
+longName	Taishin Financial Holding Co., Ltd.
+firstTradeDateEpochUtc	1014080400	 (2002-02-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	34e0d4f5-ec20-3abe-bdec-eef22d56e1ac
+messageBoardId	finmb_9104587
+gmtOffSetMilliseconds	28800000
+currentPrice	18.8
+targetHighPrice	19.5
+targetLowPrice	16.0
+targetMeanPrice	18.0
+targetMedianPrice	18.5
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	3
+totalCash	151195238400
+totalCashPerShare	12.118
+totalDebt	373958967296
+totalRevenue	50622435328
+revenuePerShare	4.057
+returnOnAssets	0.00504
+returnOnEquity	0.06963
+operatingCashflow	-197212880896
+earningsGrowth	-0.673
+revenueGrowth	-0.189
+operatingMargins	0.24844
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                     -999618.548164       -3174657.2606     -5005655.439025     -1419449.133863
+Tax Rate For Calcs                                                    0.175989            0.158274            0.123374            0.118209
+Total Unusual Items                                                 -5680000.0         -20058000.0         -40573000.0         -12008000.0
+Total Unusual Items Excluding Goodwill                              -5680000.0         -20058000.0         -40573000.0         -12008000.0
+Net Income From Continuing Operation Net Minority Interest       14601692000.0       14863852000.0       20311808000.0       14493422000.0
+Reconciled Depreciation                                           2694302000.0        2628113000.0        2388548000.0        2201303000.0
+Net Interest Income                                              30327889000.0       29222558000.0       24360390000.0       21659114000.0
+Interest Expense                                                 43768839000.0       17169228000.0        8277015000.0       12243036000.0
+Interest Income                                                  74096728000.0       46391786000.0       32637405000.0       33902150000.0
+Normalized Income                                           14606372381.451836  14880735342.739401  20347375344.560974  14504010550.866137
+Net Income From Continuing And Discontinued Operation            14601692000.0       14863852000.0       20311808000.0       14493422000.0
+Diluted Average Shares                                           12477156000.0       12477174000.0       12477126820.0       12471675775.0
+Basic Average Shares                                             12477062000.0       12477062000.0       12476999696.0       12471352075.0
+Diluted EPS                                                               1.01                1.04            1.487524             1.02416
+Basic EPS                                                                 1.01                1.04            1.487524             1.02416
+Diluted NI Availto Com Stockholders                              14601692000.0       14863852000.0       20311808000.0       14493422000.0
+Net Income Common Stockholders                                   14601692000.0       14863852000.0       20311808000.0       14493422000.0
+Net Income                                                       14601692000.0       14863852000.0       20311808000.0       14493422000.0
+Minority Interests                                                  -2185000.0           7959000.0          13095000.0           4595000.0
+Net Income Including Noncontrolling Interests                    14603877000.0       14855893000.0       20298713000.0       14488827000.0
+Net Income Continuous Operations                                 14603877000.0       14855893000.0       20298713000.0       14488827000.0
+Tax Provision                                                     3119042000.0        2793426000.0        2856788000.0        1942301000.0
+Pretax Income                                                    17722919000.0       17649319000.0       23155501000.0       16431128000.0
+Special Income Charges                                              -5680000.0         -20058000.0         -40573000.0         -12008000.0
+Write Off                                                            5680000.0          20058000.0          40573000.0          12008000.0
+Gain On Sale Of Security                                         10254582000.0        4572152000.0        6967018000.0        5383184000.0
+Operating Expense                                                50426329000.0       47247930000.0       30835071000.0       25852998000.0
+Other Operating Expenses                                         17526812000.0       18048324000.0        2534939000.0                 0.0
+Depreciation And Amortization In Income Statement                 2694302000.0        2628113000.0        2388548000.0        2201303000.0
+Depreciation Income Statement                                     2694302000.0        2628113000.0        2388548000.0        2201303000.0
+Selling General And Administration                               12026278000.0       10428339000.0        9709290000.0        9184095000.0
+General And Administrative Expense                               12026278000.0       10428339000.0        9709290000.0        9184095000.0
+Total Revenue                                                    69889538000.0       66456215000.0       58124542000.0       42541842000.0
+Operating Revenue                                                69889538000.0       66456215000.0       58124542000.0       42541842000.0

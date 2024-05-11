@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 35, Guangfu North Road
+address2	Floors 1, 2, 4, 5 and 13 Lane 11 Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2768 4999
+fax	886 2 2768 7522
+website	https://www.taipeigas.com.tw
+industry	Utilities - Regulated Gas
+industryKey	utilities-regulated-gas
+industryDisp	Utilities - Regulated Gas
+sector	Utilities
+sectorKey	utilities
+sectorDisp	Utilities
+longBusinessSummary	The Great Taipei Gas Corporation supplies natural gas in Taiwan. The company manufactures and supplies gas and related equipment, such as gauge and meter, water boiler, gas stove, and cloth dryers. It also engages in the telecommunication business and rental of office buildings. The company was founded in 1964 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Shan  Zhou', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 3083000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zheng-Hua  Zhang', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 2978000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Te Hsin  Wu', 'title': 'Financial & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	32.45
+open	32.35
+dayLow	32.35
+dayHigh	32.45
+regularMarketPreviousClose	32.45
+regularMarketOpen	32.35
+regularMarketDayLow	32.35
+regularMarketDayHigh	32.45
+dividendRate	1.1
+dividendYield	0.034
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.47619998
+fiveYearAvgDividendYield	3.44
+beta	0.216
+trailingPE	14.025975
+volume	126790
+regularMarketVolume	126790
+averageVolume	131771
+averageVolume10days	112938
+averageDailyVolume10Day	112938
+bid	32.4
+ask	32.45
+marketCap	16228026368
+fiftyTwoWeekLow	31.7
+fiftyTwoWeekHigh	33.75
+priceToSalesTrailing12Months	4.678257
+fiftyDayAverage	32.412
+twoHundredDayAverage	32.6375
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.03697997
+currency	TWD
+enterpriseValue	11260228608
+profitMargins	0.33438
+floatShares	307771463
+sharesOutstanding	500864992
+heldPercentInsiders	0.33507
+heldPercentInstitutions	0.07609
+impliedSharesOutstanding	503187008
+bookValue	26.628
+priceToBook	1.2167643
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.321
+netIncomeToCommon	1159897984
+trailingEps	2.31
+lastSplitFactor	101.819:100
+lastSplitDate	995414400	 (2001-07-18 08:00:00)
+enterpriseToRevenue	3.246
+enterpriseToEbitda	10.843
+52WeekChange	0.01726842
+SandP52WeekChange	0.26265144
+lastDividendValue	1.1
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9908.TW
+underlyingSymbol	9908.TW
+shortName	THE GREAT TAIPEI GAS
+longName	The Great Taipei Gas Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	18448bfd-6a83-30ca-9f13-57a0c4e25ec6
+messageBoardId	finmb_9768789
+gmtOffSetMilliseconds	28800000
+currentPrice	32.4
+recommendationKey	none
+totalCash	6332084224
+totalCashPerShare	12.642
+ebitda	1038433984
+totalDebt	8397000
+quickRatio	3.208
+currentRatio	3.313
+totalRevenue	3468818944
+debtToEquity	0.057
+revenuePerShare	6.926
+returnOnAssets	0.020599999
+returnOnEquity	0.08599
+freeCashflow	408527360
+operatingCashflow	1288433024
+earningsGrowth	0.316
+revenueGrowth	0.118
+grossMargins	0.25726
+ebitdaMargins	0.29936
+operatingMargins	0.17761
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  32053100.498396  -12193728.166166   13297215.288169    2887327.622622
+Tax Rate For Calcs                                                  0.111133          0.136212          0.125174          0.138794
+Normalized EBITDA                                               1481098000.0      1427764000.0      1306558000.0      1320823000.0
+Total Unusual Items                                              288422000.0       -89520000.0       106230000.0        20803000.0
+Total Unusual Items Excluding Goodwill                           288422000.0       -89520000.0       106230000.0        20803000.0
+Net Income From Continuing Operation Net Minority Interest      1159898000.0       775189000.0       875296000.0       823646000.0
+Reconciled Depreciation                                          400949000.0       376195000.0       353571000.0       333692000.0
+Reconciled Cost Of Revenue                                      2576434000.0      2455414000.0      2338182000.0      2664272000.0
+EBITDA                                                          1769520000.0      1338244000.0      1412788000.0      1341626000.0
+EBIT                                                            1368571000.0       962049000.0      1059217000.0      1007934000.0
+Net Interest Income                                               38619000.0        16645000.0         7981000.0        12366000.0
+Interest Expense                                                   1385000.0          697000.0          673000.0          879000.0
+Interest Income                                                   40004000.0        17342000.0         8654000.0        13245000.0
+Normalized Income                                           903529100.498396  852515271.833834  782363215.288169  805730327.622622
+Net Income From Continuing And Discontinued Operation           1159898000.0       775189000.0       875296000.0       823646000.0
+Total Expenses                                                  2829546000.0      2719236000.0      2602770000.0      2936980000.0
+Diluted Average Shares                                                   NaN       501625000.0       501823000.0       501729000.0
+Basic Average Shares                                                     NaN       500865000.0       500865000.0       500865000.0
+Diluted EPS                                                              NaN              1.55              1.75              1.64
+Basic EPS                                                                NaN              1.55              1.75              1.64
+Diluted NI Availto Com Stockholders                             1159898000.0       775189000.0       875296000.0       823646000.0
+Net Income Common Stockholders                                  1159898000.0       775189000.0       875296000.0       823646000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                      1159898000.0       775189000.0       875296000.0       823646000.0
+Minority Interests                                               -55349000.0       -55215000.0       -50746000.0       -43636000.0
+Net Income Including Noncontrolling Interests                   1215247000.0       830404000.0       926042000.0       867282000.0
+Net Income Continuous Operations                                1215247000.0       830404000.0       926042000.0       867282000.0
+Tax Provision                                                    151939000.0       130948000.0       132502000.0       139773000.0
+Pretax Income                                                   1367186000.0       961352000.0      1058544000.0      1007055000.0
+Other Non Operating Income Expenses                               14173000.0        16391000.0        17202000.0         9385000.0
+Special Income Charges                                              -27000.0         -225000.0         -220000.0          719000.0
+Write Off                                                            27000.0          225000.0          220000.0         -719000.0
+Net Non Operating Interest Income Expense                         38619000.0        16645000.0         7981000.0        12366000.0
+Interest Expense Non Operating                                     1385000.0          697000.0          673000.0          879000.0
+Interest Income Non Operating                                     40004000.0        17342000.0         8654000.0        13245000.0
+Operating Income                                                 639273000.0       599574000.0       563103000.0       605644000.0
+Operating Expense                                                253112000.0       263822000.0       264588000.0       272708000.0
+Other Operating Expenses                                           4246000.0         8877000.0         6793000.0        10473000.0
+Selling General And Administration                               248866000.0       254945000.0       257795000.0       262235000.0
+Selling And Marketing Expense                                     38774000.0        45873000.0        43610000.0        48662000.0
+General And Administrative Expense                               210092000.0       209072000.0       214185000.0       213573000.0
+Gross Profit                                                     892385000.0       863396000.0       827691000.0       878352000.0
+Cost Of Revenue                                                 2576434000.0      2455414000.0      2338182000.0      2664272000.0
+Total Revenue                                                   3468819000.0      3318810000.0      3165873000.0      3542624000.0
+Operating Revenue                                               3468819000.0      3318810000.0      3165873000.0      3542624000.0

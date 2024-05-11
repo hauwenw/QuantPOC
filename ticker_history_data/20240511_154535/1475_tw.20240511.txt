@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	10F-4, No.146, Wenyu, Road
+address2	Guishan District
+city	Taoyuan City
+country	Taiwan
+phone	886 3 275 6558
+website	https://www.sumagh.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Big Sun Shine CO., LTD. provides home textiles in Taiwan. The company engages in weaving of textiles, as well as cloth dyeing activities. It also manufactures electronics products, pigments, and industrial additivities; and holds a parcel of land, as well as operates real estate buildings. The company was formerly known as Sumagh High Tech Corporation and changed its name to Big Sun Shine CO., LTD. in September 2020. Big Sun Shine CO., LTD. was founded in 1982 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Zhao Sheng Zheng', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	59.1
+open	59.2
+dayLow	58.8
+dayHigh	60.3
+regularMarketPreviousClose	59.1
+regularMarketOpen	59.2
+regularMarketDayLow	58.8
+regularMarketDayHigh	60.3
+dividendRate	0.5
+dividendYield	0.0085
+exDividendDate	1692576000	 (2023-08-21 08:00:00)
+payoutRatio	0.118999995
+beta	1.023
+trailingPE	14.0
+volume	338190
+regularMarketVolume	338190
+averageVolume	162752
+averageVolume10days	284598
+averageDailyVolume10Day	284598
+bid	58.8
+ask	59.0
+marketCap	3881799424
+fiftyTwoWeekLow	35.05
+fiftyTwoWeekHigh	61.0
+priceToSalesTrailing12Months	3.0180326
+fiftyDayAverage	52.155
+twoHundredDayAverage	50.16275
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.033840947
+currency	TWD
+enterpriseValue	2784586752
+profitMargins	0.21604
+sharesOutstanding	66017000
+heldPercentInsiders	0.76718
+impliedSharesOutstanding	66249500
+bookValue	19.12
+priceToBook	3.0753136
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.254
+netIncomeToCommon	277873984
+trailingEps	4.2
+lastSplitFactor	0.6:1
+lastSplitDate	1321488000	 (2011-11-17 08:00:00)
+enterpriseToRevenue	2.165
+enterpriseToEbitda	10.751
+52WeekChange	0.049999952
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1692576000	 (2023-08-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1475.TW
+underlyingSymbol	1475.TW
+shortName	BIG SUNSHINE CO LTD
+longName	Big Sun Shine CO., LTD.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9e7b2747-1b15-3877-8a18-499267c61d5c
+messageBoardId	finmb_9845267
+gmtOffSetMilliseconds	28800000
+currentPrice	58.8
+recommendationKey	none
+totalCash	1097197952
+totalCashPerShare	16.62
+ebitda	259010000
+quickRatio	4.407
+currentRatio	4.564
+totalRevenue	1286201984
+revenuePerShare	36.574
+returnOnAssets	0.11169
+returnOnEquity	0.24465999
+freeCashflow	211063632
+operatingCashflow	318102016
+earningsGrowth	0.244
+revenueGrowth	0.016
+grossMargins	0.23296
+ebitdaMargins	0.20138
+operatingMargins	0.24572
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31   2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                    -84893.917527    -5148000.0          0.0   -15855.150215
+Tax Rate For Calcs                                                  0.026629           0.2     0.000158        0.007511
+Normalized EBITDA                                                288953000.0   330412000.0   83472000.0       6665000.0
+Total Unusual Items                                               -3188000.0   -25740000.0          0.0      -2111000.0
+Total Unusual Items Excluding Goodwill                            -3188000.0   -25740000.0          0.0      -2111000.0
+Net Income From Continuing Operation Net Minority Interest       277874000.0   307487000.0   82326000.0       3679000.0
+Reconciled Depreciation                                             271000.0      254000.0    1130000.0        789000.0
+Reconciled Cost Of Revenue                                       986564000.0   896416000.0  368820000.0     136599000.0
+EBITDA                                                           285765000.0   304672000.0   83472000.0       4554000.0
+EBIT                                                             285494000.0   304418000.0   82342000.0       3765000.0
+Net Interest Income                                               27529000.0     5604000.0     813000.0        323000.0
+Interest Expense                                                     18000.0       43000.0       3000.0         37000.0
+Interest Income                                                   27547000.0     5647000.0     816000.0        360000.0
+Normalized Income                                           280977106.082473   328079000.0   82326000.0  5774144.849785
+Net Income From Continuing And Discontinued Operation            277874000.0   307487000.0   82326000.0       3889000.0
+Total Expenses                                                  1024275000.0   935580000.0  397126000.0     151676000.0
+Diluted Average Shares                                                   NaN    66041000.0   62483000.0      59025000.0
+Basic Average Shares                                                     NaN    26017000.0   22483000.0      16877000.0
+Diluted EPS                                                              NaN          4.66         1.32            0.07
+Basic EPS                                                                NaN         11.82         3.66            0.24
+Diluted NI Availto Com Stockholders                              277874000.0   307487000.0   82326000.0       3889000.0
+Net Income Common Stockholders                                   277874000.0   307487000.0   82326000.0       3889000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0          0.0             0.0
+Net Income                                                       277874000.0   307487000.0   82326000.0       3889000.0
+Minority Interests                                                       NaN           NaN          0.0        -21000.0
+Net Income Including Noncontrolling Interests                    277874000.0   307487000.0   82326000.0       3910000.0
+Net Income Discontinuous Operations                                      NaN           NaN          0.0        210000.0
+Net Income Continuous Operations                                 277874000.0   307487000.0   82326000.0       3700000.0
+Tax Provision                                                      7602000.0    -3112000.0      13000.0         28000.0
+Pretax Income                                                    285476000.0   304375000.0   82339000.0       3728000.0
+Other Non Operating Income Expenses                                -792000.0    64347000.0     -14000.0     -10921000.0
+Special Income Charges                                            -3188000.0   -25740000.0          0.0      -2111000.0
+Write Off                                                          3188000.0    25740000.0          0.0       2111000.0
+Net Non Operating Interest Income Expense                         27529000.0     5604000.0     813000.0        323000.0
+Interest Expense Non Operating                                       18000.0       43000.0       3000.0         37000.0
+Interest Income Non Operating                                     27547000.0     5647000.0     816000.0        360000.0
+Operating Income                                                 261927000.0   260164000.0   81540000.0      16437000.0
+Operating Expense                                                 37711000.0    39164000.0   28306000.0      15077000.0
+Research And Development                                                 NaN           NaN          0.0       1305000.0
+Selling General And Administration                                37711000.0    39164000.0   28306000.0      13772000.0
+Selling And Marketing Expense                                     23936000.0    28188000.0   19129000.0       7224000.0
+General And Administrative Expense                                13775000.0    10976000.0    9177000.0       6548000.0
+Gross Profit                                                     299638000.0   299328000.0  109846000.0      31514000.0
+Cost Of Revenue                                                  986564000.0   896416000.0  368820000.0     136599000.0
+Total Revenue                                                   1286202000.0  1195744000.0  478666000.0     168113000.0
+Operating Revenue                                               1286202000.0  1195744000.0  478666000.0     168113000.0

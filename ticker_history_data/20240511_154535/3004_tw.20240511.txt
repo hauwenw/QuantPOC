@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 1, Taiping East Road
+address2	Pingzhen District
+city	Taoyuan City
+zip	32466
+country	Taiwan
+phone	886 3 450 8868
+website	https://www.nafco.com.tw
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	National Aerospace Fasteners Corporation designs, develops, manufactures, and sells fastener products for the aerospace, electronics, and high-end industrial sectors in Taiwan and internationally. The company offers aero products, including bolts; nuts, such as hex nuts, 10 PT nuts, double hex nuts, spline nuts kits, shank nuts, gang channels, and anchor nuts; CNC products comprising tubes, stampings, links, latches, and fittings; and other products consisting of adapters, brackets, bushings, clamps, flanges, guides, housings, inertial dampers, pins, fixing plates, retainers, seals, sleeves, spacers, weights, etc. It also provides rivet studs, brass inserts, machining and customized parts, and high-temperature nuts for automotive applications. The company was incorporated in 1997 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Qiu Zhi Ke', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	109.0
+open	110.5
+dayLow	107.0
+dayHigh	110.5
+regularMarketPreviousClose	109.0
+regularMarketOpen	110.5
+regularMarketDayLow	107.0
+regularMarketDayHigh	110.5
+dividendRate	2.48
+dividendYield	0.0228
+exDividendDate	1710979200	 (2024-03-21 08:00:00)
+payoutRatio	0.3955
+fiveYearAvgDividendYield	2.82
+trailingPE	17.356688
+volume	185909
+regularMarketVolume	185909
+averageVolume	912109
+averageVolume10days	578972
+averageDailyVolume10Day	578972
+bid	109.0
+ask	109.5
+marketCap	5811247616
+fiftyTwoWeekLow	80.9
+fiftyTwoWeekHigh	121.5
+priceToSalesTrailing12Months	1.810806
+fiftyDayAverage	106.294
+twoHundredDayAverage	97.313
+trailingAnnualDividendRate	2.484
+trailingAnnualDividendYield	0.02278899
+currency	TWD
+enterpriseValue	7649458688
+profitMargins	0.10743
+floatShares	29615177
+sharesOutstanding	53314200
+heldPercentInsiders	0.49109
+heldPercentInstitutions	0.07397
+impliedSharesOutstanding	54083200
+bookValue	43.406
+priceToBook	2.5111737
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.555
+netIncomeToCommon	344769984
+trailingEps	6.28
+lastSplitFactor	0.1:1
+lastSplitDate	1220918400	 (2008-09-09 08:00:00)
+enterpriseToRevenue	2.384
+enterpriseToEbitda	12.495
+52WeekChange	0.14616191
+SandP52WeekChange	0.26265144
+lastDividendValue	2.483631
+lastDividendDate	1710979200	 (2024-03-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3004.TW
+underlyingSymbol	3004.TW
+shortName	NATIONAL AEROSPACE FASTENERS CO
+longName	National Aerospace Fasteners Corporation
+firstTradeDateEpochUtc	1014685200	 (2002-02-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	731f6d67-4d59-3243-9250-6fea61a415b7
+messageBoardId	finmb_2482648
+gmtOffSetMilliseconds	28800000
+currentPrice	109.0
+recommendationKey	none
+totalCash	273505984
+totalCashPerShare	5.045
+ebitda	612196992
+totalDebt	2013916032
+quickRatio	0.578
+currentRatio	1.422
+totalRevenue	3209204992
+debtToEquity	85.586
+revenuePerShare	59.806
+returnOnAssets	0.04621
+returnOnEquity	0.15956001
+freeCashflow	-443909504
+operatingCashflow	198283008
+earningsGrowth	0.492
+revenueGrowth	0.199
+grossMargins	0.26766002
+ebitdaMargins	0.19076
+operatingMargins	0.14561
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -234812.383716      173200.0     45754.633716           0.0
+Tax Rate For Calcs                                                  0.134179           0.2         0.081998           0.2
+Normalized EBITDA                                                630384000.0   409039000.0      183898000.0   356050000.0
+Total Unusual Items                                               -1750000.0      866000.0         558000.0           0.0
+Total Unusual Items Excluding Goodwill                            -1750000.0      866000.0         558000.0           0.0
+Net Income From Continuing Operation Net Minority Interest       307603000.0   149975000.0      -96729000.0    59832000.0
+Reconciled Depreciation                                          240518000.0   238540000.0      265720000.0   278679000.0
+Reconciled Cost Of Revenue                                      2258080000.0  1681287000.0     1260117000.0  1378064000.0
+EBITDA                                                           628634000.0   409905000.0      184456000.0   356050000.0
+EBIT                                                             388116000.0   171365000.0      -81264000.0    77371000.0
+Net Interest Income                                              -31795000.0   -26065000.0      -23997000.0   -26176000.0
+Interest Expense                                                  32843000.0    26311000.0       24105000.0    26305000.0
+Interest Income                                                    1048000.0      246000.0         108000.0      129000.0
+Normalized Income                                           309118187.616284   149282200.0 -97241245.366284    59832000.0
+Net Income From Continuing And Discontinued Operation            307603000.0   149975000.0      -96729000.0    59832000.0
+Total Expenses                                                  2725465000.0  2066939000.0     1543936000.0  1670386000.0
+Diluted Average Shares                                            54322000.0    52682000.0       52647000.0    52688000.0
+Basic Average Shares                                              53280000.0    52647000.0       52647000.0    52647000.0
+Diluted EPS                                                             5.66          2.85            -1.84          1.14
+Basic EPS                                                               5.77          2.85            -1.84          1.14
+Diluted NI Availto Com Stockholders                              307603000.0   149975000.0      -96729000.0    59832000.0
+Net Income Common Stockholders                                   307603000.0   149975000.0      -96729000.0    59832000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0              0.0           0.0
+Net Income                                                       307603000.0   149975000.0      -96729000.0    59832000.0
+Minority Interests                                                       0.0           0.0              0.0           0.0
+Net Income Including Noncontrolling Interests                    307603000.0   149975000.0      -96729000.0    59832000.0
+Net Income Continuous Operations                                 307603000.0   149975000.0      -96729000.0    59832000.0
+Tax Provision                                                     47670000.0    -4921000.0       -8640000.0    -8766000.0
+Pretax Income                                                    355273000.0   145054000.0     -105369000.0    51066000.0
+Other Non Operating Income Expenses                               43659000.0    44271000.0       35801000.0    43597000.0
+Special Income Charges                                            -1750000.0      866000.0         558000.0           0.0
+Write Off                                                          1750000.0     -866000.0        -558000.0           0.0
+Net Non Operating Interest Income Expense                        -31795000.0   -26065000.0      -23997000.0   -26176000.0
+Interest Expense Non Operating                                    32843000.0    26311000.0       24105000.0    26305000.0
+Interest Income Non Operating                                      1048000.0      246000.0         108000.0      129000.0
+Operating Income                                                 345159000.0   125982000.0     -117731000.0    33645000.0
+Operating Expense                                                467385000.0   385652000.0      283819000.0   292322000.0
+Research And Development                                         132850000.0   118191000.0       83053000.0    74912000.0
+Selling General And Administration                               334535000.0   267461000.0      200766000.0   217410000.0
+Selling And Marketing Expense                                     76999000.0    60160000.0       40314000.0    40927000.0
+General And Administrative Expense                               257536000.0   207301000.0      160452000.0   176483000.0
+Gross Profit                                                     812544000.0   511634000.0      166088000.0   325967000.0
+Cost Of Revenue                                                 2258080000.0  1681287000.0     1260117000.0  1378064000.0
+Total Revenue                                                   3070624000.0  2192921000.0     1426205000.0  1704031000.0
+Operating Revenue                                               3070624000.0  2192921000.0     1426205000.0  1704031000.0

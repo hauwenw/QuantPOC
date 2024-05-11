@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No. 32, Bade Road
+address2	15th Floor Section 3 Songshan District
+city	Taipei
+zip	10559
+country	Taiwan
+phone	886 2 2578 7775
+fax	886 2 2578 7771
+website	https://www.lhsat.com
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lung Hwa Electronics Co., Ltd. provides maritime SAT communication network, CCTV IoT, and cyber security solutions in Taiwan and internationally. The company offers maritime networking architect products; maritime antennas; and L-band iridium maritime antennas, as well as VHSAT flat portable terminals for emergency services, disaster recovery, military, security, government, and enterprise communication applications. It serves general cargo, oil carrier and cargo, fishery, and Ro-Ro passenger vessels and yachts, and oil and gas platforms. The company was founded in 1962 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yalin  Wang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kevin  Chen', 'title': 'Principal Accounting Officer & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	28.0
+open	28.0
+dayLow	27.55
+dayHigh	28.35
+regularMarketPreviousClose	28.0
+regularMarketOpen	28.0
+regularMarketDayLow	27.55
+regularMarketDayHigh	28.35
+beta	0.463
+volume	17312
+regularMarketVolume	17312
+averageVolume	25190
+averageVolume10days	11074
+averageDailyVolume10Day	11074
+bid	28.0
+ask	28.2
+marketCap	1491699968
+fiftyTwoWeekLow	26.55
+fiftyTwoWeekHigh	56.9
+priceToSalesTrailing12Months	13.984119
+fiftyDayAverage	29.276
+twoHundredDayAverage	31.684
+currency	TWD
+enterpriseValue	1643175040
+profitMargins	-1.82393
+sharesOutstanding	53275000
+heldPercentInsiders	0.78936
+impliedSharesOutstanding	53556900
+bookValue	5.241
+priceToBook	5.3424916
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-194560000
+trailingEps	-3.95
+lastSplitFactor	600:1000
+lastSplitDate	1607558400	 (2020-12-10 08:00:00)
+enterpriseToRevenue	15.404
+enterpriseToEbitda	-9.833
+52WeekChange	-0.0053285956
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	2424.TW
+underlyingSymbol	2424.TW
+shortName	LUNG HWA ELECTRONICS CO
+longName	Lung Hwa Electronics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2aa295a2-5c1a-32df-95d0-342e70af3e22
+messageBoardId	finmb_9830136
+gmtOffSetMilliseconds	28800000
+currentPrice	28.0
+recommendationKey	none
+totalCash	176847008
+totalCashPerShare	3.32
+ebitda	-167111008
+totalDebt	315699008
+quickRatio	0.908
+currentRatio	1.281
+totalRevenue	106671000
+debtToEquity	108.174
+revenuePerShare	2.168
+returnOnAssets	-0.19378
+returnOnEquity	-0.67873
+freeCashflow	-60593124
+operatingCashflow	-121712000
+revenueGrowth	0.592
+grossMargins	-0.5778
+ebitdaMargins	-1.5666001
+operatingMargins	-1.10524
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                                  0.0          0.0          0.0          0.0
+Normalized EBITDA                                           -91533000.0  -66650000.0 -104766000.0  -51369000.0
+Total Unusual Items                                                 NaN          0.0    -481000.0          0.0
+Total Unusual Items Excluding Goodwill                              NaN          0.0    -481000.0          0.0
+Net Income From Continuing Operation Net Minority Interest -194560000.0 -170041000.0 -223394000.0 -171247000.0
+Reconciled Depreciation                                      94160000.0   95818000.0  109980000.0  112503000.0
+Reconciled Cost Of Revenue                                  168306000.0  153966000.0  138858000.0  130474000.0
+EBITDA                                                      -91533000.0  -66650000.0 -105247000.0  -51369000.0
+EBIT                                                       -185693000.0 -162468000.0 -215227000.0 -163872000.0
+Net Interest Income                                         -11346000.0   -8285000.0   -8452000.0   -7757000.0
+Interest Expense                                             13249000.0    8454000.0    8499000.0    7919000.0
+Interest Income                                               1903000.0     169000.0      47000.0     162000.0
+Normalized Income                                          -194560000.0 -170041000.0 -222913000.0 -171247000.0
+Net Income From Continuing And Discontinued Operation      -194560000.0 -170041000.0 -223394000.0 -140960000.0
+Total Expenses                                              295491000.0  244922000.0  235693000.0  199419000.0
+Diluted Average Shares                                              NaN   36929000.0   26062000.0   18230000.0
+Basic Average Shares                                                NaN   36929000.0   26062000.0   18230000.0
+Diluted EPS                                                         NaN         -4.6        -8.57        -7.73
+Basic EPS                                                           NaN         -4.6        -8.57        -7.73
+Diluted NI Availto Com Stockholders                        -194560000.0 -170041000.0 -223394000.0 -140960000.0
+Net Income Common Stockholders                             -194560000.0 -170041000.0 -223394000.0 -140960000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                 -194560000.0 -170041000.0 -223394000.0 -140960000.0
+Minority Interests                                            4382000.0     881000.0     332000.0     544000.0
+Net Income Including Noncontrolling Interests              -198942000.0 -170922000.0 -223726000.0 -141504000.0
+Net Income Discontinuous Operations                                 NaN          NaN          0.0   30287000.0
+Net Income Continuous Operations                           -198942000.0 -170922000.0 -223726000.0 -171791000.0
+Tax Provision                                                       0.0          0.0          0.0          0.0
+Pretax Income                                              -198942000.0 -170922000.0 -223726000.0 -171791000.0
+Other Non Operating Income Expenses                           1224000.0    2857000.0    7792000.0   17407000.0
+Special Income Charges                                              NaN          0.0    -481000.0          0.0
+Write Off                                                           NaN          0.0     481000.0          0.0
+Net Non Operating Interest Income Expense                   -11346000.0   -8285000.0   -8452000.0   -7757000.0
+Interest Expense Non Operating                               13249000.0    8454000.0    8499000.0    7919000.0
+Interest Income Non Operating                                 1903000.0     169000.0      47000.0     162000.0
+Operating Income                                           -188820000.0 -165494000.0 -222585000.0 -181441000.0
+Operating Expense                                           127185000.0   90956000.0   96835000.0   68945000.0
+Research And Development                                     30172000.0   18182000.0   36153000.0   20356000.0
+Selling General And Administration                           97013000.0   72774000.0   60682000.0   48589000.0
+Selling And Marketing Expense                                43370000.0   29931000.0   26421000.0   20927000.0
+General And Administrative Expense                           53643000.0   42843000.0   34261000.0   27662000.0
+Gross Profit                                                -61635000.0  -74538000.0 -125750000.0 -112496000.0
+Cost Of Revenue                                             168306000.0  153966000.0  138858000.0  130474000.0
+Total Revenue                                               106671000.0   79428000.0   13108000.0   17978000.0
+Operating Revenue                                           106671000.0   79428000.0   13108000.0   17978000.0

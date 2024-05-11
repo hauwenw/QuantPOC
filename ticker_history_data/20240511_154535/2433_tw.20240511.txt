@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.2, Section 5, Xinyi Road
+address2	12th Floor Xinyi District
+city	Taipei
+country	Taiwan
+phone	886 2 2345 8009
+fax	886 2 2528 7979
+website	https://www.eosasc.com.tw
+industry	Business Equipment & Supplies
+industryKey	business-equipment-supplies
+industryDisp	Business Equipment & Supplies
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Huxen Corporation provides office equipment in Taiwan. The company offers photocopiers, multifunctional business machines, laser printers, digital printing machines, large image output machines, speed printers, fast print peripherals, telephone exchange NEC switchboard systems, switch peripheral voicemail recording systems, billing systems, Fortinet firewall, internet goods, and wireless base station switches. It also provides cloud commodity systems; software systems comprising information security management, printing management, process management, and print application systems; and video systems, including commercial projectors, video conferencing systems, video conferencing lens, video conferencing value-added products, cloud video conferencing systems, and electronic whiteboards. In addition, the company engages in machine sales maintenance, and leasing business. The company was founded in 1984 and is based in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	53.2
+open	53.1
+dayLow	53.1
+dayHigh	53.5
+regularMarketPreviousClose	53.2
+regularMarketOpen	53.1
+regularMarketDayLow	53.1
+regularMarketDayHigh	53.5
+dividendRate	3.6
+dividendYield	0.0673
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	1.0619
+fiveYearAvgDividendYield	7.06
+beta	0.271
+trailingPE	15.781711
+volume	27360
+regularMarketVolume	27360
+averageVolume	43844
+averageVolume10days	32665
+averageDailyVolume10Day	32665
+bid	53.4
+ask	53.5
+marketCap	7730535936
+fiftyTwoWeekLow	49.8
+fiftyTwoWeekHigh	54.4
+priceToSalesTrailing12Months	2.6714826
+fiftyDayAverage	52.918
+twoHundredDayAverage	51.875
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.05639098
+currency	TWD
+enterpriseValue	7531056128
+profitMargins	0.16943
+sharesOutstanding	144496000
+heldPercentInsiders	0.79673
+heldPercentInstitutions	0.00463
+impliedSharesOutstanding	145039008
+bookValue	26.54
+priceToBook	2.015825
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.126
+netIncomeToCommon	490288992
+trailingEps	3.39
+lastSplitFactor	100.1:100
+lastSplitDate	1216684800	 (2008-07-22 08:00:00)
+enterpriseToRevenue	2.603
+enterpriseToEbitda	4.817
+52WeekChange	0.009433985
+SandP52WeekChange	0.26265144
+lastDividendValue	3.6
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2433.TW
+underlyingSymbol	2433.TW
+shortName	HUXEN CORPORATION
+longName	Huxen Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	efbaa3e4-fa0b-340b-8ff4-a7c4ced1d795
+messageBoardId	finmb_20333254
+gmtOffSetMilliseconds	28800000
+currentPrice	53.5
+recommendationKey	none
+totalCash	3257914880
+totalCashPerShare	22.547
+ebitda	1563411968
+totalDebt	2365195008
+quickRatio	2.252
+currentRatio	2.39
+totalRevenue	2893724928
+debtToEquity	52.232
+revenuePerShare	20.026
+returnOnAssets	0.035669997
+returnOnEquity	0.11132
+freeCashflow	461968384
+operatingCashflow	1417197056
+earningsGrowth	-0.132
+revenueGrowth	-0.061
+grossMargins	0.34256
+ebitdaMargins	0.54028
+operatingMargins	0.15773
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -973144.325597   -1328328.342624   -1002597.873306   -1263016.582223
+Tax Rate For Calcs                                                  0.165164          0.154511          0.152185          0.158055
+Normalized EBITDA                                               1801170000.0      1929133000.0      1976998000.0      2115676000.0
+Total Unusual Items                                               -5892000.0        -8597000.0        -6588000.0        -7991000.0
+Total Unusual Items Excluding Goodwill                            -5892000.0        -8597000.0        -6588000.0        -7991000.0
+Net Income From Continuing Operation Net Minority Interest       490289000.0       561175000.0       549456000.0       568211000.0
+Reconciled Depreciation                                         1149190000.0      1207048000.0      1288849000.0      1389047000.0
+Reconciled Cost Of Revenue                                      1902465000.0      2162017000.0      2841594000.0      2769558000.0
+EBITDA                                                          1795278000.0      1920536000.0      1970410000.0      2107685000.0
+EBIT                                                             646088000.0       713488000.0       681561000.0       718638000.0
+Net Interest Income                                               -2271000.0        -2274000.0        -6218000.0       -15622000.0
+Interest Expense                                                  34755000.0        23005000.0        13764000.0        16983000.0
+Interest Income                                                   32484000.0        20731000.0         7546000.0         1361000.0
+Normalized Income                                           495207855.674403  568443671.657376  555041402.126694  574938983.417777
+Net Income From Continuing And Discontinued Operation            490289000.0       561175000.0       549456000.0       568211000.0
+Total Expenses                                                  2446959000.0      2711338000.0      3428447000.0      3537538000.0
+Diluted Average Shares                                                   NaN       144649000.0       144712000.0       144645000.0
+Basic Average Shares                                                     NaN       144496000.0       144496000.0       144496000.0
+Diluted EPS                                                              NaN              3.88               3.8              3.93
+Basic EPS                                                                NaN              3.88               3.8              3.93
+Diluted NI Availto Com Stockholders                              490289000.0       561175000.0       549456000.0       568211000.0
+Net Income Common Stockholders                                   490289000.0       561175000.0       549456000.0       568211000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       490289000.0       561175000.0       549456000.0       568211000.0
+Minority Interests                                               -20074000.0       -22621000.0       -16712000.0       -22544000.0
+Net Income Including Noncontrolling Interests                    510363000.0       583796000.0       566168000.0       590755000.0
+Net Income Continuous Operations                                 510363000.0       583796000.0       566168000.0       590755000.0
+Tax Provision                                                    100970000.0       106687000.0       101629000.0       110900000.0
+Pretax Income                                                    611333000.0       690483000.0       667797000.0       701655000.0
+Other Non Operating Income Expenses                              172730000.0       219063000.0       225262000.0       212428000.0
+Special Income Charges                                            -5892000.0        -8597000.0        -6588000.0        -7991000.0
+Write Off                                                          5892000.0         8597000.0         6588000.0         7991000.0
+Net Non Operating Interest Income Expense                         -2271000.0        -2274000.0        -6218000.0       -15622000.0
+Interest Expense Non Operating                                    34755000.0        23005000.0        13764000.0        16983000.0
+Interest Income Non Operating                                     32484000.0        20731000.0         7546000.0         1361000.0
+Operating Income                                                 446766000.0       482291000.0       455341000.0       512840000.0
+Operating Expense                                                544494000.0       549321000.0       586853000.0       767980000.0
+Selling General And Administration                               544494000.0       549321000.0       586853000.0       767980000.0
+Selling And Marketing Expense                                    418817000.0       424979000.0       464387000.0       641163000.0
+General And Administrative Expense                               125677000.0       124342000.0       122466000.0       126817000.0
+Gross Profit                                                     991260000.0      1031612000.0      1042194000.0      1280820000.0
+Cost Of Revenue                                                 1902465000.0      2162017000.0      2841594000.0      2769558000.0
+Total Revenue                                                   2893725000.0      3193629000.0      3883788000.0      4050378000.0
+Operating Revenue                                               2893725000.0      3193629000.0      3883788000.0      4050378000.0

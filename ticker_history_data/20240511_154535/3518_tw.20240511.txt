@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 2, Ln. 108
+address2	Sec. 1, Nanshan Rd. Luzhu Dist.
+city	Taoyuan City
+zip	338
+country	Taiwan
+website	https://www.pttech.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Paragon Technologies Co., Ltd. manufactures and sells vacuum sputtering products in Mainland China and Taiwan. It provides EMI/ESD product solutions. The company offers 3C functional coating used in notebook computers, tablets, AIO, smart PC, automotive computers, and military computers; 3C appearance coating used in mobile phone and tablet back cover, laptop A/C pieces, smart watch bezel, smart home appliance panels, AIO back cover, Mini PC case, game console case and game handle products; and wheel rim appearance sputtering services. It also engages in the wholesale and retail of automobile and locomotive parts and equipment. The company was founded in 1995 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zai Pu  Chen', 'title': 'Chairman & Chief Investment Officer', 'fiscalYear': 2009, 'totalPay': 17320000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mingi  Liu', 'title': 'Chief Financial Officer', 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1262217600
+maxAge	86400
+priceHint	2
+previousClose	26.9
+open	27.6
+dayLow	26.3
+dayHigh	27.6
+regularMarketPreviousClose	26.9
+regularMarketOpen	27.6
+regularMarketDayLow	26.3
+regularMarketDayHigh	27.6
+dividendRate	0.5
+dividendYield	0.0187
+exDividendDate	1688083200	 (2023-06-30 08:00:00)
+payoutRatio	0.94339997
+fiveYearAvgDividendYield	3.1
+beta	1.61
+volume	98056
+regularMarketVolume	98056
+averageVolume	227569
+averageVolume10days	117914
+averageDailyVolume10Day	117914
+bid	26.7
+ask	26.75
+marketCap	2248128768
+fiftyTwoWeekLow	26.0
+fiftyTwoWeekHigh	47.85
+priceToSalesTrailing12Months	5.8763394
+fiftyDayAverage	30.201
+twoHundredDayAverage	34.2815
+currency	TWD
+enterpriseValue	1629656448
+profitMargins	-0.12654
+floatShares	75393238
+sharesOutstanding	84042200
+heldPercentInsiders	0.20286
+heldPercentInstitutions	0.00605
+impliedSharesOutstanding	84042200
+bookValue	14.585
+priceToBook	1.834076
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-48409000
+trailingEps	-0.59
+lastSplitFactor	1.01:1
+lastSplitDate	1377129600	 (2013-08-22 08:00:00)
+enterpriseToRevenue	4.26
+enterpriseToEbitda	-119.205
+52WeekChange	-0.07599312
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1688083200	 (2023-06-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3518.TW
+underlyingSymbol	3518.TW
+shortName	PARAGON TECHNOLOGIES CO. LTD.
+longName	Paragon Technologies Co., Ltd.
+firstTradeDateEpochUtc	1196211600	 (2007-11-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	85629042-447f-3e08-b75c-db9cb56d0fc6
+messageBoardId	finmb_30995256
+gmtOffSetMilliseconds	28800000
+currentPrice	26.75
+recommendationKey	none
+totalCash	858110016
+totalCashPerShare	10.21
+ebitda	-13671000
+totalDebt	239643008
+quickRatio	3.804
+currentRatio	3.953
+totalRevenue	382572992
+debtToEquity	19.55
+revenuePerShare	4.683
+returnOnAssets	-0.021170001
+returnOnEquity	-0.03677
+freeCashflow	-125934496
+operatingCashflow	-51429000
+revenueGrowth	0.035
+grossMargins	0.26703
+ebitdaMargins	-0.03573
+operatingMargins	-0.22354999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   1204800.0    -529200.0          0.0          0.0
+Tax Rate For Calcs                                                  0.2          0.2          0.2          0.2
+Normalized EBITDA                                            70413000.0  125517000.0  208288000.0  122035000.0
+Total Unusual Items                                           6024000.0   -2646000.0          NaN          NaN
+Total Unusual Items Excluding Goodwill                        6024000.0   -2646000.0          NaN          NaN
+Net Income From Continuing Operation Net Minority Interest  -48409000.0   25052000.0   41256000.0  -55940000.0
+Reconciled Depreciation                                      59584000.0   59487000.0   89565000.0  106982000.0
+Reconciled Cost Of Revenue                                  280415000.0  343880000.0  508203000.0  461032000.0
+EBITDA                                                       76437000.0  122871000.0  208288000.0  122035000.0
+EBIT                                                         16853000.0   63384000.0  118723000.0   15053000.0
+Net Interest Income                                           5499000.0     311000.0    1368000.0      67000.0
+Interest Expense                                              4685000.0    6254000.0   13033000.0   17516000.0
+Interest Income                                              10184000.0    6565000.0   14401000.0   17583000.0
+Normalized Income                                           -53228200.0   27168800.0   41256000.0  -55940000.0
+Net Income From Continuing And Discontinued Operation       -48409000.0   25052000.0   41256000.0  -55940000.0
+Total Expenses                                              445172000.0  505856000.0  739489000.0  674301000.0
+Diluted Average Shares                                              NaN   79902000.0   79342000.0   79142000.0
+Basic Average Shares                                                NaN   79758000.0   79142000.0   79142000.0
+Diluted EPS                                                         NaN         0.31         0.52        -0.71
+Basic EPS                                                           NaN         0.31         0.52        -0.71
+Diluted NI Availto Com Stockholders                         -48409000.0   25052000.0   41256000.0  -55940000.0
+Net Income Common Stockholders                              -48409000.0   25052000.0   41256000.0  -55940000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                  -48409000.0   25052000.0   41256000.0  -55940000.0
+Minority Interests                                            1506000.0     831000.0          0.0          0.0
+Net Income Including Noncontrolling Interests               -49915000.0   24221000.0   41256000.0  -55940000.0
+Net Income Continuous Operations                            -49915000.0   24221000.0   41256000.0  -55940000.0
+Tax Provision                                                62083000.0   32909000.0   64434000.0   53477000.0
+Pretax Income                                                12168000.0   57130000.0  105690000.0   -2463000.0
+Other Non Operating Income Expenses                          63244000.0  108339000.0   45233000.0  -11283000.0
+Special Income Charges                                        6024000.0   -2646000.0          NaN          NaN
+Write Off                                                    -6024000.0    2646000.0          NaN          NaN
+Net Non Operating Interest Income Expense                     5499000.0     311000.0    1368000.0      67000.0
+Interest Expense Non Operating                                4685000.0    6254000.0   13033000.0   17516000.0
+Interest Income Non Operating                                10184000.0    6565000.0   14401000.0   17583000.0
+Operating Income                                            -62599000.0  -48636000.0   60614000.0   10297000.0
+Operating Expense                                           164757000.0  161976000.0  231286000.0  213269000.0
+Research And Development                                     29683000.0   32402000.0   38607000.0   38831000.0
+Selling General And Administration                          135074000.0  129574000.0  192679000.0  174438000.0
+Selling And Marketing Expense                                19820000.0   19603000.0   32455000.0   21214000.0
+General And Administrative Expense                          115254000.0  109971000.0  160224000.0  153224000.0
+Gross Profit                                                102158000.0  113340000.0  291900000.0  223566000.0
+Cost Of Revenue                                             280415000.0  343880000.0  508203000.0  461032000.0
+Total Revenue                                               382573000.0  457220000.0  800103000.0  684598000.0
+Operating Revenue                                           382573000.0  457220000.0  800103000.0  684598000.0

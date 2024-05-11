@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	No. 31, Fude Road
+address2	Shilin District
+city	Taipei
+zip	111
+country	Taiwan
+phone	886 2 2881 1111
+fax	886 2 2882 7099
+website	https://www.shihlin.com.tw
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Shihlin Paper Corporation produces and sells paper-related products. The company provides cards for use as playing and game cards; color cards for use in folders and art cards; black boards for applications in speakers, as well as frame and album boards; and non-coated boards that are used in shoe boxes and environmental cartons. It also provides duplex boards with white back for use in tag cards and packaging containers; duplex boards with gray back for use in shoe and tissue paper boxes, liner boards, and packaging containers; and chip boards for gift-wrapped boxes and book binding applications. In addition, the company sells paper processed products, wet wipes, facial masks, skin care products, and toiletries; and leases assets. Shihlin Paper Corporation was founded in 1918 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng-Che  Tsai', 'title': 'Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	61.6
+open	62.7
+dayLow	62.1
+dayHigh	64.4
+regularMarketPreviousClose	61.6
+regularMarketOpen	62.7
+regularMarketDayLow	62.1
+regularMarketDayHigh	64.4
+beta	0.886
+trailingPE	153.09525
+volume	1519643
+regularMarketVolume	1519643
+averageVolume	902516
+averageVolume10days	2663647
+averageDailyVolume10Day	2663647
+bid	64.2
+ask	64.3
+marketCap	16720508928
+fiftyTwoWeekLow	42.6
+fiftyTwoWeekHigh	75.0
+priceToSalesTrailing12Months	97.72076
+fiftyDayAverage	57.734
+twoHundredDayAverage	56.5045
+currency	TWD
+enterpriseValue	17051643904
+profitMargins	0.50466996
+floatShares	177177573
+sharesOutstanding	260039008
+heldPercentInsiders	0.41554
+heldPercentInstitutions	0.03633
+impliedSharesOutstanding	272980000
+bookValue	16.542
+priceToBook	3.8870757
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	86352000
+trailingEps	0.42
+lastSplitFactor	108:100
+lastSplitDate	998611200	 (2001-08-24 08:00:00)
+enterpriseToRevenue	99.656
+enterpriseToEbitda	-330.433
+52WeekChange	0.49708962
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	1903.TW
+underlyingSymbol	1903.TW
+shortName	SHIHLIN PAPER CORP
+longName	Shihlin Paper Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b5e2b324-b14d-3658-bf43-5c36e1824bd4
+messageBoardId	finmb_9870872
+gmtOffSetMilliseconds	28800000
+currentPrice	64.3
+recommendationKey	none
+totalCash	2333208064
+totalCashPerShare	8.973
+ebitda	-51604000
+totalDebt	2664344064
+quickRatio	0.951
+currentRatio	0.974
+totalRevenue	171104992
+debtToEquity	61.94
+revenuePerShare	0.658
+returnOnAssets	-0.00449
+returnOnEquity	0.01825
+freeCashflow	-267940128
+operatingCashflow	136868000
+revenueGrowth	0.06
+grossMargins	0.49650002
+ebitdaMargins	-0.30159
+operatingMargins	-0.1619
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                                  0.0          0.0     0.049312          0.0
+Normalized EBITDA                                           141986000.0  254457000.0  126967000.0  -90119000.0
+Total Unusual Items                                                 NaN          NaN          NaN          0.0
+Total Unusual Items Excluding Goodwill                              NaN          NaN          NaN          0.0
+Net Income From Continuing Operation Net Minority Interest   86352000.0  211780000.0   84249000.0 -135685000.0
+Reconciled Depreciation                                      14541000.0   14858000.0   15607000.0   19980000.0
+Reconciled Cost Of Revenue                                   86151000.0   88913000.0  149523000.0  105965000.0
+EBITDA                                                      141986000.0  254457000.0  126967000.0  -90119000.0
+EBIT                                                        127445000.0  239599000.0  111360000.0 -110099000.0
+Net Interest Income                                         -39137000.0  -27673000.0  -16937000.0  -25562000.0
+Interest Expense                                             41093000.0   27819000.0   22741000.0   25586000.0
+Interest Income                                               1956000.0     146000.0    5804000.0      24000.0
+Normalized Income                                            86352000.0  211780000.0   84249000.0 -135685000.0
+Net Income From Continuing And Discontinued Operation        86352000.0  211780000.0   84249000.0 -135685000.0
+Total Expenses                                              235761000.0  268282000.0  352583000.0  311887000.0
+Diluted Average Shares                                      261672727.0  261456790.0  260039000.0  260039000.0
+Basic Average Shares                                        261672727.0  261456790.0  260039000.0  260039000.0
+Diluted EPS                                                        0.33         0.81         0.32        -0.52
+Basic EPS                                                          0.33         0.81         0.32        -0.52
+Diluted NI Availto Com Stockholders                          86352000.0  211780000.0   84249000.0 -135685000.0
+Net Income Common Stockholders                               86352000.0  211780000.0   84249000.0 -135685000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                   86352000.0  211780000.0   84249000.0 -135685000.0
+Minority Interests                                                  0.0          0.0          0.0          0.0
+Net Income Including Noncontrolling Interests                86352000.0  211780000.0   84249000.0 -135685000.0
+Net Income Discontinuous Operations                                 NaN          NaN          NaN          0.0
+Net Income Continuous Operations                             86352000.0  211780000.0   84249000.0 -135685000.0
+Tax Provision                                                       0.0          0.0    4370000.0          0.0
+Pretax Income                                                86352000.0  211780000.0   88619000.0 -135685000.0
+Other Non Operating Income Expenses                         190145000.0  342677000.0  132115000.0   42291000.0
+Net Non Operating Interest Income Expense                   -39137000.0  -27673000.0  -16937000.0  -25562000.0
+Interest Expense Non Operating                               41093000.0   27819000.0   22741000.0   25586000.0
+Interest Income Non Operating                                 1956000.0     146000.0    5804000.0      24000.0
+Operating Income                                            -64656000.0 -103224000.0  -26559000.0 -152414000.0
+Operating Expense                                           149610000.0  179369000.0  203060000.0  205922000.0
+Research And Development                                      4340000.0    4529000.0    6071000.0    9034000.0
+Selling General And Administration                          145270000.0  174840000.0  196989000.0  196888000.0
+Selling And Marketing Expense                                59377000.0   60196000.0   58017000.0   78852000.0
+General And Administrative Expense                           85893000.0  114644000.0  138972000.0  118036000.0
+Gross Profit                                                 84954000.0   76145000.0  176501000.0   53508000.0
+Cost Of Revenue                                              86151000.0   88913000.0  149523000.0  105965000.0
+Total Revenue                                               171105000.0  165058000.0  326024000.0  159473000.0
+Operating Revenue                                           171105000.0  165058000.0  326024000.0  159473000.0

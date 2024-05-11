@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 24, Chien Kuo Road
+address2	Tan Tzu District
+city	Taichung
+zip	42760
+country	Taiwan
+phone	886 4 2535 3658
+fax	886 4 2535 2916
+website	https://www.calin.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Calin Technology Co., Ltd. manufactures and sells optical lens and components in Taiwan and internationally. The company offers automotive and action cameras; and security camera, projector, industrial, medical endoscopy lenses. It also provides glass grinding and aspherical glass molding lens; plastic molding components and injection optical lens; metal components, such as CNC milling machines, lathes, and turning and milling centers; mold development design and production; and optical lens assembly services. The company's products are used for automotive lens; LiDAR; consumer lens, including video, projector, CCTV surveillance, and relay lens; and optical communication. Calin Technology Co., Ltd. was founded in 1991 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	717
+companyOfficers	[{'maxAge': 1, 'name': 'Chia-Pin  Liu', 'title': 'GM, President & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui Zhen Ke', 'title': 'Head of Finance and Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui Jen  Ke', 'title': 'Assistant Vice President of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.8
+open	44.25
+dayLow	42.8
+dayHigh	44.3
+regularMarketPreviousClose	43.8
+regularMarketOpen	44.25
+regularMarketDayLow	42.8
+regularMarketDayHigh	44.3
+exDividendDate	1440979200	 (2015-08-31 08:00:00)
+beta	1.533
+forwardPE	28.841059
+volume	1436483
+regularMarketVolume	1436483
+averageVolume	779783
+averageVolume10days	1298889
+averageDailyVolume10Day	1298889
+bid	43.55
+ask	43.6
+marketCap	6067951616
+fiftyTwoWeekLow	35.3
+fiftyTwoWeekHigh	49.2
+priceToSalesTrailing12Months	6.5719976
+fiftyDayAverage	40.532
+twoHundredDayAverage	40.2235
+currency	TWD
+enterpriseValue	5211119104
+profitMargins	-0.28348
+sharesOutstanding	139332992
+heldPercentInsiders	0.25636
+heldPercentInstitutions	0.0085
+impliedSharesOutstanding	142674000
+bookValue	18.008
+priceToBook	2.4183695
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-261735008
+trailingEps	-1.5
+forwardEps	1.51
+lastSplitFactor	1050.929:1000
+lastSplitDate	1408579200	 (2014-08-21 08:00:00)
+enterpriseToRevenue	5.644
+enterpriseToEbitda	-39.11
+52WeekChange	0.03444183
+SandP52WeekChange	0.26265144
+lastDividendValue	0.29081
+lastDividendDate	1440979200	 (2015-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4976.TW
+underlyingSymbol	4976.TW
+shortName	CALIN TECHNOLOGY CO LTD.
+longName	Calin Technology Co., Ltd.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8357114c-3dcc-3161-94e1-2075c3c5808c
+messageBoardId	finmb_118300809
+gmtOffSetMilliseconds	28800000
+currentPrice	43.55
+recommendationKey	none
+totalCash	1260150016
+totalCashPerShare	9.044
+ebitda	-133242000
+totalDebt	403316992
+quickRatio	4.185
+currentRatio	5.535
+totalRevenue	923304000
+debtToEquity	16.074
+revenuePerShare	6.739
+returnOnAssets	-0.056110002
+returnOnEquity	-0.099630006
+freeCashflow	-101163128
+operatingCashflow	-52654000
+revenueGrowth	-0.134
+grossMargins	-0.13918
+ebitdaMargins	-0.14431
+operatingMargins	-0.49807
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.0      0.096698      0.156097      0.082778
+Normalized EBITDA                                            -92331000.0    41951000.0   175652000.0    90683000.0
+Total Unusual Items                                                  NaN           NaN           NaN           0.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           NaN           0.0
+Net Income From Continuing Operation Net Minority Interest  -261735000.0  -127026000.0     6028000.0   -56832000.0
+Reconciled Depreciation                                      163326000.0   177897000.0   164871000.0   148932000.0
+Reconciled Cost Of Revenue                                  1051809000.0  1216485000.0  1474440000.0  1316067000.0
+EBITDA                                                       -92331000.0    41951000.0   175652000.0    90683000.0
+EBIT                                                        -255657000.0  -135946000.0    10781000.0   -58249000.0
+Net Interest Income                                           22771000.0      642000.0    -3096000.0      601000.0
+Interest Expense                                               6078000.0     4678000.0     3638000.0     3712000.0
+Interest Income                                               28849000.0     5320000.0      542000.0     4313000.0
+Normalized Income                                           -261735000.0  -127026000.0     6028000.0   -56832000.0
+Net Income From Continuing And Discontinued Operation       -261735000.0  -127026000.0     6028000.0   -56832000.0
+Total Expenses                                              1213351000.0  1349100000.0  1609011000.0  1440473000.0
+Diluted Average Shares                                       137015000.0   136069000.0   126047000.0   117767000.0
+Basic Average Shares                                         137015000.0   136069000.0   124310000.0   117767000.0
+Diluted EPS                                                        -1.91         -0.93          0.05          -0.5
+Basic EPS                                                          -1.91         -0.93          0.05          -0.5
+Diluted NI Availto Com Stockholders                         -261735000.0  -127026000.0     6028000.0   -56832000.0
+Net Income Common Stockholders                              -261735000.0  -127026000.0     6028000.0   -56832000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -261735000.0  -127026000.0     6028000.0   -56832000.0
+Net Income Including Noncontrolling Interests               -261735000.0  -127026000.0     6028000.0   -56832000.0
+Net Income Continuous Operations                            -261735000.0  -127026000.0     6028000.0   -56832000.0
+Tax Provision                                                        0.0   -13598000.0     1115000.0    -5129000.0
+Pretax Income                                               -261735000.0  -140624000.0     7143000.0   -61961000.0
+Other Non Operating Income Expenses                            5541000.0    70429000.0    -3511000.0     6784000.0
+Net Non Operating Interest Income Expense                     22771000.0      642000.0    -3096000.0      601000.0
+Interest Expense Non Operating                                 6078000.0     4678000.0     3638000.0     3712000.0
+Interest Income Non Operating                                 28849000.0     5320000.0      542000.0     4313000.0
+Operating Income                                            -290047000.0  -211695000.0    13750000.0   -69346000.0
+Operating Expense                                            161542000.0   132615000.0   134571000.0   124406000.0
+Research And Development                                      64408000.0    34697000.0    35698000.0    35048000.0
+Selling General And Administration                            97134000.0    97918000.0    98873000.0    89358000.0
+Selling And Marketing Expense                                 20070000.0    18378000.0    20286000.0    19396000.0
+General And Administrative Expense                            77064000.0    79540000.0    78587000.0    69962000.0
+Gross Profit                                                -128505000.0   -79080000.0   148321000.0    55060000.0
+Cost Of Revenue                                             1051809000.0  1216485000.0  1474440000.0  1316067000.0
+Total Revenue                                                923304000.0  1137405000.0  1622761000.0  1371127000.0
+Operating Revenue                                            923304000.0  1137405000.0  1622761000.0  1371127000.0

@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 6, Chu Kuang 3 Street
+address2	Tafa Industrial Area
+city	Kaohsiung
+country	Taiwan
+phone	886 7 787 2278
+fax	886 7 787 2233
+website	https://www.tmicl.com.tw
+industry	Other Industrial Metals & Mining
+industryKey	other-industrial-metals-mining
+industryDisp	Other Industrial Metals & Mining
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Thye Ming Industrial Co., Ltd. manufactures and sells lead alloys and lead oxide in Asia. It provides litharge, red lead, antimonial and calcium lead alloys, and lead ingots. The company's products are used in storage battery, PVC stabilizer, lead glass, ceramic glaze, pigment, crystal and optical glass, paint, terminal connector, type metal, casting metal, fishnet sinker, lead oxide, solder, lead brick, and lead plate applications. It also operates lead recycling smelters. The company was founded in 1994 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mao-Shen  Lee', 'age': 61, 'title': 'GM & Representative Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-Yuan  Tong', 'title': 'Finance & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-Cheng  Chen', 'title': 'Sales Department Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	81.8
+open	81.4
+dayLow	80.3
+dayHigh	82.0
+regularMarketPreviousClose	81.8
+regularMarketOpen	81.4
+regularMarketDayLow	80.3
+regularMarketDayHigh	82.0
+dividendRate	4.0
+dividendYield	0.0476
+exDividendDate	1695686400	 (2023-09-26 08:00:00)
+payoutRatio	0.5882
+fiveYearAvgDividendYield	6.57
+beta	0.598
+trailingPE	11.823529
+volume	1143488
+regularMarketVolume	1143488
+averageVolume	1034543
+averageVolume10days	1718333
+averageDailyVolume10Day	1718333
+bid	80.3
+ask	80.4
+marketCap	13452448768
+fiftyTwoWeekLow	44.65
+fiftyTwoWeekHigh	87.2
+priceToSalesTrailing12Months	1.4597521
+fiftyDayAverage	75.36
+twoHundredDayAverage	66.063
+trailingAnnualDividendRate	5.15
+trailingAnnualDividendYield	0.062958434
+currency	TWD
+enterpriseValue	10781478912
+profitMargins	0.10784
+floatShares	101674737
+sharesOutstanding	167319008
+heldPercentInsiders	0.43605
+heldPercentInstitutions	0.02565
+impliedSharesOutstanding	168004992
+bookValue	37.886
+priceToBook	2.122156
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.129
+netIncomeToCommon	993835008
+trailingEps	6.8
+lastSplitFactor	800:1000
+lastSplitDate	1637798400	 (2021-11-25 08:00:00)
+enterpriseToRevenue	1.17
+enterpriseToEbitda	8.994
+52WeekChange	0.7886541
+SandP52WeekChange	0.26265144
+lastDividendValue	4.0
+lastDividendDate	1695686400	 (2023-09-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9927.TW
+underlyingSymbol	9927.TW
+shortName	THYE MING INDUSTRIAL CO
+longName	Thye Ming Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	933fd9e9-b2d5-3a72-885f-0fb78a139616
+messageBoardId	finmb_9829349
+gmtOffSetMilliseconds	28800000
+currentPrice	80.4
+recommendationKey	none
+totalCash	3803060992
+totalCashPerShare	22.729
+ebitda	1198688000
+totalDebt	502047008
+quickRatio	4.992
+currentRatio	6.821
+totalRevenue	9215570944
+debtToEquity	7.885
+revenuePerShare	55.078
+returnOnAssets	0.09593
+returnOnEquity	0.16002001
+freeCashflow	1917570560
+operatingCashflow	2325818112
+earningsGrowth	0.134
+revenueGrowth	0.325
+grossMargins	0.15163
+ebitdaMargins	0.13007
+operatingMargins	0.13977
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    249890.909419    -103708.571025    1694024.370084      84225.001168
+Tax Rate For Calcs                                                  0.218627          0.234635          0.245297          0.212689
+Normalized EBITDA                                               1344618000.0       959650000.0      1093293000.0       517887000.0
+Total Unusual Items                                                1143000.0         -442000.0         6906000.0          396000.0
+Total Unusual Items Excluding Goodwill                             1143000.0         -442000.0         6906000.0          396000.0
+Net Income From Continuing Operation Net Minority Interest       993835000.0       680542000.0       785791000.0       351574000.0
+Reconciled Depreciation                                           64156000.0        62176000.0        51585000.0        57172000.0
+Reconciled Cost Of Revenue                                      7818245000.0      8066855000.0      7545950000.0      7847755000.0
+EBITDA                                                          1345761000.0       959208000.0      1100199000.0       518283000.0
+EBIT                                                            1281605000.0       897032000.0      1048614000.0       461111000.0
+Net Interest Income                                               98016000.0        19890000.0         9758000.0         8500000.0
+Interest Expense                                                   5977000.0         3895000.0         4547000.0        11460000.0
+Interest Income                                                  103993000.0        23785000.0        14305000.0        19960000.0
+Normalized Income                                           992941890.909419  680880291.428975  780579024.370084  351262225.001168
+Net Income From Continuing And Discontinued Operation            993835000.0       680542000.0       785791000.0       351574000.0
+Total Expenses                                                  8080229000.0      8310328000.0      7785552000.0      8059493000.0
+Diluted Average Shares                                           167583000.0       167653000.0       197059000.0       167722000.0
+Basic Average Shares                                             167319000.0       167319000.0       196656000.0       167318000.0
+Diluted EPS                                                             5.93              4.06              3.99              1.68
+Basic EPS                                                               5.94              4.07               4.0              1.68
+Diluted NI Availto Com Stockholders                              993835000.0       680542000.0       785791000.0       351574000.0
+Net Income Common Stockholders                                   993835000.0       680542000.0       785791000.0       351574000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       993835000.0       680542000.0       785791000.0       351574000.0
+Minority Interests                                                -2906000.0        -3034000.0        -2169000.0        -2441000.0
+Net Income Including Noncontrolling Interests                    996741000.0       683576000.0       787960000.0       354015000.0
+Net Income Continuous Operations                                 996741000.0       683576000.0       787960000.0       354015000.0
+Tax Provision                                                    278887000.0       209561000.0       256107000.0        95636000.0
+Pretax Income                                                   1275628000.0       893137000.0      1044067000.0       449651000.0
+Other Non Operating Income Expenses                               41127000.0       120344000.0       -29574000.0       -36700000.0
+Special Income Charges                                             1143000.0         -442000.0         6906000.0          396000.0
+Write Off                                                         -1143000.0          442000.0        -6906000.0         -396000.0
+Net Non Operating Interest Income Expense                         98016000.0        19890000.0         9758000.0         8500000.0
+Interest Expense Non Operating                                     5977000.0         3895000.0         4547000.0        11460000.0
+Interest Income Non Operating                                    103993000.0        23785000.0        14305000.0        19960000.0
+Operating Income                                                1135342000.0       753345000.0      1056977000.0       477455000.0
+Operating Expense                                                261984000.0       243473000.0       239602000.0       211738000.0
+Selling General And Administration                               261984000.0       243473000.0       239602000.0       211738000.0
+Selling And Marketing Expense                                     80133000.0        88535000.0        84607000.0        75121000.0
+General And Administrative Expense                               181851000.0       154938000.0       154995000.0       136617000.0
+Gross Profit                                                    1397326000.0       996818000.0      1296579000.0       689193000.0
+Cost Of Revenue                                                 7818245000.0      8066855000.0      7545950000.0      7847755000.0
+Total Revenue                                                   9215571000.0      9063673000.0      8842529000.0      8536948000.0
+Operating Revenue                                               9215571000.0      9063673000.0      8842529000.0      8536948000.0

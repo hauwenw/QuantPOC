@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 171, Songde Road
+address2	17th Floor
+city	Taipei City
+country	Taiwan
+phone	886 2 2726 2220
+fax	886 2 2726 2227
+website	https://www.ampoc.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ampoc Far-East Co., Ltd. research, manufactures, and supplies equipment and materials for the electronic industry in Taiwan. The company offers printed circuit boards (PCB), flat screen displays and touch panels, semiconductor packaging, LED and OLED, solar cells, IC wafers and substrates, passive components, measuring devices, and other products. It serves various industries, such as PCB, computer systems and communications, semiconductor, precise testing solution for inspection and analysis, MEMS, and precision surface treatment. The company provides its products in Mainland China and Hong Kong through its service centers and distribution channels. AMPOC Far-East Co., Ltd. was founded in 1976 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Sheng Yi Su', 'title': 'GM & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jin Fu Shao', 'title': 'Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Hua  Huang', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	93.0
+open	93.0
+dayLow	91.9
+dayHigh	93.9
+regularMarketPreviousClose	93.0
+regularMarketOpen	93.0
+regularMarketDayLow	91.9
+regularMarketDayHigh	93.9
+dividendRate	5.0
+dividendYield	0.0542
+exDividendDate	1720483200	 (2024-07-09 08:00:00)
+payoutRatio	0.6849
+fiveYearAvgDividendYield	6.62
+beta	0.133
+trailingPE	15.78767
+volume	582809
+regularMarketVolume	582809
+averageVolume	502447
+averageVolume10days	372399
+averageDailyVolume10Day	372399
+bid	92.2
+ask	92.4
+marketCap	10551091200
+fiftyTwoWeekLow	55.9
+fiftyTwoWeekHigh	111.0
+priceToSalesTrailing12Months	3.145556
+fiftyDayAverage	94.146
+twoHundredDayAverage	79.9685
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.05376344
+currency	TWD
+enterpriseValue	8622674944
+profitMargins	0.2058
+sharesOutstanding	114437000
+heldPercentInsiders	0.36466998
+heldPercentInstitutions	0.02488
+impliedSharesOutstanding	114669000
+bookValue	26.22
+priceToBook	3.5163996
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.063
+netIncomeToCommon	690310016
+trailingEps	5.84
+lastSplitFactor	103:100
+lastSplitDate	1217548800	 (2008-08-01 08:00:00)
+enterpriseToRevenue	2.571
+enterpriseToEbitda	10.124
+52WeekChange	0.63185835
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1720483200	 (2024-07-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2493.TW
+underlyingSymbol	2493.TW
+shortName	AMPOC FAR EAST CO
+longName	Ampoc Far-East Co., Ltd.
+firstTradeDateEpochUtc	1011834000	 (2002-01-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8d53cb6b-8abe-35df-a188-b09a3ffda944
+messageBoardId	finmb_9870608
+gmtOffSetMilliseconds	28800000
+currentPrice	92.2
+recommendationKey	none
+totalCash	2126226048
+totalCashPerShare	18.58
+ebitda	851678016
+totalDebt	197782000
+quickRatio	1.655
+currentRatio	2.264
+totalRevenue	3354285056
+debtToEquity	6.592
+revenuePerShare	29.311
+returnOnAssets	0.10877
+returnOnEquity	0.23945999
+freeCashflow	658142528
+operatingCashflow	813713984
+earningsGrowth	-0.055
+revenueGrowth	0.011
+grossMargins	0.36363
+ebitdaMargins	0.25391
+operatingMargins	0.24284
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -2486679.689182    2414266.351775   -2330959.246511    1474952.434451
+Tax Rate For Calcs                                                  0.209546          0.215771           0.19064          0.218706
+Normalized EBITDA                                                906346000.0       762891000.0       453750000.0       405429000.0
+Total Unusual Items                                              -11867000.0        11189000.0       -12227000.0         6744000.0
+Total Unusual Items Excluding Goodwill                           -11867000.0        11189000.0       -12227000.0         6744000.0
+Net Income From Continuing Operation Net Minority Interest       690310000.0       592400000.0       343298000.0       308769000.0
+Reconciled Depreciation                                           21054000.0        18645000.0        17295000.0        16871000.0
+Reconciled Cost Of Revenue                                      2134577000.0      2349971000.0      2160860000.0      1912717000.0
+EBITDA                                                           894479000.0       774080000.0       441523000.0       412173000.0
+EBIT                                                             873425000.0       755435000.0       424228000.0       395302000.0
+Net Interest Income                                                8870000.0         2365000.0          848000.0         1139000.0
+Interest Expense                                                    117000.0           43000.0           68000.0          100000.0
+Interest Income                                                    8987000.0         2408000.0          916000.0         1239000.0
+Normalized Income                                           699690320.310818  583625266.351775  353194040.753489  303499952.434451
+Net Income From Continuing And Discontinued Operation            690310000.0       592400000.0       343298000.0       308769000.0
+Total Expenses                                                  2506257000.0      2703204000.0      2473173000.0      2209884000.0
+Diluted Average Shares                                                   NaN       115699000.0       115300000.0       115320000.0
+Basic Average Shares                                                     NaN       114437000.0       114437000.0       114437000.0
+Diluted EPS                                                              NaN              5.12              2.98              2.68
+Basic EPS                                                                NaN              5.18               3.0               2.7
+Diluted NI Availto Com Stockholders                              690310000.0       592400000.0       343298000.0       308769000.0
+Net Income Common Stockholders                                   690310000.0       592400000.0       343298000.0       308769000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       690310000.0       592400000.0       343298000.0       308769000.0
+Net Income Including Noncontrolling Interests                    690310000.0       592400000.0       343298000.0       308769000.0
+Net Income Continuous Operations                                 690310000.0       592400000.0       343298000.0       308769000.0
+Tax Provision                                                    182998000.0       162992000.0        80862000.0        86433000.0
+Pretax Income                                                    873308000.0       755392000.0       424160000.0       395202000.0
+Other Non Operating Income Expenses                               28277000.0        -3342000.0       -30262000.0        -3461000.0
+Special Income Charges                                           -11867000.0        11189000.0       -12227000.0         6744000.0
+Write Off                                                         11867000.0       -11189000.0        12227000.0        -6744000.0
+Net Non Operating Interest Income Expense                          8870000.0         2365000.0          848000.0         1139000.0
+Interest Expense Non Operating                                      117000.0           43000.0           68000.0          100000.0
+Interest Income Non Operating                                      8987000.0         2408000.0          916000.0         1239000.0
+Operating Income                                                 848028000.0       745180000.0       465801000.0       390780000.0
+Operating Expense                                                371680000.0       353233000.0       312313000.0       297167000.0
+Research And Development                                          34623000.0        30950000.0        24922000.0        26877000.0
+Selling General And Administration                               337057000.0       322283000.0       287391000.0       270290000.0
+Selling And Marketing Expense                                    200773000.0       196229000.0       166693000.0       156255000.0
+General And Administrative Expense                               136284000.0       126054000.0       120698000.0       114035000.0
+Gross Profit                                                    1219708000.0      1098413000.0       778114000.0       687947000.0
+Cost Of Revenue                                                 2134577000.0      2349971000.0      2160860000.0      1912717000.0
+Total Revenue                                                   3354285000.0      3448384000.0      2938974000.0      2600664000.0
+Operating Revenue                                               3354285000.0      3448384000.0      2938974000.0      2600664000.0

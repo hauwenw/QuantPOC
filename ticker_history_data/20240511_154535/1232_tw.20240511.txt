@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	32 Gungye West Road
+address2	Erzhen Village Guantian District
+city	Tainan City
+zip	72048
+country	Taiwan
+phone	886 6 698 4500
+fax	886 6 698 5530
+website	https://www.ttet.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	TTET Union Corporation operates as a soybean crusher in Taiwan, Malaysia, Japan, and internationally. The company engages in the manufacture, sale, processing, and import and export of a range of vegetable oils and fats. It offers soybean, canola, palm olein, deep frying, and sunflower oils; and dehulled high-protein, dehulled full fat, regular, and full fat soybean meals, as well as soybean hull pellets. It also provides selected and non GMO soybeans, and deodorized distillates. In addition, the company involved in the cogeneration plant business; provision of logistics services; and wholesale and retail of oils. TTET Union Corporation was incorporated in 1982 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Liang  Chen', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guan-Chou  Chen', 'title': 'Financial Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Ya  Lee', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	144.5
+open	144.5
+dayLow	144.5
+dayHigh	145.0
+regularMarketPreviousClose	144.5
+regularMarketOpen	144.5
+regularMarketDayLow	144.5
+regularMarketDayHigh	145.0
+dividendRate	6.0
+dividendYield	0.041500002
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	0.84269994
+fiveYearAvgDividendYield	3.96
+trailingPE	20.294945
+volume	39130
+regularMarketVolume	39130
+averageVolume	57701
+averageVolume10days	60880
+averageDailyVolume10Day	60880
+bid	144.5
+ask	145.0
+marketCap	23116388352
+fiftyTwoWeekLow	140.0
+fiftyTwoWeekHigh	154.0
+priceToSalesTrailing12Months	1.0059886
+fiftyDayAverage	144.85
+twoHundredDayAverage	143.15
+trailingAnnualDividendRate	6.6
+trailingAnnualDividendYield	0.04567474
+currency	TWD
+enterpriseValue	21522026496
+profitMargins	0.04962
+floatShares	43690108
+sharesOutstanding	159975008
+heldPercentInsiders	0.7533
+heldPercentInstitutions	0.00543
+impliedSharesOutstanding	161078000
+bookValue	35.47
+priceToBook	4.073865
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.187
+netIncomeToCommon	1140113024
+trailingEps	7.12
+lastSplitFactor	106:100
+lastSplitDate	1027555200	 (2002-07-25 08:00:00)
+enterpriseToRevenue	0.937
+enterpriseToEbitda	13.533
+52WeekChange	-0.03666669
+SandP52WeekChange	0.26265144
+lastDividendValue	6.0
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1232.TW
+underlyingSymbol	1232.TW
+shortName	TTET UNION CORP
+longName	TTET Union Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	386c417e-c19f-3693-85e9-6de7c6720640
+messageBoardId	finmb_9794179
+gmtOffSetMilliseconds	28800000
+currentPrice	144.5
+recommendationKey	none
+totalCash	2836668928
+totalCashPerShare	17.711
+ebitda	1590301056
+totalDebt	1047923968
+quickRatio	2.735
+currentRatio	4.224
+totalRevenue	22978777088
+debtToEquity	17.918
+revenuePerShare	143.544
+returnOnAssets	0.11178
+returnOnEquity	0.20739001
+freeCashflow	1662577280
+operatingCashflow	2200472064
+earningsGrowth	-0.185
+revenueGrowth	-0.094
+grossMargins	0.10564999
+ebitdaMargins	0.06921
+operatingMargins	0.058579996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -638649.882149     -284429.29272      -83304.560732     -316240.44583
+Tax Rate For Calcs                                                   0.203262           0.20581           0.202687          0.199521
+Normalized EBITDA                                                1828358000.0      1817890000.0       1796461000.0      1824192000.0
+Total Unusual Items                                                -3142000.0        -1382000.0          -411000.0        -1585000.0
+Total Unusual Items Excluding Goodwill                             -3142000.0        -1382000.0          -411000.0        -1585000.0
+Net Income From Continuing Operation Net Minority Interest       1204851000.0      1226205000.0       1241710000.0      1291828000.0
+Reconciled Depreciation                                           236506000.0       211031000.0        193346000.0       163948000.0
+Reconciled Cost Of Revenue                                      21035103000.0     22273195000.0      18119818000.0     14992999000.0
+EBITDA                                                           1825216000.0      1816508000.0       1796050000.0      1822607000.0
+EBIT                                                             1588710000.0      1605477000.0       1602704000.0      1658659000.0
+Net Interest Income                                                -1628000.0        -3779000.0          -878000.0         2509000.0
+Interest Expense                                                   15117000.0         9135000.0          4934000.0         6370000.0
+Interest Income                                                    13489000.0         5356000.0          4056000.0         8879000.0
+Normalized Income                                           1207354350.117851  1227302570.70728  1242037695.439268  1293096759.55417
+Net Income From Continuing And Discontinued Operation            1204851000.0      1226205000.0       1241710000.0      1291828000.0
+Total Expenses                                                  22035702000.0     23201525000.0      18946665000.0     15821258000.0
+Diluted Average Shares                                            160235000.0       160237000.0        160234000.0       160271000.0
+Basic Average Shares                                              159975000.0       159975000.0        159975000.0       159975000.0
+Diluted EPS                                                              7.52              7.65               7.75              8.06
+Basic EPS                                                                7.53              7.66               7.76              8.08
+Diluted NI Availto Com Stockholders                              1204851000.0      1226205000.0       1241710000.0      1291828000.0
+Net Income Common Stockholders                                   1204851000.0      1226205000.0       1241710000.0      1291828000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0               0.0
+Net Income                                                       1204851000.0      1226205000.0       1241710000.0      1291828000.0
+Minority Interests                                                -48890000.0       -41594000.0        -32212000.0       -30795000.0
+Net Income Including Noncontrolling Interests                    1253741000.0      1267799000.0       1273922000.0      1322623000.0
+Net Income Continuous Operations                                 1253741000.0      1267799000.0       1273922000.0      1322623000.0
+Tax Provision                                                     319852000.0       328543000.0        323848000.0       329666000.0
+Pretax Income                                                    1573593000.0      1596342000.0       1597770000.0      1652289000.0
+Other Non Operating Income Expenses                                53718000.0       126068000.0         67734000.0        31644000.0
+Special Income Charges                                             -3142000.0        -1382000.0          -411000.0        -1585000.0
+Write Off                                                           3142000.0         1382000.0           411000.0         1585000.0
+Net Non Operating Interest Income Expense                          -1628000.0        -3779000.0          -878000.0         2509000.0
+Interest Expense Non Operating                                     15117000.0         9135000.0          4934000.0         6370000.0
+Interest Income Non Operating                                      13489000.0         5356000.0          4056000.0         8879000.0
+Operating Income                                                 1524645000.0      1475435000.0       1531325000.0      1619721000.0
+Operating Expense                                                1000599000.0       928330000.0        826847000.0       828259000.0
+Research And Development                                            9315000.0         9435000.0          9528000.0         9207000.0
+Selling General And Administration                                991284000.0       918895000.0        817319000.0       819052000.0
+Selling And Marketing Expense                                     721878000.0       660747000.0        572678000.0       566157000.0
+General And Administrative Expense                                269406000.0       258148000.0        244641000.0       252895000.0
+Gross Profit                                                     2525244000.0      2403765000.0       2358172000.0      2447980000.0
+Cost Of Revenue                                                 21035103000.0     22273195000.0      18119818000.0     14992999000.0
+Total Revenue                                                   23560347000.0     24676960000.0      20477990000.0     17440979000.0
+Operating Revenue                                               23560347000.0     24676960000.0      20477990000.0     17440979000.0

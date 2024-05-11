@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No., 760 Bade Road
+address2	15th Floor Section 4 Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2528 8008
+fax	886 2 2747 7473
+website	https://www.newasia.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	New Asia Construction & Development Corp., together with its subsidiaries, provides public construction services for governments in Taiwan. It also engages in the real estate development and construction businesses. The company is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tiao-Tsan  Lai', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 116000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tai-Yung  Yang', 'title': 'Head of Corporate Governance', 'fiscalYear': 2021, 'totalPay': 1443000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po-Chung  Chen', 'title': 'Vice GM & CFO', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-Bin  Tzou', 'title': 'Vice GM & President of General Affairs', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	11.7
+open	11.7
+dayLow	11.6
+dayHigh	12.0
+regularMarketPreviousClose	11.7
+regularMarketOpen	11.7
+regularMarketDayLow	11.6
+regularMarketDayHigh	12.0
+exDividendDate	1503532800	 (2017-08-24 08:00:00)
+fiveYearAvgDividendYield	3.57
+beta	0.485
+trailingPE	15.324676
+volume	1315577
+regularMarketVolume	1315577
+averageVolume	2670814
+averageVolume10days	2522183
+averageDailyVolume10Day	2522183
+bid	11.85
+ask	11.85
+marketCap	2670092288
+fiftyTwoWeekLow	5.02
+fiftyTwoWeekHigh	14.95
+priceToSalesTrailing12Months	0.3094111
+fiftyDayAverage	12.334
+twoHundredDayAverage	10.6356
+currency	TWD
+enterpriseValue	1976940800
+profitMargins	0.02021
+floatShares	226278457
+sharesOutstanding	226279008
+heldPercentInsiders	0.26809
+heldPercentInstitutions	0.00377
+impliedSharesOutstanding	236607008
+bookValue	6.777
+priceToBook	1.7411834
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	174423008
+trailingEps	0.77
+lastSplitFactor	1.02047:1
+lastSplitDate	1379980800	 (2013-09-24 08:00:00)
+enterpriseToRevenue	0.229
+enterpriseToEbitda	12.033
+52WeekChange	1.3412697
+SandP52WeekChange	0.26265144
+lastDividendValue	0.25
+lastDividendDate	1503532800	 (2017-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2516.TW
+underlyingSymbol	2516.TW
+shortName	NEW ASIA CONSTRUCTION & DEVELOP
+longName	New Asia Construction & Development Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	68ba7acb-81d3-3d81-93bf-1bd4c7806404
+messageBoardId	finmb_9870458
+gmtOffSetMilliseconds	28800000
+currentPrice	11.8
+recommendationKey	none
+totalCash	1589741952
+totalCashPerShare	7.026
+ebitda	164299008
+totalDebt	896596992
+quickRatio	0.79
+currentRatio	1.001
+totalRevenue	8629594112
+debtToEquity	58.467
+revenuePerShare	38.137
+returnOnAssets	0.01444
+returnOnEquity	0.120459996
+freeCashflow	468115872
+operatingCashflow	679864000
+revenueGrowth	0.206
+grossMargins	0.0361
+ebitdaMargins	0.01904
+operatingMargins	0.00092
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.173586           0.2      0.004881           0.2
+Normalized EBITDA                                            293261000.0  -697459000.0   192028000.0  -615428000.0
+Net Income From Continuing Operation Net Minority Interest   174423000.0  -773148000.0   117222000.0  -703401000.0
+Reconciled Depreciation                                       59360000.0    50469000.0    46485000.0    50378000.0
+Reconciled Cost Of Revenue                                  8318074000.0  7451009000.0  7843784000.0  6977042000.0
+EBITDA                                                       293261000.0  -697459000.0   192028000.0  -615428000.0
+EBIT                                                         233901000.0  -747928000.0   145543000.0  -665806000.0
+Net Interest Income                                           -3972000.0   -10396000.0   -16875000.0    -6208000.0
+Interest Expense                                              22841000.0    23226000.0    27746000.0    18628000.0
+Interest Income                                               18869000.0    12830000.0    10871000.0    12420000.0
+Normalized Income                                            174423000.0  -773148000.0   117222000.0  -703401000.0
+Net Income From Continuing And Discontinued Operation        174423000.0  -773148000.0   117222000.0  -703401000.0
+Total Expenses                                              8479238000.0  7619792000.0  7984955000.0  7134378000.0
+Diluted Average Shares                                               NaN   226279000.0   226279000.0   226279000.0
+Basic Average Shares                                                 NaN   226279000.0   226279000.0   226279000.0
+Diluted EPS                                                          NaN         -3.42          0.52         -3.11
+Basic EPS                                                            NaN         -3.42          0.52         -3.11
+Diluted NI Availto Com Stockholders                          174423000.0  -773148000.0   117222000.0  -703401000.0
+Net Income Common Stockholders                               174423000.0  -773148000.0   117222000.0  -703401000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   174423000.0  -773148000.0   117222000.0  -703401000.0
+Minority Interests                                                   NaN           NaN           0.0     1142000.0
+Net Income Including Noncontrolling Interests                174423000.0  -773148000.0   117222000.0  -704543000.0
+Net Income Discontinuous Operations                                  NaN           NaN           0.0           0.0
+Net Income Continuous Operations                             174423000.0  -773148000.0   117222000.0  -704543000.0
+Tax Provision                                                 36637000.0     1994000.0      575000.0    20109000.0
+Pretax Income                                                211060000.0  -771154000.0   117797000.0  -684434000.0
+Other Non Operating Income Expenses                           35657000.0      376000.0    51680000.0   128898000.0
+Net Non Operating Interest Income Expense                     -3972000.0   -10396000.0   -16875000.0    -6208000.0
+Interest Expense Non Operating                                22841000.0    23226000.0    27746000.0    18628000.0
+Interest Income Non Operating                                 18869000.0    12830000.0    10871000.0    12420000.0
+Operating Income                                             150356000.0  -764246000.0    57838000.0  -830673000.0
+Operating Expense                                            161164000.0   168783000.0   141171000.0   157336000.0
+Other Operating Expenses                                     161164000.0   168783000.0   141171000.0   157336000.0
+Gross Profit                                                 311520000.0  -595463000.0   199009000.0  -673337000.0
+Cost Of Revenue                                             8318074000.0  7451009000.0  7843784000.0  6977042000.0
+Total Revenue                                               8629594000.0  6855546000.0  8042793000.0  6303705000.0
+Operating Revenue                                           8629594000.0  6855546000.0  8042793000.0  6303705000.0

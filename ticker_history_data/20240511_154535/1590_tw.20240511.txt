@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 165, wenzhong road
+address2	Section 1 Luzhu District
+city	Taipei
+zip	338
+country	Taiwan
+phone	886 3 3920 239
+fax	886 3 3920 257
+website	https://www.airtac.com
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	AirTAC International Group manufactures and supplies pneumatic equipment worldwide. The company offers control components comprising of  solenoid, 2way,  pneumatic control, ordinary, and other valves. It also provides actuators, such as standard, round line, compact, side table, guided, rodless magnetic, and rotary table cylinders; air gripper, fitting, tubing, and cylinder accessories. In addition, the company offers shock absorbers, flame resistant tubes, and other fittings related products. Its products are used in automotive, machinery manufacturing, electronics, environmental protection, lighting, textiles, ceramics, medical equipment, food, and packaging sectors. The company was founded in 1988 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Chung  Wang', 'title': 'Chairman, President, Chief Information Security Officer & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Hsiang  Tsao', 'title': 'Vice GM, CFO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yong  Jiang', 'title': 'Vice General Manager of Technology Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huai-Wen  Li', 'title': 'Executive Vice GM, GM of Mainland China Business Group & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-Chih  Chiang', 'title': 'Chief Audit Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shun-Cheng  Lan', 'title': 'Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	1145.0
+open	1150.0
+dayLow	1145.0
+dayHigh	1165.0
+regularMarketPreviousClose	1145.0
+regularMarketOpen	1150.0
+regularMarketDayLow	1145.0
+regularMarketDayHigh	1165.0
+dividendRate	13.44
+dividendYield	0.0115
+exDividendDate	1695686400	 (2023-09-26 08:00:00)
+payoutRatio	0.3861
+fiveYearAvgDividendYield	1.85
+beta	1.068
+trailingPE	33.448174
+forwardPE	24.413244
+volume	326636
+regularMarketVolume	326636
+averageVolume	657411
+averageVolume10days	505064
+averageDailyVolume10Day	505064
+bid	1160.0
+ask	1165.0
+marketCap	232999993344
+fiftyTwoWeekLow	860.0
+fiftyTwoWeekHigh	1290.0
+priceToSalesTrailing12Months	7.8116217
+fiftyDayAverage	1112.2
+twoHundredDayAverage	1027.22
+trailingAnnualDividendRate	17.37
+trailingAnnualDividendYield	0.015170306
+currency	TWD
+enterpriseValue	234481418240
+profitMargins	0.23354
+floatShares	136163999
+sharesOutstanding	200000000
+heldPercentInsiders	0.304
+heldPercentInstitutions	0.39798
+impliedSharesOutstanding	200916992
+bookValue	212.947
+priceToBook	5.4708447
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.266
+netIncomeToCommon	6965808128
+trailingEps	34.83
+forwardEps	47.72
+pegRatio	1.74
+lastSplitFactor	1050:1000
+lastSplitDate	1434326400	 (2015-06-15 08:00:00)
+enterpriseToRevenue	7.861
+enterpriseToEbitda	21.007
+52WeekChange	0.15346539
+SandP52WeekChange	0.26265144
+lastDividendValue	13.439055
+lastDividendDate	1695686400	 (2023-09-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1590.TW
+underlyingSymbol	1590.TW
+shortName	AIRTAC INTERNATIONAL GROUP
+longName	AirTAC International Group
+firstTradeDateEpochUtc	1292202000	 (2010-12-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f41002d1-4f6d-36f7-ab37-965e06e16b7a
+messageBoardId	finmb_111658967
+gmtOffSetMilliseconds	28800000
+currentPrice	1165.0
+targetHighPrice	1417.0
+targetLowPrice	1130.0
+targetMeanPrice	1307.79
+targetMedianPrice	1330.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	14
+totalCash	10057832448
+totalCashPerShare	50.289
+ebitda	11161836544
+totalDebt	11532369920
+quickRatio	1.352
+currentRatio	1.81
+totalRevenue	29827352576
+debtToEquity	27.074
+revenuePerShare	149.137
+returnOnAssets	0.09819999
+returnOnEquity	0.17087
+freeCashflow	5093135360
+operatingCashflow	9047015424
+earningsGrowth	0.265
+revenueGrowth	0.174
+grossMargins	0.46115002
+ebitdaMargins	0.37421
+operatingMargins	0.29326
+financialCurrency	TWD
+trailingPegRatio	1.5637
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -675419.764708    -5720325.301607     7024453.864964    -5273080.328595
+Tax Rate For Calcs                                                   0.217107            0.23148           0.231746           0.236249
+Normalized EBITDA                                               11501411000.0      10156116000.0      10272963000.0       8173446000.0
+Total Unusual Items                                                -3111000.0        -24712000.0         30311000.0        -22320000.0
+Total Unusual Items Excluding Goodwill                             -3111000.0        -24712000.0         30311000.0        -22320000.0
+Net Income From Continuing Operation Net Minority Interest       6965808000.0       6013131000.0       6442025000.0       4845297000.0
+Reconciled Depreciation                                          2414285000.0       2160670000.0       1727195000.0       1547674000.0
+Reconciled Cost Of Revenue                                      16072370000.0      14179871000.0      13063277000.0       9649868000.0
+EBITDA                                                          11498300000.0      10131404000.0      10303274000.0       8151126000.0
+EBIT                                                             9084015000.0       7970734000.0       8576079000.0       6603452000.0
+Net Interest Income                                               -58368000.0        -50512000.0        -87535000.0       -106582000.0
+Interest Expense                                                  186995000.0        147053000.0        191616000.0        260804000.0
+Interest Income                                                   128627000.0         96541000.0        104081000.0        154222000.0
+Normalized Income                                           6968243580.235292  6032122674.698393  6418738453.864964  4862343919.671405
+Net Income From Continuing And Discontinued Operation            6965808000.0       6013131000.0       6442025000.0       4845297000.0
+Total Expenses                                                  20975052000.0      18505359000.0      17214227000.0      13116484000.0
+Diluted Average Shares                                                    NaN        200100000.0        191435000.0        191328000.0
+Basic Average Shares                                                      NaN        200000000.0        191340000.0        191237000.0
+Diluted EPS                                                               NaN              30.05              33.65              25.62
+Basic EPS                                                                 NaN              30.07              33.67              25.63
+Diluted NI Availto Com Stockholders                              6965808000.0       6013131000.0       6442025000.0       4845297000.0
+Net Income Common Stockholders                                   6965808000.0       6013131000.0       6442025000.0       4845297000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       6965808000.0       6013131000.0       6442025000.0       4845297000.0
+Minority Interests                                                   393000.0           473000.0           628000.0          1094000.0
+Net Income Including Noncontrolling Interests                    6965415000.0       6012658000.0       6441397000.0       4844203000.0
+Net Income Continuous Operations                                 6965415000.0       6012658000.0       6441397000.0       4844203000.0
+Tax Provision                                                    1931605000.0       1811023000.0       1943066000.0       1498445000.0
+Pretax Income                                                    8897020000.0       7823681000.0       8384463000.0       6342648000.0
+Other Non Operating Income Expenses                               106199000.0        331390000.0        256019000.0        485033000.0
+Special Income Charges                                             -3111000.0        -24712000.0         30311000.0        -22320000.0
+Write Off                                                           3111000.0         24712000.0        -30311000.0         22320000.0
+Net Non Operating Interest Income Expense                         -58368000.0        -50512000.0        -87535000.0       -106582000.0
+Interest Expense Non Operating                                    186995000.0        147053000.0        191616000.0        260804000.0
+Interest Income Non Operating                                     128627000.0         96541000.0        104081000.0        154222000.0
+Operating Income                                                 8852300000.0       7567515000.0       8185668000.0       5986517000.0
+Operating Expense                                                4902682000.0       4325488000.0       4150950000.0       3466616000.0
+Research And Development                                          895969000.0        735832000.0        595112000.0        477047000.0
+Selling General And Administration                               4006713000.0       3589656000.0       3555838000.0       2989569000.0
+Selling And Marketing Expense                                    2887993000.0       2514041000.0       2275176000.0       2068045000.0
+General And Administrative Expense                               1118720000.0       1075615000.0       1280662000.0        921524000.0
+Gross Profit                                                    13754982000.0      11893003000.0      12336618000.0       9453133000.0
+Cost Of Revenue                                                 16072370000.0      14179871000.0      13063277000.0       9649868000.0
+Total Revenue                                                   29827352000.0      26072874000.0      25399895000.0      19103001000.0
+Operating Revenue                                               29827352000.0      26072874000.0      25399895000.0      19103001000.0

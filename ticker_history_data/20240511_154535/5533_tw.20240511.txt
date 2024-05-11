@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 294, Dunhua South Road
+address2	3rd Floor Section 1 Daan District
+city	Taipei
+country	Taiwan
+phone	886 2 2703 0211
+fax	886 2 2707 3554
+website	https://www.founding.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Founding Construction Development Corp. engages in the development of public housing and commercial building for leasing and selling in Taiwan. It also involved in the trading of construction materials and machines; designing and construction of interior decoration; and development of business building and civil construction. In addition, the company engages in catering and restaurant, and general hotel business, as well as general investment business. Founding Construction Development Corp. was incorporated in 1991 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Lo-Fang  Tsao', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 2293000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yen-Fen  Cheng', 'title': 'Assistant Vice President of Finance Department & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yen-Hui  Liu', 'title': 'Assistant Vice President of Administration Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	25.5
+open	25.45
+dayLow	25.05
+dayHigh	25.8
+regularMarketPreviousClose	25.5
+regularMarketOpen	25.45
+regularMarketDayLow	25.05
+regularMarketDayHigh	25.8
+dividendRate	1.2
+dividendYield	0.047199998
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.3859
+fiveYearAvgDividendYield	4.38
+beta	0.226
+trailingPE	8.167203
+volume	1012981
+regularMarketVolume	1012981
+averageVolume	1161956
+averageVolume10days	2039945
+averageDailyVolume10Day	2039945
+bid	25.3
+ask	25.45
+marketCap	7245222912
+fiftyTwoWeekLow	17.8
+fiftyTwoWeekHigh	28.95
+priceToSalesTrailing12Months	1.9249561
+fiftyDayAverage	24.605
+twoHundredDayAverage	21.97275
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.047058824
+currency	TWD
+enterpriseValue	5791546880
+profitMargins	0.23634
+floatShares	285245000
+sharesOutstanding	285244992
+heldPercentInsiders	0.53019
+heldPercentInstitutions	0.03277
+impliedSharesOutstanding	295263008
+bookValue	33.701
+priceToBook	0.75368685
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	6.108
+netIncomeToCommon	889542976
+trailingEps	3.11
+lastSplitFactor	1050:1000
+lastSplitDate	1468454400	 (2016-07-14 08:00:00)
+enterpriseToRevenue	1.539
+enterpriseToEbitda	5.454
+52WeekChange	0.29923272
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5533.TW
+underlyingSymbol	5533.TW
+shortName	FOUNDING CONSTRUCTION DEVELOPME
+longName	Founding Construction Development Corp.
+firstTradeDateEpochUtc	1209517200	 (2008-04-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7f1c119d-b1b6-39ee-93f6-55b471516ad8
+messageBoardId	finmb_9735958
+gmtOffSetMilliseconds	28800000
+currentPrice	25.4
+recommendationKey	none
+totalCash	3335127040
+totalCashPerShare	11.692
+ebitda	1061947008
+totalDebt	1881451008
+quickRatio	3.043
+currentRatio	6.47
+totalRevenue	3763837952
+debtToEquity	19.572
+revenuePerShare	13.195
+returnOnAssets	0.051090002
+returnOnEquity	0.09528
+freeCashflow	1705693440
+operatingCashflow	2004195968
+earningsGrowth	5.971
+revenueGrowth	1.025
+grossMargins	0.32714
+ebitdaMargins	0.28214002
+operatingMargins	0.20674999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.151483      0.198021      0.074356      0.110304
+Normalized EBITDA                                           1123201000.0  1337217000.0  1249498000.0   403547000.0
+Net Income From Continuing Operation Net Minority Interest   889543000.0  1014698000.0  1061935000.0   242758000.0
+Reconciled Depreciation                                       71200000.0    68001000.0    91037000.0    89081000.0
+Reconciled Cost Of Revenue                                  2532524000.0  3517886000.0  2691369000.0  3234290000.0
+EBITDA                                                      1123201000.0  1337217000.0  1249498000.0   403547000.0
+EBIT                                                        1052001000.0  1269216000.0  1158461000.0   314466000.0
+Net Interest Income                                           13914000.0      406000.0   -10984000.0   -41394000.0
+Interest Expense                                               3651000.0     3973000.0    11222000.0    41611000.0
+Interest Income                                               17565000.0     4379000.0      238000.0      217000.0
+Normalized Income                                            889543000.0  1014698000.0  1061935000.0   242758000.0
+Net Income From Continuing And Discontinued Operation        889543000.0  1014698000.0  1061935000.0   242758000.0
+Total Expenses                                              2761447000.0  3782834000.0  2978084000.0  3521480000.0
+Rent Expense Supplemental                                      9115000.0     9562000.0     6878000.0     6340000.0
+Diluted Average Shares                                               NaN   285754000.0   285681000.0   285666000.0
+Basic Average Shares                                                 NaN   285245000.0   285245000.0   285245000.0
+Diluted EPS                                                          NaN          3.55          3.72          0.85
+Basic EPS                                                            NaN          3.56          3.72          0.85
+Diluted NI Availto Com Stockholders                          889543000.0  1014698000.0  1061935000.0   242758000.0
+Net Income Common Stockholders                               889543000.0  1014698000.0  1061935000.0   242758000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   889543000.0  1014698000.0  1061935000.0   242758000.0
+Minority Interests                                                   NaN           NaN           0.0           0.0
+Net Income Including Noncontrolling Interests                889543000.0  1014698000.0  1061935000.0   242758000.0
+Net Income Continuous Operations                             889543000.0  1014698000.0  1061935000.0   242758000.0
+Tax Provision                                                158807000.0   250545000.0    85304000.0    30097000.0
+Pretax Income                                               1048350000.0  1265243000.0  1147239000.0   272855000.0
+Other Non Operating Income Expenses                           32045000.0   232023000.0   364167000.0      831000.0
+Net Non Operating Interest Income Expense                     13914000.0      406000.0   -10984000.0   -41394000.0
+Interest Expense Non Operating                                 3651000.0     3973000.0    11222000.0    41611000.0
+Interest Income Non Operating                                 17565000.0     4379000.0      238000.0      217000.0
+Operating Income                                            1002391000.0  1032814000.0   794056000.0   313418000.0
+Operating Expense                                            228923000.0   264948000.0   286715000.0   287190000.0
+Other Operating Expenses                                     228923000.0   264948000.0   286715000.0   287190000.0
+Gross Profit                                                1231314000.0  1297762000.0  1080771000.0   600608000.0
+Cost Of Revenue                                             2532524000.0  3517886000.0  2691369000.0  3234290000.0
+Total Revenue                                               3763838000.0  4815648000.0  3772140000.0  3834898000.0
+Operating Revenue                                           3763838000.0  4815648000.0  3772140000.0  3834898000.0

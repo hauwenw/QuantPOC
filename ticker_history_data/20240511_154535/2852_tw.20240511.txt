@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No. 54, Zhongxiao East Road
+address2	10th and 11th Floors Section 1 Zhongzheng District
+city	Taipei
+country	Taiwan
+phone	886 2 2391 3271
+fax	886 2 2341 2864
+website	https://www.firstins.com.tw
+industry	Insurance - Property & Casualty
+industryKey	insurance-property-casualty
+industryDisp	Insurance - Property & Casualty
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	The First Insurance Co., Ltd. engages in the provision of a range of insurance products and related services to commercial and personal line customers in Taiwan. The company offers fire, fire and allied perils, residential fire and earthquake, and house all-risk insurance products; marine cargo and hull, fishing vessel, and carrier's liability insurance products; automobile hull and theft, automobile third party, and automobile and motorcycle liability insurance products, as well as automobile insurance and automobile/motorcycle liability insurance driver's injury riders; and erection all risk, installation all risk, electronic equipment, contractors' plant and machinery, boiler and pressure vessel, machinery breakdown, agricultural machinery all-risk, and civil engineering completed risk insurance products. It also provides public, elevator, contractors', employers', product, golfers', security, public transportation, hospital comprehensive, financial industry safety deposit box, and directors and officers liability insurance products, as well as professional indemnity for architects and engineers, accountants, lawyers, insurance agents/brokers, and travel agencies; and medical malpractice, human clinical trial, and golfers all risk insurance products. In addition, the company offers blanket fidelity bond and insurance brokers' blanket bond insurance products; credit, health, and aviation insurance products; money, burglary and theft, bankers' all risk, commercial property floater, artwork comprehensive, and shop insurance products; personal accident, group accident, comprehensive personal travel, women's comprehensive, credit card comprehensive, and micro-group casualty insurance products; reinsurance products for non-life risks; and damage prevention services. The First Insurance Co., Ltd. was founded in 1962 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	856
+companyOfficers	[{'maxAge': 1, 'name': 'Sin-Kun  Chen', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. FeiFen  Xiao', 'title': 'Assistant VP of Accounting Department & Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Ying  Yeh', 'title': 'Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-Huai  Liu', 'title': 'Chief Compliance Office of Corporate HQ', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. T  Chen', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Hong  Chen', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. S. Q.  Chen', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Y. C. Lee', 'title': 'Senior VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yin-Lung  Chen', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.85
+open	25.0
+dayLow	24.85
+dayHigh	25.5
+regularMarketPreviousClose	24.85
+regularMarketOpen	25.0
+regularMarketDayLow	24.85
+regularMarketDayHigh	25.5
+dividendRate	0.72
+dividendYield	0.0287
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	0.2667
+fiveYearAvgDividendYield	5.18
+trailingPE	9.277778
+volume	1897342
+regularMarketVolume	1897342
+averageVolume	1221264
+averageVolume10days	3225582
+averageDailyVolume10Day	3225582
+bid	25.05
+ask	25.15
+marketCap	7544158208
+fiftyTwoWeekLow	15.7
+fiftyTwoWeekHigh	25.75
+priceToSalesTrailing12Months	0.99821526
+fiftyDayAverage	20.407
+twoHundredDayAverage	18.20175
+trailingAnnualDividendRate	1.13
+trailingAnnualDividendYield	0.045472838
+currency	TWD
+enterpriseValue	4344271872
+profitMargins	0.10802
+sharesOutstanding	301164000
+heldPercentInsiders	0.32734
+heldPercentInstitutions	0.01808
+impliedSharesOutstanding	301934016
+bookValue	28.05
+priceToBook	0.8930481
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	2.413
+netIncomeToCommon	816342976
+trailingEps	2.7
+lastSplitFactor	106.5:100
+lastSplitDate	1216857600	 (2008-07-24 08:00:00)
+enterpriseToRevenue	0.575
+enterpriseToEbitda	4.457
+52WeekChange	0.5804416
+SandP52WeekChange	0.26265144
+lastDividendValue	0.72
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2852.TW
+underlyingSymbol	2852.TW
+shortName	FIRST INSURANCE CO
+longName	The First Insurance Co., Ltd.
+firstTradeDateEpochUtc	975546000	 (2000-11-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	573f7b45-f99a-340c-be15-707275ea7232
+messageBoardId	finmb_9951693
+gmtOffSetMilliseconds	28800000
+currentPrice	25.05
+recommendationKey	none
+totalCash	3166576128
+totalCashPerShare	10.566
+ebitda	974598976
+totalDebt	3510000
+quickRatio	0.31
+currentRatio	0.391
+totalRevenue	7557646848
+debtToEquity	0.042
+revenuePerShare	25.071
+returnOnAssets	0.03086
+returnOnEquity	0.10019
+freeCashflow	1283394816
+operatingCashflow	526201984
+earningsGrowth	2.389
+revenueGrowth	0.097
+grossMargins	0.34946
+ebitdaMargins	0.12896
+operatingMargins	0.15502
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -95275.102456     -24423.653276    -123169.786591    -698248.221613
+Tax Rate For Calcs                                                  0.156702          0.171998          0.143054          0.257656
+Total Unusual Items                                                -608000.0         -142000.0         -861000.0        -2710000.0
+Total Unusual Items Excluding Goodwill                             -608000.0         -142000.0         -861000.0        -2710000.0
+Net Income From Continuing Operation Net Minority Interest       636241000.0       558847000.0       553137000.0       152882000.0
+Reconciled Depreciation                                           50148000.0        50556000.0        45247000.0        36620000.0
+EBIT                                                             754581000.0       674952000.0       645510000.0       205981000.0
+Net Interest Income                                                -113000.0          -18000.0          -35000.0          -36000.0
+Interest Expense                                                    113000.0           18000.0           35000.0           36000.0
+Interest Income                                                  158584000.0        88902000.0        71957000.0        87428000.0
+Normalized Income                                           636753724.897544  558964576.346724  553874830.213409  154893751.778387
+Net Income From Continuing And Discontinued Operation            636241000.0       558847000.0       553137000.0       152882000.0
+Total Expenses                                                  6640135000.0      6257947000.0      5887622000.0      5640603000.0
+Diluted Average Shares                                           301536019.0       302079459.0       301425000.0       301352000.0
+Basic Average Shares                                             301536019.0       300455376.0       301164000.0       301164000.0
+Diluted EPS                                                             2.11              1.85              1.84              0.51
+Basic EPS                                                               2.11              1.86              1.84              0.51
+Diluted NI Availto Com Stockholders                              636241000.0       558847000.0       553137000.0       152882000.0
+Net Income Common Stockholders                                   636241000.0       558847000.0       553137000.0       152882000.0
+Net Income                                                       636241000.0       558847000.0       553137000.0       152882000.0
+Net Income Including Noncontrolling Interests                    636241000.0       558847000.0       553137000.0       152882000.0
+Net Income Continuous Operations                                 636241000.0       558847000.0       553137000.0       152882000.0
+Tax Provision                                                    118227000.0       116087000.0        92338000.0        53063000.0
+Pretax Income                                                    754468000.0       674934000.0       645475000.0       205945000.0
+Other Income Expense                                              61724000.0       143045000.0        29644000.0        16134000.0
+Special Income Charges                                             -608000.0         -142000.0         -861000.0        -2710000.0
+Other Special Charges                                               608000.0          142000.0          861000.0         2710000.0
+Net Non Operating Interest Income Expense                          -113000.0          -18000.0          -35000.0          -36000.0
+Interest Expense Non Operating                                      113000.0           18000.0           35000.0           36000.0
+Other Operating Expenses                                          17330000.0        15195000.0        14336000.0        14040000.0
+Selling General And Administration                              1531181000.0      1502127000.0      1472962000.0      1397212000.0
+General And Administrative Expense                              1531181000.0      1502127000.0      1472962000.0      1397212000.0
+Total Revenue                                                   7394603000.0      6932881000.0      6533097000.0      5846548000.0
+Operating Revenue                                               7394603000.0      6932881000.0      6533097000.0      5846548000.0

@@ -1,0 +1,135 @@
+=== Ticker Info ===
+address1	No. 99, Tiding Boulevard
+address2	Sec. 2 Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8752 7000
+fax	886 2 2798 5808
+website	https://www.o-bank.com
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	O-Bank Co., Ltd. provides various banking services to corporate clients in Taiwan. It offers corporate banking services, including short, mid, and long term financing for working capitals, guarantees, syndications, and factoring, as well as general trade finance, cross-strait banking, and forfaiting services. The company also provides trade financing services, such as export and import financing services; and project finance and syndicated loan products. In addition, it offers factoring services comprising account receivable, credit facilities, account management, asset-liability management, and collection services, as well as cash management services, which include corporate internet banking, and payable and receivable management services; and financial advisory services for mergers and acquisitions, corporate restructuring, spin off, share swap, tender offer, management buyout, leveraged buyout, fund raising, and private placement. Further, the company provides foreign exchange deposits; foreign currency guarantees; inward and outward remittance, as well as import and export services; interest rate products consisting of cross currency swaps, interest rate options, and interest rate swaps; exchange rate products, such as currency forward contract, currency options, and currency swaps; and structured products. Additionally, it offers securitization products, including real estate asset and asset backed securitization, and collateralized debt obligation services; monetary and property trust, as well as custodian services; financial consultancy services; and escrow services. The company was formerly known as Industrial Bank of Taiwan Co., Ltd. and changed its name to O-Bank Co., Ltd. in January 2017. O-Bank Co., Ltd. was founded in 1998 and is based in Taipei City, Taiwan.
+fullTimeEmployees	1466
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Fangyuan  Lee', 'title': 'President & Acting Chief Risk Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'H. I  Liu', 'title': 'Senior VP & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. H. J.  Fan', 'title': 'Executive VP of Supervise Operation Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wei Shen  Tang', 'title': 'Deputy General Manager of The Investment Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsin Yi  Tai', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Y. H.  Chyr', 'title': 'Senior  Executive Vice President of Supervise Information Technology Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. C. L.  Chao', 'title': 'Executive VP, Chief Compliance Officer & Supervises Legal & Compliance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xing Bang  Wang', 'title': 'Deputy General Manager of The Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi Feng  Lin', 'title': 'Deputy President & Supervise Financial Business Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L. J.  Lai', 'title': 'Executive Vice President of Supervise Risk Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	10.1
+open	10.15
+dayLow	10.1
+dayHigh	10.2
+regularMarketPreviousClose	10.1
+regularMarketOpen	10.15
+regularMarketDayLow	10.1
+regularMarketDayHigh	10.2
+dividendRate	0.38
+dividendYield	0.0374
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.48720002
+fiveYearAvgDividendYield	4.57
+beta	0.394
+trailingPE	13.01282
+volume	5936090
+regularMarketVolume	5936090
+averageVolume	8041482
+averageVolume10days	7917840
+averageDailyVolume10Day	7917840
+bid	10.1
+ask	10.15
+marketCap	27572168704
+fiftyTwoWeekLow	8.85
+fiftyTwoWeekHigh	10.4
+priceToSalesTrailing12Months	3.1879606
+fiftyDayAverage	9.9874
+twoHundredDayAverage	9.71475
+currency	TWD
+enterpriseValue	108471656448
+profitMargins	0.28818
+floatShares	1272530372
+sharesOutstanding	2716470016
+heldPercentInsiders	0.56224996
+heldPercentInstitutions	0.04441
+impliedSharesOutstanding	2729920000
+bookValue	13.662
+priceToBook	0.7429366
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.895
+netIncomeToCommon	2365338880
+trailingEps	0.78
+enterpriseToRevenue	12.542
+52WeekChange	0.014999986
+SandP52WeekChange	0.26265144
+lastDividendValue	0.38
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2897.TW
+underlyingSymbol	2897.TW
+shortName	O-BANK CO LTD
+longName	O-Bank Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	eaa5d01e-e9d5-32f4-b4d7-d8f69f608c7d
+messageBoardId	finmb_1067734
+gmtOffSetMilliseconds	28800000
+currentPrice	10.15
+recommendationKey	none
+totalCash	178604392448
+totalCashPerShare	65.749
+totalDebt	238098022400
+totalRevenue	8648842240
+revenuePerShare	3.171
+returnOnAssets	0.00569
+returnOnEquity	0.060890004
+operatingCashflow	-22175430656
+earningsGrowth	-0.891
+revenueGrowth	-0.689
+operatingMargins	0.27909002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -288868.730918      966773.802043      850616.736904    -1319160.626749
+Tax Rate For Calcs                                                   0.149595           0.122237           0.244009           0.253538
+Total Unusual Items                                                -1931000.0          7909000.0          3486000.0         -5203000.0
+Total Unusual Items Excluding Goodwill                             -1931000.0          7909000.0          3486000.0         -5203000.0
+Net Income From Continuing Operation Net Minority Interest       2492420000.0       5034471000.0       1845539000.0       1159980000.0
+Reconciled Depreciation                                           569103000.0        623209000.0        641135000.0        629471000.0
+Net Interest Income                                              2126277000.0       4581495000.0       4659927000.0       4024649000.0
+Interest Expense                                                11812867000.0       4766262000.0       2170292000.0       3709021000.0
+Interest Income                                                 13939144000.0       9347757000.0       6830219000.0       7733670000.0
+Normalized Income                                           2494062131.269082  5027528773.802043  1842903616.736904  1163863839.373251
+Net Income From Continuing And Discontinued Operation            2492420000.0       5034471000.0       1840842000.0       1147403000.0
+Diluted Average Shares                                                    NaN       3037069000.0       3031051000.0       2774683000.0
+Basic Average Shares                                                      NaN       2730822000.0       2727269000.0       2471797000.0
+Diluted EPS                                                               NaN               1.62               0.57               0.37
+Basic EPS                                                                 NaN                1.8               0.63               0.41
+Diluted NI Availto Com Stockholders                              2492420000.0       5034471000.0       1840842000.0       1147403000.0
+Net Income Common Stockholders                                   2492420000.0       5034471000.0       1840842000.0       1147403000.0
+Net Income                                                       2492420000.0       5034471000.0       1840842000.0       1147403000.0
+Minority Interests                                               -933639000.0       -773884000.0      -1359081000.0      -1153526000.0
+Net Income Including Noncontrolling Interests                    3426059000.0       5808355000.0       3199923000.0       2300929000.0
+Net Income Discontinuous Operations                                       NaN                0.0         -4697000.0        -12577000.0
+Net Income Continuous Operations                                 3426059000.0       5808355000.0       3204620000.0       2313506000.0
+Tax Provision                                                     602681000.0        808871000.0       1034348000.0        785791000.0
+Pretax Income                                                    4028740000.0       6617226000.0       4238968000.0       3099297000.0
+Other Non Operating Income Expenses                                55015000.0        196965000.0        215893000.0        129125000.0
+Special Income Charges                                             -1931000.0          7909000.0          3486000.0         -5203000.0
+Write Off                                                           1931000.0         -7909000.0         -3486000.0          5203000.0
+Gain On Sale Of Security                                         4856124000.0       4053386000.0       1262120000.0        218915000.0
+Operating Expense                                                4618171000.0       4895490000.0       4521920000.0       4357908000.0
+Other Operating Expenses                                                  0.0                0.0                0.0                0.0
+Depreciation And Amortization In Income Statement                 569103000.0        623209000.0        637957000.0        628777000.0
+Depreciation Income Statement                                     569103000.0        623209000.0        637957000.0        628777000.0
+Selling General And Administration                               1329632000.0       1285602000.0       1138450000.0       1119902000.0
+General And Administrative Expense                               1329632000.0       1285602000.0       1138450000.0       1119902000.0
+Total Revenue                                                    9329120000.0       8581456000.0       9000587000.0       8015335000.0
+Operating Revenue                                                9329120000.0       8581456000.0       9000587000.0       8015335000.0

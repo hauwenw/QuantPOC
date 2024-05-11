@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	Science-based Industrial Park
+address2	No. 8, Li-shing 7th Road
+city	Hsinchu City
+country	Taiwan
+phone	886 3 563 6666
+fax	886 3 563 6789
+website	https://www.alphanetworks.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Alpha Networks Inc. engages in the research and development, design, production, and sale of broadband products, computer network systems, wireless local area networks, and related accessories in Taiwan, Singapore, China, the United States, and internationally. The company's LAN/MAN products include data center, enterprise campus, small business, carrier access, and industrial ethernet network products; and wireless broadband products, such as mobile broadband, fixed broadband access, and wireless networking products. It also provides digital multimedia products, which include IP cameras; and mobile enterprise solutions, such as radar sensors, smart doorbells, T-box, AVM, and ADAS solutions. The company was incorporated in 2003 and is headquartered in Hsinchu City, Taiwan. Alpha Networks Inc. operates as a subsidiary of Qisda Corporation.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Wen-Fang  Huang', 'title': 'Chairperson, President & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kathy  Chen', 'title': 'CFO & Spokesperson', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shao-Ling  Chen', 'title': 'Head of Finance & Accounting, Corporate Governance Officer, Spokesperson and Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ting Gan  Kang', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.alphanetworks.com/_english/04_ir/00_overview.php
+maxAge	86400
+priceHint	2
+previousClose	32.0
+open	32.2
+dayLow	31.85
+dayHigh	32.35
+regularMarketPreviousClose	32.0
+regularMarketOpen	32.2
+regularMarketDayLow	31.85
+regularMarketDayHigh	32.35
+dividendRate	1.69
+dividendYield	0.0523
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	2.0864
+fiveYearAvgDividendYield	3.28
+trailingPE	39.87654
+forwardPE	14.816513
+volume	729178
+regularMarketVolume	729178
+averageVolume	2191530
+averageVolume10days	1361816
+averageDailyVolume10Day	1361816
+bid	32.3
+ask	32.35
+marketCap	17497522176
+fiftyTwoWeekLow	30.8
+fiftyTwoWeekHigh	48.8
+priceToSalesTrailing12Months	0.68394977
+fiftyDayAverage	34.506
+twoHundredDayAverage	36.666
+trailingAnnualDividendRate	1.01
+trailingAnnualDividendYield	0.0315625
+currency	TWD
+enterpriseValue	20075614208
+profitMargins	0.01722
+floatShares	211617371
+sharesOutstanding	541718976
+heldPercentInsiders	0.64638
+heldPercentInstitutions	0.05329
+impliedSharesOutstanding	560848000
+bookValue	17.548
+priceToBook	1.8406656
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.618
+netIncomeToCommon	440528992
+trailingEps	0.81
+forwardEps	2.18
+pegRatio	1.38
+lastSplitFactor	0.9:1
+lastSplitDate	1442534400	 (2015-09-18 08:00:00)
+enterpriseToRevenue	0.785
+enterpriseToEbitda	16.671
+52WeekChange	-0.06104654
+SandP52WeekChange	0.26265144
+lastDividendValue	1.69
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3380.TW
+underlyingSymbol	3380.TW
+shortName	ALPHA NETWORKS INC
+longName	Alpha Networks Inc.
+firstTradeDateEpochUtc	1103504400	 (2004-12-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ab14ed11-b43e-38da-a4fd-b27e9bf8bc13
+messageBoardId	finmb_20332929
+gmtOffSetMilliseconds	28800000
+currentPrice	32.3
+targetHighPrice	35.0
+targetLowPrice	35.0
+targetMeanPrice	35.0
+targetMedianPrice	35.0
+recommendationMean	2.7
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	5282988032
+totalCashPerShare	9.532
+ebitda	1204209024
+totalDebt	4189552896
+quickRatio	0.911
+currentRatio	1.705
+totalRevenue	25583050752
+debtToEquity	32.244
+revenuePerShare	46.991
+returnOnAssets	0.01487
+returnOnEquity	0.04165
+freeCashflow	1282877440
+operatingCashflow	2244379904
+earningsGrowth	-0.625
+revenueGrowth	-0.342
+grossMargins	0.18837999
+ebitdaMargins	0.047069997
+operatingMargins	0.01874
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   4939393.693561   -5670145.207564   -1792618.385877    5697799.524962
+Tax Rate For Calcs                                                  0.207494          0.245005          0.284092          0.211421
+Normalized EBITDA                                               1714051000.0      2382585000.0      1546317000.0      1645322000.0
+Total Unusual Items                                               23805000.0       -23143000.0        -6310000.0        26950000.0
+Total Unusual Items Excluding Goodwill                            23805000.0       -23143000.0        -6310000.0        26950000.0
+Net Income From Continuing Operation Net Minority Interest       547920000.0       917075000.0       433888000.0       556997000.0
+Reconciled Depreciation                                          774208000.0       705240000.0       746438000.0       708756000.0
+Reconciled Cost Of Revenue                                     23061018000.0     27380956000.0     23276437000.0     27164356000.0
+EBITDA                                                          1737856000.0      2359442000.0      1540007000.0      1672272000.0
+EBIT                                                             963648000.0      1654202000.0       793569000.0       963516000.0
+Net Interest Income                                              -74909000.0       -85772000.0       -11444000.0       -10721000.0
+Interest Expense                                                 156251000.0       120191000.0        38707000.0        44010000.0
+Interest Income                                                   81342000.0        34419000.0        27263000.0        33289000.0
+Normalized Income                                           529054393.693561  934547854.792436  438405381.614123  535744799.524962
+Net Income From Continuing And Discontinued Operation            547920000.0       917075000.0       433888000.0       556997000.0
+Total Expenses                                                 27466726000.0     31896522000.0     27146353000.0     31299992000.0
+Diluted Average Shares                                           541719000.0       541719000.0       543372000.0       543104000.0
+Basic Average Shares                                             541719000.0       541719000.0       541665000.0       540017000.0
+Diluted EPS                                                             1.01              1.68               0.8              1.03
+Basic EPS                                                               1.01              1.69               0.8              1.03
+Diluted NI Availto Com Stockholders                              547920000.0       917075000.0       433888000.0       556997000.0
+Net Income Common Stockholders                                   547920000.0       917075000.0       433888000.0       556997000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       547920000.0       917075000.0       433888000.0       556997000.0
+Minority Interests                                               -91947000.0      -241096000.0      -106524000.0      -168106000.0
+Net Income Including Noncontrolling Interests                    639867000.0      1158171000.0       540412000.0       725103000.0
+Net Income Continuous Operations                                 639867000.0      1158171000.0       540412000.0       725103000.0
+Tax Provision                                                    167530000.0       375840000.0       214450000.0       194403000.0
+Pretax Income                                                    807397000.0      1534011000.0       754862000.0       919506000.0
+Other Non Operating Income Expenses                               49580000.0      -101140000.0        56633000.0        32620000.0
+Special Income Charges                                            23805000.0       -23143000.0        -6310000.0        26950000.0
+Write Off                                                        -23805000.0        23143000.0         6310000.0       -26950000.0
+Net Non Operating Interest Income Expense                        -74909000.0       -85772000.0       -11444000.0       -10721000.0
+Interest Expense Non Operating                                   156251000.0       120191000.0        38707000.0        44010000.0
+Interest Income Non Operating                                     81342000.0        34419000.0        27263000.0        33289000.0
+Operating Income                                                 805465000.0      1737675000.0       715983000.0       870657000.0
+Operating Expense                                               4405708000.0      4515566000.0      3869916000.0      4135636000.0
+Research And Development                                        1889315000.0      1833973000.0      1473517000.0      1604780000.0
+Selling General And Administration                              2516393000.0      2681593000.0      2396399000.0      2530856000.0
+Selling And Marketing Expense                                   1303715000.0      1320302000.0      1142902000.0      1276014000.0
+General And Administrative Expense                              1212678000.0      1361291000.0      1253497000.0      1254842000.0
+Gross Profit                                                    5211173000.0      6253241000.0      4585899000.0      5006293000.0
+Cost Of Revenue                                                23061018000.0     27380956000.0     23276437000.0     27164356000.0
+Total Revenue                                                  28272191000.0     33634197000.0     27862336000.0     32170649000.0
+Operating Revenue                                              28272191000.0     33634197000.0     27862336000.0     32170649000.0

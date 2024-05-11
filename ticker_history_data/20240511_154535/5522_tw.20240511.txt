@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 200, Keelung Road
+address2	16th Floor Section 1
+city	Taipei
+country	Taiwan
+phone	886 2 2723 9999
+website	https://www.farglory-land.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Farglory Land Development Co., Ltd. operates as a construction company in Taiwan. The company builds, leases, and sells residential buildings and commercial buildings; invests in the construction of public buildings; and develops professional areas. The company was formerly known as Metropolitan Construction Co., Ltd. and changed its name to Farglory Land Development Co., Ltd. in December 2005. Farglory Land Development Co., Ltd. was founded in 1967 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yao Tang  Wang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hong-Zhang  Hsu', 'title': 'Senior Manager, CFO & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Edward  Cheng', 'title': 'Senior Manager & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	81.5
+open	82.5
+dayLow	80.0
+dayHigh	83.3
+regularMarketPreviousClose	81.5
+regularMarketOpen	82.5
+regularMarketDayLow	80.0
+regularMarketDayHigh	83.3
+dividendRate	3.5
+dividendYield	0.0438
+exDividendDate	1718668800	 (2024-06-18 08:00:00)
+payoutRatio	0.84209996
+fiveYearAvgDividendYield	8.3
+beta	0.315
+trailingPE	16.842106
+forwardPE	11.747431
+volume	6200397
+regularMarketVolume	6200397
+averageVolume	3178350
+averageVolume10days	11689246
+averageDailyVolume10Day	11689246
+bid	80.0
+ask	80.3
+marketCap	62527684608
+fiftyTwoWeekLow	54.9
+fiftyTwoWeekHigh	92.5
+priceToSalesTrailing12Months	2.8625464
+fiftyDayAverage	62.758
+twoHundredDayAverage	58.9855
+trailingAnnualDividendRate	4.5
+trailingAnnualDividendYield	0.055214725
+currency	TWD
+enterpriseValue	88125669376
+profitMargins	0.17018999
+floatShares	202878874
+sharesOutstanding	781596032
+heldPercentInsiders	0.66252
+heldPercentInstitutions	0.12439
+impliedSharesOutstanding	799521984
+bookValue	58.17
+priceToBook	1.3752794
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.263
+netIncomeToCommon	3717626880
+trailingEps	4.75
+forwardEps	6.81
+pegRatio	1.88
+lastSplitFactor	104:100
+lastSplitDate	1092268800	 (2004-08-12 08:00:00)
+enterpriseToRevenue	4.034
+enterpriseToEbitda	18.339
+52WeekChange	0.32013202
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1718668800	 (2024-06-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5522.TW
+underlyingSymbol	5522.TW
+shortName	FARGLORY LAND DEVELOPMENT CO. L
+longName	Farglory Land Development Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	77be1662-d062-330b-81fb-9392bd461c96
+messageBoardId	finmb_9682600
+gmtOffSetMilliseconds	28800000
+currentPrice	80.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	8019468800
+totalCashPerShare	10.26
+ebitda	4805262848
+totalDebt	33617457152
+quickRatio	0.179
+currentRatio	1.722
+totalRevenue	21843378176
+debtToEquity	73.941
+revenuePerShare	27.947
+returnOnAssets	0.0304
+returnOnEquity	0.08236
+freeCashflow	725192256
+operatingCashflow	1632055040
+earningsGrowth	0.266
+revenueGrowth	0.241
+grossMargins	0.30098
+ebitdaMargins	0.21999
+operatingMargins	0.25469
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    1021955.654459     1010528.435679     1069161.688393     1003072.563404
+Tax Rate For Calcs                                                   0.222794           0.207586           0.235602           0.219395
+Normalized EBITDA                                                5120725000.0       7424264000.0       8416875000.0       5349433000.0
+Total Unusual Items                                                 4587000.0          4868000.0          4538000.0          4572000.0
+Total Unusual Items Excluding Goodwill                              4587000.0          4868000.0          4538000.0          4572000.0
+Net Income From Continuing Operation Net Minority Interest       3717627000.0       5506108000.0       6080658000.0       3835390000.0
+Reconciled Depreciation                                           225773000.0        234523000.0        215181000.0        179502000.0
+Reconciled Cost Of Revenue                                      15268936000.0      17342831000.0      21975082000.0      19670060000.0
+EBITDA                                                           5125312000.0       7429132000.0       8421413000.0       5354005000.0
+EBIT                                                             4899539000.0       7194609000.0       8206232000.0       5174503000.0
+Net Interest Income                                               -32702000.0       -216582000.0       -224274000.0       -231291000.0
+Interest Expense                                                  116217000.0        246085000.0        251400000.0        257479000.0
+Interest Income                                                    83515000.0         29503000.0         27126000.0         26188000.0
+Normalized Income                                           3714061955.654459  5502250528.435679  6077189161.688393  3831821072.563404
+Net Income From Continuing And Discontinued Operation            3717627000.0       5506108000.0       6080658000.0       3835390000.0
+Total Expenses                                                  17149716000.0      19651758000.0      24963155000.0      21750554000.0
+Diluted Average Shares                                            782688000.0        783108000.0        781596000.0        790641000.0
+Basic Average Shares                                              781596000.0        781596000.0        781596000.0        789483000.0
+Diluted EPS                                                              4.75               7.03               7.76               4.85
+Basic EPS                                                                4.76               7.04               7.78               4.86
+Diluted NI Availto Com Stockholders                              3717627000.0       5506108000.0       6080658000.0       3835390000.0
+Net Income Common Stockholders                                   3717627000.0       5506108000.0       6080658000.0       3835390000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       3717627000.0       5506108000.0       6080658000.0       3835390000.0
+Minority Interests                                                        NaN                NaN                0.0         -2865000.0
+Net Income Including Noncontrolling Interests                    3717627000.0       5506108000.0       6080658000.0       3838255000.0
+Net Income Discontinuous Operations                                       NaN                NaN                0.0                0.0
+Net Income Continuous Operations                                 3717627000.0       5506108000.0       6080658000.0       3838255000.0
+Tax Provision                                                    1065695000.0       1442416000.0       1874174000.0       1078769000.0
+Pretax Income                                                    4783322000.0       6948524000.0       7954832000.0       4917024000.0
+Other Non Operating Income Expenses                               100904000.0        231258000.0         92683000.0         93271000.0
+Special Income Charges                                              4587000.0          4868000.0          4538000.0          4572000.0
+Other Special Charges                                              -4587000.0         -4868000.0         -4538000.0         -4572000.0
+Net Non Operating Interest Income Expense                         -32702000.0       -216582000.0       -224274000.0       -231291000.0
+Interest Expense Non Operating                                    116217000.0        246085000.0        251400000.0        257479000.0
+Interest Income Non Operating                                      83515000.0         29503000.0         27126000.0         26188000.0
+Operating Income                                                 4693662000.0       6930182000.0       8175170000.0       5095392000.0
+Operating Expense                                                1880780000.0       2308927000.0       2988073000.0       2080494000.0
+Other Operating Expenses                                          -34878000.0       -226967000.0       -124767000.0        -32254000.0
+Selling General And Administration                               1915658000.0       2535894000.0       3112840000.0       2112748000.0
+Selling And Marketing Expense                                    1020461000.0       1600483000.0       2128919000.0       1277379000.0
+General And Administrative Expense                                895197000.0        935411000.0        983921000.0        835369000.0
+Gross Profit                                                     6574442000.0       9239109000.0      11163243000.0       7175886000.0
+Cost Of Revenue                                                 15268936000.0      17342831000.0      21975082000.0      19670060000.0
+Total Revenue                                                   21843378000.0      26581940000.0      33138325000.0      26845946000.0
+Operating Revenue                                               21843378000.0      26581940000.0      33138325000.0      26845946000.0

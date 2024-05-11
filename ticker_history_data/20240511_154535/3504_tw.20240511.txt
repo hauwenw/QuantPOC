@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 7, Hsin-Ann Road
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	30076
+country	Taiwan
+phone	886 3 620 6789
+fax	886 3 623 1111
+website	https://www.youngoptics.com
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Young Optics Inc. engages in the research, design, manufacture, and sale of optical components, engines, and modules in Taiwan. The company offers plastic injection molds; machining parts, including metal barrel, spacer, retainer, cam ring, and flange products; components, such as plastic lens, glass molding lens, glass grinding lens, color wheels, glass light tunnels, reflection prisms, color filters, x-plates, mirrors, UVIR, and waveguide products; DLP evaluation modules, and DLP LED and UV engines; machine vision, projection, ADAS, lidar, endoscope, fixed, and varifocal lens, as well as logo and smart head lamps; and monocular HMD products. It also researches, develops, manufactures, and maintains LCD, equal ion, optical rear projection, and phase-capable high image digital TVs; video projectors; related optoelectronics; and imaging extracted and display optical parts. Young Optics Inc. was incorporated in 2002 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Claude  Hsu', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jyh-Horng  Shyu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	55.3
+open	55.3
+dayLow	54.9
+dayHigh	55.6
+regularMarketPreviousClose	55.3
+regularMarketOpen	55.3
+regularMarketDayLow	54.9
+regularMarketDayHigh	55.6
+exDividendDate	1563753600	 (2019-07-22 08:00:00)
+fiveYearAvgDividendYield	3.52
+forwardPE	222.0
+volume	189771
+regularMarketVolume	189771
+averageVolume	697231
+averageVolume10days	235351
+averageDailyVolume10Day	235351
+bid	55.4
+ask	55.5
+marketCap	6330330112
+fiftyTwoWeekLow	53.0
+fiftyTwoWeekHigh	91.0
+priceToSalesTrailing12Months	2.228278
+fiftyDayAverage	58.53
+twoHundredDayAverage	63.0865
+currency	TWD
+enterpriseValue	6090263552
+profitMargins	-0.15175
+floatShares	61541566
+sharesOutstanding	114060000
+heldPercentInsiders	0.63397
+heldPercentInstitutions	0.0016
+impliedSharesOutstanding	114475000
+bookValue	24.48
+priceToBook	2.2671568
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-431119008
+trailingEps	-3.78
+forwardEps	0.25
+lastSplitFactor	103:100
+lastSplitDate	1219968000	 (2008-08-29 08:00:00)
+enterpriseToRevenue	2.144
+enterpriseToEbitda	-77.221
+52WeekChange	-0.2580214
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1563753600	 (2019-07-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3504.TW
+underlyingSymbol	3504.TW
+shortName	YOUNG OPTICS INC
+longName	Young Optics Inc.
+firstTradeDateEpochUtc	1169773200	 (2007-01-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	12952ff6-1c6f-389a-be99-7ddf3c98334a
+messageBoardId	finmb_24864996
+gmtOffSetMilliseconds	28800000
+currentPrice	55.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	934534016
+totalCashPerShare	8.188
+ebitda	-78868000
+totalDebt	689945984
+quickRatio	1.441
+currentRatio	1.911
+totalRevenue	2840907008
+debtToEquity	24.69
+revenuePerShare	24.906
+returnOnAssets	-0.04652
+returnOnEquity	-0.14328
+freeCashflow	322632256
+operatingCashflow	282537984
+revenueGrowth	-0.232
+grossMargins	0.09867
+ebitdaMargins	-0.02776
+operatingMargins	-0.20236999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.003253      0.310417           0.2           0.2
+Normalized EBITDA                                             65874000.0   458107000.0   418865000.0   133278000.0
+Net Income From Continuing Operation Net Minority Interest  -287300000.0    64650000.0    26361000.0  -235563000.0
+Reconciled Depreciation                                      333654000.0   339404000.0   349061000.0   342703000.0
+Reconciled Cost Of Revenue                                  2693747000.0  3874230000.0  3777396000.0  3194202000.0
+EBITDA                                                        65874000.0   458107000.0   418865000.0   133278000.0
+EBIT                                                        -267780000.0   118703000.0    69804000.0  -209425000.0
+Net Interest Income                                            7672000.0    -3092000.0    -2475000.0     2545000.0
+Interest Expense                                              20906000.0    22455000.0    17946000.0    23364000.0
+Interest Income                                               28578000.0    19363000.0    15471000.0    25909000.0
+Normalized Income                                           -287300000.0    64650000.0    26361000.0  -235563000.0
+Net Income From Continuing And Discontinued Operation       -287300000.0    64650000.0    26361000.0  -235563000.0
+Total Expenses                                              3321866000.0  4665495000.0  4535366000.0  4141151000.0
+Diluted Average Shares                                       114060000.0   114254000.0   114119000.0   114060000.0
+Basic Average Shares                                         114060000.0   114060000.0   114060000.0   114060000.0
+Diluted EPS                                                        -2.52          0.57          0.23         -2.07
+Basic EPS                                                          -2.52          0.57          0.23         -2.07
+Diluted NI Availto Com Stockholders                         -287300000.0    64650000.0    26361000.0  -235563000.0
+Net Income Common Stockholders                              -287300000.0    64650000.0    26361000.0  -235563000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -287300000.0    64650000.0    26361000.0  -235563000.0
+Minority Interests                                              447000.0    -1721000.0     -613000.0      653000.0
+Net Income Including Noncontrolling Interests               -287747000.0    66371000.0    26974000.0  -236216000.0
+Net Income Continuous Operations                            -287747000.0    66371000.0    26974000.0  -236216000.0
+Tax Provision                                                  -939000.0    29877000.0    24884000.0     3427000.0
+Pretax Income                                               -288686000.0    96248000.0    51858000.0  -232789000.0
+Other Non Operating Income Expenses                           15139000.0    81332000.0    27033000.0      235000.0
+Net Non Operating Interest Income Expense                      7672000.0    -3092000.0    -2475000.0     2545000.0
+Interest Expense Non Operating                                20906000.0    22455000.0    17946000.0    23364000.0
+Interest Income Non Operating                                 28578000.0    19363000.0    15471000.0    25909000.0
+Operating Income                                            -311497000.0    18008000.0    27300000.0  -235569000.0
+Operating Expense                                            628119000.0   791265000.0   757970000.0   946949000.0
+Research And Development                                     345999000.0   441513000.0   407131000.0   615074000.0
+Selling General And Administration                           282120000.0   349752000.0   350839000.0   331875000.0
+Selling And Marketing Expense                                123116000.0   140240000.0   148286000.0   137082000.0
+General And Administrative Expense                           159004000.0   209512000.0   202553000.0   194793000.0
+Gross Profit                                                 316622000.0   809273000.0   785270000.0   711380000.0
+Cost Of Revenue                                             2693747000.0  3874230000.0  3777396000.0  3194202000.0
+Total Revenue                                               3010369000.0  4683503000.0  4562666000.0  3905582000.0
+Operating Revenue                                           3010369000.0  4683503000.0  4562666000.0  3905582000.0

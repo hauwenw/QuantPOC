@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.1, Jinfu Road
+address2	Qian-Zhen District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 831 4126
+fax	886 7 821 9495
+website	https://www.oceanalexander.com.tw
+industry	Recreational Vehicles
+industryKey	recreational-vehicles
+industryDisp	Recreational Vehicles
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Alexander Marine Co., Ltd. engages in the design, manufacture, and sale of yachts in Taiwan, Europe, Australia, and the United States. It also leases real estate properties. In addition, the company offers after sales services and repairs yachts and parts, as well as engages in the general investment activities. Alexander Marine Co., Ltd. was incorporated in 1978 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsiung Wei  Tseng', 'title': 'Vice Chairman & CEO', 'fiscalYear': 2021, 'totalPay': 4800000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chou Huang  Yu', 'title': 'CFO & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Cheng Lu', 'title': 'Manager of Investor Relations', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	363.0
+open	365.0
+dayLow	363.0
+dayHigh	369.0
+regularMarketPreviousClose	363.0
+regularMarketOpen	365.0
+regularMarketDayLow	363.0
+regularMarketDayHigh	369.0
+dividendRate	10.0
+dividendYield	0.0275
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	0.44009998
+trailingPE	16.028183
+forwardPE	12.821416
+volume	313162
+regularMarketVolume	313162
+averageVolume	803364
+averageVolume10days	397282
+averageDailyVolume10Day	397282
+bid	364.0
+ask	365.5
+marketCap	32021917696
+fiftyTwoWeekLow	331.0
+fiftyTwoWeekHigh	668.0
+priceToSalesTrailing12Months	4.882456
+fiftyDayAverage	388.32
+twoHundredDayAverage	395.4
+trailingAnnualDividendRate	12.0
+trailingAnnualDividendYield	0.03305785
+currency	TWD
+enterpriseValue	35109756928
+profitMargins	0.305
+floatShares	15696700
+sharesOutstanding	87972304
+heldPercentInsiders	0.77875
+heldPercentInstitutions	0.009330001
+impliedSharesOutstanding	92787800
+bookValue	75.7
+priceToBook	4.8084545
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.132
+netIncomeToCommon	2000360960
+trailingEps	22.71
+forwardEps	28.39
+lastSplitFactor	1259.953:1000
+lastSplitDate	1498608000	 (2017-06-28 08:00:00)
+enterpriseToRevenue	5.353
+enterpriseToEbitda	16.089
+52WeekChange	-0.27634197
+SandP52WeekChange	0.26265144
+lastDividendValue	10.0
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8478.TW
+underlyingSymbol	8478.TW
+shortName	ALEXANDER MARINE CO LTD
+longName	Alexander Marine Co., Ltd.
+firstTradeDateEpochUtc	1442970000	 (2015-09-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dc7f1adb-3d4a-3810-ac71-61e3629bdcc2
+messageBoardId	finmb_307331431
+gmtOffSetMilliseconds	28800000
+currentPrice	364.0
+targetHighPrice	465.0
+targetLowPrice	465.0
+targetMeanPrice	465.0
+targetMedianPrice	465.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	2092078976
+totalCashPerShare	23.788
+ebitda	2182230016
+totalDebt	5189294080
+quickRatio	1.67
+currentRatio	3.201
+totalRevenue	6558567936
+debtToEquity	77.946
+revenuePerShare	74.558
+returnOnAssets	0.11525
+returnOnEquity	0.33571
+freeCashflow	-2036902656
+operatingCashflow	-129815000
+earningsGrowth	-0.132
+revenueGrowth	0.147
+grossMargins	0.46483
+ebitdaMargins	0.33273
+operatingMargins	0.2944
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.060134      0.048351      0.040773      0.208194
+Normalized EBITDA                                           2486266000.0  2061889000.0  1100649000.0   366052000.0
+Net Income From Continuing Operation Net Minority Interest  2081427000.0  1753278000.0   854703000.0    94453000.0
+Reconciled Depreciation                                      157203000.0   161359000.0   150313000.0   181071000.0
+Reconciled Cost Of Revenue                                  3276915000.0  3031335000.0  2955202000.0  3223452000.0
+EBITDA                                                      2486266000.0  2061889000.0  1100649000.0   366052000.0
+EBIT                                                        2329063000.0  1900530000.0   950336000.0   184981000.0
+Net Interest Income                                           -1367000.0   -36453000.0   -58684000.0   -64711000.0
+Interest Expense                                             114464000.0    58173000.0    59303000.0    65693000.0
+Interest Income                                              113097000.0    21720000.0      619000.0      982000.0
+Normalized Income                                           2081427000.0  1753278000.0   854703000.0    94453000.0
+Net Income From Continuing And Discontinued Operation       2081427000.0  1753278000.0   854703000.0    94453000.0
+Total Expenses                                              4133197000.0  3693819000.0  3604593000.0  3997411000.0
+Diluted Average Shares                                        88053000.0    88074000.0    89675000.0    90816000.0
+Basic Average Shares                                          87972000.0    87972000.0    89499000.0    90528000.0
+Diluted EPS                                                        23.64         19.91          9.53          1.04
+Basic EPS                                                          23.66         19.93          9.55          1.04
+Diluted NI Availto Com Stockholders                         2081427000.0  1753278000.0   854703000.0    94453000.0
+Net Income Common Stockholders                              2081427000.0  1753278000.0   854703000.0    94453000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  2081427000.0  1753278000.0   854703000.0    94453000.0
+Net Income Including Noncontrolling Interests               2081427000.0  1753278000.0   854703000.0    94453000.0
+Net Income Continuous Operations                            2081427000.0  1753278000.0   854703000.0    94453000.0
+Tax Provision                                                133172000.0    89079000.0    36330000.0    24835000.0
+Pretax Income                                               2214599000.0  1842357000.0   891033000.0   119288000.0
+Other Non Operating Income Expenses                           24052000.0    17177000.0       53000.0   -43364000.0
+Net Non Operating Interest Income Expense                     -1367000.0   -36453000.0   -58684000.0   -64711000.0
+Interest Expense Non Operating                               114464000.0    58173000.0    59303000.0    65693000.0
+Interest Income Non Operating                                113097000.0    21720000.0      619000.0      982000.0
+Operating Income                                            2191914000.0  1861633000.0   949664000.0   227363000.0
+Operating Expense                                            856282000.0   662484000.0   649391000.0   773959000.0
+Selling General And Administration                           856282000.0   662484000.0   649391000.0   773959000.0
+Selling And Marketing Expense                                588557000.0   400356000.0   416177000.0   439501000.0
+General And Administrative Expense                           267725000.0   262128000.0   233214000.0   334458000.0
+Gross Profit                                                3048196000.0  2524117000.0  1599055000.0  1001322000.0
+Cost Of Revenue                                             3276915000.0  3031335000.0  2955202000.0  3223452000.0
+Total Revenue                                               6325111000.0  5555452000.0  4554257000.0  4224774000.0
+Operating Revenue                                           6325111000.0  5555452000.0  4554257000.0  4224774000.0

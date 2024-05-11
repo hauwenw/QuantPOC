@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 72-2 Sin-le Road
+address2	An-Ping Industrial District South District
+city	Tainan City
+zip	70248
+country	Taiwan
+phone	886 6 265 8781
+fax	886 6 263 0715
+website	https://www.tyc.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	TYC Brother Industrial Co., Ltd. engages in manufacture and sale of vehicle lighting products in Taiwan. It provides car lights, mirrors, cooling fans, radiators, and condensers, as well as blowers and window regulators. The company was founded in 1986 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yan-Shuo  Su', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Feng  Weng', 'title': 'Deputy GM of Finance Division & Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Tai  Ting', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	53.0
+open	58.3
+dayLow	58.3
+dayHigh	58.3
+regularMarketPreviousClose	53.0
+regularMarketOpen	58.3
+regularMarketDayLow	58.3
+regularMarketDayHigh	58.3
+dividendRate	1.8
+dividendYield	0.0309
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.3854
+fiveYearAvgDividendYield	4.15
+beta	0.625
+trailingPE	12.48394
+forwardPE	31.010637
+volume	5916247
+regularMarketVolume	5916247
+averageVolume	8497341
+averageVolume10days	4247835
+averageDailyVolume10Day	4247835
+bid	58.3
+marketCap	18187151360
+fiftyTwoWeekLow	28.05
+fiftyTwoWeekHigh	61.5
+priceToSalesTrailing12Months	0.9434371
+fiftyDayAverage	51.215
+twoHundredDayAverage	42.0765
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.03773585
+currency	TWD
+enterpriseValue	27838455808
+profitMargins	0.05671
+floatShares	147861935
+sharesOutstanding	311958016
+heldPercentInsiders	0.54312
+heldPercentInstitutions	0.04407
+impliedSharesOutstanding	314433984
+bookValue	28.452
+priceToBook	2.049065
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.838
+netIncomeToCommon	1033134016
+trailingEps	4.67
+forwardEps	1.88
+lastSplitFactor	1.01004:1
+lastSplitDate	1346889600	 (2012-09-06 08:00:00)
+enterpriseToRevenue	1.444
+enterpriseToEbitda	8.77
+52WeekChange	1.0637169
+SandP52WeekChange	0.26265144
+lastDividendValue	1.8
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1522.TW
+underlyingSymbol	1522.TW
+shortName	TYC BROTHER INDUSTRIAL
+longName	TYC Brother Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8ba327f0-cf1b-36e5-9237-14549e8764ff
+messageBoardId	finmb_9794157
+gmtOffSetMilliseconds	28800000
+currentPrice	58.3
+recommendationKey	none
+totalCash	2002448000
+totalCashPerShare	6.419
+ebitda	3174189056
+totalDebt	11014970368
+quickRatio	0.66
+currentRatio	1.306
+totalRevenue	19277545472
+debtToEquity	115.769
+revenuePerShare	61.795
+returnOnAssets	0.042090002
+returnOnEquity	0.123780005
+freeCashflow	3600313600
+operatingCashflow	3852370944
+earningsGrowth	0.853
+revenueGrowth	-0.025
+grossMargins	0.26811
+ebitdaMargins	0.16465999
+operatingMargins	0.11614
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -8318851.161229    3224101.708447    4811322.059007   19787936.401235
+Tax Rate For Calcs                                                   0.231253          0.209629          0.281743          0.297165
+Normalized EBITDA                                                3494253000.0      3092979000.0      2118176000.0      2201127000.0
+Total Unusual Items                                               -35973000.0        15380000.0        17077000.0        66589000.0
+Total Unusual Items Excluding Goodwill                            -35973000.0        15380000.0        17077000.0        66589000.0
+Net Income From Continuing Operation Net Minority Interest       1093134000.0       932533000.0       193271000.0       262616000.0
+Reconciled Depreciation                                          1643530000.0      1629649000.0      1669978000.0      1688698000.0
+Reconciled Cost Of Revenue                                      14109060000.0     15023323000.0     13569218000.0     11588776000.0
+EBITDA                                                           3458280000.0      3108359000.0      2135253000.0      2267716000.0
+EBIT                                                             1814750000.0      1478710000.0       465275000.0       579018000.0
+Net Interest Income                                              -310525000.0      -211126000.0      -135854000.0      -171117000.0
+Interest Expense                                                  310525000.0       211126000.0       135854000.0       171117000.0
+Normalized Income                                           1120788148.838771  920377101.708447  181005322.059007  215814936.401235
+Net Income From Continuing And Discontinued Operation            1093134000.0       932533000.0       193271000.0       262616000.0
+Total Expenses                                                  17528132000.0     18324815000.0     16143009000.0     14199782000.0
+Diluted Average Shares                                                    NaN       313072000.0       312717000.0       313022000.0
+Basic Average Shares                                                      NaN       311958000.0       311958000.0       311958000.0
+Diluted EPS                                                               NaN               2.9              0.62              0.84
+Basic EPS                                                                 NaN              2.91              0.62              0.84
+Diluted NI Availto Com Stockholders                              1093134000.0       932533000.0       193271000.0       262616000.0
+Net Income Common Stockholders                                   1093134000.0       932533000.0       193271000.0       262616000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0               0.0               0.0
+Net Income                                                       1093134000.0       932533000.0       193271000.0       262616000.0
+Minority Interests                                                -63235000.0       -69328000.0       -43338000.0       -24071000.0
+Net Income Including Noncontrolling Interests                    1156369000.0      1001861000.0       236609000.0       286687000.0
+Net Income Continuous Operations                                 1156369000.0      1001861000.0       236609000.0       286687000.0
+Tax Provision                                                     347856000.0       265723000.0        92812000.0       121214000.0
+Pretax Income                                                    1504225000.0      1267584000.0       329421000.0       407901000.0
+Other Non Operating Income Expenses                                82661000.0        60158000.0        91602000.0       191684000.0
+Special Income Charges                                             -9725000.0        48508000.0        -2527000.0        67976000.0
+Other Special Charges                                              -2918000.0       -44093000.0        -2387000.0         1473000.0
+Write Off                                                          12643000.0        -4415000.0         4914000.0       -20050000.0
+Impairment Of Capital Assets                                              NaN               NaN               0.0       -49399000.0
+Net Non Operating Interest Income Expense                        -310525000.0      -211126000.0      -135854000.0      -171117000.0
+Interest Expense Non Operating                                    310525000.0       211126000.0       135854000.0       171117000.0
+Operating Income                                                 1749413000.0       882411000.0       433606000.0       246426000.0
+Operating Expense                                                3419072000.0      3301492000.0      2573791000.0      2611006000.0
+Other Operating Expenses                                                  NaN               NaN          -11000.0          -10000.0
+Research And Development                                          396267000.0       375587000.0       344453000.0       425047000.0
+Selling General And Administration                               3022805000.0      2925905000.0      2229338000.0      2185959000.0
+Selling And Marketing Expense                                    1806898000.0      1788774000.0      1477807000.0      1361817000.0
+General And Administrative Expense                               1215907000.0      1137131000.0       751531000.0       824142000.0
+Gross Profit                                                     5168485000.0      4183903000.0      3007397000.0      2857432000.0
+Cost Of Revenue                                                 14109060000.0     15023323000.0     13569218000.0     11588776000.0
+Total Revenue                                                   19277545000.0     19207226000.0     16576615000.0     14446208000.0
+Operating Revenue                                               19277545000.0     19207226000.0     16576615000.0     14446208000.0

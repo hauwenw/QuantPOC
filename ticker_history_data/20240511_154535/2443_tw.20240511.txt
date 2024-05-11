@@ -1,0 +1,140 @@
+=== Ticker Info ===
+address1	No. 10, Keelung Road
+address2	1st floor, 5th Floor Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2502 0788
+fax	886 2 2516 5635
+website	https://www.leaddata.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lead Data Inc. manufactures and sells optical disc and multimedia products worldwide. It also offers medical assistive devices; and full-automatic unloading and shipping services. Lead Data Inc. was founded in 1985 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chen Yi Ling', 'title': 'Vice President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	4
+previousClose	3.57
+open	3.57
+dayLow	3.57
+dayHigh	3.57
+regularMarketPreviousClose	3.57
+regularMarketOpen	3.57
+regularMarketDayLow	3.57
+regularMarketDayHigh	3.57
+beta	0.315
+trailingPE	3.104348
+volume	1352398
+regularMarketVolume	1352398
+averageVolume	351769
+marketCap	520102624
+fiftyTwoWeekLow	2.27
+fiftyTwoWeekHigh	6.48
+priceToSalesTrailing12Months	44.233936
+fiftyDayAverage	4.0414
+twoHundredDayAverage	3.74705
+currency	TWD
+enterpriseValue	97452592
+profitMargins	14.274449
+sharesOutstanding	145687008
+heldPercentInsiders	0.3208
+impliedSharesOutstanding	146015008
+bookValue	3.352
+priceToBook	1.0650358
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+netIncomeToCommon	167839008
+trailingEps	1.15
+lastSplitFactor	0.411502:1
+lastSplitDate	1380758400	 (2013-10-03 08:00:00)
+enterpriseToRevenue	8.288
+enterpriseToEbitda	-2.364
+52WeekChange	0.17049181
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	2443.TW
+underlyingSymbol	2443.TW
+shortName	LEAD DATA INC
+longName	Lead Data Inc.
+firstTradeDateEpochUtc	978656400	 (2001-01-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2be9762e-1d19-39c2-9c20-548f7bb266c2
+messageBoardId	finmb_1432317
+gmtOffSetMilliseconds	28800000
+currentPrice	3.57
+recommendationKey	none
+totalCash	450152000
+totalCashPerShare	3.09
+ebitda	-41216000
+totalDebt	2508000
+quickRatio	10.634
+currentRatio	10.642
+totalRevenue	11758000
+debtToEquity	0.489
+revenuePerShare	0.081
+returnOnAssets	-0.06389
+returnOnEquity	0.39279997
+freeCashflow	-129604624
+operatingCashflow	-9273000
+revenueGrowth	-0.633
+grossMargins	-0.3208
+operatingMargins	-4.43011
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   5208400.0          0.0          0.0
+Tax Rate For Calcs                                                  0.2          0.0          0.0
+Normalized EBITDA                                            62156000.0  -49818000.0 -351978000.0
+Total Unusual Items                                          26042000.0  -25843000.0  -11166000.0
+Total Unusual Items Excluding Goodwill                       26042000.0  -25843000.0  -11166000.0
+Net Income From Continuing Operation Net Minority Interest   69575000.0 -105879000.0 -443385000.0
+Reconciled Depreciation                                      18952000.0   29662000.0   78275000.0
+Reconciled Cost Of Revenue                                   47350000.0  231354000.0  556288000.0
+EBITDA                                                       88198000.0  -75661000.0 -363144000.0
+EBIT                                                         69246000.0 -105323000.0 -441419000.0
+Net Interest Income                                           4878000.0     184000.0   -3933000.0
+Interest Expense                                              1028000.0    4641000.0    7247000.0
+Interest Income                                               5906000.0    4825000.0    3314000.0
+Normalized Income                                            48741400.0  -80036000.0 -432219000.0
+Net Income From Continuing And Discontinued Operation        69575000.0 -105879000.0 -443385000.0
+Total Expenses                                              109136000.0  312527000.0  917375000.0
+Rent Expense Supplemental                                     4768000.0    5511000.0          NaN
+Diluted Average Shares                                      145687000.0  145687000.0  145687000.0
+Basic Average Shares                                        145687000.0  145687000.0  145687000.0
+Diluted EPS                                                        0.48        -0.73        -3.04
+Basic EPS                                                          0.48        -0.73        -3.04
+Diluted NI Availto Com Stockholders                          69575000.0 -105879000.0 -443385000.0
+Net Income Common Stockholders                               69575000.0 -105879000.0 -443385000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0
+Net Income                                                   69575000.0 -105879000.0 -443385000.0
+Minority Interests                                            1357000.0    4085000.0    5281000.0
+Net Income Including Noncontrolling Interests                68218000.0 -109964000.0 -448666000.0
+Net Income Discontinuous Operations                                 NaN          NaN          0.0
+Net Income Continuous Operations                             68218000.0 -109964000.0 -448666000.0
+Tax Provision                                                       NaN          NaN          0.0
+Pretax Income                                                68218000.0 -109964000.0 -448666000.0
+Other Non Operating Income Expenses                         135458000.0   14822000.0     -18000.0
+Special Income Charges                                       41993000.0  -28689000.0  -11166000.0
+Other Special Charges                                       -52955000.0    -933000.0          NaN
+Write Off                                                    10962000.0   29622000.0   11166000.0
+Net Non Operating Interest Income Expense                     4878000.0     184000.0   -3933000.0
+Interest Expense Non Operating                                1028000.0    4641000.0    7247000.0
+Interest Income Non Operating                                 5906000.0    4825000.0    3314000.0
+Operating Income                                            -86455000.0 -102223000.0 -428867000.0
+Operating Expense                                            61786000.0   81173000.0  361087000.0
+Other Operating Expenses                                            NaN          NaN  191252000.0
+Research And Development                                            NaN          NaN          0.0
+Selling General And Administration                           61786000.0   81173000.0  169835000.0
+Selling And Marketing Expense                                 4551000.0   26273000.0   79746000.0
+General And Administrative Expense                           57235000.0   54900000.0   90089000.0
+Gross Profit                                                -24669000.0  -21050000.0  -67780000.0
+Cost Of Revenue                                              47350000.0  231354000.0  556288000.0
+Total Revenue                                                22681000.0  210304000.0  488508000.0
+Operating Revenue                                            22681000.0  210304000.0  488508000.0

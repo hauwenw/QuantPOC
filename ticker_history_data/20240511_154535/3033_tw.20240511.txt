@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 308, Neihu Road
+address2	11th Floor Sec.1 Neihu District
+city	Taipei
+zip	114663
+country	Taiwan
+phone	886 2 2659 0202
+fax	886 2 2658 0959
+website	https://www.weikeng.com.tw
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Weikeng Industrial Co., Ltd. purchases and sells electronic components and computer peripherals in Taiwan, China, and internationally. The company offers storage, micro controller, embedded processor, power discrete IC, sensing and display, discrete and passive components, programmable logic and display systems, ESD protection, connectors, power IC, digital audio/video, USB, RF, data and communication IC, and AI products, as well as signal chain, automotive software and cybersecurity, and vehicle data acquisition and processing solutions. It also provides technical support and advisory services; and data center, IoT application, automotive, networking, industrial, and consumer solutions. The company's products are used in various applications, including data and communication; and consumer, automotive, and industrial electronics, as well as IoT and smart applications. The company was incorporated in 1977 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ting Fang  Chi', 'title': 'President, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kan-Lin  Chou', 'title': 'Senior VP of Administration & Financing Division, Spokesperson and Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Hao  Chang', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Hsiang  Huang', 'title': 'Accounting Department Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Ting  Li', 'title': 'Chief Marketing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Sung  Su', 'title': 'Senior Vice President of ELCOM Business Division III', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Hung  Chen', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Chieh  Lu', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tung-Hui  Hung', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Hsin  Chen', 'title': 'Senior Vice President of ELCOM Business Division IX', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.05
+open	35.9
+dayLow	35.0
+dayHigh	36.35
+regularMarketPreviousClose	36.05
+regularMarketOpen	35.9
+regularMarketDayLow	35.0
+regularMarketDayHigh	36.35
+dividendRate	3.07
+dividendYield	0.0864
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	1.9051
+fiveYearAvgDividendYield	6.83
+beta	0.655
+trailingPE	22.049688
+volume	10711998
+regularMarketVolume	10711998
+averageVolume	6855109
+averageVolume10days	18002344
+averageDailyVolume10Day	18002344
+bid	35.45
+ask	35.5
+marketCap	15196520448
+fiftyTwoWeekLow	26.75
+fiftyTwoWeekHigh	39.65
+priceToSalesTrailing12Months	0.21436033
+fiftyDayAverage	32.957
+twoHundredDayAverage	29.994
+currency	TWD
+enterpriseValue	29552334848
+profitMargins	0.0111
+floatShares	363026460
+sharesOutstanding	428071008
+heldPercentInsiders	0.16559
+heldPercentInstitutions	0.06844
+impliedSharesOutstanding	452844992
+bookValue	20.478
+priceToBook	1.7335677
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.182
+netIncomeToCommon	786766976
+trailingEps	1.61
+lastSplitFactor	1059.793:1000
+lastSplitDate	1567036800	 (2019-08-29 08:00:00)
+enterpriseToRevenue	0.417
+enterpriseToEbitda	15.811
+52WeekChange	0.179402
+SandP52WeekChange	0.26265144
+lastDividendValue	3.067217
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3033.TW
+underlyingSymbol	3033.TW
+shortName	WEIKENG INDUSTRIAL CO
+longName	Weikeng Industrial Co., Ltd.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4a7e842f-6126-3472-99c6-0dbef4147a3f
+messageBoardId	finmb_8391276
+gmtOffSetMilliseconds	28800000
+currentPrice	35.5
+recommendationKey	none
+totalCash	2411581952
+totalCashPerShare	5.634
+ebitda	1869144960
+totalDebt	16767360000
+quickRatio	0.607
+currentRatio	1.402
+totalRevenue	70892412928
+debtToEquity	191.272
+revenuePerShare	166.533
+returnOnAssets	0.0321
+returnOnEquity	0.08768
+freeCashflow	787977856
+operatingCashflow	1081223936
+earningsGrowth	-0.187
+revenueGrowth	0.026
+grossMargins	0.06335
+ebitdaMargins	0.02637
+operatingMargins	0.02289
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -8334289.02568    -1913245.347732     5212167.175236      47352.694494
+Tax Rate For Calcs                                                 0.248792           0.270806           0.297872          0.250543
+Normalized EBITDA                                              2199805000.0       2979730000.0       2787220000.0      1361192000.0
+Total Unusual Items                                             -33499000.0         -7065000.0         17498000.0          189000.0
+Total Unusual Items Excluding Goodwill                          -33499000.0         -7065000.0         17498000.0          189000.0
+Net Income From Continuing Operation Net Minority Interest      786767000.0       1699134000.0       1721140000.0       699309000.0
+Reconciled Depreciation                                         181650000.0        193715000.0        184350000.0       176669000.0
+Reconciled Cost Of Revenue                                    66401232000.0      64791186000.0      67242044000.0     55345619000.0
+EBITDA                                                         2166306000.0       2972665000.0       2804718000.0      1361381000.0
+EBIT                                                           1984656000.0       2778950000.0       2620368000.0      1184712000.0
+Net Interest Income                                            -911635000.0       -441698000.0       -165667000.0      -246956000.0
+Interest Expense                                                937320000.0        448796000.0        169048000.0       251624000.0
+Interest Income                                                  25685000.0          7098000.0          3381000.0         4668000.0
+Normalized Income                                           811931710.97432  1704285754.652268  1708854167.175236  699167352.694494
+Net Income From Continuing And Discontinued Operation           786767000.0       1699134000.0       1721140000.0       699309000.0
+Total Expenses                                                68997195000.0      67552714000.0      69888844000.0     57434185000.0
+Diluted Average Shares                                          496160000.0        469375000.0        428599000.0       380741000.0
+Basic Average Shares                                            425695000.0        421319000.0        378742000.0       367751000.0
+Diluted EPS                                                            1.61               3.67               4.02              1.84
+Basic EPS                                                              1.85               4.03               4.54               1.9
+Diluted NI Availto Com Stockholders                             786767000.0       1699134000.0       1721140000.0       699309000.0
+Net Income Common Stockholders                                  786767000.0       1699134000.0       1721140000.0       699309000.0
+Otherunder Preferred Stock Dividend                                     0.0                0.0                0.0               0.0
+Net Income                                                      786767000.0       1699134000.0       1721140000.0       699309000.0
+Net Income Including Noncontrolling Interests                   786767000.0       1699134000.0       1721140000.0       699309000.0
+Net Income Continuous Operations                                786767000.0       1699134000.0       1721140000.0       699309000.0
+Tax Provision                                                   260569000.0        631020000.0        730180000.0       233779000.0
+Pretax Income                                                  1047336000.0       2330154000.0       2451320000.0       933088000.0
+Other Non Operating Income Expenses                              30458000.0         35926000.0         22057000.0        43565000.0
+Special Income Charges                                          -49367000.0          -282000.0          9577000.0        -3014000.0
+Write Off                                                        49367000.0           282000.0         -9577000.0         3014000.0
+Net Non Operating Interest Income Expense                      -911635000.0       -441698000.0       -165667000.0      -246956000.0
+Interest Expense Non Operating                                  937320000.0        448796000.0        169048000.0       251624000.0
+Interest Income Non Operating                                    25685000.0          7098000.0          3381000.0         4668000.0
+Operating Income                                               1895218000.0       2728465000.0       2516042000.0       979217000.0
+Operating Expense                                              2595963000.0       2761528000.0       2646800000.0      2088566000.0
+Selling General And Administration                             2595963000.0       2761528000.0       2646800000.0      2088566000.0
+Selling And Marketing Expense                                  2039128000.0       2128553000.0       2019819000.0      1615273000.0
+General And Administrative Expense                              556835000.0        632975000.0        626981000.0       473293000.0
+Gross Profit                                                   4491181000.0       5489993000.0       5162842000.0      3067783000.0
+Cost Of Revenue                                               66401232000.0      64791186000.0      67242044000.0     55345619000.0
+Total Revenue                                                 70892413000.0      70281179000.0      72404886000.0     58413402000.0
+Operating Revenue                                             70892413000.0      70281179000.0      72404886000.0     58413402000.0

@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	101, Nanrong Road
+address2	Dadu District
+city	Taichung
+zip	432402
+country	Taiwan
+phone	886 4 2693 3841
+fax	886 4 2693 7639
+website	https://www.sinon.com.tw
+industry	Agricultural Inputs
+industryKey	agricultural-inputs
+industryDisp	Agricultural Inputs
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Sinon Corporation manufactures and sells various chemicals and fertilizers. The company offers crop protection products, such as agrochemicals, fertilizers, farming materials, seeds, and seedlings, etc. It also provides product design, mold design and manufacturing, blow molding, injection molding, PET injection molding, PET extrusion blow molding, one-step injection blow molding, printing, gilding, labeling, shrink sleeving, etc. In addition, the company engages in the orchid business; houseware, catering services, and retail of agricultural products; import and export of medical and chemical products; designs and sale of software; software designing and information security maintenance; and retail sale of tobacco and alcoholic drinks, as well as supermarket. Further, it manufactures and sells cement, and offers pharmaceuticals. The company was formerly known as Shinung Chemical Industry Co., Ltd. and changed its name to Sinon Corporation in 1979. Sinon Corporation was founded in 1955 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chien-Min  Li', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Lian  Chang', 'title': 'Principal Financial Officer & Senior Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui-Chuan  Lai', 'title': 'Principal Accounting Officer & Senior Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pei-Shan  Chiang', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuei-Ju  Yu', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Ping  Wu', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	40.75
+open	40.65
+dayLow	40.5
+dayHigh	41.0
+regularMarketPreviousClose	40.75
+regularMarketOpen	40.65
+regularMarketDayLow	40.5
+regularMarketDayHigh	41.0
+dividendRate	2.8
+dividendYield	0.0683
+exDividendDate	1710374400	 (2024-03-14 08:00:00)
+payoutRatio	1.098
+fiveYearAvgDividendYield	6.15
+beta	0.246
+trailingPE	16.078432
+forwardPE	27.702702
+volume	443286
+regularMarketVolume	443286
+averageVolume	1443101
+averageVolume10days	1190702
+averageDailyVolume10Day	1190702
+bid	40.95
+ask	41.0
+marketCap	17240172544
+fiftyTwoWeekLow	34.8
+fiftyTwoWeekHigh	42.5
+priceToSalesTrailing12Months	0.9020218
+fiftyDayAverage	40.054
+twoHundredDayAverage	38.09425
+trailingAnnualDividendRate	2.8
+trailingAnnualDividendYield	0.06871165
+currency	TWD
+enterpriseValue	16828365824
+profitMargins	0.05509
+floatShares	345598170
+sharesOutstanding	420492000
+heldPercentInsiders	0.18899
+heldPercentInstitutions	0.09285
+impliedSharesOutstanding	421511008
+bookValue	20.222
+priceToBook	2.027495
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.119
+netIncomeToCommon	1052848000
+trailingEps	2.55
+forwardEps	1.48
+lastSplitFactor	1.01:1
+lastSplitDate	1249516800	 (2009-08-06 08:00:00)
+enterpriseToRevenue	0.88
+enterpriseToEbitda	9.631
+52WeekChange	0.14845943
+SandP52WeekChange	0.26265144
+lastDividendValue	2.8
+lastDividendDate	1710374400	 (2024-03-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1712.TW
+underlyingSymbol	1712.TW
+shortName	SINON CORP
+longName	Sinon Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	85b0c16d-9373-3e59-875b-3a724a8cf2a6
+messageBoardId	finmb_9819896
+gmtOffSetMilliseconds	28800000
+currentPrice	41.0
+recommendationKey	none
+totalCash	2391450112
+totalCashPerShare	5.687
+ebitda	1747232000
+totalDebt	1924672000
+quickRatio	0.972
+currentRatio	1.643
+totalRevenue	19112810496
+debtToEquity	22.49
+revenuePerShare	45.453
+returnOnAssets	0.0521
+returnOnEquity	0.12276
+freeCashflow	1828475520
+operatingCashflow	2513859072
+earningsGrowth	-0.112
+revenueGrowth	-0.102
+grossMargins	0.27205
+ebitdaMargins	0.09142
+operatingMargins	0.06514
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    3788201.842797    -3825507.624384     409805.260286   19380967.526242
+Tax Rate For Calcs                                                   0.234782           0.227777           0.19496          0.152269
+Normalized EBITDA                                                2077897000.0       2991615000.0      2043204000.0      1651935000.0
+Total Unusual Items                                                16135000.0        -16795000.0         2102000.0       127281000.0
+Total Unusual Items Excluding Goodwill                             16135000.0        -16795000.0         2102000.0       127281000.0
+Net Income From Continuing Operation Net Minority Interest       1052848000.0       1650368000.0       920914000.0       715593000.0
+Reconciled Depreciation                                           656070000.0        765869000.0       847017000.0       866923000.0
+Reconciled Cost Of Revenue                                      13913264000.0      16547510000.0     13430988000.0     12780094000.0
+EBITDA                                                           2094032000.0       2974820000.0      2045306000.0      1779216000.0
+EBIT                                                             1437962000.0       2208951000.0      1198289000.0       912293000.0
+Net Interest Income                                               -23290000.0        -49601000.0       -35581000.0       -51005000.0
+Interest Expense                                                   57343000.0         65368000.0        43599000.0        61175000.0
+Interest Income                                                    34053000.0         15767000.0         8018000.0        10170000.0
+Normalized Income                                           1040501201.842797  1663337492.375616  919221805.260286  607692967.526242
+Net Income From Continuing And Discontinued Operation            1052848000.0       1650368000.0       920914000.0       715593000.0
+Total Expenses                                                  17799241000.0      20991350000.0     17502723000.0     16506589000.0
+Diluted Average Shares                                                    NaN        421125000.0       420963000.0       420996000.0
+Basic Average Shares                                                      NaN        420492000.0       420492000.0       420492000.0
+Diluted EPS                                                               NaN               3.92              2.19               1.7
+Basic EPS                                                                 NaN               3.92              2.19               1.7
+Diluted NI Availto Com Stockholders                              1052848000.0       1650368000.0       920914000.0       715593000.0
+Net Income Common Stockholders                                   1052848000.0       1650368000.0       920914000.0       715593000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0               0.0
+Net Income                                                       1052848000.0       1650368000.0       920914000.0       715593000.0
+Minority Interests                                                 -3627000.0         -4957000.0        -8658000.0        -5926000.0
+Net Income Including Noncontrolling Interests                    1056475000.0       1655325000.0       929572000.0       721519000.0
+Net Income Continuous Operations                                 1056475000.0       1655325000.0       929572000.0       721519000.0
+Tax Provision                                                     324144000.0        488258000.0       225118000.0       129599000.0
+Pretax Income                                                    1380619000.0       2143583000.0      1154690000.0       851118000.0
+Other Non Operating Income Expenses                                68720000.0        156803000.0        41253000.0        84219000.0
+Special Income Charges                                             16135000.0        -16795000.0         2102000.0       -20865000.0
+Other Special Charges                                                     NaN                NaN       -50557000.0         5099000.0
+Write Off                                                         -16135000.0         16795000.0        -2102000.0        15766000.0
+Net Non Operating Interest Income Expense                         -23290000.0        -49601000.0       -35581000.0       -51005000.0
+Interest Expense Non Operating                                     57343000.0         65368000.0        43599000.0        61175000.0
+Interest Income Non Operating                                      34053000.0         15767000.0         8018000.0        10170000.0
+Operating Income                                                 1313569000.0       2051526000.0      1143152000.0       977812000.0
+Operating Expense                                                3885977000.0       4443840000.0      4071735000.0      3726495000.0
+Research And Development                                          212893000.0        223904000.0       184750000.0       184264000.0
+Selling General And Administration                               3673084000.0       4219936000.0      3886985000.0      3542231000.0
+Selling And Marketing Expense                                    3408578000.0       3930882000.0      3650806000.0      3316629000.0
+General And Administrative Expense                                264506000.0        289054000.0       236179000.0       225602000.0
+Gross Profit                                                     5199546000.0       6495366000.0      5214887000.0      4704307000.0
+Cost Of Revenue                                                 13913264000.0      16547510000.0     13430988000.0     12780094000.0
+Total Revenue                                                   19112810000.0      23042876000.0     18645875000.0     17484401000.0
+Operating Revenue                                               19112810000.0      23042876000.0     18645875000.0     17484401000.0

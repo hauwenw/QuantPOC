@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No.50, 52, Dinghu Road
+address2	Dahu Li Guishan District
+city	Taoyuan City
+zip	333
+country	Taiwan
+phone	886 3 328 2391
+fax	886 3 328 4228
+website	https://www.isheng.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	I-Sheng Electric Wire & Cable Co., Ltd. manufactures, processes, and trades in power transmission lines, electronic signal lines, and network routes with connectors in Taiwan. It offers power plugs and connectors, PVC and rubber power supply cords, photovoltaic wire, power strips and night light, and Lan cable. The company also provides hook up wire, coaxial cables, computer cables, telephone wires, and computer peripheral cables; and electric vehicle charging cable. Its products are used in computer, communication, and consumer electronics products. The company was founded in 1973 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yi-Hsiung  Fang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Jung  Kao', 'title': 'Financial Manager & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	54.6
+open	55.2
+dayLow	55.2
+dayHigh	56.9
+regularMarketPreviousClose	54.6
+regularMarketOpen	55.2
+regularMarketDayLow	55.2
+regularMarketDayHigh	56.9
+dividendRate	3.2
+dividendYield	0.0575
+exDividendDate	1688688000	 (2023-07-07 08:00:00)
+payoutRatio	1.1388
+fiveYearAvgDividendYield	6.78
+beta	0.2
+trailingPE	19.822065
+forwardPE	14.173028
+volume	719868
+regularMarketVolume	719868
+averageVolume	353484
+averageVolume10days	581023
+averageDailyVolume10Day	581023
+bid	55.7
+ask	55.9
+marketCap	10452773888
+fiftyTwoWeekLow	44.2
+fiftyTwoWeekHigh	58.0
+priceToSalesTrailing12Months	1.6515573
+fiftyDayAverage	52.302
+twoHundredDayAverage	47.388
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.054945055
+currency	TWD
+enterpriseValue	9192890368
+profitMargins	0.08361
+floatShares	101725940
+sharesOutstanding	187662000
+heldPercentInsiders	0.46757
+heldPercentInstitutions	0.00983
+impliedSharesOutstanding	189856992
+bookValue	26.993
+priceToBook	2.063498
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.561
+netIncomeToCommon	529177984
+trailingEps	2.81
+forwardEps	3.93
+lastSplitFactor	1.0491:1
+lastSplitDate	1249862400	 (2009-08-10 08:00:00)
+enterpriseToRevenue	1.452
+enterpriseToEbitda	13.029
+52WeekChange	0.22958052
+SandP52WeekChange	0.26265144
+lastDividendValue	3.2
+lastDividendDate	1688688000	 (2023-07-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6115.TW
+underlyingSymbol	6115.TW
+shortName	I-SHENG ELECTRIC WIRE & CABLE C
+longName	I-Sheng Electric Wire & Cable Co., Ltd.
+firstTradeDateEpochUtc	1090198800	 (2004-07-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f038bf48-b357-31b2-8185-375b19552c98
+messageBoardId	finmb_11500474
+gmtOffSetMilliseconds	28800000
+currentPrice	55.7
+recommendationKey	none
+totalCash	3333538048
+totalCashPerShare	17.764
+ebitda	705584000
+totalDebt	2000899968
+quickRatio	2.238
+currentRatio	2.58
+totalRevenue	6329040896
+debtToEquity	38.941
+revenuePerShare	33.726
+returnOnAssets	0.043530002
+returnOnEquity	0.099759996
+freeCashflow	629288512
+operatingCashflow	748822976
+earningsGrowth	-0.56
+revenueGrowth	-0.098
+grossMargins	0.17229
+ebitdaMargins	0.11148
+operatingMargins	0.09053001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1197683.608059      -5047.677215    2822841.942091       4922.757342
+Tax Rate For Calcs                                                  0.330487          0.252384          0.277893          0.378674
+Normalized EBITDA                                                924119000.0      1197053000.0       812890000.0       927680000.0
+Total Unusual Items                                               -3624000.0          -20000.0        10158000.0           13000.0
+Total Unusual Items Excluding Goodwill                            -3624000.0          -20000.0        10158000.0           13000.0
+Net Income From Continuing Operation Net Minority Interest       529178000.0       800870000.0       507481000.0       484292000.0
+Reconciled Depreciation                                          107412000.0       110322000.0       104688000.0       133985000.0
+Reconciled Cost Of Revenue                                      5238639000.0      6030387000.0      6539844000.0      4839553000.0
+EBITDA                                                           920495000.0      1197033000.0       823048000.0       927693000.0
+EBIT                                                             813083000.0      1086711000.0       718360000.0       793708000.0
+Net Interest Income                                               62992000.0        25770000.0        28954000.0        20471000.0
+Interest Expense                                                  36976000.0        17542000.0        19711000.0        19136000.0
+Interest Income                                                   99968000.0        43312000.0        48665000.0        39607000.0
+Normalized Income                                           531604316.391941  800884952.322785  500145841.942091  484283922.757342
+Net Income From Continuing And Discontinued Operation            529178000.0       800870000.0       507481000.0       484292000.0
+Total Expenses                                                  5727245000.0      6565082000.0      7055319000.0      5326684000.0
+Diluted Average Shares                                                   NaN       188559000.0       188382000.0       188318000.0
+Basic Average Shares                                                     NaN       187662000.0       187662000.0       187662000.0
+Diluted EPS                                                              NaN              4.25              2.69              2.57
+Basic EPS                                                                NaN              4.27               2.7              2.58
+Diluted NI Availto Com Stockholders                              529178000.0       800870000.0       507481000.0       484292000.0
+Net Income Common Stockholders                                   529178000.0       800870000.0       507481000.0       484292000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       529178000.0       800870000.0       507481000.0       484292000.0
+Minority Interests                                                 9564000.0         1542000.0         2982000.0         3030000.0
+Net Income Including Noncontrolling Interests                    519614000.0       799328000.0       504499000.0       481262000.0
+Net Income Continuous Operations                                 519614000.0       799328000.0       504499000.0       481262000.0
+Tax Provision                                                    256493000.0       269841000.0       194150000.0       293310000.0
+Pretax Income                                                    776107000.0      1069169000.0       698649000.0       774572000.0
+Other Non Operating Income Expenses                               80916000.0       331728000.0       -35788000.0      -124362000.0
+Special Income Charges                                            -3624000.0          -20000.0        10158000.0           13000.0
+Write Off                                                          3624000.0           20000.0       -10158000.0          -13000.0
+Net Non Operating Interest Income Expense                         62992000.0        25770000.0        28954000.0        20471000.0
+Interest Expense Non Operating                                    36976000.0        17542000.0        19711000.0        19136000.0
+Interest Income Non Operating                                     99968000.0        43312000.0        48665000.0        39607000.0
+Operating Income                                                 601796000.0       688093000.0       670187000.0       847460000.0
+Operating Expense                                                488606000.0       534695000.0       515475000.0       487131000.0
+Research And Development                                          73291000.0        92491000.0       109386000.0        93083000.0
+Selling General And Administration                               415315000.0       442204000.0       406089000.0       394048000.0
+Selling And Marketing Expense                                    178840000.0       197924000.0       189090000.0       186430000.0
+General And Administrative Expense                               236475000.0       244280000.0       216999000.0       207618000.0
+Gross Profit                                                    1090402000.0      1222788000.0      1185662000.0      1334591000.0
+Cost Of Revenue                                                 5238639000.0      6030387000.0      6539844000.0      4839553000.0
+Total Revenue                                                   6329041000.0      7253175000.0      7725506000.0      6174144000.0
+Operating Revenue                                               6329041000.0      7253175000.0      7725506000.0      6174144000.0

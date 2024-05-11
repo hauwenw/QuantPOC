@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	70, Xining North Road
+address2	6th Floor Datong District
+city	Taipei
+country	Taiwan
+phone	886 2 2555 7680
+fax	886 2 2558 7492
+website	https://www.lily.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Lily Textile Co., Ltd. engages in textile and logistics business activities in Taiwan. It engages in the spinning, weaving, processing, trading, bidding, and agency businesses of natural cotton, man-made fibers, and various chemical fibers. The company also constructs and sells buildings. In addition, it is involved in the warehousing, logitics, tally, processing, distribution, and information integration services, as well as e-commerce logistics activities. The company was founded in 1961 and is based in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	32.15
+open	31.7
+dayLow	31.7
+dayHigh	32.55
+regularMarketPreviousClose	32.15
+regularMarketOpen	31.7
+regularMarketDayLow	31.7
+regularMarketDayHigh	32.55
+beta	0.42
+trailingPE	25.116282
+volume	44662
+regularMarketVolume	44662
+averageVolume	70285
+averageVolume10days	54618
+averageDailyVolume10Day	54618
+bid	32.05
+ask	32.4
+marketCap	4385113600
+fiftyTwoWeekLow	27.55
+fiftyTwoWeekHigh	34.75
+priceToSalesTrailing12Months	5.616504
+fiftyDayAverage	29.539
+twoHundredDayAverage	28.8075
+currency	TWD
+enterpriseValue	8540917248
+profitMargins	0.22377001
+sharesOutstanding	135343008
+heldPercentInsiders	0.62092
+heldPercentInstitutions	0.00014999999
+impliedSharesOutstanding	137967008
+bookValue	14.599
+priceToBook	2.2193303
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.661
+netIncomeToCommon	174711008
+trailingEps	1.29
+lastSplitFactor	0.464673:1
+lastSplitDate	1315353600	 (2011-09-07 08:00:00)
+enterpriseToRevenue	10.939
+enterpriseToEbitda	23.911
+52WeekChange	0.13089001
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	1443.TW
+underlyingSymbol	1443.TW
+shortName	LILY TEXTILE CO LTD
+longName	Lily Textile Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f4fcb736-bdfd-39d1-92e0-994b86890097
+messageBoardId	finmb_9709549
+gmtOffSetMilliseconds	28800000
+currentPrice	32.4
+recommendationKey	none
+totalCash	133528000
+totalCashPerShare	0.987
+ebitda	357199008
+totalDebt	4660038144
+quickRatio	0.083
+currentRatio	0.159
+totalRevenue	780755008
+debtToEquity	290.327
+revenuePerShare	5.769
+returnOnAssets	0.024319999
+returnOnEquity	0.096990004
+freeCashflow	-320359360
+operatingCashflow	267198000
+earningsGrowth	-0.706
+revenueGrowth	0.042
+grossMargins	0.46293
+ebitdaMargins	0.4575
+operatingMargins	0.35312
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31        2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   -274800.0    -295953.053631      -3006.089748          0.0
+Tax Rate For Calcs                                                  0.2          0.023569           0.03666     0.020474
+Normalized EBITDA                                           345592000.0       351355000.0       380557000.0   91686000.0
+Total Unusual Items                                          -1374000.0       -12557000.0          -82000.0          0.0
+Total Unusual Items Excluding Goodwill                       -1374000.0       -12557000.0          -82000.0          0.0
+Net Income From Continuing Operation Net Minority Interest  174711000.0       225446000.0       224808000.0  -27178000.0
+Reconciled Depreciation                                     104124000.0        97946000.0        76196000.0   58337000.0
+Reconciled Cost Of Revenue                                  419321000.0       501431000.0       609797000.0  414023000.0
+EBITDA                                                      344218000.0       338798000.0       380475000.0   91686000.0
+EBIT                                                        240094000.0       240852000.0       304279000.0   33349000.0
+Net Interest Income                                         -91907000.0       -89322000.0       -85073000.0  -75865000.0
+Interest Expense                                             98643000.0        94387000.0        89656000.0   81264000.0
+Interest Income                                               6736000.0         5065000.0         4583000.0    5399000.0
+Normalized Income                                           175810200.0  237707046.946369  224886993.910252  -27178000.0
+Net Income From Continuing And Discontinued Operation       174711000.0       225446000.0       222187000.0  -38981000.0
+Total Expenses                                              516129000.0       589114000.0       684641000.0  478665000.0
+Diluted Average Shares                                              NaN       135343000.0       134922000.0  134882000.0
+Basic Average Shares                                                NaN       135343000.0       134922000.0  134882000.0
+Diluted EPS                                                         NaN              1.67              1.65        -0.29
+Basic EPS                                                           NaN              1.67              1.65        -0.29
+Diluted NI Availto Com Stockholders                         174711000.0       225446000.0       222187000.0  -38981000.0
+Net Income Common Stockholders                              174711000.0       225446000.0       222187000.0  -38981000.0
+Otherunder Preferred Stock Dividend                                 0.0               0.0               0.0          0.0
+Net Income                                                  174711000.0       225446000.0       222187000.0  -38981000.0
+Minority Interests                                           31983000.0        82433000.0        18053000.0   19756000.0
+Net Income Including Noncontrolling Interests               142728000.0       143013000.0       204134000.0  -58737000.0
+Net Income Discontinuous Operations                                 NaN               0.0        -2621000.0  -11803000.0
+Net Income Continuous Operations                            142728000.0       143013000.0       206755000.0  -46934000.0
+Tax Provision                                                -1277000.0         3452000.0         7868000.0    -981000.0
+Pretax Income                                               141451000.0       146465000.0       214623000.0  -47915000.0
+Other Non Operating Income Expenses                         -33147000.0       -20738000.0       -30372000.0  -62828000.0
+Special Income Charges                                       -1374000.0       -12557000.0          -82000.0          0.0
+Write Off                                                     1374000.0        12557000.0           82000.0          0.0
+Net Non Operating Interest Income Expense                   -91907000.0       -89322000.0       -85073000.0  -75865000.0
+Interest Expense Non Operating                               98643000.0        94387000.0        89656000.0   81264000.0
+Interest Income Non Operating                                 6736000.0         5065000.0         4583000.0    5399000.0
+Operating Income                                            264626000.0       258386000.0       182176000.0   90736000.0
+Operating Expense                                            96808000.0        87683000.0        74844000.0   64642000.0
+Selling General And Administration                           96808000.0        87683000.0        74844000.0   64642000.0
+Selling And Marketing Expense                                11233000.0        18120000.0        17082000.0   15521000.0
+General And Administrative Expense                           85575000.0        69563000.0        57762000.0   49121000.0
+Gross Profit                                                361434000.0       346069000.0       257020000.0  155378000.0
+Cost Of Revenue                                             419321000.0       501431000.0       609797000.0  414023000.0
+Total Revenue                                               780755000.0       847500000.0       866817000.0  569401000.0
+Operating Revenue                                           780755000.0       847500000.0       866817000.0  569401000.0

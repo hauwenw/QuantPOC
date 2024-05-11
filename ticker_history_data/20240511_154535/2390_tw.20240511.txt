@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 50, Zhonghua Road
+address2	3rd Floor Section 1 Tucheng District
+city	New Taipei City
+zip	23666
+country	Taiwan
+phone	886 2 2260 6868
+fax	886 2 2260 1313
+website	https://www.everspring.com
+industry	Security & Protection Services
+industryKey	security-protection-services
+industryDisp	Security & Protection Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Everspring Industry Co., Ltd. engages in the manufacturing, reprocessing, and trading of burglar alarm and other electronic products and parts. It offers disaster prevention and security solutions; lighting control equipment and accessories of burglar alarms; and intelligent security equipment. The company also invests in production, securities investment, bank and insurance, etc.; develops, manages, maintains, and leases residential buildings, as well as trades in real estate properties; and sells lube. Everspring Industry Co., Ltd. was founded in 1980 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Lily  Lu', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lizhu  Lu', 'title': 'Associate of Career Management Center & Financial Manager', 'fiscalYear': 2020, 'totalPay': 1370000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu Ting  Lee', 'title': 'Director of Accounting & Accounting Supervisor', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Junhao  Ju', 'title': 'Senior Associate', 'fiscalYear': 2020, 'totalPay': 2088000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wenzong  Chiu', 'title': 'Associate', 'fiscalYear': 2020, 'totalPay': 2230000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsinhua  Wang', 'title': 'Associate', 'fiscalYear': 2020, 'totalPay': 1194000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	13.3
+open	13.45
+dayLow	13.3
+dayHigh	13.5
+regularMarketPreviousClose	13.3
+regularMarketOpen	13.45
+regularMarketDayLow	13.3
+regularMarketDayHigh	13.5
+exDividendDate	1666828800	 (2022-10-27 08:00:00)
+beta	0.974
+volume	334831
+regularMarketVolume	334831
+averageVolume	739255
+averageVolume10days	338490
+averageDailyVolume10Day	338490
+bid	13.3
+ask	13.35
+marketCap	2561832960
+fiftyTwoWeekLow	11.6
+fiftyTwoWeekHigh	17.8
+priceToSalesTrailing12Months	3.9514704
+fiftyDayAverage	13.463
+twoHundredDayAverage	14.1455
+currency	TWD
+enterpriseValue	1530719744
+profitMargins	-0.124139994
+sharesOutstanding	192619008
+heldPercentInsiders	0.32359
+heldPercentInstitutions	0.00637
+impliedSharesOutstanding	192619008
+bookValue	13.348
+priceToBook	0.996404
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-80481000
+trailingEps	-0.42
+lastSplitFactor	900:1000
+lastSplitDate	1666828800	 (2022-10-27 08:00:00)
+enterpriseToRevenue	2.361
+enterpriseToEbitda	109.973
+52WeekChange	0.14163089
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1666828800	 (2022-10-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2390.TW
+underlyingSymbol	2390.TW
+shortName	EVERSPRING INDUSTRY
+longName	Everspring Industry Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0a846024-6b2b-367c-8bf1-5745e54f9c23
+messageBoardId	finmb_9870504
+gmtOffSetMilliseconds	28800000
+currentPrice	13.3
+recommendationKey	none
+totalCash	1269094016
+totalCashPerShare	6.589
+ebitda	13919000
+totalDebt	237702000
+quickRatio	2.983
+currentRatio	4.293
+totalRevenue	648323968
+debtToEquity	9.244
+revenuePerShare	3.366
+returnOnAssets	-0.0028400002
+returnOnEquity	-0.030720001
+freeCashflow	-26754876
+operatingCashflow	-11946000
+revenueGrowth	0.005
+grossMargins	0.25118
+ebitdaMargins	0.021470001
+operatingMargins	-0.02609
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     -1200.0         16.702283       26347.663007      10647.006476
+Tax Rate For Calcs                                                  0.2          0.001113           0.071988          0.034345
+Normalized EBITDA                                           -19969000.0      -806407000.0       1597498000.0       282602000.0
+Total Unusual Items                                             -6000.0           15000.0           366000.0          310000.0
+Total Unusual Items Excluding Goodwill                          -6000.0           15000.0           366000.0          310000.0
+Net Income From Continuing Operation Net Minority Interest  -80481000.0      -865661000.0       1426567000.0       195268000.0
+Reconciled Depreciation                                      35026000.0        56961000.0         58425000.0        75699000.0
+Reconciled Cost Of Revenue                                  485478000.0       467243000.0        485373000.0       437572000.0
+EBITDA                                                      -19975000.0      -806392000.0       1597864000.0       282912000.0
+EBIT                                                        -55001000.0      -863353000.0       1539439000.0       207213000.0
+Net Interest Income                                            220000.0        -1130000.0         -1295000.0        -3786000.0
+Interest Expense                                              4893000.0         3295000.0          2186000.0         4943000.0
+Interest Income                                               5113000.0         2165000.0           891000.0         1157000.0
+Normalized Income                                           -80476200.0 -865675983.297717  1426227347.663007  194968647.006476
+Net Income From Continuing And Discontinued Operation       -80481000.0      -865661000.0       1426567000.0       195268000.0
+Total Expenses                                              662540000.0       632825000.0        762882000.0       653775000.0
+Diluted Average Shares                                              NaN       210611000.0        216696000.0       192618900.0
+Basic Average Shares                                                NaN       210611000.0        214021000.0       192618900.0
+Diluted EPS                                                         NaN             -4.11               6.58          1.011111
+Basic EPS                                                           NaN             -4.11               6.67          1.011111
+Diluted NI Availto Com Stockholders                         -80481000.0      -865661000.0       1426567000.0       195268000.0
+Net Income Common Stockholders                              -80481000.0      -865661000.0       1426567000.0       195268000.0
+Otherunder Preferred Stock Dividend                                 0.0               0.0                0.0               0.0
+Net Income                                                  -80481000.0      -865661000.0       1426567000.0       195268000.0
+Minority Interests                                               5000.0           22000.0           -22000.0          -55000.0
+Net Income Including Noncontrolling Interests               -80486000.0      -865683000.0       1426589000.0       195323000.0
+Net Income Continuous Operations                            -80486000.0      -865683000.0       1426589000.0       195323000.0
+Tax Provision                                                20592000.0         -965000.0        110664000.0         6947000.0
+Pretax Income                                               -59894000.0      -866648000.0       1537253000.0       202270000.0
+Other Non Operating Income Expenses                          20902000.0      -743404000.0       1716205000.0       369344000.0
+Special Income Charges                                          -6000.0           15000.0           366000.0          310000.0
+Write Off                                                        6000.0          -15000.0          -366000.0         -310000.0
+Net Non Operating Interest Income Expense                      220000.0        -1130000.0         -1295000.0        -3786000.0
+Interest Expense Non Operating                                4893000.0         3295000.0          2186000.0         4943000.0
+Interest Income Non Operating                                 5113000.0         2165000.0           891000.0         1157000.0
+Operating Income                                            -14216000.0       -41700000.0       -171412000.0      -122676000.0
+Operating Expense                                           177062000.0       165582000.0        277509000.0       216203000.0
+Research And Development                                     53666000.0        40052000.0         85416000.0        42763000.0
+Selling General And Administration                          123396000.0       125530000.0        192093000.0       173440000.0
+Selling And Marketing Expense                                55659000.0        53562000.0         65638000.0        61181000.0
+General And Administrative Expense                           67737000.0        71968000.0        126455000.0       112259000.0
+Gross Profit                                                162846000.0       123882000.0        106097000.0        93527000.0
+Cost Of Revenue                                             485478000.0       467243000.0        485373000.0       437572000.0
+Total Revenue                                               648324000.0       591125000.0        591470000.0       531099000.0
+Operating Revenue                                           648324000.0       591125000.0        591470000.0       531099000.0

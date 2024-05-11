@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No.15, Li-Te Road
+address2	1st Floor Beitou District
+city	Taipei
+zip	112
+country	Taiwan
+phone	886 2 2894 3447
+fax	886 2 2892 6140
+website	https://www.asus.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	ASUSTeK Computer Inc. researches and develops, designs, manufactures, sells, and repairs computers, communications, and consumer electronic products in Taiwan, China, Singapore, Europe, the United States, and internationally. The company offers Internet information services; maintenance and operating services for information hardware; services information technology and communication products; and leases real estate property. It provides ink-jet print heads and digital image output technology, high-speed analog circuits, integrated circuits, industrial and medical computers, interface cards, and medical robots; invests in computer peripheral, Internet service, and automotive electronics businesses; and researches, develops, sells, and consults information system software; provides marketing support and repair services for medical computers and peripherals. ASUSTeK Computer Inc. was founded in 1989 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jonney  Shih', 'title': 'Chairman & Chief Branding Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Samson  Hu', 'title': 'Co-CEO, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsien-Yuen  Hsu', 'title': 'Co-CEO, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shi Chang  Hsu', 'age': 61, 'title': 'Vice Chairman & Chief Strategy Officer', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jonathan  Tsang', 'title': 'Group President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Wu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min-Chieh  Hsieh', 'title': 'COO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Winnie  Liu', 'title': 'Chief Accountant & Comptroller', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Francy  Jeng', 'title': 'Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Chang  Lee', 'title': 'Global Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	475.0
+open	473.0
+dayLow	464.0
+dayHigh	474.5
+regularMarketPreviousClose	475.0
+regularMarketOpen	473.0
+regularMarketDayLow	464.0
+regularMarketDayHigh	474.5
+dividendRate	15.0
+dividendYield	0.0319
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.7022
+fiveYearAvgDividendYield	7.77
+beta	0.559
+trailingPE	22.027153
+forwardPE	13.895452
+volume	4797715
+regularMarketVolume	4797715
+averageVolume	3848597
+averageVolume10days	4178011
+averageDailyVolume10Day	4178011
+bid	470.5
+ask	471.0
+marketCap	349468590080
+fiftyTwoWeekLow	291.0
+fiftyTwoWeekHigh	502.0
+priceToSalesTrailing12Months	0.7245659
+fiftyDayAverage	434.6
+twoHundredDayAverage	410.995
+trailingAnnualDividendRate	17.0
+trailingAnnualDividendYield	0.035789475
+currency	TWD
+enterpriseValue	304306257920
+profitMargins	0.03302
+floatShares	679098296
+sharesOutstanding	742760000
+heldPercentInsiders	0.09474
+heldPercentInstitutions	0.36189
+impliedSharesOutstanding	747104000
+bookValue	322.871
+priceToBook	1.4572383
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	15928283136
+trailingEps	21.36
+forwardEps	33.86
+pegRatio	1.03
+lastSplitFactor	1220:1000
+lastSplitDate	1311897600	 (2011-07-29 08:00:00)
+enterpriseToRevenue	0.631
+enterpriseToEbitda	23.571
+52WeekChange	0.5502471
+SandP52WeekChange	0.26265144
+lastDividendValue	15.0
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2357.TW
+underlyingSymbol	2357.TW
+shortName	ASUSTEK COMPUTER INC
+longName	ASUSTeK Computer Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	14ae4781-6099-379c-97a9-fb267607893d
+messageBoardId	finmb_25170
+gmtOffSetMilliseconds	28800000
+currentPrice	470.5
+targetHighPrice	563.0
+targetLowPrice	400.0
+targetMeanPrice	464.64
+targetMedianPrice	445.0
+recommendationMean	2.3
+recommendationKey	buy
+numberOfAnalystOpinions	11
+totalCash	82298052608
+totalCashPerShare	110.8
+ebitda	12910241792
+totalDebt	17969192960
+quickRatio	0.863
+currentRatio	1.555
+totalRevenue	482314420224
+debtToEquity	6.938
+revenuePerShare	649.354
+returnOnAssets	0.01467
+returnOnEquity	0.07364
+freeCashflow	38944194560
+operatingCashflow	52087107584
+revenueGrowth	-0.054
+grossMargins	0.15010001
+ebitdaMargins	0.026770001
+operatingMargins	0.02934
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                0.190271        0.221326        0.211264        0.220929
+Normalized EBITDA                                            25558012000.0   24998810000.0   62847666000.0   36690236000.0
+Net Income From Continuing Operation Net Minority Interest   15928283000.0   14690785000.0   44549798000.0   23973651000.0
+Reconciled Depreciation                                       2771383000.0    2620731000.0    3587899000.0    3403789000.0
+Reconciled Cost Of Revenue                                  409920293000.0  463051081000.0  424922806000.0  339554721000.0
+EBITDA                                                       25558012000.0   24998810000.0   62847666000.0   36690236000.0
+EBIT                                                         22786629000.0   22378079000.0   59259767000.0   33286447000.0
+Net Interest Income                                           2162316000.0     157923000.0     356962000.0     473443000.0
+Interest Expense                                               693006000.0     762532000.0     171037000.0     166409000.0
+Interest Income                                               2855322000.0     920455000.0     527999000.0     639852000.0
+Normalized Income                                            15928283000.0   14690785000.0   44549798000.0   23973651000.0
+Net Income From Continuing And Discontinued Operation        15928283000.0   14690785000.0   44549798000.0   26557672000.0
+Total Expenses                                              471161001000.0  524213430000.0  485902679000.0  387807831000.0
+Diluted Average Shares                                                 NaN     748683000.0     752456000.0     751229000.0
+Basic Average Shares                                                   NaN     742760000.0     742760000.0     742760000.0
+Diluted EPS                                                            NaN           19.62           59.21           35.35
+Basic EPS                                                              NaN           19.78           59.98           35.76
+Diluted NI Availto Com Stockholders                          15928283000.0   14690785000.0   44549798000.0   26557672000.0
+Net Income Common Stockholders                               15928283000.0   14690785000.0   44549798000.0   26557672000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0             0.0
+Net Income                                                   15928283000.0   14690785000.0   44549798000.0   26557672000.0
+Minority Interests                                           -1961568000.0   -2140683000.0   -2055604000.0   -1829206000.0
+Net Income Including Noncontrolling Interests                17889851000.0   16831468000.0   46605402000.0   28386878000.0
+Net Income Discontinuous Operations                                    NaN             NaN             0.0    2584021000.0
+Net Income Continuous Operations                             17889851000.0   16831468000.0   46605402000.0   25802857000.0
+Tax Provision                                                 4203772000.0    4784079000.0   12483328000.0    7317181000.0
+Pretax Income                                                22093623000.0   21615547000.0   59088730000.0   33120038000.0
+Other Non Operating Income Expenses                           7678017000.0    6128259000.0    7139834000.0    7026694000.0
+Net Non Operating Interest Income Expense                     2162316000.0     157923000.0     356962000.0     473443000.0
+Interest Expense Non Operating                                 693006000.0     762532000.0     171037000.0     166409000.0
+Interest Income Non Operating                                 2855322000.0     920455000.0     527999000.0     639852000.0
+Operating Income                                             11153428000.0   12978502000.0   49336056000.0   24972608000.0
+Operating Expense                                            61240708000.0   61162349000.0   60979873000.0   48253110000.0
+Other Operating Expenses                                               NaN             NaN      10454000.0      15545000.0
+Research And Development                                     21638938000.0   20624670000.0   20088772000.0   16874998000.0
+Selling General And Administration                           39601770000.0   40537679000.0   40891101000.0   31378112000.0
+Selling And Marketing Expense                                29186656000.0   30857283000.0   32300929000.0   23815792000.0
+General And Administrative Expense                           10415114000.0    9680396000.0    8590172000.0    7562320000.0
+Gross Profit                                                 72394136000.0   74140851000.0  110315929000.0   73225718000.0
+Cost Of Revenue                                             409920293000.0  463051081000.0  424922806000.0  339554721000.0
+Total Revenue                                               482314429000.0  537191932000.0  535238735000.0  412780439000.0
+Operating Revenue                                           482314429000.0  537191932000.0  535238735000.0  412780439000.0

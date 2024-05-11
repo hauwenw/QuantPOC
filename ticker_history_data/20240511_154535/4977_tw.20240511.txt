@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	Harbour Place
+address2	4th Floor 103 South Church Street Grand Cayman
+city	George Town
+zip	KY1-1002
+country	Cayman Islands
+website	https://www.pcltech.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	PCL Technologies, Inc., together with its subsidiaries, researches, manufactures, and sells optical transceiver products in Taiwan and internationally. The company offers sub-assembly and pluggable module components. It also offers tooling design services. In addition, the company provides reliability and testing support services comprising of design, pilot run, mass production, quality control and process improvement related services. PCL Technologies, Inc. was founded in 2007 and is headquartered in George Town, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Jen  Chen', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Nan  Chuang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sandy  Lin', 'title': 'Finance Division Manager & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Chou  Chao', 'title': 'VP of Sales, Marketing, R&D Division and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	70.1
+open	70.2
+dayLow	68.4
+dayHigh	70.6
+regularMarketPreviousClose	70.1
+regularMarketOpen	70.2
+regularMarketDayLow	68.4
+regularMarketDayHigh	70.6
+dividendRate	2.5
+dividendYield	0.036
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	0.5882
+fiveYearAvgDividendYield	4.14
+beta	0.867
+trailingPE	16.329412
+forwardPE	17.704082
+volume	886519
+regularMarketVolume	886519
+averageVolume	1011969
+averageVolume10days	433661
+averageDailyVolume10Day	433661
+bid	69.4
+ask	69.5
+marketCap	5565186048
+fiftyTwoWeekLow	68.4
+fiftyTwoWeekHigh	117.0
+priceToSalesTrailing12Months	3.1924164
+fiftyDayAverage	74.178
+twoHundredDayAverage	77.2155
+trailingAnnualDividendRate	2.2
+trailingAnnualDividendYield	0.031383738
+currency	TWD
+enterpriseValue	3930968064
+profitMargins	0.19551
+floatShares	62650843
+sharesOutstanding	80190000
+heldPercentInsiders	0.21903
+heldPercentInstitutions	0.03446
+impliedSharesOutstanding	80520896
+bookValue	48.032
+priceToBook	1.4448701
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	340815008
+trailingEps	4.25
+forwardEps	3.92
+lastSplitFactor	1030.508:1000
+lastSplitDate	1562889600	 (2019-07-12 08:00:00)
+enterpriseToRevenue	2.255
+enterpriseToEbitda	14.784
+52WeekChange	-0.30321288
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4977.TW
+underlyingSymbol	4977.TW
+shortName	PCL TECHNOLOGIES INCORPORATION
+longName	PCL Technologies, Inc.
+firstTradeDateEpochUtc	1364778000	 (2013-04-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ccddd86e-cc02-31a7-94cb-1e6f2cc1c682
+messageBoardId	finmb_225542412
+gmtOffSetMilliseconds	28800000
+currentPrice	69.4
+targetHighPrice	80.0
+targetLowPrice	80.0
+targetMeanPrice	80.0
+targetMedianPrice	80.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	2455218944
+totalCashPerShare	30.618
+ebitda	265894000
+totalDebt	812744000
+quickRatio	2.412
+currentRatio	2.713
+totalRevenue	1743251968
+debtToEquity	21.056
+revenuePerShare	21.781
+returnOnAssets	0.02238
+returnOnEquity	0.08692
+freeCashflow	434066752
+operatingCashflow	663960000
+revenueGrowth	-0.778
+grossMargins	0.21822001
+ebitdaMargins	0.15253
+operatingMargins	0.00937
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -5666610.0   -3506553.889639     3961170.0     676770.120451
+Tax Rate For Calcs                                                  0.17          0.037842          0.17          0.033222
+Normalized EBITDA                                            482009000.0       680926000.0   391795000.0       677126000.0
+Total Unusual Items                                          -33333000.0       -92663000.0    23301000.0        20371000.0
+Total Unusual Items Excluding Goodwill                       -33333000.0       -92663000.0    23301000.0        20371000.0
+Net Income From Continuing Operation Net Minority Interest   340815000.0       424231000.0   266021000.0       550748000.0
+Reconciled Depreciation                                      114785000.0       131193000.0   151435000.0       135616000.0
+Reconciled Cost Of Revenue                                  1362837000.0      2120944000.0  2033688000.0      2569262000.0
+EBITDA                                                       448676000.0       588263000.0   415096000.0       697497000.0
+EBIT                                                         333891000.0       457070000.0   263661000.0       561881000.0
+Net Interest Income                                          140044000.0        10298000.0     5115000.0         3474000.0
+Interest Expense                                               7757000.0         8468000.0     2228000.0         4724000.0
+Interest Income                                              147801000.0        18766000.0     7343000.0         8198000.0
+Normalized Income                                            368481390.0  513387446.110361   246681170.0  531053770.120451
+Net Income From Continuing And Discontinued Operation        340815000.0       424231000.0   266021000.0       550748000.0
+Total Expenses                                              1567855000.0      2393581000.0  2339707000.0      2882232000.0
+Diluted Average Shares                                               NaN        70412000.0    70332000.0        70267527.0
+Basic Average Shares                                                 NaN        69486000.0    69639000.0        69755478.0
+Diluted EPS                                                          NaN              6.12          3.84          7.834878
+Basic EPS                                                            NaN               6.2          3.88          7.893935
+Diluted NI Availto Com Stockholders                          340815000.0       424231000.0   266021000.0       550748000.0
+Net Income Common Stockholders                               340815000.0       424231000.0   266021000.0       550748000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0               0.0
+Net Income                                                   340815000.0       424231000.0   266021000.0       550748000.0
+Minority Interests                                            11363000.0        -7395000.0     3083000.0        12101000.0
+Net Income Including Noncontrolling Interests                329452000.0       431626000.0   262938000.0       538647000.0
+Net Income Continuous Operations                             329452000.0       431626000.0   262938000.0       538647000.0
+Tax Provision                                                 -3318000.0        16976000.0    -1505000.0        18510000.0
+Pretax Income                                                326134000.0       448602000.0   261433000.0       557157000.0
+Other Non Operating Income Expenses                            3839000.0         4734000.0    14397000.0        31643000.0
+Special Income Charges                                       -77672000.0               0.0           NaN               NaN
+Write Off                                                     77672000.0               0.0           NaN               NaN
+Net Non Operating Interest Income Expense                    140044000.0        10298000.0     5115000.0         3474000.0
+Interest Expense Non Operating                                 7757000.0         8468000.0     2228000.0         4724000.0
+Interest Income Non Operating                                147801000.0        18766000.0     7343000.0         8198000.0
+Operating Income                                             175397000.0       575683000.0   209320000.0       456968000.0
+Operating Expense                                            205018000.0       272637000.0   306019000.0       312970000.0
+Other Operating Expenses                                       4326000.0         4365000.0     4638000.0       -43806000.0
+Research And Development                                      97111000.0       128482000.0   195712000.0       229150000.0
+Selling General And Administration                           103581000.0       139790000.0   105669000.0       127626000.0
+Selling And Marketing Expense                                  7977000.0         8241000.0     6464000.0         8188000.0
+General And Administrative Expense                            95604000.0       131549000.0    99205000.0       119438000.0
+Gross Profit                                                 380415000.0       848320000.0   515339000.0       769938000.0
+Cost Of Revenue                                             1362837000.0      2120944000.0  2033688000.0      2569262000.0
+Total Revenue                                               1743252000.0      2969264000.0  2549027000.0      3339200000.0
+Operating Revenue                                           1743252000.0      2969264000.0  2549027000.0      3339200000.0

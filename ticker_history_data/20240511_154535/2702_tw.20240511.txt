@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 1, Zhong¡¦an Rd
+address2	Qianzhen Dist
+city	Kaohsiung
+zip	806
+country	Taiwan
+phone	886 7 968 1111
+fax	886 7 282 2965
+website	https://www.hotelhg.com.tw
+industry	Lodging
+industryKey	lodging
+industryDisp	Lodging
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hotel Holiday Garden operates hotels. The company operates Holiday Garden Hotel, an international tourist hotel with 270 guest rooms, lobby, banquet hall, swimming pool, gym, and other facilities; and Holiday Garden Hotel Kaohsiung Taroko Park in Kaohsiung. It also operates 4 hotels in the Northern and Southern California. The company was founded in 1958 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hai-Ni  Chen', 'title': 'Chairman of the Board & GM', 'fiscalYear': 2021, 'totalPay': 1540000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Hui  Lin', 'title': 'Deputy GM & Director', 'fiscalYear': 2021, 'totalPay': 980000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Su-Ling  Yu', 'title': 'Corporate Governance Officer and Financial & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	19.85
+open	19.85
+dayLow	19.65
+dayHigh	19.95
+regularMarketPreviousClose	19.85
+regularMarketOpen	19.85
+regularMarketDayLow	19.65
+regularMarketDayHigh	19.95
+dividendRate	0.2
+dividendYield	0.0101
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	1.25
+fiveYearAvgDividendYield	0.83
+beta	0.73
+trailingPE	123.75
+volume	134135
+regularMarketVolume	134135
+averageVolume	141111
+averageVolume10days	226951
+averageDailyVolume10Day	226951
+bid	19.8
+ask	19.85
+marketCap	3100937216
+fiftyTwoWeekLow	18.65
+fiftyTwoWeekHigh	30.238094
+priceToSalesTrailing12Months	2.163759
+fiftyDayAverage	19.366
+twoHundredDayAverage	20.434214
+currency	TWD
+enterpriseValue	5182231552
+profitMargins	0.017970001
+floatShares	68825149
+sharesOutstanding	156612992
+heldPercentInsiders	0.69935995
+heldPercentInstitutions	0.00025
+impliedSharesOutstanding	157788000
+bookValue	20.352
+priceToBook	0.9728774
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	25749000
+trailingEps	0.16
+lastSplitFactor	1050:1000
+lastSplitDate	1692835200	 (2023-08-24 08:00:00)
+enterpriseToRevenue	3.616
+enterpriseToEbitda	14.152
+52WeekChange	-0.10580647
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2702.TW
+underlyingSymbol	2702.TW
+shortName	HOTEL HOLIDAY GARDEN
+longName	Hotel Holiday Garden
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d18e6bbb-ba82-3632-9e57-2bc6c59bc9ce
+messageBoardId	finmb_9794078
+gmtOffSetMilliseconds	28800000
+currentPrice	19.8
+recommendationKey	none
+totalCash	2657180928
+totalCashPerShare	16.967
+ebitda	366185984
+totalDebt	4738475008
+quickRatio	3.487
+currentRatio	4.659
+totalRevenue	1433124992
+debtToEquity	148.661
+revenuePerShare	9.151
+returnOnAssets	0.0053100004
+returnOnEquity	0.0080699995
+freeCashflow	56867376
+operatingCashflow	38492000
+revenueGrowth	0.033
+grossMargins	0.81343
+ebitdaMargins	0.25552
+operatingMargins	0.03439
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                     -68400.0     -211800.0      98269.716037     -44000.0
+Tax Rate For Calcs                                                   0.2           0.2          0.369435          0.2
+Normalized EBITDA                                            563909000.0  1245953000.0       115212000.0  -79438000.0
+Total Unusual Items                                            -342000.0    -1059000.0          266000.0    -220000.0
+Total Unusual Items Excluding Goodwill                         -342000.0    -1059000.0          266000.0    -220000.0
+Net Income From Continuing Operation Net Minority Interest    25749000.0   402002000.0      -153931000.0 -251381000.0
+Reconciled Depreciation                                      303402000.0   315340000.0       246410000.0  260003000.0
+Reconciled Cost Of Revenue                                   267371000.0   265543000.0       193414000.0  189651000.0
+EBITDA                                                       563567000.0  1244894000.0       115478000.0  -79658000.0
+EBIT                                                         260165000.0   929554000.0      -130932000.0 -339661000.0
+Net Interest Income                                         -217307000.0  -170843000.0      -109787000.0 -114256000.0
+Interest Expense                                             335929000.0   202711000.0       113184000.0  130239000.0
+Interest Income                                              118622000.0    31868000.0         3397000.0   15983000.0
+Normalized Income                                             26022600.0   402849200.0 -154098730.283963 -251205000.0
+Net Income From Continuing And Discontinued Operation         25749000.0   402002000.0      1826282000.0 -270309000.0
+Total Expenses                                              1360759000.0  1311906000.0       926744000.0  835624000.0
+Diluted Average Shares                                               NaN   156627000.0       156613800.0  156613905.0
+Basic Average Shares                                                 NaN   156613000.0       156613800.0  156613905.0
+Diluted EPS                                                          NaN          2.57         11.657143    -1.728395
+Basic EPS                                                            NaN          2.57         11.657143    -1.728395
+Diluted NI Availto Com Stockholders                           25749000.0   402002000.0      1826282000.0 -270309000.0
+Net Income Common Stockholders                                25749000.0   402002000.0      1826282000.0 -270309000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0          0.0
+Net Income                                                    25749000.0   402002000.0      1826282000.0 -270309000.0
+Net Income Including Noncontrolling Interests                 25749000.0   402002000.0      1826282000.0 -270309000.0
+Net Income Discontinuous Operations                                  NaN           0.0      1980213000.0  -18928000.0
+Net Income Continuous Operations                              25749000.0   402002000.0      -153931000.0 -251381000.0
+Tax Provision                                               -101513000.0   324841000.0       -90185000.0 -218519000.0
+Pretax Income                                                -75764000.0   726843000.0      -244116000.0 -469900000.0
+Other Non Operating Income Expenses                           69519000.0   846443000.0       -28997000.0 -178654000.0
+Special Income Charges                                         -342000.0    -1059000.0          266000.0    -220000.0
+Write Off                                                       342000.0     1059000.0         -266000.0     220000.0
+Net Non Operating Interest Income Expense                   -217307000.0  -170843000.0      -109787000.0 -114256000.0
+Interest Expense Non Operating                               335929000.0   202711000.0       113184000.0  130239000.0
+Interest Income Non Operating                                118622000.0    31868000.0         3397000.0   15983000.0
+Operating Income                                              72366000.0    52302000.0      -105598000.0 -176770000.0
+Operating Expense                                           1093388000.0  1046363000.0       733330000.0  645973000.0
+Selling General And Administration                          1093388000.0  1046363000.0       733330000.0  645973000.0
+General And Administrative Expense                          1093388000.0  1046363000.0       733330000.0  645973000.0
+Gross Profit                                                1165754000.0  1098665000.0       627732000.0  469203000.0
+Cost Of Revenue                                              267371000.0   265543000.0       193414000.0  189651000.0
+Total Revenue                                               1433125000.0  1364208000.0       821146000.0  658854000.0
+Operating Revenue                                           1433125000.0  1364208000.0       821146000.0  658854000.0

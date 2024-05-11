@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 95, Shuiyuan Street
+city	Hsinchu City
+zip	300042
+country	Taiwan
+phone	886 3 573 8099
+fax	886 3 573 0606
+website	https://www.spirox.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Spirox Corporation engages in the provision of integrated solutions to the semiconductor and FPD industries in Taiwan, China, and internationally. The company offers IC test solutions, including automatic test equipment (ATE), wafer testing, final testing, micro electro-mechanical systems testing, automatic optical inspection, and micro-LED inspection system solutions; IC advanced package solutions comprising assembly process, bumping process, process quality control, and material solutions; and IC process and quality assurance solutions, such as electrical failure analysis, physical failure analysis, reliability, and probing system solutions. It also provides non-destructive defect inspection and automatic handing system solutions, as well as repair services for ATE and other equipment. The company was founded in 1987 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yao-Zhou  Yang', 'age': 55, 'title': 'Chief Executive Officer', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. H. T. Yang', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jemmy  Chen', 'title': 'President of Jetek Technology Corporation', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Noelle  Ni', 'title': 'Executive Assistant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	77.4
+open	77.0
+dayLow	74.7
+dayHigh	78.3
+regularMarketPreviousClose	77.4
+regularMarketOpen	77.0
+regularMarketDayLow	74.7
+regularMarketDayHigh	78.3
+dividendRate	1.0
+dividendYield	0.013200001
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	0.48740003
+fiveYearAvgDividendYield	1.73
+beta	0.283
+forwardPE	-48.46154
+volume	1624445
+regularMarketVolume	1624445
+averageVolume	5174425
+averageVolume10days	4087335
+averageDailyVolume10Day	4087335
+bid	75.6
+ask	75.7
+marketCap	8553610752
+fiftyTwoWeekLow	28.65
+fiftyTwoWeekHigh	88.7
+priceToSalesTrailing12Months	6.370384
+fiftyDayAverage	73.852
+twoHundredDayAverage	50.90625
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.012919896
+currency	TWD
+enterpriseValue	6932991488
+profitMargins	-0.04177
+sharesOutstanding	113143000
+heldPercentInsiders	0.56206
+heldPercentInstitutions	0.012519999
+impliedSharesOutstanding	114833000
+bookValue	22.074
+priceToBook	3.4248438
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.976
+netIncomeToCommon	-56085000
+trailingEps	-2.3
+forwardEps	-1.56
+lastSplitFactor	0.800371:1
+lastSplitDate	1473724800	 (2016-09-13 08:00:00)
+enterpriseToRevenue	5.163
+enterpriseToEbitda	-43.718
+52WeekChange	1.6068966
+SandP52WeekChange	0.26265144
+lastDividendValue	0.999248
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3055.TW
+underlyingSymbol	3055.TW
+shortName	SPIROX CORP
+longName	Spirox Corporation
+firstTradeDateEpochUtc	1039741200	 (2002-12-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	584fbace-8b99-3bc5-81a2-c4860bd35334
+messageBoardId	finmb_4919512
+gmtOffSetMilliseconds	28800000
+currentPrice	75.6
+recommendationKey	none
+totalCash	2191025920
+totalCashPerShare	19.208
+ebitda	-158586000
+totalDebt	421385984
+quickRatio	3.226
+currentRatio	3.542
+totalRevenue	1342715008
+debtToEquity	16.226
+revenuePerShare	11.772
+returnOnAssets	-0.03093
+returnOnEquity	-0.02033
+freeCashflow	697637248
+operatingCashflow	137856992
+earningsGrowth	-0.977
+revenueGrowth	-0.221
+grossMargins	0.17757
+ebitdaMargins	-0.11811
+operatingMargins	-0.11552
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   -5796000.0    -295896.108155       27400.0  -1110556.463961
+Tax Rate For Calcs                                                   0.2           0.16889           0.2         0.124614
+Normalized EBITDA                                             37452000.0       557889000.0  -119817000.0       95827000.0
+Total Unusual Items                                          -28980000.0        -1752000.0      137000.0       -8912000.0
+Total Unusual Items Excluding Goodwill                       -28980000.0        -1752000.0      137000.0       -8912000.0
+Net Income From Continuing Operation Net Minority Interest   -56085000.0       246985000.0  -351790000.0      -69524000.0
+Reconciled Depreciation                                       43067000.0       213242000.0   199254000.0      136738000.0
+Reconciled Cost Of Revenue                                  1104293000.0      1742915000.0  2341765000.0     1643959000.0
+EBITDA                                                         8472000.0       556137000.0  -119680000.0       86915000.0
+EBIT                                                         -34595000.0       342895000.0  -318934000.0      -49823000.0
+Net Interest Income                                           22240000.0        -7336000.0   -24865000.0       -5573000.0
+Interest Expense                                              10416000.0        25796000.0    30602000.0       19407000.0
+Interest Income                                               32656000.0        18460000.0     5737000.0       13834000.0
+Normalized Income                                            -32901000.0  248441103.891845  -351899600.0 -61722556.463961
+Net Income From Continuing And Discontinued Operation        -56085000.0       240156000.0  -357474000.0      -45007000.0
+Total Expenses                                              1505152000.0      2333713000.0  3000116000.0     2186120000.0
+Diluted Average Shares                                       114154000.0       112570000.0    96721000.0       94531000.0
+Basic Average Shares                                         114060000.0       112086000.0    96721000.0       94531000.0
+Diluted EPS                                                        -0.49              2.13          -3.7            -0.48
+Basic EPS                                                          -0.49              2.14          -3.7            -0.48
+Diluted NI Availto Com Stockholders                          -56085000.0       240156000.0  -357474000.0      -45007000.0
+Net Income Common Stockholders                               -56085000.0       240156000.0  -357474000.0      -45007000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0              0.0
+Net Income                                                   -56085000.0       240156000.0  -357474000.0      -45007000.0
+Minority Interests                                             -853000.0       -16559000.0     7189000.0       -8921000.0
+Net Income Including Noncontrolling Interests                -55232000.0       256715000.0  -364663000.0      -36086000.0
+Net Income Discontinuous Operations                                  0.0        -6829000.0    -5684000.0       24517000.0
+Net Income Continuous Operations                             -55232000.0       263544000.0  -358979000.0      -60603000.0
+Tax Provision                                                 10221000.0        53555000.0     9443000.0       -8627000.0
+Pretax Income                                                -45011000.0       317099000.0  -349536000.0      -69230000.0
+Other Non Operating Income Expenses                          124297000.0       745255000.0    29069000.0      114693000.0
+Special Income Charges                                       -28980000.0        -1752000.0      137000.0       -8912000.0
+Write Off                                                     28980000.0         1752000.0     -137000.0        8912000.0
+Net Non Operating Interest Income Expense                     22240000.0        -7336000.0   -24865000.0       -5573000.0
+Interest Expense Non Operating                                10416000.0        25796000.0    30602000.0       19407000.0
+Interest Income Non Operating                                 32656000.0        18460000.0     5737000.0       13834000.0
+Operating Income                                            -162437000.0      -419068000.0  -353877000.0     -169438000.0
+Operating Expense                                            400859000.0       590798000.0   658351000.0      542161000.0
+Other Operating Expenses                                       1559000.0        -1777000.0    -2900000.0        -352000.0
+Research And Development                                      44529000.0        58715000.0   126652000.0      111334000.0
+Selling General And Administration                           354771000.0       533860000.0   534599000.0      431179000.0
+Selling And Marketing Expense                                233785000.0       341413000.0   358410000.0      296827000.0
+General And Administrative Expense                           120986000.0       192447000.0   176189000.0      134352000.0
+Gross Profit                                                 238422000.0       171730000.0   304474000.0      372723000.0
+Cost Of Revenue                                             1104293000.0      1742915000.0  2341765000.0     1643959000.0
+Total Revenue                                               1342715000.0      1914645000.0  2646239000.0     2016682000.0
+Operating Revenue                                           1342715000.0      1914645000.0  2646239000.0     2016682000.0

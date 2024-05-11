@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 308, Jianguo 1st Road
+address2	12th FLoor Xinzhuang District
+city	New Taipei City
+zip	242047
+country	Taiwan
+phone	886 2 7727 5788
+website	https://www.cas-well.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	CASwell Inc. engages in the design, engineering, manufacture, and sale of network computing ecosystems and o safe network communication platforms. It offers network security and management products, such as 2U, 1U, fanless desktop, desktop, and other core network appliances; cloud and data center switches, including server and telecom; cloud and enterprise network storage servers; and industrial control and automation products comprising industrial firewall and control systems. The company also provides edge/fog computing products, such as SD-WAN/UCPE/VCPE products, X86-based SDN switches, and NFV servers; proprietary, proprietary PoE, network, and POE network adapters; and proprietary acceleration, storage proprietary, and network acceleration modules. CASwell Inc. was founded in 2007 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Reaforl  Hung', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carrie  Huang', 'title': 'Vice President of General Administration Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ray  Lin', 'title': 'Vice President of Sales Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Grace  Lan', 'title': 'Head of Internal Audit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Sung  Hsu', 'title': 'Senior Vice President of R&D Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stephen  Chang', 'title': 'Senior Vice President of R&D Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	120.0
+open	120.5
+dayLow	115.5
+dayHigh	121.0
+regularMarketPreviousClose	120.0
+regularMarketOpen	120.5
+regularMarketDayLow	115.5
+regularMarketDayHigh	121.0
+dividendRate	3.6
+dividendYield	0.0312
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	0.8219
+fiveYearAvgDividendYield	3.1
+beta	0.448
+trailingPE	26.369862
+forwardPE	16.382978
+volume	448534
+regularMarketVolume	448534
+averageVolume	1237936
+averageVolume10days	371817
+averageDailyVolume10Day	371817
+bid	115.5
+ask	116.0
+marketCap	8471751168
+fiftyTwoWeekLow	80.3
+fiftyTwoWeekHigh	134.5
+priceToSalesTrailing12Months	2.07517
+fiftyDayAverage	117.47
+twoHundredDayAverage	98.7935
+currency	TWD
+enterpriseValue	8814550016
+profitMargins	0.079050004
+sharesOutstanding	73348496
+heldPercentInsiders	0.35574
+heldPercentInstitutions	0.056799997
+impliedSharesOutstanding	73674496
+bookValue	46.374
+priceToBook	2.4906197
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.436
+netIncomeToCommon	322707008
+trailingEps	4.38
+forwardEps	7.05
+enterpriseToRevenue	2.159
+enterpriseToEbitda	21.789
+52WeekChange	0.21578944
+SandP52WeekChange	0.26265144
+lastDividendValue	3.6
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6416.TW
+underlyingSymbol	6416.TW
+shortName	CASWELL INC
+longName	CASwell, Inc.
+firstTradeDateEpochUtc	1366246800	 (2013-04-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	28ff1e15-d3de-38d5-9cc0-bbbd7ca336a8
+messageBoardId	finmb_206314765
+gmtOffSetMilliseconds	28800000
+currentPrice	115.5
+targetHighPrice	120.0
+targetLowPrice	120.0
+targetMeanPrice	120.0
+targetMedianPrice	120.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	731150976
+totalCashPerShare	9.968
+ebitda	404536992
+totalDebt	888960000
+quickRatio	1.58
+currentRatio	3.479
+totalRevenue	4082437120
+debtToEquity	24.786
+revenuePerShare	55.671
+returnOnAssets	0.04481
+returnOnEquity	0.090100005
+freeCashflow	464537120
+operatingCashflow	1040966016
+earningsGrowth	-0.426
+revenueGrowth	-0.146
+grossMargins	0.24336
+ebitdaMargins	0.09909
+operatingMargins	0.08021
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    241401.252771   -1755072.482529           0.0     -30745.780602
+Tax Rate For Calcs                                                  0.215729          0.213694       0.25635          0.244014
+Normalized EBITDA                                                514234000.0       672573000.0   409051000.0       643909000.0
+Total Unusual Items                                                1119000.0        -8213000.0           0.0         -126000.0
+Total Unusual Items Excluding Goodwill                             1119000.0        -8213000.0           0.0         -126000.0
+Net Income From Continuing Operation Net Minority Interest       322707000.0       428332000.0   219556000.0       372353000.0
+Reconciled Depreciation                                           91305000.0        82976000.0    80444000.0        83190000.0
+Reconciled Cost Of Revenue                                      3088923000.0      3860631000.0  3749078000.0      4317359000.0
+EBITDA                                                           515353000.0       664360000.0   409051000.0       643783000.0
+EBIT                                                             424048000.0       581384000.0   328607000.0       560593000.0
+Net Interest Income                                               -7756000.0        -3256000.0    -3251000.0        -6441000.0
+Interest Expense                                                  14396000.0         5866000.0     5787000.0         9211000.0
+Interest Income                                                    6640000.0         2610000.0     2536000.0         2770000.0
+Normalized Income                                           321829401.252771  434789927.517471   219556000.0  372448254.219398
+Net Income From Continuing And Discontinued Operation            322707000.0       428332000.0   219556000.0       372353000.0
+Total Expenses                                                  3705648000.0      4471890000.0  4368197000.0      4917591000.0
+Diluted Average Shares                                                   NaN        75115000.0    74932000.0        72301000.0
+Basic Average Shares                                                     NaN        73189000.0    73146000.0        70369000.0
+Diluted EPS                                                              NaN              5.73          2.95              5.18
+Basic EPS                                                                NaN              5.85           3.0              5.29
+Diluted NI Availto Com Stockholders                              322707000.0       428332000.0   219556000.0       372353000.0
+Net Income Common Stockholders                                   322707000.0       428332000.0   219556000.0       372353000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0               0.0
+Net Income                                                       322707000.0       428332000.0   219556000.0       372353000.0
+Minority Interests                                                 1429000.0       -24201000.0   -20509000.0       -44484000.0
+Net Income Including Noncontrolling Interests                    321278000.0       452533000.0   240065000.0       416837000.0
+Net Income Continuous Operations                                 321278000.0       452533000.0   240065000.0       416837000.0
+Tax Provision                                                     88374000.0       122985000.0    82755000.0       134545000.0
+Pretax Income                                                    409652000.0       575518000.0   322820000.0       551382000.0
+Other Non Operating Income Expenses                               39500000.0        76205000.0    20324000.0         9685000.0
+Special Income Charges                                             1119000.0        -8213000.0           0.0         -126000.0
+Write Off                                                         -1119000.0         8213000.0           0.0          126000.0
+Net Non Operating Interest Income Expense                         -7756000.0        -3256000.0    -3251000.0        -6441000.0
+Interest Expense Non Operating                                    14396000.0         5866000.0     5787000.0         9211000.0
+Interest Income Non Operating                                      6640000.0         2610000.0     2536000.0         2770000.0
+Operating Income                                                 376789000.0       510782000.0   305747000.0       548264000.0
+Operating Expense                                                616725000.0       611259000.0   619119000.0       600232000.0
+Research And Development                                         251714000.0       235202000.0   245627000.0       235509000.0
+Selling General And Administration                               365011000.0       376057000.0   373492000.0       364723000.0
+Selling And Marketing Expense                                    144593000.0       154349000.0   169639000.0       153256000.0
+General And Administrative Expense                               220418000.0       221708000.0   203853000.0       211467000.0
+Gross Profit                                                     993514000.0      1122041000.0   924866000.0      1148496000.0
+Cost Of Revenue                                                 3088923000.0      3860631000.0  3749078000.0      4317359000.0
+Total Revenue                                                   4082437000.0      4982672000.0  4673944000.0      5465855000.0
+Operating Revenue                                               4082437000.0      4982672000.0  4673944000.0      5465855000.0

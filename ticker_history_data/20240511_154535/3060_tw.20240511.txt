@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 492-1, Wan Shou Road
+address2	10th Floor-1 Section 1 Kuei Shan District, Guishan District
+city	Taoyuan City
+zip	333
+country	Taiwan
+phone	886 2 8200 1008
+fax	886 2 8200 1012
+website	https://www.minaik.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Min Aik Technology Co., Ltd. researches, designs, manufactures, and sells hard disk drive, plastic camera, CD ROM drive, and mechanical components for optical devices in Taiwan, Thailand, Singapore, China, the United States, Malaysia, and internationally. The company offers OEM/ODM products comprising pixel shifting actuator technology, consumer electronics, precision components and assemblies, hard disk components, and medical device products. It also provides sales and marketing support services, as well as technical, and measurement and analysis services; sells electricity produced by curvature module; and retails and sells electricity products. The company was incorporated in 1979 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jin Xing  Xie', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nelson  Sun', 'title': 'Director of Financial Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Scott  Yang', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.75
+open	25.75
+dayLow	25.25
+dayHigh	26.9
+regularMarketPreviousClose	25.75
+regularMarketOpen	25.75
+regularMarketDayLow	25.25
+regularMarketDayHigh	26.9
+dividendRate	0.3
+dividendYield	0.0113
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	3.4483
+fiveYearAvgDividendYield	5.18
+beta	1.0
+volume	4268829
+regularMarketVolume	4268829
+averageVolume	3229336
+averageVolume10days	3954531
+averageDailyVolume10Day	3954531
+bid	26.6
+ask	26.7
+marketCap	3659176192
+fiftyTwoWeekLow	16.4
+fiftyTwoWeekHigh	31.25
+priceToSalesTrailing12Months	1.3779467
+fiftyDayAverage	23.782
+twoHundredDayAverage	21.019
+currency	TWD
+enterpriseValue	3593246208
+profitMargins	-0.08121
+sharesOutstanding	137563008
+heldPercentInsiders	0.11328
+heldPercentInstitutions	0.02575
+impliedSharesOutstanding	146243008
+bookValue	18.288
+priceToBook	1.4545057
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-215646000
+trailingEps	-0.62
+lastSplitFactor	1.15:1
+lastSplitDate	1248048000	 (2009-07-20 08:00:00)
+enterpriseToRevenue	1.353
+enterpriseToEbitda	-33.968
+52WeekChange	0.6121212
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3060.TW
+underlyingSymbol	3060.TW
+shortName	MIN AIK TECHNOLOGY
+longName	Min Aik Technology Co., Ltd.
+firstTradeDateEpochUtc	1050886800	 (2003-04-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	934138af-3a68-3b69-a4df-33ad3a8428ce
+messageBoardId	finmb_9383537
+gmtOffSetMilliseconds	28800000
+currentPrice	26.6
+recommendationKey	none
+totalCash	693422976
+totalCashPerShare	5.041
+ebitda	-105782000
+totalDebt	623897984
+quickRatio	1.163
+currentRatio	1.895
+totalRevenue	2655527936
+debtToEquity	24.764
+revenuePerShare	19.304
+returnOnAssets	-0.03158
+returnOnEquity	-0.086789995
+freeCashflow	406575008
+operatingCashflow	422507008
+revenueGrowth	0.265
+grossMargins	0.08392999
+ebitdaMargins	-0.03983
+operatingMargins	-0.00935
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -2709600.0     1495600.0   -2389501.164799     -212000.0
+Tax Rate For Calcs                                                   0.2           0.2          0.240877           0.2
+Normalized EBITDA                                            -30350000.0   196813000.0       424195000.0   -35826000.0
+Total Unusual Items                                          -13548000.0     7478000.0        -9920000.0    -1060000.0
+Total Unusual Items Excluding Goodwill                       -13548000.0     7478000.0        -9920000.0    -1060000.0
+Net Income From Continuing Operation Net Minority Interest  -215646000.0    39758000.0       186906000.0  -254213000.0
+Reconciled Depreciation                                      154648000.0   150451000.0       166040000.0   214973000.0
+Reconciled Cost Of Revenue                                  2432649000.0  2848232000.0      3473472000.0  3630248000.0
+EBITDA                                                       -43898000.0   204291000.0       414275000.0   -36886000.0
+EBIT                                                        -198546000.0    53840000.0       248235000.0  -251859000.0
+Net Interest Income                                           -4156000.0    -7124000.0        -6979000.0    -5755000.0
+Interest Expense                                              13594000.0    10031000.0         9138000.0    10127000.0
+Interest Income                                                9438000.0     2907000.0         2159000.0     4372000.0
+Normalized Income                                           -204807600.0    33775600.0  194436498.835201  -253365000.0
+Net Income From Continuing And Discontinued Operation       -215646000.0    39758000.0       186906000.0  -254213000.0
+Total Expenses                                              2859034000.0  3326719000.0      3966240000.0  4167268000.0
+Diluted Average Shares                                               NaN   137846000.0       138266000.0   137564000.0
+Basic Average Shares                                                 NaN   137564000.0       137564000.0   137564000.0
+Diluted EPS                                                          NaN          0.29              1.35         -1.85
+Basic EPS                                                            NaN          0.29              1.36         -1.85
+Diluted NI Availto Com Stockholders                         -215646000.0    39758000.0       186906000.0  -254213000.0
+Net Income Common Stockholders                              -215646000.0    39758000.0       186906000.0  -254213000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                  -215646000.0    39758000.0       186906000.0  -254213000.0
+Minority Interests                                            18116000.0    19193000.0         5402000.0    27418000.0
+Net Income Including Noncontrolling Interests               -233762000.0    20565000.0       181504000.0  -281631000.0
+Net Income Continuous Operations                            -233762000.0    20565000.0       181504000.0  -281631000.0
+Tax Provision                                                 21622000.0    23244000.0        57593000.0    19645000.0
+Pretax Income                                               -212140000.0    43809000.0       239097000.0  -261986000.0
+Other Non Operating Income Expenses                          -19095000.0    83321000.0        28484000.0    10581000.0
+Special Income Charges                                       -13548000.0     7478000.0        -9920000.0    -1060000.0
+Write Off                                                     13548000.0    -7478000.0         9920000.0     1060000.0
+Net Non Operating Interest Income Expense                     -4156000.0    -7124000.0        -6979000.0    -5755000.0
+Interest Expense Non Operating                                13594000.0    10031000.0         9138000.0    10127000.0
+Interest Income Non Operating                                  9438000.0     2907000.0         2159000.0     4372000.0
+Operating Income                                            -203506000.0  -103639000.0       192572000.0  -277762000.0
+Operating Expense                                            426385000.0   478487000.0       492768000.0   537020000.0
+Research And Development                                     115575000.0   148023000.0       134679000.0   157319000.0
+Selling General And Administration                           310810000.0   330464000.0       358089000.0   379701000.0
+Selling And Marketing Expense                                 85974000.0   115295000.0       136788000.0   142005000.0
+General And Administrative Expense                           224836000.0   215169000.0       221301000.0   237696000.0
+Gross Profit                                                 222879000.0   374848000.0       685340000.0   259258000.0
+Cost Of Revenue                                             2432649000.0  2848232000.0      3473472000.0  3630248000.0
+Total Revenue                                               2655528000.0  3223080000.0      4158812000.0  3889506000.0
+Operating Revenue                                           2655528000.0  3223080000.0      4158812000.0  3889506000.0

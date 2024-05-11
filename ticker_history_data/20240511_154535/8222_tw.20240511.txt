@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 1, Xingong Road
+address2	Lane. 13 Xinying District
+city	Tainan City
+zip	730
+country	Taiwan
+phone	886 6 653 5001
+fax	886 6 653 5057
+website	https://www.aerowin.com
+industry	Aerospace & Defense
+industryKey	aerospace-defense
+industryDisp	Aerospace & Defense
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Aero Win Technology Corporation manufactures various products for the aviation industry in Taiwan and internationally. The company offers super alloy sheet metal and machining parts assemblies, including oil collectors, plenum air inlets, rear and front flanges, oil cover inlets, SAGB casings, and bearing supports; and super alloy sheet metal forming parts, such as cooling inserts of vane, brackets, and combustion liners. It also offers super alloy forging precision machining parts comprising combustion chamber liners, liners, inner and outer rings for stators, flanges for stators, curvic ring assemblies, inlet housings, and diffuser cases. Aero Win Technology Corporation was founded in 1974 and is based in Tainan City, Taiwan.
+fullTimeEmployees	222
+companyOfficers	[{'maxAge': 1, 'name': 'Hao Tseng  Kuo', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Susan  Hu', 'title': 'Executive VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	44.15
+open	44.3
+dayLow	43.6
+dayHigh	44.4
+regularMarketPreviousClose	44.15
+regularMarketOpen	44.3
+regularMarketDayLow	43.6
+regularMarketDayHigh	44.4
+exDividendDate	1594598400	 (2020-07-13 08:00:00)
+fiveYearAvgDividendYield	3.0
+beta	0.505
+trailingPE	50.0
+forwardPE	51.16279
+volume	578922
+regularMarketVolume	578922
+averageVolume	2156202
+averageVolume10days	650182
+averageDailyVolume10Day	650182
+bid	44.0
+ask	44.05
+marketCap	3017255936
+fiftyTwoWeekLow	41.9
+fiftyTwoWeekHigh	66.6
+priceToSalesTrailing12Months	4.4122834
+fiftyDayAverage	45.655
+twoHundredDayAverage	46.59125
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.006795017
+currency	TWD
+enterpriseValue	3280030976
+profitMargins	0.08866
+sharesOutstanding	68574000
+heldPercentInsiders	0.24886
+heldPercentInstitutions	0.00102
+impliedSharesOutstanding	69341904
+bookValue	12.108
+priceToBook	3.633961
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	60626000
+trailingEps	0.88
+forwardEps	0.86
+enterpriseToRevenue	4.797
+enterpriseToEbitda	35.701
+52WeekChange	-0.18063313
+SandP52WeekChange	0.26265144
+lastDividendValue	0.45
+lastDividendDate	1594598400	 (2020-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8222.TW
+underlyingSymbol	8222.TW
+shortName	AERO WIN TECHNOLOGY CORP
+longName	Aero Win Technology Corporation
+firstTradeDateEpochUtc	1381280400	 (2013-10-09 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c5be72e2-1cfc-33ff-b974-f11150147548
+messageBoardId	finmb_53511558
+gmtOffSetMilliseconds	28800000
+currentPrice	44.0
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	248464000
+totalCashPerShare	3.623
+ebitda	91875000
+totalDebt	511260992
+quickRatio	1.192
+currentRatio	2.816
+totalRevenue	683830976
+debtToEquity	61.577
+revenuePerShare	9.972
+returnOnAssets	0.01612
+returnOnEquity	0.07576
+freeCashflow	-208851504
+operatingCashflow	-98479000
+revenueGrowth	0.622
+grossMargins	0.19556999
+ebitdaMargins	0.13435
+operatingMargins	0.069299996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                                  0.0          0.0     0.004699     0.091773
+Normalized EBITDA                                           129597000.0   84144000.0  -30009000.0   44871000.0
+Total Unusual Items                                             23000.0     -97000.0          0.0          NaN
+Total Unusual Items Excluding Goodwill                          23000.0     -97000.0          0.0          NaN
+Net Income From Continuing Operation Net Minority Interest   60626000.0   18915000.0 -102948000.0  -39467000.0
+Reconciled Depreciation                                      60666000.0   59219000.0   68523000.0   83514000.0
+Reconciled Cost Of Revenue                                  550091000.0  397754000.0  381267000.0  364438000.0
+EBITDA                                                      129620000.0   84047000.0  -30009000.0   44871000.0
+EBIT                                                         68954000.0   24828000.0  -98532000.0  -38643000.0
+Net Interest Income                                           1475000.0   -4766000.0   -4804000.0   -4499000.0
+Interest Expense                                              8328000.0    5913000.0    4902000.0    4812000.0
+Interest Income                                               9803000.0    1147000.0      98000.0     313000.0
+Normalized Income                                            60603000.0   19012000.0 -102948000.0  -39467000.0
+Net Income From Continuing And Discontinued Operation        60626000.0   18915000.0 -102948000.0  -39467000.0
+Total Expenses                                              646866000.0  477886000.0  458779000.0  454069000.0
+Diluted Average Shares                                              NaN   68574000.0   68574000.0   68574000.0
+Basic Average Shares                                                NaN   68574000.0   68574000.0   68574000.0
+Diluted EPS                                                         NaN         0.28         -1.5        -0.58
+Basic EPS                                                           NaN         0.28         -1.5        -0.58
+Diluted NI Availto Com Stockholders                          60626000.0   18915000.0 -102948000.0  -39467000.0
+Net Income Common Stockholders                               60626000.0   18915000.0 -102948000.0  -39467000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                   60626000.0   18915000.0 -102948000.0  -39467000.0
+Net Income Including Noncontrolling Interests                60626000.0   18915000.0 -102948000.0  -39467000.0
+Net Income Continuous Operations                             60626000.0   18915000.0 -102948000.0  -39467000.0
+Tax Provision                                                       0.0          0.0    -486000.0   -3988000.0
+Pretax Income                                                60626000.0   18915000.0 -103434000.0  -43455000.0
+Other Non Operating Income Expenses                          22163000.0   52128000.0    8639000.0   18041000.0
+Special Income Charges                                          23000.0     -97000.0          0.0          NaN
+Write Off                                                      -23000.0      97000.0          0.0          NaN
+Net Non Operating Interest Income Expense                     1475000.0   -4766000.0   -4804000.0   -4499000.0
+Interest Expense Non Operating                                8328000.0    5913000.0    4902000.0    4812000.0
+Interest Income Non Operating                                 9803000.0    1147000.0      98000.0     313000.0
+Operating Income                                             36965000.0  -28350000.0 -107269000.0  -56997000.0
+Operating Expense                                            96775000.0   80132000.0   77512000.0   89631000.0
+Research And Development                                     45078000.0   28748000.0   32958000.0   47605000.0
+Selling General And Administration                           51697000.0   51384000.0   44554000.0   42026000.0
+Selling And Marketing Expense                                20300000.0   22493000.0   15491000.0   12612000.0
+General And Administrative Expense                           31397000.0   28891000.0   29063000.0   29414000.0
+Gross Profit                                                133740000.0   51782000.0  -29757000.0   32634000.0
+Cost Of Revenue                                             550091000.0  397754000.0  381267000.0  364438000.0
+Total Revenue                                               683831000.0  449536000.0  351510000.0  397072000.0
+Operating Revenue                                           683831000.0  449536000.0  351510000.0  397072000.0

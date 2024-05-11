@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No.6, the 12th Road
+address2	Taichung Ind. Park
+city	Taichung
+zip	407
+country	Taiwan
+phone	886 4 2359 3687
+fax	886 4 2359 1243
+website	https://www.transart.com.tw
+industry	Specialty Business Services
+industryKey	specialty-business-services
+industryDisp	Specialty Business Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Transart Graphics Co., Ltd. operates in the screen print industry worldwide. The company manufactures and sells customized stickers and water transfer/heat transfer decals for the purpose of corporate identity and decorating products. It also offers self-adhesive sticker serial, nameplates and graphic overlays, dry rub-on transfer, color printed thermal forming plastic, brushed metal-like nameplates, and titanium flash. The company primarily serves bicycle, sporting goods, and various other industries. Transart Graphics Co., Ltd. was founded in 1973 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Li Yu Pei', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Le Hong Wen', 'title': 'Vice Chairman and President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Hui  Chen', 'title': 'Associate Manager of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xue Xiao Ying', 'title': 'Administrative Division Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hong Hui Yan', 'title': 'Manager of Marketing Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	50.9
+open	51.2
+dayLow	50.8
+dayHigh	51.4
+regularMarketPreviousClose	50.9
+regularMarketOpen	51.2
+regularMarketDayLow	50.8
+regularMarketDayHigh	51.4
+dividendRate	3.8
+dividendYield	0.0744
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	2.1838999
+fiveYearAvgDividendYield	7.47
+beta	0.278
+trailingPE	29.367815
+forwardPE	15.208333
+volume	20510
+regularMarketVolume	20510
+averageVolume	25503
+averageVolume10days	14711
+averageDailyVolume10Day	14711
+bid	50.9
+ask	51.3
+marketCap	3403362048
+fiftyTwoWeekLow	50.0
+fiftyTwoWeekHigh	60.0
+priceToSalesTrailing12Months	3.4249873
+fiftyDayAverage	51.196
+twoHundredDayAverage	51.5685
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.03929273
+currency	TWD
+enterpriseValue	2574345984
+profitMargins	0.12569
+floatShares	39972462
+sharesOutstanding	66602000
+heldPercentInsiders	0.53565
+heldPercentInstitutions	0.00105
+impliedSharesOutstanding	67252400
+bookValue	23.82
+priceToBook	2.145256
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.598
+netIncomeToCommon	124892000
+trailingEps	1.74
+forwardEps	3.36
+enterpriseToRevenue	2.591
+enterpriseToEbitda	14.291
+52WeekChange	-0.10193324
+SandP52WeekChange	0.26265144
+lastDividendValue	3.8
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8481.TW
+underlyingSymbol	8481.TW
+shortName	TRANSART GRAPHICS CO LTD
+longName	Transart Graphics Co., Ltd.
+firstTradeDateEpochUtc	1457053200	 (2016-03-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0a1e8743-dac8-3d35-a6ae-d8ebe4271a4b
+messageBoardId	finmb_310031157
+gmtOffSetMilliseconds	28800000
+currentPrice	51.1
+recommendationKey	none
+totalCash	839558976
+totalCashPerShare	12.606
+ebitda	180138000
+totalDebt	10548000
+quickRatio	5.336
+currentRatio	6.063
+totalRevenue	993686016
+debtToEquity	0.665
+revenuePerShare	14.92
+returnOnAssets	0.04498
+returnOnEquity	0.07556
+freeCashflow	91233624
+operatingCashflow	168231008
+earningsGrowth	-0.603
+revenueGrowth	-0.227
+grossMargins	0.43108
+ebitdaMargins	0.18128
+operatingMargins	0.08898
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     46091.679149     -65643.076312     196208.644506    -168507.526956
+Tax Rate For Calcs                                                  0.193663          0.326582          0.230562          0.203021
+Normalized EBITDA                                                207218000.0       490068000.0       578420000.0      1092449000.0
+Total Unusual Items                                                 238000.0         -201000.0          851000.0         -830000.0
+Total Unusual Items Excluding Goodwill                              238000.0         -201000.0          851000.0         -830000.0
+Net Income From Continuing Operation Net Minority Interest       124892000.0       294969000.0       406450000.0       832878000.0
+Reconciled Depreciation                                           51898000.0        50640000.0        49889000.0        45805000.0
+Reconciled Cost Of Revenue                                       565327000.0       726525000.0       768372000.0       658621000.0
+EBITDA                                                           207456000.0       489867000.0       579271000.0      1091619000.0
+EBIT                                                             155558000.0       439227000.0       529382000.0      1045814000.0
+Net Interest Income                                               17562000.0         2841000.0         6563000.0         6175000.0
+Interest Expense                                                    670000.0         1209000.0         1139000.0          770000.0
+Interest Income                                                   18232000.0         4050000.0         7702000.0         6945000.0
+Normalized Income                                           124700091.679149  295104356.923688  405795208.644506  833539492.473044
+Net Income From Continuing And Discontinued Operation            124892000.0       294969000.0       406450000.0       832878000.0
+Total Expenses                                                   855385000.0      1074012000.0      1127061000.0      1091377000.0
+Diluted Average Shares                                                   NaN        66658000.0        66649000.0        66687000.0
+Basic Average Shares                                                     NaN        66602000.0        66602000.0        66602000.0
+Diluted EPS                                                              NaN              4.43               6.1             12.49
+Basic EPS                                                                NaN              4.43               6.1             12.51
+Diluted NI Availto Com Stockholders                              124892000.0       294969000.0       406450000.0       832878000.0
+Net Income Common Stockholders                                   124892000.0       294969000.0       406450000.0       832878000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       124892000.0       294969000.0       406450000.0       832878000.0
+Net Income Including Noncontrolling Interests                    124892000.0       294969000.0       406450000.0       832878000.0
+Net Income Continuous Operations                                 124892000.0       294969000.0       406450000.0       832878000.0
+Tax Provision                                                     29996000.0       143049000.0       121793000.0       212166000.0
+Pretax Income                                                    154888000.0       438018000.0       528243000.0      1045044000.0
+Other Non Operating Income Expenses                               -1213000.0        51588000.0        82600000.0       755014000.0
+Special Income Charges                                              238000.0         -201000.0          851000.0         -830000.0
+Write Off                                                          -238000.0          201000.0         -851000.0          830000.0
+Net Non Operating Interest Income Expense                         17562000.0         2841000.0         6563000.0         6175000.0
+Interest Expense Non Operating                                      670000.0         1209000.0         1139000.0          770000.0
+Interest Income Non Operating                                     18232000.0         4050000.0         7702000.0         6945000.0
+Operating Income                                                 138301000.0       383790000.0       438229000.0       284685000.0
+Operating Expense                                                290058000.0       347487000.0       358689000.0       432756000.0
+Research And Development                                          40711000.0        23464000.0        24827000.0        19990000.0
+Selling General And Administration                               249347000.0       324023000.0       333862000.0       412766000.0
+Selling And Marketing Expense                                     79037000.0       105009000.0       106989000.0        87549000.0
+General And Administrative Expense                               170310000.0       219014000.0       226873000.0       325217000.0
+Gross Profit                                                     428359000.0       731277000.0       796918000.0       717441000.0
+Cost Of Revenue                                                  565327000.0       726525000.0       768372000.0       658621000.0
+Total Revenue                                                    993686000.0      1457802000.0      1565290000.0      1376062000.0
+Operating Revenue                                                993686000.0      1457802000.0      1565290000.0      1376062000.0

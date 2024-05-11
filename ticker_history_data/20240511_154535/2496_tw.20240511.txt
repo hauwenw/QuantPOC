@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.50, Sec. 1, Zhongxiao W. Rd
+address2	22F.-11 Zhongzeng District
+city	Taipei
+country	Taiwan
+phone	886 2 2389 9200
+fax	886 2 2388 4161
+website	https://www.chenliedu2496.com/tw
+industry	Education & Training Services
+industryKey	education-training-services
+industryDisp	Education & Training Services
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Success Prime Corporation offers education and consulting services in Taiwan. It provides contracting teachers and course management services. The company also offers education tutorial services, including primary, middle, and high-school curriculum courses. Success Prime Corporation was incorporated in 1991 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shu-ling  Tseng', 'age': 65, 'title': 'GM & Chairman', 'yearBorn': 1958, 'fiscalYear': 2021, 'totalPay': 2288000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xiang-Yi  Luo', 'title': 'Head of Accounting', 'fiscalYear': 2021, 'totalPay': 1536000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hong Chin  Yi', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. L. C. Tai', 'title': 'Director of Administration', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Aleko  Hsiung', 'title': 'Vice President of Sales', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Long-Haw  Wang', 'title': 'Chief Internal Auditor (Leave of Absence)', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	71.5
+open	72.7
+dayLow	72.7
+dayHigh	76.0
+regularMarketPreviousClose	71.5
+regularMarketOpen	72.7
+regularMarketDayLow	72.7
+regularMarketDayHigh	76.0
+dividendRate	4.68
+dividendYield	0.0635
+exDividendDate	1712793600	 (2024-04-11 08:00:00)
+payoutRatio	0.5491
+fiveYearAvgDividendYield	5.99
+beta	0.369
+trailingPE	12.262895
+volume	177087
+regularMarketVolume	177087
+averageVolume	93064
+averageVolume10days	53301
+averageDailyVolume10Day	53301
+bid	73.7
+ask	73.8
+marketCap	1394580864
+fiftyTwoWeekLow	50.6
+fiftyTwoWeekHigh	79.0
+priceToSalesTrailing12Months	1.8234226
+fiftyDayAverage	69.576
+twoHundredDayAverage	59.9635
+trailingAnnualDividendRate	4.68
+trailingAnnualDividendYield	0.06545454
+currency	TWD
+enterpriseValue	1118068864
+profitMargins	0.13552
+floatShares	12769592
+sharesOutstanding	18922400
+heldPercentInsiders	0.56836
+impliedSharesOutstanding	18976600
+bookValue	44.884
+priceToBook	1.6420105
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.714
+netIncomeToCommon	103644000
+trailingEps	6.01
+lastSplitFactor	1101.042:1000
+lastSplitDate	1595462400	 (2020-07-23 08:00:00)
+enterpriseToRevenue	1.462
+enterpriseToEbitda	8.045
+52WeekChange	0.44227004
+SandP52WeekChange	0.26265144
+lastDividendValue	4.68
+lastDividendDate	1712793600	 (2024-04-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2496.TW
+underlyingSymbol	2496.TW
+shortName	SUCCESS PRIME CORPORATION
+longName	Success Prime Corporation
+firstTradeDateEpochUtc	1015808400	 (2002-03-11 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	784b0337-9e89-39ea-8b22-d54a8483cf53
+messageBoardId	finmb_9870776
+gmtOffSetMilliseconds	28800000
+currentPrice	73.7
+recommendationKey	none
+totalCash	383336992
+totalCashPerShare	20.258
+ebitda	138974000
+totalDebt	102174000
+quickRatio	0.847
+currentRatio	0.886
+totalRevenue	764814976
+debtToEquity	11.965
+revenuePerShare	40.419
+returnOnAssets	0.05691
+returnOnEquity	0.12432
+freeCashflow	191628000
+operatingCashflow	233044000
+earningsGrowth	0.711
+revenueGrowth	0.08
+grossMargins	0.52583003
+ebitdaMargins	0.18170999
+operatingMargins	0.17695999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                             0.174297     0.194306     0.237462     0.249284
+Normalized EBITDA                                           202486000.0  173553000.0  154132000.0  173861000.0
+Net Income From Continuing Operation Net Minority Interest  103644000.0   78704000.0   56900000.0   62234000.0
+Reconciled Depreciation                                      75315000.0   73035000.0   77757000.0   86410000.0
+Reconciled Cost Of Revenue                                  362649000.0  350056000.0  341399000.0  404425000.0
+EBITDA                                                      202486000.0  173553000.0  154132000.0  173861000.0
+EBIT                                                        127171000.0  100518000.0   76375000.0   87451000.0
+Net Interest Income                                            715000.0    -997000.0   -1726000.0   -3077000.0
+Interest Expense                                              1839000.0    2142000.0    2119000.0    3647000.0
+Interest Income                                               2554000.0    1145000.0     393000.0     570000.0
+Normalized Income                                           103644000.0   78704000.0   56900000.0   62234000.0
+Net Income From Continuing And Discontinued Operation       103644000.0   78704000.0   56900000.0   62234000.0
+Total Expenses                                              642808000.0  607214000.0  584427000.0  704854000.0
+Diluted Average Shares                                              NaN   18986000.0   18869000.0   18937000.0
+Basic Average Shares                                                NaN   18922000.0   18819000.0   18883000.0
+Diluted EPS                                                         NaN         4.15         3.02         3.29
+Basic EPS                                                           NaN         4.16         3.02          3.3
+Diluted NI Availto Com Stockholders                         103644000.0   78704000.0   56900000.0   62234000.0
+Net Income Common Stockholders                              103644000.0   78704000.0   56900000.0   62234000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                  103644000.0   78704000.0   56900000.0   62234000.0
+Minority Interests                                             157000.0    -557000.0     277000.0    -679000.0
+Net Income Including Noncontrolling Interests               103487000.0   79261000.0   56623000.0   62913000.0
+Net Income Continuous Operations                            103487000.0   79261000.0   56623000.0   62913000.0
+Tax Provision                                                21845000.0   19115000.0   17633000.0   20891000.0
+Pretax Income                                               125332000.0   98376000.0   74256000.0   83804000.0
+Other Non Operating Income Expenses                           1582000.0    3369000.0   -1511000.0   15338000.0
+Net Non Operating Interest Income Expense                      715000.0    -997000.0   -1726000.0   -3077000.0
+Interest Expense Non Operating                                1839000.0    2142000.0    2119000.0    3647000.0
+Interest Income Non Operating                                 2554000.0    1145000.0     393000.0     570000.0
+Operating Income                                            122007000.0   95043000.0   77493000.0   71543000.0
+Operating Expense                                           280159000.0  257158000.0  243028000.0  300429000.0
+Research And Development                                            NaN          NaN          0.0   14104000.0
+Selling General And Administration                          280159000.0  257158000.0  243028000.0  286325000.0
+Selling And Marketing Expense                                63425000.0   60141000.0   50864000.0   73440000.0
+General And Administrative Expense                          216734000.0  197017000.0  192164000.0  212885000.0
+Gross Profit                                                402166000.0  352201000.0  320521000.0  371972000.0
+Cost Of Revenue                                             362649000.0  350056000.0  341399000.0  404425000.0
+Total Revenue                                               764815000.0  702257000.0  661920000.0  776397000.0
+Operating Revenue                                           764815000.0  702257000.0  661920000.0  776397000.0

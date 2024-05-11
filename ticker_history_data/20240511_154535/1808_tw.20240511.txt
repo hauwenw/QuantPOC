@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 267, Lequn 2nd Road
+address2	8th Floor Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 8501 5696
+fax	886 2 8501 5711
+website	https://www.runlong.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Run Long Construction Co., Ltd. engages in the construction, sale, and leasing of residential and commercial buildings in Taiwan. The company was founded in 1972 and is based in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	106.0
+open	107.5
+dayLow	107.0
+dayHigh	110.5
+regularMarketPreviousClose	106.0
+regularMarketOpen	107.5
+regularMarketDayLow	107.0
+regularMarketDayHigh	110.5
+dividendRate	0.6
+dividendYield	0.0055
+exDividendDate	1695686400	 (2023-09-26 08:00:00)
+payoutRatio	0.035099998
+fiveYearAvgDividendYield	7.89
+beta	0.207
+trailingPE	6.3561807
+forwardPE	50.938965
+volume	3253741
+regularMarketVolume	3253741
+averageVolume	4150146
+averageVolume10days	4115055
+averageDailyVolume10Day	4115055
+bid	108.5
+ask	109.0
+marketCap	48936321024
+fiftyTwoWeekLow	72.5
+fiftyTwoWeekHigh	139.0
+priceToSalesTrailing12Months	1.5948513
+fiftyDayAverage	112.54
+twoHundredDayAverage	99.281
+currency	TWD
+enterpriseValue	65584181248
+profitMargins	0.25100002
+floatShares	194126101
+sharesOutstanding	451025984
+heldPercentInsiders	0.62077
+heldPercentInstitutions	0.07679
+impliedSharesOutstanding	460916992
+bookValue	29.955
+priceToBook	3.6220999
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	5.127
+netIncomeToCommon	7701545984
+trailingEps	17.07
+forwardEps	2.13
+lastSplitFactor	1150:1000
+lastSplitDate	1664150400	 (2022-09-26 08:00:00)
+enterpriseToRevenue	2.137
+enterpriseToEbitda	6.899
+52WeekChange	0.47218454
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1695686400	 (2023-09-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1808.TW
+underlyingSymbol	1808.TW
+shortName	RUN LONG CONSTRUCTION CO LTD
+longName	Run Long Construction Co., Ltd.
+firstTradeDateEpochUtc	949366800	 (2000-02-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	733c13cf-c204-31f5-9788-9ba6471e6569
+messageBoardId	finmb_12961415
+gmtOffSetMilliseconds	28800000
+currentPrice	108.5
+recommendationKey	none
+totalCash	4315764224
+totalCashPerShare	9.569
+ebitda	9505697792
+totalDebt	20963627008
+quickRatio	0.205
+currentRatio	1.618
+totalRevenue	30683940864
+debtToEquity	155.164
+revenuePerShare	68.031
+returnOnAssets	0.12968001
+returnOnEquity	0.78853
+freeCashflow	10792820736
+operatingCashflow	18623281152
+earningsGrowth	5.127
+revenueGrowth	3.019
+grossMargins	0.36765
+ebitdaMargins	0.30979002
+operatingMargins	0.25782
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31    2022-12-31     2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                           0.0           0.0            0.0           0.0
+Tax Rate For Calcs                                               0.177171      0.327942       0.188511           0.2
+Normalized EBITDA                                            9643763000.0   441412000.0   2235895000.0   378673000.0
+Net Income From Continuing Operation Net Minority Interest   7701546000.0   156636000.0   1671830000.0   117248000.0
+Reconciled Depreciation                                        58401000.0    49001000.0     45207000.0    22520000.0
+Reconciled Cost Of Revenue                                  19402845000.0  1673107000.0   7740794000.0  6639308000.0
+EBITDA                                                       9643763000.0   441412000.0   2235895000.0   378673000.0
+EBIT                                                         9585362000.0   392411000.0   2190688000.0   356153000.0
+Net Interest Income                                          -174577000.0  -148612000.0   -124595000.0  -134845000.0
+Interest Expense                                              225521000.0   159342000.0    130487000.0   146123000.0
+Interest Income                                                50944000.0    10730000.0      5892000.0    11278000.0
+Normalized Income                                            7701546000.0   156636000.0   1671830000.0   117248000.0
+Net Income From Continuing And Discontinued Operation        7701546000.0   156636000.0   1671830000.0   117248000.0
+Total Expenses                                              21206688000.0  2266168000.0   8389220000.0  7251782000.0
+Diluted Average Shares                                                NaN   451182000.0    451525000.0   451169150.0
+Basic Average Shares                                                  NaN   451026000.0    451026000.0   451026550.0
+Diluted EPS                                                           NaN          0.35            3.7       0.26087
+Basic EPS                                                             NaN          0.35           3.71       0.26087
+Diluted NI Availto Com Stockholders                          7701546000.0   156636000.0   1671830000.0   117248000.0
+Net Income Common Stockholders                               7701546000.0   156636000.0   1671830000.0   117248000.0
+Otherunder Preferred Stock Dividend                                   0.0           0.0            0.0           0.0
+Net Income                                                   7701546000.0   156636000.0   1671830000.0   117248000.0
+Net Income Including Noncontrolling Interests                7701546000.0   156636000.0   1671830000.0   117248000.0
+Net Income Continuous Operations                             7701546000.0   156636000.0   1671830000.0   117248000.0
+Tax Provision                                                1658295000.0    76433000.0    388371000.0    92782000.0
+Pretax Income                                                9359841000.0   233069000.0   2060201000.0   210030000.0
+Other Non Operating Income Expenses                            57165000.0   162125000.0     94749000.0   -59579000.0
+Net Non Operating Interest Income Expense                    -174577000.0  -148612000.0   -124595000.0  -134845000.0
+Interest Expense Non Operating                                225521000.0   159342000.0    130487000.0   146123000.0
+Interest Income Non Operating                                  50944000.0    10730000.0      5892000.0    11278000.0
+Operating Income                                             9477253000.0   219556000.0   2090047000.0   404454000.0
+Operating Expense                                            1803843000.0   593061000.0    648426000.0   612474000.0
+Selling General And Administration                           1803843000.0   593061000.0    648426000.0   612474000.0
+Selling And Marketing Expense                                1447617000.0   248082000.0    340109000.0   347003000.0
+General And Administrative Expense                            356226000.0   344979000.0    308317000.0   265471000.0
+Gross Profit                                                11281096000.0   812617000.0   2738473000.0  1016928000.0
+Cost Of Revenue                                             19402845000.0  1673107000.0   7740794000.0  6639308000.0
+Total Revenue                                               30683941000.0  2485724000.0  10479267000.0  7656236000.0
+Operating Revenue                                           30683941000.0  2485724000.0  10479267000.0  7656236000.0

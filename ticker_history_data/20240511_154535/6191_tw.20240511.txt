@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 1, Songzhi Road
+address2	24th Floor Xinyi District
+city	Taipei
+zip	110
+country	Taiwan
+phone	886 2 2910 8800
+fax	886 2 2912 1616
+website	https://www.gbm.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Global Brands Manufacture Ltd., together with its subsidiaries, engages in printed circuit boards (PCB) production and EMS business in Taiwan. The company's PCB are used in desktop PCs, network and communication products, digital cameras, automotive electronics, consumer electronics, IT products, and others. It also provides EMS services, including SMT assembly, tooling, and plastic and systems assembly; as well as CRT/LCD monitors, TFT LCD TVs, DVD players, DVD recorder, power supply, multimedia, industrial control boards, and air-con boards. The company supplies its products to various industries, such as information, communication, automobile, and consumer electronics. The company was formerly known as Cyber Solutions Corporation and changed its name to Global Brands Manufacture Ltd. in 2003. Global Brands Manufacture Ltd. was incorporated in 1973 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Heng  Chiao', 'age': 61, 'title': 'Chairman & CEO', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Hui  Yang', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng-Kuo  Tao', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xian Ji Fu', 'title': 'Finance Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chia-Yu  Weng', 'title': 'Finance, Accounting & Corporate Governance Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jian-Hui  Yang', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	72.6
+open	73.1
+dayLow	70.6
+dayHigh	73.2
+regularMarketPreviousClose	72.6
+regularMarketOpen	73.1
+regularMarketDayLow	70.6
+regularMarketDayHigh	73.2
+dividendRate	2.62
+dividendYield	0.0368
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.3923
+fiveYearAvgDividendYield	3.17
+beta	0.763
+trailingPE	10.658683
+volume	4817664
+regularMarketVolume	4817664
+averageVolume	5538800
+averageVolume10days	4108728
+averageDailyVolume10Day	4108728
+bid	70.9
+ask	71.6
+marketCap	33501876224
+fiftyTwoWeekLow	37.15
+fiftyTwoWeekHigh	76.6
+priceToSalesTrailing12Months	1.4642924
+fiftyDayAverage	69.98
+twoHundredDayAverage	63.73575
+currency	TWD
+enterpriseValue	32215363584
+profitMargins	0.13807
+floatShares	264104906
+sharesOutstanding	470532000
+heldPercentInsiders	0.44717997
+heldPercentInstitutions	0.16145
+impliedSharesOutstanding	470532000
+bookValue	43.399
+priceToBook	1.6405908
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.387
+netIncomeToCommon	3158956032
+trailingEps	6.68
+lastSplitFactor	920:1000
+lastSplitDate	1634083200	 (2021-10-13 08:00:00)
+enterpriseToRevenue	1.408
+enterpriseToEbitda	6.866
+52WeekChange	0.90374327
+SandP52WeekChange	0.26265144
+lastDividendValue	2.620837
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6191.TW
+underlyingSymbol	6191.TW
+shortName	GLOBAL BRANDS MANUFACTURE CO LT
+longName	Global Brands Manufacture Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5aa6c0ac-7707-3267-9bdc-612828f8b98f
+messageBoardId	finmb_11500578
+gmtOffSetMilliseconds	28800000
+currentPrice	71.2
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	11283000320
+totalCashPerShare	23.979
+ebitda	4691763200
+totalDebt	9798787072
+quickRatio	1.529
+currentRatio	1.86
+totalRevenue	22879225856
+debtToEquity	47.525
+revenuePerShare	48.725
+returnOnAssets	0.06202
+returnOnEquity	0.16347
+freeCashflow	1923252864
+operatingCashflow	4445322240
+earningsGrowth	0.382
+revenueGrowth	-0.044
+grossMargins	0.23509
+ebitdaMargins	0.20507
+operatingMargins	0.18031
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -209992.121029    -2712823.639114      165764.565955    -8078734.939513
+Tax Rate For Calcs                                                   0.231014           0.287955           0.199476           0.291777
+Normalized EBITDA                                                5630593000.0       4927608000.0       4925571000.0       3873793000.0
+Total Unusual Items                                                 -909000.0         -9421000.0           831000.0        -27688000.0
+Total Unusual Items Excluding Goodwill                              -909000.0         -9421000.0           831000.0        -27688000.0
+Net Income From Continuing Operation Net Minority Interest       3158956000.0       2472580000.0       2891371000.0       1763154000.0
+Reconciled Depreciation                                          1356339000.0       1273909000.0       1126505000.0       1377975000.0
+Reconciled Cost Of Revenue                                      17500585000.0      19927962000.0      22525693000.0      18410176000.0
+EBITDA                                                           5629684000.0       4918187000.0       4926402000.0       3846105000.0
+EBIT                                                             4273345000.0       3644278000.0       3799897000.0       2468130000.0
+Net Interest Income                                               318191000.0         39576000.0          1040000.0        -51977000.0
+Interest Expense                                                  158087000.0        112809000.0         80728000.0        115882000.0
+Interest Income                                                   476278000.0        152385000.0         81768000.0         63905000.0
+Normalized Income                                           3159655007.878971  2479288176.360886  2890705764.565955  1782763265.060487
+Net Income From Continuing And Discontinued Operation            3158956000.0       2472580000.0       2891371000.0       1763154000.0
+Total Expenses                                                  19345841000.0      21614612000.0      24517738000.0      20430939000.0
+Diluted Average Shares                                            470530000.0        473200000.0        500346000.0        516544000.0
+Basic Average Shares                                              469561000.0        471652000.0        499049000.0        515305000.0
+Diluted EPS                                                              6.71               5.23               5.78               3.41
+Basic EPS                                                                6.73               5.24               5.79               3.42
+Diluted NI Availto Com Stockholders                              3158956000.0       2472580000.0       2891371000.0       1763154000.0
+Net Income Common Stockholders                                   3158956000.0       2472580000.0       2891371000.0       1763154000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       3158956000.0       2472580000.0       2891371000.0       1763154000.0
+Minority Interests                                                 -5618000.0        -41985000.0        -85913000.0         97239000.0
+Net Income Including Noncontrolling Interests                    3164574000.0       2514565000.0       2977284000.0       1665915000.0
+Net Income Continuous Operations                                 3164574000.0       2514565000.0       2977284000.0       1665915000.0
+Tax Provision                                                     950684000.0       1016904000.0        741885000.0        686333000.0
+Pretax Income                                                    4115258000.0       3531469000.0       3719169000.0       2352248000.0
+Other Non Operating Income Expenses                               135410000.0        681605000.0        234779000.0           203000.0
+Special Income Charges                                              -909000.0         -9421000.0           831000.0        -27688000.0
+Write Off                                                            909000.0          9421000.0          -831000.0         27688000.0
+Net Non Operating Interest Income Expense                         318191000.0         39576000.0          1040000.0        -51977000.0
+Interest Expense Non Operating                                    158087000.0        112809000.0         80728000.0        115882000.0
+Interest Income Non Operating                                     476278000.0        152385000.0         81768000.0         63905000.0
+Operating Income                                                 3533384000.0       2636441000.0       3103184000.0       2385367000.0
+Operating Expense                                                1845256000.0       1686650000.0       1992045000.0       2020763000.0
+Research And Development                                           28792000.0         28178000.0         28077000.0         58774000.0
+Selling General And Administration                               1816464000.0       1658472000.0       1963968000.0       1961989000.0
+Selling And Marketing Expense                                     369027000.0        350551000.0        426030000.0        363630000.0
+General And Administrative Expense                               1447437000.0       1307921000.0       1537938000.0       1598359000.0
+Gross Profit                                                     5378640000.0       4323091000.0       5095229000.0       4406130000.0
+Cost Of Revenue                                                 17500585000.0      19927962000.0      22525693000.0      18410176000.0
+Total Revenue                                                   22879225000.0      24251053000.0      27620922000.0      22816306000.0
+Operating Revenue                                               22879225000.0      24251053000.0      27620922000.0      22816306000.0

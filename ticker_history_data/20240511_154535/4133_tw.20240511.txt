@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 108, Jhouzih Street
+address2	9th Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8751 1888
+fax	886 2 6602 1218
+website	https://www.abnova.com
+industry	Biotechnology
+industryKey	biotechnology
+industryDisp	Biotechnology
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Abnova (Taiwan) Corporation manufactures and sells various recombinant proteins and antibodies. The company's products portfolio includes SARS-CoV/CoV-2, DNA and RNA, proteins/peptides, DNAxPab, lysates/slides, beads/dyes, antibody pairs/kits, antibody and tissue arrays, in situ hybridization products, systems and automations, GMP and analyte specific reagents, and in vitro diagnostics. It also provides MaxPab, monoclonal, polyclonal, recombinant, conjugate, secondary/tag, IHC/pathology, and circulating rare cell antibodies. In addition, the company offers integrated solutions and services, including gene synthesis and cytogenetics; peptide services, protein expression, and conjugations; antibody production; and assay development services. Abnova (Taiwan) Corporation is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yi Huang  Huang', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	32.0
+open	31.85
+dayLow	31.75
+dayHigh	32.3
+regularMarketPreviousClose	32.0
+regularMarketOpen	31.85
+regularMarketDayLow	31.75
+regularMarketDayHigh	32.3
+dividendRate	0.8
+dividendYield	0.025
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	0.8163
+fiveYearAvgDividendYield	1.42
+beta	0.413
+trailingPE	32.65306
+forwardPE	26.229507
+volume	100280
+regularMarketVolume	100280
+averageVolume	151876
+averageVolume10days	108673
+averageDailyVolume10Day	108673
+bid	31.85
+ask	32.0
+marketCap	1937728000
+fiftyTwoWeekLow	29.8
+fiftyTwoWeekHigh	38.85
+priceToSalesTrailing12Months	5.071896
+fiftyDayAverage	31.634
+twoHundredDayAverage	32.7865
+trailingAnnualDividendRate	0.72
+trailingAnnualDividendYield	0.0225
+currency	TWD
+enterpriseValue	1522344192
+profitMargins	0.11432
+floatShares	51151443
+sharesOutstanding	60554000
+heldPercentInsiders	0.26287
+heldPercentInstitutions	0.0057
+impliedSharesOutstanding	61763100
+bookValue	21.243
+priceToBook	1.5063785
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.087
+netIncomeToCommon	43678000
+trailingEps	0.98
+forwardEps	1.22
+lastSplitFactor	1030:1000
+lastSplitDate	1503878400	 (2017-08-28 08:00:00)
+enterpriseToRevenue	3.985
+enterpriseToEbitda	23.711
+52WeekChange	-0.07780981
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4133.TW
+underlyingSymbol	4133.TW
+shortName	ABNOVA (TAIWAN) CORPORATION
+longName	Abnova (Taiwan) Corporation
+firstTradeDateEpochUtc	1261962000	 (2009-12-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fcfe26ad-0a1c-3dc0-b80a-4db305b3f6a9
+messageBoardId	finmb_45036329
+gmtOffSetMilliseconds	28800000
+currentPrice	32.0
+recommendationKey	none
+totalCash	423515008
+totalCashPerShare	6.994
+ebitda	64205000
+totalDebt	8144000
+quickRatio	7.9
+currentRatio	14.693
+totalRevenue	382052000
+debtToEquity	0.633
+revenuePerShare	6.309
+returnOnAssets	0.0216
+returnOnEquity	0.03388
+freeCashflow	89529504
+operatingCashflow	76219000
+earningsGrowth	-0.062
+revenueGrowth	-0.13
+grossMargins	0.45521
+ebitdaMargins	0.16805
+operatingMargins	0.14706
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31      2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   304500.834759   -147846.09714   -262245.136937   -986541.458541
+Tax Rate For Calcs                                                 0.099738        0.211814         0.218356         0.255316
+Normalized EBITDA                                                77917000.0     130299000.0       79790000.0       97258000.0
+Total Unusual Items                                               3053000.0       -698000.0       -1201000.0       -3864000.0
+Total Unusual Items Excluding Goodwill                            3053000.0       -698000.0       -1201000.0       -3864000.0
+Net Income From Continuing Operation Net Minority Interest       43678000.0      74843000.0       28369000.0       36526000.0
+Reconciled Depreciation                                          32311000.0      34493000.0       42049000.0       44070000.0
+Reconciled Cost Of Revenue                                      208137000.0     210327000.0      254148000.0      242948000.0
+EBITDA                                                           80970000.0     129601000.0       78589000.0       93394000.0
+EBIT                                                             48659000.0      95108000.0       36540000.0       49324000.0
+Net Interest Income                                              10386000.0       3484000.0         470000.0         666000.0
+Interest Expense                                                   142000.0        152000.0         246000.0         275000.0
+Interest Income                                                  10528000.0       3636000.0         716000.0         941000.0
+Normalized Income                                           40929500.834759  75393153.90286  29307754.863063  39403458.541459
+Net Income From Continuing And Discontinued Operation            43678000.0      74843000.0       28369000.0       36526000.0
+Total Expenses                                                  337911000.0     346632000.0      406466000.0      394917000.0
+Diluted Average Shares                                           60632000.0      60664000.0       60598000.0       60591000.0
+Basic Average Shares                                             60554000.0      60554000.0       60554000.0       60554000.0
+Diluted EPS                                                            0.72            1.23             0.47              0.6
+Basic EPS                                                              0.72            1.24             0.47              0.6
+Diluted NI Availto Com Stockholders                              43678000.0      74843000.0       28369000.0       36526000.0
+Net Income Common Stockholders                                   43678000.0      74843000.0       28369000.0       36526000.0
+Otherunder Preferred Stock Dividend                                     0.0             0.0              0.0              0.0
+Net Income                                                       43678000.0      74843000.0       28369000.0       36526000.0
+Net Income Including Noncontrolling Interests                    43678000.0      74843000.0       28369000.0       36526000.0
+Net Income Continuous Operations                                 43678000.0      74843000.0       28369000.0       36526000.0
+Tax Provision                                                     4839000.0      20113000.0        7925000.0       12523000.0
+Pretax Income                                                    48517000.0      94956000.0       36294000.0       49049000.0
+Other Non Operating Income Expenses                              -8824000.0      27046000.0       -7666000.0       -9285000.0
+Special Income Charges                                            3053000.0       -698000.0       -1201000.0       -3864000.0
+Write Off                                                        -3053000.0        698000.0        1201000.0        3864000.0
+Net Non Operating Interest Income Expense                        10386000.0       3484000.0         470000.0         666000.0
+Interest Expense Non Operating                                     142000.0        152000.0         246000.0         275000.0
+Interest Income Non Operating                                    10528000.0       3636000.0         716000.0         941000.0
+Operating Income                                                 44141000.0      65124000.0       45021000.0       61532000.0
+Operating Expense                                               129774000.0     136305000.0      152318000.0      151969000.0
+Research And Development                                         38396000.0      48740000.0       53141000.0       50957000.0
+Selling General And Administration                               91378000.0      87565000.0       99177000.0      101012000.0
+Selling And Marketing Expense                                    45261000.0      40349000.0       39812000.0       45118000.0
+General And Administrative Expense                               46117000.0      47216000.0       59365000.0       55894000.0
+Gross Profit                                                    173915000.0     201429000.0      197339000.0      213501000.0
+Cost Of Revenue                                                 208137000.0     210327000.0      254148000.0      242948000.0
+Total Revenue                                                   382052000.0     411756000.0      451487000.0      456449000.0
+Operating Revenue                                               382052000.0     411756000.0      451487000.0      456449000.0

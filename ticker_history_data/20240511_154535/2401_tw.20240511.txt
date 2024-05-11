@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 19, Innovation 1st Road
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	30076
+country	Taiwan
+phone	886 3 578 6005
+fax	886 3 578 6006
+website	https://www.sunplus.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Sunplus Technology Company Limited, together with its subsidiaries, provides consumer integrated circuits (ICs) for multimedia and automotive applications primarily in Taiwan, other Asian countries, and internationally. The company offers IC solutions for multimedia and automotive applications, such as DVD player, portable DVD player, home entertainment audio products, and car infotainment and advanced driving assistance systems; automotive ICs; intelligent acoustic solutions; system-in-package architecture; IP solutions; and media player ICs. Its products are used in consumer, portable, and connected device applications. Sunplus Technology Company Limited was incorporated in 1990 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chou-Chye  Huang', 'title': 'CEO & Chairman', 'fiscalYear': 2013, 'totalPay': 10919484, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Chen  Cheng', 'title': 'Director of Finance & Accounting Division', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ji-An  Zhuang', 'title': 'Investor Relations Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Phoebe  Chen', 'title': 'Head of Corporate Governance', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhong-Cheng  Wang', 'title': 'Deputy General Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1388448000
+maxAge	86400
+priceHint	2
+previousClose	28.1
+open	28.2
+dayLow	27.6
+dayHigh	28.35
+regularMarketPreviousClose	28.1
+regularMarketOpen	28.2
+regularMarketDayLow	27.6
+regularMarketDayHigh	28.35
+dividendRate	0.6
+dividendYield	0.0214
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	5.4054
+fiveYearAvgDividendYield	3.31
+beta	0.831
+forwardPE	13.9801
+volume	4070143
+regularMarketVolume	4070143
+averageVolume	4930261
+averageVolume10days	7466839
+averageDailyVolume10Day	7466839
+bid	28.05
+ask	28.15
+marketCap	16535023616
+fiftyTwoWeekLow	23.05
+fiftyTwoWeekHigh	37.85
+priceToSalesTrailing12Months	2.9871304
+fiftyDayAverage	29.194
+twoHundredDayAverage	31.454
+currency	TWD
+enterpriseValue	15093445632
+profitMargins	-0.089090005
+floatShares	463863311
+sharesOutstanding	588435008
+heldPercentInsiders	0.22602
+heldPercentInstitutions	0.06447
+impliedSharesOutstanding	593561024
+bookValue	14.42
+priceToBook	1.9486824
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-493147008
+trailingEps	-0.84
+forwardEps	2.01
+lastSplitFactor	105:100
+lastSplitDate	1220313600	 (2008-09-02 08:00:00)
+enterpriseToRevenue	2.727
+enterpriseToEbitda	74.383
+52WeekChange	0.21645021
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2401.TW
+underlyingSymbol	2401.TW
+shortName	SUNPLUS TECHNOLOGY
+longName	Sunplus Technology Company Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	31dd8065-ae34-3096-9ab0-b100ba34ac06
+messageBoardId	finmb_4069367
+gmtOffSetMilliseconds	28800000
+currentPrice	28.1
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	5183244800
+totalCashPerShare	8.809
+ebitda	202914000
+totalDebt	1427604992
+quickRatio	3.534
+currentRatio	4.371
+totalRevenue	5535420928
+debtToEquity	13.219
+revenuePerShare	9.407
+returnOnAssets	-0.010670001
+returnOnEquity	-0.01964
+freeCashflow	902407744
+operatingCashflow	1099563008
+revenueGrowth	0.178
+grossMargins	0.45602
+ebitdaMargins	0.03666
+operatingMargins	-0.076230004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0       -4989.921426      32559.012052
+Tax Rate For Calcs                                                   0.2      0.240146           0.146762          0.211422
+Normalized EBITDA                                            454163000.0  1382831000.0       2484265000.0      1191352000.0
+Total Unusual Items                                                  NaN           0.0           -34000.0          154000.0
+Total Unusual Items Excluding Goodwill                               NaN           0.0           -34000.0          154000.0
+Net Income From Continuing Operation Net Minority Interest  -493147000.0   215899000.0       1182785000.0       323403000.0
+Reconciled Depreciation                                      499191000.0   483342000.0        411743000.0       391022000.0
+Reconciled Cost Of Revenue                                  3011176000.0  3404941000.0       3799225000.0      3489044000.0
+EBITDA                                                       454163000.0  1382831000.0       2484231000.0      1191506000.0
+EBIT                                                         -45028000.0   899489000.0       2072488000.0       800484000.0
+Net Interest Income                                           17926000.0    21168000.0         11305000.0         8306000.0
+Interest Expense                                              41142000.0    17139000.0         14161000.0        15746000.0
+Interest Income                                               59068000.0    38307000.0         25466000.0        24052000.0
+Normalized Income                                           -493147000.0   215899000.0  1182814010.078574  323281559.012052
+Net Income From Continuing And Discontinued Operation       -493147000.0   215899000.0       1182785000.0       323403000.0
+Total Expenses                                              5782775000.0  6417818000.0       7037261000.0      5898127000.0
+Diluted Average Shares                                               NaN   588619000.0        588775000.0       588616000.0
+Basic Average Shares                                                 NaN   588435000.0        588435000.0       588435000.0
+Diluted EPS                                                          NaN          0.37               2.01              0.55
+Basic EPS                                                            NaN          0.37               2.01              0.55
+Diluted NI Availto Com Stockholders                         -493147000.0   215899000.0       1182785000.0       323403000.0
+Net Income Common Stockholders                              -493147000.0   215899000.0       1182785000.0       323403000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0                0.0               0.0
+Net Income                                                  -493147000.0   215899000.0       1182785000.0       323403000.0
+Minority Interests                                          -271874000.0  -454558000.0       -573457000.0      -295424000.0
+Net Income Including Noncontrolling Interests               -221273000.0   670457000.0       1756242000.0       618827000.0
+Net Income Continuous Operations                            -221273000.0   670457000.0       1756242000.0       618827000.0
+Tax Provision                                                135103000.0   211893000.0        302085000.0       165911000.0
+Pretax Income                                                -86170000.0   882350000.0       2058327000.0       784738000.0
+Other Non Operating Income Expenses                          252503000.0   588591000.0       1088863000.0       244552000.0
+Special Income Charges                                               NaN           0.0           -34000.0          154000.0
+Write Off                                                            NaN           0.0            34000.0         -154000.0
+Net Non Operating Interest Income Expense                     17926000.0    21168000.0         11305000.0         8306000.0
+Interest Expense Non Operating                                41142000.0    17139000.0         14161000.0        15746000.0
+Interest Income Non Operating                                 59068000.0    38307000.0         25466000.0        24052000.0
+Operating Income                                            -247354000.0   287890000.0        923570000.0       516013000.0
+Operating Expense                                           2771599000.0  3012877000.0       3238036000.0      2409083000.0
+Other Operating Expenses                                        475000.0     4204000.0           167000.0          -37000.0
+Research And Development                                    2040283000.0  2153458000.0       2088699000.0      1623728000.0
+Selling General And Administration                           730841000.0   855215000.0       1149170000.0       785392000.0
+Selling And Marketing Expense                                218384000.0   239183000.0        521124000.0       297145000.0
+General And Administrative Expense                           512457000.0   616032000.0        628046000.0       488247000.0
+Gross Profit                                                2524245000.0  3300767000.0       4161606000.0      2925096000.0
+Cost Of Revenue                                             3011176000.0  3404941000.0       3799225000.0      3489044000.0
+Total Revenue                                               5535421000.0  6705708000.0       7960831000.0      6414140000.0
+Operating Revenue                                           5535421000.0  6705708000.0       7960831000.0      6414140000.0

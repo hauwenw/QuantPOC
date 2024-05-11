@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 8, Lane 360
+address2	10th Floor, Section 1 Neihu Road Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 2656 5656
+fax	886 2 2656 0810
+website	https://www.zerone.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Zero One Technology Co., Ltd. operates as a business information equipment agency and sales company in Taiwan. The company also provides IT management and performance monitoring, information security, infrastructure network, storage system, backup, virtualization, video surveillance, cloud service, AI big data, container and DevOps, remote application, hyper-converged infrastructure, business application software and consulting services, etc., as well as hardware solutions. In addition, it offers advisory services. The company was incorporated in 1980 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Su-O  Huang', 'title': 'CEO & CSO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jianzhong  Chen', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mei-Yun  Chang', 'title': 'Financial & Accounting Officer and Director of Financial Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Chou  Liang', 'title': 'Senior Manager of Information Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'May  Chen', 'title': 'Sales Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	72.2
+open	72.4
+dayLow	71.6
+dayHigh	72.9
+regularMarketPreviousClose	72.2
+regularMarketOpen	72.4
+regularMarketDayLow	71.6
+regularMarketDayHigh	72.9
+dividendRate	4.0
+dividendYield	0.0551
+exDividendDate	1710979200	 (2024-03-21 08:00:00)
+payoutRatio	0.8696
+fiveYearAvgDividendYield	6.04
+beta	0.464
+trailingPE	15.782609
+volume	790715
+regularMarketVolume	790715
+averageVolume	2187919
+averageVolume10days	962215
+averageDailyVolume10Day	962215
+bid	72.6
+ask	72.7
+marketCap	11207188480
+fiftyTwoWeekLow	58.0
+fiftyTwoWeekHigh	79.8
+priceToSalesTrailing12Months	0.8050761
+fiftyDayAverage	74.852
+twoHundredDayAverage	67.3495
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.055401664
+currency	TWD
+enterpriseValue	9417056256
+profitMargins	0.04968
+sharesOutstanding	154368992
+heldPercentInsiders	0.23
+heldPercentInstitutions	0.046830002
+impliedSharesOutstanding	154574000
+bookValue	26.791
+priceToBook	2.709865
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.235
+netIncomeToCommon	691516992
+trailingEps	4.6
+lastSplitFactor	1040.678:1000
+lastSplitDate	1440460800	 (2015-08-25 08:00:00)
+enterpriseToRevenue	0.676
+enterpriseToEbitda	11.611
+52WeekChange	0.19407892
+SandP52WeekChange	0.26265144
+lastDividendValue	3.999948
+lastDividendDate	1710979200	 (2024-03-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3029.TW
+underlyingSymbol	3029.TW
+shortName	ZERO ONE TECHNOLOGY
+longName	Zero One Technology Co., Ltd.
+firstTradeDateEpochUtc	948675600	 (2000-01-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1b7994b4-f358-35a5-a7aa-773a375cf674
+messageBoardId	finmb_9870444
+gmtOffSetMilliseconds	28800000
+currentPrice	72.6
+recommendationKey	none
+totalCash	1962989952
+totalCashPerShare	12.716
+ebitda	811065984
+totalDebt	21897000
+quickRatio	1.431
+currentRatio	1.823
+totalRevenue	13920657408
+debtToEquity	0.511
+revenuePerShare	90.643
+returnOnAssets	0.06177
+returnOnEquity	0.16951
+freeCashflow	102733248
+operatingCashflow	802646976
+earningsGrowth	0.241
+revenueGrowth	0.102
+grossMargins	0.118030004
+ebitdaMargins	0.05826
+operatingMargins	0.05549
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -2562894.325628   -2474474.979945    1908511.141612     927108.974232
+Tax Rate For Calcs                                                  0.188185          0.197279          0.203618          0.205022
+Normalized EBITDA                                                913487000.0       810345000.0       692436000.0       575245000.0
+Total Unusual Items                                              -13619000.0       -12543000.0         9373000.0         4522000.0
+Total Unusual Items Excluding Goodwill                           -13619000.0       -12543000.0         9373000.0         4522000.0
+Net Income From Continuing Operation Net Minority Interest       691517000.0       613580000.0       537359000.0       441623000.0
+Reconciled Depreciation                                           36113000.0        33653000.0        26252000.0        23663000.0
+Reconciled Cost Of Revenue                                     12277628000.0     11246322000.0     11582666000.0      8788192000.0
+EBITDA                                                           899868000.0       797802000.0       701809000.0       579767000.0
+EBIT                                                             863755000.0       764149000.0       675557000.0       556104000.0
+Net Interest Income                                               41979000.0        21773000.0         2403000.0        15639000.0
+Interest Expense                                                    329000.0         1241000.0         2360000.0         2129000.0
+Interest Income                                                   42308000.0        23014000.0         4763000.0        17768000.0
+Normalized Income                                           702573105.674372  623648525.020055  529894511.141612  438028108.974232
+Net Income From Continuing And Discontinued Operation            691517000.0       613580000.0       537359000.0       441623000.0
+Total Expenses                                                 13116667000.0     12011926000.0     12258687000.0      9332940000.0
+Diluted Average Shares                                                   NaN       154816000.0       130166000.0       128205000.0
+Basic Average Shares                                                     NaN       152325000.0       126765000.0       124381000.0
+Diluted EPS                                                              NaN              3.96              4.13              3.44
+Basic EPS                                                                NaN              4.03              4.24              3.55
+Diluted NI Availto Com Stockholders                              691517000.0       613580000.0       537359000.0       441623000.0
+Net Income Common Stockholders                                   691517000.0       613580000.0       537359000.0       441623000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       691517000.0       613580000.0       537359000.0       441623000.0
+Minority Interests                                                -9425000.0         1178000.0         1237000.0         1225000.0
+Net Income Including Noncontrolling Interests                    700942000.0       612402000.0       536122000.0       440398000.0
+Net Income Continuous Operations                                 700942000.0       612402000.0       536122000.0       440398000.0
+Tax Provision                                                    162484000.0       150506000.0       137075000.0       113577000.0
+Pretax Income                                                    863426000.0       762908000.0       673197000.0       553975000.0
+Other Non Operating Income Expenses                               42516000.0        42826000.0        45890000.0        32436000.0
+Special Income Charges                                           -13619000.0       -12543000.0         6681000.0         3262000.0
+Write Off                                                         13619000.0        12543000.0        -6681000.0        -3262000.0
+Net Non Operating Interest Income Expense                         41979000.0        21773000.0         2403000.0        15639000.0
+Interest Expense Non Operating                                      329000.0         1241000.0         2360000.0         2129000.0
+Interest Income Non Operating                                     42308000.0        23014000.0         4763000.0        17768000.0
+Operating Income                                                 803990000.0       722457000.0       619490000.0       501378000.0
+Operating Expense                                                839039000.0       765604000.0       676021000.0       544748000.0
+Research And Development                                          22377000.0        13756000.0        10029000.0         7427000.0
+Selling General And Administration                               816662000.0       751848000.0       665992000.0       537321000.0
+Selling And Marketing Expense                                    650495000.0       605477000.0       511997000.0       402658000.0
+General And Administrative Expense                               166167000.0       146371000.0       153995000.0       134663000.0
+Gross Profit                                                    1643029000.0      1488061000.0      1295511000.0      1046126000.0
+Cost Of Revenue                                                12277628000.0     11246322000.0     11582666000.0      8788192000.0
+Total Revenue                                                  13920657000.0     12734383000.0     12878177000.0      9834318000.0
+Operating Revenue                                              13920657000.0     12734383000.0     12878177000.0      9834318000.0

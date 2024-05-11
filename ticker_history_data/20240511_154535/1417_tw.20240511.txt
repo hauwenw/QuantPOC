@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 25, Section 4
+address2	7th Floor Renai Road Daan District
+city	Taipei
+country	Taiwan
+phone	886 2 2711 3171
+website	https://www.carnival.com.tw
+industry	Apparel Retail
+industryKey	apparel-retail
+industryDisp	Apparel Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Carnival Industrial Corporation manufactures and sells apparel in Taiwan and internationally. The company's products include suits and career wear for men; womenswear; and dining or homeware products. It offers its own branded and franchised branded products through self-operated stores. The company was formerly known as Carnival Textile Industrial Corp. and changed its name to Carnival Industrial Corporation in 1997. The company was incorporated in 1969 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mei-Ling  Yeh', 'title': 'Acting GM & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'David  Kuei', 'title': 'Senior Manager of Finance & Finance Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming-Yi  Hsieh', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Yang  Hui', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	11.35
+open	11.4
+dayLow	11.3
+dayHigh	11.45
+regularMarketPreviousClose	11.35
+regularMarketOpen	11.4
+regularMarketDayLow	11.3
+regularMarketDayHigh	11.45
+dividendRate	0.37
+dividendYield	0.0326
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	30.0
+beta	0.825
+volume	151844
+regularMarketVolume	151844
+averageVolume	305095
+averageVolume10days	332506
+averageDailyVolume10Day	332506
+bid	11.3
+ask	11.35
+marketCap	2155841792
+fiftyTwoWeekLow	10.95
+fiftyTwoWeekHigh	14.6
+priceToSalesTrailing12Months	1.4408993
+fiftyDayAverage	11.487
+twoHundredDayAverage	12.1795
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.017621145
+currency	TWD
+enterpriseValue	1134633856
+profitMargins	-0.04644
+sharesOutstanding	189942000
+heldPercentInsiders	0.38524
+heldPercentInstitutions	0.022160001
+impliedSharesOutstanding	192430000
+bookValue	13.63
+priceToBook	0.83272195
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-66197000
+trailingEps	-0.44
+lastSplitFactor	701.232:1000
+lastSplitDate	1580947200	 (2020-02-06 08:00:00)
+enterpriseToRevenue	0.758
+enterpriseToEbitda	-31.054
+52WeekChange	-0.13688213
+SandP52WeekChange	0.26265144
+lastDividendValue	0.37
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1417.TW
+underlyingSymbol	1417.TW
+shortName	CARNIVAL (TW)
+longName	Carnival Industrial Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	656366c5-a641-359d-9342-7a08af65b61f
+messageBoardId	finmb_9857973
+gmtOffSetMilliseconds	28800000
+currentPrice	11.35
+recommendationKey	none
+totalCash	1585606016
+totalCashPerShare	8.348
+ebitda	-36538000
+totalDebt	564400000
+quickRatio	2.956
+currentRatio	3.608
+totalRevenue	1496178048
+debtToEquity	21.8
+revenuePerShare	7.877
+returnOnAssets	-0.01242
+returnOnEquity	-0.025009999
+freeCashflow	464353120
+operatingCashflow	513313984
+revenueGrowth	0.104
+grossMargins	0.33382
+ebitdaMargins	-0.024419999
+operatingMargins	-0.03501
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -167000.0        20.904012     3294000.0     1171800.0
+Tax Rate For Calcs                                                   0.2          0.00003           0.2           0.2
+Normalized EBITDA                                             44187000.0      203284000.0   145162000.0  -137000000.0
+Total Unusual Items                                            -835000.0         686000.0    16470000.0     5859000.0
+Total Unusual Items Excluding Goodwill                         -835000.0         686000.0    16470000.0     5859000.0
+Net Income From Continuing Operation Net Minority Interest   -66197000.0       98447000.0    89005000.0  -179819000.0
+Reconciled Depreciation                                       89187000.0       93541000.0    81179000.0   121276000.0
+Reconciled Cost Of Revenue                                   996724000.0      999766000.0   682768000.0   812289000.0
+EBITDA                                                        43352000.0      203970000.0   161632000.0  -131141000.0
+EBIT                                                         -45835000.0      110429000.0    80453000.0  -252417000.0
+Net Interest Income                                           -4916000.0       -3622000.0     3559000.0     5132000.0
+Interest Expense                                              18018000.0       11979000.0     2947000.0      951000.0
+Interest Income                                               13102000.0        8357000.0     6506000.0     6083000.0
+Normalized Income                                            -65529000.0  97761020.904012    75829000.0  -184506200.0
+Net Income From Continuing And Discontinued Operation        -69476000.0      106351000.0    97714000.0  -266431000.0
+Total Expenses                                              1575608000.0     1616831000.0  1303748000.0  1400240000.0
+Diluted Average Shares                                       189942000.0      190079000.0   190042000.0   189941000.0
+Basic Average Shares                                         189942000.0      189942000.0   189941000.0   189941000.0
+Diluted EPS                                                        -0.37             0.56          0.51         -1.86
+Basic EPS                                                          -0.37             0.56          0.51         -1.86
+Diluted NI Availto Com Stockholders                          -69476000.0      106351000.0    97714000.0  -266431000.0
+Net Income Common Stockholders                               -69476000.0      106351000.0    97714000.0  -266431000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0           0.0           0.0
+Net Income                                                   -69476000.0      106351000.0    97714000.0  -266431000.0
+Minority Interests                                                   NaN              NaN    -8709000.0    86612000.0
+Net Income Including Noncontrolling Interests                -69476000.0      106351000.0    97714000.0  -353043000.0
+Net Income Discontinuous Operations                           -3279000.0        7904000.0     8709000.0   -86612000.0
+Net Income Continuous Operations                             -66197000.0       98447000.0    89005000.0  -266431000.0
+Tax Provision                                                  2344000.0           3000.0   -11499000.0    13063000.0
+Pretax Income                                                -63853000.0       98450000.0    77506000.0  -253368000.0
+Other Non Operating Income Expenses                           21335000.0      295556000.0    38790000.0    99991000.0
+Special Income Charges                                         -835000.0         686000.0    16470000.0     5859000.0
+Write Off                                                       835000.0        -686000.0   -16470000.0    -5859000.0
+Net Non Operating Interest Income Expense                     -4916000.0       -3622000.0     3559000.0     5132000.0
+Interest Expense Non Operating                                18018000.0       11979000.0     2947000.0      951000.0
+Interest Income Non Operating                                 13102000.0        8357000.0     6506000.0     6083000.0
+Operating Income                                             -79430000.0     -194117000.0    18698000.0  -364371000.0
+Operating Expense                                            578884000.0      617065000.0   620980000.0   587951000.0
+Research And Development                                       2358000.0        4036000.0     3977000.0    13099000.0
+Selling General And Administration                           576526000.0      613029000.0   617003000.0   574852000.0
+Selling And Marketing Expense                                423107000.0      461818000.0   474416000.0   421492000.0
+General And Administrative Expense                           153419000.0      151211000.0   142587000.0   153360000.0
+Gross Profit                                                 499454000.0      422948000.0   639678000.0   223580000.0
+Cost Of Revenue                                              996724000.0      999766000.0   682768000.0   812289000.0
+Total Revenue                                               1496178000.0     1422714000.0  1322446000.0  1035869000.0
+Operating Revenue                                           1496178000.0     1422714000.0  1322446000.0  1035869000.0

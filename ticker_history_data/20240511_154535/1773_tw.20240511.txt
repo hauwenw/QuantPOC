@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No.5, Yeong Gong 1st Road
+address2	Yeong An District
+city	Kaohsiung
+zip	82841
+country	Taiwan
+phone	886 7 861 9171
+fax	886 7 622 2620
+website	https://www.shinychem.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Shiny Chemical Industrial Co., Ltd. manufactures, processes, and trades in chemical solvents in Taiwan. The company provides electronic solvents that include menthyl acetates, ether alcohol esters, other solvents, and customized products; and industrial solvents comprising of menthyl acetates, ether ester products, and other solvents. It also offers formalin and urea glue; and leases storage tanks and warehouses. In addition, the company provides electronic solvent for semiconductor and flat screen monitor; and bumping and packaging, and LED sectors. Further, it offers encapsulation, testing, and manufacturing of emission diode and photoresist services. Shiny Chemical Industrial Co., Ltd. was incorporated in 1979 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jan-Yen  Sun', 'age': 84, 'title': 'President & Chairman of the Board', 'yearBorn': 1939, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yeou-Ching  Huang', 'title': 'Accounting & Financial Manager and Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Fa  Sun', 'age': 48, 'title': 'VP & Director', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	170.5
+open	170.0
+dayLow	166.5
+dayHigh	170.0
+regularMarketPreviousClose	170.5
+regularMarketOpen	170.0
+regularMarketDayLow	166.5
+regularMarketDayHigh	170.0
+dividendRate	3.6
+dividendYield	0.021300001
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.5607
+fiveYearAvgDividendYield	2.9
+beta	0.812
+trailingPE	26.323988
+volume	565836
+regularMarketVolume	565836
+averageVolume	1510572
+averageVolume10days	474990
+averageDailyVolume10Day	474990
+bid	168.5
+ask	169.0
+marketCap	42249998336
+fiftyTwoWeekLow	121.0
+fiftyTwoWeekHigh	197.5
+priceToSalesTrailing12Months	4.288073
+fiftyDayAverage	177.53
+twoHundredDayAverage	144.4975
+trailingAnnualDividendRate	3.2
+trailingAnnualDividendYield	0.01876833
+currency	TWD
+enterpriseValue	45679878144
+profitMargins	0.1602
+floatShares	109640000
+sharesOutstanding	250000000
+heldPercentInsiders	0.59636
+heldPercentInstitutions	0.04242
+impliedSharesOutstanding	251458000
+bookValue	34.818
+priceToBook	4.8538113
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.075
+netIncomeToCommon	1578461056
+trailingEps	6.42
+lastSplitFactor	1250:1000
+lastSplitDate	1656460800	 (2022-06-29 08:00:00)
+enterpriseToRevenue	4.636
+enterpriseToEbitda	19.57
+52WeekChange	0.37959182
+SandP52WeekChange	0.26265144
+lastDividendValue	3.6
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1773.TW
+underlyingSymbol	1773.TW
+shortName	SHINY CHEMICAL INDUSTRIAL CO. L
+longName	Shiny Chemical Industrial Co., Ltd.
+firstTradeDateEpochUtc	1235696400	 (2009-02-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5b1c1e26-cc57-36dd-85d0-405673b36561
+messageBoardId	finmb_22931759
+gmtOffSetMilliseconds	28800000
+currentPrice	169.0
+targetHighPrice	194.0
+targetLowPrice	194.0
+targetMeanPrice	194.0
+targetMedianPrice	194.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	278614016
+totalCashPerShare	1.114
+ebitda	2334174976
+totalDebt	3708492032
+quickRatio	0.576
+currentRatio	1.22
+totalRevenue	9852909568
+debtToEquity	42.604
+revenuePerShare	39.412
+returnOnAssets	0.08213
+returnOnEquity	0.18856001
+freeCashflow	-145022624
+operatingCashflow	2109504000
+earningsGrowth	0.071
+revenueGrowth	0.006
+grossMargins	0.32027
+ebitdaMargins	0.2369
+operatingMargins	0.19601999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     127743.066751      924972.201344     -111002.387698    -1774404.691533
+Tax Rate For Calcs                                                   0.180174           0.187735           0.192712           0.191538
+Normalized EBITDA                                                2458134000.0       2643485000.0       2328298000.0       1759432000.0
+Total Unusual Items                                                  709000.0          4927000.0          -576000.0         -9264000.0
+Total Unusual Items Excluding Goodwill                               709000.0          4927000.0          -576000.0         -9264000.0
+Net Income From Continuing Operation Net Minority Interest       1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Reconciled Depreciation                                           514968000.0        397910000.0        322725000.0        295858000.0
+Reconciled Cost Of Revenue                                       6697290000.0       7964469000.0       8011023000.0       5456673000.0
+EBITDA                                                           2458843000.0       2648412000.0       2327722000.0       1750168000.0
+EBIT                                                             1943875000.0       2250502000.0       2004997000.0       1454310000.0
+Net Interest Income                                               -14814000.0         -1891000.0         -1715000.0         -1822000.0
+Interest Expense                                                   18515000.0          3307000.0          2231000.0          2162000.0
+Interest Income                                                     3701000.0          1416000.0           516000.0           340000.0
+Normalized Income                                           1577879743.066751  1821314972.201344  1617272997.612302  1181496595.308467
+Net Income From Continuing And Discontinued Operation            1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Total Expenses                                                   8013403000.0       9252174000.0       9234919000.0       6393626000.0
+Diluted Average Shares                                            251369000.0        251679000.0        251453000.0        251541250.0
+Basic Average Shares                                              250000000.0        250000000.0        250000000.0        250000000.0
+Diluted EPS                                                              6.28               7.25               6.43              4.664
+Basic EPS                                                                6.31                7.3               6.47              4.696
+Diluted NI Availto Com Stockholders                              1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Net Income Common Stockholders                                   1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Minority Interests                                                        NaN                NaN                0.0                0.0
+Net Income Including Noncontrolling Interests                    1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Net Income Continuous Operations                                 1578461000.0       1825317000.0       1616808000.0       1174007000.0
+Tax Provision                                                     346899000.0        421878000.0        385958000.0        278141000.0
+Pretax Income                                                    1925360000.0       2247195000.0       2002766000.0       1452148000.0
+Other Non Operating Income Expenses                                39997000.0         27005000.0         27362000.0         19258000.0
+Special Income Charges                                               709000.0          4927000.0          -576000.0         -9264000.0
+Other Special Charges                                                434000.0         -1426000.0                NaN                NaN
+Write Off                                                          -1143000.0         -3501000.0           576000.0          9264000.0
+Net Non Operating Interest Income Expense                         -14814000.0         -1891000.0         -1715000.0         -1822000.0
+Interest Expense Non Operating                                     18515000.0          3307000.0          2231000.0          2162000.0
+Interest Income Non Operating                                       3701000.0          1416000.0           516000.0           340000.0
+Operating Income                                                 1839507000.0       2092909000.0       1908684000.0       1384649000.0
+Operating Expense                                                1316113000.0       1287705000.0       1223896000.0        936953000.0
+Research And Development                                          269218000.0        260878000.0        243466000.0        201957000.0
+Selling General And Administration                               1046895000.0       1026827000.0        980430000.0        734996000.0
+Selling And Marketing Expense                                     394000000.0        446310000.0        401770000.0        320371000.0
+General And Administrative Expense                                652895000.0        580517000.0        578660000.0        414625000.0
+Gross Profit                                                     3155620000.0       3380614000.0       3132580000.0       2321602000.0
+Cost Of Revenue                                                  6697290000.0       7964469000.0       8011023000.0       5456673000.0
+Total Revenue                                                    9852910000.0      11345083000.0      11143603000.0       7778275000.0
+Operating Revenue                                                9852910000.0      11345083000.0      11143603000.0       7778275000.0

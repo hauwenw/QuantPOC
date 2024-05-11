@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 162, Songjiang Road
+address2	11th Floor
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2100 1188
+fax	886 2 2100 2688
+website	https://www.lealea.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Lealea Enterprise Co., Ltd. produces and sells polyester DTY to provide raw materials to textile manufacturers in worldwide. Its principal products include polyester filament and textured, nylon textured, special polyester textured, conjugated, and functional DTY yarns, as well as polyester chips, dyeing and finishing, and processing of artificial fiber fabrics. The company engages in the building, land, and parking space related businesses; coal trading business; sporting and recreation goods; and wholesaling and retailing business. The company was founded in 1978 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Han-Ching  Chen', 'title': 'President & Chairman', 'fiscalYear': 2022, 'totalPay': 6147600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Yu  Shih', 'title': 'Vice President', 'fiscalYear': 2022, 'totalPay': 1594600, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Lang  Jan', 'title': 'Vice President', 'fiscalYear': 2022, 'totalPay': 3686300, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Hsien  Chang', 'title': 'Vice President', 'fiscalYear': 2022, 'totalPay': 3627900, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Chung  Tsai', 'title': 'Senior Manager', 'fiscalYear': 2022, 'totalPay': 2951000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Chun  Ko', 'title': 'Finance Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Hsueh  Hsu', 'title': 'Accounting Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Huan  Yuan', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	9.44
+open	9.43
+dayLow	9.42
+dayHigh	9.54
+regularMarketPreviousClose	9.44
+regularMarketOpen	9.43
+regularMarketDayLow	9.42
+regularMarketDayHigh	9.54
+exDividendDate	1660176000	 (2022-08-11 08:00:00)
+beta	0.472
+forwardPE	34.035713
+volume	628627
+regularMarketVolume	628627
+averageVolume	1565958
+averageVolume10days	1278819
+averageDailyVolume10Day	1278819
+bid	9.52
+ask	9.54
+marketCap	9381236736
+fiftyTwoWeekLow	8.96
+fiftyTwoWeekHigh	11.2
+priceToSalesTrailing12Months	1.1511973
+fiftyDayAverage	9.4834
+twoHundredDayAverage	10.1415
+currency	TWD
+enterpriseValue	14879908864
+profitMargins	-0.03355
+floatShares	657190770
+sharesOutstanding	984390016
+heldPercentInsiders	0.38277
+heldPercentInstitutions	0.04867
+impliedSharesOutstanding	994774016
+bookValue	10.807
+priceToBook	0.8818358
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-273376000
+trailingEps	-0.28
+forwardEps	0.28
+lastSplitFactor	1040:1000
+lastSplitDate	1690329600	 (2023-07-26 08:00:00)
+enterpriseToRevenue	1.826
+enterpriseToEbitda	227.95
+52WeekChange	-0.04699999
+SandP52WeekChange	0.26265144
+lastDividendValue	0.288462
+lastDividendDate	1660176000	 (2022-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1444.TW
+underlyingSymbol	1444.TW
+shortName	LEALEA ENTERPRISE
+longName	Lealea Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0bdbf2dd-7e1b-34a6-a957-25051152828f
+messageBoardId	finmb_9861348
+gmtOffSetMilliseconds	28800000
+currentPrice	9.53
+recommendationKey	none
+totalCash	1360070016
+totalCashPerShare	1.381
+ebitda	65277000
+totalDebt	5550734848
+quickRatio	0.367
+currentRatio	1.117
+totalRevenue	8149112832
+debtToEquity	46.461
+revenuePerShare	8.235
+returnOnAssets	-0.01936
+returnOnEquity	-0.026180001
+freeCashflow	-296147264
+operatingCashflow	1306930048
+revenueGrowth	-0.314
+grossMargins	-0.00749
+ebitdaMargins	0.00801
+operatingMargins	-0.08838
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   2759980.901537    2886692.070839    -327624.588355    3984225.721402
+Tax Rate For Calcs                                                  0.120287          0.207258          0.056225          0.075848
+Normalized EBITDA                                                369580000.0      1392266000.0      1450082000.0       337530000.0
+Total Unusual Items                                               22945000.0        13928000.0        -5827000.0        52529000.0
+Total Unusual Items Excluding Goodwill                            22945000.0        13928000.0        -5827000.0        52529000.0
+Net Income From Continuing Operation Net Minority Interest      -273376000.0       489757000.0       648800000.0      -357444000.0
+Reconciled Depreciation                                          672620000.0       748550000.0       714686000.0       790012000.0
+Reconciled Cost Of Revenue                                      8210127000.0     11185719000.0      9572963000.0      7994807000.0
+EBITDA                                                           392525000.0      1406194000.0      1444255000.0       390059000.0
+EBIT                                                            -280095000.0       657644000.0       729569000.0      -399953000.0
+Net Interest Income                                              -11876000.0       -30769000.0       -14223000.0       -28120000.0
+Interest Expense                                                  78049000.0        66560000.0        38136000.0        59742000.0
+Interest Income                                                   66173000.0        35791000.0        23913000.0        31622000.0
+Normalized Income                                          -293561019.098463  478715692.070839  654299375.411645 -405988774.278598
+Net Income From Continuing And Discontinued Operation           -273376000.0       489757000.0       648800000.0      -357444000.0
+Total Expenses                                                  8753886000.0     12199989000.0     10648538000.0      8622820000.0
+Diluted Average Shares                                                   NaN       991076000.0       990462720.0       989627600.0
+Basic Average Shares                                                     NaN       989627000.0       989627600.0       989627600.0
+Diluted EPS                                                              NaN              0.49          0.653846         -0.365385
+Basic EPS                                                                NaN              0.49          0.653846         -0.365385
+Diluted NI Availto Com Stockholders                             -273376000.0       489757000.0       648800000.0      -357444000.0
+Net Income Common Stockholders                                  -273376000.0       489757000.0       648800000.0      -357444000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                      -273376000.0       489757000.0       648800000.0      -357444000.0
+Minority Interests                                                41688000.0        21180000.0        -3757000.0        67384000.0
+Net Income Including Noncontrolling Interests                   -315064000.0       468577000.0       652557000.0      -424828000.0
+Net Income Continuous Operations                                -315064000.0       468577000.0       652557000.0      -424828000.0
+Tax Provision                                                    -43080000.0       122507000.0        38876000.0       -34867000.0
+Pretax Income                                                   -358144000.0       591084000.0       691433000.0      -459695000.0
+Other Non Operating Income Expenses                              313754000.0       543428000.0       364077000.0      -116097000.0
+Special Income Charges                                            22945000.0        13928000.0        -5827000.0        52529000.0
+Write Off                                                         -3841000.0        -3008000.0        19298000.0           31000.0
+Restructuring And Mergern Acquisition                            -19104000.0       -10920000.0       -13471000.0       -52560000.0
+Net Non Operating Interest Income Expense                        -11876000.0       -30769000.0       -14223000.0       -28120000.0
+Interest Expense Non Operating                                    78049000.0        66560000.0        38136000.0        59742000.0
+Interest Income Non Operating                                     66173000.0        35791000.0        23913000.0        31622000.0
+Operating Income                                                -604773000.0        37237000.0       229645000.0      -249211000.0
+Operating Expense                                                543759000.0      1014270000.0      1075575000.0       628013000.0
+Other Operating Expenses                                                 NaN               NaN          716000.0          918000.0
+Research And Development                                          37672000.0        32137000.0        36236000.0        44591000.0
+Selling General And Administration                               506087000.0       982133000.0      1039339000.0       583422000.0
+Selling And Marketing Expense                                    290566000.0       764152000.0       818121000.0       389742000.0
+General And Administrative Expense                               215521000.0       217981000.0       221218000.0       193680000.0
+Gross Profit                                                     -61014000.0      1051507000.0      1305220000.0       378802000.0
+Cost Of Revenue                                                 8210127000.0     11185719000.0      9572963000.0      7994807000.0
+Total Revenue                                                   8149113000.0     12237226000.0     10878183000.0      8373609000.0
+Operating Revenue                                               8149113000.0     12237226000.0     10878183000.0      8373609000.0

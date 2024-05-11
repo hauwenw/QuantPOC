@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 145, Jianguo North Road
+address2	Section 2
+city	Taipei
+country	Taiwan
+phone	886 2 2503 1111
+fax	886 2 2503 6396
+website	https://www.mercuries.com.tw
+industry	Insurance - Life
+industryKey	insurance-life
+industryDisp	Insurance - Life
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Mercuries & Associates Holding, Ltd., an investment holding company, engages in the life insurance, daily commodities and food retail, pharmaceuticals, and information services businesses. It operates through Life Insurance, Retail, Food and Beverage, Food, IT Service, Pharmaceutical, and Other segments. The company offers lifetime and whole life insurance; hospitalization and medical care, cancer, and whole life medical and healthcare insurance; personal accident, travel, and online accident insurance; immediate and deferred annuity insurance, and pension insurance with floating interest rates; variable annuity and variable life insurance; 1-year term group life and group health insurance; group accident insurance; and long-term care lifetime, and disability care lifetime health insurance, as well as pension in foreign currencies. It also purchases and sells daily commodities and food, alcohols, beverages, tobacco, daily necessities, cooked food, fresh foods, medical supplies, infant products, cosmetics, and beauty products; and branded footwear, apparel, and accessories, as well as serves fast food, including noodles, rice, fried pork chops, Japanese bento sets, and pizzas. In addition, the company engages in the sale and decoration of furniture, cabinets, kitchen utensils, and mattresses. Further, it manufactures active pharmaceutical ingredients (API), such as valporic acid and allopurinol; API intermediates comprising diethyl dipropyl malonate and PENT-2 ethyl 2-allyl-2-cyano-3-methylhexanoate; and specialty chemicals that include diethyl ketone. Additionally, the company offers software and hardware planning, development, and establishment services for financial information systems and public utilities; and software and hardware maintenance services. The company was formerly known as Mercuries & Associates, Ltd. and changed its name to Mercuries & Associates Holding, Ltd. in January 2015. The company was founded in 1965 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shiang-Li  Chen', 'age': 58, 'title': 'GM, President & Chairman', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hua  Wang', 'age': 70, 'title': 'Chief Information Security Officer, Asst GM, Principal Financial Officer & Head of Corporate Gov', 'yearBorn': 1953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Te-Kai  Chin', 'title': 'Assistant GM, Principal Accounting Officer & VP of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching-Hsin  Hsu', 'title': 'General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi Hua  Wang', 'title': 'Vice President of Corporate Service Department and Treasurer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiang Fen  Chen', 'title': 'President of Food Business Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guo Zheng  Shen', 'title': 'President of Family Portrait Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuang-Lung  Chiu', 'title': 'President of Home Purchase Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	14.4
+open	14.45
+dayLow	14.4
+dayHigh	15.15
+regularMarketPreviousClose	14.4
+regularMarketOpen	14.45
+regularMarketDayLow	14.4
+regularMarketDayHigh	15.15
+exDividendDate	1662595200	 (2022-09-08 08:00:00)
+fiveYearAvgDividendYield	4.55
+beta	0.512
+volume	2679946
+regularMarketVolume	2679946
+averageVolume	1279527
+averageVolume10days	2841533
+averageDailyVolume10Day	2841533
+bid	15.05
+ask	15.1
+marketCap	16034270208
+fiftyTwoWeekLow	12.1
+fiftyTwoWeekHigh	15.405739
+priceToSalesTrailing12Months	0.1103752
+fiftyDayAverage	13.167
+twoHundredDayAverage	13.1957245
+currency	TWD
+enterpriseValue	6392782336
+profitMargins	-0.01979
+floatShares	470279538
+sharesOutstanding	1065400000
+heldPercentInsiders	0.578
+heldPercentInstitutions	0.03433
+impliedSharesOutstanding	1072729984
+bookValue	15.861
+priceToBook	0.9488683
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-2874181888
+trailingEps	-3.09
+lastSplitFactor	1010:1000
+lastSplitDate	1662595200	 (2022-09-08 08:00:00)
+enterpriseToRevenue	0.044
+enterpriseToEbitda	-1.633
+52WeekChange	0.012609601
+SandP52WeekChange	0.26265144
+lastDividendValue	0.987547
+lastDividendDate	1662595200	 (2022-09-08 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2905.TW
+underlyingSymbol	2905.TW
+shortName	MERCURIES & ASSOCIATES HOLDING 
+longName	Mercuries & Associates Holding, Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	08420a1e-33c6-375e-b54a-510b7d32fd19
+messageBoardId	finmb_1054515
+gmtOffSetMilliseconds	28800000
+currentPrice	15.05
+recommendationKey	none
+totalCash	64874496000
+totalCashPerShare	60.892
+ebitda	-3914842112
+totalDebt	23820298240
+quickRatio	3.831
+currentRatio	6.269
+totalRevenue	145270587392
+debtToEquity	49.306
+revenuePerShare	148.314
+returnOnAssets	-0.00206
+returnOnEquity	-0.21298
+freeCashflow	-2574645248
+operatingCashflow	-37934927872
+revenueGrowth	0.366
+grossMargins	0.06341
+ebitdaMargins	-0.02695
+operatingMargins	0.40625998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31      2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                    1953311.767923   -5550160126.14125    3679227000.0   5002861214.930331
+Tax Rate For Calcs                                                   0.274805            0.083172             0.2            0.204764
+Normalized EBITDA                                               -8945031000.0       55627121000.0  -15166828000.0      -18705258000.0
+Total Unusual Items                                                 7108000.0      -66730915000.0   18396135000.0       24432386000.0
+Total Unusual Items Excluding Goodwill                              7108000.0      -66730915000.0   18396135000.0       24432386000.0
+Net Income From Continuing Operation Net Minority Interest      -2874182000.0       -5089794000.0    1890261000.0        1397680000.0
+Reconciled Depreciation                                          2555203000.0        2480401000.0    2472772000.0        2441367000.0
+Reconciled Cost Of Revenue                                      59590266000.0       48885624000.0   85545843000.0      106833200000.0
+EBITDA                                                          -8937923000.0      -11103794000.0    3229307000.0        5727128000.0
+EBIT                                                           -11493126000.0      -13584195000.0     756535000.0        3285761000.0
+Net Interest Income                                              -251546000.0        -149100000.0    -110320000.0        -113775000.0
+Interest Expense                                                  251546000.0         149100000.0     110320000.0         113775000.0
+Normalized Income                                          -2879336688.232077  56090960873.858749  -12826647000.0 -18031844785.069668
+Net Income From Continuing And Discontinued Operation           -2874182000.0       -5089794000.0    1890261000.0        1397680000.0
+Total Expenses                                                 165236846000.0      153018939000.0  171865823000.0      182069202000.0
+Diluted Average Shares                                                    NaN         885249000.0     990394959.0         877958244.0
+Basic Average Shares                                                      NaN         885249000.0     882191549.0         876692097.0
+Diluted EPS                                                               NaN               -5.82        1.925717            1.593765
+Basic EPS                                                                 NaN               -5.82        2.142978            1.593765
+Diluted NI Availto Com Stockholders                             -2874182000.0       -5089794000.0    1890261000.0        1397680000.0
+Net Income Common Stockholders                                  -2874182000.0       -5089794000.0    1890261000.0        1397680000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0             0.0                 0.0
+Net Income                                                      -2874182000.0       -5089794000.0    1890261000.0        1397680000.0
+Minority Interests                                               5642999000.0        7501272000.0    -721727000.0       -1124799000.0
+Net Income Including Noncontrolling Interests                   -8517181000.0      -12591066000.0    2611988000.0        2522479000.0
+Net Income Continuous Operations                                -8517181000.0      -12591066000.0    2611988000.0        2522479000.0
+Tax Provision                                                   -3227491000.0       -1142229000.0   -1965773000.0         649507000.0
+Pretax Income                                                  -11744672000.0      -13733295000.0     646215000.0        3171986000.0
+Other Non Operating Income Expenses                            -10747848000.0        3046719000.0    1885835000.0        2301599000.0
+Special Income Charges                                             37637000.0        -852946000.0     146814000.0         386894000.0
+Other Special Charges                                               8030000.0          21291000.0    -108055000.0          10798000.0
+Write Off                                                         -76545000.0         800927000.0     -70886000.0        -434760000.0
+Restructuring And Mergern Acquisition                              30878000.0          30728000.0      32127000.0          37068000.0
+Net Non Operating Interest Income Expense                        -251546000.0        -149100000.0    -110320000.0        -113775000.0
+Interest Expense Non Operating                                    251546000.0         149100000.0     110320000.0         113775000.0
+Operating Income                                                -5237071000.0       -5480528000.0   -5675971000.0       -1421289000.0
+Operating Expense                                              105646580000.0      104133315000.0   86319980000.0       75236002000.0
+Research And Development                                          295601000.0         251830000.0     225503000.0         211718000.0
+Selling General And Administration                             105350979000.0      103881485000.0   86094477000.0       75024284000.0
+Selling And Marketing Expense                                    6289601000.0        5937541000.0    5795024000.0        5347027000.0
+General And Administrative Expense                              99061378000.0       97943944000.0   80299453000.0       69677257000.0
+Gross Profit                                                   100409509000.0       98652787000.0   80644009000.0       73814713000.0
+Cost Of Revenue                                                 59590266000.0       48885624000.0   85545843000.0      106833200000.0
+Total Revenue                                                  159999775000.0      147538411000.0  166189852000.0      180647913000.0
+Operating Revenue                                              159999775000.0      147538411000.0  166189852000.0      180647913000.0

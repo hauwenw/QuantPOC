@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.8, Lane 120
+address2	Section 1 Nei Hu Road Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 8797 6688
+fax	886 2 2659 7116
+website	https://www.audix.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Audix Corporation manufactures and distributes electronic components in Taiwan. The company manufactures electronic components, such as relays, transformers, chokes, and couplers; precision molds and finished products, including precision pressing molds comprising multi-position progressive dies, composite molds, forming molds, and automatic joint riveting dies; precision pressing products, such as precision coupler, automobile switch, relay connection riveting, hearing aid, and assortment of adhesive terminals; precision coupler parts, plastic parts for electronics and electric appliances, and plastic parts for medical devices; and coupler assemblies. It designs, develops, and manufactures automated production equipment for CCFL and electronics; and equipment and jigs for the assembly of automobile components, as well as offers electronic switches for automobiles. In addition, the company distributes electronic components of various brands. Further, it offers services for safety verification and EMC authentication, as well as for the development of software/hardware products; anechoic chamber design and construction services; and chemistry examination services. Audix Corporation was founded in 1980 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zheng Hong  Zhong', 'title': 'Chairman and Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qing Zong  Chen', 'title': 'Executive Vice President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	72.3
+open	71.6
+dayLow	71.5
+dayHigh	72.2
+regularMarketPreviousClose	72.3
+regularMarketOpen	71.6
+regularMarketDayLow	71.5
+regularMarketDayHigh	72.2
+dividendRate	3.8
+dividendYield	0.0529
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.6985
+fiveYearAvgDividendYield	6.6
+beta	0.319
+trailingPE	13.216912
+forwardPE	16.378134
+volume	165602
+regularMarketVolume	165602
+averageVolume	148490
+averageVolume10days	152284
+averageDailyVolume10Day	152284
+bid	71.9
+ask	72.0
+marketCap	7592352768
+fiftyTwoWeekLow	55.3
+fiftyTwoWeekHigh	73.9
+priceToSalesTrailing12Months	1.0232066
+fiftyDayAverage	69.706
+twoHundredDayAverage	62.2275
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.05532503
+currency	TWD
+enterpriseValue	6853640192
+profitMargins	0.07774
+sharesOutstanding	105596000
+heldPercentInsiders	0.37453997
+heldPercentInstitutions	0.03574
+impliedSharesOutstanding	105596000
+bookValue	50.004
+priceToBook	1.4378849
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.659
+netIncomeToCommon	576835008
+trailingEps	5.44
+forwardEps	4.39
+lastSplitFactor	0.8:1
+lastSplitDate	1411084800	 (2014-09-19 08:00:00)
+enterpriseToRevenue	0.924
+enterpriseToEbitda	6.74
+52WeekChange	0.25919437
+SandP52WeekChange	0.26265144
+lastDividendValue	3.8
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2459.TW
+underlyingSymbol	2459.TW
+shortName	AUDIX CORP
+longName	Audix Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	77dd67e6-efbd-34fc-abcb-0069d3ca4e4d
+messageBoardId	finmb_1944434
+gmtOffSetMilliseconds	28800000
+currentPrice	71.9
+recommendationKey	none
+totalCash	3674509056
+totalCashPerShare	34.798
+ebitda	1016916992
+totalDebt	2542330880
+quickRatio	1.893
+currentRatio	2.106
+totalRevenue	7420155904
+debtToEquity	44.809
+revenuePerShare	70.269
+returnOnAssets	0.044510003
+returnOnEquity	0.10695
+freeCashflow	704846976
+operatingCashflow	898000000
+earningsGrowth	0.662
+revenueGrowth	-0.078
+grossMargins	0.19577
+ebitdaMargins	0.13705
+operatingMargins	0.12388
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -522314.685931   -2866197.952971      94506.594178     150976.880098
+Tax Rate For Calcs                                                  0.352201          0.398637          0.310877          0.266273
+Normalized EBITDA                                               1294941000.0      1498116000.0      1223941000.0      1016236000.0
+Total Unusual Items                                               -1483000.0        -7190000.0          304000.0          567000.0
+Total Unusual Items Excluding Goodwill                            -1483000.0        -7190000.0          304000.0          567000.0
+Net Income From Continuing Operation Net Minority Interest       576835000.0       573311000.0       529493000.0       448730000.0
+Reconciled Depreciation                                          302501000.0       349897000.0       332858000.0       303861000.0
+Reconciled Cost Of Revenue                                      5967538000.0      6025828000.0      5506320000.0      5066130000.0
+EBITDA                                                          1293458000.0      1490926000.0      1224245000.0      1016803000.0
+EBIT                                                             990957000.0      1141029000.0       891387000.0       712942000.0
+Net Interest Income                                              101754000.0        48664000.0        17749000.0        20544000.0
+Interest Expense                                                  60461000.0        43536000.0        26154000.0        28164000.0
+Interest Income                                                  162215000.0        92200000.0        43903000.0        48708000.0
+Normalized Income                                           577795685.314069  577634802.047029  529283506.594178  448313976.880098
+Net Income From Continuing And Discontinued Operation            576835000.0       573311000.0       529493000.0       448730000.0
+Total Expenses                                                  6688731000.0      6816950000.0      6238276000.0      5701299000.0
+Diluted Average Shares                                                   NaN       106091000.0       105977000.0       106136000.0
+Basic Average Shares                                                     NaN       105596000.0       105596000.0       105691000.0
+Diluted EPS                                                              NaN               5.4               5.0              4.23
+Basic EPS                                                                NaN              5.43              5.01              4.25
+Diluted NI Availto Com Stockholders                              576835000.0       573311000.0       529493000.0       448730000.0
+Net Income Common Stockholders                                   576835000.0       573311000.0       529493000.0       448730000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       576835000.0       573311000.0       529493000.0       448730000.0
+Minority Interests                                               -25939000.0       -86681000.0       -66759000.0       -53710000.0
+Net Income Including Noncontrolling Interests                    602774000.0       659992000.0       596252000.0       502440000.0
+Net Income Continuous Operations                                 602774000.0       659992000.0       596252000.0       502440000.0
+Tax Provision                                                    327722000.0       437501000.0       268981000.0       182338000.0
+Pretax Income                                                    930496000.0      1097493000.0       865233000.0       684778000.0
+Other Non Operating Income Expenses                               94490000.0        13460000.0        92997000.0        -3724000.0
+Special Income Charges                                            -1483000.0        -7190000.0          304000.0          567000.0
+Write Off                                                          1483000.0         7190000.0         -304000.0         -567000.0
+Net Non Operating Interest Income Expense                        101754000.0        48664000.0        17749000.0        20544000.0
+Interest Expense Non Operating                                    60461000.0        43536000.0        26154000.0        28164000.0
+Interest Income Non Operating                                    162215000.0        92200000.0        43903000.0        48708000.0
+Operating Income                                                 731425000.0      1036393000.0       748654000.0       663319000.0
+Operating Expense                                                721193000.0       791122000.0       731956000.0       635169000.0
+Research And Development                                          96619000.0       116039000.0        99703000.0        93064000.0
+Selling General And Administration                               624574000.0       675083000.0       632253000.0       542105000.0
+Selling And Marketing Expense                                    272392000.0       314525000.0       294541000.0       251031000.0
+General And Administrative Expense                               352182000.0       360558000.0       337712000.0       291074000.0
+Gross Profit                                                    1452618000.0      1827515000.0      1480610000.0      1298488000.0
+Cost Of Revenue                                                 5967538000.0      6025828000.0      5506320000.0      5066130000.0
+Total Revenue                                                   7420156000.0      7853343000.0      6986930000.0      6364618000.0
+Operating Revenue                                               7420156000.0      7853343000.0      6986930000.0      6364618000.0

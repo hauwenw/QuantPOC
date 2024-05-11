@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 456, Hanxi East Road
+address2	Section 1 East District
+city	Taichung
+country	Taiwan
+phone	886 4 2247 5222
+website	https://www.newpalace.com.tw
+industry	Restaurants
+industryKey	restaurants
+industryDisp	Restaurants
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	New Palace International Co., Ltd. operates restaurants. The company provides wedding banquet and catering services; and engages in buying and selling juices, beverages, and fresh and frozen foods. New Palace International Co., Ltd. was founded in 1971 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Min Hui Ou', 'title': 'Chairman and President', 'fiscalYear': 2014, 'totalPay': 2676000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming Hun  Chen', 'title': 'Vice President of The Accounting Department', 'fiscalYear': 2014, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1419984000
+maxAge	86400
+priceHint	2
+previousClose	28.55
+open	28.55
+dayLow	28.5
+dayHigh	29.4
+regularMarketPreviousClose	28.55
+regularMarketOpen	28.55
+regularMarketDayLow	28.5
+regularMarketDayHigh	29.4
+exDividendDate	1371081600	 (2013-06-13 08:00:00)
+trailingPE	14.422111
+volume	428775
+regularMarketVolume	428775
+averageVolume	562914
+averageVolume10days	1269180
+averageDailyVolume10Day	1269180
+bid	28.7
+ask	28.85
+marketCap	1936991744
+fiftyTwoWeekLow	22.05
+fiftyTwoWeekHigh	38.8
+priceToSalesTrailing12Months	1.1053724
+fiftyDayAverage	28.121
+twoHundredDayAverage	27.23175
+currency	TWD
+enterpriseValue	2608864000
+profitMargins	0.0767
+sharesOutstanding	67491000
+heldPercentInsiders	0.48291
+impliedSharesOutstanding	74903904
+bookValue	11.577
+priceToBook	2.4790535
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.562
+netIncomeToCommon	134396000
+trailingEps	1.99
+lastSplitFactor	1.015:1
+lastSplitDate	1312243200	 (2011-08-02 08:00:00)
+enterpriseToRevenue	1.489
+enterpriseToEbitda	6.747
+52WeekChange	-0.012048185
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1371081600	 (2013-06-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8940.TW
+underlyingSymbol	8940.TW
+shortName	NEW PALACE INTERNATIONAL CO
+longName	New Palace International Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9d90d03f-8c13-3ff4-8770-2e1313710685
+messageBoardId	finmb_9707499
+gmtOffSetMilliseconds	28800000
+currentPrice	28.7
+recommendationKey	none
+totalCash	300492992
+totalCashPerShare	4.441
+ebitda	386676992
+totalDebt	863156992
+quickRatio	0.788
+currentRatio	1.021
+totalRevenue	1752343040
+debtToEquity	97.237
+revenuePerShare	25.93
+returnOnAssets	0.07002
+returnOnEquity	0.18792
+freeCashflow	187207744
+operatingCashflow	384470016
+earningsGrowth	0.558
+revenueGrowth	0.508
+grossMargins	0.53446996
+ebitdaMargins	0.22066
+operatingMargins	0.22166
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    248774.083941   -335705.668002    -569380.940225   -16010800.0
+Tax Rate For Calcs                                                  0.243896         0.153011           0.21807           0.2
+Normalized EBITDA                                                362869000.0      198222000.0        22159000.0   199530000.0
+Total Unusual Items                                                1020000.0       -2194000.0        -2611000.0   -80054000.0
+Total Unusual Items Excluding Goodwill                             1020000.0       -2194000.0        -2611000.0   -80054000.0
+Net Income From Continuing Operation Net Minority Interest       106393000.0       23341000.0      -117343000.0   -58000000.0
+Reconciled Depreciation                                          190740000.0      155787000.0       163674000.0   282397000.0
+Reconciled Cost Of Revenue                                       729063000.0      490601000.0       388540000.0   555512000.0
+EBITDA                                                           363889000.0      196028000.0        19548000.0   119476000.0
+EBIT                                                             173149000.0       40241000.0      -144126000.0  -162921000.0
+Net Interest Income                                              -14703000.0      -11429000.0        -7996000.0    -8254000.0
+Interest Expense                                                  17755000.0       12524000.0         8646000.0    10590000.0
+Interest Income                                                    3052000.0        1095000.0          650000.0     2336000.0
+Normalized Income                                           105621774.083941  25199294.331998 -115301380.940225     6043200.0
+Net Income From Continuing And Discontinued Operation            106393000.0       23341000.0      -117343000.0   -58000000.0
+Total Expenses                                                  1375296000.0      942277000.0       810735000.0  1111325000.0
+Diluted Average Shares                                            67491000.0       67491000.0        67491000.0    67491000.0
+Basic Average Shares                                              67491000.0       67491000.0        67491000.0    67491000.0
+Diluted EPS                                                             1.58             0.35             -1.74         -0.86
+Basic EPS                                                               1.58             0.35             -1.74         -0.86
+Diluted NI Availto Com Stockholders                              106393000.0       23341000.0      -117343000.0   -58000000.0
+Net Income Common Stockholders                                   106393000.0       23341000.0      -117343000.0   -58000000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0           0.0
+Net Income                                                       106393000.0       23341000.0      -117343000.0   -58000000.0
+Minority Interests                                               -11101000.0        -135000.0         2114000.0    -2789000.0
+Net Income Including Noncontrolling Interests                    117494000.0       23476000.0      -119457000.0   -55211000.0
+Net Income Continuous Operations                                 117494000.0       23476000.0      -119457000.0   -55211000.0
+Tax Provision                                                     37900000.0        4241000.0       -33315000.0  -118300000.0
+Pretax Income                                                    155394000.0       27717000.0      -152772000.0  -173511000.0
+Other Non Operating Income Expenses                                3615000.0        2454000.0          575000.0     6230000.0
+Special Income Charges                                                   0.0          -5000.0         -855000.0   -74427000.0
+Other Special Charges                                                    NaN           5000.0          855000.0      -23000.0
+Write Off                                                                NaN              NaN               0.0    74450000.0
+Net Non Operating Interest Income Expense                        -14703000.0      -11429000.0        -7996000.0    -8254000.0
+Interest Expense Non Operating                                    17755000.0       12524000.0         8646000.0    10590000.0
+Interest Income Non Operating                                      3052000.0        1095000.0          650000.0     2336000.0
+Operating Income                                                 165590000.0       35672000.0      -142019000.0   -94232000.0
+Operating Expense                                                646233000.0      451676000.0       422195000.0   555813000.0
+Other Operating Expenses                                           -409000.0       -9457000.0       -17425000.0   -22997000.0
+Selling General And Administration                               646642000.0      461133000.0       439620000.0   578810000.0
+Selling And Marketing Expense                                    571381000.0      401883000.0       388458000.0   499103000.0
+General And Administrative Expense                                75261000.0       59250000.0        51162000.0    79707000.0
+Gross Profit                                                     811823000.0      487348000.0       280176000.0   461581000.0
+Cost Of Revenue                                                  729063000.0      490601000.0       388540000.0   555512000.0
+Total Revenue                                                   1540886000.0      977949000.0       668716000.0  1017093000.0
+Operating Revenue                                               1540886000.0      977949000.0       668716000.0  1017093000.0

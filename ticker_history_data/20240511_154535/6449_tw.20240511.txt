@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	4th Floor No. 2&6, Kedong 3rd Road Chunan Township
+city	Miaoli
+zip	35053
+country	Taiwan
+phone	886 3 777 7588
+fax	886 3 777 7566
+website	https://www.apaq.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Apaq Technology Co., Ltd., together with its subsidiaries, researches, develops, manufactures, and sells electronic components in China and Taiwan. It offers aluminum solid capacitors, aluminum electrolytic capacitors, and hybrid aluminum electrolytic capacitors; and coiled and chip-type conductive polymer solid state capacitors. The company was founded in 2005 and is headquartered in Miaoli, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Feng  Lin', 'title': 'CEO, CRO & Director', 'fiscalYear': 2019, 'totalPay': 6082000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tun-Jen  Cheng', 'title': 'Chief Technology Officer', 'fiscalYear': 2019, 'totalPay': 5586000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Han-Yuan  Lin', 'title': 'Vice President of Sales & Marketing Division', 'fiscalYear': 2019, 'totalPay': 4266000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. D. J. Cheng', 'title': 'Founder', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Ling  Li', 'title': 'Head of Finance Division, Accounting Manager and Director of Finance Division & Corporate Governance', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Zung  Chen', 'title': 'Head of Research & Development Division and Quality Assurance Center', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Ku  Chien', 'title': 'Head of New Products Division', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	116.5
+open	117.5
+dayLow	112.5
+dayHigh	119.0
+regularMarketPreviousClose	116.5
+regularMarketOpen	117.5
+regularMarketDayLow	112.5
+regularMarketDayHigh	119.0
+dividendRate	2.3
+dividendYield	0.0202
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.6199
+fiveYearAvgDividendYield	3.32
+beta	1.041
+trailingPE	30.727762
+forwardPE	34.969326
+volume	1693218
+regularMarketVolume	1693218
+averageVolume	1538218
+averageVolume10days	4590219
+averageDailyVolume10Day	4590219
+bid	114.0
+ask	114.5
+marketCap	10026699776
+fiftyTwoWeekLow	50.5
+fiftyTwoWeekHigh	142.0
+priceToSalesTrailing12Months	3.4163532
+fiftyDayAverage	92.128
+twoHundredDayAverage	73.7915
+currency	TWD
+enterpriseValue	10196913152
+profitMargins	0.11189
+sharesOutstanding	87953504
+heldPercentInsiders	0.54011
+heldPercentInstitutions	0.12091
+impliedSharesOutstanding	96330000
+bookValue	33.135
+priceToBook	3.440471
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.674
+netIncomeToCommon	328377984
+trailingEps	3.71
+forwardEps	3.26
+enterpriseToRevenue	3.474
+enterpriseToEbitda	16.888
+52WeekChange	1.159091
+SandP52WeekChange	0.26265144
+lastDividendValue	2.3
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6449.TW
+underlyingSymbol	6449.TW
+shortName	APAQ TECHNOLOGY CO LTD
+longName	Apaq Technology Co., Ltd.
+firstTradeDateEpochUtc	1393462800	 (2014-02-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6ece23b6-8ccf-3a03-a333-b35e87229748
+messageBoardId	finmb_247588304
+gmtOffSetMilliseconds	28800000
+currentPrice	114.0
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1153949056
+totalCashPerShare	13.12
+ebitda	603803008
+totalDebt	1324162048
+quickRatio	1.44
+currentRatio	1.878
+totalRevenue	2934913024
+debtToEquity	45.436
+revenuePerShare	33.369
+returnOnAssets	0.04792
+returnOnEquity	0.11655
+freeCashflow	215309872
+operatingCashflow	490348992
+earningsGrowth	0.666
+revenueGrowth	0.29
+grossMargins	0.27151
+ebitdaMargins	0.20573
+operatingMargins	0.1588
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.221466      0.239533      0.238312      0.242626
+Normalized EBITDA                                            698992000.0   709021000.0   630269000.0   570544000.0
+Net Income From Continuing Operation Net Minority Interest   328378000.0   338432000.0   306367000.0   261615000.0
+Reconciled Depreciation                                      247754000.0   244757000.0   215839000.0   208789000.0
+Reconciled Cost Of Revenue                                  2138060000.0  1839740000.0  2075546000.0  1701353000.0
+EBITDA                                                       698992000.0   709021000.0   630269000.0   570544000.0
+EBIT                                                         451238000.0   464264000.0   414430000.0   361755000.0
+Net Interest Income                                          -11007000.0   -12182000.0    -9531000.0   -14178000.0
+Interest Expense                                              29448000.0    19232000.0    12209000.0    16331000.0
+Interest Income                                               18441000.0     7050000.0     2678000.0     2153000.0
+Normalized Income                                            328378000.0   338432000.0   306367000.0   261615000.0
+Net Income From Continuing And Discontinued Operation        328378000.0   338432000.0   306367000.0   261615000.0
+Total Expenses                                              2557670000.0  2216684000.0  2419937000.0  1997727000.0
+Diluted Average Shares                                               NaN    89623000.0    89576000.0    89658000.0
+Basic Average Shares                                                 NaN    88686000.0    87851000.0    84512000.0
+Diluted EPS                                                          NaN          3.78          3.43          2.96
+Basic EPS                                                            NaN          3.82          3.49           3.1
+Diluted NI Availto Com Stockholders                          328378000.0   338432000.0   306367000.0   261615000.0
+Net Income Common Stockholders                               328378000.0   338432000.0   306367000.0   261615000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   328378000.0   338432000.0   306367000.0   261615000.0
+Net Income Including Noncontrolling Interests                328378000.0   338432000.0   306367000.0   261615000.0
+Net Income Continuous Operations                             328378000.0   338432000.0   306367000.0   261615000.0
+Tax Provision                                                 93412000.0   106600000.0    95854000.0    83809000.0
+Pretax Income                                                421790000.0   445032000.0   402221000.0   345424000.0
+Other Non Operating Income Expenses                           37662000.0    40055000.0    42809000.0    39314000.0
+Net Non Operating Interest Income Expense                    -11007000.0   -12182000.0    -9531000.0   -14178000.0
+Interest Expense Non Operating                                29448000.0    19232000.0    12209000.0    16331000.0
+Interest Income Non Operating                                 18441000.0     7050000.0     2678000.0     2153000.0
+Operating Income                                             377243000.0   272010000.0   402471000.0   386898000.0
+Operating Expense                                            419610000.0   376944000.0   344391000.0   296374000.0
+Research And Development                                     105514000.0    88446000.0    90959000.0    70706000.0
+Selling General And Administration                           314096000.0   288498000.0   253432000.0   225668000.0
+Selling And Marketing Expense                                124346000.0   106988000.0    98874000.0    82398000.0
+General And Administrative Expense                           189750000.0   181510000.0   154558000.0   143270000.0
+Gross Profit                                                 796853000.0   648954000.0   746862000.0   683272000.0
+Cost Of Revenue                                             2138060000.0  1839740000.0  2075546000.0  1701353000.0
+Total Revenue                                               2934913000.0  2488694000.0  2822408000.0  2384625000.0
+Operating Revenue                                           2934913000.0  2488694000.0  2822408000.0  2384625000.0

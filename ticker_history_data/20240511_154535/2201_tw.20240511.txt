@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 39-1, Bogongkeng
+address2	Xihu Village Sanyi Township
+city	Miaoli
+country	Taiwan
+phone	886 3 787 1801
+fax	886 3 787 4790
+website	https://www.yulon-motor.com.tw
+industry	Auto Manufacturers
+industryKey	auto-manufacturers
+industryDisp	Auto Manufacturers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Yulon Motor Company Ltd. manufactures and markets automobiles and related parts in Taiwan, China, and the Philippines. It also manufactures, imports, exports, sells, retails, maintains, repairs, leases, and trades in cars and parts; manages basketball team and related services; manufactures and sells springs and car components for various motor vehicles, as well as radiators, heat transfer apparatus, geysers, water tanks, and car parts; sells nonmotorized vehicles; installs car parts; manufactures and sells car interior furnishing, car seats, and related products; and provides investment, general advertising planning, taxi, temporary labor, investment advisory, product design, energy technical, towing, publication, property insurance, real estate leasing and management consulting, and factory leasing services. In addition, the company engages in the supply and provision of information software; retail trade of spare parts of vehicles; sale and brokerage of secondhand cars and car related products; provision of installment financing services for cars and trucks; metal casting and related business; wholesale and retail sale of batteries; manufacturing and furnishing business; construction business; brokerage of electric vehicles; equipment leasing; secondhand vehicle authentication and evaluation; and sale, maintenance, and repair of heavy vehicles and related products. Further, it provides installment loans of consumer goods; consulting services on cars, electronics, textiles, and related products, as well as for advanced technology, products, and equipment import; computer software maintenance and computer system integration; and loans to car dealers for car purchases. The company was formerly known as Yulon Machinery Manufacturing Co., Ltd. and changed its name to Yulon Motor Company Ltd. in September 1960. Yulon Motor Company Ltd. was incorporated in 1953 and is based in Miaoli, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chen-Hsiang  Yao', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jian-Hui  Li', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Lin  Wu', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shen-Guo  Wang', 'title': 'Manager', 'fiscalYear': 2020, 'totalPay': 2910957, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	75.0
+open	72.0
+dayLow	70.5
+dayHigh	73.9
+regularMarketPreviousClose	75.0
+regularMarketOpen	72.0
+regularMarketDayLow	70.5
+regularMarketDayHigh	73.9
+dividendRate	1.4
+dividendYield	0.019199999
+exDividendDate	1724284800	 (2024-08-22 08:00:00)
+payoutRatio	0.21
+fiveYearAvgDividendYield	2.83
+beta	0.922
+trailingPE	16.426966
+forwardPE	11.603174
+volume	16124265
+regularMarketVolume	16124265
+averageVolume	5844289
+averageVolume10days	11770155
+averageDailyVolume10Day	11770155
+bid	73.1
+ask	73.2
+marketCap	77667287040
+fiftyTwoWeekLow	66.1
+fiftyTwoWeekHigh	93.24992
+priceToSalesTrailing12Months	0.94577014
+fiftyDayAverage	69.374
+twoHundredDayAverage	74.8485
+trailingAnnualDividendRate	1.4
+trailingAnnualDividendYield	0.018666666
+currency	TWD
+enterpriseValue	347165392896
+profitMargins	0.05712
+floatShares	653602746
+sharesOutstanding	1062480000
+heldPercentInsiders	0.473
+heldPercentInstitutions	0.06696
+impliedSharesOutstanding	1062480000
+bookValue	56.391
+priceToBook	1.2963061
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	4690523136
+trailingEps	4.45
+forwardEps	6.3
+pegRatio	0.69
+lastSplitFactor	635.761:1000
+lastSplitDate	1602028800	 (2020-10-07 08:00:00)
+enterpriseToRevenue	4.228
+enterpriseToEbitda	24.145
+52WeekChange	-0.03415966
+SandP52WeekChange	0.26265144
+lastDividendValue	1.4
+lastDividendDate	1724284800	 (2024-08-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2201.TW
+underlyingSymbol	2201.TW
+shortName	YULON MOTOR CO
+longName	Yulon Motor Company Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8184d973-32a7-3937-bad4-5715a09b66f0
+messageBoardId	finmb_8673439
+gmtOffSetMilliseconds	28800000
+currentPrice	73.1
+recommendationMean	1.5
+recommendationKey	strong_buy
+totalCash	20130985984
+totalCashPerShare	18.947
+ebitda	14378435584
+totalDebt	260791713792
+quickRatio	0.948
+currentRatio	1.053
+totalRevenue	82120679424
+debtToEquity	293.842
+revenuePerShare	81.069
+returnOnAssets	0.01471
+returnOnEquity	0.105349995
+freeCashflow	-1656379904
+operatingCashflow	-13006575616
+revenueGrowth	0.097
+grossMargins	0.35411
+ebitdaMargins	0.17509001
+operatingMargins	0.07169
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31     2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                -1017839066.584531   -606149400.0  -531387211.209997  -780185121.440058
+Tax Rate For Calcs                                                   0.212905            0.2           0.201643           0.154447
+Normalized EBITDA                                               28194935000.0  15894817000.0      23074029000.0      22365458000.0
+Total Unusual Items                                             -4780716000.0  -3030747000.0      -2635290000.0      -5051468000.0
+Total Unusual Items Excluding Goodwill                          -4780716000.0  -3030747000.0      -2635290000.0      -5051468000.0
+Net Income From Continuing Operation Net Minority Interest       4690523000.0  -4696692000.0       4715516000.0       2739210000.0
+Reconciled Depreciation                                         12020459000.0  11007359000.0      10262888000.0      10769001000.0
+Reconciled Cost Of Revenue                                      53256786000.0  49622977000.0      54626814000.0      63979927000.0
+EBITDA                                                          23414219000.0  12864070000.0      20438739000.0      17313990000.0
+EBIT                                                            11393760000.0   1856711000.0      10175851000.0       6544989000.0
+Net Interest Income                                              -230850000.0   -179632000.0       -219300000.0       -523354000.0
+Interest Expense                                                  601884000.0    476439000.0        478043000.0        821441000.0
+Interest Income                                                   371034000.0    296807000.0        258743000.0        298087000.0
+Normalized Income                                           8453399933.415469  -2272094400.0  6819418788.790003  7010492878.559942
+Net Income From Continuing And Discontinued Operation            4690523000.0  -4696692000.0       4715516000.0       2739210000.0
+Total Expenses                                                  68748455000.0  63942343000.0      68276697000.0      78764508000.0
+Rent Expense Supplemental                                        8632097000.0   7400732000.0       6774246000.0       6541523000.0
+Diluted Average Shares                                                    NaN    990812000.0        991697481.0        990811764.0
+Basic Average Shares                                                      NaN    990812000.0        990811764.0        990811764.0
+Diluted EPS                                                               NaN           -4.8            4.75624           2.762961
+Basic EPS                                                                 NaN           -4.8            4.75624           2.762961
+Diluted NI Availto Com Stockholders                              4690523000.0  -4696692000.0       4715516000.0       2739210000.0
+Net Income Common Stockholders                                   4690523000.0  -4696692000.0       4715516000.0       2739210000.0
+Otherunder Preferred Stock Dividend                                       0.0            0.0                0.0                0.0
+Net Income                                                       4690523000.0  -4696692000.0       4715516000.0       2739210000.0
+Minority Interests                                              -3803707000.0  -3508655000.0      -3026799000.0      -2100352000.0
+Net Income Including Noncontrolling Interests                    8494230000.0  -1188037000.0       7742315000.0       4839562000.0
+Net Income Continuous Operations                                 8494230000.0  -1188037000.0       7742315000.0       4839562000.0
+Tax Provision                                                    2297646000.0   2568309000.0       1955493000.0        883986000.0
+Pretax Income                                                   10791876000.0   1380272000.0       9697808000.0       5723548000.0
+Other Non Operating Income Expenses                              1399040000.0   1080296000.0        749316000.0       3433621000.0
+Special Income Charges                                          -4780716000.0  -3030747000.0      -2635290000.0      -5051468000.0
+Other Special Charges                                               1908000.0       -11000.0         -2576000.0        -12018000.0
+Write Off                                                        4778808000.0   3030758000.0       2637866000.0       5063486000.0
+Net Non Operating Interest Income Expense                        -230850000.0   -179632000.0       -219300000.0       -523354000.0
+Interest Expense Non Operating                                    601884000.0    476439000.0        478043000.0        821441000.0
+Interest Income Non Operating                                     371034000.0    296807000.0        258743000.0        298087000.0
+Operating Income                                                13372224000.0  13136920000.0       9771075000.0       3729281000.0
+Operating Expense                                               15491669000.0  14319366000.0      13649883000.0      14784581000.0
+Other Operating Expenses                                                  NaN            NaN         -2576000.0        -12018000.0
+Research And Development                                          231050000.0    261336000.0        360377000.0       1364120000.0
+Selling General And Administration                              15260619000.0  14058030000.0      13289506000.0      13420461000.0
+Selling And Marketing Expense                                    9040884000.0   7267728000.0       7933813000.0       7681741000.0
+General And Administrative Expense                               6219735000.0   6790302000.0       5355693000.0       5738720000.0
+Gross Profit                                                    28863893000.0  27456286000.0      23420958000.0      18513862000.0
+Cost Of Revenue                                                 53256786000.0  49622977000.0      54626814000.0      63979927000.0
+Total Revenue                                                   82120679000.0  77079263000.0      78047772000.0      82493789000.0
+Operating Revenue                                               82120679000.0  77079263000.0      78047772000.0      82493789000.0

@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No.13-18, Minquan East Road
+address2	Sec. 6 Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 7727 1199
+fax	886 2 7727 1200
+website	https://www.tpk.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	TPK Holding Co., Ltd., together with its subsidiaries, designs, develops, and markets touch solutions in Taiwan and internationally. The company offers various types of structure products, such as glass-glass; glass-film-films; and single glass solution, including one glass, touch-on-lens, glass-films, etc. Its products are used in various mobile and consumer electronics devices, such as smartphones, tablet PCs, notebook PCs, ultrabook PCs, and electronic book readers. The company also provides touch panel (TP) solutions for other product domains, including gambling systems, industrial control systems, medical products, handheld game consoles, and touch remote controls. Its products are used in various businesses, such as retailing, service, banking, airport service, game consoles, display systems, and auto industries. TPK Holding Co., Ltd. was founded in 2003 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Li-Chien  Hsieh', 'age': 59, 'title': 'President, Manager, CEO & Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Ching  Tsai', 'title': 'Financial Executive, CFO & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hu-Yao  Lin', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun-An  Wei', 'title': 'Chief Technical Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Liang  Tsai', 'age': 57, 'title': 'Senior VP & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsi-Liang  Liu', 'age': 60, 'title': 'Chief Strategic Officer, Senior VP & Corporate Governance Officer and Director', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Ming  Liu', 'age': 56, 'title': 'Senior VP & Director', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jen-i  Tai', 'age': 63, 'title': 'Senior Vice President', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Chung  Chuang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.95
+open	37.1
+dayLow	36.6
+dayHigh	37.15
+regularMarketPreviousClose	36.95
+regularMarketOpen	37.1
+regularMarketDayLow	36.6
+regularMarketDayHigh	37.15
+dividendRate	0.5
+dividendYield	0.0136
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.9804
+beta	0.828
+trailingPE	72.35294
+forwardPE	16.849316
+volume	787109
+regularMarketVolume	787109
+averageVolume	2424862
+averageVolume10days	1435322
+averageDailyVolume10Day	1435322
+bid	36.9
+ask	37.0
+marketCap	15005901824
+fiftyTwoWeekLow	31.8
+fiftyTwoWeekHigh	46.4
+priceToSalesTrailing12Months	0.22110674
+fiftyDayAverage	36.554
+twoHundredDayAverage	35.40525
+currency	TWD
+enterpriseValue	-1786700032
+profitMargins	0.00328
+floatShares	323300450
+sharesOutstanding	406664000
+heldPercentInsiders	0.21405001
+heldPercentInstitutions	0.07106
+impliedSharesOutstanding	406664000
+bookValue	96.064
+priceToBook	0.3841189
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.14
+netIncomeToCommon	222390000
+trailingEps	0.51
+forwardEps	2.19
+pegRatio	1.19
+lastSplitFactor	1.29588:1
+lastSplitDate	1340841600	 (2012-06-28 08:00:00)
+enterpriseToRevenue	-0.026
+enterpriseToEbitda	-0.547
+52WeekChange	-0.036553502
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3673.TW
+underlyingSymbol	3673.TW
+shortName	TPK HOLDING CO LTD
+longName	TPK Holding Co., Ltd.
+firstTradeDateEpochUtc	1297040400	 (2011-02-07 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e5f78f47-a6e1-360d-82ea-3cafcfa7ecc5
+messageBoardId	finmb_28046936
+gmtOffSetMilliseconds	28800000
+currentPrice	36.9
+targetHighPrice	41.0
+targetLowPrice	41.0
+targetMeanPrice	41.0
+targetMedianPrice	41.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	51036000256
+totalCashPerShare	125.396
+ebitda	3266862080
+totalDebt	34230999040
+quickRatio	1.692
+currentRatio	1.902
+totalRevenue	67867230208
+debtToEquity	87.552
+revenuePerShare	166.853
+returnOnAssets	-0.00025
+returnOnEquity	0.00559
+earningsGrowth	0.14
+revenueGrowth	-0.115
+grossMargins	0.04699
+ebitdaMargins	0.04814
+operatingMargins	-0.00939
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31        2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                   -73827000.0    -95111600.0  155647087.236939      82618600.0
+Tax Rate For Calcs                                                    0.2            0.2          0.256035             0.2
+Normalized EBITDA                                            6332698000.0   6706981000.0      6381217000.0    8332086000.0
+Total Unusual Items                                          -369135000.0   -475558000.0       607914000.0     413093000.0
+Total Unusual Items Excluding Goodwill                       -369135000.0   -475558000.0       607914000.0     413093000.0
+Net Income From Continuing Operation Net Minority Interest    208390000.0    543738000.0      1068606000.0    1031323000.0
+Reconciled Depreciation                                      3887352000.0   4111362000.0      4873661000.0    6178940000.0
+Reconciled Cost Of Revenue                                  66630943000.0  93066492000.0     99320329000.0  109717613000.0
+EBITDA                                                       5963563000.0   6231423000.0      6989131000.0    8745179000.0
+EBIT                                                         2076211000.0   2120061000.0      2115470000.0    2566239000.0
+Net Interest Income                                           452619000.0    -44854000.0       -25969000.0      21018000.0
+Interest Expense                                             1483370000.0    860198000.0       640338000.0     754970000.0
+Interest Income                                              1935989000.0    815344000.0       614369000.0     775988000.0
+Normalized Income                                             503698000.0    924184400.0  616339087.236939     700848600.0
+Net Income From Continuing And Discontinued Operation         208390000.0    543738000.0      1068606000.0    1031323000.0
+Total Expenses                                              69849568000.0  96653644000.0    102757275000.0  113633510000.0
+Diluted Average Shares                                        406762000.0    406936000.0       406949000.0     406891000.0
+Basic Average Shares                                          406664000.0    406664000.0       406664000.0     406664000.0
+Diluted EPS                                                          0.51           1.34              2.63            2.53
+Basic EPS                                                            0.51           1.34              2.63            2.54
+Diluted NI Availto Com Stockholders                           208390000.0    543738000.0      1068606000.0    1031323000.0
+Net Income Common Stockholders                                208390000.0    543738000.0      1068606000.0    1031323000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0               0.0             0.0
+Net Income                                                    208390000.0    543738000.0      1068606000.0    1031323000.0
+Minority Interests                                            -17696000.0    -37958000.0       -28841000.0      -3050000.0
+Net Income Including Noncontrolling Interests                 226086000.0    581696000.0      1097447000.0    1034373000.0
+Net Income Continuous Operations                              226086000.0    581696000.0      1097447000.0    1034373000.0
+Tax Provision                                                 366755000.0    678167000.0       377685000.0     776896000.0
+Pretax Income                                                 592841000.0   1259863000.0      1475132000.0    1811269000.0
+Other Non Operating Income Expenses                           478948000.0    743653000.0       589872000.0     734460000.0
+Special Income Charges                                       -144402000.0     22515000.0       -17543000.0             NaN
+Write Off                                                     144402000.0    -22515000.0        17543000.0             NaN
+Net Non Operating Interest Income Expense                     452619000.0    -44854000.0       -25969000.0      21018000.0
+Interest Expense Non Operating                               1483370000.0    860198000.0       640338000.0     754970000.0
+Interest Income Non Operating                                1935989000.0    815344000.0       614369000.0     775988000.0
+Operating Income                                               11663000.0    527325000.0       331470000.0     949689000.0
+Operating Expense                                            3218625000.0   3587152000.0      3436946000.0    3915897000.0
+Research And Development                                      585849000.0    695423000.0       684439000.0     775933000.0
+Selling General And Administration                           2632776000.0   2891729000.0      2752507000.0    3139964000.0
+Selling And Marketing Expense                                 302805000.0    341301000.0       409829000.0     447917000.0
+General And Administrative Expense                           2329971000.0   2550428000.0      2342678000.0    2692047000.0
+Gross Profit                                                 3230288000.0   4114477000.0      3768416000.0    4865586000.0
+Cost Of Revenue                                             66630943000.0  93066492000.0     99320329000.0  109717613000.0
+Total Revenue                                               69861231000.0  97180969000.0    103088745000.0  114583199000.0
+Operating Revenue                                           69861231000.0  97180969000.0    103088745000.0  114583199000.0

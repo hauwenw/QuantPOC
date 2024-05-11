@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 168, Jingmao 2nd Road
+address2	27 and 29 Floors Nangang District
+city	Taipei
+zip	115
+country	Taiwan
+phone	886 2 3327 7777
+website	https://www.ctbcholding.com
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	CTBC Financial Holding Co., Ltd. engages in the banking, bills financing, credit card, trust, insurance, securities, futures, venture capital, and other financial related business investment activities in Taiwan, Asia, and North America. The company offers saving, loans, trade finance, cash management, corporate trusts, agency, custodian bank; international business; syndicated lending, structured finance, and financial advisory, and securities underwriting services; wealth management and financing services, and secured loans; card issuing and merchant acquiring, digital wallets and mechanisms for third-party payments, bill payments, and cross-border transaction services; life insurance products; and underwriting, financial consulting, securities brokerage, digital securities, reconsignment, futures brokerage, derivatives, and bonds. It also engages in the design, provision, and proprietary trading of foreign exchange, derivative, and structured investment products; venture capital, financial leasing, private equity fund investment and management businesses, as well as sports, cultural and creative industry, and esports businesses; and issuance, sale, marketing, prize claims, and management of lottery. In addition, the company offers domestic non-performing loan (NPL) purchasing, consulting services for NPLs, debt collections and management, funding, securities investment trust, discretionary investment, offshore master agent, and stationed security services. Further, it invests in the real estate and movable property. The company was formerly known as ChinaTrust Financial Holding Co., Ltd. and changed its name to CTBC Financial Holding Co., Ltd. in June 2013. CTBC Financial Holding Co., Ltd. was founded in 2002 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jia-wen  Chen', 'age': 63, 'title': 'Chief Investment Officer & President', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Megan  Hsu', 'title': 'Acting Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken Der Chen', 'title': 'Executive Vice President and Director of Planning & Operation Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Charlene  Hsu', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Titan  Chia', 'title': 'CTO & Head of Technology Management Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger  Kao', 'title': 'Senior EVP & Chief Administration Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Justine  Shen', 'title': 'Head of Investor Relations Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Aaron  King', 'title': 'Chief Compliance Officer & General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Hsing  Cho', 'title': 'Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Jen  Hsu', 'age': 61, 'title': 'Chief Financial Market Officer', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.1
+open	36.1
+dayLow	36.05
+dayHigh	37.5
+regularMarketPreviousClose	36.1
+regularMarketOpen	36.1
+regularMarketDayLow	36.05
+regularMarketDayHigh	37.5
+dividendRate	1.0
+dividendYield	0.026700001
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	0.35459998
+fiveYearAvgDividendYield	4.68
+beta	0.649
+trailingPE	13.280143
+forwardPE	11.739812
+volume	76722360
+regularMarketVolume	76722360
+averageVolume	48383655
+averageVolume10days	82638802
+averageDailyVolume10Day	82638802
+bid	37.4
+ask	37.45
+marketCap	753568907264
+fiftyTwoWeekLow	22.8
+fiftyTwoWeekHigh	37.5
+priceToSalesTrailing12Months	3.3721726
+fiftyDayAverage	31.972
+twoHundredDayAverage	27.6315
+currency	TWD
+enterpriseValue	-148363771904
+profitMargins	0.25096
+floatShares	17682548141
+sharesOutstanding	20121999360
+heldPercentInsiders	0.07713
+heldPercentInstitutions	0.36490002
+impliedSharesOutstanding	20121999360
+bookValue	22.353
+priceToBook	1.6753904
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	55011500032
+trailingEps	2.82
+forwardEps	3.19
+pegRatio	0.38
+lastSplitFactor	1080:1000
+lastSplitDate	1476230400	 (2016-10-12 08:00:00)
+enterpriseToRevenue	-0.664
+enterpriseToEbitda	-0.913
+52WeekChange	0.6038544
+SandP52WeekChange	0.26265144
+lastDividendValue	1.000026
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2891.TW
+underlyingSymbol	2891.TW
+shortName	CTBC FINANCIAL HOLDINGS COMPANY
+longName	CTBC Financial Holding Co., Ltd.
+firstTradeDateEpochUtc	1021597200	 (2002-05-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a67dc367-647e-3053-bacb-4088e42c20da
+messageBoardId	finmb_8179081
+gmtOffSetMilliseconds	28800000
+currentPrice	37.45
+targetHighPrice	35.0
+targetLowPrice	29.6
+targetMeanPrice	33.51
+targetMedianPrice	33.75
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	1377539588096
+totalCashPerShare	70.501
+ebitda	162553610240
+totalDebt	468838678528
+quickRatio	4.901
+currentRatio	4.915
+totalRevenue	223466881024
+debtToEquity	100.751
+revenuePerShare	11.455
+returnOnAssets	0.012
+returnOnEquity	0.13418001
+freeCashflow	-4909949779968
+operatingCashflow	-16537838592
+grossMargins	1.1194301
+ebitdaMargins	0.72742
+operatingMargins	-1.97283
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31         2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                   148757821.241301    -19997370.497977   103762003.034758    192588487.907482
+Tax Rate For Calcs                                                    0.139841            0.306826           0.129681            0.169104
+Total Unusual Items                                               1063761000.0         -65175000.0        800133000.0        1138874000.0
+Total Unusual Items Excluding Goodwill                            1063761000.0         -65175000.0        800133000.0        1138874000.0
+Net Income From Continuing Operation Net Minority Interest       56081479000.0       31278991000.0      54204958000.0       42853406000.0
+Reconciled Depreciation                                           8728817000.0        8345845000.0       7867068000.0        7843654000.0
+Net Interest Income                                             132066423000.0      127117180000.0     108754328000.0      109053668000.0
+Interest Expense                                                 88320457000.0       32701441000.0      14691408000.0       20425471000.0
+Interest Income                                                 220386880000.0      159818621000.0     123445736000.0      129479139000.0
+Normalized Income                                           55166475821.241302  31324168629.502022  53508587003.03476  41907120487.907478
+Net Income From Continuing And Discontinued Operation            56081479000.0       31278991000.0      54204958000.0       42853406000.0
+Diluted Average Shares                                                     NaN       19498679000.0      19496990000.0       19496990000.0
+Basic Average Shares                                                       NaN       19496990000.0      19496990000.0       19496990000.0
+Diluted EPS                                                                NaN                1.55               2.73                2.15
+Basic EPS                                                                  NaN                1.55               2.73                2.15
+Diluted NI Availto Com Stockholders                              56081479000.0       31278991000.0      54204958000.0       42853406000.0
+Net Income Common Stockholders                                   56081479000.0       31278991000.0      54204958000.0       42853406000.0
+Net Income                                                       56081479000.0       31278991000.0      54204958000.0       42853406000.0
+Minority Interests                                               -1492667000.0       -1334119000.0        206745000.0          -1749000.0
+Net Income Including Noncontrolling Interests                    57574146000.0       32613110000.0      53998213000.0       42855155000.0
+Net Income Continuous Operations                                 57574146000.0       32613110000.0      53998213000.0       42855155000.0
+Tax Provision                                                     9360191000.0       14435827000.0       8045945000.0        8721902000.0
+Pretax Income                                                    66934337000.0       47048937000.0      62044158000.0       51577057000.0
+Special Income Charges                                            -612207000.0       -1071918000.0         98304000.0        -127468000.0
+Write Off                                                          612207000.0        1071918000.0        -98304000.0         127468000.0
+Gain On Sale Of Security                                         29585114000.0      -23656199000.0      54938936000.0       59971672000.0
+Operating Expense                                                54631621000.0       93819761000.0     116750333000.0      135344648000.0
+Other Operating Expenses                                        -32026326000.0       22419021000.0      44386067000.0       70644601000.0
+Depreciation And Amortization In Income Statement                 7864675000.0        7633348000.0       7160580000.0        7255624000.0
+Depreciation Income Statement                                     7864675000.0        7633348000.0       7160580000.0        7255624000.0
+Selling General And Administration                               29535376000.0       24490621000.0      21141838000.0       21257802000.0
+General And Administrative Expense                               29535376000.0       24490621000.0      21141838000.0       21257802000.0
+Total Revenue                                                   131269802000.0      150965176000.0     185364490000.0      195097547000.0
+Operating Revenue                                               131269802000.0      150965176000.0     185364490000.0      195097547000.0

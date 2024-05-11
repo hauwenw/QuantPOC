@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No.157 Shanying Road
+address2	Guishan District
+city	Taoyuan City
+zip	333
+country	Taiwan
+phone	886 3 359 8800
+fax	886 3 359 9000
+website	https://www.qisda.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Qisda Corporation provides ODM/OEM of electronic products and hardware-software integration in Taiwan, Mainland China, Japan, and internationally. It operates through Design and Manufacturing Services, Brand Marketing, Material Science, Medical Services, and Network Communication segments. The company designs, engineers, and manufactures display products, such as LCD monitors; and printers, sports cameras and polaroid, graphic tablets, and interactive AIO signage products. The company also develops smart video surveillance cameras, machine vision solutions, and household and commercial projectors; medical lamps, operating tables, operating room solutions, scanners, and medical displays; agency and sale of medical consumables and protection supplies, such as needle-free syringes, infusion and drainage supplies, and bags; provides dialysis related products and services to dialysis centers and hospitals; and medical masks, hearing aids, digital dental consumables, disinfectant, cosmeceutical products and equipment, and medical supporting services. In addition, it provides local area networks and metropolitan area networks products, wireless and mobile broadband networks, digital multimedia, and mobile enterprise solutions; product design, cloud-based software development, manufacturing, and local support services; and automotive solutions, such as AVN related products, design verification, manufacturing process design and validation, fully automated SMT processes, and testing and assembly services. Further, the company offers smart solutions and hardware equipment for smart retail, manufacturing, energy, enterprise, school, and healthcare domains. Qisda Corporation was incorporated in 1984 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chi-Hong  Chen', 'age': 62, 'title': 'CEO & Chairman', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Han-Chou  Huang', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chiu-Chin  Hung', 'title': 'VP, CFO & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ta-Wen  Liou', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danny  Lin', 'title': 'VP and Chief HR, Sustainability & Risk Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Hsiao', 'title': 'President of the Manufacturing Operations Headquarters', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Harry  Yang', 'title': 'VP & President of the Medical Devices Products Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'L.. S.  Wang', 'title': 'CIO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Wen  Huang', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	40.0
+open	40.1
+dayLow	39.7
+dayHigh	40.7
+regularMarketPreviousClose	40.0
+regularMarketOpen	40.1
+regularMarketDayLow	39.7
+regularMarketDayHigh	40.7
+dividendRate	2.0
+dividendYield	0.0495
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	1.3514
+fiveYearAvgDividendYield	5.1
+beta	0.861
+trailingPE	27.297298
+forwardPE	15.361217
+volume	11264319
+regularMarketVolume	11264319
+averageVolume	12279735
+averageVolume10days	8828250
+averageDailyVolume10Day	8828250
+bid	40.05
+ask	40.1
+marketCap	79457918976
+fiftyTwoWeekLow	35.4
+fiftyTwoWeekHigh	64.8
+priceToSalesTrailing12Months	0.39027485
+fiftyDayAverage	42.992
+twoHundredDayAverage	44.644
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.030000001
+currency	TWD
+enterpriseValue	144929947648
+profitMargins	0.0146200005
+floatShares	1472037988
+sharesOutstanding	1966780032
+heldPercentInsiders	0.29551
+heldPercentInstitutions	0.16142
+impliedSharesOutstanding	1966780032
+bookValue	18.842
+priceToBook	2.1441462
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.146
+netIncomeToCommon	2975732992
+trailingEps	1.48
+forwardEps	2.63
+pegRatio	-0.49
+lastSplitFactor	1.02:1
+lastSplitDate	1311811200	 (2011-07-28 08:00:00)
+enterpriseToRevenue	0.712
+enterpriseToEbitda	14.864
+52WeekChange	0.12691772
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2352.TW
+underlyingSymbol	2352.TW
+shortName	QISDA CORPORATION
+longName	Qisda Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cabbc473-f350-3228-96f0-72b744636461
+messageBoardId	finmb_882319
+gmtOffSetMilliseconds	28800000
+currentPrice	40.4
+targetHighPrice	39.0
+targetLowPrice	39.0
+targetMeanPrice	39.0
+targetMedianPrice	39.0
+recommendationMean	2.7
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	26940233728
+totalCashPerShare	13.698
+ebitda	9750149120
+totalDebt	66949394432
+quickRatio	0.778
+currentRatio	1.267
+totalRevenue	203594776576
+debtToEquity	104.456
+revenuePerShare	103.517
+returnOnAssets	0.0164
+returnOnEquity	0.06841
+freeCashflow	7770390528
+operatingCashflow	13611010048
+earningsGrowth	0.146
+revenueGrowth	-0.097
+grossMargins	0.16246
+ebitdaMargins	0.04789
+operatingMargins	0.01712
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    9334900.484514   -28419052.538843      797521.870261    12589067.672669
+Tax Rate For Calcs                                                   0.285401           0.333522           0.193151           0.224785
+Normalized EBITDA                                               13795491000.0      23220051000.0      18473022000.0      12790254000.0
+Total Unusual Items                                                32708000.0        -85209000.0          4129000.0         56005000.0
+Total Unusual Items Excluding Goodwill                             32708000.0        -85209000.0          4129000.0         56005000.0
+Net Income From Continuing Operation Net Minority Interest       2975733000.0       8251930000.0       8307546000.0       4988479000.0
+Reconciled Depreciation                                          5700181000.0       5314742000.0       4796243000.0       3875624000.0
+Reconciled Cost Of Revenue                                     170518878000.0     205276228000.0     193404414000.0     164874913000.0
+EBITDA                                                          13828199000.0      23134842000.0      18477151000.0      12846259000.0
+EBIT                                                             8128018000.0      17820100000.0      13680908000.0       8970635000.0
+Net Interest Income                                              -906529000.0       -782893000.0       -419457000.0       -465390000.0
+Interest Expense                                                 1808278000.0       1196799000.0        688562000.0        757999000.0
+Interest Income                                                   901749000.0        413906000.0        269105000.0        292609000.0
+Normalized Income                                           2952359900.484514  8308719947.461157  8304214521.870261  4945063067.672669
+Net Income From Continuing And Discontinued Operation            2975733000.0       8251930000.0       8307546000.0       4988479000.0
+Total Expenses                                                 198616317000.0     233899730000.0     218604194000.0     185144853000.0
+Diluted Average Shares                                           1975841000.0       1994785000.0       1992323000.0       1986747000.0
+Basic Average Shares                                             1966782000.0       1966782000.0       1966782000.0       1966782000.0
+Diluted EPS                                                              1.51               4.14               4.17               2.51
+Basic EPS                                                                1.51                4.2               4.22               2.54
+Diluted NI Availto Com Stockholders                              2975733000.0       8251930000.0       8307546000.0       4988479000.0
+Net Income Common Stockholders                                   2975733000.0       8251930000.0       8307546000.0       4988479000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2975733000.0       8251930000.0       8307546000.0       4988479000.0
+Minority Interests                                              -1540346000.0      -2827139000.0      -2175311000.0      -1378082000.0
+Net Income Including Noncontrolling Interests                    4516079000.0      11079069000.0      10482857000.0       6366561000.0
+Net Income Continuous Operations                                 4516079000.0      11079069000.0      10482857000.0       6366561000.0
+Tax Provision                                                    1803661000.0       5544232000.0       2509489000.0       1846075000.0
+Pretax Income                                                    6319740000.0      16623301000.0      12992346000.0       8212636000.0
+Other Non Operating Income Expenses                              1810100000.0      11187272000.0       4443211000.0       1565603000.0
+Special Income Charges                                             32708000.0        -85209000.0          4129000.0         56005000.0
+Write Off                                                         -32708000.0         85209000.0         -4129000.0        -56005000.0
+Net Non Operating Interest Income Expense                        -906529000.0       -782893000.0       -419457000.0       -465390000.0
+Interest Expense Non Operating                                   1808278000.0       1196799000.0        688562000.0        757999000.0
+Interest Income Non Operating                                     901749000.0        413906000.0        269105000.0        292609000.0
+Operating Income                                                 4978464000.0       5937566000.0       7356837000.0       6556849000.0
+Operating Expense                                               28097439000.0      28623502000.0      25199780000.0      20269940000.0
+Research And Development                                         6943939000.0       7192111000.0       6260312000.0       4920678000.0
+Selling General And Administration                              21153500000.0      21431391000.0      18939468000.0      15349262000.0
+Selling And Marketing Expense                                   14955087000.0      15099320000.0      12974544000.0      10666420000.0
+General And Administrative Expense                               6198413000.0       6332071000.0       5964924000.0       4682842000.0
+Gross Profit                                                    33075903000.0      34561068000.0      32556617000.0      26826789000.0
+Cost Of Revenue                                                170518878000.0     205276228000.0     193404414000.0     164874913000.0
+Total Revenue                                                  203594781000.0     239837296000.0     225961031000.0     191701702000.0
+Operating Revenue                                              203594781000.0     239837296000.0     225961031000.0     191701702000.0

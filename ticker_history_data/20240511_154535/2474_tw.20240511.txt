@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No 398, Ren-Ai Street
+address2	Yongkang District
+city	Tainan City
+zip	710
+country	Taiwan
+phone	886 6 253 9000
+fax	886 6 253 7500
+website	https://www.catcher-group.com
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Catcher Technology Co., Ltd., together with its subsidiaries, manufactures and sells aluminum and magnesium extrusions, and stamping products and molds in Taiwan and China. The company's products include upper case, lower case, keyboard cover, and monitor casings for notebook computers; casings for various server specifications and desktop computers; industrial computer casings and internal parts; and computer accessories, such as plugs and A/V connector casings. It also produces customized thin and precision-oriented communication application products, such as phones and pad-like products, as well as communication accessories, such as earphones and camera heads; and consumer electronic products, such as digital still cameras, camcorders, MP3 products, and related accessories. In addition, the company offers ventilation blades, air-power tools, automobiles, TVs, and lightning equipment. Further, it manufactures, sells, and develops varied metal products; and engages in the trading, leasing, and investing activities. The company was incorporated in 1984 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shui-Shu  Hung', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tien-Szu  Hung', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Stanley  Chen', 'title': 'Financial Officer, Accounting Officer & Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Yen  Fang', 'title': 'Investor Relations Manager & Acting Spokesperson', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsu-Yuan  Lee', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	218.5
+open	218.5
+dayLow	217.0
+dayHigh	223.0
+regularMarketPreviousClose	218.5
+regularMarketOpen	218.5
+regularMarketDayLow	217.0
+regularMarketDayHigh	223.0
+dividendRate	15.0
+dividendYield	0.067600004
+exDividendDate	1701907200	 (2023-12-07 08:00:00)
+payoutRatio	0.7983
+fiveYearAvgDividendYield	6.05
+beta	0.544
+trailingPE	11.821086
+forwardPE	17.076923
+volume	3549237
+regularMarketVolume	3549237
+averageVolume	2529146
+averageVolume10days	2476274
+averageDailyVolume10Day	2476274
+bid	221.5
+ask	222.0
+marketCap	151040819200
+fiftyTwoWeekLow	165.5
+fiftyTwoWeekHigh	225.5
+priceToSalesTrailing12Months	8.356854
+fiftyDayAverage	210.82
+twoHundredDayAverage	192.5725
+currency	TWD
+enterpriseValue	130377785344
+profitMargins	0.50632
+floatShares	589916469
+sharesOutstanding	680364032
+heldPercentInsiders	0.1019
+heldPercentInstitutions	0.42113
+impliedSharesOutstanding	688331008
+bookValue	232.152
+priceToBook	0.95627004
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	9151193088
+trailingEps	18.78
+forwardEps	13.0
+pegRatio	-5.93
+lastSplitFactor	1.1:1
+lastSplitDate	1252540800	 (2009-09-10 08:00:00)
+enterpriseToRevenue	7.214
+enterpriseToEbitda	29.857
+52WeekChange	0.18716574
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1701907200	 (2023-12-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2474.TW
+underlyingSymbol	2474.TW
+shortName	CATCHER TECHNOLOGY
+longName	Catcher Technology Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0bd7ad63-8bf0-3167-87ca-c3acedaaa954
+messageBoardId	finmb_4596653
+gmtOffSetMilliseconds	28800000
+currentPrice	222.0
+targetHighPrice	222.0
+targetLowPrice	129.0
+targetMeanPrice	176.2
+targetMedianPrice	190.0
+recommendationMean	3.3
+recommendationKey	hold
+numberOfAnalystOpinions	5
+totalCash	98229264384
+totalCashPerShare	144.378
+ebitda	4366697984
+totalDebt	77554835456
+quickRatio	1.116
+currentRatio	1.308
+totalRevenue	18073884672
+debtToEquity	49.098
+revenuePerShare	26.328
+returnOnAssets	0.00408
+returnOnEquity	0.05653
+freeCashflow	11154313216
+operatingCashflow	9180531712
+revenueGrowth	-0.502
+grossMargins	0.27299
+ebitdaMargins	0.24159999
+operatingMargins	0.01601
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0    -8663900.068591            0.0            0.0
+Tax Rate For Calcs                                               0.255551            0.34134       0.287836            0.2
+Normalized EBITDA                                           16264096000.0      20722923000.0  17472301000.0  50213093000.0
+Total Unusual Items                                                   0.0        -25382000.0            0.0            NaN
+Total Unusual Items Excluding Goodwill                                0.0        -25382000.0            0.0            NaN
+Net Income From Continuing Operation Net Minority Interest   9151193000.0      10902179000.0   8575044000.0  21129820000.0
+Reconciled Depreciation                                      2779836000.0       3450431000.0   4918639000.0   8789667000.0
+Reconciled Cost Of Revenue                                  13139923000.0      18953632000.0  27525852000.0  60586781000.0
+EBITDA                                                      16264096000.0      20697541000.0  17472301000.0  50213093000.0
+EBIT                                                        13484260000.0      17247110000.0  12553662000.0  41423426000.0
+Net Interest Income                                          9209344000.0       3609175000.0    339787000.0   1425684000.0
+Interest Expense                                             1191213000.0        704063000.0    483010000.0    576237000.0
+Interest Income                                             10400557000.0       4313238000.0    822797000.0   2001921000.0
+Normalized Income                                            9151193000.0  10918897099.93141   8575044000.0  21129820000.0
+Net Income From Continuing And Discontinued Operation        9151193000.0      10902179000.0   8575044000.0  21129820000.0
+Total Expenses                                              16446990000.0      22903020000.0  32334858000.0  67570864000.0
+Diluted Average Shares                                        687195000.0        721682000.0    762711000.0    770563000.0
+Basic Average Shares                                          686480000.0        720239000.0    758241000.0    764102000.0
+Diluted EPS                                                         13.32              15.11          11.24          27.42
+Basic EPS                                                           13.33              15.14          11.31          27.65
+Diluted NI Availto Com Stockholders                          9151193000.0      10902179000.0   8575044000.0  21129820000.0
+Net Income Common Stockholders                               9151193000.0      10902179000.0   8575044000.0  21129820000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0            0.0            0.0
+Net Income                                                   9151193000.0      10902179000.0   8575044000.0  21129820000.0
+Minority Interests                                              -352000.0          5941000.0    -21239000.0    -36248000.0
+Net Income Including Noncontrolling Interests                9151545000.0      10896238000.0   8596283000.0  21166068000.0
+Net Income Continuous Operations                             9151545000.0      10896238000.0   8596283000.0  21166068000.0
+Tax Provision                                                3141502000.0       5646809000.0   3474369000.0  19681121000.0
+Pretax Income                                               12293047000.0      16543047000.0  12070652000.0  40847189000.0
+Other Non Operating Income Expenses                           896247000.0       -233182000.0   5402309000.0  30112565000.0
+Special Income Charges                                                0.0        -25382000.0            0.0            NaN
+Write Off                                                             0.0         25382000.0            0.0            NaN
+Net Non Operating Interest Income Expense                    9209344000.0       3609175000.0    339787000.0   1425684000.0
+Interest Expense Non Operating                               1191213000.0        704063000.0    483010000.0    576237000.0
+Interest Income Non Operating                               10400557000.0       4313238000.0    822797000.0   2001921000.0
+Operating Income                                             1626894000.0       4917509000.0   8760121000.0  14935168000.0
+Operating Expense                                            3307067000.0       3949388000.0   4809006000.0   6984083000.0
+Research And Development                                     1248355000.0       1494209000.0   1682336000.0   1584650000.0
+Selling General And Administration                           2058712000.0       2455179000.0   3126670000.0   5399433000.0
+Selling And Marketing Expense                                 281316000.0        374384000.0    412142000.0    652469000.0
+General And Administrative Expense                           1777396000.0       2080795000.0   2714528000.0   4746964000.0
+Gross Profit                                                 4933961000.0       8866897000.0  13569127000.0  21919251000.0
+Cost Of Revenue                                             13139923000.0      18953632000.0  27525852000.0  60586781000.0
+Total Revenue                                               18073884000.0      27820529000.0  41094979000.0  82506032000.0
+Operating Revenue                                           18073884000.0      27820529000.0  41094979000.0  82506032000.0

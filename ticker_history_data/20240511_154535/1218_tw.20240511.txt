@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 99, Chang¡¦an East Road
+address2	10th Floor Sec. 2 Zhongshan Dist
+city	Taipei
+zip	104
+country	Taiwan
+website	https://www.taisun.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Taisun Enterprise Co., Ltd. operates in the food and beverage industry in Taiwan. The company operates through four segments: Consumption, Commodity, Foreign, and Other. It offers flour products comprising soy flour, high protein soy flour, and full-fat cooked soy flour; oil products, including rice bran oil, sunflower oil, canola oil, soybean oil, palm oil, olive oil, grapeseed oil, and blended oil; and feed products comprising milkfish, nile fish, sweetfish, striped bass, grouper, shrimp feed, and aquatic feed, such as eels. The company also provides grass jelly and mixed congee products; cheers sparkling water; taishan pure water and twistwater water products; BUFF dual-effect energy drink; woo tang grass tea; ten valley treasure; grass honey; Bing Jeon black tea; and grape ice tea products, as well as granular beverages, such as the big straw series cha street products and nuts effect almond milk. Further, it engages in livestock farming; sale of food, beverages, and snacks; and operation of beverage stores. Taisun Enterprise Co., Ltd. was founded in 1950 and is headquartered in Taipe, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng-Ta  Tsai', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fu  Saga', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kai-Ze  Xiao', 'title': 'Director of Operations & Management Group and Head of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gu-Long  Yan', 'title': 'Accounting officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li-Wan  Lin', 'title': 'Chief Administration Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsien-Wen  Chen', 'title': 'Director of Human Resources Management & Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Hui  Li', 'title': 'Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shou-Pin  Su', 'title': 'Chief of Staff', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Si-Pei  Liu', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Jun  Shen', 'title': 'Chief Operating Officer of Consumer Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	21.5
+open	21.7
+dayLow	21.55
+dayHigh	21.7
+regularMarketPreviousClose	21.5
+regularMarketOpen	21.7
+regularMarketDayLow	21.55
+regularMarketDayHigh	21.7
+dividendRate	0.57
+dividendYield	0.026300002
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.0542
+beta	0.256
+forwardPE	17.745901
+volume	509671
+regularMarketVolume	509671
+averageVolume	1180682
+averageVolume10days	1230762
+averageDailyVolume10Day	1230762
+bid	21.65
+ask	21.7
+marketCap	10528827392
+fiftyTwoWeekLow	20.0
+fiftyTwoWeekHigh	32.25
+priceToSalesTrailing12Months	0.937694
+fiftyDayAverage	21.626
+twoHundredDayAverage	22.075
+currency	TWD
+enterpriseValue	8614052864
+profitMargins	-0.0072000003
+floatShares	134384816
+sharesOutstanding	486320000
+heldPercentInsiders	0.67165
+heldPercentInstitutions	0.015310001
+impliedSharesOutstanding	497500000
+bookValue	24.837
+priceToBook	0.87168336
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.964
+netIncomeToCommon	-80870000
+trailingEps	-0.17
+forwardEps	1.22
+lastSplitFactor	1.03:1
+lastSplitDate	1345075200	 (2012-08-16 08:00:00)
+enterpriseToRevenue	0.767
+enterpriseToEbitda	110.529
+52WeekChange	-0.31378764
+SandP52WeekChange	0.26265144
+lastDividendValue	0.569857
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1218.TW
+underlyingSymbol	1218.TW
+shortName	TAISUN ENTERPRISE CO. LTD.
+longName	Taisun Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	59bd3081-c51d-3dd4-90b1-8d3abe251f73
+messageBoardId	finmb_12721400
+gmtOffSetMilliseconds	28800000
+currentPrice	21.65
+recommendationKey	none
+totalCash	1925630976
+totalCashPerShare	3.96
+ebitda	77935000
+totalDebt	5446000
+quickRatio	2.461
+currentRatio	4.037
+totalRevenue	11228425216
+debtToEquity	0.045
+revenuePerShare	23.085
+returnOnAssets	-0.0025799999
+returnOnEquity	-0.00654
+freeCashflow	-873352384
+operatingCashflow	-929923968
+earningsGrowth	-0.962
+revenueGrowth	0.014
+grossMargins	0.13801
+ebitdaMargins	0.00694
+operatingMargins	0.058140002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      -60800.0     -316359.10387      32188.430171      67019.508857
+Tax Rate For Calcs                                                    0.2          0.047105          0.068632          0.060161
+Normalized EBITDA                                             288333000.0      6351666000.0       751295000.0      1015977000.0
+Total Unusual Items                                             -304000.0        -6716000.0          469000.0         1114000.0
+Total Unusual Items Excluding Goodwill                          -304000.0        -6716000.0          469000.0         1114000.0
+Net Income From Continuing Operation Net Minority Interest    -80870000.0      5918495000.0       591827000.0       851078000.0
+Reconciled Depreciation                                       144160000.0       106788000.0       104769000.0        96632000.0
+Reconciled Cost Of Revenue                                   9678785000.0      9623679000.0      8409291000.0      6715645000.0
+EBITDA                                                        288029000.0      6344950000.0       751764000.0      1017091000.0
+EBIT                                                          143869000.0      6238162000.0       646995000.0       920459000.0
+Net Interest Income                                             4629000.0       -19399000.0        -7004000.0        -3547000.0
+Interest Expense                                               20977000.0        27012000.0        11359000.0        14409000.0
+Interest Income                                                25606000.0         7613000.0         4355000.0        10862000.0
+Normalized Income                                             -80626800.0  5924894640.89613  591390188.430171  850031019.508857
+Net Income From Continuing And Discontinued Operation         -80870000.0      5918495000.0       591827000.0       851078000.0
+Total Expenses                                              11296178000.0     11454703000.0      9735859000.0      8039995000.0
+Diluted Average Shares                                                NaN       494878000.0       488036000.0       488595000.0
+Basic Average Shares                                                  NaN       486393000.0       486393000.0       486393000.0
+Diluted EPS                                                           NaN             11.96              1.21              1.74
+Basic EPS                                                             NaN             12.17              1.22              1.75
+Diluted NI Availto Com Stockholders                           -80870000.0      5918495000.0       591827000.0       851078000.0
+Net Income Common Stockholders                                -80870000.0      5918495000.0       591827000.0       851078000.0
+Otherunder Preferred Stock Dividend                                   0.0               0.0               0.0               0.0
+Net Income                                                    -80870000.0      5918495000.0       591827000.0       851078000.0
+Minority Interests                                              -235000.0          -77000.0         -184000.0         -463000.0
+Net Income Including Noncontrolling Interests                 -80635000.0      5918572000.0       592011000.0       851541000.0
+Net Income Continuous Operations                              -80635000.0      5918572000.0       592011000.0       851541000.0
+Tax Provision                                                 203527000.0       292578000.0        43625000.0        54509000.0
+Pretax Income                                                 122892000.0      6211150000.0       635636000.0       906050000.0
+Other Non Operating Income Expenses                           132772000.0      6284620000.0        88950000.0        73780000.0
+Special Income Charges                                          -304000.0        -6716000.0          469000.0         1114000.0
+Other Special Charges                                           -403000.0         -231000.0         -702000.0         -721000.0
+Write Off                                                        707000.0         6947000.0          233000.0         -393000.0
+Net Non Operating Interest Income Expense                       4629000.0       -19399000.0        -7004000.0        -3547000.0
+Interest Expense Non Operating                                 20977000.0        27012000.0        11359000.0        14409000.0
+Interest Income Non Operating                                  25606000.0         7613000.0         4355000.0        10862000.0
+Operating Income                                              -67753000.0      -385263000.0       209119000.0       316130000.0
+Operating Expense                                            1617393000.0      1831024000.0      1326568000.0      1324350000.0
+Other Operating Expenses                                              NaN               NaN         -471000.0          -19000.0
+Selling General And Administration                           1617393000.0      1831024000.0      1326568000.0      1324350000.0
+Selling And Marketing Expense                                1180874000.0      1121980000.0       955655000.0       914278000.0
+General And Administrative Expense                            436519000.0       709044000.0       370913000.0       410072000.0
+Gross Profit                                                 1549640000.0      1445761000.0      1535687000.0      1640480000.0
+Cost Of Revenue                                              9678785000.0      9623679000.0      8409291000.0      6715645000.0
+Total Revenue                                               11228425000.0     11069440000.0      9944978000.0      8356125000.0
+Operating Revenue                                           11228425000.0     11069440000.0      9944978000.0      8356125000.0

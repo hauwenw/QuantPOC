@@ -1,0 +1,134 @@
+=== Ticker Info ===
+address1	No.15, Jianguo North Road
+address2	11th Floor, section 2 Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2507 5335
+fax	886 2 2504 6312
+website	https://www.skinsurance.com.tw
+industry	Insurance - Property & Casualty
+industryKey	insurance-property-casualty
+industryDisp	Insurance - Property & Casualty
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Shinkong Insurance Co., Ltd. provides property insurance to individuals and corporates in Taiwan. It offers fire, motor, engineering, liability, marine, accident, and health insurance products. The company was incorporated in 1963 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	1577
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Ying-Lan  Ho', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tseng  Ya-Fang', 'title': 'CFO & Head of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsien-Tang  Lin', 'title': 'Chief Compliance Officer and Manager of Legal & Compliance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui-Yu  Wang', 'title': 'Manager of Human Resource Department & Independent Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po-Hsuan  Wang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pao-Kuei  Chang', 'title': 'Assistant VP & Head of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Yi  Tu', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Hsien  Tsai', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Si-Yi  Li', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tai-Yu  Wang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	91.2
+open	91.2
+dayLow	90.7
+dayHigh	92.8
+regularMarketPreviousClose	91.2
+regularMarketOpen	91.2
+regularMarketDayLow	90.7
+regularMarketDayHigh	92.8
+dividendRate	2.54
+dividendYield	0.0276
+exDividendDate	1686528000	 (2023-06-12 08:00:00)
+payoutRatio	0.2755
+fiveYearAvgDividendYield	5.25
+beta	0.372
+trailingPE	9.978308
+volume	915332
+regularMarketVolume	915332
+averageVolume	791650
+averageVolume10days	960353
+averageDailyVolume10Day	960353
+bid	92.0
+ask	92.1
+marketCap	29068597248
+fiftyTwoWeekLow	50.3
+fiftyTwoWeekHigh	98.8
+priceToSalesTrailing12Months	1.4619689
+fiftyDayAverage	85.542
+twoHundredDayAverage	69.455
+currency	TWD
+enterpriseValue	10570575872
+profitMargins	0.14657
+floatShares	177034237
+sharesOutstanding	315963008
+heldPercentInsiders	0.34208
+heldPercentInstitutions	0.12661
+impliedSharesOutstanding	318895008
+bookValue	55.446
+priceToBook	1.6592721
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.519
+netIncomeToCommon	2914182912
+trailingEps	9.22
+lastSplitFactor	105:100
+lastSplitDate	1220918400	 (2008-09-09 08:00:00)
+enterpriseToRevenue	0.532
+enterpriseToEbitda	2.968
+52WeekChange	0.8074657
+SandP52WeekChange	0.26265144
+lastDividendValue	2.54
+lastDividendDate	1686528000	 (2023-06-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2850.TW
+underlyingSymbol	2850.TW
+shortName	SHINKONG INSURANCE CO
+longName	Shinkong Insurance Co., Ltd.
+firstTradeDateEpochUtc	959043600	 (2000-05-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c1c45c93-a463-33bd-b428-63c2e309ac91
+messageBoardId	finmb_22596241
+gmtOffSetMilliseconds	28800000
+currentPrice	92.0
+recommendationKey	none
+totalCash	18514618368
+totalCashPerShare	58.597
+ebitda	3561211904
+totalDebt	16570000
+quickRatio	5.379
+currentRatio	5.719
+totalRevenue	19883184128
+debtToEquity	0.095
+revenuePerShare	62.929
+returnOnAssets	0.047989998
+returnOnEquity	0.17907
+freeCashflow	1383885312
+operatingCashflow	1592704000
+earningsGrowth	0.519
+revenueGrowth	0.032
+grossMargins	0.36433
+ebitdaMargins	0.17910999
+operatingMargins	0.22827
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.172741       0.190089       0.151033       0.155428
+Net Income From Continuing Operation Net Minority Interest   2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Reconciled Depreciation                                       103875000.0    106657000.0    106656000.0    102474000.0
+Interest Income                                               537858000.0    364795000.0    308794000.0    322363000.0
+Normalized Income                                            2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Net Income From Continuing And Discontinued Operation        2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Total Expenses                                              16415972000.0  16456790000.0  15809074000.0  14580470000.0
+Diluted Average Shares                                                NaN    315963000.0    315963000.0    315946000.0
+Basic Average Shares                                                  NaN    315963000.0    315963000.0    315946000.0
+Diluted EPS                                                           NaN           6.34           7.13           5.16
+Basic EPS                                                             NaN           6.34           7.13           5.16
+Diluted NI Availto Com Stockholders                          2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Net Income Common Stockholders                               2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Net Income                                                   2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Net Income Including Noncontrolling Interests                2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Net Income Continuous Operations                             2914183000.0   2003570000.0   2253993000.0   1629724000.0
+Tax Provision                                                 608514000.0    470246000.0    400990000.0    299920000.0
+Pretax Income                                                3522697000.0   2473816000.0   2654983000.0   1929644000.0
+Other Income Expense                                          131513000.0    675777000.0    -31534000.0   -127629000.0
+Other Operating Expenses                                      100796000.0     95794000.0    158261000.0     97279000.0
+Selling General And Administration                           3669282000.0   3742242000.0   3623619000.0   3370449000.0
+General And Administrative Expense                           3669282000.0   3742242000.0   3623619000.0   3370449000.0
+Total Revenue                                               19938669000.0  18930606000.0  18464057000.0  16510114000.0
+Operating Revenue                                           19938669000.0  18930606000.0  18464057000.0  16510114000.0

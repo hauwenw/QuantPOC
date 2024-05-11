@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 69, Guangfu Road
+address2	Section 2 Sanchong District
+city	New Taipei City
+zip	24158
+country	Taiwan
+phone	886 2 6626 6788
+fax	886 2 2995 9539
+website	https://www.chicony.com/chicony/en
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Chicony Electronics Co., Ltd. manufactures and sells electronic parts and components in Taiwan and internationally. It offers input devices, including ergonomic, wired entry, wired multimedia, 2.4G wireless combo, Bluetooth, and smart card keyboards; mobile keyboards; and camera modules. The company also provides video image products, such as action cams, dash cams, outdoor IP cams, and zoom camcorders, as well as wearable cams and porch IP cams; and automotive electronics, such as image systems and LED lighting products. In addition, it manufactures sells switching power supplies and other electronic parts; researches, manufactures, and sells DSL bridges and routers; Internet solution for e-commerce solution; production and sells automotive and motorcycle components, electric machine and device, lamps, and plastic products; researches and develops, manufactures, sells, and installs electric machinery, electric frequency device, and industry automation equipment, as well as offers after sales and advisory services; manufactures and sells electrical machinery and components; and imports and exports goods. Chicony Electronics Co., Ltd. was incorporated in 1983 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin-Chung  Lu', 'age': 62, 'title': 'GM & Director', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Ling  Lin', 'title': 'CFO, Chief Accounting Officer, Senior Vice GM of Financial & Admin Dept. and Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Yu  Huang', 'title': 'COO & General Manager of the IPD Business Unit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wan-Ting  Yang', 'title': 'Director of Investor Relations Division of the Financial & Administrative Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huan-Wen  Hsiao', 'title': 'Chief Human Resources Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Cheng  Tsai', 'title': 'General Manager of the MKB Business Unit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-I  Tsai', 'title': 'General Manager of VIP Business Unit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yan Liang Dung', 'title': 'General Manager of the CM Business Unit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Hao  Cheng', 'title': 'General Manager of the AE Business Unit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Hsien  Chang', 'title': 'Chief Purchasing Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	204.0
+open	204.0
+dayLow	196.0
+dayHigh	204.5
+regularMarketPreviousClose	204.0
+regularMarketOpen	204.0
+regularMarketDayLow	196.0
+regularMarketDayHigh	204.5
+dividendRate	7.8
+dividendYield	0.0374
+exDividendDate	1718668800	 (2024-06-18 08:00:00)
+payoutRatio	0.7069
+fiveYearAvgDividendYield	6.09
+beta	0.398
+trailingPE	18.56739
+forwardPE	13.310811
+volume	5199864
+regularMarketVolume	5199864
+averageVolume	7496459
+averageVolume10days	3767391
+averageDailyVolume10Day	3767391
+bid	197.0
+ask	197.5
+marketCap	142718631936
+fiftyTwoWeekLow	93.5
+fiftyTwoWeekHigh	267.0
+priceToSalesTrailing12Months	1.4515351
+fiftyDayAverage	214.67
+twoHundredDayAverage	160.3385
+trailingAnnualDividendRate	7.8
+trailingAnnualDividendYield	0.038235296
+currency	TWD
+enterpriseValue	135609188352
+profitMargins	0.07591
+floatShares	553284591
+sharesOutstanding	724460032
+heldPercentInsiders	0.18507999
+heldPercentInstitutions	0.40045
+impliedSharesOutstanding	727934976
+bookValue	53.936
+priceToBook	3.652477
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.216
+netIncomeToCommon	7463959040
+trailingEps	10.61
+forwardEps	14.8
+pegRatio	2.8
+lastSplitFactor	1005:1000
+lastSplitDate	1531958400	 (2018-07-19 08:00:00)
+enterpriseToRevenue	1.379
+enterpriseToEbitda	11.075
+52WeekChange	0.98588705
+SandP52WeekChange	0.26265144
+lastDividendValue	7.8
+lastDividendDate	1718668800	 (2024-06-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2385.TW
+underlyingSymbol	2385.TW
+shortName	CHICONY ELECTRONICS
+longName	Chicony Electronics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c5e5ea90-579c-3d31-b98e-e1713246394b
+messageBoardId	finmb_9845894
+gmtOffSetMilliseconds	28800000
+currentPrice	197.0
+targetHighPrice	280.0
+targetLowPrice	240.0
+targetMeanPrice	259.33
+targetMedianPrice	258.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	24205621248
+totalCashPerShare	33.412
+ebitda	12244862976
+totalDebt	1625398016
+quickRatio	1.079
+currentRatio	1.492
+totalRevenue	98322546688
+debtToEquity	3.517
+revenuePerShare	136.321
+returnOnAssets	0.06611
+returnOnEquity	0.20326
+freeCashflow	12310311936
+operatingCashflow	18789275648
+earningsGrowth	0.241
+revenueGrowth	-0.115
+grossMargins	0.19353001
+ebitdaMargins	0.12454
+operatingMargins	0.105950005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -7677485.589489    -4110229.139301    -8293460.534442     -940062.390745
+Tax Rate For Calcs                                                   0.201652           0.194807           0.198836           0.200825
+Normalized EBITDA                                               14483296000.0      14555273000.0      12512756000.0      10800981000.0
+Total Unusual Items                                               -38073000.0        -21099000.0        -41710000.0         -4681000.0
+Total Unusual Items Excluding Goodwill                            -38073000.0        -21099000.0        -41710000.0         -4681000.0
+Net Income From Continuing Operation Net Minority Interest       7463959000.0       7320081000.0       6154426000.0       5466764000.0
+Reconciled Depreciation                                          3046393000.0       3192284000.0       2959754000.0       2510467000.0
+Reconciled Cost Of Revenue                                      79294233000.0      95172451000.0      88571844000.0      77306598000.0
+EBITDA                                                          14445223000.0      14534174000.0      12471046000.0      10796300000.0
+EBIT                                                            11398830000.0      11341890000.0       9511292000.0       8285833000.0
+Net Interest Income                                               504412000.0          2766000.0         37976000.0         74717000.0
+Interest Expense                                                  125913000.0        144854000.0         59671000.0         67643000.0
+Interest Income                                                   630325000.0        147620000.0         97647000.0        142360000.0
+Normalized Income                                           7494354514.410511  7337069770.860699  6187842539.465558  5470504937.609255
+Net Income From Continuing And Discontinued Operation            7463959000.0       7320081000.0       6154426000.0       5466764000.0
+Total Expenses                                                  88875468000.0     105309269000.0      98819351000.0      87414846000.0
+Diluted Average Shares                                            729165000.0        727522000.0        719289000.0        711928000.0
+Basic Average Shares                                              721258000.0        713280000.0        706843000.0        701161000.0
+Diluted EPS                                                             10.24              10.06               8.56               7.68
+Basic EPS                                                               10.35              10.26               8.71                7.8
+Diluted NI Availto Com Stockholders                              7463959000.0       7320081000.0       6154426000.0       5466764000.0
+Net Income Common Stockholders                                   7463959000.0       7320081000.0       6154426000.0       5466764000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       7463959000.0       7320081000.0       6154426000.0       5466764000.0
+Minority Interests                                              -1535755000.0      -1695696000.0      -1417870000.0      -1101007000.0
+Net Income Including Noncontrolling Interests                    8999714000.0       9015777000.0       7572296000.0       6567771000.0
+Net Income Continuous Operations                                 8999714000.0       9015777000.0       7572296000.0       6567771000.0
+Tax Provision                                                    2273203000.0       2181259000.0       1879325000.0       1650419000.0
+Pretax Income                                                   11272917000.0      11197036000.0       9451621000.0       8218190000.0
+Other Non Operating Income Expenses                              1349775000.0        773554000.0        774481000.0        491850000.0
+Special Income Charges                                            -38073000.0        -21099000.0        -41710000.0         -4681000.0
+Write Off                                                          38073000.0         21099000.0         41710000.0          4681000.0
+Net Non Operating Interest Income Expense                         504412000.0          2766000.0         37976000.0         74717000.0
+Interest Expense Non Operating                                    125913000.0        144854000.0         59671000.0         67643000.0
+Interest Income Non Operating                                     630325000.0        147620000.0         97647000.0        142360000.0
+Operating Income                                                 9447077000.0      10439109000.0       8654728000.0       7667381000.0
+Operating Expense                                                9581235000.0      10136818000.0      10247507000.0      10108248000.0
+Research And Development                                         3631911000.0       3572070000.0       3481205000.0       3515726000.0
+Selling General And Administration                               5949324000.0       6564748000.0       6766302000.0       6592522000.0
+Selling And Marketing Expense                                    2623762000.0       3150308000.0       3731723000.0       3862736000.0
+General And Administrative Expense                               3325562000.0       3414440000.0       3034579000.0       2729786000.0
+Gross Profit                                                    19028312000.0      20575927000.0      18902235000.0      17775629000.0
+Cost Of Revenue                                                 79294233000.0      95172451000.0      88571844000.0      77306598000.0
+Total Revenue                                                   98322545000.0     115748378000.0     107474079000.0      95082227000.0
+Operating Revenue                                               98322545000.0     115748378000.0     107474079000.0      95082227000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 398, Xingshan Road
+address2	Neihu District
+city	Taipei
+zip	14066
+country	Taiwan
+phone	886 2 2792 5511
+website	https://www.hcg.com.tw
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hocheng Corporation, together with its subsidiaries, provides bathroom products in Taiwan and internationally. It offers sanitary ceramics and its attachments, tiles, ceramic toys, sand wheels, fine ceramics, electronic ceramics, voltage insulators, bricks, ceramic table wares, ceramic containers, artistic ceramic products, refractory materials, heat insulating materials, and other kiln ceramics; and bathroom appliances, including cosmetic mirrors, paper towel holders, soap dishes, mug holders, towel rings/racks, clothes hooks, makeup plates, ashtrays, etc. The company also provides water-supply copper wares, milling tubes, vanishes, enamel products, and other fabrication accessories; electric water heaters, water boilers, water dispensers, water flushers, water filters, bathroom dryers, air purifiers, sauna heaters, hand dryers, automatic toilet cover devices, dehydrators, and gas water heaters; fire doors, partition walls, tile walls, door windows, etc.; and reservoirs, bathtubs, toilet covers, modular bathrooms, and glass fiber products. It offers industrial furnaces, such as batch furnaces, continuous furnaces, semi-continuous furnaces, and its components; and controlling/testing instruments and sensor components. The company also constructs, leases, and sells public housing and commercial buildings; manufactures and trades pre-cast concrete and curtain wall products; and offers display, introduction, and sales services for domestic and foreign art and folk crafts. It imports and exports trade and related interbank endorsement/guarantees; imports, exports, installs, and sells wood and plastic kitchen appliances, and related components; imports, exports, wholesales, and retails watches, perfumes, and departmental merchandises; designs and constructs interior decoration; imports and sells automobiles; and trades in materials, bathroom equipment, artistic ceiling fans, and lighting fixtures products. The company was founded in 1931 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Chieh  Chen', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Hsin  Chiu', 'title': 'CFO & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yue Ying  Luo', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.8
+open	18.8
+dayLow	18.55
+dayHigh	18.95
+regularMarketPreviousClose	18.8
+regularMarketOpen	18.8
+regularMarketDayLow	18.55
+regularMarketDayHigh	18.95
+dividendRate	0.2
+dividendYield	0.0106
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	3.3332999
+beta	1.334
+trailingPE	314.1667
+forwardPE	40.97826
+volume	558478
+regularMarketVolume	558478
+averageVolume	2929401
+averageVolume10days	1356387
+averageDailyVolume10Day	1356387
+bid	18.8
+ask	18.9
+marketCap	5690042368
+fiftyTwoWeekLow	16.0
+fiftyTwoWeekHigh	26.5
+priceToSalesTrailing12Months	1.1681978
+fiftyDayAverage	18.13
+twoHundredDayAverage	18.617
+currency	TWD
+enterpriseValue	5313088000
+profitMargins	0.00397
+sharesOutstanding	301859008
+heldPercentInsiders	0.2849
+heldPercentInstitutions	0.03184
+impliedSharesOutstanding	301859008
+bookValue	22.095
+priceToBook	0.8531342
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	7.491
+netIncomeToCommon	19347000
+trailingEps	0.06
+forwardEps	0.46
+lastSplitFactor	820:1000
+lastSplitDate	1665619200	 (2022-10-13 08:00:00)
+enterpriseToRevenue	1.091
+enterpriseToEbitda	27.815
+52WeekChange	-0.18924731
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1810.TW
+underlyingSymbol	1810.TW
+shortName	HOCHENG CORP
+longName	Hocheng Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	42e01f99-b3d1-3539-bd8a-e5026c3279e8
+messageBoardId	finmb_878653
+gmtOffSetMilliseconds	28800000
+currentPrice	18.85
+recommendationKey	none
+totalCash	1522611968
+totalCashPerShare	5.044
+ebitda	191018000
+totalDebt	1088466944
+quickRatio	0.829
+currentRatio	1.395
+totalRevenue	4870787072
+debtToEquity	16.181
+revenuePerShare	16.114
+returnOnAssets	-0.00046
+returnOnEquity	0.0033399998
+freeCashflow	1263194624
+operatingCashflow	1260743936
+earningsGrowth	9.998
+revenueGrowth	0.02
+grossMargins	0.2464
+ebitdaMargins	0.039219998
+operatingMargins	0.01869
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    -386000.0   -6261324.285657       12023.67881    979179.061741
+Tax Rate For Calcs                                                   0.2          0.368053          0.117879         0.385504
+Normalized EBITDA                                            357413000.0       548967000.0      2265916000.0      454384000.0
+Total Unusual Items                                           -1930000.0       -17012000.0          102000.0        2540000.0
+Total Unusual Items Excluding Goodwill                        -1930000.0       -17012000.0          102000.0        2540000.0
+Net Income From Continuing Operation Net Minority Interest    19347000.0       157290000.0      1224801000.0       86793000.0
+Reconciled Depreciation                                      237407000.0       230877000.0       231852000.0      254392000.0
+Reconciled Cost Of Revenue                                  3670621000.0      3695789000.0      3955952000.0     3847421000.0
+EBITDA                                                       355483000.0       531955000.0      2266018000.0      456924000.0
+EBIT                                                         118076000.0       301078000.0      2034166000.0      202532000.0
+Net Interest Income                                          -38558000.0       -45159000.0       -52312000.0      -68708000.0
+Interest Expense                                              51893000.0        50848000.0        54928000.0       73314000.0
+Interest Income                                               13335000.0         5689000.0         2616000.0        4606000.0
+Normalized Income                                             20891000.0  168040675.714343  1224711023.67881  85232179.061741
+Net Income From Continuing And Discontinued Operation         19347000.0       157290000.0      1224801000.0       86793000.0
+Total Expenses                                              4876395000.0      4884899000.0      5246746000.0     5104562000.0
+Diluted Average Shares                                               NaN       346751000.0       373083000.0      302675120.0
+Basic Average Shares                                                 NaN       343727000.0       368120000.0      301858400.0
+Diluted EPS                                                          NaN              0.45              3.28         0.292683
+Basic EPS                                                            NaN              0.46              3.33         0.292683
+Diluted NI Availto Com Stockholders                           19347000.0       157290000.0      1224801000.0       86793000.0
+Net Income Common Stockholders                                19347000.0       157290000.0      1224801000.0       86793000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0              0.0
+Net Income                                                    19347000.0       157290000.0      1224801000.0       86793000.0
+Minority Interests                                            -2730000.0         -842000.0      -521126000.0        7389000.0
+Net Income Including Noncontrolling Interests                 22077000.0       158132000.0      1745927000.0       79404000.0
+Net Income Continuous Operations                              22077000.0       158132000.0      1745927000.0       79404000.0
+Tax Provision                                                 44106000.0        92098000.0       233311000.0       49814000.0
+Pretax Income                                                 66183000.0       250230000.0      1979238000.0      129218000.0
+Other Non Operating Income Expenses                          112812000.0       194018000.0      1964528000.0      197088000.0
+Special Income Charges                                        -1930000.0       -17012000.0          102000.0        2540000.0
+Write Off                                                      1930000.0        17012000.0         -102000.0       -2540000.0
+Net Non Operating Interest Income Expense                    -38558000.0       -45159000.0       -52312000.0      -68708000.0
+Interest Expense Non Operating                                51893000.0        50848000.0        54928000.0       73314000.0
+Interest Income Non Operating                                 13335000.0         5689000.0         2616000.0        4606000.0
+Operating Income                                              -5608000.0       119545000.0        66573000.0       -2355000.0
+Operating Expense                                           1205774000.0      1189110000.0      1290794000.0     1257141000.0
+Research And Development                                     109058000.0       111059000.0       131188000.0      136010000.0
+Selling General And Administration                          1096716000.0      1078051000.0      1159606000.0     1121131000.0
+Selling And Marketing Expense                                718778000.0       725026000.0       744637000.0      715884000.0
+General And Administrative Expense                           377938000.0       353025000.0       414969000.0      405247000.0
+Gross Profit                                                1200166000.0      1308655000.0      1357367000.0     1254786000.0
+Cost Of Revenue                                             3670621000.0      3695789000.0      3955952000.0     3847421000.0
+Total Revenue                                               4870787000.0      5004444000.0      5313319000.0     5102207000.0
+Operating Revenue                                           4870787000.0      5004444000.0      5313319000.0     5102207000.0

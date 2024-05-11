@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 308, Bade Road
+address2	13th Floor Section 2
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 8161 7999
+fax	886 2 8161 7959
+website	https://www.ruentex.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Ruentex Industries Ltd. engages in manufacturing, processing, dyeing and finishing, printing, and marketing woven fabrics, garments, knitted fabrics, and woven fabrics. The company operates through Textile, Retail, and Hypermarket segments. The company is also involved in the hypermarket and retail businesses; international trade business; investment business; and construction of housing projects and office buildings, as well as leasing and sale of properties. Ruentex Industries Ltd. is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Chang  Hsu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu-Yen  Chang', 'title': 'VP of Financial Management Department & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jian-Hua  Huang', 'title': 'Vice President of Information Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tien-Chien  Lee', 'title': 'VP of the Fund Management Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alpha  Huang', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	61.9
+open	62.5
+dayLow	61.9
+dayHigh	63.4
+regularMarketPreviousClose	61.9
+regularMarketOpen	62.5
+regularMarketDayLow	61.9
+regularMarketDayHigh	63.4
+dividendRate	2.0
+dividendYield	0.031600002
+exDividendDate	1691625600	 (2023-08-10 08:00:00)
+payoutRatio	0.2786
+fiveYearAvgDividendYield	5.79
+beta	0.429
+trailingPE	8.816156
+forwardPE	7.5990396
+volume	5926342
+regularMarketVolume	5926342
+averageVolume	3039161
+averageVolume10days	6026907
+averageDailyVolume10Day	6026907
+bid	63.2
+ask	63.3
+marketCap	67587305472
+fiftyTwoWeekLow	53.2
+fiftyTwoWeekHigh	65.5
+priceToSalesTrailing12Months	25.213123
+fiftyDayAverage	60.068
+twoHundredDayAverage	60.669
+trailingAnnualDividendRate	2.5
+trailingAnnualDividendYield	0.04038772
+currency	TWD
+enterpriseValue	77471178752
+profitMargins	2.7977
+floatShares	575557368
+sharesOutstanding	1067729984
+heldPercentInsiders	0.47759
+heldPercentInstitutions	0.04907
+impliedSharesOutstanding	1067729984
+bookValue	89.961
+priceToBook	0.70363826
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	7499619840
+trailingEps	7.18
+forwardEps	8.33
+lastSplitFactor	1300:1000
+lastSplitDate	1633305600	 (2021-10-04 08:00:00)
+enterpriseToRevenue	28.9
+enterpriseToEbitda	679.792
+52WeekChange	0.1572212
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1691625600	 (2023-08-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2915.TW
+underlyingSymbol	2915.TW
+shortName	RUENTEX INDUSTRIES
+longName	Ruentex Industries Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3e9b681e-e058-3988-a332-28c6e8564cd9
+messageBoardId	finmb_9829319
+gmtOffSetMilliseconds	28800000
+currentPrice	63.3
+recommendationKey	none
+totalCash	7279181824
+totalCashPerShare	6.817
+ebitda	113963000
+totalDebt	15096879104
+quickRatio	3.977
+currentRatio	4.261
+totalRevenue	2680640000
+debtToEquity	15.386
+revenuePerShare	2.568
+returnOnAssets	0.00037999998
+returnOnEquity	0.083979994
+freeCashflow	-630636992
+operatingCashflow	-257572992
+revenueGrowth	-0.131
+grossMargins	0.34932
+ebitdaMargins	0.04251
+operatingMargins	-0.0053899996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                      11508.527498       -40787.587847        25399.879448     -107842.967116
+Tax Rate For Calcs                                                   0.011755            0.078741             0.01531           0.143791
+Normalized EBITDA                                                8054978000.0       13578848000.0       18110647000.0       9896094000.0
+Total Unusual Items                                                  979000.0           -518000.0           1659000.0          -750000.0
+Total Unusual Items Excluding Goodwill                               979000.0           -518000.0           1659000.0          -750000.0
+Net Income From Continuing Operation Net Minority Interest       7499620000.0       12168391000.0       17339265000.0       7908311000.0
+Reconciled Depreciation                                           101451000.0         104689000.0         102061000.0        109238000.0
+Reconciled Cost Of Revenue                                       1744227000.0        1893232000.0        1739534000.0       1760674000.0
+EBITDA                                                           8055957000.0       13578330000.0       18112306000.0       9895344000.0
+EBIT                                                             7954506000.0       13473641000.0       18010245000.0       9786106000.0
+Net Interest Income                                               259237000.0        -158981000.0        -288622000.0       -147836000.0
+Interest Expense                                                  289597000.0         379442000.0         326658000.0        335907000.0
+Interest Income                                                   548834000.0         220461000.0          38036000.0        188071000.0
+Normalized Income                                           7498652508.527498  12168868212.412153  17337631399.879448  7908953157.032884
+Net Income From Continuing And Discontinued Operation            7499620000.0       12168391000.0       17339265000.0       7908311000.0
+Total Expenses                                                   2615811000.0        2817500000.0        2648252000.0       2683379000.0
+Diluted Average Shares                                                    NaN         783440000.0         712108000.0        712006403.0
+Basic Average Shares                                                      NaN         782685000.0         711490000.0        711490439.0
+Diluted EPS                                                               NaN               15.53               25.03          11.110935
+Basic EPS                                                                 NaN               15.55               25.05          11.110935
+Diluted NI Availto Com Stockholders                              7499620000.0       12168391000.0       17339265000.0       7908311000.0
+Net Income Common Stockholders                                   7499620000.0       12168391000.0       17339265000.0       7908311000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                 0.0                0.0
+Net Income                                                       7499620000.0       12168391000.0       17339265000.0       7908311000.0
+Minority Interests                                                -75185000.0         105236000.0         -73580000.0       -183038000.0
+Net Income Including Noncontrolling Interests                    7574805000.0       12063155000.0       17412845000.0       8091349000.0
+Net Income Continuous Operations                                 7574805000.0       12063155000.0       17412845000.0       8091349000.0
+Tax Provision                                                      90104000.0        1031044000.0         270742000.0       1358850000.0
+Pretax Income                                                    7664909000.0       13094199000.0       17683587000.0       9450199000.0
+Other Non Operating Income Expenses                               978188000.0        4546352000.0        1494896000.0        104212000.0
+Special Income Charges                                               979000.0           -518000.0           1659000.0          -750000.0
+Write Off                                                           -979000.0            518000.0          -1659000.0           750000.0
+Net Non Operating Interest Income Expense                         259237000.0        -158981000.0        -288622000.0       -147836000.0
+Interest Expense Non Operating                                    289597000.0         379442000.0         326658000.0        335907000.0
+Interest Income Non Operating                                     548834000.0         220461000.0          38036000.0        188071000.0
+Operating Income                                                   64829000.0          56695000.0          47729000.0         53015000.0
+Operating Expense                                                 871584000.0         924268000.0         908718000.0        922705000.0
+Selling General And Administration                                871584000.0         924268000.0         908718000.0        922705000.0
+Selling And Marketing Expense                                     605889000.0         603529000.0         629155000.0        637285000.0
+General And Administrative Expense                                265695000.0         320739000.0         279563000.0        285420000.0
+Gross Profit                                                      936413000.0         980963000.0         956447000.0        975720000.0
+Cost Of Revenue                                                  1744227000.0        1893232000.0        1739534000.0       1760674000.0
+Total Revenue                                                    2680640000.0        2874195000.0        2695981000.0       2736394000.0
+Operating Revenue                                                2680640000.0        2874195000.0        2695981000.0       2736394000.0

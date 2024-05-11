@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 88, Zhongshan N. Rd.
+address2	5th Floor Sec. 6 Shilin Dist.
+city	Taipei
+zip	111032
+country	Taiwan
+phone	886 2 2837 6866
+fax	886 2 2832 0866
+website	https://www.anderson.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Anderson Industrial Corporation designs, manufactures, and sells computer numerical control (CNC) machineries in Taiwan, China, the United States, Germany, Brazil, Australia, and internationally. The company operates through Machinery and Wood Panels segments. It provides single and multi-spindle circuit boards; and spindles for use in milling, engraving, mold processing, 3C glass panel processing, high-speed grinding, PCB industry, and advanced materials processing applications. The company also offers CNC routers, MATEC, metal cutting machines, PCB routing and tool grinding machines, CNC Akut-series, CNC Laskut-series, and print and graphic machines for aerospace, automotive, composites material, marine, railway, wood, metal working, and other industries. In addition, it provides tooling products, precision machineries, lumber and wood panels, and building materials, as well as repair and hardware installation services. Further, the company engages in general investing activities and manufacture and sale of woodworking machineries. The company also imports and exports its products. Anderson Industrial Corporation was incorporated in 1972 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mingzhe  Li', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 3086000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-jen  Hsieh', 'age': 75, 'title': 'Founder and Honorary Chairman', 'yearBorn': 1948, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Jun  Huang', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'totalPay': 3586000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Po-Ju  Shih', 'title': 'Chief Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	12.2
+open	12.4
+dayLow	12.15
+dayHigh	12.4
+regularMarketPreviousClose	12.2
+regularMarketOpen	12.4
+regularMarketDayLow	12.15
+regularMarketDayHigh	12.4
+dividendRate	0.1
+dividendYield	0.0082
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.303
+fiveYearAvgDividendYield	1.45
+beta	0.952
+volume	408292
+regularMarketVolume	408292
+averageVolume	2080917
+averageVolume10days	529986
+averageDailyVolume10Day	529986
+bid	12.2
+ask	12.25
+marketCap	2334238208
+fiftyTwoWeekLow	10.7
+fiftyTwoWeekHigh	18.7
+priceToSalesTrailing12Months	0.60112274
+fiftyDayAverage	12.842
+twoHundredDayAverage	12.49425
+trailingAnnualDividendRate	0.1
+trailingAnnualDividendYield	0.008196722
+currency	TWD
+enterpriseValue	3742912256
+profitMargins	-0.00385
+sharesOutstanding	191331008
+heldPercentInsiders	0.38651
+heldPercentInstitutions	0.00214
+impliedSharesOutstanding	194468000
+bookValue	12.533
+priceToBook	0.97343016
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-14954000
+trailingEps	-0.08
+lastSplitFactor	1.04315:1
+lastSplitDate	1347321600	 (2012-09-11 08:00:00)
+enterpriseToRevenue	0.964
+enterpriseToEbitda	41.42
+52WeekChange	0.0748899
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1528.TW
+underlyingSymbol	1528.TW
+shortName	ANDERSON INDUSTRIAL CORP
+longName	Anderson Industrial Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ac758550-24f2-370c-b413-ba39ca8216b3
+messageBoardId	finmb_9870733
+gmtOffSetMilliseconds	28800000
+currentPrice	12.2
+recommendationKey	none
+totalCash	967427008
+totalCashPerShare	5.056
+ebitda	90364000
+totalDebt	2278978048
+quickRatio	0.854
+currentRatio	1.561
+totalRevenue	3883130880
+debtToEquity	91.34
+revenuePerShare	20.295
+returnOnAssets	-0.00121
+returnOnEquity	-0.01191
+freeCashflow	-155243376
+operatingCashflow	-134192000
+revenueGrowth	-0.023
+grossMargins	0.25004
+ebitdaMargins	0.02327
+operatingMargins	-0.018480001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    6481200.0    2621216.255443    1187069.264132  -4379738.176604
+Tax Rate For Calcs                                                   0.2            0.2627          0.211863         0.059872
+Normalized EBITDA                                            156022000.0       357352000.0       421536000.0       89248000.0
+Total Unusual Items                                           32406000.0         9978000.0         5603000.0      -73152000.0
+Total Unusual Items Excluding Goodwill                        32406000.0         9978000.0         5603000.0      -73152000.0
+Net Income From Continuing Operation Net Minority Interest   -14954000.0       155667000.0       218222000.0     -118733000.0
+Reconciled Depreciation                                      139330000.0       121312000.0       116600000.0      107445000.0
+Reconciled Cost Of Revenue                                  2912185000.0      2667473000.0      2659353000.0     2356460000.0
+EBITDA                                                       188428000.0       367330000.0       427139000.0       16096000.0
+EBIT                                                          49098000.0       246018000.0       310539000.0      -91349000.0
+Net Interest Income                                          -35796000.0       -31308000.0       -26339000.0      -30273000.0
+Interest Expense                                              49420000.0        37251000.0        32704000.0       34186000.0
+Interest Income                                               13624000.0         5943000.0         6365000.0        3913000.0
+Normalized Income                                            -40878800.0  148310216.255443  213806069.264132 -49960738.176604
+Net Income From Continuing And Discontinued Operation        -14954000.0       155667000.0       218222000.0     -118733000.0
+Total Expenses                                              3926316000.0      3681353000.0      3522313000.0     3269535000.0
+Diluted Average Shares                                               NaN       191704000.0       191548000.0      193138000.0
+Basic Average Shares                                                 NaN       191331000.0       191331000.0      193138000.0
+Diluted EPS                                                          NaN              0.81              1.14            -0.61
+Basic EPS                                                            NaN              0.81              1.14            -0.61
+Diluted NI Availto Com Stockholders                          -14954000.0       155667000.0       218222000.0     -118733000.0
+Net Income Common Stockholders                               -14954000.0       155667000.0       218222000.0     -118733000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0              0.0
+Net Income                                                   -14954000.0       155667000.0       218222000.0     -118733000.0
+Minority Interests                                            14793000.0         1743000.0         -750000.0        -714000.0
+Net Income Including Noncontrolling Interests                -29747000.0       153924000.0       218972000.0     -118019000.0
+Net Income Continuous Operations                             -29747000.0       153924000.0       218972000.0     -118019000.0
+Tax Provision                                                 29425000.0        54843000.0        58863000.0       -7516000.0
+Pretax Income                                                  -322000.0       208767000.0       277835000.0     -125535000.0
+Other Non Operating Income Expenses                           50689000.0       125280000.0       239275000.0       40102000.0
+Special Income Charges                                        32406000.0         9978000.0         5603000.0      -73152000.0
+Write Off                                                    -32406000.0        -9978000.0        -5603000.0       73152000.0
+Net Non Operating Interest Income Expense                    -35796000.0       -31308000.0       -26339000.0      -30273000.0
+Interest Expense Non Operating                                49420000.0        37251000.0        32704000.0       34186000.0
+Interest Income Non Operating                                 13624000.0         5943000.0         6365000.0        3913000.0
+Operating Income                                             -43185000.0       107765000.0        65293000.0      -58589000.0
+Operating Expense                                           1014131000.0      1013880000.0       862960000.0      913075000.0
+Research And Development                                      84543000.0        69384000.0        79202000.0       82159000.0
+Selling General And Administration                           929588000.0       944496000.0       783758000.0      830916000.0
+Selling And Marketing Expense                                465832000.0       509698000.0       453476000.0      421350000.0
+General And Administrative Expense                           463756000.0       434798000.0       330282000.0      409566000.0
+Gross Profit                                                 970946000.0      1121645000.0       928253000.0      854486000.0
+Cost Of Revenue                                             2912185000.0      2667473000.0      2659353000.0     2356460000.0
+Total Revenue                                               3883131000.0      3789118000.0      3587606000.0     3210946000.0
+Operating Revenue                                           3883131000.0      3789118000.0      3587606000.0     3210946000.0

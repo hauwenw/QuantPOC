@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No.51, Haishan Central Street
+address2	Luzhu District
+city	Taoyuan City
+zip	33856
+country	Taiwan
+phone	886 3 354 3900
+fax	886 3 354 2858
+website	https://www.sunrace.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Sun Race Sturmey-Archer Corporation provides bicycle components worldwide. Its products include shifters, front and rear derailleurs, cranksets, cassettes, freewheels, chains, chainrings, hubs, bottom bracket axles, and brakes; brake pad and shoes; and spare parts. The company was formerly known as Roots Enterprise Co., Ltd. and changed its name to Sun Race Sturmey-Archer Inc. in 2001. Sun Race Sturmey-Archer Corporation was founded in 1902 and is based in Taoyuan City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	34.2
+open	34.05
+dayLow	34.05
+dayHigh	34.8
+regularMarketPreviousClose	34.2
+regularMarketOpen	34.05
+regularMarketDayLow	34.05
+regularMarketDayHigh	34.8
+dividendRate	2.2
+dividendYield	0.0634
+exDividendDate	1701216000	 (2023-11-29 08:00:00)
+payoutRatio	2.8947
+fiveYearAvgDividendYield	5.15
+beta	0.598
+volume	209023
+regularMarketVolume	209023
+averageVolume	355413
+averageVolume10days	145305
+averageDailyVolume10Day	145305
+bid	34.65
+ask	34.7
+marketCap	2082000000
+fiftyTwoWeekLow	29.3
+fiftyTwoWeekHigh	42.1
+priceToSalesTrailing12Months	2.0921216
+fiftyDayAverage	33.761
+twoHundredDayAverage	33.46675
+currency	TWD
+enterpriseValue	2703700992
+profitMargins	0.04572
+sharesOutstanding	60000000
+heldPercentInsiders	0.38509998
+heldPercentInstitutions	0.00558
+impliedSharesOutstanding	60000000
+bookValue	23.269
+priceToBook	1.4912546
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	45501000
+trailingEps	-0.06
+lastSplitFactor	0.794951:1
+lastSplitDate	1285891200	 (2010-10-01 08:00:00)
+enterpriseToRevenue	2.717
+enterpriseToEbitda	25.914
+52WeekChange	-0.12923461
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1701216000	 (2023-11-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1526.TW
+underlyingSymbol	1526.TW
+shortName	SUN RACE STURMEY-ARCHER INC
+longName	Sun Race Sturmey-Archer Corporation
+firstTradeDateEpochUtc	954205200	 (2000-03-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d7665316-ce87-3e5b-bac4-a318c8f3cb07
+messageBoardId	finmb_9917193
+gmtOffSetMilliseconds	28800000
+currentPrice	34.7
+recommendationKey	none
+totalCash	342695008
+totalCashPerShare	5.712
+ebitda	104333000
+totalDebt	964396032
+quickRatio	0.988
+currentRatio	4.423
+totalRevenue	995161984
+debtToEquity	69.075
+revenuePerShare	16.586
+returnOnAssets	0.0068800002
+returnOnEquity	0.032190003
+freeCashflow	-334659872
+operatingCashflow	-163863008
+revenueGrowth	-0.702
+grossMargins	0.28851998
+ebitdaMargins	0.10484
+operatingMargins	-0.2314
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                         0.0    -452856.023152           0.0           0.0
+Tax Rate For Calcs                                              0.26839          0.217615      0.199704      0.194215
+Normalized EBITDA                                           162283000.0       583308000.0   391591000.0   267885000.0
+Total Unusual Items                                                 0.0        -2081000.0           0.0           NaN
+Total Unusual Items Excluding Goodwill                              0.0        -2081000.0           0.0           NaN
+Net Income From Continuing Operation Net Minority Interest   45501000.0       386604000.0   262947000.0   178317000.0
+Reconciled Depreciation                                      80814000.0        77262000.0    59667000.0    43655000.0
+Reconciled Cost Of Revenue                                  708034000.0      1439286000.0  1345386000.0   965375000.0
+EBITDA                                                      162283000.0       581227000.0   391591000.0   267885000.0
+EBIT                                                         81469000.0       503965000.0   331924000.0   224230000.0
+Net Interest Income                                         -13501000.0        -8079000.0    -2991000.0    -2411000.0
+Interest Expense                                             19276000.0         9830000.0     3362000.0     2934000.0
+Interest Income                                               5775000.0         1751000.0      371000.0      523000.0
+Normalized Income                                            45501000.0  388232143.976848   262947000.0   178317000.0
+Net Income From Continuing And Discontinued Operation        45501000.0       386604000.0   262947000.0   178317000.0
+Total Expenses                                              964481000.0      1735064000.0  1547715000.0  1114385000.0
+Diluted Average Shares                                              NaN        60160000.0    60111000.0    60062000.0
+Basic Average Shares                                                NaN        60000000.0    60000000.0    60000000.0
+Diluted EPS                                                         NaN              6.43          4.37          2.97
+Basic EPS                                                           NaN              6.44          4.38          2.97
+Diluted NI Availto Com Stockholders                          45501000.0       386604000.0   262947000.0   178317000.0
+Net Income Common Stockholders                               45501000.0       386604000.0   262947000.0   178317000.0
+Otherunder Preferred Stock Dividend                                 0.0               0.0           0.0           0.0
+Net Income                                                   45501000.0       386604000.0   262947000.0   178317000.0
+Net Income Including Noncontrolling Interests                45501000.0       386604000.0   262947000.0   178317000.0
+Net Income Continuous Operations                             45501000.0       386604000.0   262947000.0   178317000.0
+Tax Provision                                                16692000.0       107531000.0    65615000.0    42979000.0
+Pretax Income                                                62193000.0       494135000.0   328562000.0   221296000.0
+Other Non Operating Income Expenses                          45013000.0        42242000.0    -8261000.0    91443000.0
+Special Income Charges                                              0.0        -2081000.0           0.0           NaN
+Write Off                                                           0.0         2081000.0           0.0           NaN
+Net Non Operating Interest Income Expense                   -13501000.0        -8079000.0    -2991000.0    -2411000.0
+Interest Expense Non Operating                               19276000.0         9830000.0     3362000.0     2934000.0
+Interest Income Non Operating                                 5775000.0         1751000.0      371000.0      523000.0
+Operating Income                                             30681000.0       462053000.0   339814000.0   132264000.0
+Operating Expense                                           256447000.0       295778000.0   202329000.0   149010000.0
+Research And Development                                     19144000.0        24879000.0    25731000.0    21543000.0
+Selling General And Administration                          237303000.0       270899000.0   176598000.0   127467000.0
+Selling And Marketing Expense                                89010000.0       110095000.0    74013000.0    35439000.0
+General And Administrative Expense                          148293000.0       160804000.0   102585000.0    92028000.0
+Gross Profit                                                287128000.0       757831000.0   542143000.0   281274000.0
+Cost Of Revenue                                             708034000.0      1439286000.0  1345386000.0   965375000.0
+Total Revenue                                               995162000.0      2197117000.0  1887529000.0  1246649000.0
+Operating Revenue                                           995162000.0      2197117000.0  1887529000.0  1246649000.0

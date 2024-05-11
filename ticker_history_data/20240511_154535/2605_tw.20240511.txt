@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	No. 368, Fuxing South Road
+address2	14th Floor Sec. 1 Da¡¦an District
+city	Taipei
+zip	10656
+country	Taiwan
+phone	886 2 2703 7055
+fax	886 2 2700 3374
+website	https://www.snc.com.tw
+industry	Marine Shipping
+industryKey	marine-shipping
+industryDisp	Marine Shipping
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Sincere Navigation Corporation, a shipping transportation company, owns and operates bulk cargo vessels in Taiwan. Its fleet includes dry bulk carriers, tankers, and woodchip carriers. It serves coal and iron ore miner, steel, energy, and paper industries. The company was founded in 1960 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jigao  Xu', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lan-Fang  Chen', 'age': 58, 'title': 'Senior Manager of Finance & Accounting, Corporate Governance Officer and  Financial Supervisor', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sung-Hui  Kuo', 'age': 48, 'title': 'Manager of Operation Department', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen Pin  Luan', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.snc.com.tw/news.html
+maxAge	86400
+priceHint	2
+previousClose	26.85
+open	27.0
+dayLow	26.35
+dayHigh	27.9
+regularMarketPreviousClose	26.85
+regularMarketOpen	27.0
+regularMarketDayLow	26.35
+regularMarketDayHigh	27.9
+dividendRate	0.5
+dividendYield	0.0182
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.4425
+fiveYearAvgDividendYield	4.33
+beta	1.026
+trailingPE	24.292036
+forwardPE	13.522168
+volume	37760595
+regularMarketVolume	37760595
+averageVolume	12056885
+averageVolume10days	21415858
+averageDailyVolume10Day	21415858
+bid	27.4
+ask	27.45
+marketCap	16067941376
+fiftyTwoWeekLow	18.1
+fiftyTwoWeekHigh	29.75
+priceToSalesTrailing12Months	3.79868
+fiftyDayAverage	25.658
+twoHundredDayAverage	23.67125
+trailingAnnualDividendRate	0.75
+trailingAnnualDividendYield	0.02793296
+currency	TWD
+enterpriseValue	18429003776
+profitMargins	0.10504
+floatShares	437615978
+sharesOutstanding	585353024
+heldPercentInsiders	0.25135002
+heldPercentInstitutions	0.04393
+impliedSharesOutstanding	585353024
+bookValue	27.139
+priceToBook	1.0114596
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.533
+netIncomeToCommon	430009984
+trailingEps	1.13
+forwardEps	2.03
+pegRatio	-2.12
+lastSplitFactor	1030:1000
+lastSplitDate	1568937600	 (2019-09-20 08:00:00)
+enterpriseToRevenue	4.357
+enterpriseToEbitda	9.931
+52WeekChange	0.25342464
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2605.TW
+underlyingSymbol	2605.TW
+shortName	SINCERE NAVIGATION CORP
+longName	Sincere Navigation Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c5328233-885e-3750-b0f0-96545b7d6854
+messageBoardId	finmb_4484053
+gmtOffSetMilliseconds	28800000
+currentPrice	27.45
+targetHighPrice	29.0
+targetLowPrice	28.0
+targetMeanPrice	28.5
+targetMedianPrice	28.5
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	2
+totalCash	2267520000
+totalCashPerShare	3.874
+ebitda	1855784960
+totalDebt	4628576256
+quickRatio	0.77
+currentRatio	1.377
+totalRevenue	4229874944
+debtToEquity	29.136
+revenuePerShare	7.226
+returnOnAssets	0.01244
+returnOnEquity	0.03052
+freeCashflow	-887790656
+operatingCashflow	2311023104
+earningsGrowth	-0.541
+revenueGrowth	-0.122
+grossMargins	0.16554001
+ebitdaMargins	0.43873
+operatingMargins	0.0846
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -344016.135723    -1106600.0      -7021.614246           0.0
+Tax Rate For Calcs                                                  0.089962           0.2           0.01472      0.076292
+Normalized EBITDA                                               2173948000.0  1598239000.0      2107147000.0  2237604000.0
+Total Unusual Items                                               -3824000.0    -5533000.0         -477000.0           0.0
+Total Unusual Items Excluding Goodwill                            -3824000.0    -5533000.0         -477000.0           0.0
+Net Income From Continuing Operation Net Minority Interest       430010000.0    95933000.0       619736000.0   576577000.0
+Reconciled Depreciation                                         1435403000.0  1277057000.0      1217907000.0  1331567000.0
+Reconciled Cost Of Revenue                                      3529655000.0  3372328000.0      3004673000.0  2967116000.0
+EBITDA                                                          2170124000.0  1592706000.0      2106670000.0  2237604000.0
+EBIT                                                             734721000.0   315649000.0       888763000.0   906037000.0
+Net Interest Income                                              180572000.0    58096000.0       -42498000.0  -142651000.0
+Interest Expense                                                 175465000.0   116446000.0       103864000.0   158644000.0
+Interest Income                                                  356037000.0   174542000.0        61366000.0    15993000.0
+Normalized Income                                           433489983.864277   100359400.0  620205978.385754   576577000.0
+Net Income From Continuing And Discontinued Operation            444298000.0   197158000.0       704189000.0   141296000.0
+Total Expenses                                                  3800347000.0  3584995000.0      3232589000.0  3153037000.0
+Diluted Average Shares                                                   NaN   585613000.0       585612000.0   585583000.0
+Basic Average Shares                                                     NaN   585353000.0       585353000.0   585353000.0
+Diluted EPS                                                              NaN          0.34               1.2          0.24
+Basic EPS                                                                NaN          0.34               1.2          0.24
+Diluted NI Availto Com Stockholders                              444298000.0   197158000.0       704189000.0   141296000.0
+Net Income Common Stockholders                                   444298000.0   197158000.0       704189000.0   141296000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0           0.0
+Net Income                                                       444298000.0   197158000.0       704189000.0   141296000.0
+Minority Interests                                               -78934000.0  -134796000.0      -153609000.0  -113796000.0
+Net Income Including Noncontrolling Interests                    523232000.0   331954000.0       857798000.0   255092000.0
+Net Income Discontinuous Operations                               14288000.0   101225000.0        84453000.0  -435281000.0
+Net Income Continuous Operations                                 508944000.0   230729000.0       773345000.0   690373000.0
+Tax Provision                                                     50312000.0   -31526000.0        11554000.0    57020000.0
+Pretax Income                                                    559256000.0   199203000.0       784899000.0   747393000.0
+Other Non Operating Income Expenses                              -47020000.0  -238813000.0      -236983000.0   113954000.0
+Special Income Charges                                            -3824000.0    -5533000.0         -477000.0           0.0
+Write Off                                                          3824000.0     5533000.0          477000.0           0.0
+Net Non Operating Interest Income Expense                        180572000.0    58096000.0       -42498000.0  -142651000.0
+Interest Expense Non Operating                                   175465000.0   116446000.0       103864000.0   158644000.0
+Interest Income Non Operating                                    356037000.0   174542000.0        61366000.0    15993000.0
+Operating Income                                                 429528000.0   385453000.0      1064857000.0   776090000.0
+Operating Expense                                                270692000.0   212667000.0       227916000.0   185921000.0
+Other Operating Expenses                                                 NaN           NaN         8403000.0           NaN
+Selling General And Administration                               270692000.0   212667000.0       219513000.0   185921000.0
+General And Administrative Expense                               270692000.0   212667000.0       219513000.0   185921000.0
+Gross Profit                                                     700220000.0   598120000.0      1292773000.0   962011000.0
+Cost Of Revenue                                                 3529655000.0  3372328000.0      3004673000.0  2967116000.0
+Total Revenue                                                   4229875000.0  3970448000.0      4297446000.0  3929127000.0
+Operating Revenue                                               4229875000.0  3970448000.0      4297446000.0  3929127000.0

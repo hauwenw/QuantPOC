@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 209, Building A
+address2	5th Floor Section 1 Nangang Road
+city	Taipei
+zip	11568
+country	Taiwan
+phone	886 2 2785 7888
+fax	886 2 2786 5656
+website	https://en.getacgroup.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Getac Holdings Corporation, together with its subsidiaries, engages in the research, development, manufacture, and sale of various information products in Asia, the United States, Europe, and internationally. The company provides notebooks, printer and its components, DVDs, cell phones, digital cameras, PCBs, personal computers, communication equipment, automobile electronic devices, precision dies, casting/forging raw parts for automobiles and motorcycles, and magnesium alloy castings, as well as engages in the wholesale and retail of data management, software, and e-communication products. It also offers various mechanical solutions, such as engineering design, prototyping and pilot run, tooling, and mass production and assembly services of plastic and metal stamping parts and modules; aluminum alloy and magnesium alloy automotive die-cast parts; aerospace fasteners; designs and manufactures commercial portable global positioning system, electronic parts, mold production equipment, computer chassis and its components; and produces components for airplane and engine use. In addition, the company provides repair and maintenance, and technical services for computers and related products; and sells office equipment and spare parts, and computer and related products. Further, it operates as an agency of domestic/foreign freight transport and import/export declaration, and import/export trade. Its products are used in military and industrial computer system applications. The company was formerly known as Getac Technology Corporation and changed its name to Getac Holdings Corporation in October 2021. Getac Holdings Corporation was incorporated in 1989 and is based in Taipei, Taiwan. Getac Holdings Corporation is a subsidiary of MiTAC-SYNNEX Group.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Hang  Hwang', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sue-Chuan  Hsieh', 'title': 'VP & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Irene  Sun', 'title': 'Corporate Governance Senior Officer & Investor Relations Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chen-Teh  Hwang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wei-Hsing  Sun', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	104.0
+open	104.5
+dayLow	103.0
+dayHigh	105.0
+regularMarketPreviousClose	104.0
+regularMarketOpen	104.5
+regularMarketDayLow	103.0
+regularMarketDayHigh	105.0
+dividendRate	4.99
+dividendYield	0.048299998
+exDividendDate	1711584000	 (2024-03-28 08:00:00)
+payoutRatio	0.6264
+fiveYearAvgDividendYield	6.29
+beta	0.661
+trailingPE	17.135761
+forwardPE	13.441559
+volume	3468002
+regularMarketVolume	3468002
+averageVolume	16827746
+averageVolume10days	4704569
+averageDailyVolume10Day	4704569
+bid	103.5
+ask	104.0
+marketCap	63120302080
+fiftyTwoWeekLow	60.2
+fiftyTwoWeekHigh	161.5
+priceToSalesTrailing12Months	1.8141897
+fiftyDayAverage	121.53
+twoHundredDayAverage	96.916
+trailingAnnualDividendRate	4.994
+trailingAnnualDividendYield	0.04801923
+currency	TWD
+enterpriseValue	55853002752
+profitMargins	0.10762
+floatShares	404732195
+sharesOutstanding	609857984
+heldPercentInsiders	0.36285
+heldPercentInstitutions	0.259
+impliedSharesOutstanding	612790016
+bookValue	35.135
+priceToBook	2.9457808
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.191
+netIncomeToCommon	3744541952
+trailingEps	6.04
+forwardEps	7.7
+lastSplitFactor	104.207:100
+lastSplitDate	1151280000	 (2006-06-26 08:00:00)
+enterpriseToRevenue	1.605
+enterpriseToEbitda	10.98
+52WeekChange	0.7023026
+SandP52WeekChange	0.26265144
+lastDividendValue	4.994091
+lastDividendDate	1711584000	 (2024-03-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3005.TW
+underlyingSymbol	3005.TW
+shortName	GETAC HOLDINGS CORP
+longName	Getac Holdings Corporation
+firstTradeDateEpochUtc	1014685200	 (2002-02-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d6dd0a01-c213-3659-92ad-5044d07f9613
+messageBoardId	finmb_11381710
+gmtOffSetMilliseconds	28800000
+currentPrice	103.5
+targetHighPrice	115.0
+targetLowPrice	72.0
+targetMeanPrice	93.5
+targetMedianPrice	93.5
+recommendationMean	2.8
+recommendationKey	hold
+numberOfAnalystOpinions	2
+totalCash	12403519488
+totalCashPerShare	20.338
+ebitda	5086840832
+totalDebt	2927439872
+quickRatio	1.499
+currentRatio	1.96
+totalRevenue	34792558592
+debtToEquity	12.385
+revenuePerShare	57.299
+returnOnAssets	0.06257
+returnOnEquity	0.17461
+freeCashflow	4062375936
+operatingCashflow	6013727232
+earningsGrowth	-0.201
+revenueGrowth	0.069
+grossMargins	0.27981
+ebitdaMargins	0.1462
+operatingMargins	0.11615
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.196293       0.149499       0.217764       0.176537
+Normalized EBITDA                                            6333614000.0   4477300000.0   6708328000.0   4444825000.0
+Net Income From Continuing Operation Net Minority Interest   3744542000.0   2565168000.0   4273793000.0   2577039000.0
+Reconciled Depreciation                                      1329112000.0   1277381000.0   1215129000.0   1156673000.0
+Reconciled Cost Of Revenue                                  25057128000.0  24213779000.0  22517718000.0  20060915000.0
+EBITDA                                                       6333614000.0   4477300000.0   6708328000.0   4444825000.0
+EBIT                                                         5004502000.0   3199919000.0   5493199000.0   3288152000.0
+Net Interest Income                                           140127000.0      5849000.0     -9807000.0      7060000.0
+Interest Expense                                               80547000.0     46862000.0     43191000.0     47212000.0
+Interest Income                                               220674000.0     52711000.0     33384000.0     54272000.0
+Normalized Income                                            3744542000.0   2565168000.0   4273793000.0   2577039000.0
+Net Income From Continuing And Discontinued Operation        3744542000.0   2565168000.0   4273793000.0   2577039000.0
+Total Expenses                                              30825994000.0  29382350000.0  27471884000.0  24721962000.0
+Diluted Average Shares                                                NaN    606884000.0    604682000.0    597984000.0
+Basic Average Shares                                                  NaN    600581000.0    593259000.0    585029000.0
+Diluted EPS                                                           NaN           4.23           7.06           4.31
+Basic EPS                                                             NaN           4.27            7.2            4.4
+Diluted NI Availto Com Stockholders                          3744542000.0   2565168000.0   4273793000.0   2577039000.0
+Net Income Common Stockholders                               3744542000.0   2565168000.0   4273793000.0   2577039000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   3744542000.0   2565168000.0   4273793000.0   2577039000.0
+Minority Interests                                           -212875000.0   -116509000.0     10601000.0    -91754000.0
+Net Income Including Noncontrolling Interests                3957417000.0   2681677000.0   4263192000.0   2668793000.0
+Net Income Continuous Operations                             3957417000.0   2681677000.0   4263192000.0   2668793000.0
+Tax Provision                                                 966538000.0    471380000.0   1186816000.0    572147000.0
+Pretax Income                                                4923955000.0   3153057000.0   5450008000.0   3240940000.0
+Other Non Operating Income Expenses                           524110000.0    -74380000.0   2777055000.0    142267000.0
+Net Non Operating Interest Income Expense                     140127000.0      5849000.0     -9807000.0      7060000.0
+Interest Expense Non Operating                                 80547000.0     46862000.0     43191000.0     47212000.0
+Interest Income Non Operating                                 220674000.0     52711000.0     33384000.0     54272000.0
+Operating Income                                             3966563000.0   3093783000.0   2612242000.0   3115781000.0
+Operating Expense                                            5768866000.0   5168571000.0   4954166000.0   4661047000.0
+Other Operating Expenses                                              NaN      -434000.0    -30498000.0    -54124000.0
+Research And Development                                     1674404000.0   1487585000.0   1478214000.0   1293643000.0
+Selling General And Administration                           4094462000.0   3680986000.0   3506450000.0   3421528000.0
+Selling And Marketing Expense                                2187930000.0   2117448000.0   1823440000.0   1882897000.0
+General And Administrative Expense                           1906532000.0   1563538000.0   1683010000.0   1538631000.0
+Gross Profit                                                 9735429000.0   8262354000.0   7566408000.0   7776828000.0
+Cost Of Revenue                                             25057128000.0  24213779000.0  22517718000.0  20060915000.0
+Total Revenue                                               34792557000.0  32476133000.0  30084126000.0  27837743000.0
+Operating Revenue                                           34792557000.0  32476133000.0  30084126000.0  27837743000.0

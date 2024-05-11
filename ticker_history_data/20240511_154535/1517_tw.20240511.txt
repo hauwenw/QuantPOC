@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 112, Shipai Road
+address2	Section 1 Shipai Li
+city	Changhua
+zip	500
+country	Taiwan
+phone	886 4 738 2121
+fax	886 4 738 0171
+website	https://www.leechi.com.tw
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Lee Chi Enterprises Company Ltd. manufactures and sells bicycle components and general machinery in Taiwan. Its product portfolio includes brakes, levers, hubs, cables, seat posts, stems, handlebars, spare part accessories, and other products. The company provides its products under the PROMAX brand. Lee Chi Enterprises Company Ltd. was formerly known as Leechi Machinery Industry Ltd. Co. The company was incorporated in 1973 and is headquartered in Changhua City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Yi-Hsien  Lin', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 3405000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Yang  Chu', 'title': 'Associate Director & Representative Director', 'fiscalYear': 2021, 'totalPay': 2579000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fang-Chu  Tsai', 'title': 'Financial Officer & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Cheng  Lee', 'title': 'Manager of Administration Department & Representative Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	16.25
+open	16.2
+dayLow	16.0
+dayHigh	16.25
+regularMarketPreviousClose	16.25
+regularMarketOpen	16.2
+regularMarketDayLow	16.0
+regularMarketDayHigh	16.25
+dividendRate	0.9
+dividendYield	0.0554
+exDividendDate	1694563200	 (2023-09-13 08:00:00)
+payoutRatio	0.7547
+fiveYearAvgDividendYield	2.82
+beta	0.695
+forwardPE	2.4621212
+volume	303750
+regularMarketVolume	303750
+averageVolume	980318
+averageVolume10days	249515
+averageDailyVolume10Day	249515
+bid	16.2
+ask	16.25
+marketCap	3628624896
+fiftyTwoWeekLow	14.15
+fiftyTwoWeekHigh	19.5
+priceToSalesTrailing12Months	1.9174573
+fiftyDayAverage	16.227
+twoHundredDayAverage	15.65875
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.012307692
+currency	TWD
+enterpriseValue	2119810048
+profitMargins	-0.08811
+sharesOutstanding	223300000
+heldPercentInsiders	0.40557998
+heldPercentInstitutions	0.01617
+impliedSharesOutstanding	223300000
+bookValue	16.544
+priceToBook	0.9822292
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-166734000
+trailingEps	-0.78
+forwardEps	6.6
+lastSplitFactor	102.5:100
+lastSplitDate	1126224000	 (2005-09-09 08:00:00)
+enterpriseToRevenue	1.12
+enterpriseToEbitda	-14.167
+52WeekChange	-0.114441395
+SandP52WeekChange	0.26265144
+lastDividendValue	0.9
+lastDividendDate	1694563200	 (2023-09-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1517.TW
+underlyingSymbol	1517.TW
+shortName	LEE CHI ENTERPRISES CO
+longName	Lee Chi Enterprises Company Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5587225c-9820-31bb-9dae-d86f6632f7ad
+messageBoardId	finmb_9845458
+gmtOffSetMilliseconds	28800000
+currentPrice	16.25
+recommendationKey	none
+totalCash	1638343040
+totalCashPerShare	7.337
+ebitda	-149632992
+totalDebt	7766000
+quickRatio	4.548
+currentRatio	6.757
+totalRevenue	1892414976
+debtToEquity	0.204
+revenuePerShare	8.475
+returnOnAssets	-0.0388
+returnOnEquity	-0.03967
+freeCashflow	415376256
+operatingCashflow	435305984
+revenueGrowth	-0.568
+grossMargins	0.02684
+ebitdaMargins	-0.07907
+operatingMargins	-0.26446
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   2467614.330106  -11671126.447621   16529545.308665   17304569.809377
+Tax Rate For Calcs                                                  0.083733          0.206686          0.180196          0.227947
+Normalized EBITDA                                                -36650000.0       933646000.0       681054000.0       231000000.0
+Total Unusual Items                                               29470000.0       -56468000.0        91731000.0        75915000.0
+Total Unusual Items Excluding Goodwill                            29470000.0       -56468000.0        91731000.0        75915000.0
+Net Income From Continuing Operation Net Minority Interest      -166734000.0       568713000.0       447359000.0       169303000.0
+Reconciled Depreciation                                          165367000.0       176980000.0       169969000.0       169483000.0
+Reconciled Cost Of Revenue                                      1841625000.0      4079617000.0      3965720000.0      2863070000.0
+EBITDA                                                            -7180000.0       877178000.0       772785000.0       306915000.0
+EBIT                                                            -172547000.0       700198000.0       602816000.0       137432000.0
+Net Interest Income                                               30809000.0         7771000.0         8661000.0        12630000.0
+Interest Expense                                                    264000.0          343000.0          205000.0               NaN
+Interest Income                                                   31073000.0         8114000.0         8866000.0        12630000.0
+Normalized Income                                          -193736385.669894  613509873.552379  372157545.308665  110692569.809377
+Net Income From Continuing And Discontinued Operation           -166734000.0       568713000.0       447359000.0       169303000.0
+Total Expenses                                                  2203344000.0      4487566000.0      4414257000.0      3246487000.0
+Diluted Average Shares                                                   NaN       224744000.0       224229000.0       224712000.0
+Basic Average Shares                                                     NaN       223300000.0       223300000.0       224110000.0
+Diluted EPS                                                              NaN              2.53               2.0              0.75
+Basic EPS                                                                NaN              2.55               2.0              0.76
+Diluted NI Availto Com Stockholders                             -166734000.0       568713000.0       447359000.0       169303000.0
+Net Income Common Stockholders                                  -166734000.0       568713000.0       447359000.0       169303000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                      -166734000.0       568713000.0       447359000.0       169303000.0
+Minority Interests                                                -8393000.0        13508000.0       -46664000.0       -33002000.0
+Net Income Including Noncontrolling Interests                   -158341000.0       555205000.0       494023000.0       202305000.0
+Net Income Continuous Operations                                -158341000.0       555205000.0       494023000.0       202305000.0
+Tax Provision                                                    -14470000.0       144650000.0       108588000.0        59730000.0
+Pretax Income                                                   -172811000.0       699855000.0       602611000.0       262035000.0
+Other Non Operating Income Expenses                               52147000.0        25883000.0        75698000.0        65507000.0
+Special Income Charges                                             2419000.0          957000.0       -10163000.0        -2369000.0
+Other Special Charges                                                    NaN               NaN         -541000.0         1782000.0
+Write Off                                                         -2419000.0         -957000.0        10163000.0          587000.0
+Net Non Operating Interest Income Expense                         30809000.0         7771000.0         8661000.0        12630000.0
+Interest Expense Non Operating                                      264000.0          343000.0          205000.0               NaN
+Interest Income Non Operating                                     31073000.0         8114000.0         8866000.0        12630000.0
+Operating Income                                                -310929000.0       596998000.0       465696000.0       137432000.0
+Operating Expense                                                361719000.0       407949000.0       448537000.0       383417000.0
+Research And Development                                          76819000.0        69088000.0        72430000.0        68817000.0
+Selling General And Administration                               284900000.0       338861000.0       376107000.0       314600000.0
+Selling And Marketing Expense                                    122773000.0       156096000.0       161382000.0       125741000.0
+General And Administrative Expense                               162127000.0       182765000.0       214725000.0       188859000.0
+Gross Profit                                                      50790000.0      1004947000.0       914233000.0       520849000.0
+Cost Of Revenue                                                 1841625000.0      4079617000.0      3965720000.0      2863070000.0
+Total Revenue                                                   1892415000.0      5084564000.0      4879953000.0      3383919000.0
+Operating Revenue                                               1892415000.0      5084564000.0      4879953000.0      3383919000.0

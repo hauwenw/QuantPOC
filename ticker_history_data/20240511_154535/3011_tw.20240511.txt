@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No.53, Baoxing Road
+address2	Xindian District
+city	New Taipei City
+zip	23145
+country	Taiwan
+phone	886 2 2918 9189
+fax	886 2 2918 9188
+website	https://www.jh.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ji-Haw Industrial Co.,Ltd. engages in the manufacturing and sale of precision electric ports and sockets, connectors, electric wires and cables, electronics components, and other industrial and commercial services in Taiwan, China, and Thailand. The company offers AI system design, modular products, and complete system sales services across all fields, including smart car systems, security, healthcare, retail, and factory. It also engages in the production of computer, computer peripheral, and communication connection cables. In addition, the company provides electronic internal and external, audio and video, and LVDS transmission cables, as well as signal adapter, FFC flexible flat, and automotive specialty cables. Further, it offers automotive onboard products, such as door, reversing radar, reversing image wiring, seat heating, motor wiring, and gear shift harness. The company was incorporated in 1983 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Wu  Jiaxin', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lin  Jess', 'title': 'Interim President & COO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhu  Meizhen', 'title': 'Manager of The Finance and Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	31.45
+open	32.0
+dayLow	30.65
+dayHigh	32.0
+regularMarketPreviousClose	31.45
+regularMarketOpen	32.0
+regularMarketDayLow	30.65
+regularMarketDayHigh	32.0
+exDividendDate	1375056000	 (2013-07-29 08:00:00)
+fiveYearAvgDividendYield	2.53
+beta	0.641
+volume	1053685
+regularMarketVolume	1053685
+averageVolume	771878
+averageVolume10days	790364
+averageDailyVolume10Day	790364
+bid	30.95
+ask	31.0
+marketCap	3494288896
+fiftyTwoWeekLow	26.1
+fiftyTwoWeekHigh	43.1
+priceToSalesTrailing12Months	3.0366926
+fiftyDayAverage	30.49
+twoHundredDayAverage	34.221
+currency	TWD
+enterpriseValue	3573477120
+profitMargins	-0.11419
+floatShares	112651369
+sharesOutstanding	112719000
+heldPercentInsiders	0.17091
+heldPercentInstitutions	0.0018600001
+impliedSharesOutstanding	113863000
+bookValue	7.792
+priceToBook	3.9784396
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-131396000
+trailingEps	-1.17
+lastSplitFactor	104:100
+lastSplitDate	1185753600	 (2007-07-30 08:00:00)
+enterpriseToRevenue	3.106
+enterpriseToEbitda	-28.77
+52WeekChange	0.09929073
+SandP52WeekChange	0.26265144
+lastDividendValue	0.065369
+lastDividendDate	1375056000	 (2013-07-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3011.TW
+underlyingSymbol	3011.TW
+shortName	JI-HAW INDUSTRIAL CO
+longName	Ji-Haw Industrial Co.,Ltd.
+firstTradeDateEpochUtc	1027386000	 (2002-07-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d2c7cc9a-070d-38e0-83e2-580dc53ab079
+messageBoardId	finmb_9897214
+gmtOffSetMilliseconds	28800000
+currentPrice	31.0
+recommendationKey	none
+totalCash	313980992
+totalCashPerShare	2.786
+ebitda	-124210000
+totalDebt	393168992
+quickRatio	1.045
+currentRatio	1.445
+totalRevenue	1150689024
+debtToEquity	44.767
+revenuePerShare	10.208
+returnOnAssets	-0.05849
+returnOnEquity	-0.13844
+freeCashflow	-211691632
+operatingCashflow	-20394000
+revenueGrowth	-0.012
+grossMargins	0.124689996
+ebitdaMargins	-0.107939996
+operatingMargins	-0.24304001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -2787470.027387      897000.0   1403855.534672   -244306.114286
+Tax Rate For Calcs                                                  0.253406           0.2         0.263734         0.095656
+Normalized EBITDA                                               -123947000.0    78565000.0      136342000.0      -60179000.0
+Total Unusual Items                                              -11000000.0     4485000.0        5323000.0       -2554000.0
+Total Unusual Items Excluding Goodwill                           -11000000.0     4485000.0        5323000.0       -2554000.0
+Net Income From Continuing Operation Net Minority Interest      -131396000.0   -13486000.0       75214000.0     -101745000.0
+Reconciled Depreciation                                           36031000.0    35171000.0       34734000.0       45482000.0
+Reconciled Cost Of Revenue                                      1007204000.0  1306737000.0     1452643000.0     1102646000.0
+EBITDA                                                          -134947000.0    83050000.0      141665000.0      -62733000.0
+EBIT                                                            -170978000.0    47879000.0      106931000.0     -108215000.0
+Net Interest Income                                                -516000.0    -1514000.0       -2833000.0       -2361000.0
+Interest Expense                                                   5016000.0     4447000.0        4775000.0        4292000.0
+Interest Income                                                    4500000.0     2933000.0        1942000.0        1931000.0
+Normalized Income                                          -123183470.027387   -17074000.0  71294855.534672 -99435306.114286
+Net Income From Continuing And Discontinued Operation           -131396000.0   -13486000.0       66929000.0      -90140000.0
+Total Expenses                                                  1295954000.0  1530009000.0     1669044000.0     1309304000.0
+Diluted Average Shares                                                   NaN   112719000.0      112719000.0      112675000.0
+Basic Average Shares                                                     NaN   112719000.0      112719000.0      112675000.0
+Diluted EPS                                                              NaN         -0.12             0.59             -0.8
+Basic EPS                                                                NaN         -0.12             0.59             -0.8
+Diluted NI Availto Com Stockholders                             -131396000.0   -13486000.0       66929000.0      -90140000.0
+Net Income Common Stockholders                                  -131396000.0   -13486000.0       66929000.0      -90140000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0              0.0              0.0
+Net Income                                                      -131396000.0   -13486000.0       66929000.0      -90140000.0
+Minority Interests                                                       NaN           NaN              NaN              0.0
+Net Income Including Noncontrolling Interests                   -131396000.0   -13486000.0       66929000.0      -90140000.0
+Net Income Discontinuous Operations                                      NaN           0.0       -8285000.0       11605000.0
+Net Income Continuous Operations                                -131396000.0   -13486000.0       75214000.0     -101745000.0
+Tax Provision                                                    -44598000.0    56918000.0       26942000.0      -10762000.0
+Pretax Income                                                   -175994000.0    43432000.0      102156000.0     -112507000.0
+Other Non Operating Income Expenses                               -1494000.0    72988000.0      193802000.0       -2079000.0
+Special Income Charges                                           -11000000.0     4485000.0        5323000.0       -2554000.0
+Write Off                                                         11000000.0    -4485000.0       -5323000.0        2554000.0
+Net Non Operating Interest Income Expense                          -516000.0    -1514000.0       -2833000.0       -2361000.0
+Interest Expense Non Operating                                     5016000.0     4447000.0        4775000.0        4292000.0
+Interest Income Non Operating                                      4500000.0     2933000.0        1942000.0        1931000.0
+Operating Income                                                -145265000.0   -32531000.0      -94297000.0     -104383000.0
+Operating Expense                                                288750000.0   223272000.0      216401000.0      206658000.0
+Research And Development                                          60855000.0    50610000.0       51273000.0       47994000.0
+Selling General And Administration                               227895000.0   172662000.0      165128000.0      158664000.0
+Selling And Marketing Expense                                     76411000.0    58822000.0       70872000.0       71934000.0
+General And Administrative Expense                               151484000.0   113840000.0       94256000.0       86730000.0
+Gross Profit                                                     143485000.0   190741000.0      122104000.0      102275000.0
+Cost Of Revenue                                                 1007204000.0  1306737000.0     1452643000.0     1102646000.0
+Total Revenue                                                   1150689000.0  1497478000.0     1574747000.0     1204921000.0
+Operating Revenue                                               1150689000.0  1497478000.0     1574747000.0     1204921000.0

@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.308, Bade Road
+address2	10th Floor Section 2 Zhongshan District
+city	Taipei
+zip	10492
+country	Taiwan
+phone	886 2 8161 9999
+fax	886 2 8161 9968
+website	https://www.rtc.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Ruentex Engineering & Construction Co., Ltd. engages in the construction and civil engineering contracting business in Taiwan. The company offers electrical and mechanical engineering, water supply engineering, and refrigeration and air-conditioning engineering services, as well as clay used for wall primer, powder coating material, tile adhesive, self-leveling cement, and dry-mixed cement mortar applications. It is also involved in the manufacture and sale of beams, columns, floor slabs, exterior walls, and building structural components; import, distribution, and export of building materials and equipment; and interior decoration and garden greening design and construction business. The company was founded in 1975 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Weihan  Mo', 'title': 'General Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chao-Cheng  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Chun  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuo-Feng  Lin', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Xian  Wu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chuan-Yeh  Chuang', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	167.5
+open	168.5
+dayLow	168.0
+dayHigh	171.0
+regularMarketPreviousClose	167.5
+regularMarketOpen	168.5
+regularMarketDayLow	168.0
+regularMarketDayHigh	171.0
+dividendRate	10.0
+dividendYield	0.0588
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	0.97370005
+fiveYearAvgDividendYield	6.79
+beta	0.567
+trailingPE	16.553066
+volume	414604
+regularMarketVolume	414604
+averageVolume	632079
+averageVolume10days	718864
+averageDailyVolume10Day	718864
+bid	169.5
+ask	170.0
+marketCap	31441500160
+fiftyTwoWeekLow	97.8
+fiftyTwoWeekHigh	187.5
+priceToSalesTrailing12Months	1.4078938
+fiftyDayAverage	156.27
+twoHundredDayAverage	120.1585
+trailingAnnualDividendRate	5.4
+trailingAnnualDividendYield	0.032238808
+currency	TWD
+enterpriseValue	38530641920
+profitMargins	0.08518
+floatShares	53372871
+sharesOutstanding	184950000
+heldPercentInsiders	0.73857003
+heldPercentInstitutions	0.00603
+impliedSharesOutstanding	195428992
+bookValue	34.978
+priceToBook	4.8601975
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.267
+netIncomeToCommon	1902200960
+trailingEps	10.27
+lastSplitFactor	1370:1000
+lastSplitDate	1630368000	 (2021-08-31 08:00:00)
+enterpriseToRevenue	1.725
+enterpriseToEbitda	13.9
+52WeekChange	0.4912281
+SandP52WeekChange	0.26265144
+lastDividendValue	10.0
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2597.TW
+underlyingSymbol	2597.TW
+shortName	RUENTEX ENGINEERING & CONST. CO
+longName	Ruentex Engineering & Construction Co., Ltd.
+firstTradeDateEpochUtc	1269565200	 (2010-03-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f8f0554f-457b-30d6-b97a-255ea43d0870
+messageBoardId	finmb_23048493
+gmtOffSetMilliseconds	28800000
+currentPrice	170.0
+recommendationKey	none
+totalCash	912361984
+totalCashPerShare	4.933
+ebitda	2771892992
+totalDebt	6392286208
+quickRatio	1.18
+currentRatio	1.381
+totalRevenue	22332295168
+debtToEquity	79.127
+revenuePerShare	120.748
+returnOnAssets	0.06925
+returnOnEquity	0.25231
+freeCashflow	1166768128
+operatingCashflow	2183639040
+earningsGrowth	0.262
+revenueGrowth	-0.1
+grossMargins	0.15506
+ebitdaMargins	0.12412
+operatingMargins	0.14850001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -693062.385268       18996.297601       96255.532938     -303739.596334
+Tax Rate For Calcs                                                   0.187924           0.189963            0.19765           0.186802
+Normalized EBITDA                                                3055971000.0       3071302000.0       2590803000.0       1626946000.0
+Total Unusual Items                                                -3688000.0           100000.0           487000.0         -1626000.0
+Total Unusual Items Excluding Goodwill                             -3688000.0           100000.0           487000.0         -1626000.0
+Net Income From Continuing Operation Net Minority Interest       1902201000.0       2060529000.0       1842218000.0       1009976000.0
+Reconciled Depreciation                                           424469000.0        377601000.0        338854000.0        263939000.0
+Reconciled Cost Of Revenue                                      19039748000.0      21194815000.0      18061063000.0      12508172000.0
+EBITDA                                                           3052283000.0       3071402000.0       2591290000.0       1625320000.0
+EBIT                                                             2627814000.0       2693801000.0       2252436000.0       1361381000.0
+Net Interest Income                                               -88827000.0        -42394000.0         -6067000.0          -404000.0
+Interest Expense                                                  118167000.0         67126000.0         27533000.0         21661000.0
+Interest Income                                                    29340000.0         24732000.0         21466000.0         21257000.0
+Normalized Income                                           1905195937.614732  2060447996.297601  1841827255.532938  1011298260.403666
+Net Income From Continuing And Discontinued Operation            1902201000.0       2060529000.0       1842218000.0       1009976000.0
+Total Expenses                                                  20044714000.0      22143627000.0      19023627000.0      13310533000.0
+Diluted Average Shares                                                    NaN        185188000.0        185173000.0        185174000.0
+Basic Average Shares                                                      NaN        184950000.0        184950000.0        184950000.0
+Diluted EPS                                                               NaN              11.13               9.95               5.45
+Basic EPS                                                                 NaN              11.14               9.96               5.46
+Diluted NI Availto Com Stockholders                              1902201000.0       2060529000.0       1842218000.0       1009976000.0
+Net Income Common Stockholders                                   1902201000.0       2060529000.0       1842218000.0       1009976000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1902201000.0       2060529000.0       1842218000.0       1009976000.0
+Minority Interests                                               -135824000.0        -67175000.0         57067000.0        -79482000.0
+Net Income Including Noncontrolling Interests                    2038025000.0       2127704000.0       1785151000.0       1089458000.0
+Net Income Continuous Operations                                 2038025000.0       2127704000.0       1785151000.0       1089458000.0
+Tax Provision                                                     471622000.0        498971000.0        439752000.0        250262000.0
+Pretax Income                                                    2509647000.0       2626675000.0       2224903000.0       1339720000.0
+Other Non Operating Income Expenses                               144350000.0        229529000.0        -82988000.0        184217000.0
+Special Income Charges                                             -3688000.0           100000.0           487000.0         -1626000.0
+Write Off                                                           3688000.0          -100000.0          -487000.0          1626000.0
+Net Non Operating Interest Income Expense                         -88827000.0        -42394000.0         -6067000.0          -404000.0
+Interest Expense Non Operating                                    118167000.0         67126000.0         27533000.0         21661000.0
+Interest Income Non Operating                                      29340000.0         24732000.0         21466000.0         21257000.0
+Operating Income                                                 2457812000.0       2439440000.0       2313471000.0       1157533000.0
+Operating Expense                                                1004966000.0        948812000.0        962564000.0        802361000.0
+Research And Development                                           88842000.0         71846000.0         71795000.0         60690000.0
+Selling General And Administration                                916124000.0        876966000.0        890769000.0        741671000.0
+Selling And Marketing Expense                                     173455000.0        137409000.0        123189000.0        103650000.0
+General And Administrative Expense                                742669000.0        739557000.0        767580000.0        638021000.0
+Gross Profit                                                     3462778000.0       3388252000.0       3276035000.0       1959894000.0
+Cost Of Revenue                                                 19039748000.0      21194815000.0      18061063000.0      12508172000.0
+Total Revenue                                                   22502526000.0      24583067000.0      21337098000.0      14468066000.0
+Operating Revenue                                               22502526000.0      24583067000.0      21337098000.0      14468066000.0

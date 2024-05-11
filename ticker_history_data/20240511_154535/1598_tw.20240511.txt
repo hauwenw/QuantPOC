@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 111 Songjiang Road
+address2	12th Floor
+city	Taipei
+zip	10486
+country	Taiwan
+phone	886 2 2515 2288
+fax	886 2 2515 9963
+website	https://dyaco.com
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Dyaco International Inc. designs, manufactures, and distributes fitness, physical therapy, and sports equipment worldwide. It provides cardiovascular equipment for the home, commercial, and medical facilities; and indoor cycling solutions. The company offers its fitness equipment to home users, commercial fitness operators, and physical therapy facilities under the Spirit Fitness, Xterra, SOLE Fitness, Johnny G, Dyaco Medical, and UFC brands. Dyaco International Inc. was incorporated in 1990 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Bin  Hsu', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Nan  Chen', 'title': 'GM & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei Hua  Wu', 'title': 'Executive VP & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Hsiang  Tseng', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan Sheng  Chiu', 'title': 'SVP of Financial Dept., Chief Accountant Officer & Chief of Corporate Governance Affairs', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Brian Keith Murray', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Che Jung  Li', 'title': 'Vice President of Legal & Patent Affairs Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Jung  Li', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Teng-I  Lo', 'title': 'Senior Vice President of Production Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Wen  Hsu', 'title': 'Senior Vice President of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	31.35
+open	31.4
+dayLow	31.2
+dayHigh	31.6
+regularMarketPreviousClose	31.35
+regularMarketOpen	31.4
+regularMarketDayLow	31.2
+regularMarketDayHigh	31.6
+dividendRate	0.5
+dividendYield	0.0159
+exDividendDate	1685059200	 (2023-05-26 08:00:00)
+payoutRatio	25.655
+fiveYearAvgDividendYield	4.48
+beta	0.892
+forwardPE	3.8228157
+volume	84148
+regularMarketVolume	84148
+averageVolume	226754
+averageVolume10days	199833
+averageDailyVolume10Day	199833
+bid	31.45
+ask	31.5
+marketCap	4745380864
+fiftyTwoWeekLow	29.8
+fiftyTwoWeekHigh	41.9
+priceToSalesTrailing12Months	0.60943925
+fiftyDayAverage	30.962
+twoHundredDayAverage	33.171
+currency	TWD
+enterpriseValue	8268274688
+profitMargins	-0.01577
+floatShares	131819138
+sharesOutstanding	150647008
+heldPercentInsiders	0.34651002
+heldPercentInstitutions	0.03714
+impliedSharesOutstanding	150892000
+bookValue	29.035
+priceToBook	1.0848975
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-122770000
+trailingEps	-0.88
+forwardEps	8.24
+lastSplitFactor	1034.985:1000
+lastSplitDate	1564531200	 (2019-07-31 08:00:00)
+enterpriseToRevenue	1.062
+enterpriseToEbitda	64.274
+52WeekChange	-0.201702
+SandP52WeekChange	0.26265144
+lastDividendValue	0.49992
+lastDividendDate	1685059200	 (2023-05-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1598.TW
+underlyingSymbol	1598.TW
+shortName	DYACO INTERNATIONAL INC
+longName	Dyaco International Inc.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	00b50e9b-d936-3e24-86b4-90890c1e151f
+messageBoardId	finmb_99862112
+gmtOffSetMilliseconds	28800000
+currentPrice	31.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1234771968
+totalCashPerShare	8.196
+ebitda	128641000
+totalDebt	4360082944
+quickRatio	0.597
+currentRatio	1.253
+totalRevenue	7786470912
+debtToEquity	91.374
+revenuePerShare	56.082
+returnOnAssets	-0.00529
+returnOnEquity	-0.02498
+freeCashflow	549920896
+operatingCashflow	616609984
+revenueGrowth	0.133
+grossMargins	0.34252998
+ebitdaMargins	0.01652
+operatingMargins	0.0945
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -9572500.061972   -27635200.0   -6542411.375061    -3001886.69796
+Tax Rate For Calcs                                                  0.348573           0.2          0.191198          0.203545
+Normalized EBITDA                                                222072000.0   395413000.0       935521000.0      2049418000.0
+Total Unusual Items                                              -27462000.0  -138176000.0       -34218000.0       -14748000.0
+Total Unusual Items Excluding Goodwill                           -27462000.0  -138176000.0       -34218000.0       -14748000.0
+Net Income From Continuing Operation Net Minority Interest      -122770000.0   -76129000.0       440342000.0      1321109000.0
+Reconciled Depreciation                                          266147000.0   253769000.0       284331000.0       323650000.0
+Reconciled Cost Of Revenue                                      5119386000.0  5037256000.0      7684679000.0      7639437000.0
+EBITDA                                                           194610000.0   257237000.0       901303000.0      2034670000.0
+EBIT                                                             -71537000.0     3468000.0       616972000.0      1711020000.0
+Net Interest Income                                              -84490000.0   -82254000.0       -67065000.0       -53297000.0
+Interest Expense                                                  97894000.0    84529000.0        68509000.0        56116000.0
+Interest Income                                                   13404000.0     2275000.0         1444000.0         2819000.0
+Normalized Income                                          -104880500.061972    34411800.0  468017588.624939  1332855113.30204
+Net Income From Continuing And Discontinued Operation           -122770000.0   -76129000.0       440342000.0      1321109000.0
+Total Expenses                                                  7889274000.0  7433615000.0     10937441000.0     11256677000.0
+Diluted Average Shares                                                   NaN   125706000.0       143239975.0       119621873.0
+Basic Average Shares                                                     NaN   125706000.0       130086876.0       116015163.0
+Diluted EPS                                                              NaN         -0.61          3.215174         11.087478
+Basic EPS                                                                NaN         -0.61          3.380804         11.389509
+Diluted NI Availto Com Stockholders                             -122770000.0   -76129000.0       440342000.0      1321109000.0
+Net Income Common Stockholders                                  -122770000.0   -76129000.0       440342000.0      1321109000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0               0.0
+Net Income                                                      -122770000.0   -76129000.0       440342000.0      1321109000.0
+Minority Interests                                               -12398000.0    18554000.0        -3256000.0         3053000.0
+Net Income Including Noncontrolling Interests                   -110372000.0   -94683000.0       443598000.0      1318056000.0
+Net Income Continuous Operations                                -110372000.0   -94683000.0       443598000.0      1318056000.0
+Tax Provision                                                    -59059000.0    13622000.0       104865000.0       336848000.0
+Pretax Income                                                   -169431000.0   -81061000.0       548463000.0      1654904000.0
+Other Non Operating Income Expenses                               30542000.0    10783000.0        34124000.0        50430000.0
+Special Income Charges                                             3198000.0  -137408000.0       -19267000.0       -14169000.0
+Write Off                                                         -3198000.0   137408000.0        19267000.0        14169000.0
+Net Non Operating Interest Income Expense                        -84490000.0   -82254000.0       -67065000.0       -53297000.0
+Interest Expense Non Operating                                    97894000.0    84529000.0        68509000.0        56116000.0
+Interest Income Non Operating                                     13404000.0     2275000.0         1444000.0         2819000.0
+Operating Income                                                -102803000.0  -311204000.0       804640000.0      1867079000.0
+Operating Expense                                               2769888000.0  2396359000.0      3252762000.0      3617240000.0
+Other Operating Expenses                                           1182000.0    27647000.0         2840000.0       -13164000.0
+Research And Development                                         118559000.0   108315000.0       110751000.0       115655000.0
+Selling General And Administration                              2650147000.0  2260397000.0      3139171000.0      3514749000.0
+Selling And Marketing Expense                                   1834475000.0  1492314000.0      2421568000.0      2783591000.0
+General And Administrative Expense                               815672000.0   768083000.0       717603000.0       731158000.0
+Gross Profit                                                    2667085000.0  2085155000.0      4057402000.0      5484319000.0
+Cost Of Revenue                                                 5119386000.0  5037256000.0      7684679000.0      7639437000.0
+Total Revenue                                                   7786471000.0  7122411000.0     11742081000.0     13123756000.0
+Operating Revenue                                               7786471000.0  7122411000.0     11742081000.0     13123756000.0

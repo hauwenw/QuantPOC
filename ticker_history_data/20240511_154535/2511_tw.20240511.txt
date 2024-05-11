@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.656, Zhongyuan Road
+address2	Xinzhuang Dist.
+city	New Taipei City
+zip	242
+country	Taiwan
+phone	886 2 8521 3565
+website	https://www.prince.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Prince Housing & Development Corp. engages in the construction business primarily in Taiwan. The company provides construction services of residential and commercial buildings, tourist hotels, industrial zone development, indoor sports and leisure facilities, and parking lots. It is also involved in the hotels and catering, plywood manufacturing, real estate management, real estate trading and leasing, apartment management, electricity and water pipe maintenance, and general investment activities, as well as offers security services. The company was incorporated in 1973 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Hsien  Lo', 'age': 66, 'title': 'Representative Chairman & Chief Strategy Officer', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chun Lin  Hung', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lin  Jun-Liang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tai  Da-Chang', 'title': 'Manager of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo  Chun-Cheng', 'title': 'Chief Info. Sec. Off., Asst. VP of Admin., Corp. Gov. Dir. & Co. Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiu  Wen-Zhen', 'title': 'Vice President of Sales', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	12.55
+open	12.65
+dayLow	12.45
+dayHigh	12.75
+regularMarketPreviousClose	12.55
+regularMarketOpen	12.65
+regularMarketDayLow	12.45
+regularMarketDayHigh	12.75
+dividendRate	0.5
+dividendYield	0.0402
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	1.4706
+fiveYearAvgDividendYield	4.59
+beta	0.477
+trailingPE	36.617645
+forwardPE	20.749998
+volume	4610311
+regularMarketVolume	4610311
+averageVolume	8232105
+averageVolume10days	20401017
+averageDailyVolume10Day	20401017
+bid	12.45
+ask	12.5
+marketCap	20202240000
+fiftyTwoWeekLow	10.0
+fiftyTwoWeekHigh	14.2
+priceToSalesTrailing12Months	2.3808715
+fiftyDayAverage	11.282
+twoHundredDayAverage	10.9815
+trailingAnnualDividendRate	0.36
+trailingAnnualDividendYield	0.02868526
+currency	TWD
+enterpriseValue	24080492544
+profitMargins	0.06984
+floatShares	879228055
+sharesOutstanding	1622669952
+heldPercentInsiders	0.41841
+heldPercentInstitutions	0.03895
+impliedSharesOutstanding	1710050048
+bookValue	15.852
+priceToBook	0.78538984
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.505
+netIncomeToCommon	592617024
+trailingEps	0.34
+forwardEps	0.6
+lastSplitFactor	1030:1000
+lastSplitDate	1408665600	 (2014-08-22 08:00:00)
+enterpriseToRevenue	2.838
+enterpriseToEbitda	25.237
+52WeekChange	0.028925657
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2511.TW
+underlyingSymbol	2511.TW
+shortName	PRINCE HOUSING DEVELOPMENT CORP
+longName	Prince Housing & Development Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9f524ede-6414-3c52-baa3-aa44d4bab052
+messageBoardId	finmb_10548200
+gmtOffSetMilliseconds	28800000
+currentPrice	12.45
+recommendationKey	none
+totalCash	13397568512
+totalCashPerShare	8.256
+ebitda	954158976
+totalDebt	17021321216
+quickRatio	3.339
+currentRatio	4.851
+totalRevenue	8485229056
+debtToEquity	65.526
+revenuePerShare	5.229
+returnOnAssets	0.00833
+returnOnEquity	0.02252
+freeCashflow	490875616
+operatingCashflow	1685297024
+earningsGrowth	-0.534
+revenueGrowth	-0.059
+grossMargins	0.29505
+ebitdaMargins	0.112449996
+operatingMargins	0.10855
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     -8718.736433      -41131.525121      -24838.1464      43022.823317
+Tax Rate For Calcs                                                   0.19375           0.080492         0.058581          0.075878
+Normalized EBITDA                                               1885714000.0       2721914000.0     2709938000.0      1945227000.0
+Total Unusual Items                                                 -45000.0          -511000.0        -424000.0          567000.0
+Total Unusual Items Excluding Goodwill                              -45000.0          -511000.0        -424000.0          567000.0
+Net Income From Continuing Operation Net Minority Interest       592617000.0       1475037000.0     1535087000.0       793882000.0
+Reconciled Depreciation                                          812396000.0        822470000.0      845124000.0       830708000.0
+Reconciled Cost Of Revenue                                      5981704000.0       8826908000.0     9595184000.0      9746402000.0
+EBITDA                                                          1885669000.0       2721403000.0     2709514000.0      1945794000.0
+EBIT                                                            1073273000.0       1898933000.0     1864390000.0      1115086000.0
+Net Interest Income                                             -265004000.0       -310250000.0     -306361000.0      -312970000.0
+Interest Expense                                                 347708000.0        330533000.0      314131000.0       325674000.0
+Interest Income                                                   82704000.0         20283000.0        7770000.0        12704000.0
+Normalized Income                                           592653281.263567  1475506868.474879  1535486161.8536  793358022.823317
+Net Income From Continuing And Discontinued Operation            592617000.0       1475037000.0     1535087000.0       793882000.0
+Total Expenses                                                  7857567000.0      10795669000.0    11505585000.0     11792285000.0
+Diluted Average Shares                                          1646158333.0       1638930000.0     1634821000.0      1633242000.0
+Basic Average Shares                                            1601667568.0       1620919780.0     1622671000.0      1622671000.0
+Diluted EPS                                                             0.36                0.9             0.94              0.49
+Basic EPS                                                               0.37               0.91             0.95              0.49
+Diluted NI Availto Com Stockholders                              592617000.0       1475037000.0     1535087000.0       793882000.0
+Net Income Common Stockholders                                   592617000.0       1475037000.0     1535087000.0       793882000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0              0.0               0.0
+Net Income                                                       592617000.0       1475037000.0     1535087000.0       793882000.0
+Minority Interests                                                 7630000.0         32881000.0       75643000.0        64369000.0
+Net Income Including Noncontrolling Interests                    584987000.0       1442156000.0     1459444000.0       729513000.0
+Net Income Continuous Operations                                 584987000.0       1442156000.0     1459444000.0       729513000.0
+Tax Provision                                                    140578000.0        126244000.0       90815000.0        59899000.0
+Pretax Income                                                    725565000.0       1568400000.0     1550259000.0       789412000.0
+Other Non Operating Income Expenses                              261791000.0       -195518000.0      811109000.0       883005000.0
+Special Income Charges                                              -45000.0          -511000.0        -424000.0          567000.0
+Write Off                                                            45000.0           511000.0         424000.0         -567000.0
+Net Non Operating Interest Income Expense                       -265004000.0       -310250000.0     -306361000.0      -312970000.0
+Interest Expense Non Operating                                   347708000.0        330533000.0      314131000.0       325674000.0
+Interest Income Non Operating                                     82704000.0         20283000.0        7770000.0        12704000.0
+Operating Income                                                 627662000.0       1973109000.0     1005950000.0       171141000.0
+Operating Expense                                               1875863000.0       1968761000.0     1910401000.0      2045883000.0
+Selling General And Administration                              1875863000.0       1968761000.0     1910401000.0      2045883000.0
+Selling And Marketing Expense                                    117262000.0        253524000.0      313999000.0       403736000.0
+General And Administrative Expense                              1758601000.0       1715237000.0     1596402000.0      1642147000.0
+Gross Profit                                                    2503525000.0       3941870000.0     2916351000.0      2217024000.0
+Cost Of Revenue                                                 5981704000.0       8826908000.0     9595184000.0      9746402000.0
+Total Revenue                                                   8485229000.0      12768778000.0    12511535000.0     11963426000.0
+Operating Revenue                                               8485229000.0      12768778000.0    12511535000.0     11963426000.0

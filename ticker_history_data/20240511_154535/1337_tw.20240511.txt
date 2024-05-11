@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	Jiangtou Industrial Zone
+address2	Chendai
+city	Jinjiang
+zip	362211
+country	China
+phone	86 595 8201 0739
+fax	86 595 8519 1881
+website	https://www.asia-recycle.com
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Asia Plastic Recycling Holding Limited engages in the waste plastic scrap recycling business in China. It is involved in the research and development, manufacture, and sale of ethylene-vinyl acetate copolymer foam materials for use in shoes, luggage, sporting goods, packaging materials for high-tech electronic products, furniture, automobiles, and building materials. The company was incorporated in 2010 and is headquartered in Jinjiang, China.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin-Tsao  Ting', 'title': 'Director & CEO', 'fiscalYear': 2021, 'totalPay': 1697000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui-Chun  Chang', 'title': 'Deputy CEO & Vice-Chairman', 'fiscalYear': 2021, 'totalPay': 144000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Meng  Ting', 'title': 'President & GM', 'fiscalYear': 2021, 'totalPay': 2618000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hua-Hsiung  Ting', 'title': 'Deputy General Manager of Sales for Sansda (Fujian)', 'fiscalYear': 2021, 'totalPay': 1644000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih Wei  Ting', 'title': 'Deputy General Manager of Procurement for Sansda (Fujian)', 'fiscalYear': 2021, 'totalPay': 1477000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Min  Wang', 'title': 'Assistant VP of Finance & Accounting, Head of Accounting and Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	7.77
+open	7.76
+dayLow	7.6
+dayHigh	7.84
+regularMarketPreviousClose	7.77
+regularMarketOpen	7.76
+regularMarketDayLow	7.6
+regularMarketDayHigh	7.84
+exDividendDate	1535673600	 (2018-08-31 08:00:00)
+beta	0.616
+volume	1055532
+regularMarketVolume	1055532
+averageVolume	737729
+averageVolume10days	1271878
+averageDailyVolume10Day	1271878
+bid	7.72
+ask	7.76
+marketCap	2076332544
+fiftyTwoWeekLow	6.99
+fiftyTwoWeekHigh	9.49
+priceToSalesTrailing12Months	2.6894314
+fiftyDayAverage	7.4114
+twoHundredDayAverage	7.36375
+currency	TWD
+enterpriseValue	940938624
+profitMargins	-0.533
+sharesOutstanding	268955008
+heldPercentInsiders	0.29737
+heldPercentInstitutions	0.00824
+impliedSharesOutstanding	276014016
+bookValue	16.356
+priceToBook	0.471998
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-411492000
+trailingEps	-1.56
+lastSplitFactor	1002.601:1000
+lastSplitDate	1535673600	 (2018-08-31 08:00:00)
+enterpriseToRevenue	1.219
+enterpriseToEbitda	-3.478
+52WeekChange	-0.080952406
+SandP52WeekChange	0.26265144
+lastDividendValue	0.00289
+lastDividendDate	1535673600	 (2018-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1337.TW
+underlyingSymbol	1337.TW
+shortName	ASIA PLASTIC RECYCLING HOLDING 
+longName	Asia Plastic Recycling Holding Limited
+firstTradeDateEpochUtc	1313542800	 (2011-08-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dfc4ce73-626e-33ea-90b4-5119c641b034
+messageBoardId	finmb_135078995
+gmtOffSetMilliseconds	28800000
+currentPrice	7.72
+recommendationKey	none
+totalCash	1135394048
+totalCashPerShare	4.222
+ebitda	-270564992
+quickRatio	10.657
+currentRatio	11.996
+totalRevenue	772033984
+revenuePerShare	2.87
+returnOnAssets	-0.050669998
+returnOnEquity	-0.08856
+freeCashflow	-1194628736
+operatingCashflow	-263791008
+revenueGrowth	0.326
+grossMargins	-0.19861001
+ebitdaMargins	-0.35046002
+operatingMargins	-0.39466998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.0           0.0           0.0           0.0
+Normalized EBITDA                                           -219734000.0  -236980000.0  -285661000.0 -1012161000.0
+Total Unusual Items                                          -28596000.0   -53675000.0    39021000.0    -9810000.0
+Total Unusual Items Excluding Goodwill                       -28596000.0   -53675000.0    39021000.0    -9810000.0
+Net Income From Continuing Operation Net Minority Interest  -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Reconciled Depreciation                                      138195000.0   165229000.0   205412000.0   282716000.0
+Reconciled Cost Of Revenue                                   925366000.0   870422000.0  1301822000.0  1486319000.0
+EBITDA                                                      -248330000.0  -290655000.0  -246640000.0 -1021971000.0
+EBIT                                                        -386525000.0  -455884000.0  -452052000.0 -1304687000.0
+Net Interest Income                                           26226000.0    31442000.0    23425000.0    24504000.0
+Interest Expense                                                     NaN           0.0     8869000.0     8115000.0
+Interest Income                                               26226000.0    31442000.0    32294000.0    32619000.0
+Normalized Income                                           -382896000.0  -423217000.0  -499942000.0 -1302992000.0
+Net Income From Continuing And Discontinued Operation       -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Total Expenses                                              1158559000.0  1099487000.0  1630393000.0  2347597000.0
+Diluted Average Shares                                       268955000.0   268955000.0   268955000.0   269016803.0
+Basic Average Shares                                         268955000.0   268955000.0   268955000.0   269016803.0
+Diluted EPS                                                        -1.53         -1.77         -1.71         -4.88
+Basic EPS                                                          -1.53         -1.77         -1.71         -4.88
+Diluted NI Availto Com Stockholders                         -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Net Income Common Stockholders                              -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Net Income Including Noncontrolling Interests               -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Net Income Continuous Operations                            -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Pretax Income                                               -411492000.0  -476892000.0  -460921000.0 -1312802000.0
+Other Non Operating Income Expenses                          -22597000.0     1225000.0      -72000.0    11944000.0
+Special Income Charges                                       -28596000.0   -53675000.0    -6469000.0    -9810000.0
+Other Special Charges                                         24011000.0    41993000.0      118000.0           NaN
+Write Off                                                      4585000.0    11682000.0     6351000.0     9810000.0
+Net Non Operating Interest Income Expense                     26226000.0    31442000.0    23425000.0    24504000.0
+Interest Expense Non Operating                                       NaN           0.0     8869000.0     8115000.0
+Interest Income Non Operating                                 26226000.0    31442000.0    32294000.0    32619000.0
+Operating Income                                            -386525000.0  -455884000.0  -523295000.0 -1339440000.0
+Operating Expense                                            233193000.0   229065000.0   328571000.0   861278000.0
+Research And Development                                      21821000.0    20687000.0    37939000.0    39245000.0
+Selling General And Administration                           211372000.0   208378000.0   290632000.0   822033000.0
+Selling And Marketing Expense                                 38475000.0    42236000.0    65575000.0    50111000.0
+General And Administrative Expense                           172897000.0   166142000.0   225057000.0   771922000.0
+Gross Profit                                                -153332000.0  -226819000.0  -194724000.0  -478162000.0
+Cost Of Revenue                                              925366000.0   870422000.0  1301822000.0  1486319000.0
+Total Revenue                                                772034000.0   643603000.0  1107098000.0  1008157000.0
+Operating Revenue                                            772034000.0   643603000.0  1107098000.0  1008157000.0

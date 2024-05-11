@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 51, Chung Ching South Road
+address2	Section 2
+city	Taipei
+country	Taiwan
+phone	886 2 2396 8020
+fax	886 2 2321 5940
+website	https://www.yfy.com
+industry	Paper & Paper Products
+industryKey	paper-paper-products
+industryDisp	Paper & Paper Products
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	YFY Inc. manufactures and sells paper and paper-related products worldwide. It operates through three segments: Pulp and Fine Paper, Containerboard and Packaging, Consumer Product, and Special Materials. The company provides pulp, tissue papers, physical and virtual papers, specialty papers, napkins, and household papers under the Mayflower, Tender, and Delight brand names. It offers corrugated cardboard and boxes, colored cardboard boxes and containers, food containers, and paper pallets; and commercial photography, brand packaging design, certification testing, and printing management services. In addition, the company provides trading services for paper and related materials, digital printing solutions, and anti-counterfeit measures for financial securities; RFID technology solutions; styrene-butadiene rubber and nitrile-butadiene rubber latex, and other special materials; consumer electronics; and detergents, and cleaning products under Orange House and FreshSense brand names. Further, it offers banking, securities, investment trust, customer service technology, rental companies, insurance, and venture investment, as well as software and hardware services; and engages in medical biotechnology sector. Additionally, the company engages in the research and development of organic produce and food ingredients under the GREEN & SAFE brand name; supply of organic food through YFY Treasure Box, a home delivery service; development of applications and ePaper; and operation of an online store, Yuen Foong Shop, as well as restaurants under the Farm Table and Qimin Market Hotpot names, as well as design, manufacture, and sale of equipment. YFY Inc. was founded in 1924 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ping-chen  Lo', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Allen  Chen', 'title': 'Assistant VP of Treasury Management Department & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Hsien  Chu', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'S. F. Lin', 'title': 'Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei Yin Cheng', 'title': 'Auditing & Compliance Office Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shun Xiang Chan', 'title': 'Assistant VP of Legal Department & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Huang', 'title': 'Vice President of Human Resources Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kirk  Hwang', 'title': 'CTO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'York  Kuo', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	30.3
+open	30.4
+dayLow	30.2
+dayHigh	30.6
+regularMarketPreviousClose	30.3
+regularMarketOpen	30.4
+regularMarketDayLow	30.2
+regularMarketDayHigh	30.6
+dividendRate	0.9
+dividendYield	0.0295
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.8182
+fiveYearAvgDividendYield	4.24
+beta	0.822
+trailingPE	27.772726
+forwardPE	25.247932
+volume	729673
+regularMarketVolume	729673
+averageVolume	1724222
+averageVolume10days	1879450
+averageDailyVolume10Day	1879450
+bid	30.5
+ask	30.55
+marketCap	50724302848
+fiftyTwoWeekLow	28.8
+fiftyTwoWeekHigh	40.95
+priceToSalesTrailing12Months	0.6866943
+fiftyDayAverage	30.203
+twoHundredDayAverage	31.15475
+trailingAnnualDividendRate	0.9
+trailingAnnualDividendYield	0.02970297
+currency	TWD
+enterpriseValue	93542088704
+profitMargins	0.02843
+floatShares	1124985049
+sharesOutstanding	1660370048
+heldPercentInsiders	0.37002
+heldPercentInstitutions	0.05511
+impliedSharesOutstanding	1700999936
+bookValue	35.217
+priceToBook	0.8674788
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.245
+netIncomeToCommon	2100338944
+trailingEps	1.1
+forwardEps	1.21
+lastSplitFactor	1.015:1
+lastSplitDate	1312761600	 (2011-08-08 08:00:00)
+enterpriseToRevenue	1.266
+enterpriseToEbitda	21.782
+52WeekChange	-0.008116901
+SandP52WeekChange	0.26265144
+lastDividendValue	0.9
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1907.TW
+underlyingSymbol	1907.TW
+shortName	YFY INC
+longName	YFY Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8b8f7e50-e8ef-303e-84f0-b4be3f125f7c
+messageBoardId	finmb_8237809
+gmtOffSetMilliseconds	28800000
+currentPrice	30.55
+targetHighPrice	28.0
+targetLowPrice	28.0
+targetMeanPrice	28.0
+targetMedianPrice	28.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	22917441536
+totalCashPerShare	13.803
+ebitda	4294565120
+totalDebt	50136543232
+quickRatio	0.88
+currentRatio	1.31
+totalRevenue	73867370496
+debtToEquity	67.687
+revenuePerShare	44.488
+returnOnAssets	0.00059999997
+returnOnEquity	0.029240001
+freeCashflow	334410240
+operatingCashflow	5349334016
+revenueGrowth	0.019
+grossMargins	0.13651
+ebitdaMargins	0.058140002
+operatingMargins	0.03041
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   60642256.130675   160206475.787846   -28103056.565631  -127704405.026519
+Tax Rate For Calcs                                                    0.18022            0.20629           0.205529           0.211619
+Normalized EBITDA                                                7775554000.0       8061687000.0      14680702000.0      14006571000.0
+Total Unusual Items                                               336491000.0        776607000.0       -136735000.0       -603465000.0
+Total Unusual Items Excluding Goodwill                            336491000.0        776607000.0       -136735000.0       -603465000.0
+Net Income From Continuing Operation Net Minority Interest       1826693000.0       2169510000.0       5204254000.0       5209079000.0
+Reconciled Depreciation                                          4488283000.0       4389569000.0       4230166000.0       4329947000.0
+Reconciled Cost Of Revenue                                      63783203000.0      68517920000.0      67148664000.0      58253470000.0
+EBITDA                                                           8112045000.0       8838294000.0      14543967000.0      13403106000.0
+EBIT                                                             3623762000.0       4448725000.0      10313801000.0       9073159000.0
+Net Interest Income                                              -645732000.0       -598288000.0       -434190000.0       -570773000.0
+Interest Expense                                                 1061687000.0        862303000.0        543080000.0        696626000.0
+Interest Income                                                   415955000.0        264015000.0        108890000.0        125853000.0
+Normalized Income                                           1550844256.130675  1553109475.787846  5312885943.434369  5684839594.973481
+Net Income From Continuing And Discontinued Operation            1826693000.0       2169510000.0       5204254000.0       5209079000.0
+Total Expenses                                                  73729434000.0      78486575000.0      77291399000.0      67631975000.0
+Diluted Average Shares                                                    NaN       1656114504.0       1660558000.0       1660602000.0
+Basic Average Shares                                                      NaN       1656114504.0       1660372000.0       1660372000.0
+Diluted EPS                                                               NaN               1.31               3.13               3.14
+Basic EPS                                                                 NaN               1.31               3.13               3.14
+Diluted NI Availto Com Stockholders                              1826693000.0       2169510000.0       5204254000.0       5209079000.0
+Net Income Common Stockholders                                   1826693000.0       2169510000.0       5204254000.0       5209079000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1826693000.0       2169510000.0       5204254000.0       5209079000.0
+Minority Interests                                               -273646000.0       -677068000.0      -2558297000.0      -1394824000.0
+Net Income Including Noncontrolling Interests                    2100339000.0       2846578000.0       7762551000.0       6603903000.0
+Net Income Continuous Operations                                 2100339000.0       2846578000.0       7762551000.0       6603903000.0
+Tax Provision                                                     461736000.0        739844000.0       2008170000.0       1772630000.0
+Pretax Income                                                    2562075000.0       3586422000.0       9770721000.0       8376533000.0
+Other Non Operating Income Expenses                               589495000.0        364086000.0        474033000.0       1841665000.0
+Special Income Charges                                            -13943000.0         41779000.0         73863000.0        221933000.0
+Other Special Charges                                              13943000.0        -41779000.0        -73863000.0       -221933000.0
+Net Non Operating Interest Income Expense                        -645732000.0       -598288000.0       -434190000.0       -570773000.0
+Interest Expense Non Operating                                   1061687000.0        862303000.0        543080000.0        696626000.0
+Interest Income Non Operating                                     415955000.0        264015000.0        108890000.0        125853000.0
+Operating Income                                                  137940000.0       1149303000.0       8007458000.0       5602571000.0
+Operating Expense                                                9946231000.0       9968655000.0      10142735000.0       9378505000.0
+Other Operating Expenses                                                  NaN                NaN         -3395000.0          -333000.0
+Research And Development                                          541133000.0        554228000.0        607879000.0        435113000.0
+Selling General And Administration                               9405098000.0       9414427000.0       9534856000.0       8943392000.0
+Selling And Marketing Expense                                    5550575000.0       5619924000.0       5718650000.0       5256096000.0
+General And Administrative Expense                               3854523000.0       3794503000.0       3816206000.0       3687296000.0
+Gross Profit                                                    10084171000.0      11117958000.0      18150193000.0      14981076000.0
+Cost Of Revenue                                                 63783203000.0      68517920000.0      67148664000.0      58253470000.0
+Total Revenue                                                   73867374000.0      79635878000.0      85298857000.0      73234546000.0
+Operating Revenue                                               73867374000.0      79635878000.0      85298857000.0      73234546000.0

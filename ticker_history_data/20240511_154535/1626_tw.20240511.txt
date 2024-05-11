@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	Century Yard, Cricket Square
+address2	Hutchins Drive PO Box 2681
+city	George Town
+country	Cayman Islands
+website	https://www.airmate-china.com
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Airmate (Cayman) International Co Limited engages in the research, design, development, production, and sale of household appliances in China, Japan, South Korea, and internationally. It offers electric fans, electric heaters, ventilators, induction cookers, electric kettles, and other series of household appliances; and dehumidifiers and air purifiers. The company also provides precision molds treatment services. It sells its products through online store. The company was founded in 1973 and is headquartered in George Town, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jui Pin  Shih', 'title': 'GM, CEO, President & Director', 'fiscalYear': 2019, 'totalPay': 1446000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Hsiu  Ho', 'title': 'Accounting Manager, Director of Corporate Governance, CFO & Chief Accountant', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Ting  Tseng', 'title': 'Chief Operating Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yan  Lei', 'title': 'Head of China Market Department, China Marketing Department & General Director', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	16.0
+open	16.05
+dayLow	15.95
+dayHigh	16.15
+regularMarketPreviousClose	16.0
+regularMarketOpen	16.05
+regularMarketDayLow	15.95
+regularMarketDayHigh	16.15
+dividendRate	0.5
+dividendYield	0.0313
+exDividendDate	1693958400	 (2023-09-06 08:00:00)
+payoutRatio	2.9412
+beta	0.594
+volume	119235
+regularMarketVolume	119235
+averageVolume	123608
+averageVolume10days	128821
+averageDailyVolume10Day	128821
+bid	16.0
+ask	16.05
+marketCap	2445152000
+fiftyTwoWeekLow	15.8
+fiftyTwoWeekHigh	20.428572
+priceToSalesTrailing12Months	0.2910288
+fiftyDayAverage	16.119
+twoHundredDayAverage	16.52306
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.01875
+currency	TWD
+enterpriseValue	2322838528
+profitMargins	0.00316
+floatShares	83834940
+sharesOutstanding	152822000
+heldPercentInsiders	0.42563
+heldPercentInstitutions	0.00104
+impliedSharesOutstanding	152822000
+bookValue	20.186
+priceToBook	0.7926285
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	26579000
+trailingEps	-0.03
+lastSplitFactor	1050:1000
+lastSplitDate	1693958400	 (2023-09-06 08:00:00)
+enterpriseToRevenue	0.276
+enterpriseToEbitda	6.809
+52WeekChange	-0.091891885
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1693958400	 (2023-09-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1626.TW
+underlyingSymbol	1626.TW
+shortName	AIRMATE CAYMAN INTL CO
+longName	Airmate (Cayman) International Co Limited
+firstTradeDateEpochUtc	1349658000	 (2012-10-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	acfbde89-41df-3b51-9221-cc3ebe4c29dc
+messageBoardId	finmb_217526810
+gmtOffSetMilliseconds	28800000
+currentPrice	16.0
+recommendationKey	none
+totalCash	671369024
+totalCashPerShare	4.393
+ebitda	341118016
+totalDebt	549059968
+quickRatio	0.368
+currentRatio	1.061
+totalRevenue	8401753088
+debtToEquity	17.799
+revenuePerShare	54.977
+returnOnAssets	-0.00091
+returnOnEquity	0.00844
+freeCashflow	102120624
+operatingCashflow	616566016
+revenueGrowth	0.041
+grossMargins	0.21746
+ebitdaMargins	0.040599998
+operatingMargins	-0.03417
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  8112358.688541     246127.230809   -2093668.031823    3554227.774825
+Tax Rate For Calcs                                                 0.331211          0.121604          0.129247          0.302127
+Normalized EBITDA                                               411506000.0       976176000.0       108290000.0       601157000.0
+Total Unusual Items                                              24493000.0         2024000.0       -16199000.0        11764000.0
+Total Unusual Items Excluding Goodwill                           24493000.0         2024000.0       -16199000.0        11764000.0
+Net Income From Continuing Operation Net Minority Interest       26579000.0       473197000.0      -307227000.0       156239000.0
+Reconciled Depreciation                                         360346000.0       409604000.0       415635000.0       346302000.0
+Reconciled Cost Of Revenue                                     6574707000.0      7777614000.0      9039549000.0      7641207000.0
+EBITDA                                                          435999000.0       978200000.0        92091000.0       612921000.0
+EBIT                                                             75653000.0       568596000.0      -323544000.0       266619000.0
+Net Interest Income                                             -17346000.0        -6787000.0       -11262000.0        -8661000.0
+Interest Expense                                                 35911000.0        29890000.0        29285000.0        42740000.0
+Interest Income                                                  18565000.0        23103000.0        18023000.0        34079000.0
+Normalized Income                                           10198358.688541  471419127.230809 -293121668.031823  148029227.774825
+Net Income From Continuing And Discontinued Operation            26579000.0       473197000.0      -307227000.0       156239000.0
+Total Expenses                                                 8427579000.0      9450191000.0     10481105000.0      8989268000.0
+Diluted Average Shares                                          154999000.0       169531000.0       153030150.0       153109950.0
+Basic Average Shares                                            152822000.0       152822000.0       153030150.0       152413800.0
+Diluted EPS                                                            0.17              2.83         -2.009524          1.019048
+Basic EPS                                                              0.17               3.1         -2.009524          1.028571
+Diluted NI Availto Com Stockholders                              26579000.0       473197000.0      -307227000.0       156239000.0
+Net Income Common Stockholders                                   26579000.0       473197000.0      -307227000.0       156239000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                       26579000.0       473197000.0      -307227000.0       156239000.0
+Minority Interests                                                      NaN               NaN               NaN               0.0
+Net Income Including Noncontrolling Interests                    26579000.0       473197000.0      -307227000.0       156239000.0
+Net Income Continuous Operations                                 26579000.0       473197000.0      -307227000.0       156239000.0
+Tax Provision                                                    13163000.0        65509000.0       -45602000.0        67640000.0
+Pretax Income                                                    39742000.0       538706000.0      -352829000.0       223879000.0
+Other Non Operating Income Expenses                              57579000.0       772651000.0          274000.0         5440000.0
+Special Income Charges                                           24493000.0         2024000.0       -16199000.0        11764000.0
+Other Special Charges                                           -11674000.0       -17138000.0       -30159000.0       -13285000.0
+Write Off                                                       -12819000.0        15114000.0        46358000.0         1521000.0
+Net Non Operating Interest Income Expense                       -17346000.0        -6787000.0       -11262000.0        -8661000.0
+Interest Expense Non Operating                                   35911000.0        29890000.0        29285000.0        42740000.0
+Interest Income Non Operating                                    18565000.0        23103000.0        18023000.0        34079000.0
+Operating Income                                                -25826000.0      -229328000.0      -324514000.0       218078000.0
+Operating Expense                                              1852872000.0      1672577000.0      1441556000.0      1348061000.0
+Other Operating Expenses                                                NaN               NaN        -5358000.0        -4349000.0
+Research And Development                                        135232000.0       109238000.0       119531000.0       107717000.0
+Selling General And Administration                             1717640000.0      1563339000.0      1322025000.0      1240344000.0
+Selling And Marketing Expense                                  1406426000.0      1146692000.0      1037332000.0       897510000.0
+General And Administrative Expense                              311214000.0       416647000.0       284693000.0       342834000.0
+Gross Profit                                                   1827046000.0      1443249000.0      1117042000.0      1566139000.0
+Cost Of Revenue                                                6574707000.0      7777614000.0      9039549000.0      7641207000.0
+Total Revenue                                                  8401753000.0      9220863000.0     10156591000.0      9207346000.0
+Operating Revenue                                              8401753000.0      9220863000.0     10156591000.0      9207346000.0

@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No.270,Chung Hsiao East Road
+address2	9th Floor Section 4
+city	Taipei
+country	Taiwan
+phone	886 2 2741 9299
+fax	886 2 2752 2690
+website	https://www.chang-ho.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Chang-Ho Fibre Corporation, together with its subsidiaries, engages in the manufacture and sale of various types of fibers in Taiwan and China. It offers fiber yarns; and dyed and finished fabrics. The company is also involved in investment business; and development, rental, and sale of residential buildings. Chang-Ho Fibre Corporation was founded in 1982 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Richard  Chen', 'title': 'Founder and President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yao-Hsiang  Chen', 'title': 'Business Department Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zeng-Hong  Yin', 'title': 'Consultant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	13.5
+open	13.5
+dayLow	13.4
+dayHigh	13.95
+regularMarketPreviousClose	13.5
+regularMarketOpen	13.5
+regularMarketDayLow	13.4
+regularMarketDayHigh	13.95
+exDividendDate	1057104000	 (2003-07-02 08:00:00)
+beta	0.59
+trailingPE	31.136364
+volume	79010
+regularMarketVolume	79010
+averageVolume	58182
+averageVolume10days	80836
+averageDailyVolume10Day	80836
+bid	13.55
+ask	13.7
+marketCap	2197548288
+fiftyTwoWeekLow	11.6
+fiftyTwoWeekHigh	17.45
+priceToSalesTrailing12Months	2.0871525
+fiftyDayAverage	13.682
+twoHundredDayAverage	13.7145
+currency	TWD
+enterpriseValue	3100639488
+profitMargins	0.02587
+floatShares	151083865
+sharesOutstanding	160404992
+heldPercentInsiders	0.81101
+impliedSharesOutstanding	161572000
+bookValue	7.48
+priceToBook	1.8315507
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	27235000
+trailingEps	0.44
+lastSplitFactor	108:100
+lastSplitDate	997747200	 (2001-08-14 08:00:00)
+enterpriseToRevenue	2.945
+enterpriseToEbitda	-127.451
+52WeekChange	-0.058419228
+SandP52WeekChange	0.26265144
+lastDividendValue	0.15
+lastDividendDate	1057104000	 (2003-07-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1468.TW
+underlyingSymbol	1468.TW
+shortName	CHANG-HO FIBRE CORP
+longName	Chang-Ho Fibre Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3233f39c-01bf-3419-ba88-a66b4de807e1
+messageBoardId	finmb_9735882
+gmtOffSetMilliseconds	28800000
+currentPrice	13.7
+recommendationKey	none
+totalCash	179486000
+totalCashPerShare	1.119
+ebitda	-24328000
+totalDebt	1021107968
+quickRatio	0.246
+currentRatio	1.368
+totalRevenue	1052892992
+debtToEquity	80.954
+revenuePerShare	6.564
+returnOnAssets	-0.01358
+returnOnEquity	0.04499
+freeCashflow	-372954240
+operatingCashflow	-34019000
+revenueGrowth	-0.287
+grossMargins	0.07297
+ebitdaMargins	-0.02311
+operatingMargins	-0.19578
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31      2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                 -1576925.495557      7909.496086  8902655.928897          0.0
+Tax Rate For Calcs                                                 0.202794         0.002312        0.392239          0.0
+Normalized EBITDA                                               145996000.0       92767000.0      59730000.0  104244000.0
+Total Unusual Items                                              -7776000.0        3421000.0      22697000.0     871000.0
+Total Unusual Items Excluding Goodwill                           -7776000.0        3421000.0      22697000.0     871000.0
+Net Income From Continuing Operation Net Minority Interest       27235000.0       37030000.0       9647000.0   41528000.0
+Reconciled Depreciation                                          38058000.0       37615000.0      35995000.0   33927000.0
+Reconciled Cost Of Revenue                                      976062000.0     1394289000.0    1010093000.0  843871000.0
+EBITDA                                                          138220000.0       96188000.0      82427000.0  105115000.0
+EBIT                                                            100162000.0       58573000.0      46432000.0   71188000.0
+Net Interest Income                                             -20431000.0      -19760000.0     -20907000.0  -22802000.0
+Interest Expense                                                 29938000.0       22674000.0      23367000.0   26005000.0
+Interest Income                                                   9507000.0        2914000.0       2460000.0    3203000.0
+Normalized Income                                           33434074.504443  33616909.496086 -4147344.071103   40657000.0
+Net Income From Continuing And Discontinued Operation            27235000.0       37030000.0       9647000.0   41528000.0
+Total Expenses                                                 1103805000.0     1519885000.0    1144539000.0  964935000.0
+Diluted Average Shares                                                  NaN      160405000.0     160405000.0  160405000.0
+Basic Average Shares                                                    NaN      160405000.0     160405000.0  160405000.0
+Diluted EPS                                                             NaN             0.23            0.06         0.26
+Basic EPS                                                               NaN             0.23            0.06         0.26
+Diluted NI Availto Com Stockholders                              27235000.0       37030000.0       9647000.0   41528000.0
+Net Income Common Stockholders                                   27235000.0       37030000.0       9647000.0   41528000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0             0.0          0.0
+Net Income                                                       27235000.0       37030000.0       9647000.0   41528000.0
+Minority Interests                                              -28748000.0        1214000.0      -4371000.0   -3655000.0
+Net Income Including Noncontrolling Interests                    55983000.0       35816000.0      14018000.0   45183000.0
+Net Income Discontinuous Operations                                     NaN              NaN             0.0          0.0
+Net Income Continuous Operations                                 55983000.0       35816000.0      14018000.0   45183000.0
+Tax Provision                                                    14241000.0          83000.0       9047000.0          0.0
+Pretax Income                                                    70224000.0       35899000.0      23065000.0   45183000.0
+Other Non Operating Income Expenses                             149064000.0      160446000.0      36123000.0   -3065000.0
+Special Income Charges                                           -7776000.0        3421000.0      22697000.0     871000.0
+Other Special Charges                                                   NaN        1849000.0     -19966000.0          NaN
+Write Off                                                         7776000.0       -3421000.0      -2731000.0    -871000.0
+Net Non Operating Interest Income Expense                       -20431000.0      -19760000.0     -20907000.0  -22802000.0
+Interest Expense Non Operating                                   29938000.0       22674000.0      23367000.0   26005000.0
+Interest Income Non Operating                                     9507000.0        2914000.0       2460000.0    3203000.0
+Operating Income                                                -50912000.0     -107417000.0      -4789000.0   -3178000.0
+Operating Expense                                               127743000.0      125596000.0     134446000.0  121064000.0
+Research And Development                                          3568000.0        3012000.0       5474000.0    7262000.0
+Selling General And Administration                              124175000.0      122584000.0     128972000.0  113802000.0
+Selling And Marketing Expense                                    23211000.0       31919000.0      27321000.0   23822000.0
+General And Administrative Expense                              100964000.0       90665000.0     101651000.0   89980000.0
+Gross Profit                                                     76831000.0       18179000.0     129657000.0  117886000.0
+Cost Of Revenue                                                 976062000.0     1394289000.0    1010093000.0  843871000.0
+Total Revenue                                                  1052893000.0     1412468000.0    1139750000.0  961757000.0
+Operating Revenue                                              1052893000.0     1412468000.0    1139750000.0  961757000.0

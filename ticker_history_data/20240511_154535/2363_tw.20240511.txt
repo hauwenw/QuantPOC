@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 180, Gongdao 5th Road
+address2	Sec. 2
+city	Hsinchu City
+zip	300046
+country	Taiwan
+phone	886 3 516 6000
+fax	886 3 516 6668
+website	https://www.sis.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Silicon Integrated Systems Corp. engages in research, development, manufacture, and sale of integrated circuits and components worldwide. It offers multi-chip solutions for supporting projected capacitive touch sensors; touch panels; single chip solutions for supporting touch panels and projected capacitive touch sensors; and MCU-less touch solutions for supporting projected capacitive touch sensors. The company also offers MEMS microphones and active pen controllers. Its products are used in touch and tablet devices, HDTVs, Internet TVs, portable CE, personal computers, and customized SoC design services, as well as in automotive and other industrial applications. Silicon Integrated Systems Corp. was founded in 1987 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yuan-Kwei  Chen', 'title': 'Chief Accountant', 'fiscalYear': 2021, 'totalPay': 1187000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Chien  Chien', 'age': 67, 'title': 'Chief Strategy Officer', 'yearBorn': 1956, 'fiscalYear': 2021, 'totalPay': 3962000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Le-Tien  Jung', 'title': 'President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Che-Jai  Hsu', 'title': 'Senior Manager of Financial & Accounting Office', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	56.2
+open	56.5
+dayLow	54.0
+dayHigh	57.4
+regularMarketPreviousClose	56.2
+regularMarketOpen	56.5
+regularMarketDayLow	54.0
+regularMarketDayHigh	57.4
+dividendRate	1.0
+dividendYield	0.018099999
+exDividendDate	1688688000	 (2023-07-07 08:00:00)
+payoutRatio	1.2821001
+beta	0.518
+trailingPE	70.76923
+volume	37561706
+regularMarketVolume	37561706
+averageVolume	40513885
+averageVolume10days	70268883
+averageDailyVolume10Day	70268883
+bid	55.1
+ask	55.2
+marketCap	41377312768
+fiftyTwoWeekLow	16.6
+fiftyTwoWeekHigh	76.0
+priceToSalesTrailing12Months	219.7998
+fiftyDayAverage	50.239
+twoHundredDayAverage	43.4955
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.0053380784
+currency	TWD
+enterpriseValue	37406363648
+profitMargins	3.1180499
+floatShares	566614325
+sharesOutstanding	749588992
+heldPercentInsiders	0.27408
+heldPercentInstitutions	0.0468
+impliedSharesOutstanding	785024000
+bookValue	25.065
+priceToBook	2.202274
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	586972992
+trailingEps	0.78
+lastSplitFactor	1100:1000
+lastSplitDate	1661299200	 (2022-08-24 08:00:00)
+enterpriseToRevenue	198.706
+enterpriseToEbitda	-85.047
+52WeekChange	2.2280703
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1688688000	 (2023-07-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2363.TW
+underlyingSymbol	2363.TW
+shortName	SILICON INTEGRATED SYSTEMS CORP
+longName	Silicon Integrated Systems Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fd670ff6-1d1b-3e06-8119-a486b7cb246d
+messageBoardId	finmb_5939038
+gmtOffSetMilliseconds	28800000
+currentPrice	55.2
+recommendationKey	none
+totalCash	4014908928
+totalCashPerShare	5.356
+ebitda	-439830016
+totalDebt	11894000
+quickRatio	35.868
+currentRatio	36.521
+totalRevenue	188250000
+debtToEquity	0.063
+revenuePerShare	0.251
+returnOnAssets	-0.014989999
+returnOnEquity	0.03016
+freeCashflow	-170261632
+operatingCashflow	-286244992
+revenueGrowth	0.032
+grossMargins	0.34909
+ebitdaMargins	-2.33641
+operatingMargins	-3.01986
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                     -4116.555691     -28304.917831     576493.474411   -2706000.0
+Tax Rate For Calcs                                                  0.095734          0.105615          0.057385          0.2
+Normalized EBITDA                                                641070000.0       547636000.0       215497000.0 -219252000.0
+Total Unusual Items                                                 -43000.0         -268000.0        10046000.0  -13530000.0
+Total Unusual Items Excluding Goodwill                              -43000.0         -268000.0        10046000.0  -13530000.0
+Net Income From Continuing Operation Net Minority Interest       571261000.0       483657000.0       198311000.0 -299468000.0
+Reconciled Depreciation                                           22798000.0        28493000.0        29197000.0   23593000.0
+Reconciled Cost Of Revenue                                       130508000.0       177562000.0       167666000.0  115036000.0
+EBITDA                                                           641027000.0       547368000.0       225543000.0 -232782000.0
+EBIT                                                             618229000.0       518875000.0       196346000.0 -256375000.0
+Net Interest Income                                               25489000.0         4454000.0         2081000.0    3121000.0
+Interest Expense                                                    224000.0          191000.0          425000.0     195000.0
+Interest Income                                                   25713000.0         4645000.0         2506000.0    3316000.0
+Normalized Income                                           571299883.444309  483896695.082169  188841493.474411 -288644000.0
+Net Income From Continuing And Discontinued Operation            571261000.0       483657000.0       198311000.0 -299468000.0
+Total Expenses                                                   638344000.0       646012000.0       610729000.0  601640000.0
+Diluted Average Shares                                                   NaN       751465000.0       750006000.0  740051400.0
+Basic Average Shares                                                     NaN       749588000.0       749588000.0  740051400.0
+Diluted EPS                                                              NaN              0.64              0.26    -0.409091
+Basic EPS                                                                NaN              0.65              0.26    -0.409091
+Diluted NI Availto Com Stockholders                              571261000.0       483657000.0       198311000.0 -299468000.0
+Net Income Common Stockholders                                   571261000.0       483657000.0       198311000.0 -299468000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0          0.0
+Net Income                                                       571261000.0       483657000.0       198311000.0 -299468000.0
+Minority Interests                                                12420000.0        19754000.0        13633000.0     622000.0
+Net Income Including Noncontrolling Interests                    558841000.0       463903000.0       184678000.0 -300090000.0
+Net Income Continuous Operations                                 558841000.0       463903000.0       184678000.0 -300090000.0
+Tax Provision                                                     59164000.0        54781000.0        11243000.0   43520000.0
+Pretax Income                                                    618005000.0       518684000.0       195921000.0 -256570000.0
+Other Non Operating Income Expenses                               39855000.0        38662000.0        32316000.0   30121000.0
+Special Income Charges                                              -43000.0         -268000.0         3124000.0   -6373000.0
+Other Special Charges                                                37000.0          238000.0           -5000.0     468000.0
+Write Off                                                             6000.0           30000.0        -3119000.0    5905000.0
+Net Non Operating Interest Income Expense                         25489000.0         4454000.0         2081000.0    3121000.0
+Interest Expense Non Operating                                      224000.0          191000.0          425000.0     195000.0
+Interest Income Non Operating                                     25713000.0         4645000.0         2506000.0    3316000.0
+Operating Income                                                -451160000.0      -463810000.0      -358576000.0 -441469000.0
+Operating Expense                                                507836000.0       468450000.0       443063000.0  486604000.0
+Research And Development                                         305968000.0       266178000.0       249734000.0  325022000.0
+Selling General And Administration                               201868000.0       202272000.0       193329000.0  161582000.0
+Selling And Marketing Expense                                     47498000.0        74211000.0        71921000.0   41542000.0
+General And Administrative Expense                               154370000.0       128061000.0       121408000.0  120040000.0
+Gross Profit                                                      56676000.0         4640000.0        84487000.0   45135000.0
+Cost Of Revenue                                                  130508000.0       177562000.0       167666000.0  115036000.0
+Total Revenue                                                    187184000.0       182202000.0       252153000.0  160171000.0
+Operating Revenue                                                187184000.0       182202000.0       252153000.0  160171000.0

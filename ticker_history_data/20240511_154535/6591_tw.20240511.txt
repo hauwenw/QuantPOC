@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre Oleander
+address2	802 West Bay Road
+city	New Taipei City
+country	Taiwan
+phone	886 2 8226 3300
+website	https://www.sun-max.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Sun Max Tech Limited, an investment holding company, manufactures, wholesales, and retails cooling fans in China, Taiwan, and internationally. The company offers smart home appliances, such as air purifiers, hanging neck fans, and UV sterilization bottles; and electronic cooling products, including axial and dish fans, blowers, and water pumps. Sun Max Tech Limited was incorporated in 2013 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Faung  Hsu', 'title': 'Chairman, President & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Min  Yao', 'title': 'CFO, Chief Accounting Officer & Treasurer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chein-Ta  Wang', 'title': 'Sales Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	55.6
+open	56.2
+dayLow	56.2
+dayHigh	57.8
+regularMarketPreviousClose	55.6
+regularMarketOpen	56.2
+regularMarketDayLow	56.2
+regularMarketDayHigh	57.8
+dividendRate	3.94
+dividendYield	0.069299996
+exDividendDate	1688342400	 (2023-07-03 08:00:00)
+payoutRatio	1.1935
+fiveYearAvgDividendYield	5.27
+beta	1.274
+trailingPE	17.212122
+volume	457917
+regularMarketVolume	457917
+averageVolume	1188717
+averageVolume10days	253165
+averageDailyVolume10Day	253165
+bid	56.8
+ask	56.9
+marketCap	2116322560
+fiftyTwoWeekLow	46.1
+fiftyTwoWeekHigh	74.5
+priceToSalesTrailing12Months	1.531115
+fiftyDayAverage	58.1
+twoHundredDayAverage	52.775
+trailingAnnualDividendRate	2.75
+trailingAnnualDividendYield	0.049460433
+currency	TWD
+enterpriseValue	1770781952
+profitMargins	0.08574
+floatShares	26929940
+sharesOutstanding	37259200
+heldPercentInsiders	0.25982
+heldPercentInstitutions	0.01189
+impliedSharesOutstanding	37259200
+bookValue	49.087
+priceToBook	1.1571292
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.402
+netIncomeToCommon	118516000
+trailingEps	3.3
+lastSplitFactor	1150:1000
+lastSplitDate	1501632000	 (2017-08-02 08:00:00)
+enterpriseToRevenue	1.281
+enterpriseToEbitda	9.223
+52WeekChange	0.15329945
+SandP52WeekChange	0.26265144
+lastDividendValue	3.938548
+lastDividendDate	1688342400	 (2023-07-03 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6591.TW
+underlyingSymbol	6591.TW
+shortName	SUN MAX TECH LIMITED
+longName	Sun Max Tech Limited
+firstTradeDateEpochUtc	1480467600	 (2016-11-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	27682a12-3600-3c1a-b4ab-ae4d535d6d91
+messageBoardId	finmb_371714962
+gmtOffSetMilliseconds	28800000
+currentPrice	56.8
+recommendationKey	none
+totalCash	628417984
+totalCashPerShare	17.632
+ebitda	192000992
+totalDebt	365776992
+quickRatio	2.266
+currentRatio	2.698
+totalRevenue	1382210048
+debtToEquity	20.8
+revenuePerShare	39.618
+returnOnAssets	0.02747
+returnOnEquity	0.06771
+freeCashflow	10355750
+operatingCashflow	112181000
+earningsGrowth	-0.411
+revenueGrowth	-0.133
+grossMargins	0.28285998
+ebitdaMargins	0.13891
+operatingMargins	0.11169
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.328774      0.332939      0.330952      0.374469
+Normalized EBITDA                                            270305000.0   425153000.0   398695000.0   336814000.0
+Net Income From Continuing Operation Net Minority Interest   118516000.0   226013000.0   218753000.0   163871000.0
+Reconciled Depreciation                                       81799000.0    75773000.0    66778000.0    65858000.0
+Reconciled Cost Of Revenue                                   991237000.0  1143081000.0  1269729000.0  1044718000.0
+EBITDA                                                       270305000.0   425153000.0   398695000.0   336814000.0
+EBIT                                                         188506000.0   349380000.0   331917000.0   270956000.0
+Net Interest Income                                            5866000.0    -3465000.0    -4808000.0    -6208000.0
+Interest Expense                                              12245000.0    10660000.0     5939000.0     8985000.0
+Interest Income                                               18111000.0     7195000.0     1131000.0     2777000.0
+Normalized Income                                            118516000.0   226013000.0   218753000.0   163871000.0
+Net Income From Continuing And Discontinued Operation        118516000.0   226013000.0   218753000.0   163871000.0
+Total Expenses                                              1259879000.0  1398791000.0  1505985000.0  1279172000.0
+Diluted Average Shares                                        40972000.0    36900000.0    35501000.0    31444744.0
+Basic Average Shares                                          34888000.0    32761000.0    32025000.0    29277257.0
+Diluted EPS                                                         3.03          6.27          6.27      5.296974
+Basic EPS                                                            3.4           6.9          6.83      5.593447
+Diluted NI Availto Com Stockholders                          118516000.0   226013000.0   218753000.0   163871000.0
+Net Income Common Stockholders                               118516000.0   226013000.0   218753000.0   163871000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   118516000.0   226013000.0   218753000.0   163871000.0
+Minority Interests                                              205000.0       66000.0      658000.0           0.0
+Net Income Including Noncontrolling Interests                118311000.0   225947000.0   218095000.0   163871000.0
+Net Income Continuous Operations                             118311000.0   225947000.0   218095000.0   163871000.0
+Tax Provision                                                 57950000.0   112773000.0   107883000.0    98100000.0
+Pretax Income                                                176261000.0   338720000.0   325978000.0   261971000.0
+Other Non Operating Income Expenses                           48064000.0    82388000.0    -2443000.0   -30814000.0
+Net Non Operating Interest Income Expense                      5866000.0    -3465000.0    -4808000.0    -6208000.0
+Interest Expense Non Operating                                12245000.0    10660000.0     5939000.0     8985000.0
+Interest Income Non Operating                                 18111000.0     7195000.0     1131000.0     2777000.0
+Operating Income                                             122331000.0   259797000.0   333229000.0   298993000.0
+Operating Expense                                            268642000.0   255710000.0   236256000.0   234454000.0
+Research And Development                                      68551000.0    63709000.0    60967000.0    52434000.0
+Selling General And Administration                           200091000.0   192001000.0   175289000.0   182020000.0
+Selling And Marketing Expense                                 37231000.0    35072000.0    31712000.0    30414000.0
+General And Administrative Expense                           162860000.0   156929000.0   143577000.0   151606000.0
+Gross Profit                                                 390973000.0   515507000.0   569485000.0   533447000.0
+Cost Of Revenue                                              991237000.0  1143081000.0  1269729000.0  1044718000.0
+Total Revenue                                               1382210000.0  1658588000.0  1839214000.0  1578165000.0
+Operating Revenue                                           1382210000.0  1658588000.0  1839214000.0  1578165000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 266, Songjiang Road
+address2	10th Floor Zhongshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2521 0251
+website	https://www.sanyo.com.tw
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Taiwan Sanyo Electric Co.,Ltd. manufactures and sells home appliances in Taiwan and internationally. It offers air conditioners, refrigerators, freezers, televisions, audio visual peripherals, LCD monitors, cooking appliances, home living products, bathroom ventilation heaters, dehumidifiers, electric fans, washing machines, hair dryers, shavers, and digital communication products under the SANLUX brand. The company was founded in 1963 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	1104
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wenlin  Lee', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 4778000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yulong  Chaio', 'title': 'Director & VP of Manufacturing Dept', 'fiscalYear': 2021, 'totalPay': 4070000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Changhui  Lin', 'title': 'Assistant Vice President of Treasury Dept.', 'fiscalYear': 2021, 'totalPay': 1332000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Techeng  Huang', 'title': 'Assistant Vice President of the Manufacturing Department', 'fiscalYear': 2021, 'totalPay': 1186000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tzu-Han  Hsu', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Huang  An-Sheng', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	50.6
+open	50.4
+dayLow	49.25
+dayHigh	52.6
+regularMarketPreviousClose	50.6
+regularMarketOpen	50.4
+regularMarketDayLow	49.25
+regularMarketDayHigh	52.6
+dividendRate	0.99
+dividendYield	0.02
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.8862
+fiveYearAvgDividendYield	2.79
+trailingPE	44.285713
+volume	4809947
+regularMarketVolume	4809947
+averageVolume	491292
+averageVolume10days	1967724
+averageDailyVolume10Day	1967724
+bid	49.6
+ask	49.8
+marketCap	12842977280
+fiftyTwoWeekLow	36.25
+fiftyTwoWeekHigh	52.6
+priceToSalesTrailing12Months	2.2857716
+fiftyDayAverage	40.264
+twoHundredDayAverage	38.7165
+trailingAnnualDividendRate	1.07
+trailingAnnualDividendYield	0.021146247
+currency	TWD
+enterpriseValue	11620326400
+profitMargins	0.05145
+floatShares	130232362
+sharesOutstanding	258931008
+heldPercentInsiders	0.45882
+heldPercentInstitutions	0.0069
+impliedSharesOutstanding	258931008
+bookValue	21.005
+priceToBook	2.3613427
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.648
+netIncomeToCommon	289083008
+trailingEps	1.12
+lastSplitFactor	0.85:1
+lastSplitDate	1380844800	 (2013-10-04 08:00:00)
+enterpriseToRevenue	2.068
+enterpriseToEbitda	25.508
+52WeekChange	0.35519123
+SandP52WeekChange	0.26265144
+lastDividendValue	0.992585
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1614.TW
+underlyingSymbol	1614.TW
+shortName	SANYO ELECTRIC CO(TAIWAN)
+longName	Taiwan Sanyo Electric Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	99bc19d2-674b-3063-860c-c3a0537cc22e
+messageBoardId	finmb_9707500
+gmtOffSetMilliseconds	28800000
+currentPrice	49.6
+recommendationKey	none
+totalCash	978755008
+totalCashPerShare	3.867
+ebitda	455548992
+quickRatio	1.04
+currentRatio	2.13
+totalRevenue	5618661888
+revenuePerShare	21.947
+returnOnAssets	0.02949
+returnOnEquity	0.05432
+freeCashflow	587881984
+operatingCashflow	694356992
+earningsGrowth	-0.632
+revenueGrowth	-0.098
+grossMargins	0.20977
+ebitdaMargins	0.08108
+operatingMargins	0.01677
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    118613.765527      86275.52104           0.0           0.0
+Tax Rate For Calcs                                                  0.168246         0.182401      0.204001      0.184025
+Normalized EBITDA                                                517850000.0      482141000.0   584773000.0   584291000.0
+Total Unusual Items                                                 705000.0         473000.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                              705000.0         473000.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest       321672000.0      291621000.0   367717000.0   352293000.0
+Reconciled Depreciation                                          127299000.0      120202000.0   118017000.0   147017000.0
+Reconciled Cost Of Revenue                                      4535696000.0     4976849000.0  4556369000.0  4320343000.0
+EBITDA                                                           518555000.0      482614000.0   584773000.0   584291000.0
+EBIT                                                             391256000.0      362412000.0   466756000.0   437274000.0
+Net Interest Income                                                 475000.0           1000.0     -151000.0     -800000.0
+Interest Expense                                                   1863000.0        1739000.0     1377000.0     1470000.0
+Interest Income                                                    2338000.0        1740000.0     1226000.0      670000.0
+Normalized Income                                           321085613.765527  291234275.52104   367717000.0   352293000.0
+Net Income From Continuing And Discontinued Operation            321672000.0      291621000.0   367717000.0   352293000.0
+Total Expenses                                                  5381190000.0     5792328000.0  5351735000.0  5078205000.0
+Diluted Average Shares                                           260373000.0      259744000.0   260205000.0   260052000.0
+Basic Average Shares                                             258930000.0      258930000.0   258930000.0   258930000.0
+Diluted EPS                                                             1.24             1.12          1.41          1.35
+Basic EPS                                                               1.24             1.13          1.42          1.36
+Diluted NI Availto Com Stockholders                              321672000.0      291621000.0   367717000.0   352293000.0
+Net Income Common Stockholders                                   321672000.0      291621000.0   367717000.0   352293000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0           0.0           0.0
+Net Income                                                       321672000.0      291621000.0   367717000.0   352293000.0
+Minority Interests                                                -2207000.0       -3265000.0    -2724000.0    -3312000.0
+Net Income Including Noncontrolling Interests                    323879000.0      294886000.0   370441000.0   355605000.0
+Net Income Continuous Operations                                 323879000.0      294886000.0   370441000.0   355605000.0
+Tax Provision                                                     65514000.0       65787000.0    94938000.0    80199000.0
+Pretax Income                                                    389393000.0      360673000.0   465379000.0   435804000.0
+Other Non Operating Income Expenses                               13835000.0        9194000.0    19943000.0    26460000.0
+Special Income Charges                                              705000.0         473000.0           NaN           NaN
+Write Off                                                          -705000.0        -473000.0           NaN           NaN
+Net Non Operating Interest Income Expense                           475000.0           1000.0     -151000.0     -800000.0
+Interest Expense Non Operating                                     1863000.0        1739000.0     1377000.0     1470000.0
+Interest Income Non Operating                                      2338000.0        1740000.0     1226000.0      670000.0
+Operating Income                                                 374378000.0      351005000.0   445587000.0   410144000.0
+Operating Expense                                                845494000.0      815479000.0   795366000.0   757862000.0
+Research And Development                                          73834000.0       69611000.0    69255000.0    68355000.0
+Selling General And Administration                               771660000.0      745868000.0   726111000.0   689507000.0
+Selling And Marketing Expense                                    628704000.0      622640000.0   600889000.0   572371000.0
+General And Administrative Expense                               142956000.0      123228000.0   125222000.0   117136000.0
+Gross Profit                                                    1219872000.0     1166484000.0  1240953000.0  1168006000.0
+Cost Of Revenue                                                 4535696000.0     4976849000.0  4556369000.0  4320343000.0
+Total Revenue                                                   5755568000.0     6143333000.0  5797322000.0  5488349000.0
+Operating Revenue                                               5755568000.0     6143333000.0  5797322000.0  5488349000.0

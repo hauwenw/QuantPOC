@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	62-5 Hsi-Ning North Road
+address2	7/F
+city	Taipei
+country	Taiwan
+phone	886 2 2552 3977
+fax	886 2 2552 1969
+website	https://www.utc.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Universal Textile Co., Ltd. manufactures and sells fabrics in Taiwan. The company offers polyester filament woven and T/R interweaving fabrics for men and ladies; polyester textured yarns; complex textured yarns; special cross-section polyester filament yarns; and recycled PET products. Universal Textile Co., Ltd. was founded in 1969 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jen-Kai  Yang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Chin  Lin', 'title': 'Senior Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fang Cheng  Hu', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	22.85
+open	22.85
+dayLow	22.45
+dayHigh	22.85
+regularMarketPreviousClose	22.85
+regularMarketOpen	22.85
+regularMarketDayLow	22.45
+regularMarketDayHigh	22.85
+dividendRate	0.1
+dividendYield	0.0044
+exDividendDate	1688083200	 (2023-06-30 08:00:00)
+payoutRatio	0.013099999
+fiveYearAvgDividendYield	2.31
+beta	0.135
+trailingPE	2.9673204
+volume	433828
+regularMarketVolume	433828
+averageVolume	1013711
+averageVolume10days	1558578
+averageDailyVolume10Day	1558578
+bid	22.7
+ask	22.7
+marketCap	2966118400
+fiftyTwoWeekLow	18.1
+fiftyTwoWeekHigh	27.95
+priceToSalesTrailing12Months	2.1466887
+fiftyDayAverage	23.022
+twoHundredDayAverage	21.1655
+trailingAnnualDividendRate	2.5
+trailingAnnualDividendYield	0.10940919
+currency	TWD
+enterpriseValue	1512588160
+profitMargins	0.72980005
+floatShares	94220639
+sharesOutstanding	130666000
+heldPercentInsiders	0.46513
+heldPercentInstitutions	0.00037
+impliedSharesOutstanding	132389000
+bookValue	20.616
+priceToBook	1.1010866
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	60.635
+netIncomeToCommon	1008380992
+trailingEps	7.65
+lastSplitFactor	105:100
+lastSplitDate	1060646400	 (2003-08-12 08:00:00)
+enterpriseToRevenue	1.095
+enterpriseToEbitda	-34.811
+52WeekChange	0.1321696
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1688083200	 (2023-06-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1445.TW
+underlyingSymbol	1445.TW
+shortName	UNIVERSAL TEXTILE CO
+longName	Universal Textile Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c531ad92-dd04-33b8-8d69-16f3ba2bfafe
+messageBoardId	finmb_9817333
+gmtOffSetMilliseconds	28800000
+currentPrice	22.7
+recommendationKey	none
+totalCash	1453998976
+totalCashPerShare	11.128
+ebitda	-43452000
+totalDebt	469000
+quickRatio	5.179
+currentRatio	6.3
+totalRevenue	1381718016
+debtToEquity	0.017
+revenuePerShare	10.574
+returnOnAssets	-0.01808
+returnOnEquity	0.46611
+freeCashflow	31287376
+operatingCashflow	-25331000
+earningsGrowth	58.85
+revenueGrowth	-0.22
+grossMargins	0.13436
+ebitdaMargins	-0.03145
+operatingMargins	-0.31699
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31    2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     -98558.317859      559000.0     -360600.0   1345085.238862
+Tax Rate For Calcs                                                   0.045169           0.2           0.2         0.309286
+Normalized EBITDA                                                1092530000.0    25823000.0    13593000.0      -37699000.0
+Total Unusual Items                                                -2182000.0     2795000.0    -1803000.0        4349000.0
+Total Unusual Items Excluding Goodwill                             -2182000.0     2795000.0    -1803000.0        4349000.0
+Net Income From Continuing Operation Net Minority Interest       1008381000.0    10988000.0   -25193000.0      -57906000.0
+Reconciled Depreciation                                            32840000.0    33816000.0    33415000.0       49911000.0
+Reconciled Cost Of Revenue                                       1196069000.0  1392090000.0  1170066000.0      922558000.0
+EBITDA                                                           1090348000.0    28618000.0    11790000.0      -33350000.0
+EBIT                                                             1057508000.0    -5198000.0   -21625000.0      -83261000.0
+Net Interest Income                                                -1425000.0     -947000.0      -38000.0        -329000.0
+Interest Expense                                                    1425000.0      947000.0       38000.0         574000.0
+Interest Income                                                           NaN           NaN      518000.0         245000.0
+Normalized Income                                           1010464441.682141     8752000.0   -23750600.0 -60909914.761138
+Net Income From Continuing And Discontinued Operation            1008381000.0    10988000.0   -25193000.0      -57906000.0
+Total Expenses                                                   1455248000.0  1547822000.0  1300106000.0     1040656000.0
+Rent Expense Supplemental                                                 NaN           NaN           0.0          26000.0
+Diluted Average Shares                                                    NaN   130666000.0   130666000.0      131215000.0
+Basic Average Shares                                                      NaN   130666000.0   130666000.0      131215000.0
+Diluted EPS                                                               NaN          0.08         -0.19            -0.44
+Basic EPS                                                                 NaN          0.08         -0.19            -0.44
+Diluted NI Availto Com Stockholders                              1008381000.0    10988000.0   -25193000.0      -57906000.0
+Net Income Common Stockholders                                   1008381000.0    10988000.0   -25193000.0      -57906000.0
+Otherunder Preferred Stock Dividend                                       0.0           0.0           0.0              0.0
+Net Income                                                       1008381000.0    10988000.0   -25193000.0      -57906000.0
+Net Income Including Noncontrolling Interests                    1008381000.0    10988000.0   -25193000.0      -57906000.0
+Net Income Continuous Operations                                 1008381000.0    10988000.0   -25193000.0      -57906000.0
+Tax Provision                                                      47702000.0   -17133000.0     3530000.0      -25929000.0
+Pretax Income                                                    1056083000.0    -6145000.0   -21663000.0      -83835000.0
+Other Non Operating Income Expenses                              1133220000.0    28621000.0    26136000.0       35854000.0
+Special Income Charges                                             -2182000.0     2795000.0    -1803000.0        1057000.0
+Other Special Charges                                                     NaN           NaN      324000.0         246000.0
+Write Off                                                           2182000.0    -2795000.0     1803000.0       -1303000.0
+Net Non Operating Interest Income Expense                          -1425000.0     -947000.0      -38000.0        -329000.0
+Interest Expense Non Operating                                      1425000.0      947000.0       38000.0         574000.0
+Interest Income Non Operating                                             NaN           NaN      518000.0         245000.0
+Operating Income                                                  -73530000.0   -36614000.0   -45958000.0     -123186000.0
+Operating Expense                                                 259179000.0   155732000.0   130040000.0      118098000.0
+Other Operating Expenses                                                  NaN           NaN      600000.0         564000.0
+Depreciation And Amortization In Income Statement                         NaN           NaN     1442000.0        1517000.0
+Depreciation Income Statement                                             NaN           NaN     1442000.0        1517000.0
+Research And Development                                           18360000.0     9383000.0     9314000.0        8964000.0
+Selling General And Administration                                240819000.0   146349000.0   120726000.0       69160000.0
+Selling And Marketing Expense                                     122021000.0   113273000.0    94636000.0       55770000.0
+General And Administrative Expense                                118798000.0    33076000.0    26090000.0       13390000.0
+Rent And Landing Fees                                                     NaN           NaN           0.0          26000.0
+Gross Profit                                                      185649000.0   119118000.0    84082000.0       -5088000.0
+Cost Of Revenue                                                  1196069000.0  1392090000.0  1170066000.0      922558000.0
+Total Revenue                                                    1381718000.0  1511208000.0  1254148000.0      917470000.0
+Operating Revenue                                                1381718000.0  1511208000.0  1254148000.0      917470000.0

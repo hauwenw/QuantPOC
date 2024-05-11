@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 9, Min Sheng Street
+address2	Tu-Cheng
+city	New Taipei City
+zip	23679
+country	Taiwan
+phone	886 2 2268 5568
+fax	886 2 2268 6525
+website	https://www.wellell.com/en
+industry	Medical Devices
+industryKey	medical-devices
+industryDisp	Medical Devices
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Wellell Inc. provides medical solutions for healthcare professionals worldwide. The company offers wound management products, including Serene Air and Serene Elite, which are alternating pressure redistribution systems for patients with high to very high risk for pressure ulcers; ACS Turn, a low air lateral turning mattress; Pro-care Optima, an alternating pressure redistribution system for patients with high to very high risk of pressure injuries; Pro-care turn, a bilateral turning air mattress for patients with medium to high risk of pressure injuries; Domus Auto, Domus 4, and Verso for patients with medium to high risk of pressure injury; Domus 3 for patients with medium risk of pressure injury; Domus 2s for patients with low to medium risk of pressure injury; Domus 1 for patients in low risk of pressure injury; Sedens 500 and Sedens 400, which are seat cushions; and Flexi-Air, a non-powered hybrid mattress. It also provides respiratory therapy products, such as nasal masks, full face masks, nasal pillows mask, portable suction unit, and compressor nebulizers; iCH Auto and XT Auto for automatic positive airway pressure; XT Prime, XT Sense, and XT Fit for continuous positive airway pressure; XT Heated Humidifier for humidification; and medical equipment. Wellell Inc. was founded in 1990 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yong-Chuan  Li', 'title': 'Chairman of the Board & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Lee', 'title': 'Founder & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shin-Ho  Chen', 'title': 'Senior Director of Finance & Accounting Division and Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Ling  Su', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Alan  Chang', 'title': 'Chief of Research & Development', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pi Kai  Lee', 'title': 'Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	27.75
+open	27.75
+dayLow	27.7
+dayHigh	28.1
+regularMarketPreviousClose	27.75
+regularMarketOpen	27.75
+regularMarketDayLow	27.7
+regularMarketDayHigh	28.1
+dividendRate	0.85
+dividendYield	0.030199999
+exDividendDate	1690848000	 (2023-08-01 08:00:00)
+payoutRatio	0.5667
+fiveYearAvgDividendYield	2.13
+beta	0.227
+trailingPE	18.733334
+forwardPE	17.5625
+volume	62658
+regularMarketVolume	62658
+averageVolume	124298
+averageVolume10days	90681
+averageDailyVolume10Day	90681
+bid	27.9
+ask	28.1
+marketCap	2835627264
+fiftyTwoWeekLow	26.45
+fiftyTwoWeekHigh	39.75
+priceToSalesTrailing12Months	1.0712115
+fiftyDayAverage	28.174
+twoHundredDayAverage	28.22475
+currency	TWD
+enterpriseValue	2445712640
+profitMargins	0.057490002
+sharesOutstanding	100912000
+heldPercentInsiders	0.29288
+heldPercentInstitutions	0.19549999
+impliedSharesOutstanding	103485000
+bookValue	23.149
+priceToBook	1.2138753
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.375
+netIncomeToCommon	152172000
+trailingEps	1.5
+forwardEps	1.6
+lastSplitFactor	1.1:1
+lastSplitDate	1311638400	 (2011-07-26 08:00:00)
+enterpriseToRevenue	0.924
+enterpriseToEbitda	8.586
+52WeekChange	-0.07260728
+SandP52WeekChange	0.26265144
+lastDividendValue	0.85
+lastDividendDate	1690848000	 (2023-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4106.TW
+underlyingSymbol	4106.TW
+shortName	WELLELL INC
+longName	Wellell Inc.
+firstTradeDateEpochUtc	1099875600	 (2004-11-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a4bf2633-4ec6-339c-949f-413d9b8b6a08
+messageBoardId	finmb_20333098
+gmtOffSetMilliseconds	28800000
+currentPrice	28.1
+recommendationKey	none
+totalCash	759305984
+totalCashPerShare	7.524
+ebitda	284838016
+totalDebt	364515008
+quickRatio	1.827
+currentRatio	2.464
+totalRevenue	2647121920
+debtToEquity	15.572
+revenuePerShare	26.232
+returnOnAssets	0.03774
+returnOnEquity	0.066989996
+freeCashflow	379502880
+operatingCashflow	455657984
+earningsGrowth	0.366
+revenueGrowth	-0.025
+grossMargins	0.43001997
+ebitdaMargins	0.1076
+operatingMargins	0.0718
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     43066.903976    -226692.949431      79113.853463     330261.013745
+Tax Rate For Calcs                                                  0.270861          0.191625           0.25036          0.155931
+Normalized EBITDA                                                317641000.0       305214000.0       238981000.0       211280000.0
+Total Unusual Items                                                 159000.0        -1183000.0          316000.0         2118000.0
+Total Unusual Items Excluding Goodwill                              159000.0        -1183000.0          316000.0         2118000.0
+Net Income From Continuing Operation Net Minority Interest       152172000.0       161404000.0       102247000.0       104588000.0
+Reconciled Depreciation                                           93763000.0        93311000.0        93546000.0        79274000.0
+Reconciled Cost Of Revenue                                      1508805000.0      1596935000.0      1387103000.0      1156394000.0
+EBITDA                                                           317800000.0       304031000.0       239297000.0       213398000.0
+EBIT                                                             224037000.0       210720000.0       145751000.0       134124000.0
+Net Interest Income                                               -7972000.0        -7244000.0        -4845000.0        -6450000.0
+Interest Expense                                                  14184000.0        10183000.0         7670000.0         9280000.0
+Interest Income                                                    6212000.0         2939000.0         2825000.0         2830000.0
+Normalized Income                                           152056066.903976  162360307.050569  102010113.853463  102800261.013745
+Net Income From Continuing And Discontinued Operation            152172000.0       161404000.0       102247000.0       104588000.0
+Total Expenses                                                  2453062000.0      2477600000.0      2270048000.0      1907207000.0
+Diluted Average Shares                                                   NaN       101536000.0       101320000.0       101331000.0
+Basic Average Shares                                                     NaN       100912000.0       100912000.0       100912000.0
+Diluted EPS                                                              NaN              1.59              1.01              1.03
+Basic EPS                                                                NaN               1.6              1.01              1.04
+Diluted NI Availto Com Stockholders                              152172000.0       161404000.0       102247000.0       104588000.0
+Net Income Common Stockholders                                   152172000.0       161404000.0       102247000.0       104588000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       152172000.0       161404000.0       102247000.0       104588000.0
+Minority Interests                                                 -840000.0         -705000.0        -1264000.0         -789000.0
+Net Income Including Noncontrolling Interests                    153012000.0       162109000.0       103511000.0       105377000.0
+Net Income Continuous Operations                                 153012000.0       162109000.0       103511000.0       105377000.0
+Tax Provision                                                     56841000.0        38428000.0        34570000.0        19467000.0
+Pretax Income                                                    209853000.0       200537000.0       138081000.0       124844000.0
+Other Non Operating Income Expenses                               23929000.0        22841000.0        38565000.0        19031000.0
+Special Income Charges                                              159000.0        -1183000.0          316000.0         2118000.0
+Write Off                                                          -159000.0         1183000.0         -316000.0        -2118000.0
+Net Non Operating Interest Income Expense                         -7972000.0        -7244000.0        -4845000.0        -6450000.0
+Interest Expense Non Operating                                    14184000.0        10183000.0         7670000.0         9280000.0
+Interest Income Non Operating                                      6212000.0         2939000.0         2825000.0         2830000.0
+Operating Income                                                 194060000.0       186123000.0       104007000.0        96818000.0
+Operating Expense                                                944257000.0       880665000.0       882945000.0       750813000.0
+Research And Development                                         165762000.0       154283000.0       150746000.0       167827000.0
+Selling General And Administration                               778495000.0       726382000.0       732199000.0       582986000.0
+Selling And Marketing Expense                                    379127000.0       379485000.0       369226000.0       275461000.0
+General And Administrative Expense                               399368000.0       346897000.0       362973000.0       307525000.0
+Gross Profit                                                    1138317000.0      1066788000.0       986952000.0       847631000.0
+Cost Of Revenue                                                 1508805000.0      1596935000.0      1387103000.0      1156394000.0
+Total Revenue                                                   2647122000.0      2663723000.0      2374055000.0      2004025000.0
+Operating Revenue                                               2647122000.0      2663723000.0      2374055000.0      2004025000.0

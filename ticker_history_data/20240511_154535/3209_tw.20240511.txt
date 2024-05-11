@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 360, Ruei Guang Road
+address2	9th Floor Neihu
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2627 5859
+fax	886 2 2627 5869
+website	https://www.alltek.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Alltek Technology Corporation operates as a communication components distributor and solution provider in Taiwan and internationally. It offers telecommunications equipment and computer peripherals; and trades in electronic components and test equipment. The company trades in, imports, and exports radio equipment; and acts as an agent for the products and tendering business of domestic and foreign manufacturers. In addition, it designs, manufactures, and sells AIS products and lighting equipment. Its products are used in data communication, wireless, optical communication, cloud computing, IoT, edge AI, power, and vehicle electrification applications. The company was incorporated in 1991 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hung-Chang  Hsieh', 'title': 'Executive Manager, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Nan  Sun', 'title': 'Deputy General Manager & Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Min-Hui  Wang', 'title': 'Deputy General Manager of General Affairs', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	34.9
+open	34.9
+dayLow	34.9
+dayHigh	35.15
+regularMarketPreviousClose	34.9
+regularMarketOpen	34.9
+regularMarketDayLow	34.9
+regularMarketDayHigh	35.15
+dividendRate	3.58
+dividendYield	0.1019
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	1.4314
+fiveYearAvgDividendYield	6.01
+beta	0.57
+trailingPE	14.039999
+forwardPE	14.268291
+volume	425514
+regularMarketVolume	425514
+averageVolume	856006
+averageVolume10days	590717
+averageDailyVolume10Day	590717
+bid	35.1
+ask	35.15
+marketCap	8154221056
+fiftyTwoWeekLow	32.05
+fiftyTwoWeekHigh	42.45
+priceToSalesTrailing12Months	0.1455619
+fiftyDayAverage	35.437
+twoHundredDayAverage	35.41925
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.057306588
+currency	TWD
+enterpriseValue	14847293440
+profitMargins	0.01064
+floatShares	186895873
+sharesOutstanding	232314000
+heldPercentInsiders	0.1869
+heldPercentInstitutions	0.023120001
+impliedSharesOutstanding	232314000
+bookValue	20.619
+priceToBook	1.7023134
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.203
+netIncomeToCommon	596104000
+trailingEps	2.5
+forwardEps	2.46
+lastSplitFactor	1080:1000
+lastSplitDate	1658361600	 (2022-07-21 08:00:00)
+enterpriseToRevenue	0.265
+enterpriseToEbitda	11.929
+52WeekChange	-0.14598542
+SandP52WeekChange	0.26265144
+lastDividendValue	3.578376
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3209.TW
+underlyingSymbol	3209.TW
+shortName	ALLTEK TECHNOLOGY CORP
+longName	Alltek Technology Corporation
+firstTradeDateEpochUtc	1227661200	 (2008-11-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	829e9c67-9c24-3ef4-bec2-df4cb14295b1
+messageBoardId	finmb_9682599
+gmtOffSetMilliseconds	28800000
+currentPrice	35.1
+recommendationKey	none
+totalCash	452619008
+totalCashPerShare	1.949
+ebitda	1244608000
+totalDebt	6960714752
+quickRatio	0.609
+currentRatio	1.451
+totalRevenue	56018923520
+debtToEquity	139.895
+revenuePerShare	245.126
+returnOnAssets	0.03847
+returnOnEquity	0.12339
+freeCashflow	-849887744
+operatingCashflow	-307750016
+earningsGrowth	-0.185
+revenueGrowth	-0.148
+grossMargins	0.041160002
+ebitdaMargins	0.022219999
+operatingMargins	0.01946
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                   -810618.866832    -1930058.9037            0.0            0.0
+Tax Rate For Calcs                                                  0.203724          0.23878         0.2146       0.216131
+Normalized EBITDA                                               1369470000.0     1730551000.0   1162222000.0    790417000.0
+Total Unusual Items                                               -3979000.0       -8083000.0            NaN            NaN
+Total Unusual Items Excluding Goodwill                            -3979000.0       -8083000.0            NaN            NaN
+Net Income From Continuing Operation Net Minority Interest       596104000.0     1085773000.0    812413000.0    461288000.0
+Reconciled Depreciation                                           78909000.0       80764000.0     80077000.0     87439000.0
+Reconciled Cost Of Revenue                                     53713108000.0    57972155000.0  44688561000.0  40325134000.0
+EBITDA                                                          1365491000.0     1722468000.0   1162222000.0    790417000.0
+EBIT                                                            1286582000.0     1641704000.0   1082145000.0    702978000.0
+Net Interest Income                                             -512996000.0     -212906000.0    -77675000.0   -123969000.0
+Interest Expense                                                 533790000.0      228533000.0     81188000.0    127562000.0
+Interest Income                                                   20794000.0       15627000.0      3513000.0      3593000.0
+Normalized Income                                           599272381.133168  1091925941.0963    812413000.0    461288000.0
+Net Income From Continuing And Discontinued Operation            596104000.0     1085773000.0    812413000.0    461288000.0
+Total Expenses                                                 54786455000.0    59191593000.0  46042637000.0  41376945000.0
+Diluted Average Shares                                           235614229.0      226674948.0    218872000.0    211804200.0
+Basic Average Shares                                             228392337.0      216721158.0    216575000.0    209986560.0
+Diluted EPS                                                             2.53             4.79           3.71       2.175926
+Basic EPS                                                               2.61             5.01           3.75       2.194444
+Diluted NI Availto Com Stockholders                              596104000.0     1085773000.0    812413000.0    461288000.0
+Net Income Common Stockholders                                   596104000.0     1085773000.0    812413000.0    461288000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0            0.0            0.0
+Net Income                                                       596104000.0     1085773000.0    812413000.0    461288000.0
+Minority Interests                                                -3326000.0       10039000.0     26261000.0     10237000.0
+Net Income Including Noncontrolling Interests                    599430000.0     1075734000.0    786152000.0    451051000.0
+Net Income Continuous Operations                                 599430000.0     1075734000.0    786152000.0    451051000.0
+Tax Provision                                                    153362000.0      337437000.0    214805000.0    124365000.0
+Pretax Income                                                    752792000.0     1413171000.0   1000957000.0    575416000.0
+Other Non Operating Income Expenses                                6668000.0      315313000.0    -27155000.0    131982000.0
+Special Income Charges                                            -3979000.0       -8083000.0            NaN            NaN
+Write Off                                                          3979000.0        8083000.0            NaN            NaN
+Net Non Operating Interest Income Expense                       -512996000.0     -212906000.0    -77675000.0   -123969000.0
+Interest Expense Non Operating                                   533790000.0      228533000.0     81188000.0    127562000.0
+Interest Income Non Operating                                     20794000.0       15627000.0      3513000.0      3593000.0
+Operating Income                                                1232467000.0     1236803000.0   1091616000.0    571878000.0
+Operating Expense                                               1073347000.0     1219438000.0   1354076000.0   1051811000.0
+Research And Development                                         127797000.0      128191000.0    138473000.0    125361000.0
+Selling General And Administration                               945550000.0     1091247000.0   1215603000.0    926450000.0
+Selling And Marketing Expense                                    553872000.0      649814000.0    700250000.0    517718000.0
+General And Administrative Expense                               391678000.0      441433000.0    515353000.0    408732000.0
+Gross Profit                                                    2305814000.0     2456241000.0   2445692000.0   1623689000.0
+Cost Of Revenue                                                53713108000.0    57972155000.0  44688561000.0  40325134000.0
+Total Revenue                                                  56018922000.0    60428396000.0  47134253000.0  41948823000.0
+Operating Revenue                                              56018922000.0    60428396000.0  47134253000.0  41948823000.0

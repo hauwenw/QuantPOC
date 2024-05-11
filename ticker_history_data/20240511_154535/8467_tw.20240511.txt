@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	Ugland House
+address2	PO Box 309
+city	Grand Cayman
+zip	KY1-1104
+country	Cayman Islands
+website	https://www.bonnyworldwide.com
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Bonny Worldwide Limited, together with its subsidiaries, engages in the manufacture and sale of OEM and ODM carbon fiber rackets and related sporting goods. The company offers hockey sticks, tennis and badminton rackets, and carbon fiber rims. It also provides helmets for the goalkeepers, carbon fiber car wheels, squash rackets, etc.; and accessories, such as shuttlecocks, tennis balls, athletic shoes, sportswear, travel bags, etc. The company offers its products under the BONNY brand name. In addition, it operates and manages a sports center. The company has operations in North America, Mainland China, Taiwan, and internationally. Bonny Worldwide Limited was founded in 1982 and is headquartered in Grand Cayman, the Cayman Islands.
+fullTimeEmployees	998
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jin-San  Hong', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Chun  Tai', 'title': 'Finance & Accounting Division Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fang-Ming  Lo', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Dan  Hong', 'title': 'Deputy GM & Brand Sales Division Director and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	176.0
+open	176.0
+dayLow	174.0
+dayHigh	182.0
+regularMarketPreviousClose	176.0
+regularMarketOpen	176.0
+regularMarketDayLow	174.0
+regularMarketDayHigh	182.0
+dividendRate	12.0
+dividendYield	0.0956
+exDividendDate	1671667200	 (2022-12-22 08:00:00)
+fiveYearAvgDividendYield	4.11
+beta	0.669
+trailingPE	23.407022
+volume	301932
+regularMarketVolume	301932
+averageVolume	1027716
+averageVolume10days	569984
+averageDailyVolume10Day	569984
+bid	179.5
+ask	180.5
+marketCap	9221940224
+fiftyTwoWeekLow	55.3
+fiftyTwoWeekHigh	225.5
+priceToSalesTrailing12Months	4.6386676
+fiftyDayAverage	186.23
+twoHundredDayAverage	128.3465
+currency	TWD
+enterpriseValue	9235804160
+profitMargins	0.19459999
+floatShares	25218420
+sharesOutstanding	51233000
+heldPercentInsiders	0.58659
+heldPercentInstitutions	0.0014200001
+impliedSharesOutstanding	53374100
+bookValue	39.729
+priceToBook	4.5306954
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	30.306
+netIncomeToCommon	386868000
+trailingEps	7.69
+enterpriseToRevenue	4.646
+enterpriseToEbitda	17.487
+52WeekChange	2.197158
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1671667200	 (2022-12-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8467.TW
+underlyingSymbol	8467.TW
+shortName	BONNY WORLDWIDE LTD
+longName	Bonny Worldwide Limited
+firstTradeDateEpochUtc	1450141200	 (2015-12-15 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	eb9f417c-a879-3dd0-b041-bfd8d14bb517
+messageBoardId	finmb_265833840
+gmtOffSetMilliseconds	28800000
+currentPrice	180.0
+recommendationKey	none
+totalCash	1083228032
+totalCashPerShare	21.143
+ebitda	528147008
+totalDebt	1099377024
+quickRatio	1.178
+currentRatio	1.727
+totalRevenue	1988057984
+debtToEquity	54.072
+revenuePerShare	39.537
+returnOnAssets	0.07793
+returnOnEquity	0.21121
+freeCashflow	269445632
+operatingCashflow	459319008
+earningsGrowth	29.261
+revenueGrowth	0.267
+grossMargins	0.39161998
+ebitdaMargins	0.26566
+operatingMargins	0.22767
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    239720.225965     584811.814502   -346292.575597     -409400.0
+Tax Rate For Calcs                                                  0.148526           0.16455         0.265155           0.2
+Normalized EBITDA                                                619641000.0       629685000.0      274873000.0   151290000.0
+Total Unusual Items                                                1614000.0         3554000.0       -1306000.0    -2047000.0
+Total Unusual Items Excluding Goodwill                             1614000.0         3554000.0       -1306000.0    -2047000.0
+Net Income From Continuing Operation Net Minority Interest       386868000.0       406778000.0       97912000.0    23732000.0
+Reconciled Depreciation                                          121695000.0       122768000.0      118048000.0   112526000.0
+Reconciled Cost Of Revenue                                      1209494000.0      1218837000.0      944478000.0   712827000.0
+EBITDA                                                           621255000.0       633239000.0      273567000.0   149243000.0
+EBIT                                                             499560000.0       510471000.0      155519000.0    36717000.0
+Net Interest Income                                              -15256000.0       -14650000.0      -14734000.0    -4019000.0
+Interest Expense                                                  47631000.0        24966000.0       22808000.0    18214000.0
+Interest Income                                                   32375000.0        10316000.0        8074000.0    14195000.0
+Normalized Income                                           385493720.225965  403808811.814502  98871707.424403    25369600.0
+Net Income From Continuing And Discontinued Operation            386868000.0       406778000.0       97912000.0    23732000.0
+Total Expenses                                                  1576188000.0      1566005000.0     1274170000.0  1006349000.0
+Diluted Average Shares                                                   NaN        54389000.0       53908000.0    49539000.0
+Basic Average Shares                                                     NaN        49534000.0       49534000.0    49534000.0
+Diluted EPS                                                              NaN              7.54             1.88          0.48
+Basic EPS                                                                NaN              8.21             1.98          0.48
+Diluted NI Availto Com Stockholders                              386868000.0       406778000.0       97912000.0    23732000.0
+Net Income Common Stockholders                                   386868000.0       406778000.0       97912000.0    23732000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0           0.0
+Net Income                                                       386868000.0       406778000.0       97912000.0    23732000.0
+Minority Interests                                                 2062000.0         1163000.0         390000.0       28000.0
+Net Income Including Noncontrolling Interests                    384806000.0       405615000.0       97522000.0    23704000.0
+Net Income Continuous Operations                                 384806000.0       405615000.0       97522000.0    23704000.0
+Tax Provision                                                     67123000.0        79890000.0       35189000.0    -5201000.0
+Pretax Income                                                    451929000.0       485505000.0      132711000.0    18503000.0
+Other Non Operating Income Expenses                               49298000.0       104126000.0       12440000.0    -9439000.0
+Special Income Charges                                             1614000.0         3554000.0       -1306000.0    -2047000.0
+Write Off                                                         -1614000.0        -3554000.0        1306000.0     2047000.0
+Net Non Operating Interest Income Expense                        -15256000.0       -14650000.0      -14734000.0    -4019000.0
+Interest Expense Non Operating                                    47631000.0        24966000.0       22808000.0    18214000.0
+Interest Income Non Operating                                     32375000.0        10316000.0        8074000.0    14195000.0
+Operating Income                                                 411870000.0       389573000.0      136651000.0    29241000.0
+Operating Expense                                                366694000.0       347168000.0      329692000.0   293522000.0
+Research And Development                                         105942000.0        95616000.0       82258000.0    62908000.0
+Selling General And Administration                               260752000.0       251552000.0      247434000.0   230614000.0
+Selling And Marketing Expense                                     75457000.0        72231000.0       82454000.0    89952000.0
+General And Administrative Expense                               185295000.0       179321000.0      164980000.0   140662000.0
+Gross Profit                                                     778564000.0       736741000.0      466343000.0   322763000.0
+Cost Of Revenue                                                 1209494000.0      1218837000.0      944478000.0   712827000.0
+Total Revenue                                                   1988058000.0      1955578000.0     1410821000.0  1035590000.0
+Operating Revenue                                               1988058000.0      1955578000.0     1410821000.0  1035590000.0

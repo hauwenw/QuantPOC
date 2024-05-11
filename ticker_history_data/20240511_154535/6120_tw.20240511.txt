@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 20-1 Guangfu North Road
+address2	Hukou Township
+city	Hsinchu City
+zip	303036
+country	Taiwan
+phone	886 0 3566 8000
+fax	886 0 3566 8088
+website	https://www.darwinprecisions.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Darwin Precisions Corporation, together with its subsidiaries, designs, manufactures, assembles, processes, and trades in backlight modules, computer peripherals, and communication equipment in Taiwan, Korea, China, Japan, and internationally. The company offers optoelectronics products, including light guide, backlight module, mini LED backlight, fine metal mask, precision electroforming mask, and injection thin-film circuit/injection printed thin films; and system integration products for mobility, healthcare, retail, and education application. It also designs, manufactures, and sells LCD modules and backlight, LCD TVs, and related components; manufactures and sells automotive products; and manufactures, sells, and trades in precision plastic parts. The company was formerly known as Forhouse Corporation and changed its name to Darwin Precisions Corporation in 2015. Darwin Precisions Corporation was incorporated in 1989 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kuo-Hsin  Tsai', 'age': 59, 'title': 'Chairman & CSO', 'yearBorn': 1964, 'fiscalYear': 2021, 'totalPay': 9439000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Kai  Huang', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 7467000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Tai  Ching', 'title': 'CFO & Chief Accounting Officer', 'fiscalYear': 2021, 'totalPay': 5398000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan Chong Feng', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 5558000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Tsai', 'title': 'Associate Vice President', 'fiscalYear': 2021, 'totalPay': 5087000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guo Tai Jing', 'title': 'Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Yi  Lin', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 5967000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Danny  Huang', 'title': 'Associate Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. F. J.  Limbo', 'title': 'Associate Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sun  Mandy', 'title': 'Associate Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	15.8
+open	15.95
+dayLow	15.7
+dayHigh	16.1
+regularMarketPreviousClose	15.8
+regularMarketOpen	15.95
+regularMarketDayLow	15.7
+regularMarketDayHigh	16.1
+dividendRate	0.15
+dividendYield	0.0099
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.3064
+fiveYearAvgDividendYield	2.8
+beta	0.97
+trailingPE	31.6
+forwardPE	-790.0
+volume	2737116
+regularMarketVolume	2737116
+averageVolume	10823736
+averageVolume10days	8303301
+averageDailyVolume10Day	8303301
+bid	15.8
+ask	15.85
+marketCap	10515769344
+fiftyTwoWeekLow	9.96
+fiftyTwoWeekHigh	20.2
+priceToSalesTrailing12Months	0.59177154
+fiftyDayAverage	16.242
+twoHundredDayAverage	15.24975
+currency	TWD
+enterpriseValue	7142494208
+profitMargins	0.0064499998
+floatShares	432850415
+sharesOutstanding	665555008
+heldPercentInsiders	0.43954
+heldPercentInstitutions	0.04383
+impliedSharesOutstanding	667694976
+bookValue	13.856
+priceToBook	1.1403003
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.347
+netIncomeToCommon	114659000
+trailingEps	0.5
+forwardEps	-0.02
+lastSplitFactor	103.7:100
+lastSplitDate	1219276800	 (2008-08-21 08:00:00)
+enterpriseToRevenue	0.402
+enterpriseToEbitda	11.123
+52WeekChange	0.56435645
+SandP52WeekChange	0.26265144
+lastDividendValue	0.15321
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6120.TW
+underlyingSymbol	6120.TW
+shortName	DARWIN PRECISIONS CORPORATION
+longName	Darwin Precisions Corporation
+firstTradeDateEpochUtc	1158109200	 (2006-09-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ccc8d2dd-bba9-3752-b89e-d267c741b76e
+messageBoardId	finmb_9844076
+gmtOffSetMilliseconds	28800000
+currentPrice	15.8
+recommendationKey	none
+totalCash	6202045952
+totalCashPerShare	9.319
+ebitda	642131008
+totalDebt	2928602880
+quickRatio	1.727
+currentRatio	1.959
+totalRevenue	17769981952
+debtToEquity	31.757
+revenuePerShare	26.699
+returnOnAssets	-0.00952
+returnOnEquity	0.012359999
+freeCashflow	1867381376
+operatingCashflow	317808000
+earningsGrowth	-0.357
+revenueGrowth	0.618
+grossMargins	0.04796
+ebitdaMargins	0.036140002
+operatingMargins	-0.01249
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                                    0.2            0.2            0.2       0.118711
+Normalized EBITDA                                             960984000.0   1399480000.0    645730000.0   -277293000.0
+Net Income From Continuing Operation Net Minority Interest    114659000.0    125664000.0   -649231000.0  -1240799000.0
+Reconciled Depreciation                                       925915000.0    965055000.0   1090465000.0   1092621000.0
+Reconciled Cost Of Revenue                                  16917772000.0  14493310000.0  20287932000.0  14634159000.0
+EBITDA                                                        960984000.0   1399480000.0    645730000.0   -277293000.0
+EBIT                                                           35069000.0    434425000.0   -444735000.0  -1369914000.0
+Net Interest Income                                           146669000.0     74047000.0     47267000.0     43613000.0
+Interest Expense                                               57204000.0     45317000.0     37046000.0     38022000.0
+Interest Income                                               203873000.0    119364000.0     84313000.0     81635000.0
+Normalized Income                                             114659000.0    125664000.0   -649231000.0  -1240799000.0
+Net Income From Continuing And Discontinued Operation         114659000.0    125664000.0   -649231000.0  -1240799000.0
+Total Expenses                                              18047403000.0  15614944000.0  21561091000.0  15868905000.0
+Diluted Average Shares                                        666391000.0    667350000.0    662480612.0    665555000.0
+Basic Average Shares                                          665555000.0    665555000.0    662480612.0    665555000.0
+Diluted EPS                                                          0.17           0.19          -0.98          -1.86
+Basic EPS                                                            0.17           0.19          -0.98          -1.86
+Diluted NI Availto Com Stockholders                           114659000.0    125664000.0   -649231000.0  -1240799000.0
+Net Income Common Stockholders                                114659000.0    125664000.0   -649231000.0  -1240799000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                    114659000.0    125664000.0   -649231000.0  -1240799000.0
+Net Income Including Noncontrolling Interests                 114659000.0    125664000.0   -649231000.0  -1240799000.0
+Net Income Continuous Operations                              114659000.0    125664000.0   -649231000.0  -1240799000.0
+Tax Provision                                                -136794000.0    263444000.0    167450000.0   -167137000.0
+Pretax Income                                                 -22135000.0    389108000.0   -481781000.0  -1407936000.0
+Other Non Operating Income Expenses                           107799000.0   1476948000.0    854968000.0    121474000.0
+Net Non Operating Interest Income Expense                     146669000.0     74047000.0     47267000.0     43613000.0
+Interest Expense Non Operating                                 57204000.0     45317000.0     37046000.0     38022000.0
+Interest Income Non Operating                                 203873000.0    119364000.0     84313000.0     81635000.0
+Operating Income                                             -277421000.0  -1149354000.0  -1276870000.0  -1578661000.0
+Operating Expense                                            1129631000.0   1121634000.0   1273159000.0   1234746000.0
+Research And Development                                      351346000.0    355674000.0    321001000.0    291524000.0
+Selling General And Administration                            778285000.0    765960000.0    952158000.0    943222000.0
+Selling And Marketing Expense                                 178879000.0    185374000.0    246448000.0    274206000.0
+General And Administrative Expense                            599406000.0    580586000.0    705710000.0    669016000.0
+Gross Profit                                                  852210000.0    -27720000.0     -3711000.0   -343915000.0
+Cost Of Revenue                                             16917772000.0  14493310000.0  20287932000.0  14634159000.0
+Total Revenue                                               17769982000.0  14465590000.0  20284221000.0  14290244000.0
+Operating Revenue                                           17769982000.0  14465590000.0  20284221000.0  14290244000.0

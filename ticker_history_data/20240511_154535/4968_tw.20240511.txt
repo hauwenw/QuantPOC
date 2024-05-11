@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	Tiding Boulevard
+address2	6th Floor, Section 2 No. 5, Alley 20 Lane 407, Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8751 1358
+fax	886 2 6600 6887
+website	https://www.richwave.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	RichWave Technology Corporation designs, develops, and sells radio frequency (RF) integrated circuits in Taiwan and internationally. It offers a portfolio of RF front-end components for Wi-Fi, such as power amplifiers, low noise amplifiers, switches, and front-end modules; mobility switches, and mobility and GPS LNA products; RF components, and Internet of Things (IoT) low noise amplifiers and switches; automotive front-end modules and switches; cable network switches; radar sensors; and GPS/WiFi SAW, cellular SAW, IoT SAW, and dual SAW filters. The company also provides single-chip broadcast IC tuners, as well as a line of wireless video/audio transmission chipsets for various ISM bands. Its products are used in various applications, including networking, mobile, smart home, internet of things, wireless media, broadcasting, and automotive. The company was founded in 2004 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shih-Chi  Wang', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 9052000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Kang  Teng', 'title': 'Senior Executive VP of R&D', 'fiscalYear': 2021, 'totalPay': 4026000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Xu', 'title': 'VP of Financial & Accounting and CFO', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Shuo  Chang', 'title': 'Vice President of Operations', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Chieh  Huang', 'title': 'Vice President of Sales & Marketing', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Chen  Ho', 'title': 'Chief Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	185.5
+open	187.5
+dayLow	179.0
+dayHigh	188.0
+regularMarketPreviousClose	185.5
+regularMarketOpen	187.5
+regularMarketDayLow	179.0
+regularMarketDayHigh	188.0
+exDividendDate	1656892800	 (2022-07-04 08:00:00)
+beta	2.171
+forwardPE	27.91411
+volume	1953255
+regularMarketVolume	1953255
+averageVolume	4751607
+averageVolume10days	3480545
+averageDailyVolume10Day	3480545
+bid	181.0
+ask	181.5
+marketCap	16462810112
+fiftyTwoWeekLow	113.5
+fiftyTwoWeekHigh	248.0
+priceToSalesTrailing12Months	5.131252
+fiftyDayAverage	201.62
+twoHundredDayAverage	169.9975
+currency	TWD
+enterpriseValue	15778932736
+profitMargins	-0.03291
+floatShares	81758063
+sharesOutstanding	90455000
+heldPercentInsiders	0.10276
+heldPercentInstitutions	0.14147
+impliedSharesOutstanding	94073200
+bookValue	24.682
+priceToBook	7.373795
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-105593000
+trailingEps	-1.16
+forwardEps	6.52
+lastSplitFactor	1400:1000
+lastSplitDate	1632355200	 (2021-09-23 08:00:00)
+enterpriseToRevenue	4.918
+enterpriseToEbitda	-157.49
+52WeekChange	0.11656439
+SandP52WeekChange	0.26265144
+lastDividendValue	3.487304
+lastDividendDate	1656892800	 (2022-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4968.TW
+underlyingSymbol	4968.TW
+shortName	RICHWAVE TECHNOLOGY CORPORATION
+longName	RichWave Technology Corporation
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	49047f4c-6a14-3eac-944a-d2af7b8dd41d
+messageBoardId	finmb_36251486
+gmtOffSetMilliseconds	28800000
+currentPrice	182.0
+targetHighPrice	250.0
+targetLowPrice	155.0
+targetMeanPrice	194.5
+targetMedianPrice	186.5
+recommendationMean	2.8
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	963460992
+totalCashPerShare	10.651
+ebitda	-100190000
+totalDebt	279520992
+quickRatio	2.12
+currentRatio	2.815
+totalRevenue	3208342016
+debtToEquity	12.52
+revenuePerShare	35.523
+returnOnAssets	-0.03521
+returnOnEquity	-0.046719998
+freeCashflow	262372128
+operatingCashflow	369876992
+revenueGrowth	0.351
+grossMargins	0.28804
+ebitdaMargins	-0.031229999
+operatingMargins	0.0004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31      2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    938828.077417  -1232602.58774     114411.295373      89753.639489
+Tax Rate For Calcs                                                  0.200776         0.10165          0.116508          0.148353
+Normalized EBITDA                                               -131221000.0     213091000.0       642602000.0      1114676000.0
+Total Unusual Items                                                4676000.0     -12126000.0          982000.0          605000.0
+Total Unusual Items Excluding Goodwill                             4676000.0     -12126000.0          982000.0          605000.0
+Net Income From Continuing Operation Net Minority Interest      -222289000.0      55059000.0       465517000.0       866216000.0
+Reconciled Depreciation                                          145322000.0     134789000.0       115473000.0        97152000.0
+Reconciled Cost Of Revenue                                      2182491000.0    2370781000.0      3770235000.0      3451573000.0
+EBITDA                                                          -126545000.0     200965000.0       643584000.0      1115281000.0
+EBIT                                                            -271867000.0      66176000.0       528111000.0      1018129000.0
+Net Interest Income                                               14561000.0       5740000.0          735000.0         -248000.0
+Interest Expense                                                   6264000.0       4887000.0         1205000.0         1022000.0
+Interest Income                                                   20825000.0      10627000.0         1940000.0          774000.0
+Normalized Income                                          -226026171.922583  65952397.41226  464649411.295373  865700753.639489
+Net Income From Continuing And Discontinued Operation           -222289000.0      55059000.0       465517000.0       866216000.0
+Total Expenses                                                  3286736000.0    3434450000.0      4783641000.0      4342853000.0
+Diluted Average Shares                                            90247000.0      89060000.0        88662000.0        89021912.0
+Basic Average Shares                                              90247000.0      88981000.0        88469000.0        88038344.0
+Diluted EPS                                                            -2.46            0.62              5.25          9.734561
+Basic EPS                                                              -2.46            0.62              5.26          9.834198
+Diluted NI Availto Com Stockholders                             -222289000.0      55059000.0       465517000.0       866216000.0
+Net Income Common Stockholders                                  -222289000.0      55059000.0       465517000.0       866216000.0
+Otherunder Preferred Stock Dividend                                      0.0             0.0               0.0               0.0
+Net Income                                                      -222289000.0      55059000.0       465517000.0       866216000.0
+Net Income Including Noncontrolling Interests                   -222289000.0      55059000.0       465517000.0       866216000.0
+Net Income Continuous Operations                                -222289000.0      55059000.0       465517000.0       866216000.0
+Tax Provision                                                    -55842000.0       6230000.0        61389000.0       150891000.0
+Pretax Income                                                   -278131000.0      61289000.0       526906000.0      1017107000.0
+Other Non Operating Income Expenses                                4787000.0      72754000.0        -7437000.0         9403000.0
+Special Income Charges                                             4676000.0     -12126000.0          982000.0          605000.0
+Write Off                                                         -4676000.0      12126000.0         -982000.0         -605000.0
+Net Non Operating Interest Income Expense                         14561000.0       5740000.0          735000.0         -248000.0
+Interest Expense Non Operating                                     6264000.0       4887000.0         1205000.0         1022000.0
+Interest Income Non Operating                                     20825000.0      10627000.0         1940000.0          774000.0
+Operating Income                                                -302155000.0      -5079000.0       532626000.0      1007347000.0
+Operating Expense                                               1104245000.0    1063669000.0      1013406000.0       891280000.0
+Research And Development                                         653715000.0     602470000.0       539010000.0       513922000.0
+Selling General And Administration                               450530000.0     461199000.0       474396000.0       377358000.0
+Selling And Marketing Expense                                    217879000.0     217837000.0       233442000.0       197407000.0
+General And Administrative Expense                               232651000.0     243362000.0       240954000.0       179951000.0
+Gross Profit                                                     802090000.0    1058590000.0      1546032000.0      1898627000.0
+Cost Of Revenue                                                 2182491000.0    2370781000.0      3770235000.0      3451573000.0
+Total Revenue                                                   2984581000.0    3429371000.0      5316267000.0      5350200000.0
+Operating Revenue                                               2984581000.0    3429371000.0      5316267000.0      5350200000.0

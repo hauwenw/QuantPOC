@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	Hwa-Ya Technology Park
+address2	268, Hwa-Ya 2nd Road Guishan Dist.
+city	Taoyuan City
+country	Taiwan
+phone	886 3 397 3345
+fax	886 3 397 3394
+website	https://www.ichia.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ichia Technologies, Inc. manufactures, processes, and trades in components and materials for electronics, home appliances, electronical engineering, electrical equipment, communications, and computers in the United States, Europe, Asia, and Africa. It offers conductive silicone elastomers, plastic keys, plastic keypads, keyboard assemblies, input devices, and flexible printed circuit boards; single sided, double sided, and multi-layer FPC boards; and plastic, silicon rubber, and plastic + silicon rubber modules. The company was founded in 1983 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Eric  Tseng', 'title': 'CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Allen  Hunag', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.8
+open	34.3
+dayLow	33.3
+dayHigh	34.3
+regularMarketPreviousClose	33.8
+regularMarketOpen	34.3
+regularMarketDayLow	33.3
+regularMarketDayHigh	34.3
+dividendRate	0.99
+dividendYield	0.0293
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	0.63560003
+beta	0.595
+trailingPE	21.666666
+forwardPE	11.695501
+volume	2866085
+regularMarketVolume	2866085
+averageVolume	4917268
+averageVolume10days	2954670
+averageDailyVolume10Day	2954670
+bid	33.75
+ask	33.8
+marketCap	10260766720
+fiftyTwoWeekLow	27.15
+fiftyTwoWeekHigh	48.6
+priceToSalesTrailing12Months	1.1984897
+fiftyDayAverage	34.016
+twoHundredDayAverage	35.9395
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.03550296
+currency	TWD
+enterpriseValue	9875995648
+profitMargins	0.05434
+floatShares	278128229
+sharesOutstanding	303572992
+heldPercentInsiders	0.23691
+heldPercentInstitutions	0.06068
+impliedSharesOutstanding	303572992
+bookValue	20.683
+priceToBook	1.6341922
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.012
+netIncomeToCommon	465260992
+trailingEps	1.56
+forwardEps	2.89
+lastSplitFactor	102:100
+lastSplitDate	1217894400	 (2008-08-05 08:00:00)
+enterpriseToRevenue	1.154
+enterpriseToEbitda	12.168
+52WeekChange	0.19646013
+SandP52WeekChange	0.26265144
+lastDividendValue	0.991549
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2402.TW
+underlyingSymbol	2402.TW
+shortName	ICHIA TECHNOLOGIES INC
+longName	Ichia Technologies, Inc.
+firstTradeDateEpochUtc	948070800	 (2000-01-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3e5b5d40-d12c-3535-91f3-166855926d01
+messageBoardId	finmb_9844079
+gmtOffSetMilliseconds	28800000
+currentPrice	33.8
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	1863852032
+totalCashPerShare	6.211
+ebitda	811627008
+totalDebt	1597395968
+quickRatio	1.502
+currentRatio	1.846
+totalRevenue	8561414144
+debtToEquity	25.737
+revenuePerShare	28.685
+returnOnAssets	0.03021
+returnOnEquity	0.07579
+freeCashflow	540440640
+operatingCashflow	1060337024
+earningsGrowth	-0.015
+revenueGrowth	0.027
+grossMargins	0.1488
+ebitdaMargins	0.094799995
+operatingMargins	0.06688
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1280004.652833   -1179049.486866     705237.899881    5194475.788499
+Tax Rate For Calcs                                                  0.151731          0.247908          0.167197          0.367464
+Normalized EBITDA                                                932398000.0       869299000.0       677141000.0       597398000.0
+Total Unusual Items                                               -8436000.0        -4756000.0         4218000.0        14136000.0
+Total Unusual Items Excluding Goodwill                            -8436000.0        -4756000.0         4218000.0        14136000.0
+Net Income From Continuing Operation Net Minority Interest       465261000.0       357407000.0       222893000.0       120190000.0
+Reconciled Depreciation                                          330644000.0       364966000.0       401106000.0       406411000.0
+Reconciled Cost Of Revenue                                      7287462000.0      6611844000.0      5674621000.0      4758407000.0
+EBITDA                                                           923962000.0       864543000.0       681359000.0       611534000.0
+EBIT                                                             593318000.0       499577000.0       280253000.0       205123000.0
+Net Interest Income                                               -3883000.0        -5157000.0         5712000.0         8622000.0
+Interest Expense                                                  44835000.0        24360000.0        12611000.0        15110000.0
+Interest Income                                                   40952000.0        19203000.0        18323000.0        23732000.0
+Normalized Income                                           472416995.347167  360983950.513134  219380237.899881  111248475.788499
+Net Income From Continuing And Discontinued Operation            465261000.0       357407000.0       222893000.0       120190000.0
+Total Expenses                                                  8070366000.0      7285157000.0      6274663000.0      5321291000.0
+Diluted Average Shares                                                   NaN       298301000.0       297963000.0       304564000.0
+Basic Average Shares                                                     NaN       297536000.0       297536000.0       304024000.0
+Diluted EPS                                                              NaN               1.2              0.75              0.39
+Basic EPS                                                                NaN               1.2              0.75               0.4
+Diluted NI Availto Com Stockholders                              465261000.0       357407000.0       222893000.0       120190000.0
+Net Income Common Stockholders                                   465261000.0       357407000.0       222893000.0       120190000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       465261000.0       357407000.0       222893000.0       120190000.0
+Net Income Including Noncontrolling Interests                    465261000.0       357407000.0       222893000.0       120190000.0
+Net Income Continuous Operations                                 465261000.0       357407000.0       222893000.0       120190000.0
+Tax Provision                                                     83222000.0       117810000.0        44749000.0        69823000.0
+Pretax Income                                                    548483000.0       475217000.0       267642000.0       190013000.0
+Other Non Operating Income Expenses                               69754000.0       116138000.0        53820000.0       -14296000.0
+Special Income Charges                                            -8436000.0        -4756000.0         4218000.0        14136000.0
+Write Off                                                          8436000.0         4756000.0        -4218000.0       -14136000.0
+Net Non Operating Interest Income Expense                         -3883000.0        -5157000.0         5712000.0         8622000.0
+Interest Expense Non Operating                                    44835000.0        24360000.0        12611000.0        15110000.0
+Interest Income Non Operating                                     40952000.0        19203000.0        18323000.0        23732000.0
+Operating Income                                                 491048000.0       368992000.0       203892000.0       181551000.0
+Operating Expense                                                782904000.0       673313000.0       600042000.0       562884000.0
+Research And Development                                         267214000.0       217561000.0       191765000.0       176144000.0
+Selling General And Administration                               515690000.0       455752000.0       408277000.0       386740000.0
+Selling And Marketing Expense                                    207058000.0       221591000.0       187720000.0       176257000.0
+General And Administrative Expense                               308632000.0       234161000.0       220557000.0       210483000.0
+Gross Profit                                                    1273952000.0      1042305000.0       803934000.0       744435000.0
+Cost Of Revenue                                                 7287462000.0      6611844000.0      5674621000.0      4758407000.0
+Total Revenue                                                   8561414000.0      7654149000.0      6478555000.0      5502842000.0
+Operating Revenue                                               8561414000.0      7654149000.0      6478555000.0      5502842000.0

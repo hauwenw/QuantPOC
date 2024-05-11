@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 21, Wufu 3rd Road
+address2	4th Floor Qianjin District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 271 1121
+fax	886 7 241 9031
+website	https://www.southeastcement.com.tw
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Southeast Cement Corp., Ltd. engages in the production and sale of cement in Taiwan. It offers Portland I and Portland II cement, water-quenched blast furnace slag powder, Portland blast furnace cement, and southeast brand waterproof cement. The company also provides ready-mix concrete cement, land and housing products, raw materials, as well as limestone and cement processing products. It also engages in reinvestment business, as well as the development, rental, and sale of residential buildings. The company was founded in 1956 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Hui Wu  Yan', 'title': 'Acting GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-Han  Huang', 'title': 'Manager of Finance Department & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xinhan  Huang', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rong-Zong  Tang', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.5
+open	20.4
+dayLow	19.65
+dayHigh	20.4
+regularMarketPreviousClose	20.5
+regularMarketOpen	20.4
+regularMarketDayLow	19.65
+regularMarketDayHigh	20.4
+dividendRate	0.1
+dividendYield	0.005
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.38459998
+fiveYearAvgDividendYield	0.67
+beta	0.078
+trailingPE	76.53846
+volume	498016
+regularMarketVolume	498016
+averageVolume	235055
+averageVolume10days	440830
+averageDailyVolume10Day	440830
+bid	19.85
+ask	19.9
+marketCap	11340750848
+fiftyTwoWeekLow	17.45
+fiftyTwoWeekHigh	21.25
+priceToSalesTrailing12Months	4.988195
+fiftyDayAverage	18.597
+twoHundredDayAverage	18.71925
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.009756098
+currency	TWD
+enterpriseValue	12821389312
+profitMargins	0.06577
+floatShares	254796894
+sharesOutstanding	569886976
+heldPercentInsiders	0.68055
+heldPercentInstitutions	0.00567
+impliedSharesOutstanding	582457984
+bookValue	15.659
+priceToBook	1.2708346
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	149522000
+trailingEps	0.26
+lastSplitFactor	105:100
+lastSplitDate	1092268800	 (2004-08-12 08:00:00)
+enterpriseToRevenue	5.639
+enterpriseToEbitda	145.655
+52WeekChange	0.06702411
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1110.TW
+underlyingSymbol	1110.TW
+shortName	SOUTH EAST CEMENT CO LTD.
+longName	Southeast Cement Corp., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fcfccb25-e8e3-3da4-8e00-8b3e30f452ae
+messageBoardId	finmb_20360113
+gmtOffSetMilliseconds	28800000
+currentPrice	19.9
+recommendationKey	none
+totalCash	622873984
+totalCashPerShare	1.093
+ebitda	88026000
+totalDebt	2001864960
+quickRatio	0.735
+currentRatio	1.428
+totalRevenue	2273518080
+debtToEquity	22.181
+revenuePerShare	3.989
+returnOnAssets	0.00312
+returnOnEquity	0.01758
+freeCashflow	-541341632
+operatingCashflow	275852992
+revenueGrowth	0.123
+grossMargins	0.08968
+ebitdaMargins	0.03872
+operatingMargins	0.087349996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    495648.829092       4800.158648     308850.242744      -47200.0
+Tax Rate For Calcs                                                  0.167167           0.01416           0.10271           0.2
+Normalized EBITDA                                                319370000.0       230215000.0       231749000.0    89150000.0
+Total Unusual Items                                                2965000.0          339000.0         3007000.0     -236000.0
+Total Unusual Items Excluding Goodwill                             2965000.0          339000.0         3007000.0     -236000.0
+Net Income From Continuing Operation Net Minority Interest       149522000.0       149043000.0       139985000.0    22158000.0
+Reconciled Depreciation                                          103676000.0       102867000.0        74526000.0    75358000.0
+Reconciled Cost Of Revenue                                      2069639000.0      1672736000.0      1712217000.0  1523614000.0
+EBITDA                                                           322335000.0       230554000.0       234756000.0    88914000.0
+EBIT                                                             218659000.0       127687000.0       160230000.0    13556000.0
+Net Interest Income                                              -24987000.0       -13737000.0        -7297000.0      102000.0
+Interest Expense                                                  31283000.0        18010000.0        11102000.0     6126000.0
+Interest Income                                                    6296000.0         4273000.0         3805000.0     6228000.0
+Normalized Income                                           147052648.829092  148708800.158648  137286850.242744    22346800.0
+Net Income From Continuing And Discontinued Operation            149522000.0       149043000.0       139985000.0    22158000.0
+Total Expenses                                                  2217105000.0      1825853000.0      1837738000.0  1621323000.0
+Diluted Average Shares                                                   NaN       570185000.0       569966000.0   569917000.0
+Basic Average Shares                                                     NaN       569887000.0       569887000.0   569887000.0
+Diluted EPS                                                              NaN              0.26              0.25          0.04
+Basic EPS                                                                NaN              0.26              0.25          0.04
+Diluted NI Availto Com Stockholders                              149522000.0       149043000.0       139985000.0    22158000.0
+Net Income Common Stockholders                                   149522000.0       149043000.0       139985000.0    22158000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0           0.0
+Net Income                                                       149522000.0       149043000.0       139985000.0    22158000.0
+Minority Interests                                                -6531000.0        40919000.0         6174000.0     5209000.0
+Net Income Including Noncontrolling Interests                    156053000.0       108124000.0       133811000.0    16949000.0
+Net Income Continuous Operations                                 156053000.0       108124000.0       133811000.0    16949000.0
+Tax Provision                                                     31323000.0         1553000.0        15317000.0    -9519000.0
+Pretax Income                                                    187376000.0       109677000.0       149128000.0     7430000.0
+Other Non Operating Income Expenses                              140133000.0       145646000.0       117218000.0    24949000.0
+Special Income Charges                                             2965000.0          339000.0         3007000.0     -236000.0
+Write Off                                                         -2965000.0         -339000.0        -3007000.0      236000.0
+Net Non Operating Interest Income Expense                        -24987000.0       -13737000.0        -7297000.0      102000.0
+Interest Expense Non Operating                                    31283000.0        18010000.0        11102000.0     6126000.0
+Interest Income Non Operating                                      6296000.0         4273000.0         3805000.0     6228000.0
+Operating Income                                                  56413000.0       -31838000.0         9047000.0   -30337000.0
+Operating Expense                                                147466000.0       153117000.0       125521000.0    97709000.0
+Selling General And Administration                               147466000.0       153117000.0       125521000.0    97709000.0
+Selling And Marketing Expense                                     20879000.0        28258000.0        35069000.0    15073000.0
+General And Administrative Expense                               126587000.0       124859000.0        90452000.0    82636000.0
+Gross Profit                                                     203879000.0       121279000.0       134568000.0    67372000.0
+Cost Of Revenue                                                 2069639000.0      1672736000.0      1712217000.0  1523614000.0
+Total Revenue                                                   2273518000.0      1794015000.0      1846785000.0  1590986000.0
+Operating Revenue                                               2273518000.0      1794015000.0      1846785000.0  1590986000.0

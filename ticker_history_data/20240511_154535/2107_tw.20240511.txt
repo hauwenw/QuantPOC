@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 82, Hankou Street
+address2	8th Floor Section 1 Zhongzheng District
+city	Taipei
+country	Taiwan
+phone	886 2 2370 0988
+fax	886 2 2312 3313
+website	https://www.frg.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Formosan Rubber Group Inc., together with its subsidiaries, produces and markets rubber and plastic sheets, plastic foam and PVC resin sheets, and related materials. The company offers rubber, silicone rubber, laminated, PU lamination, PU coating, green plastic, and PVC products. Its products are used in various applications, including functional garments and fabrics, healthcare, industrial and safety products, inflatable products, and optical electronic materials, as well as for use in shoes, and bags and luggage products. The company is also involved in the development of residential and commercial buildings for renting and selling; real estate investment and rental, as well as sale of premises; and warehouse, logistics, and rental and leasing businesses. It has operations in Taiwan, Europe, Asia, the United States, Canada, and internationally. The company was founded in 1952 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng Tsai  Hsu', 'title': 'Chief Strategy Officer & Chairman', 'fiscalYear': 2021, 'totalPay': 13228400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhen-Ji  Hsu', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 9015800, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhen-Xin  Hsu', 'title': 'Special Assistant & Representative Director', 'fiscalYear': 2021, 'totalPay': 8948575, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-De  Shi', 'title': 'Head of Accounting & Head of Corporate Governance', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+irWebsite	http://www.frg.com.tw/investors.htm
+maxAge	86400
+priceHint	2
+previousClose	26.35
+open	26.35
+dayLow	26.35
+dayHigh	27.3
+regularMarketPreviousClose	26.35
+regularMarketOpen	26.35
+regularMarketDayLow	26.35
+regularMarketDayHigh	27.3
+dividendRate	1.0
+dividendYield	0.037100002
+exDividendDate	1694044800	 (2023-09-07 08:00:00)
+payoutRatio	1.2963
+fiveYearAvgDividendYield	4.75
+beta	0.603
+trailingPE	14.972223
+volume	912058
+regularMarketVolume	912058
+averageVolume	601017
+averageVolume10days	1181004
+averageDailyVolume10Day	1181004
+bid	26.85
+ask	26.95
+marketCap	8181831168
+fiftyTwoWeekLow	22.61111
+fiftyTwoWeekHigh	27.7
+priceToSalesTrailing12Months	6.0173
+fiftyDayAverage	24.986
+twoHundredDayAverage	23.981972
+trailingAnnualDividendRate	1.3
+trailingAnnualDividendYield	0.04933586
+currency	TWD
+enterpriseValue	3184681216
+profitMargins	0.38161
+floatShares	198735276
+sharesOutstanding	303592992
+heldPercentInsiders	0.35224998
+heldPercentInstitutions	0.053000003
+impliedSharesOutstanding	307004992
+bookValue	40.852
+priceToBook	0.6596984
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.442
+netIncomeToCommon	518876992
+trailingEps	1.8
+lastSplitFactor	900:1000
+lastSplitDate	1694044800	 (2023-09-07 08:00:00)
+enterpriseToRevenue	2.342
+enterpriseToEbitda	10.77
+52WeekChange	0.11774194
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1694044800	 (2023-09-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2107.TW
+underlyingSymbol	2107.TW
+shortName	FORMOSAN RUBBER GROUP
+longName	Formosan Rubber Group Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	799239b6-bd66-398e-b075-c6c3ce3d0c1a
+messageBoardId	finmb_9835354
+gmtOffSetMilliseconds	28800000
+currentPrice	26.95
+recommendationKey	none
+totalCash	6358754816
+totalCashPerShare	20.945
+ebitda	295708000
+totalDebt	1361593984
+quickRatio	3.994
+currentRatio	5.829
+totalRevenue	1359718016
+debtToEquity	10.979
+revenuePerShare	4.206
+returnOnAssets	0.008909999
+returnOnEquity	0.04277
+freeCashflow	283612512
+operatingCashflow	682691968
+earningsGrowth	-0.612
+revenueGrowth	-0.309
+grossMargins	0.30934
+ebitdaMargins	0.21747999
+operatingMargins	0.09977999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     35163.343465     107284.939004      17808.425568     -16253.976309
+Tax Rate For Calcs                                                  0.123815          0.142856          0.055134          0.030553
+Normalized EBITDA                                                721097000.0       942698000.0       934835000.0      1050773000.0
+Total Unusual Items                                                 284000.0          751000.0          323000.0         -532000.0
+Total Unusual Items Excluding Goodwill                              284000.0          751000.0          323000.0         -532000.0
+Net Income From Continuing Operation Net Minority Interest       518877000.0       711684000.0       777956000.0       901716000.0
+Reconciled Depreciation                                          102855000.0       104363000.0       107786000.0       111880000.0
+Reconciled Cost Of Revenue                                       939107000.0      1312034000.0      1911220000.0      2219968000.0
+EBITDA                                                           721381000.0       943449000.0       935158000.0      1050241000.0
+EBIT                                                             618526000.0       839086000.0       827372000.0       938361000.0
+Net Interest Income                                               27384000.0        16628000.0         4984000.0         2595000.0
+Interest Expense                                                  26326000.0         8789000.0         4021000.0         8227000.0
+Interest Income                                                   53710000.0        25417000.0         9005000.0        10822000.0
+Normalized Income                                           518628163.343465  711040284.939004  777650808.425568  902231746.023691
+Net Income From Continuing And Discontinued Operation            518877000.0       711684000.0       777956000.0       901716000.0
+Total Expenses                                                  1160112000.0      1566373000.0      2167642000.0      2471693000.0
+Diluted Average Shares                                           323593000.0       340611000.0       308506500.0       310378500.0
+Basic Average Shares                                             323271000.0       340126000.0       308093400.0       309939300.0
+Diluted EPS                                                              1.6              2.09          2.522222               2.9
+Basic EPS                                                               1.61              2.09          2.522222          2.911111
+Diluted NI Availto Com Stockholders                              518877000.0       711684000.0       777956000.0       901716000.0
+Net Income Common Stockholders                                   518877000.0       711684000.0       777956000.0       901716000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       518877000.0       711684000.0       777956000.0       901716000.0
+Minority Interests                                                       NaN               0.0               0.0               0.0
+Net Income Including Noncontrolling Interests                    518877000.0       711684000.0       777956000.0       901716000.0
+Net Income Continuous Operations                                 518877000.0       711684000.0       777956000.0       901716000.0
+Tax Provision                                                     73323000.0       118613000.0        45395000.0        28418000.0
+Pretax Income                                                    592200000.0       830297000.0       823351000.0       930134000.0
+Other Non Operating Income Expenses                              345271000.0       436572000.0       183723000.0       114427000.0
+Special Income Charges                                              284000.0          751000.0          323000.0         -532000.0
+Write Off                                                          -284000.0         -751000.0         -323000.0          532000.0
+Net Non Operating Interest Income Expense                         27384000.0        16628000.0         4984000.0         2595000.0
+Interest Expense Non Operating                                    26326000.0         8789000.0         4021000.0         8227000.0
+Interest Income Non Operating                                     53710000.0        25417000.0         9005000.0        10822000.0
+Operating Income                                                 199606000.0       370870000.0       627242000.0       810562000.0
+Operating Expense                                                221005000.0       254339000.0       256422000.0       251725000.0
+Research And Development                                           9270000.0         9634000.0        10467000.0         9917000.0
+Selling General And Administration                               211735000.0       244705000.0       245955000.0       241808000.0
+Selling And Marketing Expense                                     47577000.0        65313000.0       100737000.0        96091000.0
+General And Administrative Expense                               164158000.0       179392000.0       145218000.0       145717000.0
+Gross Profit                                                     420611000.0       625209000.0       883664000.0      1062287000.0
+Cost Of Revenue                                                  939107000.0      1312034000.0      1911220000.0      2219968000.0
+Total Revenue                                                   1359718000.0      1937243000.0      2794884000.0      3282255000.0
+Operating Revenue                                               1359718000.0      1937243000.0      2794884000.0      3282255000.0

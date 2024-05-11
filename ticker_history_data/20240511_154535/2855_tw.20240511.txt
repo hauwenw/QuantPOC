@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 8, Dongxing Road
+address2	1st Floor
+city	Taipei
+zip	105
+country	Taiwan
+phone	886 2 2747 8266
+website	https://www.pscnet.com.tw
+industry	Capital Markets
+industryKey	capital-markets
+industryDisp	Capital Markets
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	President Securities Corporation, together with its subsidiaries, engages in the brokerage, proprietary trading, fixed income, reinvestment, capital market, financial product, and shareholder services in the People's Republic of China. It is involved in various activities, including underwriting of securities; dealing or brokerage business of securities at the securities exchange markets and business premises; registration and transfer agency service for securities; margin loans and short sales business of securities; securities lending and borrowing business; futures introducing brokerage services; futures dealing; issuance of call warrants; new financial instrument transactions; wealth management; and trust business. As of December 31, 2020, it had 31 operating branches. The company was incorporated in 1988 and is headquartered in Taipei City, Taiwan.
+fullTimeEmployees	1690
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sen-Bu  Tsai', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chi-Li  An', 'title': 'CFO & VP of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung-Hui  Lin', 'title': 'Senior Assistant VP of Information System Department & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Chieh  Yu', 'title': 'Senior Assistant Vice President of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ying-Che  Hung', 'title': 'Assistant Vice President of Compliance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kai-Chih  Yang', 'title': 'Executive Vice President of Proprietary Trading Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sha-Mei  Huang', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.75
+open	26.05
+dayLow	25.75
+dayHigh	26.6
+regularMarketPreviousClose	25.75
+regularMarketOpen	26.05
+regularMarketDayLow	25.75
+regularMarketDayHigh	26.6
+dividendRate	0.39
+dividendYield	0.0147
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.1373
+fiveYearAvgDividendYield	6.15
+beta	0.765
+trailingPE	9.348592
+volume	5424160
+regularMarketVolume	5424160
+averageVolume	5348556
+averageVolume10days	5747214
+averageDailyVolume10Day	5747214
+bid	26.5
+ask	26.55
+marketCap	38652284928
+fiftyTwoWeekLow	16.3
+fiftyTwoWeekHigh	29.0
+priceToSalesTrailing12Months	4.551222
+fiftyDayAverage	24.948
+twoHundredDayAverage	20.4895
+trailingAnnualDividendRate	1.32
+trailingAnnualDividendYield	0.051262137
+currency	TWD
+enterpriseValue	61304487936
+profitMargins	0.33898997
+floatShares	776234531
+sharesOutstanding	1455830016
+heldPercentInsiders	0.45276
+heldPercentInstitutions	0.056209996
+impliedSharesOutstanding	1484329984
+bookValue	22.015
+priceToBook	1.2059959
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.973
+netIncomeToCommon	2878950912
+trailingEps	2.84
+lastSplitFactor	1040:1000
+lastSplitDate	1629936000	 (2021-08-26 08:00:00)
+enterpriseToRevenue	7.218
+52WeekChange	0.6238532
+SandP52WeekChange	0.26265144
+lastDividendValue	0.39
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2855.TW
+underlyingSymbol	2855.TW
+shortName	PRESIDENT SECURITIES
+longName	President Securities Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	92971c40-eb84-3316-a6f3-1cf1ab217e6b
+messageBoardId	finmb_9637428
+gmtOffSetMilliseconds	28800000
+currentPrice	26.55
+recommendationKey	none
+totalCash	37984722944
+totalCashPerShare	26.091
+totalDebt	60544282624
+quickRatio	0.963
+currentRatio	1.184
+totalRevenue	8492726784
+debtToEquity	188.364
+revenuePerShare	5.834
+returnOnAssets	0.02454
+returnOnEquity	0.0933
+operatingCashflow	-20879775744
+earningsGrowth	0.946
+revenueGrowth	0.221
+grossMargins	0.90791
+operatingMargins	0.22529
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                 -219164432.167417   764762148.018745  -670707056.845635   116515500.506927
+Tax Rate For Calcs                                                   0.101024            0.24387            0.14093           0.092454
+Normalized EBITDA                                                6632086000.0      -1702617000.0       9757436000.0       3209285000.0
+Total Unusual Items                                             -2169437000.0       3135948000.0      -4759161000.0       1260260000.0
+Total Unusual Items Excluding Goodwill                          -2169437000.0       3135948000.0      -4759161000.0       1260260000.0
+Net Income From Continuing Operation Net Minority Interest       2878951000.0        729368000.0       4007435000.0       3607518000.0
+Reconciled Depreciation                                           313273000.0        276298000.0        227553000.0        209839000.0
+Reconciled Cost Of Revenue                                        791102000.0        813142000.0        992524000.0        777945000.0
+EBITDA                                                           4462649000.0       1433331000.0       4998275000.0       4469545000.0
+EBIT                                                             4149376000.0       1157033000.0       4770722000.0       4259706000.0
+Net Interest Income                                              -934881000.0       -183332000.0       -101287000.0       -276884000.0
+Interest Expense                                                  934881000.0        183332000.0        101287000.0        276884000.0
+Normalized Income                                           4829223567.832583 -1641817851.981255  8095888943.154365  2463773500.506927
+Net Income From Continuing And Discontinued Operation            2878951000.0        729368000.0       4007435000.0       3607518000.0
+Total Expenses                                                   5699252000.0       4739344000.0       6507832000.0       5743618000.0
+Diluted Average Shares                                           1459005000.0       1457046000.0       1459837000.0       1460455000.0
+Basic Average Shares                                             1455831000.0       1455831000.0       1455831000.0       1455831000.0
+Diluted EPS                                                              1.97                0.5               2.75               2.47
+Basic EPS                                                                1.98                0.5               2.75               2.48
+Diluted NI Availto Com Stockholders                              2878951000.0        729368000.0       4007435000.0       3607518000.0
+Net Income Common Stockholders                                   2878951000.0        729368000.0       4007435000.0       3607518000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2878951000.0        729368000.0       4007435000.0       3607518000.0
+Minority Interests                                                -10804000.0         -6877000.0         -3938000.0         -7078000.0
+Net Income Including Noncontrolling Interests                    2889755000.0        736245000.0       4011373000.0       3614596000.0
+Net Income Continuous Operations                                 2889755000.0        736245000.0       4011373000.0       3614596000.0
+Tax Provision                                                     324740000.0        237456000.0        658062000.0        368226000.0
+Pretax Income                                                    3214495000.0        973701000.0       4669435000.0       3982822000.0
+Other Non Operating Income Expenses                               768343000.0        373789000.0        323522000.0        306887000.0
+Special Income Charges                                            -16996000.0         22291000.0         10976000.0        -15979000.0
+Write Off                                                          16996000.0        -22291000.0        -10976000.0         15979000.0
+Net Non Operating Interest Income Expense                        -934881000.0       -183332000.0       -101287000.0       -276884000.0
+Interest Expense Non Operating                                    934881000.0        183332000.0        101287000.0        276884000.0
+Operating Income                                                 5425840000.0      -2255002000.0       9128002000.0       2623734000.0
+Operating Expense                                                4908150000.0       3926202000.0       5515308000.0       4965673000.0
+Other Operating Expenses                                         2032604000.0       1784465000.0       2030357000.0       1507158000.0
+Depreciation And Amortization In Income Statement                 313273000.0        276298000.0        227553000.0        209839000.0
+Depreciation Income Statement                                     313273000.0        276298000.0        227553000.0        209839000.0
+Gross Profit                                                    10333990000.0       1671200000.0      14643310000.0       7589407000.0
+Cost Of Revenue                                                   791102000.0        813142000.0        992524000.0        777945000.0
+Total Revenue                                                   11125092000.0       2484342000.0      15635834000.0       8367352000.0
+Operating Revenue                                               11125092000.0       2484342000.0      15635834000.0       8367352000.0

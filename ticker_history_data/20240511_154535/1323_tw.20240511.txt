@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 88, Sheng Li Road
+address2	Rende District
+city	Tainan City
+zip	717
+country	Taiwan
+phone	886 6 279 3711
+fax	886 6 279 3158
+website	https://www.yonyu.com.tw
+industry	Packaging & Containers
+industryKey	packaging-containers
+industryDisp	Packaging & Containers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Yonyu Plastics Co., Ltd. engages in the manufacturing, wholesale, retail, and sale of various plastic products in Taiwan and Mainland China. The company offers home and personal cleaning, pharmaceutical, and green packaging products, as well as cosmetic package materials; and other products comprising cable accessories and other injection/extrusion products. It also provides color matching and master batch compounding, mold design and fabrication, plastic molding, cosmetic ingredient developing and filling services; mascara/powder boxes and other cosmetic packaging automatic assembly and detection services; and various decoration services. Yonyu Plastics Co., Ltd. was founded in 1964 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Weicheng  Wang', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chongcheng  Cai', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	31.2
+open	31.2
+dayLow	31.1
+dayHigh	31.25
+regularMarketPreviousClose	31.2
+regularMarketOpen	31.2
+regularMarketDayLow	31.1
+regularMarketDayHigh	31.25
+dividendRate	1.1
+dividendYield	0.0352
+exDividendDate	1717718400	 (2024-06-07 08:00:00)
+payoutRatio	1.25
+fiveYearAvgDividendYield	4.61
+beta	0.229
+trailingPE	35.511364
+forwardPE	9.245562
+volume	10812
+regularMarketVolume	10812
+averageVolume	34146
+averageVolume10days	15394
+averageDailyVolume10Day	15394
+bid	31.1
+ask	31.25
+marketCap	2840124928
+fiftyTwoWeekLow	30.4
+fiftyTwoWeekHigh	33.15
+priceToSalesTrailing12Months	0.8583355
+fiftyDayAverage	31.076
+twoHundredDayAverage	31.32625
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.03205128
+currency	TWD
+enterpriseValue	3842066944
+profitMargins	0.0254
+floatShares	81288467
+sharesOutstanding	90884000
+heldPercentInsiders	0.37421
+heldPercentInstitutions	0.01174
+impliedSharesOutstanding	91030096
+bookValue	26.362
+priceToBook	1.1854185
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.671
+netIncomeToCommon	84058000
+trailingEps	0.88
+forwardEps	3.38
+lastSplitFactor	1050:1000
+lastSplitDate	1408924800	 (2014-08-25 08:00:00)
+enterpriseToRevenue	1.161
+enterpriseToEbitda	8.409
+52WeekChange	-0.050152004
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1717718400	 (2024-06-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1323.TW
+underlyingSymbol	1323.TW
+shortName	YONYU PLASTICS
+longName	Yonyu Plastics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	bb340f2b-c739-3a10-b69d-fe616e6684e9
+messageBoardId	finmb_20384521
+gmtOffSetMilliseconds	28800000
+currentPrice	31.25
+recommendationKey	none
+totalCash	1281329024
+totalCashPerShare	14.099
+ebitda	456920992
+totalDebt	1774641024
+quickRatio	3.577
+currentRatio	4.669
+totalRevenue	3308875008
+debtToEquity	61.1
+revenuePerShare	36.408
+returnOnAssets	0.02404
+returnOnEquity	0.061690003
+freeCashflow	215791632
+operatingCashflow	499343008
+earningsGrowth	-0.68
+revenueGrowth	-0.105
+grossMargins	0.19326
+ebitdaMargins	0.13809
+operatingMargins	0.072270006
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   315468.015918    -147673.633505    -832510.957962     921195.680086
+Tax Rate For Calcs                                                 0.204584          0.166299           0.21341          0.254333
+Normalized EBITDA                                               519308000.0       658700000.0       742567000.0       769980000.0
+Total Unusual Items                                               1542000.0         -888000.0        -3901000.0         3622000.0
+Total Unusual Items Excluding Goodwill                            1542000.0         -888000.0        -3901000.0         3622000.0
+Net Income From Continuing Operation Net Minority Interest       84058000.0       186544000.0       276295000.0       290567000.0
+Reconciled Depreciation                                         264544000.0       285209000.0       284902000.0       281662000.0
+Reconciled Cost Of Revenue                                     2669405000.0      2948299000.0      2883420000.0      2545751000.0
+EBITDA                                                          520850000.0       657812000.0       738666000.0       773602000.0
+EBIT                                                            256306000.0       372603000.0       453764000.0       491940000.0
+Net Interest Income                                              -6168000.0        -5580000.0        -7980000.0       -10382000.0
+Interest Expense                                                 30897000.0        23425000.0        17734000.0        18412000.0
+Interest Income                                                  24729000.0        17845000.0         9754000.0         8030000.0
+Normalized Income                                           82831468.015918  187284326.366495  279363489.042038  287866195.680086
+Net Income From Continuing And Discontinued Operation            84058000.0       186544000.0       276295000.0       290567000.0
+Total Expenses                                                 3097911000.0      3438489000.0      3352979000.0      2948271000.0
+Diluted Average Shares                                                  NaN        91209000.0        91320000.0        91457000.0
+Basic Average Shares                                                    NaN        90884000.0        90884000.0        90884000.0
+Diluted EPS                                                             NaN              2.05              3.03              3.18
+Basic EPS                                                               NaN              2.05              3.04               3.2
+Diluted NI Availto Com Stockholders                              84058000.0       186544000.0       276295000.0       290567000.0
+Net Income Common Stockholders                                   84058000.0       186544000.0       276295000.0       290567000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                       84058000.0       186544000.0       276295000.0       290567000.0
+Minority Interests                                              -95236000.0      -104566000.0       -66682000.0       -62527000.0
+Net Income Including Noncontrolling Interests                   179294000.0       291110000.0       342977000.0       353094000.0
+Net Income Continuous Operations                                179294000.0       291110000.0       342977000.0       353094000.0
+Tax Provision                                                    46115000.0        58068000.0        93053000.0       120434000.0
+Pretax Income                                                   225409000.0       349178000.0       436030000.0       473528000.0
+Other Non Operating Income Expenses                              19071000.0        41754000.0         3300000.0        22027000.0
+Special Income Charges                                            1542000.0         -888000.0        -3901000.0         3622000.0
+Write Off                                                        -1542000.0          888000.0         3901000.0        -3622000.0
+Net Non Operating Interest Income Expense                        -6168000.0        -5580000.0        -7980000.0       -10382000.0
+Interest Expense Non Operating                                   30897000.0        23425000.0        17734000.0        18412000.0
+Interest Income Non Operating                                    24729000.0        17845000.0         9754000.0         8030000.0
+Operating Income                                                210964000.0       313892000.0       444611000.0       458261000.0
+Operating Expense                                               428506000.0       490190000.0       469559000.0       402520000.0
+Research And Development                                         56293000.0        56094000.0        56314000.0        58817000.0
+Selling General And Administration                              372213000.0       434096000.0       413245000.0       343703000.0
+Selling And Marketing Expense                                   167680000.0       289517000.0       273484000.0       212365000.0
+General And Administrative Expense                              204533000.0       144579000.0       139761000.0       131338000.0
+Gross Profit                                                    639470000.0       804082000.0       914170000.0       860781000.0
+Cost Of Revenue                                                2669405000.0      2948299000.0      2883420000.0      2545751000.0
+Total Revenue                                                  3308875000.0      3752381000.0      3797590000.0      3406532000.0
+Operating Revenue                                              3308875000.0      3752381000.0      3797590000.0      3406532000.0

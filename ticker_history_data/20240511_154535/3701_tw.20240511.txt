@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 300, Sunshine Street
+address2	8th Floor Neihu District
+city	Taipei City
+zip	114
+country	Taiwan
+phone	886 2 8751 8751
+website	https://www.ficg.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	FIC Global, Inc. invests in the manufacturing, design, engineering, and system integration businesses. The company was founded in 1993 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chien-Ming  Tz', 'title': 'President & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tung-Hsin  Lin', 'title': 'CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Youhua  Li', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Qing  Zhan', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	56.1
+open	56.5
+dayLow	55.4
+dayHigh	56.5
+regularMarketPreviousClose	56.1
+regularMarketOpen	56.5
+regularMarketDayLow	55.4
+regularMarketDayHigh	56.5
+dividendRate	0.49
+dividendYield	0.0088
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.348
+beta	0.248
+trailingPE	39.3662
+volume	356693
+regularMarketVolume	356693
+averageVolume	1765529
+averageVolume10days	549377
+averageDailyVolume10Day	549377
+bid	55.8
+ask	55.9
+marketCap	13120513024
+fiftyTwoWeekLow	53.1
+fiftyTwoWeekHigh	79.8
+priceToSalesTrailing12Months	0.95948386
+fiftyDayAverage	59.434
+twoHundredDayAverage	60.745
+trailingAnnualDividendRate	0.494
+trailingAnnualDividendYield	0.008805704
+currency	TWD
+enterpriseValue	14430070784
+profitMargins	0.03491
+floatShares	134631125
+sharesOutstanding	234714000
+heldPercentInsiders	0.72328
+heldPercentInstitutions	0.00193
+impliedSharesOutstanding	234714000
+bookValue	18.097
+priceToBook	3.0889099
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+earningsQuarterlyGrowth	0.398
+netIncomeToCommon	477369984
+trailingEps	1.42
+lastSplitFactor	500:1000
+lastSplitDate	1541376000	 (2018-11-05 08:00:00)
+enterpriseToRevenue	1.055
+enterpriseToEbitda	13.894
+52WeekChange	-0.05074203
+SandP52WeekChange	0.26265144
+lastDividendValue	0.494225
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3701.TW
+underlyingSymbol	3701.TW
+shortName	FIC GLOBAL INC
+longName	FIC Global, Inc.
+firstTradeDateEpochUtc	1093914000	 (2004-08-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f7afff59-ef72-3475-8157-dd48df54277c
+messageBoardId	finmb_20343170
+gmtOffSetMilliseconds	28800000
+currentPrice	55.9
+recommendationKey	none
+totalCash	2717993984
+totalCashPerShare	11.847
+ebitda	1038601984
+totalDebt	1930168064
+quickRatio	1.335
+currentRatio	2.128
+totalRevenue	13674553344
+debtToEquity	29.491
+revenuePerShare	62.699
+returnOnAssets	0.04249
+returnOnEquity	0.13703
+freeCashflow	1368121216
+operatingCashflow	2012795008
+earningsGrowth	0.322
+revenueGrowth	0.324
+grossMargins	0.16165
+ebitdaMargins	0.07595
+operatingMargins	0.08557
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31     2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   2759624.418436   -1283457.04337      2797600.0    -9446400.0
+Tax Rate For Calcs                                                  0.197398         0.054205            0.2           0.2
+Normalized EBITDA                                               1312882000.0     1354667000.0    843456000.0   500606000.0
+Total Unusual Items                                               13980000.0      -23678000.0     13988000.0   -47232000.0
+Total Unusual Items Excluding Goodwill                            13980000.0      -23678000.0     13988000.0   -47232000.0
+Net Income From Continuing Operation Net Minority Interest       332140000.0      476470000.0    251978000.0   -39547000.0
+Reconciled Depreciation                                          503635000.0      530269000.0    421943000.0   388545000.0
+Reconciled Cost Of Revenue                                     11227876000.0    10781900000.0   8825415000.0  6468943000.0
+EBITDA                                                          1326862000.0     1330989000.0    857444000.0   453374000.0
+EBIT                                                             823227000.0      800720000.0    435501000.0    64829000.0
+Net Interest Income                                                3599000.0      -21877000.0     -8370000.0    -2553000.0
+Interest Expense                                                  42358000.0       36228000.0     36699000.0    45870000.0
+Interest Income                                                   45957000.0       14351000.0     28329000.0    43317000.0
+Normalized Income                                           320919624.418436  498864542.95663    240787600.0    -1761400.0
+Net Income From Continuing And Discontinued Operation            332140000.0      476470000.0    251978000.0   -39547000.0
+Total Expenses                                                 12643500000.0    11985208000.0   9899621000.0  7441176000.0
+Diluted Average Shares                                                   NaN      228753000.0    203221325.0   191999618.0
+Basic Average Shares                                                     NaN      214106000.0    193193911.0   191999618.0
+Diluted EPS                                                              NaN              2.1       1.249142      -0.20819
+Basic EPS                                                                NaN             2.23       1.308624      -0.20819
+Diluted NI Availto Com Stockholders                              332140000.0      476470000.0    251978000.0   -39547000.0
+Net Income Common Stockholders                                   332140000.0      476470000.0    251978000.0   -39547000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0            0.0           0.0
+Net Income                                                       332140000.0      476470000.0    251978000.0   -39547000.0
+Minority Interests                                              -294587000.0     -246583000.0   -155942000.0   -26858000.0
+Net Income Including Noncontrolling Interests                    626727000.0      723053000.0    407920000.0   -12689000.0
+Net Income Continuous Operations                                 626727000.0      723053000.0    407920000.0   -12689000.0
+Tax Provision                                                    154142000.0       41439000.0     -9118000.0    31648000.0
+Pretax Income                                                    780869000.0      764492000.0    398802000.0    18959000.0
+Other Non Operating Income Expenses                              125982000.0      327493000.0    240594000.0    78786000.0
+Special Income Charges                                            13980000.0      -23678000.0     13988000.0   -47232000.0
+Write Off                                                        -13980000.0       23678000.0    -13988000.0    47232000.0
+Net Non Operating Interest Income Expense                          3599000.0      -21877000.0     -8370000.0    -2553000.0
+Interest Expense Non Operating                                    42358000.0       36228000.0     36699000.0    45870000.0
+Interest Income Non Operating                                     45957000.0       14351000.0     28329000.0    43317000.0
+Operating Income                                                 639896000.0      463227000.0    140370000.0   -36908000.0
+Operating Expense                                               1415624000.0     1203308000.0   1074206000.0   972233000.0
+Research And Development                                         344949000.0      320813000.0    274788000.0   246413000.0
+Selling General And Administration                              1070675000.0      882495000.0    799418000.0   725820000.0
+Selling And Marketing Expense                                    516922000.0      357033000.0    325050000.0   254675000.0
+General And Administrative Expense                               553753000.0      525462000.0    474368000.0   471145000.0
+Gross Profit                                                    2055520000.0     1666535000.0   1214576000.0   935325000.0
+Cost Of Revenue                                                11227876000.0    10781900000.0   8825415000.0  6468943000.0
+Total Revenue                                                  13283396000.0    12448435000.0  10039991000.0  7404268000.0
+Operating Revenue                                              13283396000.0    12448435000.0  10039991000.0  7404268000.0

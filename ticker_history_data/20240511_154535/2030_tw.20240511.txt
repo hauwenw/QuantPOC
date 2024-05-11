@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 122 Industrial Road
+address2	Industrial Zone
+city	Douliou
+zip	640
+country	Taiwan
+phone	886 5 557 0150
+fax	886 5 557 1339
+website	https://www.froch.com
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Froch Enterprise Co., Ltd. manufactures, sells, and exports stainless steel tubes and pipes in Taiwan and internationally. The company offers stainless steel pipes, large diameter stainless steel pipes, mechanical tubes, equal leg angle bars, square and rectangular tubes, sanitary tubes, inside polished pipes, coated pipes, sheets, plates, and coils; stainless steel tubes for boilers and heat-exchangers; and stainless-steel light gauge tubes for general services. It serves oil and gas, petrochemical, chemical, power utility, pulp and paper, food and beverage, automotive, furniture, construction, electronic, biotech, and other industries. The company was founded in 1970 and is headquartered in Douliou City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ping-Yao  Chang', 'age': 71, 'title': 'Chairman & President', 'yearBorn': 1952, 'fiscalYear': 2021, 'totalPay': 5692000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-Ta  Chang', 'age': 47, 'title': 'Vice Chairman & VP', 'yearBorn': 1976, 'fiscalYear': 2021, 'totalPay': 3133000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Chieh  Huang', 'title': 'Head of Marketing Division', 'fiscalYear': 2021, 'totalPay': 2446000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsao-Chi  Yang', 'age': 52, 'title': 'GM of Procurement Division & Director', 'yearBorn': 1971, 'fiscalYear': 2021, 'totalPay': 1968000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Chi  Chang', 'title': 'Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bing Yao  Zhang', 'title': 'General Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	18.45
+open	18.35
+dayLow	18.15
+dayHigh	18.5
+regularMarketPreviousClose	18.45
+regularMarketOpen	18.35
+regularMarketDayLow	18.15
+regularMarketDayHigh	18.5
+dividendRate	1.5
+dividendYield	0.081499994
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	8.333301
+fiveYearAvgDividendYield	6.14
+beta	0.569
+forwardPE	11.870968
+volume	544495
+regularMarketVolume	544495
+averageVolume	552236
+averageVolume10days	374126
+averageDailyVolume10Day	374126
+bid	18.4
+ask	18.45
+marketCap	5161678336
+fiftyTwoWeekLow	17.0
+fiftyTwoWeekHigh	23.5
+priceToSalesTrailing12Months	0.4014715
+fiftyDayAverage	18.596
+twoHundredDayAverage	18.69375
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.02710027
+currency	TWD
+enterpriseValue	10015139840
+profitMargins	0.00396
+floatShares	232098819
+sharesOutstanding	280526016
+heldPercentInsiders	0.31017
+heldPercentInstitutions	0.01785
+impliedSharesOutstanding	281272000
+bookValue	17.182
+priceToBook	1.0708882
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	50950000
+trailingEps	-0.46
+forwardEps	1.55
+lastSplitFactor	1050.25:1000
+lastSplitDate	1438646400	 (2015-08-04 08:00:00)
+enterpriseToRevenue	0.779
+enterpriseToEbitda	20.889
+52WeekChange	-0.1785714
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2030.TW
+underlyingSymbol	2030.TW
+shortName	FROCH ENTERPRISE CO
+longName	Froch Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	92724c22-9106-379b-8921-4e7c6f56bcbf
+messageBoardId	finmb_12719152
+gmtOffSetMilliseconds	28800000
+currentPrice	18.4
+recommendationKey	none
+totalCash	1374002048
+totalCashPerShare	4.898
+ebitda	479456992
+totalDebt	6227463168
+quickRatio	0.788
+currentRatio	2.092
+totalRevenue	12856898560
+debtToEquity	129.197
+revenuePerShare	45.831
+returnOnAssets	0.012990001
+returnOnEquity	0.010140001
+freeCashflow	144062624
+operatingCashflow	574113984
+revenueGrowth	-0.078
+grossMargins	0.07289
+ebitdaMargins	0.03729
+operatingMargins	0.010720001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                                    0.2       0.280995       0.273409            0.2
+Normalized EBITDA                                             537343000.0   1421657000.0   2015954000.0    535990000.0
+Total Unusual Items                                                   NaN            NaN            NaN      1669000.0
+Total Unusual Items Excluding Goodwill                                NaN            NaN            NaN      1669000.0
+Net Income From Continuing Operation Net Minority Interest     50950000.0    741216000.0   1204560000.0    108351000.0
+Reconciled Depreciation                                       283719000.0    260935000.0    252626000.0    236964000.0
+Reconciled Cost Of Revenue                                  11919820000.0  14068198000.0  12422135000.0   9622919000.0
+EBITDA                                                        537343000.0   1421657000.0   2015954000.0    535990000.0
+EBIT                                                          253624000.0   1160722000.0   1763328000.0    299026000.0
+Net Interest Income                                          -152773000.0   -124646000.0    -97968000.0   -104670000.0
+Interest Expense                                              160086000.0    129831000.0    105503000.0    110710000.0
+Interest Income                                                 7313000.0      5185000.0      7535000.0      6040000.0
+Normalized Income                                              50950000.0    741216000.0   1204560000.0    108351000.0
+Net Income From Continuing And Discontinued Operation          50950000.0    741216000.0   1204560000.0    108351000.0
+Total Expenses                                              12606420000.0  15092595000.0  13511809000.0  10326079000.0
+Diluted Average Shares                                        280651000.0    281045000.0    281070000.0    282969000.0
+Basic Average Shares                                          280526000.0    280526000.0    280526000.0    282795000.0
+Diluted EPS                                                          0.18           2.64           4.29           0.38
+Basic EPS                                                            0.18           2.64           4.29           0.38
+Diluted NI Availto Com Stockholders                            50950000.0    741216000.0   1204560000.0    108351000.0
+Net Income Common Stockholders                                 50950000.0    741216000.0   1204560000.0    108351000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                     50950000.0    741216000.0   1204560000.0    108351000.0
+Net Income Including Noncontrolling Interests                  50950000.0    741216000.0   1204560000.0    108351000.0
+Net Income Continuous Operations                               50950000.0    741216000.0   1204560000.0    108351000.0
+Tax Provision                                                  42588000.0    289675000.0    453265000.0     79965000.0
+Pretax Income                                                  93538000.0   1030891000.0   1657825000.0    188316000.0
+Other Non Operating Income Expenses                            -4168000.0       141000.0     28830000.0     58118000.0
+Special Income Charges                                                NaN            NaN            NaN       849000.0
+Other Special Charges                                                 NaN            NaN            NaN      -849000.0
+Net Non Operating Interest Income Expense                    -152773000.0   -124646000.0    -97968000.0   -104670000.0
+Interest Expense Non Operating                                160086000.0    129831000.0    105503000.0    110710000.0
+Interest Income Non Operating                                   7313000.0      5185000.0      7535000.0      6040000.0
+Operating Income                                              250479000.0   1155396000.0   1726963000.0    234868000.0
+Operating Expense                                             686600000.0   1024397000.0   1089674000.0    703160000.0
+Selling General And Administration                            686600000.0   1024397000.0   1089674000.0    703160000.0
+Selling And Marketing Expense                                 480432000.0    790167000.0    849097000.0    524723000.0
+General And Administrative Expense                            206168000.0    234230000.0    240577000.0    178437000.0
+Gross Profit                                                  937079000.0   2179793000.0   2816637000.0    938028000.0
+Cost Of Revenue                                             11919820000.0  14068198000.0  12422135000.0   9622919000.0
+Total Revenue                                               12856899000.0  16247991000.0  15238772000.0  10560947000.0
+Operating Revenue                                           12856899000.0  16247991000.0  15238772000.0  10560947000.0

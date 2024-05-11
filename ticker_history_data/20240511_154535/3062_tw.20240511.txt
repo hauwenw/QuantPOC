@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 99 Park Avenue III
+address2	Science Park
+city	Hsinchu
+zip	308
+country	Taiwan
+phone	886 3 577 7777
+fax	886 3 577 7788
+website	https://www.cybertan.com.tw
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	CyberTAN Technology Inc. manufactures and sells broadband and wireless networking equipment in Europe, the United States, Asia, Australia, and internationally. The company offers enterprise solutions, such as enterprise access points, enterprise AP controller, switch, fixed wireless access, and VoIP phone; wired and wireless broadband solutions, that includes 5G CPE and small cell, GPON, cable modem, and satellite broadband appliances; home connectivity and entertainment solutions, such as home mesh WiFi, home router, and OTT/STB; and IoT solutions, including IOT smart router, gateway, WiFi module, and edge AI gateway. It also engages in research, development, and sales of broadband Internet routers, gateways, virtual private networks, firewalls, and Layer 3 and Layer 4 switches. CyberTAN Technology Inc. was incorporated in 1998 and is headquartered in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Gwong-Yih  Lee', 'age': 68, 'title': 'GM, Chairman of the Board & CSO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 5684000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Maxon  Huang', 'title': 'Vice President', 'fiscalYear': 2022, 'totalPay': 3695000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Deaxy  Wang', 'title': 'Vice President', 'fiscalYear': 2022, 'totalPay': 4022000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sammie  Huang', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Even  Lee', 'title': 'Corporate Governance Officer and Finance & Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Wen  Liu', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ruo  Ouyang', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+irWebsite	http://www.cybertan.com.tw/Investor/market.htm
+maxAge	86400
+priceHint	2
+previousClose	21.95
+open	22.2
+dayLow	21.75
+dayHigh	22.2
+regularMarketPreviousClose	21.95
+regularMarketOpen	22.2
+regularMarketDayLow	21.75
+regularMarketDayHigh	22.2
+exDividendDate	1659398400	 (2022-08-02 08:00:00)
+fiveYearAvgDividendYield	1.28
+beta	0.731
+volume	1160725
+regularMarketVolume	1160725
+averageVolume	6145332
+averageVolume10days	2252197
+averageDailyVolume10Day	2252197
+bid	21.8
+ask	21.9
+marketCap	7247231488
+fiftyTwoWeekLow	19.1
+fiftyTwoWeekHigh	26.55
+priceToSalesTrailing12Months	1.9044634
+fiftyDayAverage	22.164
+twoHundredDayAverage	21.86825
+currency	TWD
+enterpriseValue	5915249152
+profitMargins	-0.08326
+floatShares	319816492
+sharesOutstanding	330169984
+heldPercentInsiders	0.111540005
+heldPercentInstitutions	0.10973
+impliedSharesOutstanding	330169984
+bookValue	14.447
+priceToBook	1.5193467
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-316830016
+trailingEps	-0.97
+lastSplitFactor	1.0101:1
+lastSplitDate	1252368000	 (2009-09-08 08:00:00)
+enterpriseToRevenue	1.554
+enterpriseToEbitda	-16.719
+52WeekChange	0.00688076
+SandP52WeekChange	0.26265144
+lastDividendValue	0.05
+lastDividendDate	1659398400	 (2022-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3062.TW
+underlyingSymbol	3062.TW
+shortName	CYBERTAN TECHNOLOGY INC
+longName	CyberTAN Technology Inc.
+firstTradeDateEpochUtc	1059354000	 (2003-07-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	653d3676-c7ad-3802-8939-2efb60278f3f
+messageBoardId	finmb_9870595
+gmtOffSetMilliseconds	28800000
+currentPrice	21.95
+recommendationKey	none
+totalCash	2405051904
+totalCashPerShare	7.284
+ebitda	-353812000
+totalDebt	1073280000
+quickRatio	1.847
+currentRatio	2.335
+totalRevenue	3805392896
+debtToEquity	22.501
+revenuePerShare	11.603
+returnOnAssets	-0.03999
+returnOnEquity	-0.06443
+freeCashflow	687788352
+operatingCashflow	763716992
+revenueGrowth	-0.473
+grossMargins	0.00261
+ebitdaMargins	-0.092980005
+operatingMargins	-0.11943
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   1613991.382213   -1207456.519066      305200.0     -169800.0
+Tax Rate For Calcs                                                  0.132664          0.098279           0.2           0.2
+Normalized EBITDA                                               -199092000.0      -239706000.0   147441000.0   157776000.0
+Total Unusual Items                                               12166000.0       -12286000.0     1526000.0     -849000.0
+Total Unusual Items Excluding Goodwill                            12166000.0       -12286000.0     1526000.0     -849000.0
+Net Income From Continuing Operation Net Minority Interest      -316830000.0      -366674000.0    24393000.0    23575000.0
+Reconciled Depreciation                                          146501000.0       117193000.0   119369000.0   113402000.0
+Reconciled Cost Of Revenue                                      3795451000.0      5466483000.0  3837535000.0  4462416000.0
+EBITDA                                                          -186926000.0      -251992000.0   148967000.0   156927000.0
+EBIT                                                            -333427000.0      -369185000.0    29598000.0    43525000.0
+Net Interest Income                                                4186000.0       -15692000.0    -2352000.0     5460000.0
+Interest Expense                                                  31864000.0        37453000.0    21987000.0    24701000.0
+Interest Income                                                   36050000.0        21761000.0    19635000.0    30161000.0
+Normalized Income                                          -327382008.617787 -355595456.519066    23172200.0    24254200.0
+Net Income From Continuing And Discontinued Operation           -316830000.0      -366674000.0    24393000.0    23575000.0
+Total Expenses                                                  4284116000.0      5953977000.0  4228773000.0  4858784000.0
+Diluted Average Shares                                                   NaN       328605000.0   328647000.0   328798000.0
+Basic Average Shares                                                     NaN       328605000.0   328605000.0   328605000.0
+Diluted EPS                                                              NaN             -1.12          0.07          0.07
+Basic EPS                                                                NaN             -1.12          0.07          0.07
+Diluted NI Availto Com Stockholders                             -316830000.0      -366674000.0    24393000.0    23575000.0
+Net Income Common Stockholders                                  -316830000.0      -366674000.0    24393000.0    23575000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0           0.0
+Net Income                                                      -316830000.0      -366674000.0    24393000.0    23575000.0
+Net Income Including Noncontrolling Interests                   -316830000.0      -366674000.0    24393000.0    23575000.0
+Net Income Continuous Operations                                -316830000.0      -366674000.0    24393000.0    23575000.0
+Tax Provision                                                    -48461000.0       -39964000.0   -16782000.0    -4751000.0
+Pretax Income                                                   -365291000.0      -406638000.0     7611000.0    18824000.0
+Other Non Operating Income Expenses                              223143000.0       -68863000.0   397541000.0    63222000.0
+Special Income Charges                                            12166000.0       -12286000.0     1526000.0     -849000.0
+Write Off                                                        -12166000.0        12286000.0    -1526000.0      849000.0
+Net Non Operating Interest Income Expense                          4186000.0       -15692000.0    -2352000.0     5460000.0
+Interest Expense Non Operating                                    31864000.0        37453000.0    21987000.0    24701000.0
+Interest Income Non Operating                                     36050000.0        21761000.0    19635000.0    30161000.0
+Operating Income                                                -478723000.0      -200635000.0  -281977000.0   -24633000.0
+Operating Expense                                                488665000.0       487494000.0   391238000.0   396368000.0
+Research And Development                                         291030000.0       275649000.0   267239000.0   272019000.0
+Selling General And Administration                               197635000.0       211845000.0   123999000.0   124349000.0
+Selling And Marketing Expense                                     64161000.0        50599000.0    49618000.0    56000000.0
+General And Administrative Expense                               133474000.0       161246000.0    74381000.0    68349000.0
+Gross Profit                                                       9942000.0       286859000.0   109261000.0   371735000.0
+Cost Of Revenue                                                 3795451000.0      5466483000.0  3837535000.0  4462416000.0
+Total Revenue                                                   3805393000.0      5753342000.0  3946796000.0  4834151000.0
+Operating Revenue                                               3805393000.0      5753342000.0  3946796000.0  4834151000.0

@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.107, Songren Rd
+address2	10 floor PO Box 2681 Xinyi Dist
+city	taipei City
+zip	11073
+country	Taiwan
+phone	886 2 2723 8666
+website	https://www.chlitina.com
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Chlitina Holding Limited, together with its subsidiaries, engages in the research, development, manufacturing, and marketing of skincare products in China, Taiwan, and Hong Kong. The company offers skin products for basic maintenance, serum, acne, dehydration, dull spots, wrinkles, and repairs; nature, lotions, sunscreen, and essential oils products under the Chlitina brand name. It also provides enterprise management consulting services; medical cosmetology services; and cosmetology training services, as well as operates as a dealer of health food and daily necessities products, skincare and supplementary health care products, and general practice and foods. The company sells its products online. It operates CHLITINA franchised beauty salons in Mainland China, Taiwan, Hong Kong, and Southeast Asia. The company was founded in 1989 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Pi-Hua  Chen', 'title': 'CSO & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-You  Chao', 'title': 'CEO, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Chih  Yeh', 'title': 'Senior CFO and Financial Controller, Senior CEO of Finance & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'An-Rong  Hu', 'title': 'Director of Accounting & Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Chih  Yang', 'title': 'President of Mainland China Area', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	174.5
+open	174.5
+dayLow	171.0
+dayHigh	174.5
+regularMarketPreviousClose	174.5
+regularMarketOpen	174.5
+regularMarketDayLow	171.0
+regularMarketDayHigh	174.5
+dividendRate	6.96
+dividendYield	0.0404
+exDividendDate	1688083200	 (2023-06-30 08:00:00)
+payoutRatio	0.78650004
+fiveYearAvgDividendYield	5.14
+trailingPE	19.491524
+forwardPE	11.32633
+volume	185480
+regularMarketVolume	185480
+averageVolume	121025
+averageVolume10days	203407
+averageDailyVolume10Day	203407
+bid	172.0
+ask	173.0
+marketCap	13782904832
+fiftyTwoWeekLow	171.0
+fiftyTwoWeekHigh	248.5
+priceToSalesTrailing12Months	3.0048761
+fiftyDayAverage	191.95332
+twoHundredDayAverage	191.76582
+trailingAnnualDividendRate	10.5
+trailingAnnualDividendYield	0.06017192
+currency	TWD
+enterpriseValue	10164003840
+profitMargins	0.15448
+floatShares	41947053
+sharesOutstanding	79900896
+heldPercentInsiders	0.46749002
+heldPercentInstitutions	0.15252
+impliedSharesOutstanding	79900896
+bookValue	67.63
+priceToBook	2.5506432
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.818
+netIncomeToCommon	708590976
+trailingEps	8.85
+forwardEps	15.23
+lastSplitFactor	1050:1000
+lastSplitDate	1405900800	 (2014-07-21 08:00:00)
+enterpriseToRevenue	2.216
+enterpriseToEbitda	7.835
+52WeekChange	-0.2564655
+SandP52WeekChange	0.26265144
+lastDividendValue	7.0
+lastDividendDate	1688083200	 (2023-06-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4137.TW
+underlyingSymbol	4137.TW
+shortName	CHLITINA HOLDING LIMITED
+longName	Chlitina Holding Limited
+firstTradeDateEpochUtc	1385514000	 (2013-11-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	11dbf983-1246-3cb4-80d7-c1375120eac1
+messageBoardId	finmb_236400251
+gmtOffSetMilliseconds	28800000
+currentPrice	172.5
+recommendationMean	2.7
+recommendationKey	hold
+totalCash	5973434880
+totalCashPerShare	75.221
+ebitda	1297233024
+totalDebt	2438853888
+quickRatio	1.776
+currentRatio	1.944
+totalRevenue	4586846208
+debtToEquity	45.411
+revenuePerShare	57.736
+returnOnAssets	0.07834
+returnOnEquity	0.13599
+freeCashflow	2814474240
+operatingCashflow	963854976
+earningsGrowth	-0.819
+revenueGrowth	0.055
+grossMargins	0.83565
+ebitdaMargins	0.28282
+operatingMargins	0.21125999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.284944           0.2      0.339997      0.311576
+Normalized EBITDA                                           1925675000.0  1567927000.0  2422653000.0  1760000000.0
+Net Income From Continuing Operation Net Minority Interest  1033554000.0   689858000.0  1355257000.0   959636000.0
+Reconciled Depreciation                                      325368000.0   343787000.0   326979000.0   313760000.0
+Reconciled Cost Of Revenue                                   748113000.0   711322000.0   893709000.0   604571000.0
+EBITDA                                                      1925675000.0  1567927000.0  2422653000.0  1760000000.0
+EBIT                                                        1600307000.0  1224140000.0  2095674000.0  1446240000.0
+Net Interest Income                                            4749000.0    31917000.0    54686000.0    28060000.0
+Interest Expense                                             154890000.0    66906000.0    42265000.0    52279000.0
+Interest Income                                              159639000.0    98823000.0    96951000.0    80339000.0
+Normalized Income                                           1033554000.0   689858000.0  1355257000.0   959636000.0
+Net Income From Continuing And Discontinued Operation       1033554000.0   689858000.0  1355257000.0   959636000.0
+Total Expenses                                              3336882000.0  2889231000.0  3499808000.0  2935730000.0
+Diluted Average Shares                                               NaN    80001371.0    80056654.0    79903872.0
+Basic Average Shares                                                 NaN    79883769.0    79900857.0    79762147.0
+Diluted EPS                                                          NaN      8.625635     16.932908     12.008237
+Basic EPS                                                            NaN      8.635584     16.962754     12.028135
+Diluted NI Availto Com Stockholders                         1033554000.0   689858000.0  1355257000.0   959636000.0
+Net Income Common Stockholders                              1033554000.0   689858000.0  1355257000.0   959636000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  1033554000.0   689858000.0  1355257000.0   959636000.0
+Net Income Including Noncontrolling Interests               1033554000.0   689858000.0  1355257000.0   959636000.0
+Net Income Continuous Operations                            1033554000.0   689858000.0  1355257000.0   959636000.0
+Tax Provision                                                411863000.0   467376000.0   698152000.0   434325000.0
+Pretax Income                                               1445417000.0  1157234000.0  2053409000.0  1393961000.0
+Other Non Operating Income Expenses                          285899000.0   -54808000.0   224996000.0   235818000.0
+Net Non Operating Interest Income Expense                      4749000.0    31917000.0    54686000.0    28060000.0
+Interest Expense Non Operating                               154890000.0    66906000.0    42265000.0    52279000.0
+Interest Income Non Operating                                159639000.0    98823000.0    96951000.0    80339000.0
+Operating Income                                            1197889000.0  1179979000.0  1771505000.0  1120266000.0
+Operating Expense                                           2588769000.0  2177909000.0  2606099000.0  2331159000.0
+Research And Development                                      19616000.0    31015000.0           0.0           NaN
+Selling General And Administration                          2569153000.0  2146894000.0  2606099000.0  2331159000.0
+Selling And Marketing Expense                               1834334000.0  1461564000.0  1842866000.0  1567748000.0
+General And Administrative Expense                           734819000.0   685330000.0   763233000.0   763411000.0
+Gross Profit                                                3786658000.0  3357888000.0  4377604000.0  3451425000.0
+Cost Of Revenue                                              748113000.0   711322000.0   893709000.0   604571000.0
+Total Revenue                                               4534771000.0  4069210000.0  5271313000.0  4055996000.0
+Operating Revenue                                           4534771000.0  4069210000.0  5271313000.0  4055996000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 22, Zhongshan North Road
+address2	Section 3
+city	Taipei
+country	Taiwan
+website	https://www.tatung.com
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Tatung Co., Ltd., through its subsidiaries, provides power, consumer, and system solutions in Taiwan, China, rest of Asia, Europe, and the United States. The company operates through four segments: Optoelectronics; Machinery, Energy, and System; Consumer Products; and Real Estate Development. It offers products and services, such as steel manufacturing machinery, industrial appliances, household appliances, refrigerators, air conditioners, metal processing machineries, electronic products, wires and cables, chemicals, cookware products, wood-made products, plastics, office equipment, audio products, precision meters, and transmission equipment. The company also provides products and services that include transportation facilities, health care products, microbe fermentation products, construction, furniture products, solar wafers, water treatment engineering, telecommunication equipment, parking facilities, automation machinery, semiconductors, and real estate development and leasing. In addition, it engages in publishing magazines, as well as offering customs brokerage; the general import and export business; and development and leasing of industrial parks. The company was founded in 1918 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin-Lai  Wang', 'title': 'Director', 'fiscalYear': 2021, 'totalPay': 2158000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rong-Chuan  Chen', 'age': 70, 'title': 'Executive Director', 'yearBorn': 1953, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bo-Yen  Shen', 'title': 'President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kuan-Ling  Lai', 'title': 'Chief Operating Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei Li  Tsai', 'title': 'Accounting Officer & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chao  Tzu-Hao', 'title': 'Chief Information Security Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jian-Ping  Xu', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Er Kun  Ding', 'title': 'Chief Strategy Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	65.0
+open	65.5
+dayLow	63.5
+dayHigh	66.3
+regularMarketPreviousClose	65.0
+regularMarketOpen	65.5
+regularMarketDayLow	63.5
+regularMarketDayHigh	66.3
+exDividendDate	997142400	 (2001-08-07 08:00:00)
+beta	0.381
+trailingPE	56.725662
+forwardPE	30.23585
+volume	52201494
+regularMarketVolume	52201494
+averageVolume	91256598
+averageVolume10days	79565395
+averageDailyVolume10Day	79565395
+bid	64.1
+ask	64.2
+marketCap	148407517184
+fiftyTwoWeekLow	35.45
+fiftyTwoWeekHigh	72.5
+priceToSalesTrailing12Months	2.9474523
+fiftyDayAverage	57.365
+twoHundredDayAverage	47.1235
+currency	TWD
+enterpriseValue	174004027392
+profitMargins	0.05217
+floatShares	1591528133
+sharesOutstanding	2315249920
+heldPercentInsiders	0.39111
+heldPercentInstitutions	0.07272
+impliedSharesOutstanding	2412069888
+bookValue	23.61
+priceToBook	2.714951
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.484
+netIncomeToCommon	2626671104
+trailingEps	1.13
+forwardEps	2.12
+lastSplitFactor	0.421313:1
+lastSplitDate	1300924800	 (2011-03-24 08:00:00)
+enterpriseToRevenue	3.456
+enterpriseToEbitda	59.253
+52WeekChange	0.6868421
+SandP52WeekChange	0.26265144
+lastDividendValue	0.452103
+lastDividendDate	997142400	 (2001-08-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2371.TW
+underlyingSymbol	2371.TW
+shortName	TATUNG CO LTD
+longName	Tatung Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b4701db1-da5b-37c2-b314-ecc9d1ab0f59
+messageBoardId	finmb_5522544
+gmtOffSetMilliseconds	28800000
+currentPrice	64.1
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	26104188928
+totalCashPerShare	11.275
+ebitda	2936638976
+totalDebt	40705376256
+quickRatio	1.122
+currentRatio	1.886
+totalRevenue	50351116288
+debtToEquity	61.996
+revenuePerShare	21.715
+returnOnAssets	0.0058099995
+returnOnEquity	0.04321
+freeCashflow	415528128
+operatingCashflow	3875926016
+earningsGrowth	2.503
+revenueGrowth	0.133
+grossMargins	0.16028999
+ebitdaMargins	0.058319997
+operatingMargins	-0.03586
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31          2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    27875600.0     -4928203.992648   -10301344.111993    -45499000.0
+Tax Rate For Calcs                                                    0.2            0.001344           0.031578            0.2
+Normalized EBITDA                                            5288016000.0       14752914000.0       7731357000.0    915664000.0
+Total Unusual Items                                           139378000.0       -3665793000.0       -326218000.0   -227495000.0
+Total Unusual Items Excluding Goodwill                        139378000.0       -3665793000.0       -326218000.0   -227495000.0
+Net Income From Continuing Operation Net Minority Interest   2626671000.0        9366786000.0       3672119000.0  -1076337000.0
+Reconciled Depreciation                                      2399571000.0        2085759000.0       2230580000.0   2652582000.0
+Reconciled Cost Of Revenue                                  42280216000.0       27247387000.0      22372072000.0  25312819000.0
+EBITDA                                                       5427394000.0       11087121000.0       7405139000.0    688169000.0
+EBIT                                                         3027823000.0        9001362000.0       5174559000.0  -1964413000.0
+Net Interest Income                                          -400409000.0       -1634715000.0      -2442598000.0  -2868796000.0
+Interest Expense                                              854161000.0        1792813000.0       2521106000.0   2944781000.0
+Interest Income                                               453752000.0         158098000.0         78508000.0     75985000.0
+Normalized Income                                            2515168600.0  13027650796.007353  3988035655.888007   -894341000.0
+Net Income From Continuing And Discontinued Operation        2626671000.0        9366786000.0       3672119000.0  -1076337000.0
+Total Expenses                                              49230996000.0       33102199000.0      28696894000.0  32681336000.0
+Diluted Average Shares                                                NaN        2338346000.0       2336213000.0   2335061000.0
+Basic Average Shares                                                  NaN        2335353000.0       2335061000.0   2335061000.0
+Diluted EPS                                                           NaN                4.01               1.57          -0.46
+Basic EPS                                                             NaN                4.01               1.57          -0.46
+Diluted NI Availto Com Stockholders                          2626671000.0        9366786000.0       3672119000.0  -1076337000.0
+Net Income Common Stockholders                               2626671000.0        9366786000.0       3672119000.0  -1076337000.0
+Otherunder Preferred Stock Dividend                                   0.0                 0.0                0.0            0.0
+Net Income                                                   2626671000.0        9366786000.0       3672119000.0  -1076337000.0
+Minority Interests                                           -193160000.0        2167928000.0       1102457000.0   3911693000.0
+Net Income Including Noncontrolling Interests                2819831000.0        7198858000.0       2569662000.0  -4988030000.0
+Net Income Discontinuous Operations                                   NaN                 NaN                NaN            0.0
+Net Income Continuous Operations                             2819831000.0        7198858000.0       2569662000.0  -4988030000.0
+Tax Provision                                                -646169000.0           9691000.0         83791000.0     78836000.0
+Pretax Income                                                2173662000.0        7208549000.0       2653453000.0  -4909194000.0
+Other Non Operating Income Expenses                          1232143000.0       10611694000.0       4516126000.0   -850917000.0
+Special Income Charges                                        139378000.0       -3665793000.0       -326218000.0   -227495000.0
+Write Off                                                    -139378000.0        3665793000.0        326218000.0    227495000.0
+Net Non Operating Interest Income Expense                    -400409000.0       -1634715000.0      -2442598000.0  -2868796000.0
+Interest Expense Non Operating                                854161000.0        1792813000.0       2521106000.0   2944781000.0
+Interest Income Non Operating                                 453752000.0         158098000.0         78508000.0     75985000.0
+Operating Income                                             1120122000.0        1436761000.0        907912000.0  -1039981000.0
+Operating Expense                                            6950780000.0        5854812000.0       6324822000.0   7368517000.0
+Other Operating Expenses                                       -7293000.0         -23982000.0         -4273000.0      -342000.0
+Research And Development                                     1673351000.0         919634000.0        778095000.0    822927000.0
+Selling General And Administration                           5284722000.0        4959160000.0       5551000000.0   6545932000.0
+Selling And Marketing Expense                                2993182000.0        2724400000.0       2933086000.0   2919818000.0
+General And Administrative Expense                           2291540000.0        2234760000.0       2617914000.0   3626114000.0
+Gross Profit                                                 8070902000.0        7291573000.0       7232734000.0   6328536000.0
+Cost Of Revenue                                             42280216000.0       27247387000.0      22372072000.0  25312819000.0
+Total Revenue                                               50351118000.0       34538960000.0      29604806000.0  31641355000.0
+Operating Revenue                                           50351118000.0       34538960000.0      29604806000.0  31641355000.0

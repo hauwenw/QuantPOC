@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 211, Wenhua 2nd Road
+address2	Guishan District
+city	Taoyuan City
+country	Taiwan
+phone	886 3 327 2345
+fax	886 3 327 1511
+website	https://www.quantatw.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Quanta Computer Inc., together with its subsidiaries, manufactures and sells notebook computers in Asia, the Americas, Europe, and internationally. The company provides notebook PCs; a portfolio of servers, storage devices, and network switches; cameras, including automotive camera, camera module, and AI dash-cam and ADAS solutions; and smart healthcare solutions. It also offers mobile computing solutions for the wireless communication of notebook PCs, wireless local area network peripherals, wireless multimedia devices, and wireless information home appliances; and cloud computing and enterprise network solutions to meet enterprise demand for private clouds or hybrid clouds, as well as home entertainment and smart home solutions, including home media centers; smart touch input systems for laptops, desktops, and thin client terminals; smart IoT controllers and sensors; smart speakers; and private servers for home. In addition, the company provides IoT solutions; next generation of central office solutions for telecommunication; smart manufacturing and smart factory solutions; and AR/ VR display and smart glasses solutions. Quanta Computer Inc. was incorporated in 1988 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Barry  Lam', 'age': 72, 'title': 'Founder & Chairman', 'yearBorn': 1951, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chee-Chun  Leung', 'age': 71, 'title': 'Co-Founder, Vice Chairman & President', 'yearBorn': 1952, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Elton  Yang', 'age': 57, 'title': 'CFO, Senior VP of Finance Center & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	274.5
+open	275.0
+dayLow	267.0
+dayHigh	275.0
+regularMarketPreviousClose	274.5
+regularMarketOpen	275.0
+regularMarketDayLow	267.0
+regularMarketDayHigh	275.0
+dividendRate	9.0
+dividendYield	0.033299997
+exDividendDate	1712880000	 (2024-04-12 08:00:00)
+payoutRatio	0.5865
+fiveYearAvgDividendYield	5.45
+beta	0.648
+trailingPE	26.46771
+forwardPE	17.055487
+volume	32248235
+regularMarketVolume	32248235
+averageVolume	39535863
+averageVolume10days	28451705
+averageDailyVolume10Day	28451705
+bid	270.5
+ask	271.0
+marketCap	1042647678976
+fiftyTwoWeekLow	96.6
+fiftyTwoWeekHigh	299.0
+priceToSalesTrailing12Months	0.9604247
+fiftyDayAverage	258.99
+twoHundredDayAverage	235.23
+trailingAnnualDividendRate	9.0
+trailingAnnualDividendYield	0.032786883
+currency	TWD
+enterpriseValue	996657463296
+profitMargins	0.03655
+floatShares	2607042087
+sharesOutstanding	3854520064
+heldPercentInsiders	0.31504
+heldPercentInstitutions	0.23967
+impliedSharesOutstanding	3929949952
+bookValue	48.309
+priceToBook	5.599371
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.144
+netIncomeToCommon	39676395520
+trailingEps	10.22
+forwardEps	15.86
+pegRatio	0.93
+lastSplitFactor	1.01:1
+lastSplitDate	1248912000	 (2009-07-30 08:00:00)
+enterpriseToRevenue	0.918
+enterpriseToEbitda	18.703
+52WeekChange	1.7715163
+SandP52WeekChange	0.26265144
+lastDividendValue	9.0
+lastDividendDate	1712880000	 (2024-04-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2382.TW
+underlyingSymbol	2382.TW
+shortName	QUANTA COMPUTER
+longName	Quanta Computer Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ad10b19f-9a39-3a57-8c16-4d306a91542d
+messageBoardId	finmb_812568
+gmtOffSetMilliseconds	28800000
+currentPrice	270.5
+targetHighPrice	400.0
+targetLowPrice	272.0
+targetMeanPrice	318.36
+targetMedianPrice	310.0
+recommendationMean	1.8
+recommendationKey	buy
+numberOfAnalystOpinions	14
+totalCash	221425205248
+totalCashPerShare	57.446
+ebitda	53289611264
+totalDebt	167750221824
+quickRatio	1.001
+currentRatio	1.264
+totalRevenue	1085611048960
+debtToEquity	86.517
+revenuePerShare	281.646
+returnOnAssets	0.036140002
+returnOnEquity	0.21861
+freeCashflow	94981488640
+operatingCashflow	124332933120
+earningsGrowth	0.16
+revenueGrowth	-0.117
+grossMargins	0.07819
+ebitdaMargins	0.049089998
+operatingMargins	0.04101
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                     1183588.148352      1267115.039087       808071.928614       574040.335621
+Tax Rate For Calcs                                                    0.217332            0.271157            0.208966            0.262599
+Normalized EBITDA                                                72077937000.0       55248981000.0       52873753000.0       44648464000.0
+Total Unusual Items                                                  5446000.0           4673000.0           3867000.0           2186000.0
+Total Unusual Items Excluding Goodwill                               5446000.0           4673000.0           3867000.0           2186000.0
+Net Income From Continuing Operation Net Minority Interest       39676394000.0       28957466000.0       33652524000.0       25327631000.0
+Reconciled Depreciation                                          11436887000.0       10102976000.0        8325384000.0        8115621000.0
+Reconciled Cost Of Revenue                                     1000728093000.0     1209514300000.0     1057342118000.0     1026887774000.0
+EBITDA                                                           72083383000.0       55253654000.0       52877620000.0       44650650000.0
+EBIT                                                             60646496000.0       45150678000.0       44552236000.0       36535029000.0
+Net Interest Income                                               1705218000.0         648089000.0        1272759000.0        2039645000.0
+Interest Expense                                                  8915024000.0        4370078000.0        1115962000.0        2103230000.0
+Interest Income                                                  10620242000.0        5018167000.0        2388721000.0        4142875000.0
+Normalized Income                                           39672131588.148354  28954060115.039085  33649465071.928616  25326019040.335621
+Net Income From Continuing And Discontinued Operation            39676394000.0       28957466000.0       33652524000.0       25327631000.0
+Total Expenses                                                 1042066901000.0     1249239727000.0     1092175436000.0     1058406666000.0
+Diluted Average Shares                                            3879332000.0        3903337000.0        3894966000.0        3892152000.0
+Basic Average Shares                                              3854519000.0        3854519000.0        3854519000.0        3854519000.0
+Diluted EPS                                                              10.23                7.42                8.64                6.51
+Basic EPS                                                                10.29                7.51                8.73                6.57
+Diluted NI Availto Com Stockholders                              39676394000.0       28957466000.0       33652524000.0       25327631000.0
+Net Income Common Stockholders                                   39676394000.0       28957466000.0       33652524000.0       25327631000.0
+Otherunder Preferred Stock Dividend                                        0.0                 0.0                 0.0                 0.0
+Net Income                                                       39676394000.0       28957466000.0       33652524000.0       25327631000.0
+Minority Interests                                                -812192000.0        -765203000.0        -707041000.0         -62429000.0
+Net Income Including Noncontrolling Interests                    40488586000.0       29722669000.0       34359565000.0       25390060000.0
+Net Income Continuous Operations                                 40488586000.0       29722669000.0       34359565000.0       25390060000.0
+Tax Provision                                                    11242886000.0       11057931000.0        9076709000.0        9041739000.0
+Pretax Income                                                    51731472000.0       40780600000.0       43436274000.0       34431799000.0
+Other Non Operating Income Expenses                               6521284000.0        9035668000.0        4942968000.0         -13105000.0
+Special Income Charges                                               5446000.0           4673000.0           3867000.0           2186000.0
+Other Special Charges                                               -5446000.0          -4673000.0          -3867000.0          -2186000.0
+Net Non Operating Interest Income Expense                         1705218000.0         648089000.0        1272759000.0        2039645000.0
+Interest Expense Non Operating                                    8915024000.0        4370078000.0        1115962000.0        2103230000.0
+Interest Income Non Operating                                    10620242000.0        5018167000.0        2388721000.0        4142875000.0
+Operating Income                                                 43544151000.0       31189585000.0       37277914000.0       32452185000.0
+Operating Expense                                                41338808000.0       39725427000.0       34833318000.0       31518892000.0
+Other Operating Expenses                                                   NaN                 NaN            806000.0           1681000.0
+Research And Development                                         23293587000.0       21336340000.0       18646072000.0       16752553000.0
+Selling General And Administration                               18045221000.0       18389087000.0       16187246000.0       14766339000.0
+Selling And Marketing Expense                                     8208245000.0        9265062000.0        8627680000.0        7762641000.0
+General And Administrative Expense                                9836976000.0        9124025000.0        7559566000.0        7003698000.0
+Gross Profit                                                     84882959000.0       70915012000.0       72111232000.0       63971077000.0
+Cost Of Revenue                                                1000728093000.0     1209514300000.0     1057342118000.0     1026887774000.0
+Total Revenue                                                  1085611052000.0     1280429312000.0     1129453350000.0     1090858851000.0
+Operating Revenue                                              1085611052000.0     1280429312000.0     1129453350000.0     1090858851000.0

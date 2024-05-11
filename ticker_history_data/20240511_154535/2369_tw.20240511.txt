@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 5-1, South 2nd Road
+address2	Tanzi District
+city	Taichung
+zip	42760
+country	Taiwan
+phone	886 4 2533 5120
+fax	886 4 2532 7904
+website	https://www.lingsen.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lingsen Precision Industries, Ltd. engages in the semiconductor business in Taiwan, rest of Asia, Europe, the Americas, and Africa. The company is involved in assembly and testing of various integrated circuit and optoelectronics products; and testing, manufacture, packaging, and trading of various semiconductors. It also offers assembly services, including reliability test, failure analysis, package characterization, and product services; and test process services for water test and final test equipment. The company was founded in 1970 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shu-Chyuan  Yeh', 'title': 'Chairman & VP', 'fiscalYear': 2020, 'totalPay': 6695000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tse-Sung  Tsai', 'title': 'President, GM & Director', 'fiscalYear': 2020, 'totalPay': 4413000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Te  Tu', 'title': 'VP & Director', 'fiscalYear': 2020, 'totalPay': 3029000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Wei  Lai', 'title': 'CFO & Chief Corporate Governance Officer', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Wei  Yang', 'title': 'Head of Audit', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	21.25
+open	21.35
+dayLow	20.85
+dayHigh	21.4
+regularMarketPreviousClose	21.25
+regularMarketOpen	21.35
+regularMarketDayLow	20.85
+regularMarketDayHigh	21.4
+dividendRate	0.3
+dividendYield	0.0139
+exDividendDate	1690761600	 (2023-07-31 08:00:00)
+payoutRatio	2.3439
+fiveYearAvgDividendYield	3.72
+beta	0.987
+forwardPE	12.589286
+volume	2375850
+regularMarketVolume	2375850
+averageVolume	10582754
+averageVolume10days	1760352
+averageDailyVolume10Day	1760352
+bid	21.15
+ask	21.2
+marketCap	7919469568
+fiftyTwoWeekLow	13.55
+fiftyTwoWeekHigh	30.75
+priceToSalesTrailing12Months	1.3991574
+fiftyDayAverage	23.849
+twoHundredDayAverage	21.81875
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.014117648
+currency	TWD
+enterpriseValue	8035806720
+profitMargins	-0.02764
+sharesOutstanding	374443008
+heldPercentInsiders	0.17684
+heldPercentInstitutions	0.06745
+impliedSharesOutstanding	377031008
+bookValue	14.546
+priceToBook	1.454008
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-156458000
+trailingEps	-0.32
+forwardEps	1.68
+lastSplitFactor	1.02:1
+lastSplitDate	1252540800	 (2009-09-10 08:00:00)
+enterpriseToRevenue	1.42
+enterpriseToEbitda	14.294
+52WeekChange	0.55514705
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1690761600	 (2023-07-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2369.TW
+underlyingSymbol	2369.TW
+shortName	LINGSEN PRECISION INDUSTRIES
+longName	Lingsen Precision Industries, Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b9a99cec-cb90-335a-954a-c5b689794f12
+messageBoardId	finmb_9845428
+gmtOffSetMilliseconds	28800000
+currentPrice	21.15
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1508732032
+totalCashPerShare	4.029
+ebitda	562179968
+totalDebt	1353577984
+quickRatio	1.998
+currentRatio	2.367
+totalRevenue	5660170752
+debtToEquity	23.827
+revenuePerShare	15.116
+returnOnAssets	-0.01678
+returnOnEquity	-0.02754
+freeCashflow	363312864
+operatingCashflow	736814976
+revenueGrowth	0.18
+grossMargins	0.038259998
+ebitdaMargins	0.09932
+operatingMargins	-0.02977
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     86643.927024      -31800.0    8499747.72903    -9404200.0
+Tax Rate For Calcs                                                  0.161951           0.2         0.100599           0.2
+Normalized EBITDA                                                644362000.0   929879000.0     1729305000.0   743848000.0
+Total Unusual Items                                                 535000.0     -159000.0       84491000.0   -47021000.0
+Total Unusual Items Excluding Goodwill                              535000.0     -159000.0       84491000.0   -47021000.0
+Net Income From Continuing Operation Net Minority Interest      -156458000.0   207291000.0      873849000.0  -164343000.0
+Reconciled Depreciation                                          797776000.0   749640000.0      762262000.0   824680000.0
+Reconciled Cost Of Revenue                                      5443612000.0  5486038000.0     6258406000.0  5158502000.0
+EBITDA                                                           644897000.0   929720000.0     1813796000.0   696827000.0
+EBIT                                                            -152879000.0   180080000.0     1051534000.0  -127853000.0
+Net Interest Income                                              -15365000.0   -12474000.0      -11765000.0   -11742000.0
+Interest Expense                                                  38197000.0    22755000.0       15743000.0    18563000.0
+Interest Income                                                   22832000.0    10281000.0        3978000.0     6821000.0
+Normalized Income                                          -156906356.072976   207418200.0  797857747.72903  -126726200.0
+Net Income From Continuing And Discontinued Operation           -156458000.0   207291000.0      873849000.0  -164343000.0
+Total Expenses                                                  5884834000.0  5969120000.0     6843611000.0  5621067000.0
+Diluted Average Shares                                           374443000.0   375899000.0      376369000.0   373465000.0
+Basic Average Shares                                             374443000.0   373457000.0      372443000.0   373465000.0
+Diluted EPS                                                            -0.42          0.55             2.32         -0.44
+Basic EPS                                                              -0.42          0.56             2.35         -0.44
+Diluted NI Availto Com Stockholders                             -156458000.0   207291000.0      873849000.0  -164343000.0
+Net Income Common Stockholders                                  -156458000.0   207291000.0      873849000.0  -164343000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0              0.0           0.0
+Net Income                                                      -156458000.0   207291000.0      873849000.0  -164343000.0
+Minority Interests                                                 3673000.0     6638000.0      -57742000.0    -1203000.0
+Net Income Including Noncontrolling Interests                   -160131000.0   200653000.0      931591000.0  -163140000.0
+Net Income Continuous Operations                                -160131000.0   200653000.0      931591000.0  -163140000.0
+Tax Provision                                                    -30945000.0   -43328000.0      104200000.0    16724000.0
+Pretax Income                                                   -191076000.0   157325000.0     1035791000.0  -146416000.0
+Other Non Operating Income Expenses                               47896000.0    95677000.0       52249000.0    71302000.0
+Special Income Charges                                              535000.0     -159000.0       84491000.0   -47021000.0
+Other Special Charges                                                    NaN     -486000.0      -54462000.0     -484000.0
+Write Off                                                          -535000.0      645000.0       12388000.0    47505000.0
+Impairment Of Capital Assets                                             NaN           0.0      -42417000.0           0.0
+Net Non Operating Interest Income Expense                        -15365000.0   -12474000.0      -11765000.0   -11742000.0
+Interest Expense Non Operating                                    38197000.0    22755000.0       15743000.0    18563000.0
+Interest Income Non Operating                                     22832000.0    10281000.0        3978000.0     6821000.0
+Operating Income                                                -224663000.0    37686000.0      889691000.0  -163481000.0
+Operating Expense                                                441222000.0   483082000.0      585205000.0   462565000.0
+Research And Development                                         136376000.0   165769000.0      176579000.0   166697000.0
+Selling General And Administration                               304846000.0   317313000.0      408626000.0   295868000.0
+Selling And Marketing Expense                                     56435000.0    62240000.0       70345000.0    54894000.0
+General And Administrative Expense                               248411000.0   255073000.0      338281000.0   240974000.0
+Gross Profit                                                     216559000.0   520768000.0     1474896000.0   299084000.0
+Cost Of Revenue                                                 5443612000.0  5486038000.0     6258406000.0  5158502000.0
+Total Revenue                                                   5660171000.0  6006806000.0     7733302000.0  5457586000.0
+Operating Revenue                                               5660171000.0  6006806000.0     7733302000.0  5457586000.0

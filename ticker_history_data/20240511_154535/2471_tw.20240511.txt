@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 111, Zhongshan North Road
+address2	3rd Floor Section-2
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2522 1351
+fax	886 2 2560 1735
+website	https://www.ares.com.tw
+industry	Information Technology Services
+industryKey	information-technology-services
+industryDisp	Information Technology Services
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ares International Corp. provides IT products and professional services primarily for financial institutions, government agencies, and enterprises in Taiwan. The company's manufacturing products include computer integrated manufacturing execution system; GD- customer relationship management; product life cycle management; human capital planner; and Oracle ERP and CRM solutions, as well as GV/NM/GIB/SFAS No.10 Oracle software solutions. Its banking products comprise advanced foreign exchange integrated system, a foreign exchange business system; eAresBank, a finance integration system; Ares smart core banking system; ARES treasury system; ARES portfolio system; and visual pricing tool, as well as information security products comprising uPKI security control solution and ARES privacy protector. The company also offers professional, consulting, outsourcing, application consulting, business intelligence, and government project services, as well as system integration and development, E-business, software and hardware, and maintenance support services. Ares International Corp. was founded in 1980 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	324
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Frank  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cuiying  Wang', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng Yi  Lin', 'title': 'Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	57.3
+open	57.5
+dayLow	56.7
+dayHigh	57.6
+regularMarketPreviousClose	57.3
+regularMarketOpen	57.5
+regularMarketDayLow	56.7
+regularMarketDayHigh	57.6
+dividendRate	2.83
+dividendYield	0.0495
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.78089994
+fiveYearAvgDividendYield	5.82
+beta	0.296
+trailingPE	15.785123
+volume	187364
+regularMarketVolume	187364
+averageVolume	812457
+averageVolume10days	308777
+averageDailyVolume10Day	308777
+bid	57.3
+ask	57.5
+marketCap	2707654144
+fiftyTwoWeekLow	48.0
+fiftyTwoWeekHigh	68.3
+priceToSalesTrailing12Months	3.2163754
+fiftyDayAverage	58.024
+twoHundredDayAverage	54.8065
+trailingAnnualDividendRate	3.29
+trailingAnnualDividendYield	0.057417102
+currency	TWD
+enterpriseValue	1780742144
+profitMargins	0.20546
+sharesOutstanding	47254000
+heldPercentInsiders	0.17593999
+heldPercentInstitutions	0.0025600002
+impliedSharesOutstanding	47415800
+bookValue	19.264
+priceToBook	2.9744601
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.022
+netIncomeToCommon	172964992
+trailingEps	3.63
+lastSplitFactor	105:100
+lastSplitDate	1030492800	 (2002-08-28 08:00:00)
+enterpriseToRevenue	2.115
+enterpriseToEbitda	17.117
+52WeekChange	-0.06372547
+SandP52WeekChange	0.26265144
+lastDividendValue	2.834648
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2471.TW
+underlyingSymbol	2471.TW
+shortName	ARES INTERNATIONAL (TAIWAN)
+longName	Ares International Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	56397499-ef14-3583-8cd2-96bc158da758
+messageBoardId	finmb_20333130
+gmtOffSetMilliseconds	28800000
+currentPrice	57.3
+recommendationKey	none
+totalCash	947259008
+totalCashPerShare	20.046
+ebitda	104036000
+totalDebt	16655000
+quickRatio	2.713
+currentRatio	2.933
+totalRevenue	841833984
+debtToEquity	1.822
+revenuePerShare	17.815
+returnOnAssets	0.04425
+returnOnEquity	0.19319001
+freeCashflow	107105504
+operatingCashflow	128796000
+earningsGrowth	0.038
+revenueGrowth	0.152
+grossMargins	0.40838
+ebitdaMargins	0.12358
+operatingMargins	0.233
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    396940.678356    -862974.979822     -30271.43207    -655529.026637
+Tax Rate For Calcs                                                  0.115827          0.167796         0.171997          0.137948
+Normalized EBITDA                                                212281000.0       197819000.0      159602000.0       138468000.0
+Total Unusual Items                                                3427000.0        -5143000.0        -176000.0        -4752000.0
+Total Unusual Items Excluding Goodwill                             3427000.0        -5143000.0        -176000.0        -4752000.0
+Net Income From Continuing Operation Net Minority Interest       172965000.0       143417000.0      114532000.0        97753000.0
+Reconciled Depreciation                                           19351000.0        20020000.0       19901000.0        19777000.0
+Reconciled Cost Of Revenue                                       498045000.0       466519000.0      466955000.0       471472000.0
+EBITDA                                                           215708000.0       192676000.0      159426000.0       133716000.0
+EBIT                                                             196357000.0       172656000.0      139525000.0       113939000.0
+Net Interest Income                                               16544000.0         5446000.0        3051000.0         5816000.0
+Interest Expense                                                    678000.0          435000.0         691000.0          302000.0
+Interest Income                                                   17222000.0         5881000.0        3742000.0         6118000.0
+Normalized Income                                           169934940.678356  147697025.020178  114677728.56793  101849470.973363
+Net Income From Continuing And Discontinued Operation            172965000.0       143417000.0      114532000.0        97753000.0
+Total Expenses                                                   743771000.0       697726000.0      677094000.0       686544000.0
+Diluted Average Shares                                                   NaN        47933000.0       47819000.0        47700000.0
+Basic Average Shares                                                     NaN        47254000.0       47254000.0        47254000.0
+Diluted EPS                                                              NaN              2.99              2.4              2.05
+Basic EPS                                                                NaN              3.04             2.42              2.07
+Diluted NI Availto Com Stockholders                              172965000.0       143417000.0      114532000.0        97753000.0
+Net Income Common Stockholders                                   172965000.0       143417000.0      114532000.0        97753000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0               0.0
+Net Income                                                       172965000.0       143417000.0      114532000.0        97753000.0
+Minority Interests                                                  -49000.0           94000.0        -423000.0         -208000.0
+Net Income Including Noncontrolling Interests                    173014000.0       143323000.0      114955000.0        97961000.0
+Net Income Continuous Operations                                 173014000.0       143323000.0      114955000.0        97961000.0
+Tax Provision                                                     22665000.0        28898000.0       23879000.0        15676000.0
+Pretax Income                                                    195679000.0       172221000.0      138834000.0       113637000.0
+Other Non Operating Income Expenses                               59085000.0        39949000.0      -12066000.0         9246000.0
+Special Income Charges                                             3427000.0        -5143000.0        -176000.0        -4752000.0
+Write Off                                                         -3427000.0         5143000.0         176000.0         4752000.0
+Net Non Operating Interest Income Expense                         16544000.0         5446000.0        3051000.0         5816000.0
+Interest Expense Non Operating                                      678000.0          435000.0         691000.0          302000.0
+Interest Income Non Operating                                     17222000.0         5881000.0        3742000.0         6118000.0
+Operating Income                                                  98063000.0       104778000.0      123640000.0        87147000.0
+Operating Expense                                                245726000.0       231207000.0      210139000.0       215072000.0
+Research And Development                                         106416000.0       106010000.0       92012000.0        87055000.0
+Selling General And Administration                               139310000.0       125197000.0      118127000.0       128017000.0
+Selling And Marketing Expense                                     72084000.0        62757000.0       59310000.0        65905000.0
+General And Administrative Expense                                67226000.0        62440000.0       58817000.0        62112000.0
+Gross Profit                                                     343789000.0       335985000.0      333779000.0       302219000.0
+Cost Of Revenue                                                  498045000.0       466519000.0      466955000.0       471472000.0
+Total Revenue                                                    841834000.0       802504000.0      800734000.0       773691000.0
+Operating Revenue                                                841834000.0       802504000.0      800734000.0       773691000.0

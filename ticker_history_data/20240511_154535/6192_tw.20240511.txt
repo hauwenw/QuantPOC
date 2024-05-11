@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 3-1, Park Street
+address2	12th Floor Yuanqu Street Nangang District
+city	Taipei
+zip	11503
+country	Taiwan
+phone	886 2 2788 3656
+fax	886 2 2782 7369
+website	https://www.elumax.com
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lumax International Corp., Ltd. engages in the trading of electronic components, and process control equipment and systems in Taiwan and China. It provides process-control devices and systems maintenance services. The company also offers process automation consultancy during plant buildup, hardware/system installation, project management, and control valve maintenance services for petrochemical, electronic, steel, and other non-tech enterprises; hardware products for the calibration, inspection, and maintenance of control valves, switch valves, measurement instruments, analyzing instruments, and others; and control valve repair services, Lumax valves, and VOC anti-leakage solutions. In addition, it provides telecommunication materials and electronic components; and valves, cocks, mechanical equipment and instrumentation products, and special equipment for chemical production, as well as other technical services related to component manufacturing. Further, it engages in the wholesale and import of cables and communication connections, motors, electrical equipment, parts of grinding and polishing machine tools, non-hazardous chemical products, and copper and aluminum products; assembling, maintenance, commissioning, and technical consultation services of electromechanical equipment; assembling, repairing, and instrument calibration of mechanical/electrical products; and import and export of goods and technology products. The company was incorporated in 1975 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zhong Nan Zhu', 'title': 'Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	112.0
+open	114.0
+dayLow	112.0
+dayHigh	116.0
+regularMarketPreviousClose	112.0
+regularMarketOpen	114.0
+regularMarketDayLow	112.0
+regularMarketDayHigh	116.0
+dividendRate	5.0
+dividendYield	0.0435
+exDividendDate	1714003200	 (2024-04-25 08:00:00)
+payoutRatio	0.44889998
+fiveYearAvgDividendYield	5.26
+beta	0.614
+trailingPE	12.906846
+forwardPE	11.867906
+volume	240551
+regularMarketVolume	240551
+averageVolume	451487
+averageVolume10days	685738
+averageDailyVolume10Day	685738
+bid	114.5
+ask	115.0
+marketCap	11057940480
+fiftyTwoWeekLow	73.4
+fiftyTwoWeekHigh	120.0
+priceToSalesTrailing12Months	1.6435326
+fiftyDayAverage	104.932
+twoHundredDayAverage	90.8145
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.04464286
+currency	TWD
+enterpriseValue	7335427072
+profitMargins	0.11683
+floatShares	83121093
+sharesOutstanding	96156000
+heldPercentInsiders	0.21144
+heldPercentInstitutions	0.20791
+impliedSharesOutstanding	102080000
+bookValue	67.223
+priceToBook	1.710724
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.291
+netIncomeToCommon	786043008
+trailingEps	8.91
+forwardEps	9.69
+lastSplitFactor	900:1000
+lastSplitDate	1664409600	 (2022-09-29 08:00:00)
+enterpriseToRevenue	1.09
+enterpriseToEbitda	6.676
+52WeekChange	0.554054
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1714003200	 (2024-04-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6192.TW
+underlyingSymbol	6192.TW
+shortName	LUMAX INTERNATIONAL CORP
+longName	Lumax International Corp., Ltd.
+firstTradeDateEpochUtc	1096246800	 (2004-09-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	813ccf59-3acf-39fe-ae83-a94840a1177e
+messageBoardId	finmb_9829925
+gmtOffSetMilliseconds	28800000
+currentPrice	115.0
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3781232896
+totalCashPerShare	39.324
+ebitda	1098770048
+totalDebt	57756000
+quickRatio	1.429
+currentRatio	2.286
+totalRevenue	6728154112
+debtToEquity	0.893
+revenuePerShare	69.971
+returnOnAssets	0.063590005
+returnOnEquity	0.12529
+freeCashflow	604512256
+operatingCashflow	827824000
+earningsGrowth	-0.284
+revenueGrowth	0.055
+grossMargins	0.3196
+ebitdaMargins	0.16330999
+operatingMargins	0.12958
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -2585807.873005   -2551391.506537     688568.670848   -7610330.89776
+Tax Rate For Calcs                                                  0.291063          0.248941          0.244694         0.209715
+Normalized EBITDA                                               1174805000.0      1249272000.0      1179069000.0     1029477000.0
+Total Unusual Items                                               -8884000.0       -10249000.0         2814000.0      -36289000.0
+Total Unusual Items Excluding Goodwill                            -8884000.0       -10249000.0         2814000.0      -36289000.0
+Net Income From Continuing Operation Net Minority Interest       786043000.0       890458000.0       850783000.0      744132000.0
+Reconciled Depreciation                                           56001000.0        53141000.0        54659000.0       50535000.0
+Reconciled Cost Of Revenue                                      4577827000.0      4389360000.0      4207066000.0     4041349000.0
+EBITDA                                                          1165921000.0      1239023000.0      1181883000.0      993188000.0
+EBIT                                                            1109920000.0      1185882000.0      1127224000.0      942653000.0
+Net Interest Income                                               78920000.0        29766000.0        13793000.0       33234000.0
+Interest Expense                                                    966000.0          382000.0          829000.0        1054000.0
+Interest Income                                                   79886000.0        30148000.0        14622000.0       34288000.0
+Normalized Income                                           792341192.126995  898155608.493463  848657568.670848  772810669.10224
+Net Income From Continuing And Discontinued Operation            786043000.0       890458000.0       850783000.0      744132000.0
+Total Expenses                                                  5661518000.0      5420869000.0      5172763000.0     4938563000.0
+Diluted Average Shares                                                   NaN       104261000.0        97355000.0       97366500.0
+Basic Average Shares                                                     NaN       102625000.0        96156000.0       96156000.0
+Diluted EPS                                                              NaN              8.54              7.87         7.644444
+Basic EPS                                                                NaN              8.68              7.96         7.733333
+Diluted NI Availto Com Stockholders                              786043000.0       890458000.0       850783000.0      744132000.0
+Net Income Common Stockholders                                   786043000.0       890458000.0       850783000.0      744132000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0              0.0
+Net Income                                                       786043000.0       890458000.0       850783000.0      744132000.0
+Minority Interests                                                 -135000.0           77000.0           10000.0              0.0
+Net Income Including Noncontrolling Interests                    786178000.0       890381000.0       850773000.0      744132000.0
+Net Income Continuous Operations                                 786178000.0       890381000.0       850773000.0      744132000.0
+Tax Provision                                                    322776000.0       295119000.0       275622000.0      197467000.0
+Pretax Income                                                   1108954000.0      1185500000.0      1126395000.0      941599000.0
+Other Non Operating Income Expenses                              -27718000.0        39211000.0        12478000.0      -51332000.0
+Special Income Charges                                            -8884000.0       -10249000.0         2814000.0      -36289000.0
+Write Off                                                          8884000.0        10249000.0        -2814000.0       36289000.0
+Net Non Operating Interest Income Expense                         78920000.0        29766000.0        13793000.0       33234000.0
+Interest Expense Non Operating                                      966000.0          382000.0          829000.0        1054000.0
+Interest Income Non Operating                                     79886000.0        30148000.0        14622000.0       34288000.0
+Operating Income                                                1066636000.0      1126772000.0      1097310000.0      995986000.0
+Operating Expense                                               1083691000.0      1031509000.0       965697000.0      897214000.0
+Research And Development                                         116114000.0       113208000.0        99249000.0       91872000.0
+Selling General And Administration                               967577000.0       918301000.0       866448000.0      805342000.0
+Selling And Marketing Expense                                    758813000.0       704516000.0       664565000.0      597764000.0
+General And Administrative Expense                               208764000.0       213785000.0       201883000.0      207578000.0
+Gross Profit                                                    2150327000.0      2158281000.0      2063007000.0     1893200000.0
+Cost Of Revenue                                                 4577827000.0      4389360000.0      4207066000.0     4041349000.0
+Total Revenue                                                   6728154000.0      6547641000.0      6270073000.0     5934549000.0
+Operating Revenue                                               6728154000.0      6547641000.0      6270073000.0     5934549000.0

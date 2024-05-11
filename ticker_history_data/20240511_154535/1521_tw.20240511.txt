@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	NO. 11, Xinxin Rd.
+address2	Zhangnan Vil. South Dist.
+city	Tainan City
+zip	70268
+country	Taiwan
+phone	886 6 261 5151
+fax	886 6 264 4614
+website	https://www.tayih-ind.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Ta Yih Industrial Co., Ltd. engages in the manufacture, sale, and trading of vehicle and auto-bicycle parts in Taiwan and internationally. The company offers automotive lighting products, including head, rear, decklid, front turn signal, DRL, and fog lamps; and motorcycle lighting products comprising front turn signal, head, and rear lamps. It also provides aerospace lighting products, such as search lights, night vision bezels, ball transfer units, battery cases, cab reading lights, and position lights. In addition, the company offers railway lighting products comprising railways head, tail, indication, saloon LED and fluorescent, LED cab and gooseneck reading, marker, and flashing lights, as well as light control units, aluminum extrusion parts, LED train run number signs, smart electronic ballasts, and LED door open indicators. Further, it processes and sells marine lighting devices and transport components. The company was incorporated in 1964 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chao Lung  Chen', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching Hsiang  Cheng', 'title': 'Corporate Governance Officer, Accounting Officer & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	39.1
+open	39.15
+dayLow	39.15
+dayHigh	40.05
+regularMarketPreviousClose	39.1
+regularMarketOpen	39.15
+regularMarketDayLow	39.15
+regularMarketDayHigh	40.05
+dividendRate	0.7
+dividendYield	0.0177
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.9589
+fiveYearAvgDividendYield	4.4
+beta	0.422
+trailingPE	54.17808
+forwardPE	7.177858
+volume	38541
+regularMarketVolume	38541
+averageVolume	102513
+averageVolume10days	41001
+averageDailyVolume10Day	41001
+bid	39.45
+ask	39.55
+marketCap	3014896384
+fiftyTwoWeekLow	34.0
+fiftyTwoWeekHigh	50.9
+priceToSalesTrailing12Months	0.6258862
+fiftyDayAverage	40.047
+twoHundredDayAverage	39.143
+trailingAnnualDividendRate	0.7
+trailingAnnualDividendYield	0.017902814
+currency	TWD
+enterpriseValue	2876333568
+profitMargins	0.0088
+sharesOutstanding	76230000
+heldPercentInsiders	0.69061995
+heldPercentInstitutions	0.00451
+impliedSharesOutstanding	76330304
+bookValue	23.261
+priceToBook	1.7002708
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	42410000
+trailingEps	0.73
+forwardEps	5.51
+enterpriseToRevenue	0.597
+enterpriseToEbitda	8.515
+52WeekChange	0.04629624
+SandP52WeekChange	0.26265144
+lastDividendValue	0.7
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1521.TW
+underlyingSymbol	1521.TW
+shortName	TA YIH INDUSTRIAL CO
+longName	Ta Yih Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d5204b23-e02d-3556-b460-c2d6315d755a
+messageBoardId	finmb_9845268
+gmtOffSetMilliseconds	28800000
+currentPrice	39.55
+recommendationKey	none
+totalCash	390348992
+totalCashPerShare	5.121
+ebitda	337782016
+totalDebt	251786000
+quickRatio	0.853
+currentRatio	1.659
+totalRevenue	4817004032
+debtToEquity	14.199
+revenuePerShare	63.19
+returnOnAssets	0.03721
+returnOnEquity	0.02378
+freeCashflow	338082624
+operatingCashflow	437576992
+revenueGrowth	0.055
+grossMargins	0.14804
+ebitdaMargins	0.07012
+operatingMargins	0.03444
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     643600.0      352400.0     34787.345358     207254.80745
+Tax Rate For Calcs                                                   0.2           0.2          0.05731         0.105688
+Normalized EBITDA                                            234356000.0   280362000.0      305824000.0      332575000.0
+Total Unusual Items                                            3218000.0     1762000.0         607000.0        1961000.0
+Total Unusual Items Excluding Goodwill                         3218000.0     1762000.0         607000.0        1961000.0
+Net Income From Continuing Operation Net Minority Interest    42410000.0    88824000.0       82524000.0      159750000.0
+Reconciled Depreciation                                      152821000.0   192013000.0      177627000.0      148436000.0
+Reconciled Cost Of Revenue                                  4103898000.0  4151023000.0     4350801000.0     4125419000.0
+EBITDA                                                       237574000.0   282124000.0      306431000.0      334536000.0
+EBIT                                                          84753000.0    90111000.0      128804000.0      186100000.0
+Net Interest Income                                            -864000.0    -5060000.0         100000.0         173000.0
+Interest Expense                                               5997000.0     5356000.0              NaN              NaN
+Interest Income                                                5133000.0      296000.0         100000.0         173000.0
+Normalized Income                                             39835600.0    87414400.0  81951787.345358  157996254.80745
+Net Income From Continuing And Discontinued Operation         42410000.0    88824000.0       82524000.0      159750000.0
+Total Expenses                                              4621006000.0  4691144000.0     4863338000.0     4611065000.0
+Diluted Average Shares                                        76272000.0    76268000.0       76259000.0       76275000.0
+Basic Average Shares                                          76230000.0    76230000.0       76230000.0       76230000.0
+Diluted EPS                                                         0.56          1.17             1.08             2.09
+Basic EPS                                                           0.56          1.17             1.08              2.1
+Diluted NI Availto Com Stockholders                           42410000.0    88824000.0       82524000.0      159750000.0
+Net Income Common Stockholders                                42410000.0    88824000.0       82524000.0      159750000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0              0.0              0.0
+Net Income                                                    42410000.0    88824000.0       82524000.0      159750000.0
+Net Income Including Noncontrolling Interests                 42410000.0    88824000.0       82524000.0      159750000.0
+Net Income Continuous Operations                              42410000.0    88824000.0       82524000.0      159750000.0
+Tax Provision                                                 36346000.0    -4069000.0        5017000.0       18879000.0
+Pretax Income                                                 78756000.0    84755000.0       87541000.0      178629000.0
+Other Non Operating Income Expenses                           54626000.0   135446000.0       17433000.0       58023000.0
+Special Income Charges                                         3218000.0     1762000.0         607000.0        1961000.0
+Other Special Charges                                         -1047000.0    -1762000.0       -2645000.0       -3115000.0
+Write Off                                                     -2171000.0           0.0        2038000.0        1154000.0
+Net Non Operating Interest Income Expense                      -864000.0    -5060000.0         100000.0         173000.0
+Interest Expense Non Operating                                 5997000.0     5356000.0              NaN              NaN
+Interest Income Non Operating                                  5133000.0      296000.0         100000.0         173000.0
+Operating Income                                             195998000.0    55261000.0      128804000.0      186100000.0
+Operating Expense                                            517108000.0   540121000.0      512537000.0      485646000.0
+Other Operating Expenses                                             NaN           NaN        -445000.0       -1788000.0
+Research And Development                                     172268000.0   147122000.0      154030000.0      178836000.0
+Selling General And Administration                           344840000.0   392999000.0      358507000.0      306810000.0
+Selling And Marketing Expense                                188649000.0   263744000.0      224238000.0      159570000.0
+General And Administrative Expense                           156191000.0   129255000.0      134269000.0      147240000.0
+Gross Profit                                                 713106000.0   595382000.0      641341000.0      671746000.0
+Cost Of Revenue                                             4103898000.0  4151023000.0     4350801000.0     4125419000.0
+Total Revenue                                               4817004000.0  4746405000.0     4992142000.0     4797165000.0
+Operating Revenue                                           4817004000.0  4746405000.0     4992142000.0     4797165000.0

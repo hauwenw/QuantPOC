@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 97, Dunhua South Road
+address2	28th Floor Section 2 Daan District
+city	Taipei
+country	Taiwan
+phone	886 2 2704 8111
+fax	886 2 2706 1881
+website	https://www.kfic.com.tw
+industry	Information Technology Services
+industryKey	information-technology-services
+industryDisp	Information Technology Services
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Kwong Fong Industries Corporation, together with its subsidiaries, engages in the information software service and real estate businesses in Taiwan. The company constructs commercial buildings and residential houses; operates and leases office buildings, retail spaces, and homes; and manages malls and properties. It also provides electronic information supply, asset management, investment, tourism, and securities investment consultant services. The company was founded in 1968 and is headquartered in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	13.15
+open	13.25
+dayLow	13.1
+dayHigh	13.4
+regularMarketPreviousClose	13.15
+regularMarketOpen	13.25
+regularMarketDayLow	13.1
+regularMarketDayHigh	13.4
+dividendRate	0.5
+dividendYield	0.0375
+exDividendDate	1686873600	 (2023-06-16 08:00:00)
+payoutRatio	0.7463
+fiveYearAvgDividendYield	8.88
+beta	0.446
+trailingPE	19.925373
+volume	634889
+regularMarketVolume	634889
+averageVolume	1417777
+averageVolume10days	2027826
+averageDailyVolume10Day	2027826
+bid	13.3
+ask	13.35
+marketCap	2474315776
+fiftyTwoWeekLow	10.05
+fiftyTwoWeekHigh	14.8
+priceToSalesTrailing12Months	8.363158
+fiftyDayAverage	12.707
+twoHundredDayAverage	11.398
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.038022816
+currency	TWD
+enterpriseValue	2951439616
+profitMargins	0.32145
+sharesOutstanding	185342000
+heldPercentInsiders	0.44015998
+heldPercentInstitutions	0.0065499996
+impliedSharesOutstanding	190026000
+bookValue	18.854
+priceToBook	0.7080726
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	95103000
+trailingEps	0.67
+lastSplitFactor	0.78:1
+lastSplitDate	1475452800	 (2016-10-03 08:00:00)
+enterpriseToRevenue	9.976
+enterpriseToEbitda	-779.773
+52WeekChange	0.1508621
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1686873600	 (2023-06-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1416.TW
+underlyingSymbol	1416.TW
+shortName	KWONG FONG INDUSTRIES
+longName	Kwong Fong Industries Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	aa1c9722-359b-3ecc-937b-621d040b126a
+messageBoardId	finmb_9897510
+gmtOffSetMilliseconds	28800000
+currentPrice	13.35
+recommendationKey	none
+totalCash	320608992
+totalCashPerShare	1.73
+ebitda	-3785000
+totalDebt	728732992
+quickRatio	1.373
+currentRatio	3.478
+totalRevenue	295859008
+debtToEquity	20.451
+revenuePerShare	1.596
+returnOnAssets	-0.0016500001
+returnOnEquity	0.030380001
+freeCashflow	115834000
+operatingCashflow	255372000
+revenueGrowth	0.598
+grossMargins	0.36383998
+ebitdaMargins	-0.01279
+operatingMargins	0.01667
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31       2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                  -220191.964586     18770.608247   -844756.287093          0.0
+Tax Rate For Calcs                                                 0.259967         0.100378         0.160509     0.077304
+Normalized EBITDA                                               187799000.0      146324000.0      126101000.0 -239634000.0
+Total Unusual Items                                               -847000.0         187000.0       -5263000.0          0.0
+Total Unusual Items Excluding Goodwill                            -847000.0         187000.0       -5263000.0          0.0
+Net Income From Continuing Operation Net Minority Interest       95103000.0       94462000.0       73304000.0 -289508000.0
+Reconciled Depreciation                                          30483000.0       28971000.0       26575000.0   70315000.0
+Reconciled Cost Of Revenue                                      188215000.0      182848000.0      165460000.0  127939000.0
+EBITDA                                                          186952000.0      146511000.0      120838000.0 -239634000.0
+EBIT                                                            156469000.0      117540000.0       94263000.0 -309949000.0
+Net Interest Income                                               -881000.0       -8862000.0       -5969000.0   -3440000.0
+Interest Expense                                                  7827000.0       10544000.0        7657000.0    3814000.0
+Interest Income                                                   6946000.0        1682000.0        1688000.0     374000.0
+Normalized Income                                           95729808.035414  94293770.608247  77722243.712907 -289508000.0
+Net Income From Continuing And Discontinued Operation            95103000.0       94462000.0       81863000.0 -343732000.0
+Total Expenses                                                  307017000.0      297687000.0      286314000.0  192302000.0
+Diluted Average Shares                                                  NaN      185342000.0      185350000.0  185342000.0
+Basic Average Shares                                                    NaN      185342000.0      185342000.0  185342000.0
+Diluted EPS                                                             NaN             0.51             0.44        -1.85
+Basic EPS                                                               NaN             0.51             0.44        -1.85
+Diluted NI Availto Com Stockholders                              95103000.0       94462000.0       81863000.0 -343732000.0
+Net Income Common Stockholders                                   95103000.0       94462000.0       81863000.0 -343732000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0              0.0          0.0
+Net Income                                                       95103000.0       94462000.0       81863000.0 -343732000.0
+Minority Interests                                              -14897000.0       -1794000.0         599000.0          0.0
+Net Income Including Noncontrolling Interests                   110000000.0       96256000.0       81264000.0 -343732000.0
+Net Income Discontinuous Operations                                     NaN              0.0        8559000.0  -54224000.0
+Net Income Continuous Operations                                110000000.0       96256000.0       72705000.0 -289508000.0
+Tax Provision                                                    38642000.0       10740000.0       13901000.0  -24255000.0
+Pretax Income                                                   148642000.0      106996000.0       86606000.0 -313763000.0
+Other Non Operating Income Expenses                             161528000.0      163967000.0      147221000.0  -68705000.0
+Special Income Charges                                            -847000.0         187000.0       -5263000.0          0.0
+Write Off                                                          847000.0        -187000.0        5263000.0          0.0
+Net Non Operating Interest Income Expense                         -881000.0       -8862000.0       -5969000.0   -3440000.0
+Interest Expense Non Operating                                    7827000.0       10544000.0        7657000.0    3814000.0
+Interest Income Non Operating                                     6946000.0        1682000.0        1688000.0     374000.0
+Operating Income                                                -11158000.0      -48296000.0      -49383000.0 -171932000.0
+Operating Expense                                               118802000.0      114839000.0      120854000.0   64363000.0
+Selling General And Administration                              118802000.0      114839000.0      120854000.0   64363000.0
+Selling And Marketing Expense                                     2197000.0        1393000.0       11459000.0   11642000.0
+General And Administrative Expense                              116605000.0      113446000.0      109395000.0   52721000.0
+Gross Profit                                                    107644000.0       66543000.0       71471000.0 -107569000.0
+Cost Of Revenue                                                 188215000.0      182848000.0      165460000.0  127939000.0
+Total Revenue                                                   295859000.0      249391000.0      236931000.0   20370000.0
+Operating Revenue                                               295859000.0      249391000.0      236931000.0   20370000.0

@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No.73, Huanhe North Road
+address2	5th Floor-5 Section 1 Datong District
+city	Taipei
+zip	103
+country	Taiwan
+phone	886 2 2552 1255
+fax	886 2 2552 3484
+website	https://www.lanfa.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Lan Fa Textile Co., Ltd. engages in the manufacture and sale of polyester textured yarn. The company offers knitted fabrics and polyester textured silk; manufacturing and auto-controlled equipment; and omni-distance automated product supervision and control system. It also provides semigloss, non-gloss, and gloss yarns; and superfine fibers for use in buckskin textile fabrics. In addition, the company offers compounded fibers, such as CD series, contracted yarns, and fat-thin yarns for use in skirts and trousers materials, suits, out wear, tatting and knitting, imitation suedes, jackets, and tricolor yarns. Further, it provides functional fibers, including hygroscopic and perspiration yarns used in sport and golf suits, female underwear and bras, shirt jackets, hats, socks, gloves, kneecaps, waist shields, and knitting and plain weaving; hollow warm-keep yarns used in winter clothes, feather coats, and sport suits; anti-ultraviolet yarns for use in anti-ultraviolet textile fabrics; and difficult flammable yarns used in indoor home-bunting and decoration materials for cars. The company is also involved in trading of cloth and textiles, as well as residential rental and sale business. Lan Fa Textile Co., Ltd. was founded in 1972 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Fong-Yueh  Wang', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 3719000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Hsiang  Mi', 'title': 'Deputy General Manager of Finance Department', 'fiscalYear': 2021, 'totalPay': 1712000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Lun  Yeh', 'title': 'Director & Deputy GM of the Business Department', 'fiscalYear': 2021, 'totalPay': 1857000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	10.9
+open	10.8
+dayLow	10.8
+dayHigh	11.05
+regularMarketPreviousClose	10.9
+regularMarketOpen	10.8
+regularMarketDayLow	10.8
+regularMarketDayHigh	11.05
+exDividendDate	1658448000	 (2022-07-22 08:00:00)
+fiveYearAvgDividendYield	3.43
+beta	0.767
+trailingPE	155.0
+forwardPE	155.0
+volume	298706
+regularMarketVolume	298706
+averageVolume	400424
+averageVolume10days	1652924
+averageDailyVolume10Day	1652924
+bid	10.85
+ask	11.0
+marketCap	3444712192
+fiftyTwoWeekLow	8.9
+fiftyTwoWeekHigh	12.65
+priceToSalesTrailing12Months	2.86162
+fiftyDayAverage	10.0812
+twoHundredDayAverage	9.82875
+currency	TWD
+enterpriseValue	4001085184
+profitMargins	0.019550001
+sharesOutstanding	317484992
+heldPercentInsiders	0.52007
+heldPercentInstitutions	0.01
+impliedSharesOutstanding	324800000
+bookValue	8.795
+priceToBook	1.2336556
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	23535000
+trailingEps	0.07
+forwardEps	0.07
+lastSplitFactor	1.08:1
+lastSplitDate	1309132800	 (2011-06-27 08:00:00)
+enterpriseToRevenue	3.324
+enterpriseToEbitda	-31.452
+52WeekChange	0.20555556
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1658448000	 (2022-07-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1459.TW
+underlyingSymbol	1459.TW
+shortName	LAN FA TEXTILE
+longName	Lan Fa Textile Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	58911824-981a-3b7a-8ee6-42f20fa061ff
+messageBoardId	finmb_9141598
+gmtOffSetMilliseconds	28800000
+currentPrice	10.85
+recommendationKey	none
+totalCash	1057787008
+totalCashPerShare	3.332
+ebitda	-127213000
+totalDebt	1614160000
+quickRatio	1.001
+currentRatio	1.156
+totalRevenue	1203762944
+debtToEquity	57.806
+revenuePerShare	3.792
+returnOnAssets	-0.03395
+returnOnEquity	0.00839
+freeCashflow	69785376
+operatingCashflow	31852000
+revenueGrowth	0.23
+grossMargins	-0.13024999
+ebitdaMargins	-0.10568
+operatingMargins	-0.117939994
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.012876           0.2      0.047795           0.2
+Normalized EBITDA                                            229585000.0  -237625000.0  1024179000.0    60783000.0
+Net Income From Continuing Operation Net Minority Interest    23535000.0  -443367000.0   637968000.0  -184312000.0
+Reconciled Depreciation                                      147831000.0   152123000.0   184345000.0   192838000.0
+Reconciled Cost Of Revenue                                  1360551000.0  1925948000.0  2366793000.0  1869696000.0
+EBITDA                                                       229585000.0  -237625000.0  1024179000.0    60783000.0
+EBIT                                                          81754000.0  -389748000.0   839834000.0  -132055000.0
+Net Interest Income                                          -40477000.0   -44349000.0   -36338000.0   -44605000.0
+Interest Expense                                              57912000.0    50729000.0    40141000.0    49907000.0
+Interest Income                                               17435000.0     6380000.0     3803000.0     5302000.0
+Normalized Income                                             23535000.0  -443367000.0   637968000.0  -184312000.0
+Net Income From Continuing And Discontinued Operation         23535000.0  -443367000.0   637968000.0  -184312000.0
+Total Expenses                                              1476284000.0  2074894000.0  2532876000.0  2010109000.0
+Diluted Average Shares                                               NaN   317485000.0   317485000.0   317485000.0
+Basic Average Shares                                                 NaN   317485000.0   317485000.0   317485000.0
+Diluted EPS                                                          NaN          -1.4          2.01         -0.58
+Basic EPS                                                            NaN          -1.4          2.01         -0.58
+Diluted NI Availto Com Stockholders                           23535000.0  -443367000.0   637968000.0  -184312000.0
+Net Income Common Stockholders                                23535000.0  -443367000.0   637968000.0  -184312000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    23535000.0  -443367000.0   637968000.0  -184312000.0
+Minority Interests                                                   0.0           0.0  -123504000.0     -605000.0
+Net Income Including Noncontrolling Interests                 23535000.0  -443367000.0   761472000.0  -183707000.0
+Net Income Continuous Operations                              23535000.0  -443367000.0   761472000.0  -183707000.0
+Tax Provision                                                   307000.0     2890000.0    38221000.0     1745000.0
+Pretax Income                                                 23842000.0  -440477000.0   799693000.0  -181962000.0
+Other Non Operating Income Expenses                          336840000.0  -278406000.0   899451000.0    89018000.0
+Net Non Operating Interest Income Expense                    -40477000.0   -44349000.0   -36338000.0   -44605000.0
+Interest Expense Non Operating                                57912000.0    50729000.0    40141000.0    49907000.0
+Interest Income Non Operating                                 17435000.0     6380000.0     3803000.0     5302000.0
+Operating Income                                            -272521000.0  -117722000.0   -63420000.0  -226375000.0
+Operating Expense                                            115733000.0   148946000.0   166083000.0   140413000.0
+Selling General And Administration                           115733000.0   148946000.0   166083000.0   140413000.0
+Selling And Marketing Expense                                 48435000.0    73046000.0    87497000.0    66594000.0
+General And Administrative Expense                            67298000.0    75900000.0    78586000.0    73819000.0
+Gross Profit                                                -156788000.0    31224000.0   102663000.0   -85962000.0
+Cost Of Revenue                                             1360551000.0  1925948000.0  2366793000.0  1869696000.0
+Total Revenue                                               1203763000.0  1957172000.0  2469456000.0  1783734000.0
+Operating Revenue                                           1203763000.0  1957172000.0  2469456000.0  1783734000.0

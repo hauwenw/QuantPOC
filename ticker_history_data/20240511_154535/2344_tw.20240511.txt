@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 8, Keya 1st Road
+address2	Daya District Central Taiwan Science Park
+city	Taichung
+zip	428303
+country	Taiwan
+phone	886 4 2521 8168
+website	https://www.winbond.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Winbond Electronics Corporation engages in the design, development, manufacture, and marketing of very large scale integration (VLSI) integrated circuits (ICs) for various microelectronic applications in Asia, the Americas, Europe, and internationally. It operates through DRAM IC Product, Flash Memory Product, and Logic IC Product segments. The company offers Mobile Dynamic Random Access Memory (DRAM) devices, including Pseudo Static Random Access Memory (PSRAM), HyperRAM, Low Power Single Access (LPSDR) Synchronous Dynamic Random Access Memory (SDRAM), Low Power Double-Data-Rate (DDR) SDRAM, and Known Good Die (KGD) products, as well as low power DDR1, DD2, DDR3, and DDR4X SDRAM products. It also provides specialty DRAM products, such as SDRAM, DDR SDRAM, DDR2 SDRAM, DDR3 SDRAM, and DDR4 SDRAM products; Code Storage Flash Memory products comprising serial NOR, QspiNAND, OctalNAND, SLC NAND, SpiStack, and Authentication flash products, as well as NAND Based MCP products; TrustME secure flash memory products; and logic IC products. In addition, the company is involved in the research, development, design, sale, and after-sales service of semiconductors and 6-inch wafer products; electronic commerce; provision of test, OEM, and computer software services, as well as testing, and consulting services; and wholesale business for computer, supplements, and software, as well as project sale. It markets its products through distributors and online. The company's products are used in computer, communication, consumer, automotive, and industrial electronics. Winbond Electronics Corporation was incorporated in 1987 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Cheng  Chiao', 'title': 'Chairman & CEO', 'fiscalYear': 2009, 'totalPay': 7454000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Tung-Yi  Chan Ph.D.', 'age': 64, 'title': 'Representative Vice Chairman & Deputy CEO', 'yearBorn': 1959, 'fiscalYear': 2009, 'totalPay': 8494000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yung  Chin', 'title': 'Chief Administrative Officer & Director', 'fiscalYear': 2009, 'totalPay': 5982000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Ming  Chen MSEE', 'title': 'President & CTO', 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Chung  Chou', 'title': 'CFO, Head of Finance Division & Corporate Governance Officer', 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chin-Feng  Yang', 'title': 'Head of Accounting Division & Company Secretary', 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eungjoon  Park', 'title': 'Chief Strategy Officer', 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shui-Pao  Wu', 'title': 'Chief Information Security Officer', 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Keh-Shew  Lu Ph.D.', 'age': 76, 'title': 'Advisior', 'yearBorn': 1947, 'fiscalYear': 2009, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1262217600
+maxAge	86400
+priceHint	2
+previousClose	24.9
+open	25.0
+dayLow	24.8
+dayHigh	25.25
+regularMarketPreviousClose	24.9
+regularMarketOpen	25.0
+regularMarketDayLow	24.8
+regularMarketDayHigh	25.25
+dividendRate	0.99
+dividendYield	0.0392
+exDividendDate	1695168000	 (2023-09-20 08:00:00)
+fiveYearAvgDividendYield	3.73
+beta	1.311
+forwardPE	11.8779335
+volume	14569648
+regularMarketVolume	14569648
+averageVolume	27981312
+averageVolume10days	22354130
+averageDailyVolume10Day	22354130
+bid	25.25
+ask	25.3
+marketCap	105753993216
+fiftyTwoWeekLow	23.048737
+fiftyTwoWeekHigh	31.8
+priceToSalesTrailing12Months	1.3626037
+fiftyDayAverage	26.548
+twoHundredDayAverage	26.950583
+currency	TWD
+enterpriseValue	148776534016
+profitMargins	-0.00773
+floatShares	2878264400
+sharesOutstanding	4180000000
+heldPercentInsiders	0.30844998
+heldPercentInstitutions	0.13562
+impliedSharesOutstanding	4180000000
+bookValue	21.761
+priceToBook	1.1626303
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-599702016
+trailingEps	-0.15
+forwardEps	2.13
+lastSplitFactor	119.5:100
+lastSplitDate	989884800	 (2001-05-15 08:00:00)
+enterpriseToRevenue	1.917
+enterpriseToEbitda	13.884
+52WeekChange	0.08599663
+SandP52WeekChange	0.26265144
+lastDividendValue	0.991344
+lastDividendDate	1695168000	 (2023-09-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2344.TW
+underlyingSymbol	2344.TW
+shortName	WINBOND ELECTRONIC CORP
+longName	Winbond Electronics Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	989d4335-b3f7-3a1e-a24c-3abce4eed9c8
+messageBoardId	finmb_881592
+gmtOffSetMilliseconds	28800000
+currentPrice	25.3
+targetHighPrice	33.0
+targetLowPrice	27.7
+targetMeanPrice	31.59
+targetMedianPrice	32.82
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	26294900736
+totalCashPerShare	6.291
+ebitda	10715934720
+totalDebt	61580537856
+quickRatio	1.183
+currentRatio	1.934
+totalRevenue	77611704320
+debtToEquity	62.392
+revenuePerShare	19.121
+returnOnAssets	-0.00242
+returnOnEquity	0.0046
+freeCashflow	-20284622848
+operatingCashflow	4851352064
+revenueGrowth	0.149
+grossMargins	0.29760998
+ebitdaMargins	0.13807
+operatingMargins	-0.00928
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31          2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    83147400.0    -70920759.530608   -101702593.726969    21773886.693835
+Tax Rate For Calcs                                                    0.2            0.169544            0.176862           0.161865
+Normalized EBITDA                                           11734929000.0       28108706000.0       30659853000.0      11436956000.0
+Total Unusual Items                                           415737000.0        -418303000.0        -575040000.0        134519000.0
+Total Unusual Items Excluding Goodwill                        415737000.0        -418303000.0        -575040000.0        134519000.0
+Net Income From Continuing Operation Net Minority Interest  -1146522000.0       12927165000.0       13594643000.0       1304019000.0
+Reconciled Depreciation                                     11856410000.0        9549357000.0       11655840000.0       9462597000.0
+Reconciled Cost Of Revenue                                  52610352000.0       51478707000.0       57088857000.0      43643035000.0
+EBITDA                                                      12150666000.0       27690403000.0       30084813000.0      11571475000.0
+EBIT                                                          294256000.0       18141046000.0       18428973000.0       2108878000.0
+Net Interest Income                                          -657861000.0          59706000.0        -146935000.0       -249455000.0
+Interest Expense                                              991919000.0          94874000.0         205883000.0        296470000.0
+Interest Income                                               334058000.0         154580000.0          58948000.0         47015000.0
+Normalized Income                                           -1479111600.0  13274547240.469393  14067980406.273031  1191273886.693835
+Net Income From Continuing And Discontinued Operation       -1146522000.0       12927165000.0       13594643000.0       1304019000.0
+Total Expenses                                              76612113000.0       78146471000.0       81085792000.0      58918062000.0
+Diluted Average Shares                                       4009041000.0        3997642000.0        4021510869.0       4015719912.0
+Basic Average Shares                                         4009041000.0        3980000000.0        4009752065.0       4014753547.0
+Diluted EPS                                                         -0.29                3.23            3.380481           0.327143
+Basic EPS                                                           -0.29                3.25            3.390395           0.327143
+Diluted NI Availto Com Stockholders                         -1146522000.0       12927165000.0       13594643000.0       1304019000.0
+Net Income Common Stockholders                              -1146522000.0       12927165000.0       13594643000.0       1304019000.0
+Otherunder Preferred Stock Dividend                                   0.0                 0.0                 0.0                0.0
+Net Income                                                  -1146522000.0       12927165000.0       13594643000.0       1304019000.0
+Minority Interests                                          -1180971000.0       -2059387000.0       -1405479000.0       -215024000.0
+Net Income Including Noncontrolling Interests                  34449000.0       14986552000.0       15000122000.0       1519043000.0
+Net Income Continuous Operations                               34449000.0       14986552000.0       15000122000.0       1519043000.0
+Tax Provision                                                -732112000.0        3059620000.0        3222968000.0        293365000.0
+Pretax Income                                                -697663000.0       18046172000.0       18223090000.0       1812408000.0
+Other Non Operating Income Expenses                           -25364000.0         -94486000.0         -34850000.0          2796000.0
+Special Income Charges                                        691913000.0         544680000.0        -638949000.0         40353000.0
+Other Special Charges                                        -716110000.0        -393418000.0        -200210000.0        -72008000.0
+Write Off                                                      24197000.0        -151262000.0         839159000.0        137818000.0
+Impairment Of Capital Assets                                          NaN                 NaN         782949000.0        112805000.0
+Restructuring And Mergern Acquisition                                 NaN                 NaN                 0.0       -218968000.0
+Net Non Operating Interest Income Expense                    -657861000.0          59706000.0        -146935000.0       -249455000.0
+Interest Expense Non Operating                                991919000.0          94874000.0         205883000.0        296470000.0
+Interest Income Non Operating                                 334058000.0         154580000.0          58948000.0         47015000.0
+Operating Income                                            -1606035000.0       16383319000.0       18484132000.0       1765109000.0
+Operating Expense                                           24001761000.0       26667764000.0       23996935000.0      15275027000.0
+Research And Development                                    16957826000.0       15818706000.0       15379855000.0      10506230000.0
+Selling General And Administration                           7043935000.0       10849058000.0        8617080000.0       4768797000.0
+Selling And Marketing Expense                                2128764000.0        2547825000.0        2572816000.0       1598624000.0
+General And Administrative Expense                           4915171000.0        8301233000.0        6044264000.0       3170173000.0
+Gross Profit                                                22395726000.0       43051083000.0       42481067000.0      17040136000.0
+Cost Of Revenue                                             52610352000.0       51478707000.0       57088857000.0      43643035000.0
+Total Revenue                                               75006078000.0       94529790000.0       99569924000.0      60683171000.0
+Operating Revenue                                           75006078000.0       94529790000.0       99569924000.0      60683171000.0

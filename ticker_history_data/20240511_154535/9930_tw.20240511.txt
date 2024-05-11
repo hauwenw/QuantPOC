@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No.88, Chenggong 2nd Road
+address2	22nd Floor Qian-Zhen
+city	Kaohsiung
+zip	80661
+country	Taiwan
+phone	886 7 937 6600
+fax	886 7 336 8433
+website	https://www.chc.com.tw
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	CHC Resources Corporation manufactures and supplies construction materials in Taiwan. It offers blast furnace slag (BFS) powder and granulated blast furnace slag cement; soil improvement agents; partition grouting materials; and air-cooled BFS aggregates. The company provides basic oxygen furnace slag graded aggregates for land leveling and preparation, and seawall backfill projects; and solidification and remediation projects. In addition, it engages in the artificial fluorite and aluminum slag business; and provision of laboratory services, including analysis of cement. The company was incorporated in 1991 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Ho  Shang Kuan', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiang-Ya  Huang', 'title': 'Non Independent Representative Director & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Nu  Chu', 'title': 'Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. L. C.  Cheng', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Teng-Ker  Hsu', 'title': 'Chief of Research & Technology Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-An  Lin', 'title': 'Chief of Corporate Governance & Assistant VP of Administration Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Shu  Chung', 'title': 'VP & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Hung  Tsai', 'title': 'Chief of Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	67.6
+open	67.6
+dayLow	67.0
+dayHigh	68.1
+regularMarketPreviousClose	67.6
+regularMarketOpen	67.6
+regularMarketDayLow	67.0
+regularMarketDayHigh	68.1
+dividendRate	2.5
+dividendYield	0.0367
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.65620005
+fiveYearAvgDividendYield	4.42
+trailingPE	17.874016
+volume	264798
+regularMarketVolume	264798
+averageVolume	281438
+averageVolume10days	356426
+averageDailyVolume10Day	356426
+bid	67.9
+ask	68.1
+marketCap	16925573120
+fiftyTwoWeekLow	50.6
+fiftyTwoWeekHigh	68.9
+priceToSalesTrailing12Months	1.3761661
+fiftyDayAverage	61.974
+twoHundredDayAverage	57.6195
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.044378698
+currency	TWD
+enterpriseValue	19466539008
+profitMargins	0.07717
+floatShares	68134613
+sharesOutstanding	248540000
+heldPercentInsiders	0.74466
+heldPercentInstitutions	0.0043099998
+impliedSharesOutstanding	248540000
+bookValue	25.49
+priceToBook	2.6716359
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.598
+netIncomeToCommon	949123008
+trailingEps	3.81
+lastSplitFactor	1100:1000
+lastSplitDate	1535414400	 (2018-08-28 08:00:00)
+enterpriseToRevenue	1.583
+enterpriseToEbitda	11.0
+52WeekChange	0.29961836
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9930.TW
+underlyingSymbol	9930.TW
+shortName	CHC RESOURCES CORPORATION
+longName	CHC Resources Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3287cde4-d53a-3bc8-8089-f372c8447b5e
+messageBoardId	finmb_9871357
+gmtOffSetMilliseconds	28800000
+currentPrice	68.1
+recommendationKey	none
+totalCash	819390016
+totalCashPerShare	3.303
+ebitda	1769644032
+totalDebt	3159375872
+quickRatio	0.797
+currentRatio	1.008
+totalRevenue	12299077632
+debtToEquity	48.191
+revenuePerShare	49.457
+returnOnAssets	0.061550003
+returnOnEquity	0.15059
+freeCashflow	1789499008
+operatingCashflow	2388951040
+earningsGrowth	0.601
+revenueGrowth	-0.032
+grossMargins	0.13793
+ebitdaMargins	0.14388
+operatingMargins	0.12633
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0     306487.869006
+Tax Rate For Calcs                                               0.190206       0.192767       0.193621          0.183746
+Normalized EBITDA                                            2098142000.0   1919618000.0   1804227000.0      1810463000.0
+Total Unusual Items                                                   NaN            NaN            0.0         1668000.0
+Total Unusual Items Excluding Goodwill                                NaN            NaN            0.0         1668000.0
+Net Income From Continuing Operation Net Minority Interest    839555000.0    755402000.0    710208000.0       761987000.0
+Reconciled Depreciation                                       953166000.0    919275000.0    857421000.0       813338000.0
+Reconciled Cost Of Revenue                                  10838732000.0  10011489000.0   9409946000.0      8559682000.0
+EBITDA                                                       2098142000.0   1919618000.0   1804227000.0      1812131000.0
+EBIT                                                         1144976000.0   1000343000.0    946806000.0       998793000.0
+Net Interest Income                                           -79244000.0    -61695000.0    -46084000.0       -48877000.0
+Interest Expense                                               85431000.0     65070000.0     48810000.0        51756000.0
+Interest Income                                                 6187000.0      3375000.0      2726000.0         2879000.0
+Normalized Income                                             839555000.0    755402000.0    710208000.0  760625487.869006
+Net Income From Continuing And Discontinued Operation         839555000.0    755402000.0    710208000.0       761987000.0
+Total Expenses                                              11320630000.0  10475947000.0   9878001000.0      9004686000.0
+Diluted Average Shares                                                NaN    249401000.0    249484000.0       249391000.0
+Basic Average Shares                                                  NaN    248540000.0    248540000.0       248540000.0
+Diluted EPS                                                           NaN           3.03           2.85              3.06
+Basic EPS                                                             NaN           3.04           2.86              3.07
+Diluted NI Availto Com Stockholders                           839555000.0    755402000.0    710208000.0       761987000.0
+Net Income Common Stockholders                                839555000.0    755402000.0    710208000.0       761987000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0               0.0
+Net Income                                                    839555000.0    755402000.0    710208000.0       761987000.0
+Minority Interests                                            -18458000.0       419000.0    -13917000.0       -11036000.0
+Net Income Including Noncontrolling Interests                 858013000.0    754983000.0    724125000.0       773023000.0
+Net Income Continuous Operations                              858013000.0    754983000.0    724125000.0       773023000.0
+Tax Provision                                                 201532000.0    180290000.0    173871000.0       174014000.0
+Pretax Income                                                1059545000.0    935273000.0    897996000.0       947037000.0
+Other Non Operating Income Expenses                            50182000.0     66372000.0     38988000.0        21831000.0
+Special Income Charges                                                NaN            NaN            0.0         1668000.0
+Write Off                                                             NaN            NaN            0.0        -1668000.0
+Net Non Operating Interest Income Expense                     -79244000.0    -61695000.0    -46084000.0       -48877000.0
+Interest Expense Non Operating                                 85431000.0     65070000.0     48810000.0        51756000.0
+Interest Income Non Operating                                   6187000.0      3375000.0      2726000.0         2879000.0
+Operating Income                                             1074272000.0    906682000.0    892773000.0       965947000.0
+Operating Expense                                             481898000.0    464458000.0    468055000.0       445004000.0
+Research And Development                                       23750000.0     22249000.0     24903000.0        28430000.0
+Selling General And Administration                            458148000.0    442209000.0    443152000.0       416574000.0
+Selling And Marketing Expense                                 183543000.0    186314000.0    192344000.0       193239000.0
+General And Administrative Expense                            274605000.0    255895000.0    250808000.0       223335000.0
+Gross Profit                                                 1556170000.0   1371140000.0   1360828000.0      1410951000.0
+Cost Of Revenue                                             10838732000.0  10011489000.0   9409946000.0      8559682000.0
+Total Revenue                                               12394902000.0  11382629000.0  10770774000.0      9970633000.0
+Operating Revenue                                           12394902000.0  11382629000.0  10770774000.0      9970633000.0

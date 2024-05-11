@@ -1,0 +1,134 @@
+=== Ticker Info ===
+address1	No. 135, Dunhua N. Road
+address2	Songshan District
+city	Taipei
+zip	105
+country	Taiwan
+website	https://www.cdfholding.com
+industry	Insurance - Life
+industryKey	insurance-life
+industryDisp	Insurance - Life
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	China Development Financial Holding Corporation engages in the commercial banking, securities, venture capital, and insurance businesses in Taiwan and internationally. The company offers financial services, such as deposits, remittances, loans, payments, credit cards, investments, and wealth management, as well as financial solutions for domestic and overseas corporates. It also provides corporate banking services, including financial services for startups, micro-enterprises, SMEs, large enterprises, and private equities; upstream, midstream, and downstream supplier services; project financing products; cross-border trade businesses; short-term financing with supply chain cash flow, sustainable/green energy project financing, and asset-backed loans; corporate strategic services comprising credits, foreign exchange hedging, cash management, and trade financing; and currency, foreign exchange, interest rate, commodity, and equity security of spot market and derivative financial product trading. In addition, the company offers personal life insurance, personal injury insurance, personal health insurance, interest rate variable annuity, traditional annuity insurance, travel safety insurance, investment insurance, group insurance, and universal insurance products; retail brokerage and wealth management, investment banking, fixed income, derivatives, registry and transfer agency, and proprietary trading services; asset management services; and installment/business equipment leasing services. China Development Financial Holding Corporation was founded in 1959 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	13406
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Jun  Yang', 'age': 55, 'title': 'President & Vice Chairman', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenny  Huang', 'title': 'Executive VP & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui Qi  Shi', 'title': 'Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Terence  Yeung', 'title': 'Executive VP & Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.cdibh.com/english/main.asp?xkeyid=404
+maxAge	86400
+priceHint	2
+previousClose	13.7
+open	13.9
+dayLow	13.9
+dayHigh	14.15
+regularMarketPreviousClose	13.7
+regularMarketOpen	13.9
+regularMarketDayLow	13.9
+regularMarketDayHigh	14.15
+exDividendDate	1657065600	 (2022-07-06 08:00:00)
+fiveYearAvgDividendYield	5.38
+beta	0.69
+trailingPE	12.522123
+forwardPE	9.964788
+volume	103732955
+regularMarketVolume	103732955
+averageVolume	53987636
+averageVolume10days	48203872
+averageDailyVolume10Day	48203872
+bid	14.1
+ask	14.15
+marketCap	238175617024
+fiftyTwoWeekLow	11.15
+fiftyTwoWeekHigh	14.6
+priceToSalesTrailing12Months	4.496454
+fiftyDayAverage	13.631
+twoHundredDayAverage	12.449
+currency	TWD
+enterpriseValue	-36744601600
+profitMargins	0.35761002
+floatShares	15764069994
+sharesOutstanding	16832199680
+heldPercentInsiders	0.06545
+heldPercentInstitutions	0.1558
+impliedSharesOutstanding	16894799872
+bookValue	14.672
+priceToBook	0.964422
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	18942699520
+trailingEps	1.13
+forwardEps	1.42
+pegRatio	-1.76
+lastSplitFactor	1.00986:1
+lastSplitDate	1313020800	 (2011-08-11 08:00:00)
+enterpriseToRevenue	-0.694
+52WeekChange	0.10546875
+SandP52WeekChange	0.26265144
+lastDividendValue	1.000078
+lastDividendDate	1657065600	 (2022-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2883.TW
+underlyingSymbol	2883.TW
+shortName	CHINA DEVELOPMENT FINANCIAL HLD
+longName	China Development Financial Holding Corporation
+firstTradeDateEpochUtc	1009760400	 (2001-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	53eaac14-4be7-3c47-af51-d5725d2c2e93
+messageBoardId	finmb_4307158
+gmtOffSetMilliseconds	28800000
+currentPrice	14.15
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	695811899392
+totalCashPerShare	41.332
+totalDebt	404904542208
+totalRevenue	52969656320
+revenuePerShare	3.164
+returnOnAssets	0.00527
+returnOnEquity	0.08033
+operatingCashflow	-55064018944
+revenueGrowth	4.691
+operatingMargins	0.07914
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                   -13142657.970775   -364448737.347137     760240744.33502      1050564.908419
+Tax Rate For Calcs                                                    0.079155            0.253029            0.097706            0.057959
+Total Unusual Items                                               -166037000.0       -1440343000.0        7780901000.0          18126000.0
+Total Unusual Items Excluding Goodwill                            -166037000.0       -1440343000.0        7780901000.0          18126000.0
+Net Income From Continuing Operation Net Minority Interest       18942700000.0       16365629000.0       35043431000.0       12655277000.0
+Reconciled Depreciation                                           4424279000.0        4071939000.0        3634012000.0        3457137000.0
+Net Interest Income                                              73291575000.0       70858014000.0       65652263000.0       66703953000.0
+Interest Expense                                                 23521096000.0        9386699000.0        3572965000.0        5639918000.0
+Interest Income                                                  96812671000.0       80244713000.0       69225228000.0       72343871000.0
+Normalized Income                                           19095594342.029224  17441523262.652863  28022770744.335018  12638201564.908419
+Net Income From Continuing And Discontinued Operation            18942700000.0       16365629000.0       35043431000.0       12655277000.0
+Diluted Average Shares                                                     NaN       16781923000.0       14975825214.0       14623369000.0
+Basic Average Shares                                                       NaN       16742073000.0       14975825214.0       14615571000.0
+Diluted EPS                                                                NaN                0.98                2.34                0.87
+Basic EPS                                                                  NaN                0.98                2.34                0.87
+Diluted NI Availto Com Stockholders                              18942700000.0       16365629000.0       35043431000.0       12655277000.0
+Net Income Common Stockholders                                   18942700000.0       16365629000.0       35043431000.0       12655277000.0
+Net Income                                                       18942700000.0       16365629000.0       35043431000.0       12655277000.0
+Minority Interests                                                  -5419000.0         -23558000.0      -12056044000.0       -8021009000.0
+Net Income Including Noncontrolling Interests                    18948119000.0       16389187000.0       47099475000.0       20676286000.0
+Net Income Continuous Operations                                 18948119000.0       16389187000.0       47099475000.0       20676286000.0
+Tax Provision                                                     1628763000.0        5551678000.0        5100224000.0        1272107000.0
+Pretax Income                                                    20576882000.0       21940865000.0       52199699000.0       21948393000.0
+Special Income Charges                                            -816914000.0       -1890463000.0        7780901000.0          18126000.0
+Other Special Charges                                                      NaN         -35862000.0       -8377876000.0           -458000.0
+Write Off                                                          816914000.0        1890463000.0         596975000.0         -17668000.0
+Gain On Sale Of Security                                         10878681000.0      -59951577000.0       70790882000.0       60187172000.0
+Operating Expense                                                16733728000.0       80144291000.0      139892073000.0      202477397000.0
+Other Operating Expenses                                        -14842134000.0       51611323000.0      104875754000.0      174464035000.0
+Depreciation And Amortization In Income Statement                 3795211000.0        3531131000.0        3631430000.0        3454115000.0
+Depreciation Income Statement                                     3795211000.0        3531131000.0        3631430000.0        3454115000.0
+Selling General And Administration                                8800822000.0        8661235000.0        9128965000.0        7005663000.0
+General And Administrative Expense                                8800822000.0        8661235000.0        9128965000.0        7005663000.0
+Total Revenue                                                    36359757000.0      103994759000.0      183586806000.0      224967102000.0
+Operating Revenue                                                36359757000.0      103994759000.0      183586806000.0      224967102000.0

@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 500, Zhongxing Road
+address2	Yanchao District
+city	Kaohsiung
+zip	82447
+country	Taiwan
+phone	886 7 616 8688
+fax	886 7 616 8680
+website	https://www.cssc.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	China Steel Structure Co., Ltd. designs, produces, and sells steel structures in Taiwan. The company designs, processes, manufactures, assembles, and sells various steel sections and frames, machine bodies, hydraulic engineering machinery, tanks, crane and plant equipment, and steel towers and pipes; provides technical services for steel structure engineering; imports and exports metal products and construction materials; trades in steel products; and offers construction and installation services for civil construction works. It also undertakes contracts for civil engineering, architecture, and bridges, as well as steel structure installation. In addition, the company provides steel structures for high-rise buildings, factories, and bridges, as well as mechanical structures, petrochemical pipelines and tanks, and pipeline supports; and leases office buildings. It also exports its products to Mainland China and Southeast Asia. The company was incorporated in 1978 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jui-Teng  Chen', 'age': 60, 'title': 'President & Chairman', 'yearBorn': 1963, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wang  Yung-Chih', 'title': 'CFO & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Yi  Chen', 'title': 'Vice President of Operation Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huang  Tung Hsing', 'title': 'Vice President of Administration Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ping-Hao  Li', 'title': 'Vice President of Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	59.8
+open	59.8
+dayLow	59.6
+dayHigh	60.4
+regularMarketPreviousClose	59.8
+regularMarketOpen	59.8
+regularMarketDayLow	59.6
+regularMarketDayHigh	60.4
+dividendRate	1.7
+dividendYield	0.028199999
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.6115
+fiveYearAvgDividendYield	3.02
+trailingPE	21.654676
+volume	115845
+regularMarketVolume	115845
+averageVolume	496737
+averageVolume10days	147895
+averageDailyVolume10Day	147895
+bid	60.0
+ask	60.2
+marketCap	12040000512
+fiftyTwoWeekLow	50.7
+fiftyTwoWeekHigh	68.5
+priceToSalesTrailing12Months	0.6473039
+fiftyDayAverage	60.512
+twoHundredDayAverage	55.5095
+trailingAnnualDividendRate	1.9
+trailingAnnualDividendYield	0.031772576
+currency	TWD
+enterpriseValue	16984175616
+profitMargins	0.02994
+floatShares	56683413
+sharesOutstanding	200000000
+heldPercentInsiders	0.72946
+heldPercentInstitutions	0.0058899997
+impliedSharesOutstanding	201328992
+bookValue	27.241
+priceToBook	2.2099042
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.221
+netIncomeToCommon	556913024
+trailingEps	2.78
+lastSplitFactor	102.5:100
+lastSplitDate	1125446400	 (2005-08-31 08:00:00)
+enterpriseToRevenue	0.913
+enterpriseToEbitda	24.784
+52WeekChange	0.07308376
+SandP52WeekChange	0.26265144
+lastDividendValue	1.7
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2013.TW
+underlyingSymbol	2013.TW
+shortName	CHINA STEEL STRUCTURE CO
+longName	China Steel Structure Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ad13ee0a-a679-38a1-8fc1-8449e483de61
+messageBoardId	finmb_9776616
+gmtOffSetMilliseconds	28800000
+currentPrice	60.2
+recommendationKey	none
+totalCash	319246016
+totalCashPerShare	1.597
+ebitda	685292032
+totalDebt	5268216832
+quickRatio	1.075
+currentRatio	1.245
+totalRevenue	18600228864
+debtToEquity	96.734
+revenuePerShare	93.153
+returnOnAssets	0.02404
+returnOnEquity	0.10288999
+freeCashflow	-1429744640
+operatingCashflow	-1070660992
+earningsGrowth	0.229
+revenueGrowth	-0.049
+grossMargins	0.04994
+ebitdaMargins	0.03684
+operatingMargins	0.03238
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0  -17991368.210533    1664447.794537
+Tax Rate For Calcs                                                0.15513       0.216365          0.145647          0.169237
+Normalized EBITDA                                             880949000.0    847624000.0       916669000.0       987459000.0
+Total Unusual Items                                                   0.0            0.0      -123527000.0         9835000.0
+Total Unusual Items Excluding Goodwill                                0.0            0.0      -123527000.0         9835000.0
+Net Income From Continuing Operation Net Minority Interest    535548000.0    478931000.0       494044000.0       630701000.0
+Reconciled Depreciation                                       172667000.0    178829000.0       188285000.0       196442000.0
+Reconciled Cost Of Revenue                                  17860337000.0  18402454000.0     15041102000.0     12598007000.0
+EBITDA                                                        880949000.0    847624000.0       793142000.0       997294000.0
+EBIT                                                          708282000.0    668795000.0       604857000.0       800852000.0
+Net Interest Income                                           -69418000.0    -50688000.0       -23946000.0       -30478000.0
+Interest Expense                                               74400000.0     57629000.0        26590000.0        41669000.0
+Interest Income                                                 4982000.0      6941000.0         2644000.0        11191000.0
+Normalized Income                                             535548000.0    478931000.0  599579631.789467  622530447.794537
+Net Income From Continuing And Discontinued Operation         535548000.0    478931000.0       494044000.0       630701000.0
+Total Expenses                                              18235265000.0  18736061000.0     15375151000.0     12974181000.0
+Diluted Average Shares                                        200489000.0    200416000.0       199087000.0       194153000.0
+Basic Average Shares                                          200000000.0    200000000.0       198572000.0       193195000.0
+Diluted EPS                                                          2.67           2.39              2.48              3.25
+Basic EPS                                                            2.68           2.39              2.49              3.26
+Diluted NI Availto Com Stockholders                           535548000.0    478931000.0       494044000.0       630701000.0
+Net Income Common Stockholders                                535548000.0    478931000.0       494044000.0       630701000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0               0.0               0.0
+Net Income                                                    535548000.0    478931000.0       494044000.0       630701000.0
+Net Income Including Noncontrolling Interests                 535548000.0    478931000.0       494044000.0       630701000.0
+Net Income Continuous Operations                              535548000.0    478931000.0       494044000.0       630701000.0
+Tax Provision                                                  98334000.0    132235000.0        84223000.0       128482000.0
+Pretax Income                                                 633882000.0    611166000.0       578267000.0       759183000.0
+Other Non Operating Income Expenses                            15306000.0     86105000.0        46970000.0       433138000.0
+Special Income Charges                                                0.0            0.0      -123527000.0         9835000.0
+Write Off                                                             0.0            0.0       123527000.0        -9835000.0
+Net Non Operating Interest Income Expense                     -69418000.0    -50688000.0       -23946000.0       -30478000.0
+Interest Expense Non Operating                                 74400000.0     57629000.0        26590000.0        41669000.0
+Interest Income Non Operating                                   4982000.0      6941000.0         2644000.0        11191000.0
+Operating Income                                              603907000.0    628397000.0       595900000.0       267988000.0
+Operating Expense                                             374928000.0    333607000.0       334049000.0       376174000.0
+Research And Development                                       17962000.0     16903000.0        20944000.0        21924000.0
+Selling General And Administration                            356966000.0    316704000.0       313105000.0       354250000.0
+Selling And Marketing Expense                                 108743000.0    101666000.0       100410000.0       113697000.0
+General And Administrative Expense                            248223000.0    215038000.0       212695000.0       240553000.0
+Gross Profit                                                  978835000.0    962004000.0       929949000.0       644162000.0
+Cost Of Revenue                                             17860337000.0  18402454000.0     15041102000.0     12598007000.0
+Total Revenue                                               18839172000.0  19364458000.0     15971051000.0     13242169000.0
+Operating Revenue                                           18839172000.0  19364458000.0     15971051000.0     13242169000.0

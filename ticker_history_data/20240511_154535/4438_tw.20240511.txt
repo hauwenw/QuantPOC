@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 607, Ruiguang Road
+address2	6th Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2798 9169
+website	https://www.qve.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Quang Viet Enterprise Co., Ltd. manufactures, process, and sells garments in Taiwan. It also manufactures and process raw material comprising of feather and down and medical products. The company offers various types of jackets, including synthetic insulation, high puffer and packable down, seam seal, and water repellent. Quang Viet Enterprise Co., Ltd. was incorporated in 1995 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao Bi  Wu', 'age': 66, 'title': 'Chairman & CEO', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiang-Mei  Tang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Jung  Huang', 'title': 'Assistant Vice President of Finance & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rong Gan Lin', 'title': 'Deputy General Manager of Administration', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mei-Fen  Tien', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yang-Han  Wu', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	109.0
+open	108.5
+dayLow	108.0
+dayHigh	109.0
+regularMarketPreviousClose	109.0
+regularMarketOpen	108.5
+regularMarketDayLow	108.0
+regularMarketDayHigh	109.0
+dividendRate	6.8
+dividendYield	0.0627
+exDividendDate	1693267200	 (2023-08-29 08:00:00)
+payoutRatio	1.1486
+fiveYearAvgDividendYield	4.51
+beta	0.345
+trailingPE	18.327702
+forwardPE	9.313305
+volume	66554
+regularMarketVolume	66554
+averageVolume	55011
+averageVolume10days	60012
+averageDailyVolume10Day	60012
+bid	108.0
+ask	109.0
+marketCap	11221612544
+fiftyTwoWeekLow	106.0
+fiftyTwoWeekHigh	129.0
+priceToSalesTrailing12Months	0.6779279
+fiftyDayAverage	109.88
+twoHundredDayAverage	112.965
+trailingAnnualDividendRate	5.2
+trailingAnnualDividendYield	0.04770642
+currency	TWD
+enterpriseValue	11087567872
+profitMargins	0.04435
+floatShares	48983114
+sharesOutstanding	103425000
+heldPercentInsiders	0.51699
+heldPercentInstitutions	0.04559
+impliedSharesOutstanding	104401000
+bookValue	76.188
+priceToBook	1.4241087
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	734190016
+trailingEps	5.92
+forwardEps	11.65
+enterpriseToRevenue	0.67
+enterpriseToEbitda	8.805
+52WeekChange	-0.06866956
+SandP52WeekChange	0.26265144
+lastDividendValue	6.8
+lastDividendDate	1693267200	 (2023-08-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4438.TW
+underlyingSymbol	4438.TW
+shortName	QUANG VIET ENTERPRISE CO LTD
+longName	Quang Viet Enterprise Co., Ltd.
+firstTradeDateEpochUtc	1438218000	 (2015-07-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f74c070e-8868-3b4b-9c35-19f42c12b1e6
+messageBoardId	finmb_304227365
+gmtOffSetMilliseconds	28800000
+currentPrice	108.5
+recommendationMean	2.5
+recommendationKey	buy
+totalCash	5274802176
+totalCashPerShare	51.001
+ebitda	1259169024
+totalDebt	3078342912
+quickRatio	2.14
+currentRatio	3.197
+totalRevenue	16552811520
+debtToEquity	30.962
+revenuePerShare	160.047
+returnOnAssets	0.0358
+returnOnEquity	0.09177
+freeCashflow	1098729728
+operatingCashflow	1975692032
+revenueGrowth	-0.409
+grossMargins	0.15019
+ebitdaMargins	0.076069996
+operatingMargins	-0.050279997
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1974612.167661    -2963363.902217   -2362271.184561      82041.008278
+Tax Rate For Calcs                                                  0.240396             0.2362          0.254418          0.187308
+Normalized EBITDA                                               1726044000.0       2420613000.0      1336013000.0       996297000.0
+Total Unusual Items                                               -8214000.0        -12546000.0        -9285000.0          438000.0
+Total Unusual Items Excluding Goodwill                            -8214000.0        -12546000.0        -9285000.0          438000.0
+Net Income From Continuing Operation Net Minority Interest       734190000.0       1176153000.0       630502000.0       537296000.0
+Reconciled Depreciation                                          399279000.0        360654000.0       301546000.0       257182000.0
+Reconciled Cost Of Revenue                                     14066818000.0      16799314000.0     11150790000.0     10903247000.0
+EBITDA                                                          1717830000.0       2408067000.0      1326728000.0       996735000.0
+EBIT                                                            1318551000.0       2047413000.0      1025182000.0       739553000.0
+Net Interest Income                                               29068000.0           457000.0         1443000.0        13299000.0
+Interest Expense                                                 127936000.0         90761000.0        51100000.0        53155000.0
+Interest Income                                                  157004000.0         91218000.0        52543000.0        66454000.0
+Normalized Income                                           740429387.832339  1185735636.097783  637424728.815439  536940041.008278
+Net Income From Continuing And Discontinued Operation            734190000.0       1176153000.0       630502000.0       537296000.0
+Total Expenses                                                 15623152000.0      18531261000.0     12328416000.0     11908897000.0
+Diluted Average Shares                                                   NaN        110853252.0       113507000.0       112654000.0
+Basic Average Shares                                                     NaN        103352636.0       103375000.0       103375000.0
+Diluted EPS                                                              NaN              10.61               5.7              4.91
+Basic EPS                                                                NaN              11.38               6.1               5.2
+Diluted NI Availto Com Stockholders                              734190000.0       1176153000.0       630502000.0       537296000.0
+Net Income Common Stockholders                                   734190000.0       1176153000.0       630502000.0       537296000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0               0.0
+Net Income                                                       734190000.0       1176153000.0       630502000.0       537296000.0
+Minority Interests                                              -170206000.0       -318338000.0       -95756000.0       -20534000.0
+Net Income Including Noncontrolling Interests                    904396000.0       1494491000.0       726258000.0       557830000.0
+Net Income Continuous Operations                                 904396000.0       1494491000.0       726258000.0       557830000.0
+Tax Provision                                                    286219000.0        462161000.0       247824000.0       128568000.0
+Pretax Income                                                   1190615000.0       1956652000.0       974082000.0       686398000.0
+Other Non Operating Income Expenses                              147406000.0        331261000.0       183174000.0       228086000.0
+Special Income Charges                                            -8214000.0        -12546000.0        -9285000.0          438000.0
+Write Off                                                          8214000.0         12546000.0         9285000.0         -438000.0
+Net Non Operating Interest Income Expense                         29068000.0           457000.0         1443000.0        13299000.0
+Interest Expense Non Operating                                   127936000.0         90761000.0        51100000.0        53155000.0
+Interest Income Non Operating                                    157004000.0         91218000.0        52543000.0        66454000.0
+Operating Income                                                 929660000.0       1534334000.0       694000000.0       279960000.0
+Operating Expense                                               1556334000.0       1731947000.0      1177626000.0      1005650000.0
+Research And Development                                         210256000.0        226105000.0       166226000.0       165814000.0
+Selling General And Administration                              1346078000.0       1505842000.0      1011400000.0       839836000.0
+Selling And Marketing Expense                                    228316000.0        252756000.0       192526000.0       137754000.0
+General And Administrative Expense                              1117762000.0       1253086000.0       818874000.0       702082000.0
+Gross Profit                                                    2485994000.0       3266281000.0      1871626000.0      1285610000.0
+Cost Of Revenue                                                14066818000.0      16799314000.0     11150790000.0     10903247000.0
+Total Revenue                                                  16552812000.0      20065595000.0     13022416000.0     12188857000.0
+Operating Revenue                                              16552812000.0      20065595000.0     13022416000.0     12188857000.0

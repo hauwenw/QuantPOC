@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 6, Taichung Industrial Park
+address2	2nd Road
+city	Taichung
+country	Taiwan
+phone	886 4 2359 0088
+fax	886 4 2358 0353
+website	https://www.honchuan.com
+industry	Packaging & Containers
+industryKey	packaging-containers
+industryDisp	Packaging & Containers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Taiwan Hon Chuan Enterprise Co., Ltd. manufactures and sells various packaging materials for the food and beverage industries in Taiwan, China, Southeast Asia, and internationally. The company offers aluminum, plastic, and metal lug caps; polyethylene terephthalate bottle/perform, and label products; and LDPE shrinkable films. It also provides hot filling, TR beverage filling, TBA filling, and beverage filling original equipment manufacturer services; and automatic sealer machines. The company was formerly known as Hon Chuan Metal Development Co., Ltd. and changed its name to Taiwan Hon Chuan Enterprise Co., Ltd. in 1999. Taiwan Hon Chuan Enterprise Co., Ltd. was incorporated in 1969 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Ya-Wen  Cheng', 'title': 'Chairman & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung Yu  Tsao', 'title': 'MD, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Chuan  Yen', 'title': 'Senior Assistant Vice President of General Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Emily  Lu', 'title': 'Investor Relations Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hao  Ting', 'title': 'Vice President of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsang-Pin  Lin', 'title': 'Assistant Vice President of Human Resource Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yun-Chang  Liu', 'title': 'Executive VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Lung  Hsieh', 'title': 'VP & Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen Hua Tseng', 'title': 'Group Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shen-Yuan  Lai', 'title': 'Vice President of SE Asia Regional Headquarter', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	171.0
+open	173.0
+dayLow	172.5
+dayHigh	177.0
+regularMarketPreviousClose	171.0
+regularMarketOpen	173.0
+regularMarketDayLow	172.5
+regularMarketDayHigh	177.0
+dividendRate	4.8
+dividendYield	0.0274
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.55939996
+fiveYearAvgDividendYield	4.57
+beta	0.195
+trailingPE	20.454546
+forwardPE	15.54473
+volume	1813482
+regularMarketVolume	1813482
+averageVolume	1032658
+averageVolume10days	945475
+averageDailyVolume10Day	945475
+bid	175.0
+ask	175.5
+marketCap	50506440704
+fiftyTwoWeekLow	97.7
+fiftyTwoWeekHigh	178.5
+priceToSalesTrailing12Months	1.9124557
+fiftyDayAverage	152.33
+twoHundredDayAverage	124.216
+trailingAnnualDividendRate	5.35
+trailingAnnualDividendYield	0.03128655
+currency	TWD
+enterpriseValue	63281893376
+profitMargins	0.09369001
+floatShares	250837155
+sharesOutstanding	287785984
+heldPercentInsiders	0.082679994
+heldPercentInstitutions	0.2327
+impliedSharesOutstanding	288648000
+bookValue	54.554
+priceToBook	3.216996
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.696
+netIncomeToCommon	2474180096
+trailingEps	8.58
+forwardEps	11.29
+lastSplitFactor	1020:1000
+lastSplitDate	1281571200	 (2010-08-12 08:00:00)
+enterpriseToRevenue	2.396
+enterpriseToEbitda	11.603
+52WeekChange	0.755
+SandP52WeekChange	0.26265144
+lastDividendValue	4.8
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9939.TW
+underlyingSymbol	9939.TW
+shortName	TAIWAN HON CHUAN ENTERPRISE
+longName	Taiwan Hon Chuan Enterprise Co., Ltd.
+firstTradeDateEpochUtc	983754000	 (2001-03-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	47827e2d-f9f1-38d0-a562-ce0a366f74c1
+messageBoardId	finmb_9737283
+gmtOffSetMilliseconds	28800000
+currentPrice	175.5
+targetHighPrice	155.0
+targetLowPrice	120.0
+targetMeanPrice	137.5
+targetMedianPrice	137.5
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	6212356096
+totalCashPerShare	21.587
+ebitda	5453762048
+totalDebt	18225395712
+quickRatio	0.959
+currentRatio	1.347
+totalRevenue	26409207808
+debtToEquity	110.709
+revenuePerShare	91.767
+returnOnAssets	0.053400002
+returnOnEquity	0.15998
+freeCashflow	920691392
+operatingCashflow	5085213184
+earningsGrowth	0.71
+revenueGrowth	0.077
+grossMargins	0.21281
+ebitdaMargins	0.20650999
+operatingMargins	0.078779995
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.189048       0.198276       0.250137       0.196989
+Normalized EBITDA                                            5770369000.0   5333822000.0   5132880000.0   4611422000.0
+Net Income From Continuing Operation Net Minority Interest   2474180000.0   2215138000.0   1964731000.0   1655412000.0
+Reconciled Depreciation                                      2336484000.0   2312682000.0   2289724000.0   2288342000.0
+Reconciled Cost Of Revenue                                  20789102000.0  19551765000.0  16471847000.0  15242548000.0
+EBITDA                                                       5770369000.0   5333822000.0   5132880000.0   4611422000.0
+EBIT                                                         3433885000.0   3021140000.0   2843156000.0   2323080000.0
+Net Interest Income                                          -152438000.0   -126227000.0    -85986000.0   -116226000.0
+Interest Expense                                              277119000.0    180780000.0    138183000.0    167767000.0
+Interest Income                                               124681000.0     54553000.0     52197000.0     51541000.0
+Normalized Income                                            2474180000.0   2215138000.0   1964731000.0   1655412000.0
+Net Income From Continuing And Discontinued Operation        2474180000.0   2215138000.0   1964731000.0   1655412000.0
+Total Expenses                                              23227369000.0  21896765000.0  18554562000.0  17158403000.0
+Diluted Average Shares                                                NaN    288404000.0    288418000.0    290281000.0
+Basic Average Shares                                                  NaN    287786000.0    287786000.0    289585000.0
+Diluted EPS                                                           NaN           7.68           6.81            5.7
+Basic EPS                                                             NaN            7.7           6.83           5.72
+Diluted NI Availto Com Stockholders                          2474180000.0   2215138000.0   1964731000.0   1655412000.0
+Net Income Common Stockholders                               2474180000.0   2215138000.0   1964731000.0   1655412000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   2474180000.0   2215138000.0   1964731000.0   1655412000.0
+Minority Interests                                            -85806000.0    -62046000.0    -63627000.0    -75328000.0
+Net Income Including Noncontrolling Interests                2559986000.0   2277184000.0   2028358000.0   1730740000.0
+Net Income Continuous Operations                             2559986000.0   2277184000.0   2028358000.0   1730740000.0
+Tax Provision                                                 596780000.0    563176000.0    676615000.0    424573000.0
+Pretax Income                                                3156766000.0   2840360000.0   2704973000.0   2155313000.0
+Other Non Operating Income Expenses                           139402000.0    120425000.0     -9951000.0     83278000.0
+Net Non Operating Interest Income Expense                    -152438000.0   -126227000.0    -85986000.0   -116226000.0
+Interest Expense Non Operating                                277119000.0    180780000.0    138183000.0    167767000.0
+Interest Income Non Operating                                 124681000.0     54553000.0     52197000.0     51541000.0
+Operating Income                                             3181838000.0   2799543000.0   2827972000.0   2189846000.0
+Operating Expense                                            2438267000.0   2345000000.0   2082715000.0   1915855000.0
+Research And Development                                      227389000.0    221207000.0    106895000.0     92061000.0
+Selling General And Administration                           2210878000.0   2123793000.0   1975820000.0   1823794000.0
+Selling And Marketing Expense                                1090584000.0   1082471000.0   1003197000.0    908369000.0
+General And Administrative Expense                           1120294000.0   1041322000.0    972623000.0    915425000.0
+Gross Profit                                                 5620105000.0   5144543000.0   4910687000.0   4105701000.0
+Cost Of Revenue                                             20789102000.0  19551765000.0  16471847000.0  15242548000.0
+Total Revenue                                               26409207000.0  24696308000.0  21382534000.0  19348249000.0
+Operating Revenue                                           26409207000.0  24696308000.0  21382534000.0  19348249000.0

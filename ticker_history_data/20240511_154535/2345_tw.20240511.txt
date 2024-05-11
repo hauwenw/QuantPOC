@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No.1, Creation 3rd Road
+address2	Hsinchu Science Park East District
+city	Hsinchu City
+zip	30077
+country	Taiwan
+phone	886 3 577 0270
+fax	886 3 578 0764
+website	https://www.accton.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Accton Technology Corporation researches and develops, manufactures, and sells network communication equipment in the United States, Europe, Taiwan, rest of Asia, and internationally. It offers 800G AI/ML fabrics, hyper network appliances, and edge servers, as well as data centers, metro ethernet, telecommunication networks, and school/enterprise networks. The company also provides data center switches, open packet transponders, cloud server appliances, and ethernet BOF; and software-defined wide area network solutions; wired and wireless network solutions; carrier access platforms and disaggregated open solutions; and IoT integration solutions. In addition, it engages in the research, development, design, manufacture, and sale of switching hubs and network switches; service, sale, and marketing of LAN hardware and software products; and sale of network products. Further, the company provides services in information software and information technology. Accton Technology Corporation was incorporated in 1988 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jun  Shi', 'title': 'CEO, President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-Yi  Chen', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-I  Chen', 'title': 'Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ji-Hsiang  Yu', 'title': 'Senior Vice President of Research & Development', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ji-Shang  Yu', 'title': 'Senior Vice President of Manufacture Tech. Development Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan-Tse  Li', 'title': 'Senior Vice President of Research & Development Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ying-Hui  Chiang', 'title': 'Senior Vice President of Business Management Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jackal  Lee', 'title': 'Senior Vice President of Product Supply & Demand', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsun-Te  Li', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuan-Ze  Lee', 'title': 'Senior Vice President of Research & Development', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	444.0
+open	455.0
+dayLow	454.5
+dayHigh	475.0
+regularMarketPreviousClose	444.0
+regularMarketOpen	455.0
+regularMarketDayLow	454.5
+regularMarketDayHigh	475.0
+dividendRate	7.5
+dividendYield	0.0163
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	0.4621
+fiveYearAvgDividendYield	2.23
+beta	0.374
+trailingPE	28.417488
+forwardPE	18.844427
+volume	6288633
+regularMarketVolume	6288633
+averageVolume	4352131
+averageVolume10days	5066543
+averageDailyVolume10Day	5066543
+bid	461.0
+ask	461.5
+marketCap	257584365568
+fiftyTwoWeekLow	281.0
+fiftyTwoWeekHigh	580.0
+priceToSalesTrailing12Months	3.0596175
+fiftyDayAverage	457.82
+twoHundredDayAverage	488.765
+trailingAnnualDividendRate	10.0
+trailingAnnualDividendYield	0.022522522
+currency	TWD
+enterpriseValue	235815075840
+profitMargins	0.105950005
+floatShares	488249493
+sharesOutstanding	558145984
+heldPercentInsiders	0.11632
+heldPercentInstitutions	0.46583998
+impliedSharesOutstanding	573788992
+bookValue	45.128
+priceToBook	10.226467
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.039
+netIncomeToCommon	8920165376
+trailingEps	16.24
+forwardEps	24.49
+pegRatio	1.6
+lastSplitFactor	1.03573:1
+lastSplitDate	1312243200	 (2011-08-02 08:00:00)
+enterpriseToRevenue	2.801
+enterpriseToEbitda	19.54
+52WeekChange	0.60521734
+SandP52WeekChange	0.26265144
+lastDividendValue	7.4998
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2345.TW
+underlyingSymbol	2345.TW
+shortName	ACCTON TECHNOLOGY CORP
+longName	Accton Technology Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	154efff3-1668-3c58-89a9-e81dea8d9d38
+messageBoardId	finmb_966091
+gmtOffSetMilliseconds	28800000
+currentPrice	461.5
+targetHighPrice	655.0
+targetLowPrice	520.0
+targetMeanPrice	612.0
+targetMedianPrice	620.0
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	5
+totalCash	24332695552
+totalCashPerShare	43.596
+ebitda	12068374528
+totalDebt	2563334912
+quickRatio	1.249
+currentRatio	1.719
+totalRevenue	84188422144
+debtToEquity	10.177
+revenuePerShare	150.883
+returnOnAssets	0.14007
+returnOnEquity	0.39110002
+freeCashflow	15014197248
+operatingCashflow	18371244032
+earningsGrowth	-0.028
+revenueGrowth	-0.011
+grossMargins	0.22881001
+ebitdaMargins	0.14335
+operatingMargins	0.14724
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     52494.768489      227111.741301     -243312.449279      502026.695285
+Tax Rate For Calcs                                                  0.239702           0.205345           0.179038           0.187393
+Normalized EBITDA                                              12758662000.0      11209533000.0       6541416000.0       6923308000.0
+Total Unusual Items                                                 219000.0          1106000.0         -1359000.0          2679000.0
+Total Unusual Items Excluding Goodwill                              219000.0          1106000.0         -1359000.0          2679000.0
+Net Income From Continuing Operation Net Minority Interest      8920165000.0       8165812000.0       4705059000.0       5048353000.0
+Reconciled Depreciation                                          953449000.0        866654000.0        766518000.0        674998000.0
+Reconciled Cost Of Revenue                                     64925625000.0      60686961000.0      48254085000.0      42908810000.0
+EBITDA                                                         12758881000.0      11210639000.0       6540057000.0       6925987000.0
+EBIT                                                           11805432000.0      10343985000.0       5773539000.0       6250989000.0
+Net Interest Income                                              566366000.0        111166000.0         -9918000.0         51950000.0
+Interest Expense                                                  72971000.0         68062000.0         42388000.0         38094000.0
+Interest Income                                                  639337000.0        179228000.0         32470000.0         90044000.0
+Normalized Income                                           8919998494.76849  8164933111.741301  4706174687.550721  5046176026.695285
+Net Income From Continuing And Discontinued Operation           8920165000.0       8165812000.0       4705059000.0       5048353000.0
+Total Expenses                                                 72687548000.0      67573721000.0      54156596000.0      48062888000.0
+Diluted Average Shares                                           562589000.0        565157000.0        562477000.0        562458000.0
+Basic Average Shares                                             557971000.0        557837000.0        557501000.0        556352000.0
+Diluted EPS                                                            15.86              14.45               8.36               8.98
+Basic EPS                                                              15.99              14.64               8.44               9.07
+Diluted NI Availto Com Stockholders                             8920165000.0       8165812000.0       4705059000.0       5048353000.0
+Net Income Common Stockholders                                  8920165000.0       8165812000.0       4705059000.0       5048353000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0                0.0
+Net Income                                                      8920165000.0       8165812000.0       4705059000.0       5048353000.0
+Minority Interests                                                       0.0                0.0             1000.0          -287000.0
+Net Income Including Noncontrolling Interests                   8920165000.0       8165812000.0       4705058000.0       5048640000.0
+Net Income Continuous Operations                                8920165000.0       8165812000.0       4705058000.0       5048640000.0
+Tax Provision                                                   2812296000.0       2110111000.0       1026093000.0       1164255000.0
+Pretax Income                                                  11732461000.0      10275923000.0       5731151000.0       6212895000.0
+Other Non Operating Income Expenses                             -332366000.0        533288000.0        301968000.0       -240278000.0
+Special Income Charges                                              219000.0          1106000.0         -1359000.0          2679000.0
+Write Off                                                          -219000.0         -1106000.0          1359000.0         -2679000.0
+Net Non Operating Interest Income Expense                        566366000.0        111166000.0         -9918000.0         51950000.0
+Interest Expense Non Operating                                    72971000.0         68062000.0         42388000.0         38094000.0
+Interest Income Non Operating                                    639337000.0        179228000.0         32470000.0         90044000.0
+Operating Income                                               11500878000.0       9631502000.0       5442085000.0       6399984000.0
+Operating Expense                                               7761923000.0       6886760000.0       5902511000.0       5154078000.0
+Research And Development                                        3780598000.0       2972931000.0       2668321000.0       2163639000.0
+Selling General And Administration                              3981325000.0       3913829000.0       3234190000.0       2990439000.0
+Selling And Marketing Expense                                   1913778000.0       1840534000.0       1603114000.0       1498120000.0
+General And Administrative Expense                              2067547000.0       2073295000.0       1631076000.0       1492319000.0
+Gross Profit                                                   19262801000.0      16518262000.0      11344596000.0      11554062000.0
+Cost Of Revenue                                                64925625000.0      60686961000.0      48254085000.0      42908810000.0
+Total Revenue                                                  84188426000.0      77205223000.0      59598681000.0      54462872000.0
+Operating Revenue                                              84188426000.0      77205223000.0      59598681000.0      54462872000.0

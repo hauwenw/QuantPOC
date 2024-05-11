@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 102, Zhongshan Road
+address2	6-8th Floors Section 3 Zhonghe District
+city	New Taipei City
+zip	235010
+country	Taiwan
+phone	886 2 2226 0126
+fax	886 2 2226 8456
+website	https://www.infortrend.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Infortrend Technology, Inc. engages in the research, development, manufacture, and sale of disk array control systems, network-attached storage systems, storage software, and peripheral components in Europe, Taiwan, China, Japan, Germany, the United States, and internationally. The company offers EonStor CS, a scale-out NAS storage system for use in a range of data-intensive applications and industries, such as media and entertainment, high performance computing, video surveillance archiving, file sharing, and data backup. It also provides EonStor GS, an enterprise unified storage solution; EonStor GSe, a storage system for common SMB-level applications, such as media editing and office file sharing; and EonStor GSe Pro, a single controller solution for SMBs. In addition, the company offers EonStor DS, a SAN storage solution specially designed for enterprises; EonServ, an integrated storage server solution designed for enterprises; EonStor GSi and EonServ integrated computing and storage systems for AI applications that meets both computing and storage needs; and expansion enclosures for rackmount and desktop storage systems, as well as JBODs for rackmount storage servers. Further, it provides EonOne for GS, a storage management tool; and EonStor for CS, a web-based graphical interface storage management tool, as well as trading of computer peripherals. Additionally, the company offers product and technical support services. Its products are used in high performance computing, cloud integrated solution, virtualization, backup and restore, virtual desktop infrastructure, database, and docker applications. The company serves government and public sector, security and surveillance, media and entertainment, education and academic, financial services, and healthcare industries. Infortrend Technology, Inc. was incorporated in 1993 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Tung  Lo', 'age': 65, 'title': 'President & Chairman', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Hua  Liu', 'title': 'Assistant Manager of Finance & Accounting Department and Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Michael  Schnapp', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Wei  Chen', 'age': 56, 'title': 'VP & Director', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tse-Han  Lee', 'age': 61, 'title': 'VP & Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	21.05
+open	21.5
+dayLow	21.5
+dayHigh	22.05
+regularMarketPreviousClose	21.05
+regularMarketOpen	21.5
+regularMarketDayLow	21.5
+regularMarketDayHigh	22.05
+dividendRate	0.6
+dividendYield	0.0278
+exDividendDate	1690761600	 (2023-07-31 08:00:00)
+payoutRatio	0.6818
+fiveYearAvgDividendYield	2.88
+beta	0.66
+trailingPE	24.545456
+volume	1183224
+regularMarketVolume	1183224
+averageVolume	1977484
+averageVolume10days	508925
+averageDailyVolume10Day	508925
+bid	21.6
+ask	21.65
+marketCap	5908701696
+fiftyTwoWeekLow	18.05
+fiftyTwoWeekHigh	26.7
+priceToSalesTrailing12Months	4.247888
+fiftyDayAverage	22.206
+twoHundredDayAverage	20.96075
+trailingAnnualDividendRate	0.7
+trailingAnnualDividendYield	0.033254158
+currency	TWD
+enterpriseValue	4510425088
+profitMargins	0.17357999
+sharesOutstanding	273551008
+heldPercentInsiders	0.37412
+heldPercentInstitutions	0.0587
+impliedSharesOutstanding	276132000
+bookValue	15.415
+priceToBook	1.4012326
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.974
+netIncomeToCommon	241446000
+trailingEps	0.88
+lastSplitFactor	1.04:1
+lastSplitDate	1251158400	 (2009-08-25 08:00:00)
+enterpriseToRevenue	3.243
+enterpriseToEbitda	20.779
+52WeekChange	-0.068965495
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1690761600	 (2023-07-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2495.TW
+underlyingSymbol	2495.TW
+shortName	INFORTREND TECHNOLOGY INC
+longName	Infortrend Technology, Inc.
+firstTradeDateEpochUtc	1017104400	 (2002-03-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	548ef118-b338-3c58-afb8-e35d0ab0271b
+messageBoardId	finmb_8170740
+gmtOffSetMilliseconds	28800000
+currentPrice	21.6
+recommendationKey	none
+totalCash	3418816000
+totalCashPerShare	12.498
+ebitda	217064992
+totalDebt	2020518016
+quickRatio	1.547
+currentRatio	2.499
+totalRevenue	1390973952
+debtToEquity	47.916
+revenuePerShare	5.085
+returnOnAssets	0.01921
+returnOnEquity	0.057779998
+freeCashflow	2524375
+operatingCashflow	248720992
+earningsGrowth	-0.974
+revenueGrowth	-0.249
+grossMargins	0.511
+ebitdaMargins	0.15605
+operatingMargins	0.10152
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -200453.894939    -112104.009926      49235.33909      394400.0
+Tax Rate For Calcs                                                  0.160492           0.19295         0.084889           0.2
+Normalized EBITDA                                                353716000.0       315620000.0      202034000.0   -20001000.0
+Total Unusual Items                                               -1249000.0         -581000.0         580000.0     1972000.0
+Total Unusual Items Excluding Goodwill                            -1249000.0         -581000.0         580000.0     1972000.0
+Net Income From Continuing Operation Net Minority Interest       241446000.0       214003000.0      146028000.0   -65419000.0
+Reconciled Depreciation                                           28836000.0        31012000.0       32810000.0    34689000.0
+Reconciled Cost Of Revenue                                       680183000.0       742461000.0      669051000.0   638393000.0
+EBITDA                                                           352467000.0       315039000.0      202614000.0   -18029000.0
+EBIT                                                             323631000.0       284027000.0      169804000.0   -52718000.0
+Net Interest Income                                               24578000.0        21522000.0       22805000.0    36027000.0
+Interest Expense                                                  36027000.0        18860000.0       10230000.0     7704000.0
+Interest Income                                                   60605000.0        40382000.0       33035000.0    43731000.0
+Normalized Income                                           242494546.105061  214471895.990074  145497235.33909   -66996600.0
+Net Income From Continuing And Discontinued Operation            241446000.0       214003000.0      146028000.0   -65419000.0
+Total Expenses                                                  1191099000.0      1241274000.0     1164055000.0  1162670000.0
+Diluted Average Shares                                                   NaN       275819000.0      275394000.0   274549000.0
+Basic Average Shares                                                     NaN       273552000.0      273552000.0   274549000.0
+Diluted EPS                                                              NaN              0.78             0.53         -0.24
+Basic EPS                                                                NaN              0.78             0.53         -0.24
+Diluted NI Availto Com Stockholders                              241446000.0       214003000.0      146028000.0   -65419000.0
+Net Income Common Stockholders                                   241446000.0       214003000.0      146028000.0   -65419000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0           0.0
+Net Income                                                       241446000.0       214003000.0      146028000.0   -65419000.0
+Minority Interests                                                       0.0               0.0              0.0           0.0
+Net Income Including Noncontrolling Interests                    241446000.0       214003000.0      146028000.0   -65419000.0
+Net Income Continuous Operations                                 241446000.0       214003000.0      146028000.0   -65419000.0
+Tax Provision                                                     46158000.0        51164000.0       13546000.0     4997000.0
+Pretax Income                                                    287604000.0       265167000.0      159574000.0   -60422000.0
+Other Non Operating Income Expenses                               64400000.0        22870000.0      110756000.0   -66298000.0
+Special Income Charges                                            -1249000.0         -581000.0         580000.0     1972000.0
+Write Off                                                          1249000.0          581000.0        -580000.0    -1972000.0
+Net Non Operating Interest Income Expense                         24578000.0        21522000.0       22805000.0    36027000.0
+Interest Expense Non Operating                                    36027000.0        18860000.0       10230000.0     7704000.0
+Interest Income Non Operating                                     60605000.0        40382000.0       33035000.0    43731000.0
+Operating Income                                                 199875000.0       221356000.0       25433000.0   -32123000.0
+Operating Expense                                                510916000.0       498813000.0      495004000.0   524277000.0
+Research And Development                                         296055000.0       297765000.0      297675000.0   299039000.0
+Selling General And Administration                               214861000.0       201048000.0      197329000.0   225238000.0
+Selling And Marketing Expense                                     49352000.0        52051000.0       46561000.0    53649000.0
+General And Administrative Expense                               165509000.0       148997000.0      150768000.0   171589000.0
+Gross Profit                                                     710791000.0       720169000.0      520437000.0   492154000.0
+Cost Of Revenue                                                  680183000.0       742461000.0      669051000.0   638393000.0
+Total Revenue                                                   1390974000.0      1462630000.0     1189488000.0  1130547000.0
+Operating Revenue                                               1390974000.0      1462630000.0     1189488000.0  1130547000.0

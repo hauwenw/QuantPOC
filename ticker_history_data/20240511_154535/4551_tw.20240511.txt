@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	Oriental Science Park
+address2	Xizhi District
+city	New Taipei City
+country	Taiwan
+website	https://www.global.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Global PMX Co., Ltd. manufactures, processes, and sells precision metal components for automotive products, hard disk drives, medical equipment, and various industrial products primarily in the United States, China, Germany, France, Italy, and Japan. It offers ABS control valves, semiconductor equipment parts, truck trailer hydraulic valves, construction machinery hydraulic parts, automotive induction parts, automobile diesel nozzle bodies, automobile diesel nozzle valve core parts, automobile diesel pump parts, automobile gasoline high pressure pumps, disk drive parts, and linear slides and parts. The company also produces and sells computer hard disk components, industrial control components, fun punching dies, mold standard parts, hardware, construction, plumbing equipment and hardware, metal parts, hardware hand tools, electronic components, automotive key parts, anti-lock braking systems, optical, disk drives and components, semiconductor components. In addition, it provides digital cameras, precision online measuring instruments, medical and automotive precision parts, general parts, computer hardware and software, electronic components technology research and development. Further, the company offers computer hardware and software products, industrial plastic products manufacturing, other non-metal products manufacturing, iron and steel casting, steel forging, steel and aluminum secondary processing, etc. Global PMX Co., Ltd. was incorporated in 1987 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ci-Qing  Lin', 'title': 'Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xue-Lian  Xu', 'title': 'Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yao-Ling  Huang', 'title': 'Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Richard  Yen', 'title': 'Deputy Director of Administrative', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tzu-Ching  Lin', 'title': 'Deputy Director of Sales & Marketing', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rui-Quan  Yan', 'title': 'Corporate Governance Supervisor & Director', 'fiscalYear': 2019, 'totalPay': 1812000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	101.0
+open	102.0
+dayLow	102.0
+dayHigh	104.0
+regularMarketPreviousClose	101.0
+regularMarketOpen	102.0
+regularMarketDayLow	102.0
+regularMarketDayHigh	104.0
+dividendRate	6.0
+dividendYield	0.0583
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	1.31
+beta	0.871
+trailingPE	22.489084
+forwardPE	12.01867
+volume	129277
+regularMarketVolume	129277
+averageVolume	205546
+averageVolume10days	132973
+averageDailyVolume10Day	132973
+bid	102.5
+ask	103.5
+marketCap	11867866112
+fiftyTwoWeekLow	95.0
+fiftyTwoWeekHigh	164.0
+priceToSalesTrailing12Months	1.6664083
+fiftyDayAverage	104.236
+twoHundredDayAverage	122.484
+trailingAnnualDividendRate	2.5
+trailingAnnualDividendYield	0.024752475
+currency	TWD
+enterpriseValue	11498523648
+profitMargins	0.07239
+floatShares	50616091
+sharesOutstanding	115222000
+heldPercentInsiders	0.55934
+heldPercentInstitutions	0.14655
+impliedSharesOutstanding	116950000
+bookValue	68.828
+priceToBook	1.4964839
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.835
+netIncomeToCommon	515540000
+trailingEps	4.58
+forwardEps	8.57
+enterpriseToRevenue	1.615
+enterpriseToEbitda	8.538
+52WeekChange	-0.20463318
+SandP52WeekChange	0.26265144
+lastDividendValue	6.0
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4551.TW
+underlyingSymbol	4551.TW
+shortName	GLOBAL PMX CO LTD
+longName	Global PMX Co., Ltd.
+firstTradeDateEpochUtc	1389142800	 (2014-01-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3360e567-962d-3082-9807-0c62430dd2d7
+messageBoardId	finmb_252054003
+gmtOffSetMilliseconds	28800000
+currentPrice	103.0
+targetHighPrice	153.0
+targetLowPrice	106.0
+targetMeanPrice	125.0
+targetMedianPrice	119.0
+recommendationMean	2.9
+recommendationKey	hold
+numberOfAnalystOpinions	5
+totalCash	2847638016
+totalCashPerShare	24.714
+ebitda	1346680064
+totalDebt	2478244096
+quickRatio	1.169
+currentRatio	1.677
+totalRevenue	7121823744
+debtToEquity	31.249
+revenuePerShare	61.81
+returnOnAssets	0.03439
+returnOnEquity	0.06397
+freeCashflow	950830272
+operatingCashflow	1508792064
+earningsGrowth	-0.835
+revenueGrowth	-0.275
+grossMargins	0.21735
+ebitdaMargins	0.18909
+operatingMargins	0.110010006
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                 -31113724.030002    -2489639.160203     2842123.78507   -1046748.749049
+Tax Rate For Calcs                                                   0.27315           0.231637          0.233785          0.258138
+Normalized EBITDA                                               1547925000.0       2518679000.0      2195402000.0      1713589000.0
+Total Unusual Items                                             -113907000.0        -10748000.0        12157000.0        -4055000.0
+Total Unusual Items Excluding Goodwill                          -113907000.0        -10748000.0        12157000.0        -4055000.0
+Net Income From Continuing Operation Net Minority Interest       515540000.0       1405382000.0      1202917000.0       671939000.0
+Reconciled Depreciation                                          676604000.0        650833000.0       613167000.0       621903000.0
+Reconciled Cost Of Revenue                                      5573913000.0       6730513000.0      6380407000.0      5226682000.0
+EBITDA                                                          1434018000.0       2507931000.0      2207559000.0      1709534000.0
+EBIT                                                             757414000.0       1857098000.0      1594392000.0      1087631000.0
+Net Interest Income                                               16296000.0        -15086000.0       -17621000.0       -28390000.0
+Interest Expense                                                  48134000.0         28037000.0        24445000.0        47822000.0
+Interest Income                                                   64430000.0         12951000.0         6824000.0        19432000.0
+Normalized Income                                           598333275.969998  1413640360.839797  1193602123.78507  674947251.250951
+Net Income From Continuing And Discontinued Operation            515540000.0       1405382000.0      1202917000.0       671939000.0
+Total Expenses                                                  6286413000.0       7594610000.0      7273966000.0      5979835000.0
+Diluted Average Shares                                                   NaN        115577000.0       115734000.0       115701000.0
+Basic Average Shares                                                     NaN        115222000.0       114916000.0       107226000.0
+Diluted EPS                                                              NaN              12.16              10.4              6.75
+Basic EPS                                                                NaN               12.2             10.47              7.19
+Diluted NI Availto Com Stockholders                              515540000.0       1405382000.0      1202917000.0       671939000.0
+Net Income Common Stockholders                                   515540000.0       1405382000.0      1202917000.0       671939000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0               0.0
+Net Income                                                       515540000.0       1405382000.0      1202917000.0       671939000.0
+Minority Interests                                                       NaN                NaN               0.0       -99456000.0
+Net Income Including Noncontrolling Interests                    515540000.0       1405382000.0      1202917000.0       771395000.0
+Net Income Continuous Operations                                 515540000.0       1405382000.0      1202917000.0       771395000.0
+Tax Provision                                                    193740000.0        423679000.0       367030000.0       268414000.0
+Pretax Income                                                    709280000.0       1829061000.0      1569947000.0      1039809000.0
+Other Non Operating Income Expenses                              -28520000.0        214322000.0        35310000.0      -108186000.0
+Special Income Charges                                          -113907000.0        -10748000.0        12157000.0        -4055000.0
+Write Off                                                        113907000.0         10748000.0       -12157000.0         4055000.0
+Net Non Operating Interest Income Expense                         16296000.0        -15086000.0       -17621000.0       -28390000.0
+Interest Expense Non Operating                                    48134000.0         28037000.0        24445000.0        47822000.0
+Interest Income Non Operating                                     64430000.0         12951000.0         6824000.0        19432000.0
+Operating Income                                                 835411000.0       1640573000.0      1540101000.0      1180440000.0
+Operating Expense                                                712500000.0        864097000.0       893559000.0       753153000.0
+Research And Development                                         211456000.0        239806000.0       248715000.0       236145000.0
+Selling General And Administration                               501044000.0        624291000.0       644844000.0       517008000.0
+Selling And Marketing Expense                                    143820000.0        220469000.0       254081000.0       159593000.0
+General And Administrative Expense                               357224000.0        403822000.0       390763000.0       357415000.0
+Gross Profit                                                    1547911000.0       2504670000.0      2433660000.0      1933593000.0
+Cost Of Revenue                                                 5573913000.0       6730513000.0      6380407000.0      5226682000.0
+Total Revenue                                                   7121824000.0       9235183000.0      8814067000.0      7160275000.0
+Operating Revenue                                               7121824000.0       9235183000.0      8814067000.0      7160275000.0

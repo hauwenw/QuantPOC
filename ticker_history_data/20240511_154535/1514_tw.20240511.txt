@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	NO.19-11, Sanchong Road
+address2	12th Floor Nangang District
+city	Taipei
+zip	11501
+country	Taiwan
+phone	886 2 2655 3456
+fax	886 2 2655 2286
+website	https://www.allis.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Allis Electric Co.,Ltd. engages in development, production, and sale of transformers, switching devices, and electronic products worldwide. The company provides uninterruptible power supply (UPS) products for computers, network servers, data centers, telecommunication products, semiconductor manufacturing products, and petrochemical equipment; switching mode rectifiers and parallel inverters; solar products; and DC power supply and battery chargers, which provide DC power equipment used in telephone exchanges, satellite base-stations, microwave links, rural telecommunications, railway switching controls, and switchgears. It also offers transmission and distribution pole line hardware and apparatus, such as switches, and transmission and distribution pole line hardware products; high-voltage metal-clad switchgears, gas-insulated switchgears, high and low voltage switchgears, motor control centers, control panels, and distribution panels; and oil-immersed, cast resin, dry type, amorphous core, and cast resin potential and current transformers. In addition, the company engages in the planning, design, installation, testing, operating manual, training, and after service on power station monitoring, as well as planning, managing, and servicing to procure, supply, and install electrical, mechanical, air-conditioning, environmental, and water drainage equipment and system projects. Its products are used in IT, telecommunication, industrial, wireless, utility, and supervisory control and data acquisition applications. Allis Electric Co.,Ltd. was founded in 1968 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Jing  Chen', 'title': 'Senior Deputy GM & Director', 'fiscalYear': 2022, 'totalPay': 1383139, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao Bin  Zheng', 'title': 'Vice Chairman & GM', 'fiscalYear': 2022, 'totalPay': 8502893, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Yuan  Chan', 'title': 'Accounting Supervisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kechieh  Hsu', 'title': 'Chief Internal Auditor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	134.0
+open	130.0
+dayLow	126.0
+dayHigh	132.0
+regularMarketPreviousClose	134.0
+regularMarketOpen	130.0
+regularMarketDayLow	126.0
+regularMarketDayHigh	132.0
+dividendRate	1.0
+dividendYield	0.0078
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	0.3344
+fiveYearAvgDividendYield	2.58
+beta	0.788
+trailingPE	42.97659
+forwardPE	35.302197
+volume	14687061
+regularMarketVolume	14687061
+averageVolume	31103791
+averageVolume10days	12743145
+averageDailyVolume10Day	12743145
+bid	128.5
+ask	129.0
+marketCap	31358238720
+fiftyTwoWeekLow	45.388348
+fiftyTwoWeekHigh	184.0
+priceToSalesTrailing12Months	3.306648
+fiftyDayAverage	128.53
+twoHundredDayAverage	81.12851
+currency	TWD
+enterpriseValue	33386917888
+profitMargins	0.07926
+floatShares	193894218
+sharesOutstanding	244032992
+heldPercentInsiders	0.23961
+heldPercentInstitutions	0.05246
+impliedSharesOutstanding	248638000
+bookValue	18.994
+priceToBook	6.7652946
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.726
+netIncomeToCommon	751699008
+trailingEps	2.99
+forwardEps	3.64
+lastSplitFactor	1030:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	3.521
+enterpriseToEbitda	33.794
+52WeekChange	1.8250802
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1514.TW
+underlyingSymbol	1514.TW
+shortName	ALLIS ELECTRIC CO LTD
+longName	Allis Electric Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c14d38d7-3ccb-3be2-ae49-155104731d2e
+messageBoardId	finmb_9830452
+gmtOffSetMilliseconds	28800000
+currentPrice	128.5
+targetHighPrice	120.0
+targetLowPrice	46.0
+targetMeanPrice	74.0
+targetMedianPrice	65.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	782691008
+totalCashPerShare	3.207
+ebitda	987964992
+totalDebt	2711181056
+quickRatio	1.028
+currentRatio	1.528
+totalRevenue	9483392000
+debtToEquity	57.254
+revenuePerShare	38.81
+returnOnAssets	0.054959998
+returnOnEquity	0.17732
+freeCashflow	-498359008
+operatingCashflow	-105839000
+earningsGrowth	1.459
+revenueGrowth	0.373
+grossMargins	0.17777
+ebitdaMargins	0.10418
+operatingMargins	0.1249
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -3873062.61562   -1187245.830772    -985765.55396   -2906411.97165
+Tax Rate For Calcs                                                  0.18134          0.111983         0.139706         0.177893
+Normalized EBITDA                                              1069476000.0       687800000.0      499994000.0      466484000.0
+Total Unusual Items                                             -21358000.0       -10602000.0       -7056000.0      -16338000.0
+Total Unusual Items Excluding Goodwill                          -21358000.0       -10602000.0       -7056000.0      -16338000.0
+Net Income From Continuing Operation Net Minority Interest      751699000.0       508831000.0      361521000.0      323925000.0
+Reconciled Depreciation                                          55420000.0        56090000.0       50806000.0       49559000.0
+Reconciled Cost Of Revenue                                     7797516000.0      6418988000.0     4705428000.0     4209656000.0
+EBITDA                                                         1048118000.0       677198000.0      492938000.0      450146000.0
+EBIT                                                            992698000.0       621108000.0      442132000.0      400587000.0
+Net Interest Income                                             -49422000.0       -24887000.0      -10654000.0       -7496000.0
+Interest Expense                                                 55360000.0        28912000.0       13897000.0       11167000.0
+Interest Income                                                   5938000.0         4025000.0        3243000.0        3671000.0
+Normalized Income                                           769183937.38438  518245754.169228  367591234.44604  337356588.02835
+Net Income From Continuing And Discontinued Operation           751699000.0       508831000.0      361521000.0      323925000.0
+Total Expenses                                                 8524723000.0      7200335000.0     5298412000.0     4748410000.0
+Diluted Average Shares                                                  NaN       244998000.0      244033780.0      244033986.0
+Basic Average Shares                                                    NaN       244034000.0      244033780.0      244033986.0
+Diluted EPS                                                             NaN              2.08         1.485437         1.396209
+Basic EPS                                                               NaN              2.09         1.485437         1.396209
+Diluted NI Availto Com Stockholders                             751699000.0       508831000.0      361521000.0      323925000.0
+Net Income Common Stockholders                                  751699000.0       508831000.0      361521000.0      323925000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0              0.0              0.0
+Net Income                                                      751699000.0       508831000.0      361521000.0      323925000.0
+Minority Interests                                              -15662000.0       -17049000.0       -6887000.0        3780000.0
+Net Income Including Noncontrolling Interests                   767361000.0       525880000.0      368408000.0      320145000.0
+Net Income Continuous Operations                                767361000.0       525880000.0      368408000.0      320145000.0
+Tax Provision                                                   169977000.0        66316000.0       59827000.0       69275000.0
+Pretax Income                                                   937338000.0       592196000.0      428235000.0      389420000.0
+Other Non Operating Income Expenses                             -33060000.0        44012000.0        6436000.0         704000.0
+Special Income Charges                                          -21358000.0       -10602000.0       -7056000.0      -16338000.0
+Other Special Charges                                             -336000.0               NaN              NaN              NaN
+Write Off                                                        21694000.0        10602000.0        7056000.0       16338000.0
+Net Non Operating Interest Income Expense                       -49422000.0       -24887000.0      -10654000.0       -7496000.0
+Interest Expense Non Operating                                   55360000.0        28912000.0       13897000.0       11167000.0
+Interest Income Non Operating                                     5938000.0         4025000.0        3243000.0        3671000.0
+Operating Income                                                958669000.0       508817000.0      383217000.0      365482000.0
+Operating Expense                                               727207000.0       781347000.0      592984000.0      538754000.0
+Other Operating Expenses                                                NaN               NaN         195000.0         394000.0
+Research And Development                                        123520000.0       125220000.0      100143000.0      110594000.0
+Selling General And Administration                              603687000.0       656127000.0      492841000.0      428160000.0
+Selling And Marketing Expense                                   413003000.0       454330000.0      335803000.0      280993000.0
+General And Administrative Expense                              190684000.0       201797000.0      157038000.0      147167000.0
+Gross Profit                                                   1685876000.0      1290164000.0      976201000.0      904236000.0
+Cost Of Revenue                                                7797516000.0      6418988000.0     4705428000.0     4209656000.0
+Total Revenue                                                  9483392000.0      7709152000.0     5681629000.0     5113892000.0
+Operating Revenue                                              9483392000.0      7709152000.0     5681629000.0     5113892000.0

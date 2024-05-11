@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 138, Lane 513
+address2	Ta-Tung Road Lu-Chu District
+city	Kaohsiung
+zip	82145
+country	Taiwan
+phone	886 7 696 3037
+fax	886 7 696 2666
+website	https://www.gem.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	GEM Terminal Industry Co.,Ltd. manufactures and sells terminals, plug inserts, housing and electronic connectors for AC and DC power cords. It also offers electronic and communication terminals, electric and motor parts terminals, copper smelting, optical communication passive devices, lead frames, terminal crimping affiliated equipment, contour strip precision materials, as well as whistling units for whistling kettles. The company was founded in 1977 and is based in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tun-Jen  Su', 'title': 'GM & Director', 'fiscalYear': 2013, 'totalPay': 1851000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Lin  He', 'title': 'General Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1388448000
+maxAge	86400
+priceHint	2
+previousClose	32.3
+open	31.85
+dayLow	31.5
+dayHigh	32.25
+regularMarketPreviousClose	32.3
+regularMarketOpen	31.85
+regularMarketDayLow	31.5
+regularMarketDayHigh	32.25
+exDividendDate	1661385600	 (2022-08-25 08:00:00)
+fiveYearAvgDividendYield	4.02
+beta	1.013
+forwardPE	31.470587
+volume	518117
+regularMarketVolume	518117
+averageVolume	2868245
+averageVolume10days	606790
+averageDailyVolume10Day	606790
+bid	32.1
+ask	32.15
+marketCap	5325358080
+fiftyTwoWeekLow	19.35
+fiftyTwoWeekHigh	42.45
+priceToSalesTrailing12Months	2.055741
+fiftyDayAverage	34.559
+twoHundredDayAverage	29.6805
+currency	TWD
+enterpriseValue	6247591936
+profitMargins	-0.06695
+sharesOutstanding	165899008
+heldPercentInsiders	0.57313997
+heldPercentInstitutions	0.00226
+impliedSharesOutstanding	167550000
+bookValue	12.694
+priceToBook	2.5287535
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-173438000
+trailingEps	-1.24
+forwardEps	1.02
+lastSplitFactor	1.03:1
+lastSplitDate	1250467200	 (2009-08-17 08:00:00)
+enterpriseToRevenue	2.412
+enterpriseToEbitda	-192.666
+52WeekChange	0.5507246
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1661385600	 (2022-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2460.TW
+underlyingSymbol	2460.TW
+shortName	GEM TERMINAL INDUSTRIAL CO
+longName	GEM Terminal Industry Co.,Ltd.
+firstTradeDateEpochUtc	948330000	 (2000-01-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d03756a8-2bbd-33ee-9bd9-71cdb5ee5edb
+messageBoardId	finmb_9649191
+gmtOffSetMilliseconds	28800000
+currentPrice	32.1
+recommendationKey	none
+totalCash	1117745024
+totalCashPerShare	6.738
+ebitda	-32427000
+totalDebt	2039979008
+quickRatio	0.804
+currentRatio	1.279
+totalRevenue	2590480896
+debtToEquity	96.868
+revenuePerShare	15.615
+returnOnAssets	-0.03286
+returnOnEquity	-0.07849
+freeCashflow	-152970624
+operatingCashflow	109266000
+revenueGrowth	0.148
+grossMargins	0.029289998
+ebitdaMargins	-0.012519999
+operatingMargins	-0.08021
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                   -375632.362893      259600.0    -927863.842718   -101678.60406
+Tax Rate For Calcs                                                  0.368991           0.2          0.365301        0.238682
+Normalized EBITDA                                                  4145000.0   118349000.0       674978000.0     242614000.0
+Total Unusual Items                                               -1018000.0     1298000.0        -2540000.0       -426000.0
+Total Unusual Items Excluding Goodwill                            -1018000.0     1298000.0        -2540000.0       -426000.0
+Net Income From Continuing Operation Net Minority Interest      -173438000.0  -103114000.0       243126000.0     -42496000.0
+Reconciled Depreciation                                          237543000.0   249723000.0       245626000.0     253421000.0
+Reconciled Cost Of Revenue                                      2514614000.0  2780643000.0      3465537000.0    3078080000.0
+EBITDA                                                             3127000.0   119647000.0       672438000.0     242188000.0
+EBIT                                                            -234416000.0  -130076000.0       426812000.0     -11233000.0
+Net Interest Income                                              -23344000.0   -36370000.0       -39728000.0     -39516000.0
+Interest Expense                                                  40442000.0    47721000.0        43755000.0      44586000.0
+Interest Income                                                   17098000.0    11351000.0         4027000.0       5070000.0
+Normalized Income                                          -172795632.362893  -104152400.0  244738136.157282 -42171678.60406
+Net Income From Continuing And Discontinued Operation           -173438000.0  -103114000.0       243126000.0     -42496000.0
+Total Expenses                                                  2856638000.0  3122640000.0      3868703000.0    3420282000.0
+Diluted Average Shares                                                   NaN   165899000.0       166224000.0     168378000.0
+Basic Average Shares                                                     NaN   165899000.0       165899000.0     168378000.0
+Diluted EPS                                                              NaN         -0.62              1.46           -0.25
+Basic EPS                                                                NaN         -0.62              1.47           -0.25
+Diluted NI Availto Com Stockholders                             -173438000.0  -103114000.0       243126000.0     -42496000.0
+Net Income Common Stockholders                                  -173438000.0  -103114000.0       243126000.0     -42496000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0             0.0
+Net Income                                                      -173438000.0  -103114000.0       243126000.0     -42496000.0
+Net Income Including Noncontrolling Interests                   -173438000.0  -103114000.0       243126000.0     -42496000.0
+Net Income Continuous Operations                                -173438000.0  -103114000.0       243126000.0     -42496000.0
+Tax Provision                                                   -101420000.0   -74683000.0       139931000.0     -13323000.0
+Pretax Income                                                   -274858000.0  -177797000.0       383057000.0     -55819000.0
+Other Non Operating Income Expenses                               15661000.0    97945000.0       -21050000.0     -49981000.0
+Special Income Charges                                            -1018000.0     1298000.0        -2540000.0       -426000.0
+Write Off                                                          1018000.0    -1298000.0         2540000.0        426000.0
+Net Non Operating Interest Income Expense                        -23344000.0   -36370000.0       -39728000.0     -39516000.0
+Interest Expense Non Operating                                    40442000.0    47721000.0        43755000.0      44586000.0
+Interest Income Non Operating                                     17098000.0    11351000.0         4027000.0       5070000.0
+Operating Income                                                -266157000.0  -240670000.0       446375000.0      34104000.0
+Operating Expense                                                342024000.0   341997000.0       403166000.0     342202000.0
+Research And Development                                          11864000.0    17184000.0        21189000.0      22360000.0
+Selling General And Administration                               330160000.0   324813000.0       381977000.0     319842000.0
+Selling And Marketing Expense                                    123106000.0   123331000.0       166680000.0     136212000.0
+General And Administrative Expense                               207054000.0   201482000.0       215297000.0     183630000.0
+Gross Profit                                                      75867000.0   101327000.0       849541000.0     376306000.0
+Cost Of Revenue                                                 2514614000.0  2780643000.0      3465537000.0    3078080000.0
+Total Revenue                                                   2590481000.0  2881970000.0      4315078000.0    3454386000.0
+Operating Revenue                                               2590481000.0  2881970000.0      4315078000.0    3454386000.0

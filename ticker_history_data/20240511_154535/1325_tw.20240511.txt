@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 372, Linsen North Road
+address2	10th Floor
+city	Taipei City
+zip	104
+country	Taiwan
+phone	886 2 2511 9161
+fax	886 2 2537 4473
+website	https://www.uk.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Universal Incorporation, together with its subsidiaries, manufactures and sells nonwoven fabrics in the United States, Asia, and Europe. The company offers SMMS and SMS fabrics for use in the hygiene, medical, and industrial markets; spun bond fabrics used in the hygiene, medical, industrial, and agricultural markets; and melt-blown fabrics for use in filtration, insulators, and absorbents. It also provides medical face masks; in-line and post-treatment products; and outsourcing services, such as non-woven and film laminations, ultrasonic bonding, coatings, and printings. Universal Incorporation was founded in 1951 and is based in Taipei City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	27.75
+open	27.8
+dayLow	27.5
+dayHigh	27.9
+regularMarketPreviousClose	27.75
+regularMarketOpen	27.8
+regularMarketDayLow	27.5
+regularMarketDayHigh	27.9
+dividendRate	0.5
+dividendYield	0.018099999
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	2.381
+fiveYearAvgDividendYield	8.23
+beta	0.877
+trailingPE	131.19048
+volume	218312
+regularMarketVolume	218312
+averageVolume	668677
+averageVolume10days	221117
+averageDailyVolume10Day	221117
+bid	27.55
+ask	27.65
+marketCap	2349491456
+fiftyTwoWeekLow	22.1
+fiftyTwoWeekHigh	49.35
+priceToSalesTrailing12Months	5.7903047
+fiftyDayAverage	29.678
+twoHundredDayAverage	29.35
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.021621622
+currency	TWD
+enterpriseValue	860289536
+profitMargins	0.043759998
+sharesOutstanding	85281000
+heldPercentInsiders	0.4619
+heldPercentInstitutions	0.0134000005
+impliedSharesOutstanding	85897904
+bookValue	32.452
+priceToBook	0.8489461
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	17755000
+trailingEps	0.21
+lastSplitFactor	0.85:1
+lastSplitDate	1480032000	 (2016-11-25 08:00:00)
+enterpriseToRevenue	2.12
+enterpriseToEbitda	74.023
+52WeekChange	0.16985142
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1325.TW
+underlyingSymbol	1325.TW
+shortName	UNIVERSAL INC
+longName	Universal Incorporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2ba9b1d3-fa1d-31bf-af09-1c4d8b674781
+messageBoardId	finmb_20683660
+gmtOffSetMilliseconds	28800000
+currentPrice	27.55
+recommendationKey	none
+totalCash	1581643008
+totalCashPerShare	18.546
+ebitda	11622000
+totalDebt	190000
+quickRatio	29.015
+currentRatio	30.683
+totalRevenue	405763008
+debtToEquity	0.007
+revenuePerShare	4.758
+returnOnAssets	-0.01013
+returnOnEquity	0.0044400003
+freeCashflow	44787000
+operatingCashflow	124653000
+revenueGrowth	-0.177
+grossMargins	-0.00092
+ebitdaMargins	0.02864
+operatingMargins	-0.16244
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0           0.0           0.0
+Tax Rate For Calcs                                             0.386545     0.340549      0.287605      0.204169
+Normalized EBITDA                                            81223000.0   82148000.0   452901000.0  2591307000.0
+Net Income From Continuing Operation Net Minority Interest   17755000.0   16580000.0   278378000.0  1974979000.0
+Reconciled Depreciation                                      60429000.0   61623000.0    63368000.0    59859000.0
+Reconciled Cost Of Revenue                                  406138000.0  510294000.0   751250000.0  1350793000.0
+EBITDA                                                       81223000.0   82148000.0   452901000.0  2591307000.0
+EBIT                                                         20794000.0   20525000.0   389533000.0  2531448000.0
+Net Interest Income                                          52400000.0   21260000.0     9076000.0     5647000.0
+Interest Expense                                                28000.0      14000.0       13000.0       35000.0
+Interest Income                                              52428000.0   21274000.0     9089000.0     5682000.0
+Normalized Income                                            17755000.0   16580000.0   278378000.0  1974979000.0
+Net Income From Continuing And Discontinued Operation        17755000.0   16580000.0   278378000.0  1974979000.0
+Total Expenses                                              454223000.0  558990000.0   820938000.0  1532131000.0
+Diluted Average Shares                                              NaN   85342000.0    85807000.0    86187000.0
+Basic Average Shares                                                NaN   85281000.0    85281000.0    85281000.0
+Diluted EPS                                                         NaN         0.19          3.24         22.92
+Basic EPS                                                           NaN         0.19          3.26         23.16
+Diluted NI Availto Com Stockholders                          17755000.0   16580000.0   278378000.0  1974979000.0
+Net Income Common Stockholders                               17755000.0   16580000.0   278378000.0  1974979000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0           0.0           0.0
+Net Income                                                   17755000.0   16580000.0   278378000.0  1974979000.0
+Minority Interests                                            5016000.0    3054000.0      886000.0   -39597000.0
+Net Income Including Noncontrolling Interests                12739000.0   13526000.0   277492000.0  2014576000.0
+Net Income Continuous Operations                             12739000.0   13526000.0   277492000.0  2014576000.0
+Tax Provision                                                 8027000.0    6985000.0   112028000.0   516837000.0
+Pretax Income                                                20766000.0   20511000.0   389520000.0  2531413000.0
+Other Non Operating Income Expenses                          16826000.0    4273000.0    10339000.0     1039000.0
+Net Non Operating Interest Income Expense                    52400000.0   21260000.0     9076000.0     5647000.0
+Interest Expense Non Operating                                  28000.0      14000.0       13000.0       35000.0
+Interest Income Non Operating                                52428000.0   21274000.0     9089000.0     5682000.0
+Operating Income                                            -48460000.0   -5022000.0   370105000.0  2524727000.0
+Operating Expense                                            48085000.0   48696000.0    69688000.0   181338000.0
+Research And Development                                     10337000.0    9369000.0     9873000.0    14607000.0
+Selling General And Administration                           37748000.0   39327000.0    59815000.0   166731000.0
+Selling And Marketing Expense                                11028000.0   13051000.0    19257000.0    29146000.0
+General And Administrative Expense                           26720000.0   26276000.0    40558000.0   137585000.0
+Gross Profit                                                  -375000.0   43674000.0   439793000.0  2706065000.0
+Cost Of Revenue                                             406138000.0  510294000.0   751250000.0  1350793000.0
+Total Revenue                                               405763000.0  553968000.0  1191043000.0  4056858000.0
+Operating Revenue                                           405763000.0  553968000.0  1191043000.0  4056858000.0

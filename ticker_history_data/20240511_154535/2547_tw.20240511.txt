@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 209, Civic Boulevard
+address2	14th Floor Section 1 Datong District
+city	Taipei City
+zip	103
+country	Taiwan
+phone	886 2 7733 8888
+fax	886 2 2555 3900
+website	https://www.radium.com.tw
+industry	Real Estate - Diversified
+industryKey	real-estate-diversified
+industryDisp	Real Estate - Diversified
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Radium Life Tech. Co., Ltd. develops, sells, manages, and leases public housing, commercial building, and industrial zone projects in Taiwan. It operates through Construction, Leasing, Shopping Mall Business, Sewage Treatment, and Others segments. The company also engages in the operation of transit stations, hotels, and shopping malls; civil construction business; investment business; manufacture of biotechnology and cosmetic products; and provides energy technical services, and business and corporate management consulting services. In addition, it offers property management services and resource recycling businesses. The company was founded in 1980 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Rong Shian  Lin', 'title': 'CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hua Chun  Lin', 'title': 'Vice Chairman, Vice CEO, Group President & Unified Procurement Center President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yao Kai  Liu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tina  Chen', 'title': 'VP of Finance Division & Corporate Governance Officer and Finance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kerwin  Go', 'title': 'Group President, Operation & Management Center President and Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rita  Liu', 'title': 'Associate Vice President of Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Henry  Tsao', 'title': 'Vice President of Administration & Management Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Chen', 'title': 'Associate Vice President of Investor & Public Relations Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia Hui  Lee', 'title': 'Associate Vice President of Legal Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chug Chun  Liu', 'title': 'Head of Environmental Engineering Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	11.25
+open	11.3
+dayLow	11.15
+dayHigh	11.4
+regularMarketPreviousClose	11.25
+regularMarketOpen	11.3
+regularMarketDayLow	11.15
+regularMarketDayHigh	11.4
+exDividendDate	1660003200	 (2022-08-09 08:00:00)
+beta	0.451
+volume	4438339
+regularMarketVolume	4438339
+averageVolume	8306610
+averageVolume10days	14373371
+averageDailyVolume10Day	14373371
+bid	11.2
+ask	11.25
+marketCap	10744818688
+fiftyTwoWeekLow	8.499435
+fiftyTwoWeekHigh	13.3
+priceToSalesTrailing12Months	1.4362189
+fiftyDayAverage	10.4078
+twoHundredDayAverage	9.480251
+currency	TWD
+enterpriseValue	48835674112
+profitMargins	-0.01237
+floatShares	500228396
+sharesOutstanding	955094976
+heldPercentInsiders	0.46126
+heldPercentInstitutions	0.05307
+impliedSharesOutstanding	955094976
+bookValue	12.26
+priceToBook	0.9176183
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.119
+netIncomeToCommon	-92525000
+trailingEps	-0.11
+lastSplitFactor	1020:1000
+lastSplitDate	1565222400	 (2019-08-08 08:00:00)
+enterpriseToRevenue	6.528
+enterpriseToEbitda	24.728
+52WeekChange	0.23143947
+SandP52WeekChange	0.26265144
+lastDividendValue	0.198817
+lastDividendDate	1660003200	 (2022-08-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2547.TW
+underlyingSymbol	2547.TW
+shortName	RADIUM LIFE TECH CO
+longName	Radium Life Tech. Co., Ltd.
+firstTradeDateEpochUtc	977878800	 (2000-12-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9ef54fea-e33a-3967-a22f-004f24e674fd
+messageBoardId	finmb_9858033
+gmtOffSetMilliseconds	28800000
+currentPrice	11.25
+recommendationKey	none
+totalCash	2986934016
+totalCashPerShare	3.394
+ebitda	1974898944
+totalDebt	40935129088
+quickRatio	0.218
+currentRatio	0.811
+totalRevenue	7481324032
+debtToEquity	347.601
+revenuePerShare	8.501
+returnOnAssets	0.0113699995
+returnOnEquity	-0.00141
+freeCashflow	-13673875
+operatingCashflow	-1643232000
+earningsGrowth	1.359
+revenueGrowth	0.567
+grossMargins	0.40416
+ebitdaMargins	0.26398
+operatingMargins	0.14771
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -652200.0     -528200.0      -75400.0    -361860.367511
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.33382
+Normalized EBITDA                                           2226138000.0  2138003000.0  2076472000.0      2825678000.0
+Total Unusual Items                                           -3261000.0    -2641000.0     -377000.0        -1084000.0
+Total Unusual Items Excluding Goodwill                        -3261000.0    -2641000.0     -377000.0        -1084000.0
+Net Income From Continuing Operation Net Minority Interest   -92525000.0    74309000.0    60343000.0       622688000.0
+Reconciled Depreciation                                     1049946000.0  1041676000.0  1037591000.0      1057709000.0
+Reconciled Cost Of Revenue                                  4457659000.0  2952593000.0  4100370000.0      4063448000.0
+EBITDA                                                      2222877000.0  2135362000.0  2076095000.0      2824594000.0
+EBIT                                                        1172931000.0  1093686000.0  1038504000.0      1766885000.0
+Net Interest Income                                         -872643000.0  -752085000.0  -751377000.0      -256499000.0
+Interest Expense                                             906074000.0   763890000.0   758573000.0       765227000.0
+Interest Income                                               33431000.0    11805000.0     7196000.0       508728000.0
+Normalized Income                                            -89916200.0    76421800.0    60644600.0  623410139.632489
+Net Income From Continuing And Discontinued Operation        -92525000.0    74309000.0    60343000.0       622688000.0
+Total Expenses                                              6407334000.0  4845316000.0  6043154000.0      6318748000.0
+Diluted Average Shares                                               NaN   886388122.0   905691281.0       909466608.0
+Basic Average Shares                                                 NaN   886160777.0   905418669.0       908723212.0
+Diluted EPS                                                          NaN      0.079527      0.069586          0.685919
+Basic EPS                                                            NaN      0.079527      0.069586          0.685919
+Diluted NI Availto Com Stockholders                          -92525000.0    74309000.0    60343000.0       622688000.0
+Net Income Common Stockholders                               -92525000.0    74309000.0    60343000.0       622688000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                   -92525000.0    74309000.0    60343000.0       622688000.0
+Minority Interests                                           -75944000.0   -27253000.0    -2707000.0       -44597000.0
+Net Income Including Noncontrolling Interests                -16581000.0   101562000.0    63050000.0       667285000.0
+Net Income Continuous Operations                             -16581000.0   101562000.0    63050000.0       667285000.0
+Tax Provision                                                283438000.0   228234000.0   216881000.0       334373000.0
+Pretax Income                                                266857000.0   329796000.0   279931000.0      1001658000.0
+Other Non Operating Income Expenses                           70317000.0    65422000.0   201754000.0       802095000.0
+Special Income Charges                                        -3261000.0    -2641000.0     -377000.0        -1084000.0
+Write Off                                                      3261000.0     2641000.0      377000.0         1084000.0
+Net Non Operating Interest Income Expense                   -872643000.0  -752085000.0  -751377000.0      -256499000.0
+Interest Expense Non Operating                               906074000.0   763890000.0   758573000.0       765227000.0
+Interest Income Non Operating                                 33431000.0    11805000.0     7196000.0       508728000.0
+Operating Income                                            1073990000.0  1017067000.0   826717000.0       453584000.0
+Operating Expense                                           1949675000.0  1892723000.0  1942784000.0      2255300000.0
+Research And Development                                       2746000.0     2856000.0     2512000.0         9509000.0
+Selling General And Administration                          1946929000.0  1889867000.0  1940272000.0      2245791000.0
+Selling And Marketing Expense                                481173000.0   491731000.0   573471000.0       689473000.0
+General And Administrative Expense                          1465756000.0  1398136000.0  1366801000.0      1556318000.0
+Gross Profit                                                3023665000.0  2909790000.0  2769501000.0      2708884000.0
+Cost Of Revenue                                             4457659000.0  2952593000.0  4100370000.0      4063448000.0
+Total Revenue                                               7481324000.0  5862383000.0  6869871000.0      6772332000.0
+Operating Revenue                                           7481324000.0  5862383000.0  6869871000.0      6772332000.0

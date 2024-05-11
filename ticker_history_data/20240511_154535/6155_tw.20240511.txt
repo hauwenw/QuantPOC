@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 269, Nanfeng Road
+address2	Pingzhen District
+city	Taoyuan City
+zip	324
+country	Taiwan
+phone	886-3-469-8855
+fax	886-3-469-1395
+website	https://www.kingcore.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	King Core Electronics Inc. manufactures and sells EMI, power, and RF application products worldwide. The company offers ferrite cores; chokes, precision coils; SMD ferrite chip beads/inductors; bead arrays for EMI/EMC applications; and SMD ceramic chip inductors/filters for RF design. It provides multilayer and wound chip beads; wound, multilayer, and ceramic chip inductors; balun filters; DIP and SMD common mode chokes; EMI suppression and wide band choke cores; EMI/RFI ferrite sheets; shielded, unshielded, molded, and DIP power chokes; SAMPLES kit/folders; and other types of cores. The company sells its products to manufacturers of desktops, laptops, tablet PCs, mobile devices, LCD monitors/TVs, digital cameras, LED lighting products, power supply products, set-top-boxes, wide-bands or wireless telecommunication devices, USB and HDMI devices, RF applications, and others. King Core Electronics, Inc. was founded in 1986 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mei-Ling  Yeh', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	26.95
+open	27.05
+dayLow	26.95
+dayHigh	27.4
+regularMarketPreviousClose	26.95
+regularMarketOpen	27.05
+regularMarketDayLow	26.95
+regularMarketDayHigh	27.4
+dividendRate	1.5
+dividendYield	0.0556
+exDividendDate	1691539200	 (2023-08-09 08:00:00)
+payoutRatio	1.6128999
+fiveYearAvgDividendYield	4.03
+trailingPE	29.032257
+forwardPE	21.95122
+volume	46351
+regularMarketVolume	46351
+averageVolume	204162
+averageVolume10days	183214
+averageDailyVolume10Day	183214
+bid	26.95
+ask	27.0
+marketCap	2366253056
+fiftyTwoWeekLow	22.85
+fiftyTwoWeekHigh	30.6
+priceToSalesTrailing12Months	4.548886
+fiftyDayAverage	26.506
+twoHundredDayAverage	26.685
+trailingAnnualDividendRate	0.85
+trailingAnnualDividendYield	0.031539887
+currency	TWD
+enterpriseValue	1899975296
+profitMargins	0.15779
+sharesOutstanding	87639000
+heldPercentInsiders	0.46952
+heldPercentInstitutions	0.00155
+impliedSharesOutstanding	87962400
+bookValue	17.409
+priceToBook	1.5509219
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.359
+netIncomeToCommon	82080000
+trailingEps	0.93
+forwardEps	1.23
+lastSplitFactor	1005:1000
+lastSplitDate	1466553600	 (2016-06-22 08:00:00)
+enterpriseToRevenue	3.653
+enterpriseToEbitda	113.682
+52WeekChange	0.08000004
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1691539200	 (2023-08-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6155.TW
+underlyingSymbol	6155.TW
+shortName	KINGCORE ELECTRONICS INC
+longName	King Core Electronics Inc.
+firstTradeDateEpochUtc	1155862800	 (2006-08-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	81ba9655-5486-3f7f-a9af-31a3250d0eec
+messageBoardId	finmb_9844027
+gmtOffSetMilliseconds	28800000
+currentPrice	27.0
+recommendationKey	none
+totalCash	1023897984
+totalCashPerShare	11.512
+ebitda	16713000
+totalDebt	522353984
+quickRatio	1.904
+currentRatio	2.209
+totalRevenue	520183008
+debtToEquity	33.735
+revenuePerShare	5.928
+returnOnAssets	-0.0031
+returnOnEquity	0.05274
+freeCashflow	435149632
+operatingCashflow	87869000
+earningsGrowth	0.348
+revenueGrowth	-0.167
+grossMargins	0.19895001
+ebitdaMargins	0.03213
+operatingMargins	-0.06785
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31   2022-12-31       2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   139479.390406          0.0     -8510.016423          0.0
+Tax Rate For Calcs                                                 0.149978     0.183486         0.250295     0.151548
+Normalized EBITDA                                               124199000.0  278057000.0      152515000.0   84781000.0
+Total Unusual Items                                                930000.0          0.0         -34000.0          0.0
+Total Unusual Items Excluding Goodwill                             930000.0          0.0         -34000.0          0.0
+Net Income From Continuing Operation Net Minority Interest       74796000.0  190616000.0       80798000.0   34073000.0
+Reconciled Depreciation                                          29653000.0   36914000.0       36800000.0   38667000.0
+Reconciled Cost Of Revenue                                      427646000.0  565133000.0      548899000.0  452749000.0
+EBITDA                                                          125129000.0  278057000.0      152481000.0   84781000.0
+EBIT                                                             95476000.0  241143000.0      115681000.0   46114000.0
+Net Interest Income                                              27661000.0    7504000.0       -2073000.0    7218000.0
+Interest Expense                                                  7483000.0    7692000.0        7908000.0    5955000.0
+Interest Income                                                  35144000.0   15196000.0        5835000.0   13173000.0
+Normalized Income                                           74005479.390406  190616000.0  80823489.983577   34073000.0
+Net Income From Continuing And Discontinued Operation            74796000.0  190616000.0       80798000.0   34073000.0
+Total Expenses                                                  538471000.0  700030000.0      671884000.0  564246000.0
+Diluted Average Shares                                           87815000.0   87659000.0       87139000.0   86919000.0
+Basic Average Shares                                             87572000.0   87116000.0       86910000.0   86817000.0
+Diluted EPS                                                            0.85         2.17             0.93         0.39
+Basic EPS                                                              0.85         2.19             0.93         0.39
+Diluted NI Availto Com Stockholders                              74796000.0  190616000.0       80798000.0   34073000.0
+Net Income Common Stockholders                                   74796000.0  190616000.0       80798000.0   34073000.0
+Otherunder Preferred Stock Dividend                                     0.0          0.0              0.0          0.0
+Net Income                                                       74796000.0  190616000.0       80798000.0   34073000.0
+Minority Interests                                                      0.0          0.0              0.0          0.0
+Net Income Including Noncontrolling Interests                    74796000.0  190616000.0       80798000.0   34073000.0
+Net Income Continuous Operations                                 74796000.0  190616000.0       80798000.0   34073000.0
+Tax Provision                                                    13197000.0   42835000.0       26975000.0    6086000.0
+Pretax Income                                                    87993000.0  233451000.0      107773000.0   40159000.0
+Other Non Operating Income Expenses                              48884000.0  137147000.0      -15873000.0  -18762000.0
+Special Income Charges                                             930000.0          0.0         -34000.0          0.0
+Write Off                                                         -930000.0          0.0          34000.0          0.0
+Net Non Operating Interest Income Expense                        27661000.0    7504000.0       -2073000.0    7218000.0
+Interest Expense Non Operating                                    7483000.0    7692000.0        7908000.0    5955000.0
+Interest Income Non Operating                                    35144000.0   15196000.0        5835000.0   13173000.0
+Operating Income                                                  6131000.0   70117000.0      127682000.0   42494000.0
+Operating Expense                                               110825000.0  134897000.0      122985000.0  111497000.0
+Research And Development                                         13781000.0   14320000.0       15187000.0   15667000.0
+Selling General And Administration                               97044000.0  120577000.0      107798000.0   95830000.0
+Selling And Marketing Expense                                    40106000.0   52224000.0       50590000.0   43412000.0
+General And Administrative Expense                               56938000.0   68353000.0       57208000.0   52418000.0
+Gross Profit                                                    116956000.0  205014000.0      250667000.0  153991000.0
+Cost Of Revenue                                                 427646000.0  565133000.0      548899000.0  452749000.0
+Total Revenue                                                   544602000.0  770147000.0      799566000.0  606740000.0
+Operating Revenue                                               544602000.0  770147000.0      799566000.0  606740000.0

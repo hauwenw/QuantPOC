@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 2-1, Minquan East Road
+address2	12th Floor Section 3, Zhongshan District
+city	Taipei
+zip	10477
+country	Taiwan
+phone	886 2 2509 1199
+fax	886 2 2517 1100
+website	https://www.mayer.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Mayer Steel Pipe Corporation processes and sells steel pipes, plates, and other metal products in Taiwan. It offers black and zinc-coated welded steel pipes for low pressure use; carbon steel pipes for general structures and machine structures; and electrical metallic tubing. The company also provides stainless steel pipes; and tubes for boiler and heat exchanger, mechanical structure, and automobile exhausts. In addition, it offers stainless steel plates, sheets, protective films, cutting, and surface treatment products. Its products are also used in air conditioning, fire protection, drainage, water supply, and electricity, as well as gas, structural, and hydraulic pipe applications. The company is also involved in various investment, property development, trade, and hotel businesses. Mayer Steel Pipe Corporation was founded in 1959 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chen-Chang  Huang', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 6315000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lung-Chi  Wu', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 6112000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Chi  Huang', 'age': 55, 'title': 'CFO & Assistant Manager', 'yearBorn': 1968, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui-Wen  Li', 'title': 'Chief Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. -  Gaojiabu', 'title': 'Chief Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	40.05
+open	40.1
+dayLow	38.9
+dayHigh	40.15
+regularMarketPreviousClose	40.05
+regularMarketOpen	40.1
+regularMarketDayLow	38.9
+regularMarketDayHigh	40.15
+dividendRate	2.0
+dividendYield	0.0505
+exDividendDate	1718150400	 (2024-06-12 08:00:00)
+payoutRatio	0.2083
+fiveYearAvgDividendYield	8.14
+beta	0.595
+trailingPE	8.249999
+forwardPE	29.117645
+volume	3366197
+regularMarketVolume	3366197
+averageVolume	2105313
+averageVolume10days	2012240
+averageDailyVolume10Day	2012240
+bid	39.6
+ask	39.65
+marketCap	8812028928
+fiftyTwoWeekLow	22.9
+fiftyTwoWeekHigh	41.25
+priceToSalesTrailing12Months	1.2571664
+fiftyDayAverage	38.134
+twoHundredDayAverage	31.83975
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.04993758
+currency	TWD
+enterpriseValue	9795204096
+profitMargins	0.15234
+floatShares	185321878
+sharesOutstanding	222526000
+heldPercentInsiders	0.47092
+heldPercentInstitutions	0.01263
+impliedSharesOutstanding	222526000
+bookValue	18.276
+priceToBook	2.1667762
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	5.265
+netIncomeToCommon	1067784000
+trailingEps	4.8
+forwardEps	1.36
+lastSplitFactor	1.08:1
+lastSplitDate	1313452800	 (2011-08-16 08:00:00)
+enterpriseToRevenue	1.397
+enterpriseToEbitda	16.248
+52WeekChange	0.69593143
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1718150400	 (2024-06-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2020.TW
+underlyingSymbol	2020.TW
+shortName	MAYER STEEL PIPE CORP
+longName	Mayer Steel Pipe Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	609045b6-7e9d-39cc-ba9c-8db4bc144c4f
+messageBoardId	finmb_9870789
+gmtOffSetMilliseconds	28800000
+currentPrice	39.6
+recommendationKey	none
+totalCash	1264567040
+totalCashPerShare	5.683
+ebitda	602867968
+totalDebt	2242341888
+quickRatio	0.726
+currentRatio	1.786
+totalRevenue	7009437184
+debtToEquity	55.062
+revenuePerShare	31.499
+returnOnAssets	0.04364
+returnOnEquity	0.29388002
+freeCashflow	517213504
+operatingCashflow	1500099968
+earningsGrowth	5.265
+revenueGrowth	-0.138
+grossMargins	0.11988
+ebitdaMargins	0.08601
+operatingMargins	0.070300005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    3515728.28386   13490148.971946   -3988459.544193    2489903.238393
+Tax Rate For Calcs                                                  0.190896          0.213452           0.14089          0.120617
+Normalized EBITDA                                               1513803000.0       490480000.0      1138037000.0       619863000.0
+Total Unusual Items                                               18417000.0        63200000.0       -28309000.0        20643000.0
+Total Unusual Items Excluding Goodwill                            18417000.0        63200000.0       -28309000.0        20643000.0
+Net Income From Continuing Operation Net Minority Interest      1067784000.0       266632000.0       782909000.0       392624000.0
+Reconciled Depreciation                                          148194000.0       157945000.0       154228000.0       145912000.0
+Reconciled Cost Of Revenue                                      6169153000.0      6199928000.0      5700901000.0      4583199000.0
+EBITDA                                                          1532220000.0       553680000.0      1109728000.0       640506000.0
+EBIT                                                            1384026000.0       395735000.0       955500000.0       494594000.0
+Net Interest Income                                              -30457000.0        16320000.0       -32085000.0       -29514000.0
+Interest Expense                                                  62106000.0        56745000.0        49326000.0        48663000.0
+Interest Income                                                   31649000.0        73065000.0        17241000.0        19149000.0
+Normalized Income                                           1052882728.28386  216922148.971946  807229540.455807  374470903.238393
+Net Income From Continuing And Discontinued Operation           1067784000.0       266632000.0       782909000.0       392624000.0
+Total Expenses                                                  6503410000.0      6454656000.0      6005628000.0      4825807000.0
+Diluted Average Shares                                                   NaN       222526000.0       222526000.0       222526000.0
+Basic Average Shares                                                     NaN       222526000.0       222526000.0       222526000.0
+Diluted EPS                                                              NaN               1.2              3.52              1.76
+Basic EPS                                                                NaN               1.2              3.52              1.76
+Diluted NI Availto Com Stockholders                             1067784000.0       266632000.0       782909000.0       392624000.0
+Net Income Common Stockholders                                  1067784000.0       266632000.0       782909000.0       392624000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                      1067784000.0       266632000.0       782909000.0       392624000.0
+Minority Interests                                                -1787000.0               0.0         4406000.0          480000.0
+Net Income Including Noncontrolling Interests                   1069571000.0       266632000.0       778503000.0       392144000.0
+Net Income Continuous Operations                                1069571000.0       266632000.0       778503000.0       392144000.0
+Tax Provision                                                    252349000.0        72358000.0       127671000.0        53787000.0
+Pretax Income                                                   1321920000.0       338990000.0       906174000.0       445931000.0
+Other Non Operating Income Expenses                              730838000.0       -12252000.0       288973000.0       125700000.0
+Special Income Charges                                            18417000.0        63200000.0       -28309000.0        20643000.0
+Other Special Charges                                             -2337000.0        -2039000.0        -1143000.0         -980000.0
+Write Off                                                        -16080000.0       -61161000.0        29452000.0       -19663000.0
+Net Non Operating Interest Income Expense                        -30457000.0        16320000.0       -32085000.0       -29514000.0
+Interest Expense Non Operating                                    62106000.0        56745000.0        49326000.0        48663000.0
+Interest Income Non Operating                                     31649000.0        73065000.0        17241000.0        19149000.0
+Operating Income                                                 506027000.0       169689000.0       552990000.0       247960000.0
+Operating Expense                                                334257000.0       254728000.0       304727000.0       242608000.0
+Other Operating Expenses                                                 NaN               NaN          897000.0          163000.0
+Selling General And Administration                               334257000.0       254728000.0       304727000.0       242608000.0
+Selling And Marketing Expense                                    123269000.0        97051000.0       103017000.0        88098000.0
+General And Administrative Expense                               210988000.0       157677000.0       201710000.0       154510000.0
+Gross Profit                                                     840284000.0       424417000.0       857717000.0       490568000.0
+Cost Of Revenue                                                 6169153000.0      6199928000.0      5700901000.0      4583199000.0
+Total Revenue                                                   7009437000.0      6624345000.0      6558618000.0      5073767000.0
+Operating Revenue                                               7009437000.0      6624345000.0      6558618000.0      5073767000.0

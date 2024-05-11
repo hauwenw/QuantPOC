@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 1, Ziqiang Street
+address2	1st Floor Lane 15 Tucheng District
+city	New Taipei City
+zip	236
+country	Taiwan
+phone	886 2 2268 7075
+fax	886 2 2268 6327
+website	https://uicpayworld.com
+industry	Business Equipment & Supplies
+industryKey	business-equipment-supplies
+industryDisp	Business Equipment & Supplies
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Uniform Industrial Corporation provides various payment solutions in Asia, the Americas, Europe, Oceania, and internationally. The company engages in the manufacture, processing, and sale of various card readers, check readers, point-of-sale terminals, pin-pad payment devices, and encrypted keypad readers. It also offers unattended terminals, mobile and countertop payment devices, and payment card readers, as well as video conference systems; and develops computers. The company serves energy supply, self-service, retail, and OEM/ODM manufacturing industries. Uniform Industrial Corporation was incorporated in 1983 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ba  Luo', 'title': 'Chairman, CEO & GM', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	28.5
+open	29.55
+dayLow	29.35
+dayHigh	31.35
+regularMarketPreviousClose	28.5
+regularMarketOpen	29.55
+regularMarketDayLow	29.35
+regularMarketDayHigh	31.35
+dividendRate	1.5
+dividendYield	0.0478
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	0.7564
+fiveYearAvgDividendYield	4.08
+beta	0.669
+trailingPE	15.833333
+volume	3501363
+regularMarketVolume	3501363
+averageVolume	699703
+averageVolume10days	549848
+averageDailyVolume10Day	549848
+bid	31.35
+ask	31.35
+marketCap	2441632000
+fiftyTwoWeekLow	28.0
+fiftyTwoWeekHigh	79.8
+priceToSalesTrailing12Months	1.6950634
+fiftyDayAverage	32.381
+twoHundredDayAverage	39.86925
+currency	TWD
+enterpriseValue	1736592000
+profitMargins	0.12967
+sharesOutstanding	77883000
+heldPercentInsiders	0.38019
+heldPercentInstitutions	0.00556
+impliedSharesOutstanding	78687296
+bookValue	17.187
+priceToBook	1.824053
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	186784992
+trailingEps	1.98
+lastSplitFactor	105.079:100
+lastSplitDate	1220486400	 (2008-09-04 08:00:00)
+enterpriseToRevenue	1.206
+enterpriseToEbitda	7.294
+52WeekChange	-0.5070754
+SandP52WeekChange	0.26265144
+lastDividendValue	1.497716
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2482.TW
+underlyingSymbol	2482.TW
+shortName	UNIFORM INDUSTRIAL
+longName	Uniform Industrial Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	794707a6-1743-395a-a56d-ef6d4c7b13ce
+messageBoardId	finmb_9794080
+gmtOffSetMilliseconds	28800000
+currentPrice	31.35
+recommendationKey	none
+totalCash	736755968
+totalCashPerShare	9.46
+ebitda	238100992
+totalDebt	31721000
+quickRatio	2.575
+currentRatio	3.758
+totalRevenue	1440436992
+debtToEquity	2.37
+revenuePerShare	18.503
+returnOnAssets	0.08723
+returnOnEquity	0.15009
+freeCashflow	214144624
+operatingCashflow	290028992
+revenueGrowth	-0.473
+grossMargins	0.42664
+ebitdaMargins	0.16530001
+operatingMargins	0.07362
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31      2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -3266187.61575    -934933.149252  -160659.270998     15876.333781
+Tax Rate For Calcs                                                 0.236389          0.239358        0.260811         0.016836
+Normalized EBITDA                                               283555000.0       319871000.0      43674000.0        7259000.0
+Total Unusual Items                                             -13817000.0        -3906000.0       -616000.0         943000.0
+Total Unusual Items Excluding Goodwill                          -13817000.0        -3906000.0       -616000.0         943000.0
+Net Income From Continuing Operation Net Minority Interest      186785000.0       219838000.0       6559000.0      -30740000.0
+Reconciled Depreciation                                          23746000.0        24518000.0      30180000.0       35846000.0
+Reconciled Cost Of Revenue                                      825890000.0       730914000.0     522947000.0      497424000.0
+EBITDA                                                          269738000.0       315965000.0      43058000.0        8202000.0
+EBIT                                                            245992000.0       291447000.0      12878000.0      -27644000.0
+Net Interest Income                                              14218000.0           62000.0      -3552000.0       -1239000.0
+Interest Expense                                                  1391000.0         2445000.0       4044000.0        3658000.0
+Interest Income                                                  15609000.0         2507000.0        492000.0        2419000.0
+Normalized Income                                           197335812.38425  222809066.850748  7014340.729002 -31667123.666219
+Net Income From Continuing And Discontinued Operation           186785000.0       219838000.0       6559000.0      -30740000.0
+Total Expenses                                                 1202292000.0      1052513000.0     826817000.0      842648000.0
+Diluted Average Shares                                           78314000.0        74677000.0      64323000.0       62073000.0
+Basic Average Shares                                             77848000.0        73711000.0      62367000.0       62073000.0
+Diluted EPS                                                            2.39              2.95             0.1             -0.5
+Basic EPS                                                               2.4              2.98            0.11             -0.5
+Diluted NI Availto Com Stockholders                             186785000.0       219838000.0       6559000.0      -30740000.0
+Net Income Common Stockholders                                  186785000.0       219838000.0       6559000.0      -30740000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0             0.0              0.0
+Net Income                                                      186785000.0       219838000.0       6559000.0      -30740000.0
+Minority Interests                                                   5000.0           11000.0         29000.0          35000.0
+Net Income Including Noncontrolling Interests                   186780000.0       219827000.0       6530000.0      -30775000.0
+Net Income Continuous Operations                                186780000.0       219827000.0       6530000.0      -30775000.0
+Tax Provision                                                    57821000.0        69175000.0       2304000.0        -527000.0
+Pretax Income                                                   244601000.0       289002000.0       8834000.0      -31302000.0
+Other Non Operating Income Expenses                               6055000.0        87624000.0      12614000.0       -4016000.0
+Special Income Charges                                          -13817000.0        -3906000.0       -616000.0         943000.0
+Write Off                                                        13817000.0         3906000.0        616000.0        -943000.0
+Net Non Operating Interest Income Expense                        14218000.0           62000.0      -3552000.0       -1239000.0
+Interest Expense Non Operating                                    1391000.0         2445000.0       4044000.0        3658000.0
+Interest Income Non Operating                                    15609000.0         2507000.0        492000.0        2419000.0
+Operating Income                                                238145000.0       205222000.0        388000.0      -26990000.0
+Operating Expense                                               376402000.0       321599000.0     303870000.0      345224000.0
+Research And Development                                         89548000.0        76902000.0     101208000.0      149047000.0
+Selling General And Administration                              286854000.0       244697000.0     202662000.0      196177000.0
+Selling And Marketing Expense                                   116752000.0       105073000.0      88972000.0       84913000.0
+General And Administrative Expense                              170102000.0       139624000.0     113690000.0      111264000.0
+Gross Profit                                                    614547000.0       526821000.0     304258000.0      318234000.0
+Cost Of Revenue                                                 825890000.0       730914000.0     522947000.0      497424000.0
+Total Revenue                                                  1440437000.0      1257735000.0     827205000.0      815658000.0
+Operating Revenue                                              1440437000.0      1257735000.0     827205000.0      815658000.0

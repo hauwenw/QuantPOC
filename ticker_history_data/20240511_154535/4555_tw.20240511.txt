@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 21, Guifeng St.
+address2	Taishan Dist.
+city	New Taipei City
+zip	243092
+country	Taiwan
+phone	886 2 2904 1235
+fax	886 2 2904 1706
+website	https://www.chelic.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	TAIWAN CHELIC Co., Ltd. engages in the manufacture and sale of pneumatic and electric actuator automation components in Taiwan and internationally. The company offers air source units; control valves; miniature, standard, stopper, dual rod, compact, slide table, guide, rod less, clamp, and rotary cylinders; grippers; electro-pneumatic regulators, digital flow switches, and electric cylinders; vacuum equipment; and fitting/auxiliary equipment. It also offers accessories, including shock absorbers, float joints, manually operated valves, silencers, pu tubes, sensor and pressure switches, and rotary joints; and swivel modules. The company's products are used in production facilities, inspection machines, packing machines, forming machines, repairmen equipment, and factory automation applications. The company was founded in 1986 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Barton  Yu', 'title': 'President & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yingshan  Lin', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	64.6
+open	65.6
+dayLow	64.6
+dayHigh	65.6
+regularMarketPreviousClose	64.6
+regularMarketOpen	65.6
+regularMarketDayLow	64.6
+regularMarketDayHigh	65.6
+dividendRate	1.52
+dividendYield	0.0234
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	10.153
+fiveYearAvgDividendYield	2.74
+beta	0.196
+forwardPE	22.842106
+volume	5278
+regularMarketVolume	5278
+averageVolume	46032
+averageVolume10days	17000
+averageDailyVolume10Day	17000
+bid	64.3
+ask	64.8
+marketCap	4512289280
+fiftyTwoWeekLow	47.9
+fiftyTwoWeekHigh	69.0
+priceToSalesTrailing12Months	3.2763515
+fiftyDayAverage	63.576
+twoHundredDayAverage	58.635
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.0077399383
+currency	TWD
+enterpriseValue	5158474240
+profitMargins	-0.02538
+sharesOutstanding	69313200
+heldPercentInsiders	0.89594
+heldPercentInstitutions	0.00068000006
+impliedSharesOutstanding	69313200
+bookValue	40.312
+priceToBook	1.6149037
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-34955000
+trailingEps	-0.64
+forwardEps	2.85
+enterpriseToRevenue	3.746
+enterpriseToEbitda	36.872
+52WeekChange	0.34782612
+SandP52WeekChange	0.26265144
+lastDividendValue	1.522946
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4555.TW
+underlyingSymbol	4555.TW
+shortName	TAIWAN CHELIC CORP LTD
+longName	TAIWAN CHELIC Co., Ltd.
+firstTradeDateEpochUtc	1411002000	 (2014-09-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f48ad73f-3fc1-3cb7-908c-9ef4d9dba7c3
+messageBoardId	finmb_269210374
+gmtOffSetMilliseconds	28800000
+currentPrice	65.1
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	740489024
+totalCashPerShare	10.683
+ebitda	139903008
+totalDebt	1299379968
+quickRatio	2.023
+currentRatio	3.757
+totalRevenue	1377229952
+debtToEquity	45.095
+revenuePerShare	20.0
+returnOnAssets	-0.0029199999
+returnOnEquity	-0.0114400005
+freeCashflow	267893744
+operatingCashflow	375161984
+revenueGrowth	-0.108
+grossMargins	0.27074
+ebitdaMargins	0.10158
+operatingMargins	-0.04488
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     499400.0     125768.906786     801750.651088   -1938358.837676
+Tax Rate For Calcs                                                   0.2          0.089452           0.15736          0.194341
+Normalized EBITDA                                            174253000.0       399416000.0       469647000.0       359682000.0
+Total Unusual Items                                            2497000.0         1406000.0         5095000.0        -9974000.0
+Total Unusual Items Excluding Goodwill                         2497000.0         1406000.0         5095000.0        -9974000.0
+Net Income From Continuing Operation Net Minority Interest   -34955000.0       171637000.0       234098000.0       136638000.0
+Reconciled Depreciation                                      174744000.0       180749000.0       163442000.0       151864000.0
+Reconciled Cost Of Revenue                                  1004354000.0      1184901000.0      1307984000.0      1039214000.0
+EBITDA                                                       176750000.0       400822000.0       474742000.0       349708000.0
+EBIT                                                           2006000.0       220073000.0       311300000.0       197844000.0
+Net Interest Income                                          -21489000.0       -15998000.0       -14756000.0       -17136000.0
+Interest Expense                                              27813000.0        19920000.0        18329000.0        21129000.0
+Interest Income                                                6324000.0         3922000.0         3573000.0         3993000.0
+Normalized Income                                            -36952600.0  170356768.906786  229804750.651088  144673641.162324
+Net Income From Continuing And Discontinued Operation        -34955000.0       171637000.0       234098000.0       136638000.0
+Total Expenses                                              1400836000.0      1610366000.0      1731824000.0      1407664000.0
+Diluted Average Shares                                               NaN        81661000.0        81335000.0        81704000.0
+Basic Average Shares                                                 NaN        67202000.0        66936000.0        66880000.0
+Diluted EPS                                                          NaN              2.18              2.96              1.69
+Basic EPS                                                            NaN              2.55               3.5              2.04
+Diluted NI Availto Com Stockholders                          -34955000.0       171637000.0       234098000.0       136638000.0
+Net Income Common Stockholders                               -34955000.0       171637000.0       234098000.0       136638000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0               0.0
+Net Income                                                   -34955000.0       171637000.0       234098000.0       136638000.0
+Minority Interests                                            -1282000.0       -10612000.0       -12771000.0        -5734000.0
+Net Income Including Noncontrolling Interests                -33673000.0       182249000.0       246869000.0       142372000.0
+Net Income Discontinuous Operations                                  NaN               0.0               0.0               0.0
+Net Income Continuous Operations                             -33673000.0       182249000.0       246869000.0       142372000.0
+Tax Provision                                                  7866000.0        17904000.0        46102000.0        34343000.0
+Pretax Income                                                -25807000.0       200153000.0       292971000.0       176715000.0
+Other Non Operating Income Expenses                           16791000.0        20614000.0         1281000.0        29351000.0
+Special Income Charges                                         2497000.0         1406000.0         5095000.0        -9974000.0
+Write Off                                                     -2497000.0        -1406000.0        -5095000.0         9974000.0
+Net Non Operating Interest Income Expense                    -21489000.0       -15998000.0       -14756000.0       -17136000.0
+Interest Expense Non Operating                                27813000.0        19920000.0        18329000.0        21129000.0
+Interest Income Non Operating                                  6324000.0         3922000.0         3573000.0         3993000.0
+Operating Income                                             -23606000.0       194131000.0       301351000.0       174474000.0
+Operating Expense                                            396482000.0       425465000.0       423840000.0       368450000.0
+Research And Development                                     111348000.0       125329000.0       116888000.0       105893000.0
+Selling General And Administration                           285134000.0       300136000.0       306952000.0       262557000.0
+Selling And Marketing Expense                                139362000.0       148312000.0       160484000.0       139770000.0
+General And Administrative Expense                           145772000.0       151824000.0       146468000.0       122787000.0
+Gross Profit                                                 372876000.0       619596000.0       725191000.0       542924000.0
+Cost Of Revenue                                             1004354000.0      1184901000.0      1307984000.0      1039214000.0
+Total Revenue                                               1377230000.0      1804497000.0      2033175000.0      1582138000.0
+Operating Revenue                                           1377230000.0      1804497000.0      2033175000.0      1582138000.0

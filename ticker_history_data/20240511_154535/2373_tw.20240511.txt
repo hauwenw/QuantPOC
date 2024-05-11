@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 2, Shinyi-Road
+address2	16th Floor Xinyi Road Xinyi District
+city	Taipei
+zip	110014
+country	Taiwan
+phone	886 2 2345 8088
+website	https://www.aurora.com.tw
+industry	Industrial Distribution
+industryKey	industrial-distribution
+industryDisp	Industrial Distribution
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Aurora Corporation provides office automation equipment, office furniture, communications, 3D printers, office cloud, and electronics in Taiwan, China, and internationally. It also offers hardware services, as well as software and hardware integration solutions. The company was founded in 1965 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Chung  Chou', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Ling  Lin', 'title': 'Financial & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi-Yuan  Jian', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	73.1
+open	73.1
+dayLow	73.0
+dayHigh	73.6
+regularMarketPreviousClose	73.1
+regularMarketOpen	73.1
+regularMarketDayLow	73.0
+regularMarketDayHigh	73.6
+dividendRate	4.7
+dividendYield	0.0639
+exDividendDate	1688688000	 (2023-07-07 08:00:00)
+payoutRatio	0.96910006
+fiveYearAvgDividendYield	6.77
+beta	0.093
+trailingPE	15.175258
+forwardPE	10.250696
+volume	45176
+regularMarketVolume	45176
+averageVolume	93991
+averageVolume10days	72788
+averageDailyVolume10Day	72788
+bid	73.5
+ask	73.6
+marketCap	16464687104
+fiftyTwoWeekLow	72.0
+fiftyTwoWeekHigh	82.3
+priceToSalesTrailing12Months	1.4275742
+fiftyDayAverage	73.362
+twoHundredDayAverage	74.592
+trailingAnnualDividendRate	4.1
+trailingAnnualDividendYield	0.05608755
+currency	TWD
+enterpriseValue	17052331008
+profitMargins	0.094639994
+floatShares	33824305
+sharesOutstanding	223704992
+heldPercentInsiders	0.82749003
+heldPercentInstitutions	0.01541
+impliedSharesOutstanding	224319008
+bookValue	33.014
+priceToBook	2.2293572
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.253
+netIncomeToCommon	1091506944
+trailingEps	4.85
+forwardEps	7.18
+lastSplitFactor	0.7:1
+lastSplitDate	1503532800	 (2017-08-24 08:00:00)
+enterpriseToRevenue	1.479
+enterpriseToEbitda	11.814
+52WeekChange	-0.081148565
+SandP52WeekChange	0.26265144
+lastDividendValue	4.7
+lastDividendDate	1688688000	 (2023-07-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2373.TW
+underlyingSymbol	2373.TW
+shortName	AURORA CORPORATION
+longName	Aurora Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	38021baf-9f32-3904-8b27-68ffd1dc5f33
+messageBoardId	finmb_882496
+gmtOffSetMilliseconds	28800000
+currentPrice	73.6
+recommendationKey	none
+totalCash	6679449088
+totalCashPerShare	29.858
+ebitda	1443444992
+totalDebt	5944288768
+quickRatio	1.708
+currentRatio	2.08
+totalRevenue	11533332480
+debtToEquity	68.262
+revenuePerShare	51.302
+returnOnAssets	0.03562
+returnOnEquity	0.13350001
+freeCashflow	1506144000
+operatingCashflow	1712222976
+earningsGrowth	-0.252
+revenueGrowth	-0.119
+grossMargins	0.46128
+ebitdaMargins	0.12515001
+operatingMargins	0.11161
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    3314783.609353     1688703.698159     1620648.776801    -2905327.682347
+Tax Rate For Calcs                                                   0.207902           0.214657           0.244589           0.230417
+Normalized EBITDA                                                2382960000.0       2736817000.0       2920591000.0       2955404000.0
+Total Unusual Items                                                15944000.0          7867000.0          6626000.0        -12609000.0
+Total Unusual Items Excluding Goodwill                             15944000.0          7867000.0          6626000.0        -12609000.0
+Net Income From Continuing Operation Net Minority Interest       1091507000.0       1309368000.0       1391539000.0       1438309000.0
+Reconciled Depreciation                                           824497000.0        862522000.0        861433000.0        859896000.0
+Reconciled Cost Of Revenue                                       6213223000.0       7031430000.0       7567572000.0       7152644000.0
+EBITDA                                                           2398904000.0       2744684000.0       2927217000.0       2942795000.0
+EBIT                                                             1574407000.0       1882162000.0       2065784000.0       2082899000.0
+Net Interest Income                                                38729000.0         92346000.0        100708000.0          6462000.0
+Interest Expense                                                   91903000.0         71964000.0         45385000.0         57471000.0
+Interest Income                                                   130632000.0        164310000.0        146093000.0         63933000.0
+Normalized Income                                           1078877783.609353  1303189703.698159  1386533648.776801  1448012672.317653
+Net Income From Continuing And Discontinued Operation            1091507000.0       1309368000.0       1391539000.0       1438309000.0
+Total Expenses                                                  10517741000.0      11361710000.0      12144196000.0      11497282000.0
+Diluted Average Shares                                                    NaN        225051000.0        225036000.0        225050000.0
+Basic Average Shares                                                      NaN        224814000.0        224814000.0        224814000.0
+Diluted EPS                                                               NaN               5.82               6.18               6.39
+Basic EPS                                                                 NaN               5.82               6.19                6.4
+Diluted NI Availto Com Stockholders                              1091507000.0       1309368000.0       1391539000.0       1438309000.0
+Net Income Common Stockholders                                   1091507000.0       1309368000.0       1391539000.0       1438309000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1091507000.0       1309368000.0       1391539000.0       1438309000.0
+Minority Interests                                                -82782000.0       -112259000.0       -134692000.0       -120426000.0
+Net Income Including Noncontrolling Interests                    1174289000.0       1421627000.0       1526231000.0       1558735000.0
+Net Income Continuous Operations                                 1174289000.0       1421627000.0       1526231000.0       1558735000.0
+Tax Provision                                                     308215000.0        388571000.0        494168000.0        466693000.0
+Pretax Income                                                    1482504000.0       1810198000.0       2020399000.0       2025428000.0
+Other Non Operating Income Expenses                               174698000.0        222185000.0        244349000.0        328238000.0
+Special Income Charges                                             15944000.0          7867000.0          6626000.0        -12609000.0
+Other Special Charges                                             -11755000.0        -30389000.0                NaN                NaN
+Write Off                                                          -4189000.0         22522000.0         -6626000.0         12609000.0
+Net Non Operating Interest Income Expense                          38729000.0         92346000.0        100708000.0          6462000.0
+Interest Expense Non Operating                                     91903000.0         71964000.0         45385000.0         57471000.0
+Interest Income Non Operating                                     130632000.0        164310000.0        146093000.0         63933000.0
+Operating Income                                                 1015591000.0       1214615000.0       1433061000.0       1453692000.0
+Operating Expense                                                4304518000.0       4330280000.0       4576624000.0       4344638000.0
+Other Operating Expenses                                                  NaN                NaN        -29006000.0        -76297000.0
+Research And Development                                                  NaN                NaN                NaN         51649000.0
+Selling General And Administration                               4304518000.0       4330280000.0       4576624000.0       4344638000.0
+Selling And Marketing Expense                                    2606248000.0       2741965000.0       2731571000.0       2439433000.0
+General And Administrative Expense                               1698270000.0       1588315000.0       1845053000.0       1905205000.0
+Gross Profit                                                     5320109000.0       5544895000.0       6009685000.0       5798330000.0
+Cost Of Revenue                                                  6213223000.0       7031430000.0       7567572000.0       7152644000.0
+Total Revenue                                                   11533332000.0      12576325000.0      13577257000.0      12950974000.0
+Operating Revenue                                               11533332000.0      12576325000.0      13577257000.0      12950974000.0

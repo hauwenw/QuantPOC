@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 9, Prosperity 1st Road
+address2	6F-3 Hsinchu Science Park East District
+city	Hsinchu City
+zip	30078
+country	Taiwan
+phone	886 3 564 3700
+fax	886 3 564 6767
+website	https://www.synst.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	SYNergy ScienTech Corp. engages in the research, development, manufacture, and sale of rechargeable lithium-ion and lithium-ion polymer batteries in Taiwan, rest of Asia, the Americas, and Europe. Its products are used in various portable electronic products, such as Bluetooth headsets, MP3, DSC, notebook personal computers, personal digital assistants, mobile phones, electrical bicycles, cordless tools, electrical vehicles, and others. The company was founded in 1997 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Xue-Kun  Xing', 'title': 'Director', 'fiscalYear': 2022, 'totalPay': 255000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Lan  Chu', 'title': 'Deputy GM & CFO', 'fiscalYear': 2022, 'totalPay': 2771000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuang-Chang  Wang', 'age': 42, 'title': 'Vice President of Sales & Marketing', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 2862000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kao-Le  Lo', 'title': 'Senior Deputy General Manager', 'fiscalYear': 2022, 'totalPay': 2986000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi  Yu', 'title': 'Deputy General Manager of Marketing Business Dept.', 'fiscalYear': 2022, 'totalPay': 792000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiang Hao  Hsieh', 'title': 'GM & President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hung  Shen', 'title': 'Chief Technology Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	24.05
+open	24.0
+dayLow	23.7
+dayHigh	24.6
+regularMarketPreviousClose	24.05
+regularMarketOpen	24.0
+regularMarketDayLow	23.7
+regularMarketDayHigh	24.6
+exDividendDate	1627516800	 (2021-07-29 08:00:00)
+fiveYearAvgDividendYield	2.05
+beta	1.293
+trailingPE	Infinity
+forwardPE	24.84375
+volume	158601
+regularMarketVolume	158601
+averageVolume	248661
+averageVolume10days	135440
+averageDailyVolume10Day	135440
+bid	23.85
+ask	23.9
+marketCap	2235961344
+fiftyTwoWeekLow	20.2
+fiftyTwoWeekHigh	34.5
+priceToSalesTrailing12Months	1.8683753
+fiftyDayAverage	23.49
+twoHundredDayAverage	24.521
+currency	TWD
+enterpriseValue	1855199360
+profitMargins	-0.037320003
+sharesOutstanding	93751000
+heldPercentInsiders	0.44059
+heldPercentInstitutions	0.00319
+impliedSharesOutstanding	93952600
+bookValue	15.664
+priceToBook	1.5225997
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-44668000
+forwardEps	0.96
+enterpriseToRevenue	1.55
+enterpriseToEbitda	43.686
+52WeekChange	-0.171875
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1627516800	 (2021-07-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6558.TW
+underlyingSymbol	6558.TW
+shortName	SYNERGY SCIENTECH CORP
+longName	SYNergy ScienTech Corp.
+firstTradeDateEpochUtc	1447722000	 (2015-11-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e0c812e7-c0dd-3e38-82d9-043d38e591cd
+messageBoardId	finmb_285884241
+gmtOffSetMilliseconds	28800000
+currentPrice	23.85
+recommendationKey	none
+totalCash	752054016
+totalCashPerShare	8.022
+ebitda	42467000
+totalDebt	371292000
+quickRatio	1.562
+currentRatio	1.912
+totalRevenue	1196740992
+debtToEquity	25.283
+revenuePerShare	12.765
+returnOnAssets	-0.01832
+returnOnEquity	-0.029860001
+freeCashflow	171685872
+operatingCashflow	230371008
+revenueGrowth	0.108
+grossMargins	0.13984999
+ebitdaMargins	0.03549
+operatingMargins	-0.05429
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                       17.767614      -584.902814         600.0           0.0
+Tax Rate For Calcs                                                 0.017768         0.292451           0.2      0.201441
+Normalized EBITDA                                                73550000.0       28071000.0   115474000.0   166191000.0
+Total Unusual Items                                                  1000.0          -2000.0        3000.0           0.0
+Total Unusual Items Excluding Goodwill                               1000.0          -2000.0        3000.0           0.0
+Net Income From Continuing Operation Net Minority Interest      -44668000.0      -60973000.0     3278000.0    62389000.0
+Reconciled Depreciation                                         113617000.0      102988000.0    98763000.0    79269000.0
+Reconciled Cost Of Revenue                                     1029381000.0     1039796000.0  1414277000.0  1452785000.0
+EBITDA                                                           73551000.0       28069000.0   115477000.0   166191000.0
+EBIT                                                            -40066000.0      -74919000.0    16714000.0    86922000.0
+Net Interest Income                                               7463000.0       -4673000.0    -7386000.0    -4392000.0
+Interest Expense                                                  5410000.0       11256000.0    10969000.0     8795000.0
+Interest Income                                                  12873000.0        6583000.0     3583000.0     4403000.0
+Normalized Income                                          -44668982.232386 -60971584.902814     3275600.0    62389000.0
+Net Income From Continuing And Discontinued Operation           -44668000.0      -60973000.0     3278000.0    62389000.0
+Total Expenses                                                 1260385000.0     1270509000.0  1661761000.0  1689222000.0
+Diluted Average Shares                                           93750000.0       93678000.0    87447000.0    87250000.0
+Basic Average Shares                                             93750000.0       93678000.0    87398000.0    86281000.0
+Diluted EPS                                                           -0.48            -0.65          0.04          0.72
+Basic EPS                                                             -0.48            -0.65          0.04          0.72
+Diluted NI Availto Com Stockholders                             -44668000.0      -60973000.0     3278000.0    62389000.0
+Net Income Common Stockholders                                  -44668000.0      -60973000.0     3278000.0    62389000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0           0.0           0.0
+Net Income                                                      -44668000.0      -60973000.0     3278000.0    62389000.0
+Net Income Including Noncontrolling Interests                   -44668000.0      -60973000.0     3278000.0    62389000.0
+Net Income Continuous Operations                                -44668000.0      -60973000.0     3278000.0    62389000.0
+Tax Provision                                                     -808000.0      -25202000.0     2467000.0    15738000.0
+Pretax Income                                                   -45476000.0      -86175000.0     5745000.0    78127000.0
+Other Non Operating Income Expenses                              10704000.0       40594000.0   -15962000.0   -20856000.0
+Special Income Charges                                               1000.0          -2000.0        3000.0           0.0
+Write Off                                                           -1000.0           2000.0       -3000.0           0.0
+Net Non Operating Interest Income Expense                         7463000.0       -4673000.0    -7386000.0    -4392000.0
+Interest Expense Non Operating                                    5410000.0       11256000.0    10969000.0     8795000.0
+Interest Income Non Operating                                    12873000.0        6583000.0     3583000.0     4403000.0
+Operating Income                                                -63644000.0     -122094000.0    29090000.0   103375000.0
+Operating Expense                                               231004000.0      230713000.0   247484000.0   236437000.0
+Research And Development                                         54239000.0       51567000.0    50488000.0    47266000.0
+Selling General And Administration                              176765000.0      179146000.0   196996000.0   189171000.0
+Selling And Marketing Expense                                    39740000.0       41560000.0    46674000.0    46538000.0
+General And Administrative Expense                              137025000.0      137586000.0   150322000.0   142633000.0
+Gross Profit                                                    167360000.0      108619000.0   276574000.0   339812000.0
+Cost Of Revenue                                                1029381000.0     1039796000.0  1414277000.0  1452785000.0
+Total Revenue                                                  1196741000.0     1148415000.0  1690851000.0  1792597000.0
+Operating Revenue                                              1196741000.0     1148415000.0  1690851000.0  1792597000.0

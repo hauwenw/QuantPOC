@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	No. 97, Chongxin Road
+address2	25th Floor Section 4 Sanchong District
+city	New Taipei City
+zip	241
+country	Taiwan
+phone	886 2 2978 8888
+fax	886 2 2978 3168
+website	https://www.hkssteel.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Hsin Kuang Steel Company Limited engages in the cutting, stamping, and sale of various steel products in Taiwan. Its products portfolio includes steel coils and plates, round steel bars, stainless and alloy steel, and special steel. The company is also involved in the investment in various businesses comprising manufacturing, securities investment, banking, insurance, etc.; sale of metal products for architecture markets; manufacture and sale of metal products and energy related equipment; and leasing and warehousing activities. In addition, it engages in manufacturing and processing of metal structures, steel bridges, architectural components, and steel products; trading of listed marketable securities; and cutting and processing of automobile steel plates. The company was incorporated in 1967 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Te  Su', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. P. Hui  Liu', 'title': 'Vice General Manager of Finance & Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Shan  Jheng', 'title': 'Vice General Manager of Operations & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Lang  Hsu', 'title': 'Vice General Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. H. Yu', 'title': 'Vice General Manager of Special Steel Operations & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Y. J. Su', 'title': 'Assistant VP of Operations Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Junjie  Huang', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	59.9
+open	60.4
+dayLow	59.9
+dayHigh	60.8
+regularMarketPreviousClose	59.9
+regularMarketOpen	60.4
+regularMarketDayLow	59.9
+regularMarketDayHigh	60.8
+dividendRate	3.0
+dividendYield	0.049200002
+exDividendDate	1719964800	 (2024-07-03 08:00:00)
+payoutRatio	0.16469999
+fiveYearAvgDividendYield	4.61
+beta	1.163
+trailingPE	10.0
+forwardPE	10.630473
+volume	1085685
+regularMarketVolume	1085685
+averageVolume	3174112
+averageVolume10days	2356439
+averageDailyVolume10Day	2356439
+bid	60.7
+ask	60.8
+marketCap	19493562368
+fiftyTwoWeekLow	42.5
+fiftyTwoWeekHigh	68.5
+priceToSalesTrailing12Months	1.2126716
+fiftyDayAverage	61.534
+twoHundredDayAverage	53.917
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.05008347
+currency	TWD
+enterpriseValue	29593886720
+profitMargins	0.10295
+floatShares	217059370
+sharesOutstanding	321145984
+heldPercentInsiders	0.32703
+heldPercentInstitutions	0.10054
+impliedSharesOutstanding	327092992
+bookValue	35.307
+priceToBook	1.7192059
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.939
+netIncomeToCommon	1654841984
+trailingEps	6.07
+forwardEps	5.71
+lastSplitFactor	1.01:1
+lastSplitDate	1248912000	 (2009-07-30 08:00:00)
+enterpriseToRevenue	1.841
+enterpriseToEbitda	27.205
+52WeekChange	0.35189307
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1719964800	 (2024-07-03 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2031.TW
+underlyingSymbol	2031.TW
+shortName	HSIN KUANG STEEL CO
+longName	Hsin Kuang Steel Company Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d66a3ca8-e466-3eaa-870c-ff5d875f8101
+messageBoardId	finmb_9476085
+gmtOffSetMilliseconds	28800000
+currentPrice	60.7
+targetHighPrice	75.0
+targetLowPrice	75.0
+targetMeanPrice	75.0
+targetMedianPrice	75.0
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	1
+totalCash	3926274048
+totalCashPerShare	12.226
+ebitda	1087805056
+totalDebt	13558726656
+quickRatio	0.936
+currentRatio	1.569
+totalRevenue	16074889216
+debtToEquity	112.396
+revenuePerShare	50.055
+returnOnAssets	0.02032
+returnOnEquity	0.15642999
+freeCashflow	-558839744
+operatingCashflow	349864992
+earningsGrowth	0.963
+revenueGrowth	-0.006
+grossMargins	0.089940004
+ebitdaMargins	0.06767
+operatingMargins	0.045440003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -2258298.864677    1079360.533495    24449207.848099      51147.955747
+Tax Rate For Calcs                                                   0.067807          0.367129           0.162476            0.0737
+Normalized EBITDA                                                2517081000.0      1074364000.0       3432933000.0      1203727000.0
+Total Unusual Items                                               -33305000.0         2940000.0        150479000.0          694000.0
+Total Unusual Items Excluding Goodwill                            -33305000.0         2940000.0        150479000.0          694000.0
+Net Income From Continuing Operation Net Minority Interest       1654842000.0       393563000.0       2720273000.0       829113000.0
+Reconciled Depreciation                                           242956000.0       197418000.0        162864000.0       164484000.0
+Reconciled Cost Of Revenue                                      14629138000.0     15966628000.0      10985973000.0      9039615000.0
+EBITDA                                                           2483776000.0      1077304000.0       3583412000.0      1204421000.0
+EBIT                                                             2240820000.0       879886000.0       3420548000.0      1039937000.0
+Net Interest Income                                              -379265000.0      -218340000.0       -111686000.0      -126418000.0
+Interest Expense                                                  383287000.0       220086000.0        112180000.0       126914000.0
+Interest Income                                                     4022000.0         1746000.0           494000.0          496000.0
+Normalized Income                                           1685888701.135323  391702360.533495  2594243207.848099  828470147.955747
+Net Income From Continuing And Discontinued Operation            1654842000.0       393563000.0       2720273000.0       829113000.0
+Total Expenses                                                  15183295000.0     16393693000.0      11478125000.0      9382003000.0
+Diluted Average Shares                                            322104000.0       321575000.0        317433000.0       321921000.0
+Basic Average Shares                                              321146000.0       321146000.0        315674000.0       308274000.0
+Diluted EPS                                                              5.14              1.22               8.57               2.6
+Basic EPS                                                                5.15              1.23               8.62              2.69
+Diluted NI Availto Com Stockholders                              1654842000.0       393563000.0       2720273000.0       829113000.0
+Net Income Common Stockholders                                   1654842000.0       393563000.0       2720273000.0       829113000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0               0.0
+Net Income                                                       1654842000.0       393563000.0       2720273000.0       829113000.0
+Minority Interests                                                -76738000.0       -24005000.0        -50565000.0       -16620000.0
+Net Income Including Noncontrolling Interests                    1731580000.0       417568000.0       2770838000.0       845733000.0
+Net Income Continuous Operations                                 1731580000.0       417568000.0       2770838000.0       845733000.0
+Tax Provision                                                     125953000.0       242232000.0        537530000.0        67290000.0
+Pretax Income                                                    1857533000.0       659800000.0       3308368000.0       913023000.0
+Other Non Operating Income Expenses                              1374400000.0       123099000.0        600286000.0       560951000.0
+Special Income Charges                                            -33305000.0         2940000.0        150479000.0          694000.0
+Other Special Charges                                                     NaN               NaN         -1265000.0         -682000.0
+Write Off                                                          33305000.0        -2940000.0        -13190000.0          -12000.0
+Restructuring And Mergern Acquisition                                     NaN               0.0       -136024000.0               0.0
+Net Non Operating Interest Income Expense                        -379265000.0      -218340000.0       -111686000.0      -126418000.0
+Interest Expense Non Operating                                    383287000.0       220086000.0        112180000.0       126914000.0
+Interest Income Non Operating                                       4022000.0         1746000.0           494000.0          496000.0
+Operating Income                                                  891594000.0       761839000.0       2624917000.0       470308000.0
+Operating Expense                                                 554157000.0       427065000.0        492152000.0       342388000.0
+Other Operating Expenses                                                  NaN               NaN           993000.0          582000.0
+Selling General And Administration                                554157000.0       427065000.0        492152000.0       342388000.0
+Selling And Marketing Expense                                     318122000.0       294727000.0        272256000.0       207334000.0
+General And Administrative Expense                                236035000.0       132338000.0        219896000.0       135054000.0
+Gross Profit                                                     1445751000.0      1188904000.0       3117069000.0       812696000.0
+Cost Of Revenue                                                 14629138000.0     15966628000.0      10985973000.0      9039615000.0
+Total Revenue                                                   16074889000.0     17155532000.0      14103042000.0      9852311000.0
+Operating Revenue                                               16074889000.0     17155532000.0      14103042000.0      9852311000.0

@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 8, Jiankang Road
+address2	11th Floor Zhonghe District
+city	New Taipei City
+zip	23586
+country	Taiwan
+phone	886 2 2225 3733
+fax	886 2 2225 4800
+website	https://www.para.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Para Light Electronics Co., Ltd. provides lighting solutions and opto-electronic components in Asia, the United States, Europe, and internationally. It offers visible, UV, IR, SMD, PLCC, display, and lamp LEDs; optical sensors; power semiconductors; and circuit board indicators, as well as UV sensors, LED back lights, integrated light modules, commercial and automotive lightings, and other lighting solutions. The company was incorporated in 1987 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jingpeng  Ma', 'title': 'Manager & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Geming  Sun', 'title': 'Deputy GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	9.96
+open	9.99
+dayLow	9.86
+dayHigh	9.99
+regularMarketPreviousClose	9.96
+regularMarketOpen	9.99
+regularMarketDayLow	9.86
+regularMarketDayHigh	9.99
+exDividendDate	1661126400	 (2022-08-22 08:00:00)
+beta	0.193
+volume	304331
+regularMarketVolume	304331
+averageVolume	541351
+averageVolume10days	210636
+averageDailyVolume10Day	210636
+bid	9.9
+ask	9.98
+marketCap	1153039232
+fiftyTwoWeekLow	9.7
+fiftyTwoWeekHigh	12.8
+priceToSalesTrailing12Months	1.5182196
+fiftyDayAverage	10.4018
+twoHundredDayAverage	10.3902
+currency	TWD
+enterpriseValue	1582021248
+profitMargins	-0.09852
+sharesOutstanding	115535000
+heldPercentInsiders	0.17743999
+heldPercentInstitutions	0.00055
+impliedSharesOutstanding	115535000
+bookValue	9.601
+priceToBook	1.0394751
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-74824000
+trailingEps	-0.65
+lastSplitFactor	1010:1000
+lastSplitDate	1502668800	 (2017-08-14 08:00:00)
+enterpriseToRevenue	2.083
+enterpriseToEbitda	-146.118
+52WeekChange	-0.10892856
+SandP52WeekChange	0.26265144
+lastDividendValue	0.12
+lastDividendDate	1661126400	 (2022-08-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6226.TW
+underlyingSymbol	6226.TW
+shortName	PARA LIGHT ELECTRONICS CO
+longName	Para Light Electronics Co., Ltd.
+firstTradeDateEpochUtc	1226278800	 (2008-11-10 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d84c8fe1-fa6b-372e-9bd3-4aaef3a9a947
+messageBoardId	finmb_9649198
+gmtOffSetMilliseconds	28800000
+currentPrice	9.98
+recommendationKey	none
+totalCash	358303008
+totalCashPerShare	3.101
+ebitda	-10827000
+totalDebt	677651968
+quickRatio	0.905
+currentRatio	1.922
+totalRevenue	759468032
+debtToEquity	55.597
+revenuePerShare	6.573
+returnOnAssets	-0.0153
+returnOnEquity	-0.05712
+freeCashflow	16031750
+operatingCashflow	53496000
+revenueGrowth	-0.042
+grossMargins	0.24114999
+ebitdaMargins	-0.01426
+operatingMargins	-0.10701
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31   2022-12-31      2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    24438.749501      38400.0  -157484.042553    -53085.922339
+Tax Rate For Calcs                                                 0.009328          0.2        0.051583         0.037703
+Normalized EBITDA                                                -6874000.0   78164000.0      56204000.0       10902000.0
+Total Unusual Items                                               2620000.0     192000.0      -3053000.0       -1408000.0
+Total Unusual Items Excluding Goodwill                            2620000.0     192000.0      -3053000.0       -1408000.0
+Net Income From Continuing Operation Net Minority Interest      -74824000.0    1042000.0        799000.0      -43543000.0
+Reconciled Depreciation                                          52134000.0   49099000.0      46396000.0       46213000.0
+Reconciled Cost Of Revenue                                      576319000.0  692091000.0     643117000.0      544116000.0
+EBITDA                                                           -4254000.0   78356000.0      53151000.0        9494000.0
+EBIT                                                            -56388000.0   29257000.0       6755000.0      -36719000.0
+Net Interest Income                                             -12564000.0  -13379000.0     -12827000.0      -15865000.0
+Interest Expense                                                 16191000.0   15575000.0      14839000.0       17388000.0
+Interest Income                                                   3627000.0    2196000.0       2012000.0        1523000.0
+Normalized Income                                          -77419561.250499     888400.0  3694515.957447 -42188085.922339
+Net Income From Continuing And Discontinued Operation           -74824000.0    1042000.0        799000.0      -43543000.0
+Total Expenses                                                  822339000.0  962266000.0     927274000.0      819982000.0
+Diluted Average Shares                                                  NaN  115492000.0     113030000.0      113766000.0
+Basic Average Shares                                                    NaN  115475000.0     113029000.0      111426000.0
+Diluted EPS                                                             NaN         0.01            0.01            -0.39
+Basic EPS                                                               NaN         0.01            0.01            -0.39
+Diluted NI Availto Com Stockholders                             -74824000.0    1042000.0        799000.0      -43543000.0
+Net Income Common Stockholders                                  -74824000.0    1042000.0        799000.0      -43543000.0
+Otherunder Preferred Stock Dividend                                     0.0          0.0             0.0              0.0
+Net Income                                                      -74824000.0    1042000.0        799000.0      -43543000.0
+Minority Interests                                               -2922000.0   -2637000.0       8466000.0        8524000.0
+Net Income Including Noncontrolling Interests                   -71902000.0    3679000.0      -7667000.0      -52067000.0
+Net Income Continuous Operations                                -71902000.0    3679000.0      -7667000.0      -52067000.0
+Tax Provision                                                     -677000.0   10003000.0       -417000.0       -2040000.0
+Pretax Income                                                   -72579000.0   13682000.0      -8084000.0      -54107000.0
+Other Non Operating Income Expenses                              19641000.0   50250000.0       1453000.0      -11412000.0
+Special Income Charges                                            2620000.0     192000.0      -3053000.0       -1408000.0
+Write Off                                                        -2620000.0    -192000.0       3053000.0        1408000.0
+Net Non Operating Interest Income Expense                       -12564000.0  -13379000.0     -12827000.0      -15865000.0
+Interest Expense Non Operating                                   16191000.0   15575000.0      14839000.0       17388000.0
+Interest Income Non Operating                                     3627000.0    2196000.0       2012000.0        1523000.0
+Operating Income                                                -62871000.0  -23970000.0       8229000.0      -10774000.0
+Operating Expense                                               246020000.0  270175000.0     284157000.0      275866000.0
+Research And Development                                         29043000.0   35500000.0      40520000.0       44304000.0
+Selling General And Administration                              216977000.0  234675000.0     243637000.0      231562000.0
+Selling And Marketing Expense                                    78999000.0   88112000.0      98314000.0      108885000.0
+General And Administrative Expense                              137978000.0  146563000.0     145323000.0      122677000.0
+Gross Profit                                                    183149000.0  246205000.0     292386000.0      265092000.0
+Cost Of Revenue                                                 576319000.0  692091000.0     643117000.0      544116000.0
+Total Revenue                                                   759468000.0  938296000.0     935503000.0      809208000.0
+Operating Revenue                                               759468000.0  938296000.0     935503000.0      809208000.0

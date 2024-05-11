@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	320, Chung Hsiao East Road
+address2	12th Floor Section 4
+city	Taipei
+zip	10694
+country	Taiwan
+phone	886 2 2772 8213
+fax	886 2 2752 0332
+website	https://www.ccwi.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Cathay Chemical Works Inc. manufactures and sells specialty and fine chemicals under the CATHAY brand in Taiwan. It offers sodium formaldehyde sulfoxylate, sodium metabisulfite, zinc oxide, calcined zinc oxide, sodium hydrosulfite, zinc dust, and sodium hydroxymethanesulfinate, as well as galvanized metal and steel sheets. The company also exports its products to Asia, Europe, Africa, North America, and Oceania. Cathay Chemical Works Inc. was founded in 1962 and is based in Taipei, Taiwan.
+fullTimeEmployees	95
+companyOfficers	[{'maxAge': 1, 'name': 'Mu Sheng  Cao', 'title': 'Chairman of the Board of Directors, President and Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jin Hua  Xu', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Geng Sheng Jin', 'title': 'Vice President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	45.4
+open	46.3
+dayLow	45.8
+dayHigh	46.85
+regularMarketPreviousClose	45.4
+regularMarketOpen	46.3
+regularMarketDayLow	45.8
+regularMarketDayHigh	46.85
+dividendRate	1.0
+dividendYield	0.0216
+exDividendDate	1691625600	 (2023-08-10 08:00:00)
+payoutRatio	0.4695
+fiveYearAvgDividendYield	3.04
+beta	0.099
+trailingPE	21.713614
+volume	175602
+regularMarketVolume	175602
+averageVolume	367623
+averageVolume10days	385200
+averageDailyVolume10Day	385200
+bid	46.0
+ask	46.25
+marketCap	6981530112
+fiftyTwoWeekLow	29.45
+fiftyTwoWeekHigh	53.0
+priceToSalesTrailing12Months	15.570982
+fiftyDayAverage	45.054
+twoHundredDayAverage	40.395
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.02202643
+currency	TWD
+enterpriseValue	6808054784
+profitMargins	0.83579004
+floatShares	91359169
+sharesOutstanding	150952000
+heldPercentInsiders	0.63761
+heldPercentInstitutions	0.00303
+impliedSharesOutstanding	154271008
+bookValue	18.417
+priceToBook	2.5112667
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+earningsQuarterlyGrowth	-0.015
+netIncomeToCommon	374743008
+trailingEps	2.13
+lastSplitFactor	107:100
+lastSplitDate	962582400	 (2000-07-03 08:00:00)
+enterpriseToRevenue	15.184
+enterpriseToEbitda	-179.774
+52WeekChange	0.5625
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1691625600	 (2023-08-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1713.TW
+underlyingSymbol	1713.TW
+shortName	CATHAY CHEMICAL
+longName	Cathay Chemical Works Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d75bb541-33e4-382f-b8f3-5db90075c077
+messageBoardId	finmb_9846009
+gmtOffSetMilliseconds	28800000
+currentPrice	46.25
+recommendationKey	none
+totalCash	174538000
+totalCashPerShare	1.156
+ebitda	-37870000
+totalDebt	1063000
+quickRatio	4.666
+currentRatio	8.649
+totalRevenue	448368000
+debtToEquity	0.038
+revenuePerShare	2.97
+returnOnAssets	-0.01171
+returnOnEquity	0.14185001
+freeCashflow	54312876
+operatingCashflow	131874000
+earningsGrowth	-0.024
+revenueGrowth	-0.155
+grossMargins	0.051269997
+ebitdaMargins	-0.08446
+operatingMargins	-0.16829
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    -58400.0     131400.0      -8006.730607       459.420413
+Tax Rate For Calcs                                                  0.2          0.2          0.018534         0.028714
+Normalized EBITDA                                           364030000.0  298371000.0       174850000.0       36567000.0
+Total Unusual Items                                           -292000.0     657000.0         -432000.0          16000.0
+Total Unusual Items Excluding Goodwill                        -292000.0     657000.0         -432000.0          16000.0
+Net Income From Continuing Operation Net Minority Interest  350365000.0  285908000.0       157487000.0       91433000.0
+Reconciled Depreciation                                      15412000.0   14405000.0        13957000.0       19266000.0
+Reconciled Cost Of Revenue                                  438322000.0  508241000.0       537390000.0      409367000.0
+EBITDA                                                      363738000.0  299028000.0       174418000.0       36583000.0
+EBIT                                                        348326000.0  284623000.0       160461000.0       17317000.0
+Net Interest Income                                           4707000.0    1889000.0         1237000.0        2815000.0
+Interest Expense                                               115000.0      34000.0               0.0              NaN
+Interest Income                                               4822000.0    1923000.0         1237000.0        2815000.0
+Normalized Income                                           350598600.0  285382400.0  157910993.269393  91417459.420413
+Net Income From Continuing And Discontinued Operation       350365000.0  285908000.0       157487000.0       91433000.0
+Total Expenses                                              513093000.0  579047000.0       598209000.0      458327000.0
+Diluted Average Shares                                      151415000.0  151556000.0       151294000.0      152388333.0
+Basic Average Shares                                        150952000.0  150952000.0       150952000.0      149890164.0
+Diluted EPS                                                        2.31         1.89              1.04              0.6
+Basic EPS                                                          2.32         1.89              1.04             0.61
+Diluted NI Availto Com Stockholders                         350365000.0  285908000.0       157487000.0       91433000.0
+Net Income Common Stockholders                              350365000.0  285908000.0       157487000.0       91433000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0               0.0              0.0
+Net Income                                                  350365000.0  285908000.0       157487000.0       91433000.0
+Net Income Including Noncontrolling Interests               350365000.0  285908000.0       157487000.0       91433000.0
+Net Income Continuous Operations                            350365000.0  285908000.0       157487000.0       91433000.0
+Tax Provision                                                -2154000.0   -1319000.0         2974000.0        2703000.0
+Pretax Income                                               348211000.0  284589000.0       160461000.0       94136000.0
+Other Non Operating Income Expenses                          -4329000.0   -5236000.0         7337000.0      -16461000.0
+Special Income Charges                                        -292000.0     657000.0         -432000.0          16000.0
+Write Off                                                      292000.0    -657000.0          432000.0         -16000.0
+Net Non Operating Interest Income Expense                     4707000.0    1889000.0         1237000.0        2815000.0
+Interest Expense Non Operating                                 115000.0      34000.0               0.0              NaN
+Interest Income Non Operating                                 4822000.0    1923000.0         1237000.0        2815000.0
+Operating Income                                            -36702000.0   -7589000.0        26390000.0       17317000.0
+Operating Expense                                            74771000.0   70806000.0        60819000.0       48960000.0
+Selling General And Administration                           74771000.0   70806000.0        60819000.0       48960000.0
+Selling And Marketing Expense                                19170000.0   26361000.0        28995000.0       23527000.0
+General And Administrative Expense                           55601000.0   44445000.0        31824000.0       25433000.0
+Gross Profit                                                 38069000.0   63217000.0        87209000.0       66277000.0
+Cost Of Revenue                                             438322000.0  508241000.0       537390000.0      409367000.0
+Total Revenue                                               476391000.0  571458000.0       624599000.0      475644000.0
+Operating Revenue                                           476391000.0  571458000.0       624599000.0      475644000.0

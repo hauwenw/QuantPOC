@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 16, Xinzhan Road
+address2	18th Floor Banqiao District
+city	New Taipei City
+country	Taiwan
+phone	886 2 7727 8168
+website	https://www.feds.com.tw
+industry	Department Stores
+industryKey	department-stores
+industryDisp	Department Stores
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Far Eastern Department Stores, Ltd., together with its subsidiaries, operates department stores and supermarkets in Taiwan and Mainland China. The company's products portfolio includes light meals and cafe, boutique, makeup care, gold jewelry, women shoes and clothing, fashion, kids wear, sports, home appliances, bedding goods, furnishing, living and leisure related products, as well as operates food courts, beverage stores, themed restaurant, art museum, and cinema. In addition, the company engages in parking lots management activities; art gallery, works, and antiques business; and advertisement activities, as well as electronic and children's entertainment playground/facility businesses. The company operates 10 branch stores. Far Eastern Department Stores, Ltd. was incorporated in 1967 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Nancy  Hsu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Tang', 'title': 'CFO, VP of Admn. Div., Manager of IR Dept. & Manager of Investment Mgmt. Dept.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Li  Lin', 'title': 'COO & VP of Operation Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lily Y. T.  Liu', 'title': 'Junior Vice President of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan-Chuan  Chen', 'title': 'Legal Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Greg  Tseng', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hwa-Ling  Hsu', 'title': 'Senior Vice President of Auditor Office', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.45
+open	33.7
+dayLow	33.55
+dayHigh	35.95
+regularMarketPreviousClose	33.45
+regularMarketOpen	33.7
+regularMarketDayLow	33.55
+regularMarketDayHigh	35.95
+dividendRate	1.1
+dividendYield	0.0308
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	0.5641
+fiveYearAvgDividendYield	4.16
+beta	0.281
+trailingPE	18.307692
+forwardPE	32.454544
+volume	13002719
+regularMarketVolume	13002719
+averageVolume	4571718
+averageVolume10days	4994028
+averageDailyVolume10Day	4994028
+bid	35.65
+ask	35.7
+marketCap	50291662848
+fiftyTwoWeekLow	21.4
+fiftyTwoWeekHigh	35.95
+priceToSalesTrailing12Months	1.3694082
+fiftyDayAverage	29.629
+twoHundredDayAverage	25.33225
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.047832586
+currency	TWD
+enterpriseValue	93108305920
+profitMargins	0.074939996
+floatShares	957460150
+sharesOutstanding	1408729984
+heldPercentInsiders	0.51735
+heldPercentInstitutions	0.15932
+impliedSharesOutstanding	1419049984
+bookValue	22.234
+priceToBook	1.6056491
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.166
+netIncomeToCommon	2752303104
+trailingEps	1.95
+forwardEps	1.1
+lastSplitFactor	1020:1000
+lastSplitDate	1409097600	 (2014-08-27 08:00:00)
+enterpriseToRevenue	2.535
+enterpriseToEbitda	12.543
+52WeekChange	0.53548384
+SandP52WeekChange	0.26265144
+lastDividendValue	1.1
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2903.TW
+underlyingSymbol	2903.TW
+shortName	FAR EASTERN DEPARTMENT STORES L
+longName	Far Eastern Department Stores, Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	00ad9325-1431-3267-88ce-48c808af7637
+messageBoardId	finmb_9870628
+gmtOffSetMilliseconds	28800000
+currentPrice	35.7
+recommendationKey	none
+totalCash	22810068992
+totalCashPerShare	16.192
+ebitda	7423263744
+totalDebt	59475247104
+quickRatio	0.492
+currentRatio	0.54
+totalRevenue	36725104640
+debtToEquity	158.712
+revenuePerShare	26.07
+returnOnAssets	0.02637
+returnOnEquity	0.10158
+freeCashflow	6931219968
+operatingCashflow	10723261440
+earningsGrowth	-0.166
+revenueGrowth	-0.043
+grossMargins	0.55943
+ebitdaMargins	0.20212999
+operatingMargins	0.12734
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -4946839.88858      189138.4055      -79997.698649      780711.51914
+Tax Rate For Calcs                                                  0.234081         0.228981           0.217977          0.151919
+Normalized EBITDA                                              11352624000.0     9982327000.0       8543061000.0      9721365000.0
+Total Unusual Items                                              -21133000.0         826000.0          -367000.0         5139000.0
+Total Unusual Items Excluding Goodwill                           -21133000.0         826000.0          -367000.0         5139000.0
+Net Income From Continuing Operation Net Minority Interest      2752303000.0     1930174000.0       1208100000.0      1939139000.0
+Reconciled Depreciation                                         5195593000.0     5604615000.0       5309439000.0      5874142000.0
+Reconciled Cost Of Revenue                                     16180018000.0    16544425000.0      17898398000.0     18580671000.0
+EBITDA                                                         11331491000.0     9983153000.0       8542694000.0      9726504000.0
+EBIT                                                            6135898000.0     4378538000.0       3233255000.0      3852362000.0
+Net Interest Income                                             -775296000.0     -777090000.0       -739177000.0      -785347000.0
+Interest Expense                                                 962332000.0      869978000.0        796860000.0       851591000.0
+Interest Income                                                  187036000.0       92888000.0         57683000.0        66244000.0
+Normalized Income                                           2768489160.11142  1929537138.4055  1208387002.301351  1934780711.51914
+Net Income From Continuing And Discontinued Operation           2752303000.0     1930174000.0       1208100000.0      1939139000.0
+Total Expenses                                                 31203358000.0    31418370000.0      31675451000.0     33208124000.0
+Diluted Average Shares                                                   NaN     1413274000.0       1411971000.0      1413233000.0
+Basic Average Shares                                                     NaN     1408734000.0       1408734000.0      1408734000.0
+Diluted EPS                                                              NaN             1.37               0.86              1.37
+Basic EPS                                                                NaN             1.37               0.86              1.38
+Diluted NI Availto Com Stockholders                             2752303000.0     1930174000.0       1208100000.0      1939139000.0
+Net Income Common Stockholders                                  2752303000.0     1930174000.0       1208100000.0      1939139000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0                0.0               0.0
+Net Income                                                      2752303000.0     1930174000.0       1208100000.0      1939139000.0
+Minority Interests                                             -1210228000.0     -774992000.0       -697216000.0      -605758000.0
+Net Income Including Noncontrolling Interests                   3962531000.0     2705166000.0       1905316000.0      2544897000.0
+Net Income Continuous Operations                                3962531000.0     2705166000.0       1905316000.0      2544897000.0
+Tax Provision                                                   1211035000.0      803394000.0        531079000.0       455874000.0
+Pretax Income                                                   5173566000.0     3508560000.0       2436395000.0      3000771000.0
+Other Non Operating Income Expenses                              325050000.0        9995000.0       -429512000.0      -338714000.0
+Special Income Charges                                           -21133000.0         826000.0          -367000.0         5139000.0
+Write Off                                                         21133000.0        -826000.0           367000.0        -5139000.0
+Net Non Operating Interest Income Expense                       -775296000.0     -777090000.0       -739177000.0      -785347000.0
+Interest Expense Non Operating                                   962332000.0      869978000.0        796860000.0       851591000.0
+Interest Income Non Operating                                    187036000.0       92888000.0         57683000.0        66244000.0
+Operating Income                                                5521745000.0     4445540000.0       3633013000.0      4079825000.0
+Operating Expense                                              15023340000.0    14873945000.0      13777053000.0     14627453000.0
+Selling General And Administration                             15023340000.0    14873945000.0      13777053000.0     14627453000.0
+Selling And Marketing Expense                                    863321000.0      896918000.0        868950000.0       987735000.0
+General And Administrative Expense                             14160019000.0    13977027000.0      12908103000.0     13639718000.0
+Gross Profit                                                   20545085000.0    19319485000.0      17410066000.0     18707278000.0
+Cost Of Revenue                                                16180018000.0    16544425000.0      17898398000.0     18580671000.0
+Total Revenue                                                  36725103000.0    35863910000.0      35308464000.0     37287949000.0
+Operating Revenue                                              36725103000.0    35863910000.0      35308464000.0     37287949000.0

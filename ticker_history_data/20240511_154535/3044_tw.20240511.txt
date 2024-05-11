@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No.21 Kuang-Yeh 5th Road
+address2	Pingjhen Industrial Park Pingjhen District
+city	Taoyuan City
+country	Taiwan
+phone	886 3 419 5678
+fax	886 3 469 3572
+website	https://www.tripod-tech.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Tripod Technology Corporation processes, manufactures, and sells printed circuit boards (PCBs) and other related components in Taiwan, China, Vietnam, Thailand, South Korea, Malaysia, and internationally. The company offers various PCBs for use in memory modules, TFT-LCDs, notebook computers, hard disk drives, notebook computers, and server/work stations, as well as handsets and automotive products; and other services. It also engages in the manufacture and wholesale of chemical materials and electronic parts; trading of PCBs and raw materials of electronic parts; manufacture of electronic cash registers; and investment activities. The company was founded in 1991 and is headquartered in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chiang-Chuang  Wang', 'title': 'Chairman, CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lien-Fa  Tsai', 'title': 'CFO & Deputy GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-I  Li', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kung Hsuan  Ho', 'title': 'Deputy GM & Marketing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching- Hsiu  Hu', 'title': 'Vice CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wu-Jung  Yao', 'title': 'Chief Audit Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Miao-Shen  Chang', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhong-Sheng  Jiang', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	238.0
+open	237.0
+dayLow	223.0
+dayHigh	237.0
+regularMarketPreviousClose	238.0
+regularMarketOpen	237.0
+regularMarketDayLow	223.0
+regularMarketDayHigh	237.0
+dividendRate	7.45
+dividendYield	0.033099998
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.5816
+fiveYearAvgDividendYield	5.59
+trailingPE	17.578125
+forwardPE	12.328767
+volume	12246843
+regularMarketVolume	12246843
+averageVolume	6107577
+averageVolume10days	7115490
+averageDailyVolume10Day	7115490
+bid	225.0
+ask	225.5
+marketCap	118261350400
+fiftyTwoWeekLow	107.5
+fiftyTwoWeekHigh	239.5
+priceToSalesTrailing12Months	1.9737002
+fiftyDayAverage	206.27
+twoHundredDayAverage	194.465
+currency	TWD
+enterpriseValue	98194112512
+profitMargins	0.11295
+floatShares	429367988
+sharesOutstanding	525606016
+heldPercentInsiders	0.15275
+heldPercentInstitutions	0.44179
+impliedSharesOutstanding	537828992
+bookValue	89.004
+priceToBook	2.5279763
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.609
+netIncomeToCommon	6768028160
+trailingEps	12.8
+forwardEps	18.25
+pegRatio	1.56
+lastSplitFactor	1.11:1
+lastSplitDate	1312848000	 (2011-08-09 08:00:00)
+enterpriseToRevenue	1.639
+enterpriseToEbitda	7.785
+52WeekChange	1.0737326
+SandP52WeekChange	0.26265144
+lastDividendValue	7.45
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3044.TW
+underlyingSymbol	3044.TW
+shortName	TRIPOD TECHNOLOGY CORP
+longName	Tripod Technology Corporation
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a0b38bda-5d4d-3d0a-9f58-2fd4a6698617
+messageBoardId	finmb_9829898
+gmtOffSetMilliseconds	28800000
+currentPrice	225.0
+targetHighPrice	305.0
+targetLowPrice	280.0
+targetMeanPrice	290.33
+targetMedianPrice	286.0
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	27041771520
+totalCashPerShare	51.446
+ebitda	12613611520
+totalDebt	6960657920
+quickRatio	1.505
+currentRatio	1.789
+totalRevenue	59918598144
+debtToEquity	14.876
+revenuePerShare	113.952
+returnOnAssets	0.060949996
+returnOnEquity	0.15066
+freeCashflow	9909948416
+operatingCashflow	14889974784
+earningsGrowth	0.616
+revenueGrowth	0.074
+grossMargins	0.20974001
+ebitdaMargins	0.21051
+operatingMargins	0.13987
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    4567788.312745    13625717.799236    -3877748.35199   -10206754.067082
+Tax Rate For Calcs                                                    0.24951            0.20757          0.218662           0.210318
+Normalized EBITDA                                               13415084000.0      12999163000.0     11668725000.0      11200639000.0
+Total Unusual Items                                                18307000.0         65644000.0       -17734000.0        -48530000.0
+Total Unusual Items Excluding Goodwill                             18307000.0         65644000.0       -17734000.0        -48530000.0
+Net Income From Continuing Operation Net Minority Interest       6061791000.0       6200335000.0      5858365000.0       6125520000.0
+Reconciled Depreciation                                          5170680000.0       5012292000.0      4052127000.0       3289588000.0
+Reconciled Cost Of Revenue                                      47475521000.0      53979158000.0     51100638000.0      44397486000.0
+EBITDA                                                          13433391000.0      13064807000.0     11650991000.0      11152109000.0
+EBIT                                                             8262711000.0       8052515000.0      7598864000.0       7862521000.0
+Net Interest Income                                               476578000.0         73126000.0       211006000.0        187758000.0
+Interest Expense                                                  185451000.0        227724000.0       101034000.0        105731000.0
+Interest Income                                                   662029000.0        300850000.0       312040000.0        293489000.0
+Normalized Income                                           6048051788.312745  6148316717.799236  5872221251.64801  6163843245.932918
+Net Income From Continuing And Discontinued Operation            6061791000.0       6200335000.0      5858365000.0       6125520000.0
+Total Expenses                                                  52256605000.0      59081129000.0     56369017000.0      48925036000.0
+Diluted Average Shares                                            529121000.0        531195000.0       531071000.0        533585000.0
+Basic Average Shares                                              525606000.0        525606000.0       525606000.0        525606000.0
+Diluted EPS                                                             11.46              11.67             11.03              11.48
+Basic EPS                                                               11.53               11.8             11.15              11.65
+Diluted NI Availto Com Stockholders                              6061791000.0       6200335000.0      5858365000.0       6125520000.0
+Net Income Common Stockholders                                   6061791000.0       6200335000.0      5858365000.0       6125520000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0                0.0
+Net Income                                                       6061791000.0       6200335000.0      5858365000.0       6125520000.0
+Minority Interests                                                  -108000.0          -265000.0           24000.0           126000.0
+Net Income Including Noncontrolling Interests                    6061899000.0       6200600000.0      5858341000.0       6125394000.0
+Net Income Continuous Operations                                 6061899000.0       6200600000.0      5858341000.0       6125394000.0
+Tax Provision                                                    2015361000.0       1624191000.0      1639489000.0       1631396000.0
+Pretax Income                                                    8077260000.0       7824791000.0      7497830000.0       7756790000.0
+Other Non Operating Income Expenses                               976876000.0        982913000.0       673586000.0        994690000.0
+Special Income Charges                                             18307000.0         65644000.0       -17734000.0        -48530000.0
+Write Off                                                         -18307000.0        -65644000.0        17734000.0         48530000.0
+Net Non Operating Interest Income Expense                         476578000.0         73126000.0       211006000.0        187758000.0
+Interest Expense Non Operating                                    185451000.0        227724000.0       101034000.0        105731000.0
+Interest Income Non Operating                                     662029000.0        300850000.0       312040000.0        293489000.0
+Operating Income                                                 6605499000.0       6703108000.0      6630972000.0       6622872000.0
+Operating Expense                                                4781084000.0       5101971000.0      5268379000.0       4527550000.0
+Research And Development                                          249774000.0        239985000.0       210900000.0        224494000.0
+Selling General And Administration                               4531310000.0       4861986000.0      5057479000.0       4303056000.0
+Selling And Marketing Expense                                    2055050000.0       2079132000.0      2207391000.0       1950910000.0
+General And Administrative Expense                               2476260000.0       2782854000.0      2850088000.0       2352146000.0
+Gross Profit                                                    11386583000.0      11805079000.0     11899351000.0      11150422000.0
+Cost Of Revenue                                                 47475521000.0      53979158000.0     51100638000.0      44397486000.0
+Total Revenue                                                   58862104000.0      65784237000.0     62999989000.0      55547908000.0
+Operating Revenue                                               58862104000.0      65784237000.0     62999989000.0      55547908000.0

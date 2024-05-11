@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 320, Zhongxiao East Road
+address2	9th Floor Section 4 Daan District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2741 5000
+fax	886 2 2776 5073
+website	https://www.gtm.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	GTM Holdings Corporation, together with its subsidiaries, engages in the real estate, textile, electronic, and investment businesses in Taiwan. The company develops and leases office buildings, shopping malls, and logistics centers. It also engages in the manufacture and trade of textiles, knitwear, wool quilts, suits, and other products; manufactures and trades in electronic components and electronic materials; wholesale and retail of fabrics; and manufacture and sell of analog IC packaging and testing electronic products. The company was founded in 1951 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Likai  Gu', 'title': 'President, CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ray  Tseng', 'title': 'VP of Finance, Accounting & Administration Department and CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ady  Tsai', 'title': 'Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	34.55
+open	34.55
+dayLow	34.15
+dayHigh	35.05
+regularMarketPreviousClose	34.55
+regularMarketOpen	34.55
+regularMarketDayLow	34.15
+regularMarketDayHigh	35.05
+dividendRate	0.8
+dividendYield	0.0229
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	0.2847
+fiveYearAvgDividendYield	3.13
+beta	0.254
+trailingPE	12.455516
+volume	268241
+regularMarketVolume	268241
+averageVolume	217587
+averageVolume10days	349806
+averageDailyVolume10Day	349806
+bid	35.0
+ask	35.05
+marketCap	7117985280
+fiftyTwoWeekLow	27.35
+fiftyTwoWeekHigh	35.8
+priceToSalesTrailing12Months	8.241719
+fiftyDayAverage	32.352
+twoHundredDayAverage	30.2485
+currency	TWD
+enterpriseValue	9404983296
+profitMargins	0.66436994
+sharesOutstanding	203371008
+heldPercentInsiders	0.47239
+heldPercentInstitutions	0.01638
+impliedSharesOutstanding	203371008
+bookValue	37.554
+priceToBook	0.9319912
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.021
+netIncomeToCommon	573780992
+trailingEps	2.81
+lastSplitFactor	1050:1000
+lastSplitDate	1532563200	 (2018-07-26 08:00:00)
+enterpriseToRevenue	10.89
+enterpriseToEbitda	17.008
+52WeekChange	0.25
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1437.TW
+underlyingSymbol	1437.TW
+shortName	GTM HOLDINGS CORPORATION
+longName	GTM Holdings Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	24e0fda8-e4d9-3b68-a047-68f90febd857
+messageBoardId	finmb_9870471
+gmtOffSetMilliseconds	28800000
+currentPrice	35.0
+recommendationKey	none
+totalCash	1967108992
+totalCashPerShare	9.673
+ebitda	552958976
+totalDebt	4252999936
+quickRatio	0.541
+currentRatio	0.554
+totalRevenue	863652992
+debtToEquity	55.679
+revenuePerShare	4.247
+returnOnAssets	0.02181
+returnOnEquity	0.07786
+freeCashflow	394215136
+operatingCashflow	351110016
+earningsGrowth	0.018
+revenueGrowth	-0.046
+grossMargins	0.62282
+ebitdaMargins	0.64026
+operatingMargins	0.48057
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0     235622.098327    1780451.57554
+Tax Rate For Calcs                                             0.116665     0.131166          0.123492         0.166397
+Normalized EBITDA                                           846449000.0  638699000.0       674977000.0      556845000.0
+Total Unusual Items                                                 NaN          0.0         1908000.0       10700000.0
+Total Unusual Items Excluding Goodwill                              NaN          0.0         1908000.0       10700000.0
+Net Income From Continuing Operation Net Minority Interest  573781000.0  407483000.0       458316000.0      357933000.0
+Reconciled Depreciation                                     108314000.0  105004000.0       102647000.0       88858000.0
+Reconciled Cost Of Revenue                                  325754000.0  315712000.0       222329000.0      156429000.0
+EBITDA                                                      846449000.0  638699000.0       676885000.0      567545000.0
+EBIT                                                        738135000.0  533695000.0       574238000.0      478687000.0
+Net Interest Income                                         -50895000.0  -51523000.0       -49492000.0      -42069000.0
+Interest Expense                                             88208000.0   65519000.0        51393000.0       50453000.0
+Interest Income                                              37313000.0   13996000.0         1901000.0        8384000.0
+Normalized Income                                           573781000.0  407483000.0  456643622.098327  349013451.57554
+Net Income From Continuing And Discontinued Operation       573781000.0  407483000.0       458316000.0      357933000.0
+Total Expenses                                              419008000.0  385661000.0       330125000.0      243657000.0
+Rent Expense Supplemental                                           NaN          NaN               NaN      122054000.0
+Diluted Average Shares                                              NaN  203866000.0       204067000.0      204533143.0
+Basic Average Shares                                                NaN  203371000.0       203371000.0      203371023.0
+Diluted EPS                                                         NaN          2.0              2.25             1.75
+Basic EPS                                                           NaN          2.0              2.25             1.76
+Diluted NI Availto Com Stockholders                         573781000.0  407483000.0       458316000.0      357933000.0
+Net Income Common Stockholders                              573781000.0  407483000.0       458316000.0      357933000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0               0.0              0.0
+Net Income                                                  573781000.0  407483000.0       458316000.0      357933000.0
+Minority Interests                                            -322000.0     716000.0           38000.0         956000.0
+Net Income Including Noncontrolling Interests               574103000.0  406767000.0       458278000.0      356977000.0
+Net Income Discontinuous Operations                                 NaN          NaN               NaN              0.0
+Net Income Continuous Operations                            574103000.0  406767000.0       458278000.0      356977000.0
+Tax Provision                                                75824000.0   61409000.0        64567000.0       71257000.0
+Pretax Income                                               649927000.0  468176000.0       522845000.0      428234000.0
+Other Non Operating Income Expenses                          95638000.0  -19508000.0       130632000.0       43110000.0
+Special Income Charges                                              NaN          0.0         1908000.0       10700000.0
+Write Off                                                           NaN          0.0        -1908000.0      -10700000.0
+Net Non Operating Interest Income Expense                   -50895000.0  -51523000.0       -49492000.0      -42069000.0
+Interest Expense Non Operating                               88208000.0   65519000.0        51393000.0       50453000.0
+Interest Income Non Operating                                37313000.0   13996000.0         1901000.0        8384000.0
+Operating Income                                            444645000.0  416207000.0       367916000.0      361727000.0
+Operating Expense                                            93254000.0   69949000.0       107796000.0       87228000.0
+Selling General And Administration                           93254000.0   69949000.0       107796000.0       87228000.0
+Selling And Marketing Expense                                11707000.0   10910000.0        13517000.0       29299000.0
+General And Administrative Expense                           81547000.0   59039000.0        94279000.0       57929000.0
+Gross Profit                                                537899000.0  486156000.0       475712000.0      448955000.0
+Cost Of Revenue                                             325754000.0  315712000.0       222329000.0      156429000.0
+Total Revenue                                               863653000.0  801868000.0       698041000.0      605384000.0
+Operating Revenue                                           863653000.0  801868000.0       698041000.0      605384000.0

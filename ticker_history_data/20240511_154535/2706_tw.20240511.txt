@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	63 Nanjing East Road
+address2	Section 2
+city	Taipei
+country	Taiwan
+phone	886 2 2541 8234
+fax	886 2 2581 2411
+website	https://twfirsthotel.com.tw
+industry	Lodging
+industryKey	lodging
+industryDisp	Lodging
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	First Hotel Company Ltd. operates a tourist hotel under the First Hotel name in Taiwan. The company operates through Travel Service and Leasing divisions. It is also involved in the commercial building leasing and related businesses. The company is based in Taipei, Taiwan.
+fullTimeEmployees	36
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsiao-Hua  Hsu', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 1334000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu-Mei  Lin', 'title': 'Deputy GM & Accounting Officer', 'fiscalYear': 2021, 'totalPay': 1296000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Si-Wei  Ni', 'title': 'Assistant General Manager', 'fiscalYear': 2021, 'totalPay': 749000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Hsien  Chen', 'title': 'Chief Information Security Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	15.7
+open	15.65
+dayLow	15.65
+dayHigh	15.9
+regularMarketPreviousClose	15.7
+regularMarketOpen	15.65
+regularMarketDayLow	15.65
+regularMarketDayHigh	15.9
+dividendRate	0.35
+dividendYield	0.0222
+exDividendDate	1695168000	 (2023-09-20 08:00:00)
+payoutRatio	0.5833
+fiveYearAvgDividendYield	2.16
+beta	0.354
+trailingPE	26.249998
+volume	585425
+regularMarketVolume	585425
+averageVolume	298694
+averageVolume10days	525756
+averageDailyVolume10Day	525756
+bid	15.7
+ask	15.75
+marketCap	7874968576
+fiftyTwoWeekLow	14.35
+fiftyTwoWeekHigh	20.65
+priceToSalesTrailing12Months	22.939297
+fiftyDayAverage	15.083
+twoHundredDayAverage	15.2765
+trailingAnnualDividendRate	0.35
+trailingAnnualDividendYield	0.022292994
+currency	TWD
+enterpriseValue	4984078336
+profitMargins	0.87591004
+floatShares	138699445
+sharesOutstanding	499998016
+heldPercentInsiders	0.73382
+heldPercentInstitutions	0.02474
+impliedSharesOutstanding	503276992
+bookValue	19.802
+priceToBook	0.7953742
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.408
+netIncomeToCommon	300695008
+trailingEps	0.6
+lastSplitFactor	1027.7:1000
+lastSplitDate	1535414400	 (2018-08-28 08:00:00)
+enterpriseToRevenue	14.518
+enterpriseToEbitda	20.901
+52WeekChange	0.032786846
+SandP52WeekChange	0.26265144
+lastDividendValue	0.35
+lastDividendDate	1695168000	 (2023-09-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2706.TW
+underlyingSymbol	2706.TW
+shortName	FIRST HOTEL
+longName	First Hotel Company Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d2302bcf-af34-3565-9973-f044d0e01bc1
+messageBoardId	finmb_20343264
+gmtOffSetMilliseconds	28800000
+currentPrice	15.75
+recommendationKey	none
+totalCash	2890889984
+totalCashPerShare	5.782
+ebitda	238458000
+quickRatio	17.208
+currentRatio	17.318
+totalRevenue	343296000
+revenuePerShare	0.687
+returnOnAssets	0.01308
+returnOnEquity	0.0308
+freeCashflow	165604880
+operatingCashflow	188400992
+earningsGrowth	1.408
+revenueGrowth	-0.545
+grossMargins	0.77416
+ebitdaMargins	0.69461
+operatingMargins	1.71776
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     24665.05523       8561.860412      2920.426579       8633.481171
+Tax Rate For Calcs                                                  0.19732          0.174732         0.153707          0.200779
+Normalized EBITDA                                               379088000.0       369245000.0       96833000.0       206051000.0
+Total Unusual Items                                                125000.0           49000.0          19000.0           43000.0
+Total Unusual Items Excluding Goodwill                             125000.0           49000.0          19000.0           43000.0
+Net Income From Continuing Operation Net Minority Interest      300695000.0       301449000.0       78404000.0       160741000.0
+Reconciled Depreciation                                           2811000.0         3079000.0        3267000.0         3717000.0
+Reconciled Cost Of Revenue                                       78437000.0        63470000.0       60809000.0        72247000.0
+EBITDA                                                          379213000.0       369294000.0       96852000.0       206094000.0
+EBIT                                                            376402000.0       366215000.0       93585000.0       202377000.0
+Net Interest Income                                              38046000.0        22376000.0       16256000.0        17587000.0
+Interest Expense                                                  1788000.0          941000.0         941000.0         1255000.0
+Interest Income                                                  39834000.0        23317000.0       17197000.0        18842000.0
+Normalized Income                                           300594665.05523  301408561.860412  78387920.426579  160706633.481171
+Net Income From Continuing And Discontinued Operation           300695000.0       301449000.0       78404000.0       160741000.0
+Total Expenses                                                  107649000.0        91318000.0       84709000.0        99492000.0
+Rent Expense Supplemental                                        50852000.0        41306000.0       38146000.0        43585000.0
+Diluted Average Shares                                                  NaN       499998000.0      499998000.0       499998000.0
+Basic Average Shares                                                    NaN       499998000.0      499998000.0       499998000.0
+Diluted EPS                                                             NaN               0.6             0.16              0.32
+Basic EPS                                                               NaN               0.6             0.16              0.32
+Diluted NI Availto Com Stockholders                             300695000.0       301449000.0       78404000.0       160741000.0
+Net Income Common Stockholders                                  300695000.0       301449000.0       78404000.0       160741000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0              0.0               0.0
+Net Income                                                      300695000.0       301449000.0       78404000.0       160741000.0
+Net Income Including Noncontrolling Interests                   300695000.0       301449000.0       78404000.0       160741000.0
+Net Income Continuous Operations                                300695000.0       301449000.0       78404000.0       160741000.0
+Tax Provision                                                    73919000.0        63825000.0       14240000.0        40381000.0
+Pretax Income                                                   374614000.0       365274000.0       92644000.0       201122000.0
+Other Non Operating Income Expenses                              -2461000.0        -2154000.0        -172000.0         1426000.0
+Net Non Operating Interest Income Expense                        38046000.0        22376000.0       16256000.0        17587000.0
+Interest Expense Non Operating                                    1788000.0          941000.0         941000.0         1255000.0
+Interest Income Non Operating                                    39834000.0        23317000.0       17197000.0        18842000.0
+Operating Income                                                235647000.0       199206000.0      168169000.0       165374000.0
+Operating Expense                                                29212000.0        27848000.0       23900000.0        27245000.0
+Other Operating Expenses                                         29212000.0        27848000.0       23900000.0        27245000.0
+Gross Profit                                                    264859000.0       227054000.0      192069000.0       192619000.0
+Cost Of Revenue                                                  78437000.0        63470000.0       60809000.0        72247000.0
+Total Revenue                                                   343296000.0       290524000.0      252878000.0       264866000.0
+Operating Revenue                                               343296000.0       290524000.0      252878000.0       264866000.0

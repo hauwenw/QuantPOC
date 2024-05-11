@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 108-2, Min Chuan Road
+address2	2nd Floor Hsin Tien District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 2218 0150
+fax	886 2 2218 1552
+website	https://www.biostar.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Biostar Microtech International Corp. engages in the design, development, manufacture, and marketing of various networking solutions in Taiwan and internationally. The company offers motherboard, crypto mining, VGA, SSD, gaming DRAM, IPC, SOC, ODM, keyboard/mouse, EOL, and application system. It also provides accessories, such as cables, IO shields, dongles, and other products. In addition, the company offers industrial computers and display cards; and electronic technology consulting services, as well as manufactures and sells medical supplies and equipment. Biostar Microtech International Corp. was founded in 1979 and is based in New Taipei City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	20.65
+open	20.7
+dayLow	20.35
+dayHigh	20.75
+regularMarketPreviousClose	20.65
+regularMarketOpen	20.7
+regularMarketDayLow	20.35
+regularMarketDayHigh	20.75
+exDividendDate	1660780800	 (2022-08-18 08:00:00)
+fiveYearAvgDividendYield	8.39
+beta	0.876
+forwardPE	68.166664
+volume	645943
+regularMarketVolume	645943
+averageVolume	3205089
+averageVolume10days	1017280
+averageDailyVolume10Day	1017280
+bid	20.45
+ask	20.5
+marketCap	3642145024
+fiftyTwoWeekLow	15.0
+fiftyTwoWeekHigh	28.6
+priceToSalesTrailing12Months	1.5535278
+fiftyDayAverage	22.587
+twoHundredDayAverage	23.534
+currency	TWD
+enterpriseValue	2356745984
+profitMargins	-0.04835
+floatShares	178100000
+sharesOutstanding	178100000
+heldPercentInsiders	0.16356
+heldPercentInstitutions	0.028099999
+impliedSharesOutstanding	179416000
+bookValue	12.047
+priceToBook	1.6975181
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-113360000
+trailingEps	-0.64
+forwardEps	0.3
+lastSplitFactor	104:100
+lastSplitDate	1219017600	 (2008-08-18 08:00:00)
+enterpriseToRevenue	1.005
+enterpriseToEbitda	-18.828
+52WeekChange	0.34539473
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1660780800	 (2022-08-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2399.TW
+underlyingSymbol	2399.TW
+shortName	BIOSTAR MICROTEC INTL
+longName	Biostar Microtech International Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	38724675-01ef-3cf4-ac27-7a9c76389a44
+messageBoardId	finmb_9768883
+gmtOffSetMilliseconds	28800000
+currentPrice	20.45
+recommendationKey	none
+totalCash	1287457024
+totalCashPerShare	7.229
+ebitda	-125173000
+totalDebt	2058000
+quickRatio	2.425
+currentRatio	3.775
+totalRevenue	2344434944
+debtToEquity	0.096
+revenuePerShare	13.164
+returnOnAssets	-0.02898
+returnOnEquity	-0.051609997
+freeCashflow	48135000
+operatingCashflow	28988000
+revenueGrowth	0.111
+grossMargins	0.057729997
+ebitdaMargins	-0.053390004
+operatingMargins	-0.11979
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      6448.117037   -248071.080397    2741104.524864     -66299.183894
+Tax Rate For Calcs                                                  0.031302         0.207071          0.111016          0.221736
+Normalized EBITDA                                               -110751000.0       24165000.0       390183000.0       199644000.0
+Total Unusual Items                                                 206000.0       -1198000.0        24691000.0         -299000.0
+Total Unusual Items Excluding Goodwill                              206000.0       -1198000.0        24691000.0         -299000.0
+Net Income From Continuing Operation Net Minority Interest      -113360000.0       12851000.0       361675000.0       138419000.0
+Reconciled Depreciation                                            6324000.0        6635000.0         7983000.0        17350000.0
+Reconciled Cost Of Revenue                                      2209087000.0     1967765000.0      2254663000.0      1851165000.0
+EBITDA                                                          -110545000.0       22967000.0       414874000.0       199345000.0
+EBIT                                                            -116869000.0       16332000.0       406891000.0       181995000.0
+Net Interest Income                                               24045000.0       14351000.0         8725000.0        12165000.0
+Interest Expense                                                    154000.0         125000.0           50000.0          401000.0
+Interest Income                                                   24199000.0       14476000.0         8775000.0        12566000.0
+Normalized Income                                          -113559551.882963  13800928.919603  339725104.524864  138651700.816106
+Net Income From Continuing And Discontinued Operation           -113360000.0       12851000.0       361675000.0       142691000.0
+Total Expenses                                                  2474447000.0     2233655000.0      2582773000.0      2131190000.0
+Diluted Average Shares                                                   NaN      178931000.0       180350000.0       178844000.0
+Basic Average Shares                                                     NaN      178100000.0       178100000.0       178100000.0
+Diluted EPS                                                              NaN             0.07              2.01               0.8
+Basic EPS                                                                NaN             0.07              2.03               0.8
+Diluted NI Availto Com Stockholders                             -113360000.0       12851000.0       361675000.0       142691000.0
+Net Income Common Stockholders                                  -113360000.0       12851000.0       361675000.0       142691000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                      -113360000.0       12851000.0       361675000.0       142691000.0
+Minority Interests                                                       NaN              NaN               0.0        -2909000.0
+Net Income Including Noncontrolling Interests                   -113360000.0       12851000.0       361675000.0       145600000.0
+Net Income Discontinuous Operations                                      NaN              NaN               0.0         4272000.0
+Net Income Continuous Operations                                -113360000.0       12851000.0       361675000.0       141328000.0
+Tax Provision                                                     -3663000.0        3356000.0        45166000.0        40266000.0
+Pretax Income                                                   -117023000.0       16207000.0       406841000.0       181594000.0
+Other Non Operating Income Expenses                              -11262000.0         324000.0       181402000.0       196346000.0
+Special Income Charges                                              206000.0       -1198000.0        24691000.0         -299000.0
+Write Off                                                          -206000.0        1198000.0       -24691000.0          299000.0
+Net Non Operating Interest Income Expense                         24045000.0       14351000.0         8725000.0        12165000.0
+Interest Expense Non Operating                                      154000.0         125000.0           50000.0          401000.0
+Interest Income Non Operating                                     24199000.0       14476000.0         8775000.0        12566000.0
+Operating Income                                                -130012000.0        2730000.0       192023000.0       -26618000.0
+Operating Expense                                                265360000.0      265890000.0       328110000.0       280025000.0
+Research And Development                                          73555000.0       71880000.0        98070000.0        71283000.0
+Selling General And Administration                               191805000.0      194010000.0       230040000.0       208742000.0
+Selling And Marketing Expense                                    120272000.0      138210000.0       149246000.0       132205000.0
+General And Administrative Expense                                71533000.0       55800000.0        80794000.0        76537000.0
+Gross Profit                                                     135348000.0      268620000.0       520133000.0       253407000.0
+Cost Of Revenue                                                 2209087000.0     1967765000.0      2254663000.0      1851165000.0
+Total Revenue                                                   2344435000.0     2236385000.0      2774796000.0      2104572000.0
+Operating Revenue                                               2344435000.0     2236385000.0      2774796000.0      2104572000.0

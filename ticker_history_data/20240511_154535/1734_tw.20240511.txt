@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 84, Zhongshan Road
+address2	Dongshan Township Zhongshan Village
+city	Yilan City
+zip	268
+country	Taiwan
+phone	886 0 3958 1101
+fax	886 0 3958 3040
+website	https://www.sinphar.com.tw
+industry	Biotechnology
+industryKey	biotechnology
+industryDisp	Biotechnology
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Sinphar Pharmaceutical Co.,Ltd., together with its subsidiaries, researches, develops, manufactures, and sells therapeutic drugs, health care foods, and medical beauty products in Taiwan, Mainland China, the United States, Vietnam, and internationally. It operates through three segments: Pharmaceuticals, Healthy Food, and Other. It produces anti-cancer pharmaceuticals, such as injections, solid reagents, and hormone reagents; and tablets, soft gel capsules and powder and canned special nutrient products. The company also offers shampoo, body wash, tonic water, lotions, moisturizers, sunscreen lotions, and serums; and pharmaceutical packaging products, such as eye drop bottles, dry canisters, tablet bottles, and various medical grade plastic containers. In addition, it provides plant extracts and functional foods; and OEM services, such as product design, manufacturing, etc. to manufacturers, as well as testing and development of food, drug, and cosmetic products. The company was incorporated in 1977 and is headquartered in Yilan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zhiwen  Li', 'title': 'Founder & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Hsiao  Chen', 'title': 'Assistant GM, CFO & Spokesperson', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.4
+open	36.4
+dayLow	36.2
+dayHigh	36.6
+regularMarketPreviousClose	36.4
+regularMarketOpen	36.4
+regularMarketDayLow	36.2
+regularMarketDayHigh	36.6
+dividendRate	1.0
+dividendYield	0.0273
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.4484
+fiveYearAvgDividendYield	1.01
+beta	0.674
+trailingPE	16.412556
+volume	444976
+regularMarketVolume	444976
+averageVolume	1049977
+averageVolume10days	509681
+averageDailyVolume10Day	509681
+bid	36.6
+ask	36.65
+marketCap	6138625024
+fiftyTwoWeekLow	31.1
+fiftyTwoWeekHigh	41.1
+priceToSalesTrailing12Months	2.0718062
+fiftyDayAverage	36.028
+twoHundredDayAverage	33.68475
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.027472526
+currency	TWD
+enterpriseValue	7301870080
+profitMargins	0.12662
+sharesOutstanding	167722000
+heldPercentInsiders	0.20046
+heldPercentInstitutions	0.045110002
+impliedSharesOutstanding	168180000
+bookValue	18.473
+priceToBook	1.98127
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	8.75
+netIncomeToCommon	375169984
+trailingEps	2.23
+lastSplitFactor	1040:1000
+lastSplitDate	1472688000	 (2016-09-01 08:00:00)
+enterpriseToRevenue	2.464
+enterpriseToEbitda	14.093
+52WeekChange	0.12788904
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1734.TW
+underlyingSymbol	1734.TW
+shortName	SINPHAR PHARMACEUTICAL CO LTD
+longName	Sinphar Pharmaceutical Co.,Ltd.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1eeaf96b-6299-3c40-8ffd-645a6d5f7a53
+messageBoardId	finmb_9829321
+gmtOffSetMilliseconds	28800000
+currentPrice	36.6
+recommendationKey	none
+totalCash	1081149056
+totalCashPerShare	6.446
+ebitda	518135008
+totalDebt	1944857984
+quickRatio	1.46
+currentRatio	2.199
+totalRevenue	2962934016
+debtToEquity	57.237
+revenuePerShare	17.666
+returnOnAssets	0.02902
+returnOnEquity	0.10787
+freeCashflow	-125833128
+operatingCashflow	296369984
+earningsGrowth	8.674
+revenueGrowth	-0.018
+grossMargins	0.3692
+ebitdaMargins	0.17487
+operatingMargins	0.15303999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -336200.0    -154122.997315     -507200.0      365600.0
+Tax Rate For Calcs                                                   0.2          0.330028           0.2           0.2
+Normalized EBITDA                                            584624000.0       540040000.0   112180000.0   155333000.0
+Total Unusual Items                                           -1681000.0         -467000.0    -2536000.0     1828000.0
+Total Unusual Items Excluding Goodwill                        -1681000.0         -467000.0    -2536000.0     1828000.0
+Net Income From Continuing Operation Net Minority Interest   375170000.0       224644000.0   -38135000.0   -28510000.0
+Reconciled Depreciation                                      243524000.0       266714000.0   269370000.0   250423000.0
+Reconciled Cost Of Revenue                                  1871691000.0      1765351000.0  1544809000.0  1512919000.0
+EBITDA                                                       582943000.0       539573000.0   109644000.0   157161000.0
+EBIT                                                         339419000.0       272859000.0  -159726000.0   -93262000.0
+Net Interest Income                                          -21404000.0       -22037000.0   -21116000.0   -20709000.0
+Interest Expense                                              33711000.0        27813000.0    24799000.0    24511000.0
+Interest Income                                               12307000.0         5776000.0     3683000.0     3802000.0
+Normalized Income                                            376514800.0  224956877.002685   -36106200.0   -29972400.0
+Net Income From Continuing And Discontinued Operation        375170000.0       224644000.0   -38135000.0   -28510000.0
+Total Expenses                                              2675197000.0      2658849000.0  2613750000.0  2512477000.0
+Diluted Average Shares                                               NaN       168013000.0   167722000.0   167722000.0
+Basic Average Shares                                                 NaN       167722000.0   167722000.0   167722000.0
+Diluted EPS                                                          NaN              1.34         -0.23         -0.17
+Basic EPS                                                            NaN              1.34         -0.23         -0.17
+Diluted NI Availto Com Stockholders                          375170000.0       224644000.0   -38135000.0   -28510000.0
+Net Income Common Stockholders                               375170000.0       224644000.0   -38135000.0   -28510000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0           0.0
+Net Income                                                   375170000.0       224644000.0   -38135000.0   -28510000.0
+Minority Interests                                            18394000.0        60470000.0   166824000.0   144049000.0
+Net Income Including Noncontrolling Interests                356776000.0       164174000.0  -204959000.0  -172559000.0
+Net Income Continuous Operations                             356776000.0       164174000.0  -204959000.0  -172559000.0
+Tax Provision                                                -51068000.0        80872000.0    20434000.0    54786000.0
+Pretax Income                                                305708000.0       245046000.0  -184525000.0  -117773000.0
+Other Non Operating Income Expenses                           41056000.0        69748000.0    19361000.0    25133000.0
+Special Income Charges                                        -1681000.0         -467000.0    -2536000.0     1828000.0
+Write Off                                                      1681000.0          467000.0     2536000.0    -1828000.0
+Net Non Operating Interest Income Expense                    -21404000.0       -22037000.0   -21116000.0   -20709000.0
+Interest Expense Non Operating                                33711000.0        27813000.0    24799000.0    24511000.0
+Interest Income Non Operating                                 12307000.0         5776000.0     3683000.0     3802000.0
+Operating Income                                             287737000.0       197802000.0  -180234000.0  -124025000.0
+Operating Expense                                            803506000.0       893498000.0  1068941000.0   999558000.0
+Research And Development                                     132580000.0       272163000.0   511881000.0   462397000.0
+Selling General And Administration                           670926000.0       621335000.0   557060000.0   537161000.0
+Selling And Marketing Expense                                446775000.0       408272000.0   355463000.0   328058000.0
+General And Administrative Expense                           224151000.0       213063000.0   201597000.0   209103000.0
+Gross Profit                                                1091243000.0      1091300000.0   888707000.0   875533000.0
+Cost Of Revenue                                             1871691000.0      1765351000.0  1544809000.0  1512919000.0
+Total Revenue                                               2962934000.0      2856651000.0  2433516000.0  2388452000.0
+Operating Revenue                                           2962934000.0      2856651000.0  2433516000.0  2388452000.0

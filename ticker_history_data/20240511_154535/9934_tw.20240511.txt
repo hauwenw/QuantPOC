@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.22, Chien-Kuo Road
+address2	Tanzi District
+city	Taichung
+zip	42760
+country	Taiwan
+phone	886 4 2534 9676
+fax	886 4 2534 0840
+website	https://www.globeunion.com
+industry	Building Products & Equipment
+industryKey	building-products-equipment
+industryDisp	Building Products & Equipment
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Globe Union Industrial Corp. engages in the manufacture and sale of plumbing products in Taiwan, the United States, China, Europe, and internationally. It offers faucets, showerheads, and vitreous products; fixtures and fittings, valves, and other plumbing related products; kitchen and bathroom products; and accessories. The company also provides marketing and sales support services; It markets its products under the Gerber, Prima, Lenz, RefleXion, and Bathroom To Love brands. It serves as an OEM source of products. The company was incorporated in 1979 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsien Ou  Yang', 'title': 'Chairman & CEO', 'fiscalYear': 2021, 'totalPay': 3740000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Chen', 'title': 'CFO & Member of Management Board', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lourdes  Lee', 'title': 'Member of Management Board & Executive VP of Business Administration Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jack  Hung', 'title': 'COO & GUAP President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ying-Fan  Chan', 'title': 'Head of Accounting', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nancy  Shih', 'title': 'Investor Relations Manager & Investor Assistant Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard Ian  George', 'title': 'Member of Management Board & CEO of PJH', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chin-Nan  Hong', 'title': 'Senior Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Carmen  Fiordirosa', 'title': 'President of Globe Union North America', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nathalie  Vandecraen', 'title': 'President of Globe Union Europe', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	18.55
+open	18.45
+dayLow	18.45
+dayHigh	19.4
+regularMarketPreviousClose	18.55
+regularMarketOpen	18.45
+regularMarketDayLow	18.45
+regularMarketDayHigh	19.4
+exDividendDate	1629331200	 (2021-08-19 08:00:00)
+fiveYearAvgDividendYield	5.99
+beta	0.644
+trailingPE	12.814569
+forwardPE	10.130891
+volume	5663299
+regularMarketVolume	5663299
+averageVolume	2734992
+averageVolume10days	2766970
+averageDailyVolume10Day	2766970
+bid	19.3
+ask	19.35
+marketCap	7920806400
+fiftyTwoWeekLow	13.0
+fiftyTwoWeekHigh	19.4
+priceToSalesTrailing12Months	0.43250176
+fiftyDayAverage	17.184
+twoHundredDayAverage	15.404
+currency	TWD
+enterpriseValue	10863089664
+profitMargins	0.03304
+sharesOutstanding	409344000
+heldPercentInsiders	0.52053
+heldPercentInstitutions	0.043119997
+impliedSharesOutstanding	409344000
+bookValue	14.425
+priceToBook	1.3414211
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.032
+netIncomeToCommon	605100992
+trailingEps	1.51
+forwardEps	1.91
+lastSplitFactor	1075:1000
+lastSplitDate	1409788800	 (2014-09-04 08:00:00)
+enterpriseToRevenue	0.593
+enterpriseToEbitda	15.73
+52WeekChange	0.42804432
+SandP52WeekChange	0.26265144
+lastDividendValue	0.49415
+lastDividendDate	1629331200	 (2021-08-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9934.TW
+underlyingSymbol	9934.TW
+shortName	GLOBE UNION INDUSTRIAL CORP
+longName	Globe Union Industrial Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0f3905dd-aa11-3513-b9a1-62ce15227609
+messageBoardId	finmb_9844157
+gmtOffSetMilliseconds	28800000
+currentPrice	19.35
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	2964091904
+totalCashPerShare	7.247
+ebitda	690601024
+totalDebt	5913147904
+quickRatio	0.804
+currentRatio	1.541
+totalRevenue	18313928704
+debtToEquity	100.227
+revenuePerShare	46.019
+returnOnAssets	0.0128999995
+returnOnEquity	0.11446
+freeCashflow	1204241408
+operatingCashflow	2090829056
+earningsGrowth	0.752
+revenueGrowth	-0.131
+grossMargins	0.30686
+ebitdaMargins	0.03771
+operatingMargins	0.014989999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31     2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -2846132.185479    -110910.223975     -2873800.0   -4627408.272716
+Tax Rate For Calcs                                                  0.254756          0.008886            0.2          0.381296
+Normalized EBITDA                                               1869833000.0        82604000.0   1099498000.0      1373279000.0
+Total Unusual Items                                              -11172000.0       -12482000.0    -14369000.0       -12136000.0
+Total Unusual Items Excluding Goodwill                           -11172000.0       -12482000.0    -14369000.0       -12136000.0
+Net Income From Continuing Operation Net Minority Interest       605101000.0      -888874000.0     12797000.0       287487000.0
+Reconciled Depreciation                                          820174000.0       754249000.0    731771000.0       712893000.0
+Reconciled Cost Of Revenue                                     12694083000.0     15247819000.0  14692318000.0     12158458000.0
+EBITDA                                                          1858661000.0        70122000.0   1085129000.0      1361143000.0
+EBIT                                                            1038487000.0      -684127000.0    353358000.0       648250000.0
+Net Interest Income                                             -226537000.0      -212716000.0   -176954000.0      -183590000.0
+Interest Expense                                                 226537000.0       212716000.0    176954000.0       183590000.0
+Normalized Income                                           613426867.814521 -876502910.223975     24292200.0  294995591.727284
+Net Income From Continuing And Discontinued Operation            605101000.0      -888874000.0     12797000.0       287487000.0
+Total Expenses                                                 17971701000.0     20895408000.0  19319382000.0     16297594000.0
+Diluted Average Shares                                                   NaN       362406000.0    363704535.0       361152677.0
+Basic Average Shares                                                     NaN       362406000.0    362404322.0       360105424.0
+Diluted EPS                                                              NaN             -2.48       0.039532          0.800523
+Basic EPS                                                                NaN             -2.48       0.039532          0.800523
+Diluted NI Availto Com Stockholders                              605101000.0      -888874000.0     12797000.0       287487000.0
+Net Income Common Stockholders                                   605101000.0      -888874000.0     12797000.0       287487000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0            0.0               0.0
+Net Income                                                       605101000.0      -888874000.0     12797000.0       287487000.0
+Minority Interests                                                       NaN               NaN            NaN               0.0
+Net Income Including Noncontrolling Interests                    605101000.0      -888874000.0     12797000.0       287487000.0
+Net Income Continuous Operations                                 605101000.0      -888874000.0     12797000.0       287487000.0
+Tax Provision                                                    206849000.0        -7969000.0    163607000.0       177173000.0
+Pretax Income                                                    811950000.0      -896843000.0    176404000.0       464660000.0
+Other Non Operating Income Expenses                              710504000.0        14105000.0    195887000.0       184688000.0
+Special Income Charges                                           -11172000.0       -12482000.0    -14369000.0       -12136000.0
+Write Off                                                         11172000.0        12482000.0     14369000.0        12136000.0
+Net Non Operating Interest Income Expense                       -226537000.0      -212716000.0   -176954000.0      -183590000.0
+Interest Expense Non Operating                                   226537000.0       212716000.0    176954000.0       183590000.0
+Operating Income                                                 342228000.0      -684397000.0    171973000.0       477615000.0
+Operating Expense                                               5277618000.0      5647589000.0   4627064000.0      4139136000.0
+Research And Development                                         178143000.0       221388000.0    245774000.0       281422000.0
+Selling General And Administration                              5099475000.0      5426201000.0   4381290000.0      3857714000.0
+Selling And Marketing Expense                                   2268736000.0      2035670000.0   1930816000.0      1577998000.0
+General And Administrative Expense                              2830739000.0      3390531000.0   2450474000.0      2279716000.0
+Gross Profit                                                    5619846000.0      4963192000.0   4799037000.0      4616751000.0
+Cost Of Revenue                                                12694083000.0     15247819000.0  14692318000.0     12158458000.0
+Total Revenue                                                  18313929000.0     20211011000.0  19491355000.0     16775209000.0
+Operating Revenue                                              18313929000.0     20211011000.0  19491355000.0     16775209000.0

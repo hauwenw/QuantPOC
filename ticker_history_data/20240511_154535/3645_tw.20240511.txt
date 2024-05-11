@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 127, Wender Road
+address2	Section 3 Shinpu Jen
+city	Hsinchu
+zip	30541
+country	Taiwan
+phone	886 3 589 6088
+fax	886 3 589 6099
+website	https://www.taimide.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Taimide Tech. Inc., together with its subsidiaries, engages in the manufacture and sale of polyimide films in Taiwan, China, South Korea, Japan, the United States, and internationally. It provides various polyimide films for use in flexible printed circuit boards (PCBs), cover lays, stiffeners, composited PIs, 3L FCCLs, general industries, heat-resistant tapes, pressure-sensitive tapes, rigid-flex PCBs, flexible displays, flexible electronics, LED light bars, barcodes, etc. The company was incorporated in 2000 and is headquartered in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chen Ying  Huang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dai-Tsun  Chen', 'title': 'Vice President of Financial Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chen-Ying  Huang', 'title': 'Vice President of Sales & Marketing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Meiling  Zeng', 'title': 'Executive Deputy GM of Manufacturing Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mengan  Zhong', 'title': 'Associate Director of Asset Protection Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jinxing  Jin', 'title': 'Deputy General Manager of Research & Development Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.45
+open	43.8
+dayLow	43.05
+dayHigh	44.4
+regularMarketPreviousClose	43.45
+regularMarketOpen	43.8
+regularMarketDayLow	43.05
+regularMarketDayHigh	44.4
+dividendRate	0.6
+dividendYield	0.0139
+exDividendDate	1690761600	 (2023-07-31 08:00:00)
+payoutRatio	1.0653
+fiveYearAvgDividendYield	2.53
+beta	1.177
+forwardPE	14.321192
+volume	876971
+regularMarketVolume	876971
+averageVolume	2333461
+averageVolume10days	1081388
+averageDailyVolume10Day	1081388
+bid	43.25
+ask	43.4
+marketCap	5717866496
+fiftyTwoWeekLow	32.65
+fiftyTwoWeekHigh	52.9
+priceToSalesTrailing12Months	3.5893226
+fiftyDayAverage	43.409
+twoHundredDayAverage	42.48725
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.006904488
+currency	TWD
+enterpriseValue	7092358144
+profitMargins	-0.087419994
+floatShares	115470491
+sharesOutstanding	132205000
+heldPercentInsiders	0.27287
+heldPercentInstitutions	0.0141900005
+impliedSharesOutstanding	132205000
+bookValue	21.223
+priceToBook	2.0378835
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-139268000
+trailingEps	-0.06
+forwardEps	3.02
+lastSplitFactor	1050:1000
+lastSplitDate	1563926400	 (2019-07-24 08:00:00)
+enterpriseToRevenue	4.452
+enterpriseToEbitda	31.216
+52WeekChange	0.3027109
+SandP52WeekChange	0.26265144
+lastDividendValue	0.599918
+lastDividendDate	1690761600	 (2023-07-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3645.TW
+underlyingSymbol	3645.TW
+shortName	TAIMIDE TECH INC
+longName	Taimide Tech. Inc.
+firstTradeDateEpochUtc	1317776400	 (2011-10-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e54b6764-9b2a-3579-8848-7016ba5833d3
+messageBoardId	finmb_53568968
+gmtOffSetMilliseconds	28800000
+currentPrice	43.25
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	382259008
+totalCashPerShare	2.891
+ebitda	227206000
+totalDebt	1745929984
+quickRatio	0.643
+currentRatio	1.061
+totalRevenue	1593021056
+debtToEquity	61.988
+revenuePerShare	12.072
+returnOnAssets	-0.01569
+returnOnEquity	-0.052449998
+freeCashflow	147017872
+operatingCashflow	326385984
+revenueGrowth	0.109
+grossMargins	0.15151
+ebitdaMargins	0.14263
+operatingMargins	-0.20121999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     -17600.0      -25000.0      -7514.349498      51514.634723
+Tax Rate For Calcs                                                   0.2           0.2          0.214696          0.102415
+Normalized EBITDA                                            270526000.0   512972000.0       777171000.0       743730000.0
+Total Unusual Items                                             -88000.0     -125000.0          -35000.0          503000.0
+Total Unusual Items Excluding Goodwill                          -88000.0     -125000.0          -35000.0          503000.0
+Net Income From Continuing Operation Net Minority Interest  -139268000.0   148758000.0       303309000.0       359014000.0
+Reconciled Depreciation                                      377948000.0   352805000.0       372006000.0       325516000.0
+Reconciled Cost Of Revenue                                  1351660000.0  1408388000.0      1626372000.0      1256246000.0
+EBITDA                                                       270438000.0   512847000.0       777136000.0       744233000.0
+EBIT                                                        -107510000.0   160042000.0       405130000.0       418717000.0
+Net Interest Income                                          -30394000.0   -29148000.0       -29034000.0       -28406000.0
+Interest Expense                                              34124000.0    30972000.0        30204000.0        29779000.0
+Interest Income                                                3730000.0     1824000.0         1170000.0         1373000.0
+Normalized Income                                           -139197600.0   148858000.0  303336485.650502  358562514.634723
+Net Income From Continuing And Discontinued Operation       -139268000.0   148758000.0       303309000.0       359014000.0
+Total Expenses                                              1719046000.0  1751697000.0      2000520000.0      1597059000.0
+Diluted Average Shares                                       131958000.0   132512000.0       132368000.0       131372000.0
+Basic Average Shares                                         131958000.0   131607000.0       130798000.0       130060000.0
+Diluted EPS                                                        -1.06          1.12              2.29              2.73
+Basic EPS                                                          -1.06          1.13              2.32              2.76
+Diluted NI Availto Com Stockholders                         -139268000.0   148758000.0       303309000.0       359014000.0
+Net Income Common Stockholders                              -139268000.0   148758000.0       303309000.0       359014000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                  -139268000.0   148758000.0       303309000.0       359014000.0
+Minority Interests                                            14217000.0    12501000.0         8878000.0         9909000.0
+Net Income Including Noncontrolling Interests               -153485000.0   136257000.0       294431000.0       349105000.0
+Net Income Continuous Operations                            -153485000.0   136257000.0       294431000.0       349105000.0
+Tax Provision                                                 11851000.0    -7187000.0        80495000.0        39833000.0
+Pretax Income                                               -141634000.0   129070000.0       374926000.0       388938000.0
+Other Non Operating Income Expenses                           14873000.0    20680000.0        13385000.0           39000.0
+Special Income Charges                                          -88000.0     -125000.0          -35000.0          503000.0
+Write Off                                                        88000.0      125000.0           35000.0         -503000.0
+Net Non Operating Interest Income Expense                    -30394000.0   -29148000.0       -29034000.0       -28406000.0
+Interest Expense Non Operating                                34124000.0    30972000.0        30204000.0        29779000.0
+Interest Income Non Operating                                  3730000.0     1824000.0         1170000.0         1373000.0
+Operating Income                                            -126025000.0   137663000.0       390610000.0       416802000.0
+Operating Expense                                            367386000.0   343309000.0       374148000.0       340813000.0
+Research And Development                                     218231000.0   183742000.0       220104000.0       179466000.0
+Selling General And Administration                           149155000.0   159567000.0       154044000.0       161347000.0
+Selling And Marketing Expense                                 48409000.0    45065000.0        41638000.0        38188000.0
+General And Administrative Expense                           100746000.0   114502000.0       112406000.0       123159000.0
+Gross Profit                                                 241361000.0   480972000.0       764758000.0       757615000.0
+Cost Of Revenue                                             1351660000.0  1408388000.0      1626372000.0      1256246000.0
+Total Revenue                                               1593021000.0  1889360000.0      2391130000.0      2013861000.0
+Operating Revenue                                           1593021000.0  1889360000.0      2391130000.0      2013861000.0

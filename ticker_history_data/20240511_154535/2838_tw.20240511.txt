@@ -1,0 +1,136 @@
+=== Ticker Info ===
+address1	No.109, Minsheng East Road
+address2	3rd Floor Sec. 3 Songshan District
+city	Taipei
+zip	105
+country	Taiwan
+phone	886 2 2718 0001
+website	https://www.ubot.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Union Bank of Taiwan provides various banking products and services in Taiwan. It operates through Corporate Banking Unit, Consumer Banking Unit, Wealth Management and Trust Unit, Investing Unit, and Leasing Unit segments. The company involved in various activities, which cover loans, remittances, acceptances, short-term bill transactions, investments, foreign exchange transactions, savings, and trusts. It also accepts deposit products; and provides corporate loans, discount bills and notes, domestic letters of credit and accounts receivable factoring, mortgages, auto loans, personal loans, and other consumer credit. In addition, the company handles exports, imports, foreign remittances, foreign currency loans, and guarantees; offers credit card, wealth management, trust, custodian business, safe-deposit box rental, and certification services for marketable securities; trades in marketable securities and futures on behalf of customers; and acts as collecting and paying agent for public facilities fees, taxes, and remittances, as well as operates as a life and property insurance agency. Further, the company involved in the retail and distribution of hardware and software products; development of system programs; outsourcing of system development; website designing; provision of e-commerce services; car rental; import and export financing; securities investment trust; and installment purchase and lease investment businesses. Additionally, it engages in real estate activities; venture capital; general business investment; consulting; and power generation, transmission, distribution, and energy technology service business; and investment management advisory and equipment leasing activities. Union Bank of Taiwan was founded in 1989 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zhen-Xong  Jiang', 'title': 'MD & Director', 'fiscalYear': 2008, 'totalPay': 620000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Wen  Hsu', 'title': 'President', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Feng  Hsueh', 'title': 'VP & GM of Operations Center', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Wen  Chen', 'title': 'Chief Compliance Officer, VP and GM of Legal Affairs & Compliance Dept.', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Chun  Kao', 'title': 'VP and GM of Product Development & Marketing Dept.', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiao-Chen  Lin', 'title': 'Executive VP & GM of Human Resources Department', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chu-Chang  Yang', 'title': 'Senior Executive Vice President', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Ming  Chien', 'title': 'Chief Corporate Governance Officer', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pi-Chiu  Tang', 'title': 'EVP & GM of Consumer Banking Dept', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jane  Lu', 'title': 'Senior VP & Branch Manager', 'fiscalYear': 2008, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1230681600
+maxAge	86400
+priceHint	2
+previousClose	15.55
+open	15.55
+dayLow	15.5
+dayHigh	15.65
+regularMarketPreviousClose	15.55
+regularMarketOpen	15.55
+regularMarketDayLow	15.5
+regularMarketDayHigh	15.65
+dividendRate	0.1
+dividendYield	0.0064
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.099
+beta	0.315
+trailingPE	15.495049
+volume	2082423
+regularMarketVolume	2082423
+averageVolume	2142580
+averageVolume10days	2523015
+averageDailyVolume10Day	2523015
+bid	15.6
+ask	15.65
+marketCap	59140562944
+fiftyTwoWeekLow	13.1
+fiftyTwoWeekHigh	16.142857
+priceToSalesTrailing12Months	3.417298
+fiftyDayAverage	15.129
+twoHundredDayAverage	14.3145
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.012861736
+currency	TWD
+enterpriseValue	-13871010816
+profitMargins	0.24946
+floatShares	878153098
+sharesOutstanding	3778949888
+heldPercentInsiders	0.47044
+heldPercentInstitutions	0.01843
+impliedSharesOutstanding	3791030016
+bookValue	17.58
+priceToBook	0.8902161
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.435
+netIncomeToCommon	3837285888
+trailingEps	1.01
+lastSplitFactor	1050:1000
+lastSplitDate	1690329600	 (2023-07-26 08:00:00)
+enterpriseToRevenue	-0.802
+52WeekChange	0.020652175
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2838.TW
+underlyingSymbol	2838.TW
+shortName	UNION BANK OF TAIWAN
+longName	Union Bank of Taiwan
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	aba4e704-8ac5-33c0-b975-7561128d05e4
+messageBoardId	finmb_9833272
+gmtOffSetMilliseconds	28800000
+currentPrice	15.65
+recommendationKey	none
+totalCash	170241638400
+totalCashPerShare	45.05
+totalDebt	93021503488
+totalRevenue	17306234880
+revenuePerShare	4.581
+returnOnAssets	0.00484
+returnOnEquity	0.0646
+operatingCashflow	-33516587008
+earningsGrowth	-0.451
+revenueGrowth	-0.036
+operatingMargins	0.20323999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -13477555.696922  -281267504.451869   -22068253.202729    16351400.407187
+Tax Rate For Calcs                                                   0.174718           0.221602           0.143342           0.126893
+Total Unusual Items                                               -77139000.0      -1269245000.0       -153955000.0        128860000.0
+Total Unusual Items Excluding Goodwill                            -77139000.0      -1269245000.0       -153955000.0        128860000.0
+Net Income From Continuing Operation Net Minority Interest       4317286000.0       3539070000.0       4463768000.0       3441709000.0
+Reconciled Depreciation                                          2666665000.0       2713880000.0       2637588000.0       2492408000.0
+Net Interest Income                                              8351987000.0       9841735000.0       8661671000.0       7641060000.0
+Interest Expense                                                11618055000.0       5120855000.0       2973928000.0       4282424000.0
+Interest Income                                                 19970042000.0      14962590000.0      11635599000.0      11923484000.0
+Normalized Income                                           4380947444.303078  4527047495.548131  4595654746.797271  3329200400.407187
+Net Income From Continuing And Discontinued Operation            4317286000.0       3539070000.0       4463768000.0       3441709000.0
+Diluted Average Shares                                                    NaN       3779017000.0       3773665350.0       3766276180.0
+Basic Average Shares                                                      NaN       3772466000.0       3764885250.0       3757065348.0
+Diluted EPS                                                               NaN               0.81           1.057143           0.787453
+Basic EPS                                                                 NaN               0.81           1.057143           0.787453
+Diluted NI Availto Com Stockholders                              4317286000.0       3539070000.0       4463768000.0       3441709000.0
+Net Income Common Stockholders                                   4317286000.0       3539070000.0       4463768000.0       3441709000.0
+Net Income                                                       4317286000.0       3539070000.0       4463768000.0       3441709000.0
+Minority Interests                                                 -3394000.0         -2464000.0           372000.0           204000.0
+Net Income Including Noncontrolling Interests                    4320680000.0       3541534000.0       4463396000.0       3441505000.0
+Net Income Continuous Operations                                 4320680000.0       3541534000.0       4463396000.0       3441505000.0
+Tax Provision                                                     914717000.0       1008240000.0        746848000.0        500170000.0
+Pretax Income                                                    5235397000.0       4549774000.0       5210244000.0       3941675000.0
+Other Non Operating Income Expenses                               302682000.0        375849000.0        181313000.0        108071000.0
+Special Income Charges                                            -77139000.0      -1269245000.0       -153955000.0        128860000.0
+Write Off                                                          77139000.0       1269245000.0        153955000.0       -128860000.0
+Gain On Sale Of Security                                         2296333000.0        585156000.0       1482860000.0       2189763000.0
+Operating Expense                                               12070837000.0      10936188000.0      10672705000.0      10198147000.0
+Other Operating Expenses                                                  0.0                0.0                0.0                0.0
+Depreciation And Amortization In Income Statement                2666665000.0       2713880000.0       2637588000.0       2492408000.0
+Depreciation Income Statement                                    2666665000.0       2713880000.0       2637588000.0       2492408000.0
+Selling General And Administration                               4722137000.0       3923613000.0       3733423000.0       3739857000.0
+General And Administrative Expense                               4722137000.0       3923613000.0       3733423000.0       3739857000.0
+Total Revenue                                                   17729312000.0      16934636000.0      16668905000.0      14243924000.0
+Operating Revenue                                               17729312000.0      16934636000.0      16668905000.0      14243924000.0

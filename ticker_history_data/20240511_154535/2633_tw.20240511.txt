@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 66, Jingmao 2nd Road
+address2	Floor 13 Nangang District
+city	Taipei
+zip	11568
+country	Taiwan
+phone	886 2 8789 2000
+fax	886 2 8789 3000
+website	https://www.thsrc.com.tw
+industry	Railroads
+industryKey	railroads
+industryDisp	Railroads
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Taiwan High Speed Rail Corporation constructs, operates, and manages a high-speed railway system and related facilities in Taiwan. It operates 350 kilometers length of rail system passing through Nangang, Taipei, Banqiao, Taoyuan, Hsinchu, Miaoli, Taichung, Changhua, Yunlin, Chiayi, Tainan, and Zuoying stations. The company was founded in 1987 and is based in Taipei, Taiwan.
+fullTimeEmployees	4732
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kung-Yeun  Jeng', 'title': 'CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Allen  Wang', 'title': 'Vice President of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Griffin  Huang', 'title': 'Assistant Vice President of Accounting Department of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Barret  Wang', 'title': 'Senior Vice President of Administration', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mandy  Ko', 'title': 'Assistant Vice President of Legal Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Hsin  Yu', 'title': 'Chief Engineer & AVP of Core Technology Development Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	30.25
+open	30.25
+dayLow	30.1
+dayHigh	30.4
+regularMarketPreviousClose	30.25
+regularMarketOpen	30.25
+regularMarketDayLow	30.1
+regularMarketDayHigh	30.4
+dividendRate	0.67
+dividendYield	0.0221
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	0.482
+fiveYearAvgDividendYield	3.08
+trailingPE	21.834534
+forwardPE	26.163794
+volume	2744649
+regularMarketVolume	2744649
+averageVolume	3762070
+averageVolume10days	3572976
+averageDailyVolume10Day	3572976
+bid	30.35
+ask	30.4
+marketCap	170818600960
+fiftyTwoWeekLow	29.0
+fiftyTwoWeekHigh	33.75
+priceToSalesTrailing12Months	3.3466446
+fiftyDayAverage	29.984
+twoHundredDayAverage	29.946
+currency	TWD
+enterpriseValue	406548742144
+profitMargins	0.15291001
+floatShares	2243142342
+sharesOutstanding	5628290048
+heldPercentInsiders	0.56938
+heldPercentInstitutions	0.17807
+impliedSharesOutstanding	5656110080
+bookValue	12.896
+priceToBook	2.353443
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.009
+netIncomeToCommon	7804904960
+trailingEps	1.39
+forwardEps	1.16
+lastSplitFactor	0.4:1
+lastSplitDate	1449792000	 (2015-12-11 08:00:00)
+enterpriseToRevenue	7.965
+enterpriseToEbitda	11.644
+52WeekChange	-0.045597494
+SandP52WeekChange	0.26265144
+lastDividendValue	0.67
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2633.TW
+underlyingSymbol	2633.TW
+shortName	TAIWAN HIGH SPEED RAIL CORP
+longName	Taiwan High Speed Rail Corporation
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	aa4f3540-e7f5-3f2d-8990-0f5d2dbc396d
+messageBoardId	finmb_9532370
+gmtOffSetMilliseconds	28800000
+currentPrice	30.35
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	10992843776
+totalCashPerShare	1.93
+ebitda	34913910784
+totalDebt	244689895424
+quickRatio	0.272
+currentRatio	0.884
+totalRevenue	51041751040
+debtToEquity	333.167
+revenuePerShare	9.029
+returnOnAssets	0.03292
+returnOnEquity	0.10927
+freeCashflow	6655634432
+operatingCashflow	22481610752
+earningsGrowth	-0.021
+revenueGrowth	0.101
+grossMargins	0.44779998
+ebitdaMargins	0.68403
+operatingMargins	0.44002998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.196506       0.116346       0.153483            0.2
+Normalized EBITDA                                           30225149000.0  24132979000.0  24281535000.0  25514097000.0
+Net Income From Continuing Operation Net Minority Interest   7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Reconciled Depreciation                                     13671774000.0  13635530000.0  14258669000.0  14175575000.0
+Reconciled Cost Of Revenue                                  27618817000.0  25890103000.0  25702330000.0  26095054000.0
+EBITDA                                                      30225149000.0  24132979000.0  24281535000.0  25514097000.0
+EBIT                                                        16553375000.0  10497449000.0  10022866000.0  11338522000.0
+Net Interest Income                                         -6395592000.0  -6026819000.0  -5661811000.0  -5784363000.0
+Interest Expense                                             6815554000.0   6231824000.0   5757241000.0   5919211000.0
+Interest Income                                               419962000.0    205005000.0     95430000.0    134848000.0
+Normalized Income                                            7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Net Income From Continuing And Discontinued Operation        7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Total Expenses                                              29280002000.0  27212825000.0  26910005000.0  27330520000.0
+Diluted Average Shares                                                NaN   5625876119.0   5642065625.0   5628293000.0
+Basic Average Shares                                                  NaN   5625876119.0   5642065625.0   5628293000.0
+Diluted EPS                                                           NaN           0.67           0.64           1.04
+Basic EPS                                                             NaN           0.67           0.64           1.04
+Diluted NI Availto Com Stockholders                          7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Net Income Common Stockholders                               7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Net Income Including Noncontrolling Interests                7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Net Income Continuous Operations                             7824283000.0   3769337000.0   3610922000.0   5843037000.0
+Tax Provision                                                1913538000.0    496288000.0    654703000.0   -423726000.0
+Pretax Income                                                9737821000.0   4265625000.0   4265625000.0   5419311000.0
+Other Non Operating Income Expenses                         -4398608000.0    372036000.0   6609554000.0   -603011000.0
+Net Non Operating Interest Income Expense                   -6395592000.0  -6026819000.0  -5661811000.0  -5784363000.0
+Interest Expense Non Operating                               6815554000.0   6231824000.0   5757241000.0   5919211000.0
+Interest Income Non Operating                                 419962000.0    205005000.0     95430000.0    134848000.0
+Operating Income                                            20532021000.0   9920408000.0   3317882000.0  11806685000.0
+Operating Expense                                            1661185000.0   1322722000.0   1207675000.0   1235466000.0
+Other Operating Expenses                                     1661185000.0   1322722000.0   1207675000.0   1235466000.0
+Gross Profit                                                22193206000.0  11243130000.0   4525557000.0  13042151000.0
+Cost Of Revenue                                             27618817000.0  25890103000.0  25702330000.0  26095054000.0
+Total Revenue                                               49812023000.0  37133233000.0  30227887000.0  39137205000.0
+Operating Revenue                                           49812023000.0  37133233000.0  30227887000.0  39137205000.0

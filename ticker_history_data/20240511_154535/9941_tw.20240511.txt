@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No.2, Dunhua South Road
+address2	15th Floor Section 2 Daan District
+city	Taipei
+zip	10683
+country	Taiwan
+phone	886 2 2702 5055
+website	https://www.tac.com.tw
+industry	Credit Services
+industryKey	credit-services
+industryDisp	Credit Services
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Yulon Finance Corporation provides various financial services in Taiwan, China, and internationally. It offers vehicle and personal financing services, including new and used car, and motorcycle loan installments; auto mortgage loans; and auto leasing services, as well as installment plans for other products and services. The company also provides corporate financing services, such as installment plans for heavy vehicles and equipment leasing services. In addition, it offers used car sale intermediation services comprising auto auction and vehicle inspection. Yulon Finance Corporation was incorporated in 1990 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kuo-Hsing  Hsu', 'title': 'President & Vice Chairperson', 'fiscalYear': 2021, 'totalPay': 13569000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jun  Chen', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Chuang', 'title': 'Company Secretary & Senior AVP', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	145.0
+open	146.0
+dayLow	144.0
+dayHigh	146.0
+regularMarketPreviousClose	145.0
+regularMarketOpen	146.0
+regularMarketDayLow	144.0
+regularMarketDayHigh	146.0
+dividendRate	5.6
+dividendYield	0.038599998
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.5517
+fiveYearAvgDividendYield	3.56
+beta	0.564
+trailingPE	14.285715
+forwardPE	9.863946
+volume	1095857
+regularMarketVolume	1095857
+averageVolume	1388803
+averageVolume10days	916187
+averageDailyVolume10Day	916187
+bid	144.5
+ask	145.0
+marketCap	79492628480
+fiftyTwoWeekLow	141.5
+fiftyTwoWeekHigh	200.0
+priceToSalesTrailing12Months	1.9159757
+fiftyDayAverage	149.94
+twoHundredDayAverage	173.165
+trailingAnnualDividendRate	6.1
+trailingAnnualDividendYield	0.042068966
+currency	TWD
+enterpriseValue	313971638272
+profitMargins	0.15123
+floatShares	240489861
+sharesOutstanding	548225024
+heldPercentInsiders	0.52845
+heldPercentInstitutions	0.05171
+impliedSharesOutstanding	548225024
+bookValue	64.539
+priceToBook	2.2467034
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.231
+netIncomeToCommon	6067444224
+trailingEps	10.15
+forwardEps	14.7
+lastSplitFactor	1100:1000
+lastSplitDate	1690243200	 (2023-07-25 08:00:00)
+enterpriseToRevenue	7.568
+enterpriseToEbitda	39.081
+52WeekChange	-0.15384614
+SandP52WeekChange	0.26265144
+lastDividendValue	5.6
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9941.TW
+underlyingSymbol	9941.TW
+shortName	YULON FINANCE CORPORATION
+longName	Yulon Finance Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	49f62dd6-5887-38c2-860a-6f475962d6a7
+messageBoardId	finmb_20362567
+gmtOffSetMilliseconds	28800000
+currentPrice	145.0
+targetHighPrice	160.0
+targetLowPrice	160.0
+targetMeanPrice	160.0
+targetMedianPrice	160.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	8970845184
+totalCashPerShare	16.363
+ebitda	8033961984
+totalDebt	239389884416
+quickRatio	0.967
+currentRatio	1.029
+totalRevenue	41489371136
+debtToEquity	606.943
+revenuePerShare	75.711
+returnOnAssets	0.01708
+returnOnEquity	0.16991
+freeCashflow	-2859217408
+operatingCashflow	-11181227008
+earningsGrowth	-0.247
+revenueGrowth	0.088
+grossMargins	0.54662
+ebitdaMargins	0.19364001
+operatingMargins	0.10325
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                 -1183772538.695464  -790307539.548713  -672129732.880688  -924255372.754877
+Tax Rate For Calcs                                                    0.240046           0.260707           0.236941           0.218363
+Normalized EBITDA                                                 8455283000.0       6036165000.0       6263460000.0       7857658000.0
+Total Unusual Items                                              -4931432000.0      -3031399000.0      -2836691000.0      -4232651000.0
+Total Unusual Items Excluding Goodwill                           -4931432000.0      -3031399000.0      -2836691000.0      -4232651000.0
+Net Income From Continuing Operation Net Minority Interest        6274510000.0       5803991000.0       5153626000.0       3139301000.0
+Reconciled Depreciation                                          10273545000.0       9400518000.0       8513228000.0       8121692000.0
+Reconciled Cost Of Revenue                                       13901303000.0      12195525000.0      11955496000.0      11907626000.0
+EBITDA                                                            3523851000.0       3004766000.0       3426769000.0       3625007000.0
+EBIT                                                             -6749694000.0      -6395752000.0      -5086459000.0      -4496685000.0
+Net Interest Income                                              24428076000.0      21525212000.0      17272826000.0      15276580000.0
+Interest Income                                                  24428076000.0      21525212000.0      17272826000.0      15276580000.0
+Normalized Income                                           10022169461.304537  8045082460.451287  7318187267.119312  6447696627.245123
+Net Income From Continuing And Discontinued Operation             6274510000.0       5803991000.0       5153626000.0       3139301000.0
+Total Expenses                                                   23810989000.0      21427259000.0      19775814000.0      18852969000.0
+Rent Expense Supplemental                                         8503979000.0       7280664000.0       6669073000.0       6489047000.0
+Diluted Average Shares                                             548273000.0        511449000.0        492083900.0        503760976.0
+Basic Average Shares                                               547998000.0        511110000.0        491822100.0        503353968.0
+Diluted EPS                                                              11.07              10.96          10.063636           5.838243
+Basic EPS                                                                11.07              10.96          10.072727           5.838243
+Diluted NI Availto Com Stockholders                               6274510000.0       5803991000.0       5153626000.0       3139301000.0
+Net Income Common Stockholders                                    6274510000.0       5803991000.0       5153626000.0       3139301000.0
+Otherunder Preferred Stock Dividend                                        0.0                0.0                0.0                0.0
+Net Income                                                        6274510000.0       5803991000.0       5153626000.0       3139301000.0
+Minority Interests                                                -128938000.0       -324441000.0       -206017000.0        242051000.0
+Net Income Including Noncontrolling Interests                     6403448000.0       6128432000.0       5359643000.0       2897250000.0
+Net Income Continuous Operations                                  6403448000.0       6128432000.0       5359643000.0       2897250000.0
+Tax Provision                                                     2022656000.0       2161155000.0       1664252000.0        809395000.0
+Pretax Income                                                     8426104000.0       8289587000.0       7023895000.0       3706645000.0
+Other Non Operating Income Expenses                                394187000.0        308502000.0        183666000.0        115748000.0
+Special Income Charges                                           -4931432000.0      -3031399000.0      -2836691000.0      -4232651000.0
+Write Off                                                         4931432000.0       3031399000.0       2836691000.0       4232651000.0
+Net Non Operating Interest Income Expense                        24428076000.0      21525212000.0      17272826000.0      15276580000.0
+Interest Income Non Operating                                    24428076000.0      21525212000.0      17272826000.0      15276580000.0
+Operating Income                                                 -6749694000.0      -6395752000.0      -5086459000.0      -4496685000.0
+Operating Expense                                                 9909686000.0       9231734000.0       7820318000.0       6945343000.0
+Other Operating Expenses                                          9909686000.0       9231734000.0       7820318000.0       6945343000.0
+Gross Profit                                                      3159992000.0       2835982000.0       2733859000.0       2448658000.0
+Cost Of Revenue                                                  13901303000.0      12195525000.0      11955496000.0      11907626000.0
+Total Revenue                                                    17061295000.0      15031507000.0      14689355000.0      14356284000.0
+Operating Revenue                                                17061295000.0      15031507000.0      14689355000.0      14356284000.0

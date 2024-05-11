@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 17, Wugong 5th Road
+address2	Hsing Chuang District
+city	New Taipei City
+zip	24890
+country	Taiwan
+phone	886 2 2299 0001
+fax	886 2 2299 4529
+website	https://www.i-chiun.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	I-Chiun Precision Industry Co., Ltd. manufactures, processes, and trades in machinery and parts, electronic parts, parts for appliances, semiconductor and optoelectronic LED lead frames, precision molds in Taiwan, China, and internationally. It offers lead frame (LED/SMD), heat spreader, TV backlight module, ceramic substrate, and IC lead frame. The company also engages in import and export trade; and real estate leasing business. I-Chiun Precision Industry Co., Ltd. was incorporated in 1977 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wan-Shun  Chou', 'title': 'Chairman of the Board & President', 'fiscalYear': 2021, 'totalPay': 21675000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Yi  Lee', 'title': 'Vice Chairman & President of LED Business Unit', 'fiscalYear': 2021, 'totalPay': 14279000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tung-Jung  Hsieh', 'title': 'President of Marketing Center', 'fiscalYear': 2021, 'totalPay': 9374000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Feng  Huang', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 3757000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Yung  Chen', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'totalPay': 2712000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiu-Hsing  Liu', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min-Chen  Tsai', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pai-Jung  Yang', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Wei  Lu', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Wei  Huang', 'title': 'Assistant Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+irWebsite	http://www.i-chiun.com.tw/_en/05_ir/00_overview.php
+maxAge	86400
+priceHint	2
+previousClose	84.9
+open	85.9
+dayLow	82.0
+dayHigh	86.8
+regularMarketPreviousClose	84.9
+regularMarketOpen	85.9
+regularMarketDayLow	82.0
+regularMarketDayHigh	86.8
+dividendRate	0.4
+dividendYield	0.0047999998
+exDividendDate	1686700800	 (2023-06-14 08:00:00)
+payoutRatio	0.4348
+fiveYearAvgDividendYield	5.79
+beta	1.395
+trailingPE	91.304344
+forwardPE	16.969698
+volume	37661619
+regularMarketVolume	37661619
+averageVolume	34452342
+averageVolume10days	54871938
+averageDailyVolume10Day	54871938
+bid	83.9
+ask	84.0
+marketCap	18496968704
+fiftyTwoWeekLow	27.4
+fiftyTwoWeekHigh	90.0
+priceToSalesTrailing12Months	3.6492558
+fiftyDayAverage	64.709
+twoHundredDayAverage	51.46375
+trailingAnnualDividendRate	0.65
+trailingAnnualDividendYield	0.0076560657
+currency	TWD
+enterpriseValue	18952382464
+profitMargins	0.03963
+floatShares	182038791
+sharesOutstanding	220202000
+heldPercentInsiders	0.23115
+heldPercentInstitutions	0.01582
+impliedSharesOutstanding	220202000
+bookValue	19.033
+priceToBook	4.413387
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	200887008
+trailingEps	0.92
+forwardEps	4.95
+lastSplitFactor	1.0457:1
+lastSplitDate	1250726400	 (2009-08-20 08:00:00)
+enterpriseToRevenue	3.739
+enterpriseToEbitda	33.346
+52WeekChange	2.0601094
+SandP52WeekChange	0.26265144
+lastDividendValue	0.4
+lastDividendDate	1686700800	 (2023-06-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2486.TW
+underlyingSymbol	2486.TW
+shortName	I-CHIUN PRECISION INDUSTRY CO
+longName	I-Chiun Precision Industry Co., Ltd.
+firstTradeDateEpochUtc	953686800	 (2000-03-22 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1bee08f1-9abc-3f21-a67e-e020cf210516
+messageBoardId	finmb_9870462
+gmtOffSetMilliseconds	28800000
+currentPrice	84.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	1709697024
+totalCashPerShare	7.764
+ebitda	568361024
+totalDebt	1972989056
+quickRatio	1.464
+currentRatio	1.948
+totalRevenue	5068696064
+debtToEquity	45.012
+revenuePerShare	23.174
+returnOnAssets	0.014149999
+returnOnEquity	0.046240002
+freeCashflow	415098240
+operatingCashflow	844758016
+revenueGrowth	0.249
+grossMargins	0.14148
+ebitdaMargins	0.11213
+operatingMargins	0.06231
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  10606979.863767  -17337199.275585   -5363063.526443   -23764600.0
+Tax Rate For Calcs                                                  0.186254           0.29434          0.154217           0.2
+Normalized EBITDA                                                701164000.0       732077000.0      1008989000.0   499198000.0
+Total Unusual Items                                               56949000.0       -58902000.0       -34776000.0  -118823000.0
+Total Unusual Items Excluding Goodwill                            56949000.0       -58902000.0       -34776000.0  -118823000.0
+Net Income From Continuing Operation Net Minority Interest       200887000.0       103288000.0       375767000.0  -148047000.0
+Reconciled Depreciation                                          453868000.0       480530000.0       479511000.0   475122000.0
+Reconciled Cost Of Revenue                                      4351582000.0      4617647000.0      4819788000.0  3676594000.0
+EBITDA                                                           758113000.0       673175000.0       974213000.0   380375000.0
+EBIT                                                             304245000.0       192645000.0       494702000.0   -94747000.0
+Net Interest Income                                              -24610000.0       -49142000.0       -33199000.0   -24364000.0
+Interest Expense                                                  59810000.0        62333000.0        41316000.0    35922000.0
+Interest Income                                                   35200000.0        13191000.0         8117000.0    11558000.0
+Normalized Income                                           154544979.863767  144852800.724415  405179936.473557   -52988600.0
+Net Income From Continuing And Discontinued Operation            200887000.0       103288000.0       375767000.0  -148047000.0
+Total Expenses                                                  4949145000.0      5138515000.0      5419244000.0  4125698000.0
+Diluted Average Shares                                                   NaN       222726000.0       210001000.0   200924000.0
+Basic Average Shares                                                     NaN       221891000.0       209356000.0   200924000.0
+Diluted EPS                                                              NaN              0.46              1.79         -0.75
+Basic EPS                                                                NaN              0.47              1.79         -0.75
+Diluted NI Availto Com Stockholders                              200887000.0       103288000.0       375767000.0  -148047000.0
+Net Income Common Stockholders                                   200887000.0       103288000.0       375767000.0  -148047000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0           0.0
+Net Income                                                       200887000.0       103288000.0       375767000.0  -148047000.0
+Minority Interests                                                 1979000.0        11332000.0        -7699000.0     8544000.0
+Net Income Including Noncontrolling Interests                    198908000.0        91956000.0       383466000.0  -156591000.0
+Net Income Continuous Operations                                 198908000.0        91956000.0       383466000.0  -156591000.0
+Tax Provision                                                     45527000.0        38356000.0        69920000.0    25922000.0
+Pretax Income                                                    244435000.0       130312000.0       453386000.0  -130669000.0
+Other Non Operating Income Expenses                               92545000.0       180944000.0       -47793000.0   -59254000.0
+Special Income Charges                                            56949000.0       -58902000.0       -34776000.0  -118823000.0
+Write Off                                                        -56949000.0        58902000.0        34776000.0   118823000.0
+Net Non Operating Interest Income Expense                        -24610000.0       -49142000.0       -33199000.0   -24364000.0
+Interest Expense Non Operating                                    59810000.0        62333000.0        41316000.0    35922000.0
+Interest Income Non Operating                                     35200000.0        13191000.0         8117000.0    11558000.0
+Operating Income                                                 119551000.0        57412000.0       569154000.0    71772000.0
+Operating Expense                                                597563000.0       520868000.0       599456000.0   449104000.0
+Research And Development                                         117139000.0        98450000.0        97639000.0    77392000.0
+Selling General And Administration                               480424000.0       422418000.0       501817000.0   371712000.0
+Selling And Marketing Expense                                    173339000.0       174810000.0       176433000.0   144967000.0
+General And Administrative Expense                               307085000.0       247608000.0       325384000.0   226745000.0
+Gross Profit                                                     717114000.0       578280000.0      1168610000.0   520876000.0
+Cost Of Revenue                                                 4351582000.0      4617647000.0      4819788000.0  3676594000.0
+Total Revenue                                                   5068696000.0      5195927000.0      5988398000.0  4197470000.0
+Operating Revenue                                               5068696000.0      5195927000.0      5988398000.0  4197470000.0

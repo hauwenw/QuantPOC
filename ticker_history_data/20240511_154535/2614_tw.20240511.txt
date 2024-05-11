@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 368, Fuxing South Road
+address2	5th & 8th Floor Sec 1 Da'an District
+city	Taipei City
+zip	10656
+country	Taiwan
+phone	886 2 2755 7565
+fax	886 2 2709 8757
+website	https://www.emic.com.tw
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Eastern Media International Corporation, together with its subsidiaries, provides forwarding, and loading and unloading of grain cargo in Taiwan and China. The company operates through Warehousing, Trading, Media, and Tourism segments. The warehousing segment engages in cargo storage business. The Trading segment operates in retail business. The Media segment is involved in operation of a channel agency and advertising business. The Tourism segment operates a hotel, as well as engage in catering business. It also offers pet foods and supplies, as well as pet beauty services; marketing, research, data collection, and opinion poll services; management consulting and support services; e-commerce portal services; electronic tickets; ticket system construction and integration services; and video advertising services. In addition, the company is involved in investing activities; leisure site management business; real estate leasing business; leasing business; audiovisual and singing, as well as information leisure business; amusement park business; producing and broadcasting TV programs, as well as related shows; wholesale trading activities; wholesale and retail grocery products; land development business; and wholesale of cosmetics, jewelry, and household sundries products. Further, it engages in the handling and operation of wharf and transit shed facilities. The company was formerly known as ET Internet Technology Corporation and changed its name to Eastern Media International Corporation in 2005. Eastern Media International Corporation was founded in 1975 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shang Wen  Liao PH.D.', 'title': 'Chairman & President', 'fiscalYear': 2021, 'totalPay': 3780000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Su Sen Tang', 'title': 'Vice President of Administration Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Feng  Solina', 'title': 'VP of Head Office, Corporate Planning and  R&D Dept', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	19.55
+open	19.85
+dayLow	19.45
+dayHigh	19.65
+regularMarketPreviousClose	19.55
+regularMarketOpen	19.85
+regularMarketDayLow	19.45
+regularMarketDayHigh	19.65
+exDividendDate	1660176000	 (2022-08-11 08:00:00)
+beta	0.581
+volume	295845
+regularMarketVolume	295845
+averageVolume	750883
+averageVolume10days	481617
+averageDailyVolume10Day	481617
+bid	19.55
+ask	19.6
+marketCap	5869750784
+fiftyTwoWeekLow	19.2
+fiftyTwoWeekHigh	30.918547
+priceToSalesTrailing12Months	1.0048194
+fiftyDayAverage	19.848
+twoHundredDayAverage	21.89917
+currency	TWD
+enterpriseValue	16190099456
+profitMargins	-0.046690002
+floatShares	231229198
+sharesOutstanding	300243008
+heldPercentInsiders	0.27874002
+heldPercentInstitutions	0.01308
+impliedSharesOutstanding	300243008
+bookValue	10.998
+priceToBook	1.7775959
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-272764992
+trailingEps	-0.91
+lastSplitFactor	630.6894:1000
+lastSplitDate	1692230400	 (2023-08-17 08:00:00)
+enterpriseToRevenue	2.772
+enterpriseToEbitda	141.675
+52WeekChange	-0.35613692
+SandP52WeekChange	0.26265144
+lastDividendValue	1.585567
+lastDividendDate	1660176000	 (2022-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2614.TW
+underlyingSymbol	2614.TW
+shortName	EASTERN MEDIA INTERNATIONAL COR
+longName	Eastern Media International Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9e57c759-c5c1-3afb-b851-8d38ac7876ad
+messageBoardId	finmb_9342831
+gmtOffSetMilliseconds	28800000
+currentPrice	19.55
+recommendationKey	none
+totalCash	2388965888
+totalCashPerShare	7.957
+ebitda	114276000
+totalDebt	11793405952
+quickRatio	0.861
+currentRatio	1.23
+totalRevenue	5841597952
+debtToEquity	279.608
+revenuePerShare	19.456
+returnOnAssets	-0.00341
+returnOnEquity	-0.08347999
+freeCashflow	-527929120
+operatingCashflow	1487768064
+revenueGrowth	-0.016
+grossMargins	0.29301
+ebitdaMargins	0.01956
+operatingMargins	-0.02152
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                      -1600.0     -203600.0    -2687400.0    -2132400.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                           1389500000.0   108766000.0  2304100000.0  1817605000.0
+Total Unusual Items                                              -8000.0    -1018000.0   -13437000.0   -10662000.0
+Total Unusual Items Excluding Goodwill                           -8000.0    -1018000.0   -13437000.0   -10662000.0
+Net Income From Continuing Operation Net Minority Interest  -272765000.0 -1655102000.0   745493000.0   520859000.0
+Reconciled Depreciation                                     1401240000.0  1363090000.0  1356388000.0  1271479000.0
+Reconciled Cost Of Revenue                                  4129952000.0  4030778000.0  3843658000.0  3283081000.0
+EBITDA                                                      1389492000.0   107748000.0  2290663000.0  1806943000.0
+EBIT                                                         -11748000.0 -1255342000.0   934275000.0   535464000.0
+Net Interest Income                                         -258134000.0  -235833000.0  -218441000.0  -210792000.0
+Interest Expense                                             281223000.0   246880000.0   224123000.0   225745000.0
+Interest Income                                               23089000.0    11047000.0     5682000.0    14953000.0
+Normalized Income                                           -272758600.0 -1654287600.0   756242600.0   529388600.0
+Net Income From Continuing And Discontinued Operation       -272765000.0 -1655102000.0   745493000.0   520859000.0
+Total Expenses                                              5931659000.0  5737217000.0  5341360000.0  4727507000.0
+Diluted Average Shares                                               NaN   327053000.0   344192437.0   316523903.0
+Basic Average Shares                                                 NaN   327053000.0   343609049.0   316045399.0
+Diluted EPS                                                          NaN         -5.06      2.172226      1.638419
+Basic EPS                                                            NaN         -5.06      2.172226      1.656036
+Diluted NI Availto Com Stockholders                         -272765000.0 -1655102000.0   745493000.0   520859000.0
+Net Income Common Stockholders                              -272765000.0 -1655102000.0   745493000.0   520859000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -272765000.0 -1655102000.0   745493000.0   520859000.0
+Minority Interests                                            73317000.0    95144000.0    -3797000.0    27753000.0
+Net Income Including Noncontrolling Interests               -346082000.0 -1750246000.0   749290000.0   493106000.0
+Net Income Discontinuous Operations                                  NaN           NaN           NaN           0.0
+Net Income Continuous Operations                            -346082000.0 -1750246000.0   749290000.0   493106000.0
+Tax Provision                                                 53111000.0   248024000.0   -39138000.0  -183387000.0
+Pretax Income                                               -292971000.0 -1502222000.0   710152000.0   309719000.0
+Other Non Operating Income Expenses                          163622000.0 -1272710000.0   303827000.0   180891000.0
+Special Income Charges                                           -8000.0    -1018000.0   -13437000.0   -10662000.0
+Write Off                                                         8000.0     1018000.0    13437000.0    10662000.0
+Net Non Operating Interest Income Expense                   -258134000.0  -235833000.0  -218441000.0  -210792000.0
+Interest Expense Non Operating                               281223000.0   246880000.0   224123000.0   225745000.0
+Interest Income Non Operating                                 23089000.0    11047000.0     5682000.0    14953000.0
+Operating Income                                             -90061000.0   211847000.0   170559000.0      507000.0
+Operating Expense                                           1801707000.0  1706439000.0  1497702000.0  1444426000.0
+Selling General And Administration                          1801707000.0  1706439000.0  1497702000.0  1444426000.0
+General And Administrative Expense                          1801707000.0  1706439000.0  1497702000.0  1444426000.0
+Gross Profit                                                1711646000.0  1918286000.0  1668261000.0  1444933000.0
+Cost Of Revenue                                             4129952000.0  4030778000.0  3843658000.0  3283081000.0
+Total Revenue                                               5841598000.0  5949064000.0  5511919000.0  4728014000.0
+Operating Revenue                                           5841598000.0  5949064000.0  5511919000.0  4728014000.0

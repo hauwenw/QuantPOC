@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 23, Hsin Hu 3rd Road
+address2	7th Floor Nei Hu
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8791 5888
+website	https://www.testritegroup.com
+industry	Home Improvement Retail
+industryKey	home-improvement-retail
+industryDisp	Home Improvement Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Test-Rite International Co., Ltd. imports and exports household products in Asia, America, Europe, Australia, and internationally. The company operates through Retail, Trading, and Construction segments. It offers shovels, sprinklers, etc.; Christmas gifts; outdoor tables and chairs, ice buckets, tents, etc.; barbecue stoves and other equipment; axes, saws, wrenches, and pliers; screws; automobile accessories and supplies, and repair and maintenance products; home storage box and cabinet, and do it yourself (DIY) furniture supplies; and travel storage products. The company also provides OA furniture and stationery; computer accessories; ceiling and electric fans; wall, table, and floor lamps; indoor and outdoor lighting products; blow-dryers, shavers, and infrared detectors; sports and leisure related products, including bicycles, and beauty and health merchandise; recreational products; and mattresses, sofas, sofa beds, and leisure chairs. In addition, it offers professional services for home improvement, home furnishing, furniture, bedding, interior design, and full-house decorations; and kitchen modification, plumbing and electrical maintenance, waterproofing and leak repair services, as well as air conditioning repair advisory services. Further, the company provides information software and electronic information; hardware and construction materials; interior design; mechanical and electronic engineering; cleaning and landscape design; logistics; other information; condominium management; and tally packaging and property leasing services, as well as builds dwellings and rents buildings. The company was incorporated in 1978 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Judy  Lee', 'title': 'Chairwoman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Linda  Lin', 'title': 'Company Secretary, CFO & Senior VP of Financial Planning', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Robin  Ho', 'title': 'COO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lori  Huang', 'title': 'Chief Information Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Chang', 'title': 'Vice President of the Group Investor Relationship Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. JingJing  Kuo', 'title': 'Vice President of Customer Sales Operation & Shipping', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sabrina  Kuo', 'title': 'Vice President of Human Resources Management', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Ho', 'title': 'CEO of Strategy & New Business Development and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Edward  Kao', 'title': 'Senior Vice President of Product Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bob  Yueh', 'title': 'Senior Vice President of Product Business', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.testritegroup.com/GWS/en/
+maxAge	86400
+priceHint	2
+previousClose	20.85
+open	20.9
+dayLow	20.85
+dayHigh	20.95
+regularMarketPreviousClose	20.85
+regularMarketOpen	20.9
+regularMarketDayLow	20.85
+regularMarketDayHigh	20.95
+dividendRate	1.28
+dividendYield	0.061100002
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	2.4615
+fiveYearAvgDividendYield	5.29
+beta	0.253
+trailingPE	40.288464
+forwardPE	11.703911
+volume	207767
+regularMarketVolume	207767
+averageVolume	224341
+averageVolume10days	223708
+averageDailyVolume10Day	223708
+bid	20.9
+ask	20.95
+marketCap	10382443520
+fiftyTwoWeekLow	20.0
+fiftyTwoWeekHigh	21.4
+priceToSalesTrailing12Months	0.29320168
+fiftyDayAverage	20.648
+twoHundredDayAverage	20.45775
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.02877698
+currency	TWD
+enterpriseValue	29889683456
+profitMargins	0.00728
+floatShares	85859582
+sharesOutstanding	495582016
+heldPercentInsiders	0.79527
+heldPercentInstitutions	0.01205
+impliedSharesOutstanding	495582016
+bookValue	13.224
+priceToBook	1.5842408
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	257699008
+trailingEps	0.52
+forwardEps	1.79
+lastSplitFactor	1.03075:1
+lastSplitDate	1344988800	 (2012-08-15 08:00:00)
+enterpriseToRevenue	0.844
+enterpriseToEbitda	27.594
+52WeekChange	0.019464731
+SandP52WeekChange	0.26265144
+lastDividendValue	1.28
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2908.TW
+underlyingSymbol	2908.TW
+shortName	TEST RITE INTERNATIONAL
+longName	Test-Rite International Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6438faab-dc27-3755-9d84-d8833ef2711a
+messageBoardId	finmb_12718959
+gmtOffSetMilliseconds	28800000
+currentPrice	20.95
+recommendationKey	none
+totalCash	1915438976
+totalCashPerShare	3.865
+ebitda	1083196032
+totalDebt	21182535680
+quickRatio	0.694
+currentRatio	1.196
+totalRevenue	35410587648
+debtToEquity	311.794
+revenuePerShare	71.453
+returnOnAssets	0.0078
+returnOnEquity	0.040510003
+freeCashflow	1384027264
+operatingCashflow	2123294976
+revenueGrowth	0.003
+grossMargins	0.25112
+ebitdaMargins	0.03059
+operatingMargins	0.01303
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -9461400.0      -460200.0   -1597757.577315    -795069.586225
+Tax Rate For Calcs                                                    0.2            0.2          0.191762          0.158317
+Normalized EBITDA                                            3210062000.0   3145155000.0      3616455000.0      3828016000.0
+Total Unusual Items                                           -47307000.0     -2301000.0        -8332000.0        -5022000.0
+Total Unusual Items Excluding Goodwill                        -47307000.0     -2301000.0        -8332000.0        -5022000.0
+Net Income From Continuing Operation Net Minority Interest    257699000.0    425889000.0       782834000.0       791615000.0
+Reconciled Depreciation                                      2306414000.0   2280428000.0      2305754000.0      2521388000.0
+Reconciled Cost Of Revenue                                  26518378000.0  28306199000.0     33902486000.0     31129873000.0
+EBITDA                                                       3162755000.0   3142854000.0      3608123000.0      3822994000.0
+EBIT                                                          856341000.0    862426000.0      1302369000.0      1301606000.0
+Net Interest Income                                          -530856000.0   -400704000.0      -253200000.0      -304959000.0
+Interest Expense                                              595315000.0    437935000.0       290863000.0       342968000.0
+Interest Income                                                64459000.0     37231000.0        37663000.0        38009000.0
+Normalized Income                                             295544600.0    427729800.0  789568242.422685  795841930.413775
+Net Income From Continuing And Discontinued Operation         257699000.0    425889000.0       782834000.0       791615000.0
+Total Expenses                                              34893085000.0  37209930000.0     42989478000.0     40636808000.0
+Diluted Average Shares                                                NaN    495929000.0       495464557.0       495915000.0
+Basic Average Shares                                                  NaN    495582000.0       495464557.0       495582000.0
+Diluted EPS                                                           NaN           0.86              1.58               1.6
+Basic EPS                                                             NaN           0.86              1.58               1.6
+Diluted NI Availto Com Stockholders                           257699000.0    425889000.0       782834000.0       791615000.0
+Net Income Common Stockholders                                257699000.0    425889000.0       782834000.0       791615000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0               0.0               0.0
+Net Income                                                    257699000.0    425889000.0       782834000.0       791615000.0
+Minority Interests                                            -23229000.0    -26140000.0       -34704000.0       -15254000.0
+Net Income Including Noncontrolling Interests                 280928000.0    452029000.0       817538000.0       806869000.0
+Net Income Continuous Operations                              280928000.0    452029000.0       817538000.0       806869000.0
+Tax Provision                                                 -19902000.0    -27538000.0       193968000.0       151769000.0
+Pretax Income                                                 261026000.0    424491000.0      1011506000.0       958638000.0
+Other Non Operating Income Expenses                           317999000.0    628936000.0       505177000.0       114724000.0
+Special Income Charges                                        -47307000.0     -2301000.0        -8332000.0        -5022000.0
+Other Special Charges                                                 NaN            NaN               NaN        14815000.0
+Write Off                                                      47307000.0      2301000.0         8332000.0         5022000.0
+Net Non Operating Interest Income Expense                    -530856000.0   -400704000.0      -253200000.0      -304959000.0
+Interest Expense Non Operating                                595315000.0    437935000.0       290863000.0       342968000.0
+Interest Income Non Operating                                  64459000.0     37231000.0        37663000.0        38009000.0
+Operating Income                                              517504000.0    199329000.0       767880000.0      1153895000.0
+Operating Expense                                            8374707000.0   8903731000.0      9086992000.0      9506935000.0
+Selling General And Administration                           8374707000.0   8903731000.0      9086992000.0      9506935000.0
+Selling And Marketing Expense                                7842320000.0   8293387000.0      8397842000.0      8811851000.0
+General And Administrative Expense                            532387000.0    610344000.0       689150000.0       695084000.0
+Gross Profit                                                 8892211000.0   9103060000.0      9854872000.0     10660830000.0
+Cost Of Revenue                                             26518378000.0  28306199000.0     33902486000.0     31129873000.0
+Total Revenue                                               35410589000.0  37409259000.0     43757358000.0     41790703000.0
+Operating Revenue                                           35410589000.0  37409259000.0     43757358000.0     41790703000.0

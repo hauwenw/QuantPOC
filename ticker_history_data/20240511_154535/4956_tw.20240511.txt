@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 7 Kanxi Road
+address2	Tree Valley Park Xinshi District
+city	Tainan City
+zip	74148
+country	Taiwan
+phone	886 6 505 0101
+fax	886 6 505 6533
+website	https://www.epileds.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Epileds Technologies, Inc. researches and develops, designs, manufactures, and sells blue, green, red, and white light LED wafers and chips in Taiwan and internationally. The company offers AlGalnP LED Chips and InGaN LED Chips. Its LED wafers and chips are used in various applications, including landscape lighting, plant lighting, white light illumination, CCTV, and vehicle lighting; indicators of consumer electronics, light source of fax machines and scanners, backlight source of LCD monitors, indoor or outdoor display boards, automotive lightings, traffic signals, and illuminators; and high voltage LED chip, UV, and other applications. Epileds Technologies, Inc. was founded in 2006 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jin Fu Gu', 'title': 'General Manager Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mei Zhen  Deng', 'title': 'Finance Division Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.55
+open	20.6
+dayLow	20.4
+dayHigh	20.9
+regularMarketPreviousClose	20.55
+regularMarketOpen	20.6
+regularMarketDayLow	20.4
+regularMarketDayHigh	20.9
+exDividendDate	1661299200	 (2022-08-24 08:00:00)
+fiveYearAvgDividendYield	2.92
+beta	1.322
+forwardPE	12.046783
+volume	462506
+regularMarketVolume	462506
+averageVolume	1641314
+averageVolume10days	1774526
+averageDailyVolume10Day	1774526
+bid	20.6
+ask	20.65
+marketCap	2068404864
+fiftyTwoWeekLow	13.7
+fiftyTwoWeekHigh	26.8
+priceToSalesTrailing12Months	1.8264722
+fiftyDayAverage	19.519
+twoHundredDayAverage	17.413
+currency	TWD
+enterpriseValue	2526954752
+profitMargins	-0.12252
+sharesOutstanding	100408000
+heldPercentInsiders	0.2985
+heldPercentInstitutions	0.00693
+impliedSharesOutstanding	101430000
+bookValue	17.149
+priceToBook	1.2012362
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-138752000
+trailingEps	-1.38
+forwardEps	1.71
+enterpriseToRevenue	2.231
+enterpriseToEbitda	49.729
+52WeekChange	0.3290323
+SandP52WeekChange	0.26265144
+lastDividendValue	0.4
+lastDividendDate	1661299200	 (2022-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4956.TW
+underlyingSymbol	4956.TW
+shortName	EPILEDS TECHNOLOGIES INC
+longName	Epileds Technologies, Inc.
+firstTradeDateEpochUtc	1319418000	 (2011-10-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d3219612-afbd-353e-814e-af5515c08464
+messageBoardId	finmb_112820406
+gmtOffSetMilliseconds	28800000
+currentPrice	20.6
+recommendationKey	none
+totalCash	369073984
+totalCashPerShare	3.676
+ebitda	50815000
+totalDebt	827624000
+quickRatio	1.939
+currentRatio	2.838
+totalRevenue	1132459008
+debtToEquity	48.065
+revenuePerShare	11.279
+returnOnAssets	-0.03717
+returnOnEquity	-0.07746
+freeCashflow	-77955248
+operatingCashflow	85788000
+revenueGrowth	-0.103
+grossMargins	0.01654
+ebitdaMargins	0.04487
+operatingMargins	-0.27041
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   1817054.771299  -1265963.523122    -684038.765872  -1863854.001422
+Tax Rate For Calcs                                                  0.171793         0.202976          0.102248         0.115803
+Normalized EBITDA                                                 62946000.0      131431000.0       348137000.0      199358000.0
+Total Unusual Items                                               10577000.0       -6237000.0        -6690000.0      -16095000.0
+Total Unusual Items Excluding Goodwill                            10577000.0       -6237000.0        -6690000.0      -16095000.0
+Net Income From Continuing Operation Net Minority Interest      -138752000.0      -72302000.0       144091000.0       16164000.0
+Reconciled Depreciation                                          225570000.0      205046000.0       174084000.0      159802000.0
+Reconciled Cost Of Revenue                                      1113727000.0     1086317000.0      1373417000.0     1109629000.0
+EBITDA                                                            73523000.0      125194000.0       341447000.0      183263000.0
+EBIT                                                            -152047000.0      -79852000.0       167363000.0       23461000.0
+Net Interest Income                                               -3568000.0       -8501000.0        -6698000.0       -3568000.0
+Interest Expense                                                  15486000.0       10863000.0         6861000.0        5180000.0
+Interest Income                                                   11918000.0        2362000.0          163000.0        1612000.0
+Normalized Income                                          -147511945.228701 -67330963.523122  150096961.234128  30395145.998578
+Net Income From Continuing And Discontinued Operation           -138752000.0      -72302000.0       144091000.0       16164000.0
+Total Expenses                                                  1314573000.0     1292023000.0      1600764000.0     1272459000.0
+Diluted Average Shares                                                   NaN      100408000.0       101113000.0      101025000.0
+Basic Average Shares                                                     NaN      100408000.0       100408000.0      101025000.0
+Diluted EPS                                                              NaN            -0.72              1.43             0.16
+Basic EPS                                                                NaN            -0.72              1.44             0.16
+Diluted NI Availto Com Stockholders                             -138752000.0      -72302000.0       144091000.0       16164000.0
+Net Income Common Stockholders                                  -138752000.0      -72302000.0       144091000.0       16164000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0              0.0
+Net Income                                                      -138752000.0      -72302000.0       144091000.0       16164000.0
+Net Income Including Noncontrolling Interests                   -138752000.0      -72302000.0       144091000.0       16164000.0
+Net Income Continuous Operations                                -138752000.0      -72302000.0       144091000.0       16164000.0
+Tax Provision                                                    -28781000.0      -18413000.0        16411000.0        2117000.0
+Pretax Income                                                   -167533000.0      -90715000.0       160502000.0       18281000.0
+Other Non Operating Income Expenses                                7572000.0       21333000.0        12040000.0        9993000.0
+Special Income Charges                                            10577000.0       -6237000.0        -6690000.0      -16095000.0
+Write Off                                                        -10577000.0        6237000.0         6690000.0       16095000.0
+Net Non Operating Interest Income Expense                         -3568000.0       -8501000.0        -6698000.0       -3568000.0
+Interest Expense Non Operating                                    15486000.0       10863000.0         6861000.0        5180000.0
+Interest Income Non Operating                                     11918000.0        2362000.0          163000.0        1612000.0
+Operating Income                                                -182114000.0      -97310000.0       161850000.0       30352000.0
+Operating Expense                                                200846000.0      205706000.0       227347000.0      162830000.0
+Other Operating Expenses                                           -124000.0      -13323000.0               NaN              NaN
+Research And Development                                          60258000.0       66750000.0        72782000.0       50069000.0
+Selling General And Administration                               140712000.0      152279000.0       154565000.0      112761000.0
+Selling And Marketing Expense                                     44261000.0       44233000.0        48313000.0       36712000.0
+General And Administrative Expense                                96451000.0      108046000.0       106252000.0       76049000.0
+Gross Profit                                                      18732000.0      108396000.0       389197000.0      193182000.0
+Cost Of Revenue                                                 1113727000.0     1086317000.0      1373417000.0     1109629000.0
+Total Revenue                                                   1132459000.0     1194713000.0      1762614000.0     1302811000.0
+Operating Revenue                                               1132459000.0     1194713000.0      1762614000.0     1302811000.0

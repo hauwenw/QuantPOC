@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 71, Dunhua South Road
+address2	21st Floor Section 2 Da¡¦an District
+city	Taipei
+zip	10682
+country	Taiwan
+phone	886 2 2755 2662
+fax	886 2 2708 2581
+website	https://www.hong-pu.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Hong Pu Real Estate Development Co., Ltd. constructs, leases, and sells residential and commercial buildings in Taiwan. The company was incorporated in 1988 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jin-Hua  Tuan', 'title': 'Chairman of the Board & CEO', 'fiscalYear': 2021, 'totalPay': 2655000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wulong  You', 'title': 'Director & President', 'fiscalYear': 2021, 'totalPay': 1943000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pao-Shu  Liu', 'title': 'Chief of Accounting Department, Manager of Finance Department & Representative Director', 'fiscalYear': 2021, 'totalPay': 1276000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'W. L.  You', 'title': 'Chief Information Security Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	35.1
+open	35.4
+dayLow	35.15
+dayHigh	36.55
+regularMarketPreviousClose	35.1
+regularMarketOpen	35.4
+regularMarketDayLow	35.15
+regularMarketDayHigh	36.55
+dividendRate	0.5
+dividendYield	0.0139
+exDividendDate	1693440000	 (2023-08-31 08:00:00)
+payoutRatio	0.5263
+fiveYearAvgDividendYield	6.29
+beta	0.366
+trailingPE	38.0
+forwardPE	27.557253
+volume	1440836
+regularMarketVolume	1440836
+averageVolume	1412623
+averageVolume10days	4014973
+averageDailyVolume10Day	4014973
+bid	36.05
+ask	36.1
+marketCap	12014404608
+fiftyTwoWeekLow	25.0
+fiftyTwoWeekHigh	40.95
+priceToSalesTrailing12Months	3.716014
+fiftyDayAverage	32.779
+twoHundredDayAverage	29.22425
+currency	TWD
+enterpriseValue	35148226560
+profitMargins	0.07146
+floatShares	179636986
+sharesOutstanding	332808992
+heldPercentInsiders	0.48839
+heldPercentInstitutions	0.12798001
+impliedSharesOutstanding	349932000
+bookValue	35.235
+priceToBook	1.0245494
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	231042000
+trailingEps	0.95
+forwardEps	1.31
+lastSplitFactor	1099.93:1000
+lastSplitDate	1314316800	 (2011-08-26 08:00:00)
+enterpriseToRevenue	10.871
+enterpriseToEbitda	50.161
+52WeekChange	0.41291583
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1693440000	 (2023-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2536.TW
+underlyingSymbol	2536.TW
+shortName	HONG PU REAL ESTATE DEVELOPMENT
+longName	Hong Pu Real Estate Development Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0b2b244c-48cd-3319-b085-b8c201a6c84a
+messageBoardId	finmb_4108249
+gmtOffSetMilliseconds	28800000
+currentPrice	36.1
+recommendationKey	none
+totalCash	1090050048
+totalCashPerShare	3.275
+ebitda	700708992
+totalDebt	23628734464
+quickRatio	0.054
+currentRatio	1.513
+totalRevenue	3233143040
+debtToEquity	191.764
+revenuePerShare	9.715
+returnOnAssets	0.010299999
+returnOnEquity	0.01789
+freeCashflow	313795616
+operatingCashflow	351376000
+revenueGrowth	83.744
+grossMargins	0.28106
+ebitdaMargins	0.21673
+operatingMargins	0.21011
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31   2022-12-31   2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0          0.0          0.0           0.0
+Tax Rate For Calcs                                              0.095491          0.2          0.2      0.180257
+Normalized EBITDA                                            726041000.0  387967000.0  162791000.0   881195000.0
+Net Income From Continuing Operation Net Minority Interest   231042000.0  -53998000.0  -33344000.0   613989000.0
+Reconciled Depreciation                                       29602000.0   30132000.0   30283000.0    26022000.0
+Reconciled Cost Of Revenue                                  2324443000.0  303305000.0  199842000.0  2999146000.0
+EBITDA                                                       726041000.0  387967000.0  162791000.0   881195000.0
+EBIT                                                         696439000.0  357835000.0  132508000.0   855173000.0
+Net Interest Income                                         -439459000.0 -331499000.0 -150659000.0  -100588000.0
+Interest Expense                                             453274000.0  334874000.0  152077000.0   107783000.0
+Interest Income                                               13815000.0    3375000.0    1418000.0     7195000.0
+Normalized Income                                            231042000.0  -53998000.0  -33344000.0   613989000.0
+Net Income From Continuing And Discontinued Operation        231042000.0  -53998000.0  -33344000.0   613989000.0
+Total Expenses                                              2562036000.0  386157000.0  257438000.0  3163055000.0
+Rent Expense Supplemental                                     77855000.0   84465000.0   87753000.0    71885000.0
+Diluted Average Shares                                       333059000.0  332809000.0  332809000.0   333492000.0
+Basic Average Shares                                         332809000.0  332809000.0  332809000.0   332809000.0
+Diluted EPS                                                         0.69        -0.16         -0.1          1.84
+Basic EPS                                                           0.69        -0.16         -0.1          1.84
+Diluted NI Availto Com Stockholders                          231042000.0  -53998000.0  -33344000.0   613989000.0
+Net Income Common Stockholders                               231042000.0  -53998000.0  -33344000.0   613989000.0
+Otherunder Preferred Stock Dividend                                  0.0          0.0          0.0           0.0
+Net Income                                                   231042000.0  -53998000.0  -33344000.0   613989000.0
+Minority Interests                                            11097000.0    8509000.0    1317000.0     1321000.0
+Net Income Including Noncontrolling Interests                219945000.0  -62507000.0  -34661000.0   612668000.0
+Net Income Continuous Operations                             219945000.0  -62507000.0  -34661000.0   612668000.0
+Tax Provision                                                 23220000.0   85468000.0   15092000.0   134722000.0
+Pretax Income                                                243165000.0   22961000.0  -19569000.0   747390000.0
+Other Non Operating Income Expenses                           11517000.0   56259000.0   65986000.0    33583000.0
+Net Non Operating Interest Income Expense                   -439459000.0 -331499000.0 -150659000.0  -100588000.0
+Interest Expense Non Operating                               453274000.0  334874000.0  152077000.0   107783000.0
+Interest Income Non Operating                                 13815000.0    3375000.0    1418000.0     7195000.0
+Operating Income                                             671107000.0  298201000.0   65104000.0   814395000.0
+Operating Expense                                            237593000.0   82852000.0   57596000.0   163909000.0
+Selling General And Administration                           237593000.0   82852000.0   57596000.0   163909000.0
+Selling And Marketing Expense                                196018000.0   45998000.0   27234000.0   114130000.0
+General And Administrative Expense                            41575000.0   36854000.0   30362000.0    49779000.0
+Gross Profit                                                 908700000.0  381053000.0  122700000.0   978304000.0
+Cost Of Revenue                                             2324443000.0  303305000.0  199842000.0  2999146000.0
+Total Revenue                                               3233143000.0  684358000.0  322542000.0  3977450000.0
+Operating Revenue                                           3233143000.0  684358000.0  322542000.0  3977450000.0

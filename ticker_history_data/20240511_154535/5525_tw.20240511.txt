@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 201, Wenxin Road
+address2	3rd Floor Section 2 Xitun District
+city	Taichung
+country	Taiwan
+phone	886 4 2259 5777
+fax	886 4 2258 1901
+website	https://www.sweeten.com.tw
+industry	Real Estate - Diversified
+industryKey	real-estate-diversified
+industryDisp	Real Estate - Diversified
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Sweeten Real Estate Development Co.,Ltd. constructs, develops, leases, and sells residential, commercial, and industrial projects. It is also involved in the development, rental, and sale of office building, specific professional zones, and urban renewal; trading of construction materials; rental of hotel; and civil construction and land development activities. The company was incorporated in 1987 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Bing Shen  Lin', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 1896000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wan Wen  Shen', 'title': 'Financial Manager & Accounting Supervisor', 'fiscalYear': 2021, 'totalPay': 1305000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi Ren  Lin', 'title': 'Assistant Manager & Director', 'fiscalYear': 2021, 'totalPay': 102000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jian Cun  Yang', 'title': 'Administrative Department Deputy Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fu Yue  Zheng', 'title': 'Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	36.8
+open	36.5
+dayLow	36.0
+dayHigh	37.15
+regularMarketPreviousClose	36.8
+regularMarketOpen	36.5
+regularMarketDayLow	36.0
+regularMarketDayHigh	37.15
+dividendRate	1.42
+dividendYield	0.0388
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.566
+fiveYearAvgDividendYield	3.89
+beta	0.294
+trailingPE	14.6
+volume	350141
+regularMarketVolume	350141
+averageVolume	391155
+averageVolume10days	640139
+averageDailyVolume10Day	640139
+bid	36.45
+ask	36.5
+marketCap	9888872448
+fiftyTwoWeekLow	23.05
+fiftyTwoWeekHigh	41.45
+priceToSalesTrailing12Months	1.9694152
+fiftyDayAverage	33.533
+twoHundredDayAverage	27.749811
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.0326087
+currency	TWD
+enterpriseValue	17964922880
+profitMargins	0.13497
+sharesOutstanding	270928000
+heldPercentInsiders	0.44188
+heldPercentInstitutions	0.012949999
+impliedSharesOutstanding	278076000
+bookValue	18.854
+priceToBook	1.9359287
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	677692032
+trailingEps	2.5
+lastSplitFactor	1060:1000
+lastSplitDate	1692921600	 (2023-08-25 08:00:00)
+enterpriseToRevenue	3.578
+enterpriseToEbitda	19.207
+52WeekChange	0.4463551
+SandP52WeekChange	0.26265144
+lastDividendValue	1.415094
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5525.TW
+underlyingSymbol	5525.TW
+shortName	SWEETEN REAL ESTATE DEVELOPMENT
+longName	Sweeten Real Estate Development Co.,Ltd.
+firstTradeDateEpochUtc	959043600	 (2000-05-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	71efa45d-ff7e-3e50-8ba4-f75ff20c7aae
+messageBoardId	finmb_9682626
+gmtOffSetMilliseconds	28800000
+currentPrice	36.5
+recommendationKey	none
+totalCash	183807008
+totalCashPerShare	0.678
+ebitda	935318016
+totalDebt	8238233088
+quickRatio	0.031
+currentRatio	1.341
+totalRevenue	5021222912
+debtToEquity	160.598
+revenuePerShare	18.533
+returnOnAssets	0.03263
+returnOnEquity	0.13599
+freeCashflow	877580864
+operatingCashflow	992856000
+revenueGrowth	-0.819
+grossMargins	0.27278998
+ebitdaMargins	0.18627001
+operatingMargins	-0.14034
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31   2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0          0.0           0.0
+Tax Rate For Calcs                                              0.212496      0.094735          0.2      0.097856
+Normalized EBITDA                                            995136000.0   880979000.0   48041000.0   195804000.0
+Net Income From Continuing Operation Net Minority Interest   677692000.0   609779000.0  -49881000.0    44399000.0
+Reconciled Depreciation                                      106324000.0   106766000.0  106850000.0   116032000.0
+Reconciled Cost Of Revenue                                  3651472000.0  4170460000.0  556049000.0   768822000.0
+EBITDA                                                       995136000.0   880979000.0   48041000.0   195804000.0
+EBIT                                                         888812000.0   774213000.0  -58809000.0    79772000.0
+Net Interest Income                                          -21139000.0   -45556000.0  -60964000.0   -27454000.0
+Interest Expense                                              25549000.0    47903000.0   62406000.0    30853000.0
+Interest Income                                                4410000.0     2347000.0    1442000.0     3399000.0
+Normalized Income                                            677692000.0   609779000.0  -49881000.0    44399000.0
+Net Income From Continuing And Discontinued Operation        677692000.0   609779000.0  -49881000.0    44399000.0
+Total Expenses                                              4140567000.0  4665627000.0  848186000.0   983169000.0
+Diluted Average Shares                                               NaN   270928000.0  270929640.0   270929640.0
+Basic Average Shares                                                 NaN   270928000.0  270929640.0   270929640.0
+Diluted EPS                                                          NaN          2.25    -0.188679      0.160377
+Basic EPS                                                            NaN          2.25    -0.188679      0.160377
+Diluted NI Availto Com Stockholders                          677692000.0   609779000.0  -49881000.0    44399000.0
+Net Income Common Stockholders                               677692000.0   609779000.0  -49881000.0    44399000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0          0.0           0.0
+Net Income                                                   677692000.0   609779000.0  -49881000.0    44399000.0
+Minority Interests                                            -2131000.0   -47724000.0    6733000.0      267000.0
+Net Income Including Noncontrolling Interests                679823000.0   657503000.0  -56614000.0    44132000.0
+Net Income Continuous Operations                             679823000.0   657503000.0  -56614000.0    44132000.0
+Tax Provision                                                183440000.0    68807000.0  -64601000.0     4787000.0
+Pretax Income                                                863263000.0   726310000.0 -121215000.0    48919000.0
+Other Non Operating Income Expenses                            3746000.0    30322000.0   10223000.0    59166000.0
+Net Non Operating Interest Income Expense                    -21139000.0   -45556000.0  -60964000.0   -27454000.0
+Interest Expense Non Operating                                25549000.0    47903000.0   62406000.0    30853000.0
+Interest Income Non Operating                                  4410000.0     2347000.0    1442000.0     3399000.0
+Operating Income                                             880656000.0   741544000.0  -70474000.0    17207000.0
+Operating Expense                                            489095000.0   495167000.0  292137000.0   214347000.0
+Selling General And Administration                           489095000.0   495167000.0  292137000.0   214347000.0
+Selling And Marketing Expense                                298280000.0   332964000.0  201834000.0    99710000.0
+General And Administrative Expense                           190815000.0   162203000.0   90303000.0   114637000.0
+Gross Profit                                                1369751000.0  1236711000.0  221663000.0   231554000.0
+Cost Of Revenue                                             3651472000.0  4170460000.0  556049000.0   768822000.0
+Total Revenue                                               5021223000.0  5407171000.0  777712000.0  1000376000.0
+Operating Revenue                                           5021223000.0  5407171000.0  777712000.0  1000376000.0

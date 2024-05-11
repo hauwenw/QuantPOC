@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 100, Minquan Road
+address2	15th Floor Xindian District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 8667 1298
+website	https://www.cyberlink.com
+industry	Software - Application
+industryKey	software-application
+industryDisp	Software - Application
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	CyberLink Corp., a multimedia software and AI facial recognition technology company, designs and sells video entertainment and media creation software in Taiwan, the United States, Japan, and internationally. It offers software for video and photo editing, multimedia playback, file conversion, online chat, and mobile; video editing software and plug-ins for creative control; movie and media players for home theaters, online streaming, and VR; software solutions for desktop recording, webcam capture, and livestreaming; and facial recognition software. The company also provides solutions for burning, backup, and media conversion needs; and apps for video and photo editing, business, and chat. In addition, it offers digital content creation, video conferencing, live casting, and mobile application solutions. The company serves consumer, commercial, and education markets. CyberLink Corp. was incorporated in 1990 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Jau  Huang', 'title': 'Founder, Chairman, CEO & CTO', 'fiscalYear': 2022, 'totalPay': 11447230, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiao Juan Chen', 'title': 'Auditor-General of Finance Department and Accounting Supervisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei  Guu', 'title': 'Senior VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Florence  Hsiao', 'title': 'Investor Relations Executive', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Richard  Carriere', 'title': 'Senior VP of Global Marketing & GM of US', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhao-Hong  Lin', 'title': 'Senior Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	91.2
+open	91.0
+dayLow	90.5
+dayHigh	91.7
+regularMarketPreviousClose	91.2
+regularMarketOpen	91.0
+regularMarketDayLow	90.5
+regularMarketDayHigh	91.7
+dividendRate	2.3
+dividendYield	0.0251
+exDividendDate	1691712000	 (2023-08-11 08:00:00)
+payoutRatio	0.6907
+fiveYearAvgDividendYield	2.7
+trailingPE	27.537537
+forwardPE	18.790983
+volume	168381
+regularMarketVolume	168381
+averageVolume	268534
+averageVolume10days	279636
+averageDailyVolume10Day	279636
+bid	91.0
+ask	91.8
+marketCap	7238981120
+fiftyTwoWeekLow	82.9
+fiftyTwoWeekHigh	113.5
+priceToSalesTrailing12Months	3.757687
+fiftyDayAverage	87.82
+twoHundredDayAverage	92.0745
+currency	TWD
+enterpriseValue	5114231296
+profitMargins	0.13853
+sharesOutstanding	78942000
+heldPercentInsiders	0.35014
+heldPercentInstitutions	0.03403
+impliedSharesOutstanding	79646096
+bookValue	58.786
+priceToBook	1.5598952
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.82
+netIncomeToCommon	266880000
+trailingEps	3.33
+forwardEps	4.88
+lastSplitFactor	1.06:1
+lastSplitDate	1376006400	 (2013-08-09 08:00:00)
+enterpriseToRevenue	2.655
+enterpriseToEbitda	30.029
+52WeekChange	-0.0021762848
+SandP52WeekChange	0.26265144
+lastDividendValue	2.3
+lastDividendDate	1691712000	 (2023-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5203.TW
+underlyingSymbol	5203.TW
+shortName	CYBERLINK CORP
+longName	CyberLink Corp.
+firstTradeDateEpochUtc	1096246800	 (2004-09-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	df756a53-61be-3d8e-b990-fe454b066429
+messageBoardId	finmb_7827924
+gmtOffSetMilliseconds	28800000
+currentPrice	91.7
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	2151245056
+totalCashPerShare	27.228
+ebitda	170308000
+totalDebt	20303000
+quickRatio	2.815
+currentRatio	2.85
+totalRevenue	1926445952
+debtToEquity	0.437
+revenuePerShare	24.425
+returnOnAssets	0.01606
+returnOnEquity	0.05717
+freeCashflow	198292992
+operatingCashflow	352603008
+earningsGrowth	0.812
+revenueGrowth	0.143
+grossMargins	0.85769
+ebitdaMargins	0.08841
+operatingMargins	0.06996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  -8539122.872518           0.0           0.0           0.0
+Tax Rate For Calcs                                                  0.274103      0.168869           0.2      0.257062
+Normalized EBITDA                                                368420000.0   253385000.0  -466870000.0   287694000.0
+Total Unusual Items                                              -31153000.0           0.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                           -31153000.0           0.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest       222036000.0   183625000.0  -562766000.0   188421000.0
+Reconciled Depreciation                                           31186000.0    32369000.0    34535000.0    33836000.0
+Reconciled Cost Of Revenue                                       269416000.0   228877000.0   255296000.0   185805000.0
+EBITDA                                                           337267000.0   253385000.0  -466870000.0   287694000.0
+EBIT                                                             306081000.0   221016000.0  -501405000.0   253858000.0
+Net Interest Income                                               81956000.0    19799000.0     1904000.0    23276000.0
+Interest Expense                                                    203000.0       82000.0      148000.0      242000.0
+Interest Income                                                   82159000.0    19881000.0     2052000.0    23518000.0
+Normalized Income                                           244649877.127482   183625000.0  -562766000.0   188421000.0
+Net Income From Continuing And Discontinued Operation            222036000.0   183625000.0  -562766000.0   188421000.0
+Total Expenses                                                  1683754000.0  1493956000.0  1380187000.0  1403213000.0
+Diluted Average Shares                                            80119000.0    78826000.0    78006000.0    85258371.0
+Basic Average Shares                                              78942000.0    78600000.0    78006000.0    83372124.0
+Diluted EPS                                                             2.77          2.33         -7.21          2.21
+Basic EPS                                                               2.81          2.34         -7.21          2.26
+Diluted NI Availto Com Stockholders                              222036000.0   183625000.0  -562766000.0   188421000.0
+Net Income Common Stockholders                                   222036000.0   183625000.0  -562766000.0   188421000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0           0.0           0.0
+Net Income                                                       222036000.0   183625000.0  -562766000.0   188421000.0
+Net Income Including Noncontrolling Interests                    222036000.0   183625000.0  -562766000.0   188421000.0
+Net Income Continuous Operations                                 222036000.0   183625000.0  -562766000.0   188421000.0
+Tax Provision                                                     83842000.0    37309000.0    61213000.0    65195000.0
+Pretax Income                                                    305878000.0   220934000.0  -501553000.0   253616000.0
+Other Non Operating Income Expenses                               73807000.0    93291000.0    95824000.0    43544000.0
+Special Income Charges                                           -31153000.0           0.0           NaN           NaN
+Write Off                                                         31153000.0           0.0           NaN           NaN
+Net Non Operating Interest Income Expense                         81956000.0    19799000.0     1904000.0    23276000.0
+Interest Expense Non Operating                                      203000.0       82000.0      148000.0      242000.0
+Interest Income Non Operating                                     82159000.0    19881000.0     2052000.0    23518000.0
+Operating Income                                                 181268000.0   197244000.0   196882000.0   237449000.0
+Operating Expense                                               1414338000.0  1265079000.0  1124891000.0  1217408000.0
+Research And Development                                         586610000.0   532836000.0   476100000.0   427753000.0
+Selling General And Administration                               827728000.0   732243000.0   648791000.0   789655000.0
+Selling And Marketing Expense                                    709237000.0   624359000.0   531170000.0   673802000.0
+General And Administrative Expense                               118491000.0   107884000.0   117621000.0   115853000.0
+Gross Profit                                                    1595606000.0  1462323000.0  1321773000.0  1454857000.0
+Cost Of Revenue                                                  269416000.0   228877000.0   255296000.0   185805000.0
+Total Revenue                                                   1865022000.0  1691200000.0  1577069000.0  1640662000.0
+Operating Revenue                                               1865022000.0  1691200000.0  1577069000.0  1640662000.0

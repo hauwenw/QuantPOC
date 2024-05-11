@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 30, Xinya Rd.
+address2	Ln. 296 Qianzhen Dist.
+city	Kaohsiung
+zip	806
+country	Taiwan
+phone	886 7 813 5888
+website	https://www.sunon.com
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Sunonwealth Electric Machine Industry Co., Ltd., together with its subsidiaries, manufactures and sells precision motors and thermal solutions worldwide. The company offers DC, AC, EC, and mini fans and blowers; cooling modules; and ventilation fans, as well as fan accessories, such as metal finger and plastic guards, plastic filter and finger guards, and AC cords under the SUNON brand. Its products are used in 5G telecoms base station X networking, autotronics, renewal energy, entertainment and games, indoor air quality, surveillance, home appliances and ventilations, and industrial applications, as well as artificial intelligence and internet of things. The company serves clients operating in the IT, automobile electronic, optical electronic, and network communication applications. Sunonwealth Electric Machine Industry Co., Ltd. was incorporated in 1980 and is headquartered in Kaohsiung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Shen  Hong', 'title': 'President & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Li', 'title': 'VP & Director of Finance Department and Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Ju  Chen', 'title': 'Director of the Strategic Purchasing Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Tzu  Wu', 'title': 'President of Business Unit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ling-Wen  Huang CPA', 'title': 'Special Assistant & Secretariat of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	119.5
+open	119.0
+dayLow	113.0
+dayHigh	119.5
+regularMarketPreviousClose	119.5
+regularMarketOpen	119.0
+regularMarketDayLow	113.0
+regularMarketDayHigh	119.5
+dividendRate	2.6
+dividendYield	0.0227
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	0.5039
+fiveYearAvgDividendYield	3.99
+trailingPE	22.189922
+forwardPE	14.259029
+volume	8868858
+regularMarketVolume	8868858
+averageVolume	11461229
+averageVolume10days	4996668
+averageDailyVolume10Day	4996668
+bid	114.5
+ask	115.0
+marketCap	31309338624
+fiftyTwoWeekLow	63.6
+fiftyTwoWeekHigh	156.5
+priceToSalesTrailing12Months	2.427189
+fiftyDayAverage	121.32
+twoHundredDayAverage	114.3745
+trailingAnnualDividendRate	3.5
+trailingAnnualDividendYield	0.029288704
+currency	TWD
+enterpriseValue	28119472128
+profitMargins	0.10717
+floatShares	233248697
+sharesOutstanding	273444000
+heldPercentInsiders	0.20988001
+heldPercentInstitutions	0.1582
+impliedSharesOutstanding	279924000
+bookValue	27.965
+priceToBook	4.0944037
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.174
+netIncomeToCommon	1382401024
+trailingEps	5.16
+forwardEps	8.03
+pegRatio	1.07
+lastSplitFactor	1.0498:1
+lastSplitDate	1248307200	 (2009-07-23 08:00:00)
+enterpriseToRevenue	2.18
+enterpriseToEbitda	15.075
+52WeekChange	0.7480916
+SandP52WeekChange	0.26265144
+lastDividendValue	2.6
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2421.TW
+underlyingSymbol	2421.TW
+shortName	SUNONWEALTH ELECTRIC MACHINE IN
+longName	Sunonwealth Electric Machine Industry Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2f43ab9e-1bb5-31d1-89f3-a0146b87f0a8
+messageBoardId	finmb_1433479
+gmtOffSetMilliseconds	28800000
+currentPrice	114.5
+targetHighPrice	175.0
+targetLowPrice	105.0
+targetMeanPrice	146.25
+targetMedianPrice	152.5
+recommendationMean	1.9
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	4450088960
+totalCashPerShare	16.221
+ebitda	1865351936
+totalDebt	1158459008
+quickRatio	1.574
+currentRatio	2.067
+totalRevenue	12899422208
+debtToEquity	15.101
+revenuePerShare	48.798
+returnOnAssets	0.07374
+returnOnEquity	0.20994
+freeCashflow	1381538560
+operatingCashflow	2624484096
+earningsGrowth	0.082
+revenueGrowth	-0.005
+grossMargins	0.27808002
+ebitdaMargins	0.14461
+operatingMargins	0.08984
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     115167.997269      546550.332182     100479.006544     298006.90553
+Tax Rate For Calcs                                                   0.238443           0.236193          0.266523         0.217523
+Normalized EBITDA                                                2332353000.0       1980628000.0      1130184000.0     1560751000.0
+Total Unusual Items                                                  483000.0          2314000.0          377000.0        1370000.0
+Total Unusual Items Excluding Goodwill                               483000.0          2314000.0          377000.0        1370000.0
+Net Income From Continuing Operation Net Minority Interest       1333934000.0       1089095000.0       429253000.0      851650000.0
+Reconciled Depreciation                                           534253000.0        512665000.0       517173000.0      449955000.0
+Reconciled Cost Of Revenue                                       9313327000.0      10892350000.0     11025549000.0     9783239000.0
+EBITDA                                                           2332836000.0       1982942000.0      1130561000.0     1562121000.0
+EBIT                                                             1798583000.0       1470277000.0       613388000.0     1112166000.0
+Net Interest Income                                                48780000.0        -29808000.0       -14206000.0       -8434000.0
+Interest Expense                                                   46995000.0         44400000.0        28158000.0       23763000.0
+Interest Income                                                    95775000.0         14592000.0        13952000.0       15329000.0
+Normalized Income                                           1333566167.997269  1087327550.332182  428976479.006544  850578006.90553
+Net Income From Continuing And Discontinued Operation            1333934000.0       1089095000.0       429253000.0      851650000.0
+Total Expenses                                                  11384793000.0      12943738000.0     13098514000.0    11668440000.0
+Diluted Average Shares                                            263534000.0        251679000.0       251223000.0      251224189.0
+Basic Average Shares                                              258369000.0        250930000.0       250930000.0      251224189.0
+Diluted EPS                                                              5.07               4.33              1.71             3.39
+Basic EPS                                                                5.16               4.34              1.71             3.39
+Diluted NI Availto Com Stockholders                              1333934000.0       1089095000.0       429253000.0      851650000.0
+Net Income Common Stockholders                                   1333934000.0       1089095000.0       429253000.0      851650000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0              0.0
+Net Income                                                       1333934000.0       1089095000.0       429253000.0      851650000.0
+Minority Interests                                                        0.0                0.0               0.0              0.0
+Net Income Including Noncontrolling Interests                    1333934000.0       1089095000.0       429253000.0      851650000.0
+Net Income Continuous Operations                                 1333934000.0       1089095000.0       429253000.0      851650000.0
+Tax Provision                                                     417654000.0        336782000.0       155977000.0      236753000.0
+Pretax Income                                                    1751588000.0       1425877000.0       585230000.0     1088403000.0
+Other Non Operating Income Expenses                               170957000.0        335202000.0       139902000.0      -15590000.0
+Special Income Charges                                               483000.0          2314000.0          377000.0        1370000.0
+Write Off                                                           -483000.0         -2314000.0         -377000.0       -1370000.0
+Net Non Operating Interest Income Expense                          48780000.0        -29808000.0       -14206000.0       -8434000.0
+Interest Expense Non Operating                                     46995000.0         44400000.0        28158000.0       23763000.0
+Interest Income Non Operating                                      95775000.0         14592000.0        13952000.0       15329000.0
+Operating Income                                                 1529892000.0       1119570000.0       463290000.0     1112841000.0
+Operating Expense                                                2071466000.0       2051388000.0      2072965000.0     1885201000.0
+Research And Development                                          799281000.0        781334000.0       814188000.0      823314000.0
+Selling General And Administration                               1272185000.0       1270054000.0      1258777000.0     1061887000.0
+Selling And Marketing Expense                                     607738000.0        655431000.0       571870000.0      518894000.0
+General And Administrative Expense                                664447000.0        614623000.0       686907000.0      542993000.0
+Gross Profit                                                     3601358000.0       3170958000.0      2536255000.0     2998042000.0
+Cost Of Revenue                                                  9313327000.0      10892350000.0     11025549000.0     9783239000.0
+Total Revenue                                                   12914685000.0      14063308000.0     13561804000.0    12781281000.0
+Operating Revenue                                               12914685000.0      14063308000.0     13561804000.0    12781281000.0

@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 542-5, Zhongzheng Road
+address2	5th Floor Xindian District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2218 6891
+fax	886 2 2218 1222
+website	https://www.ledtech.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Ledtech Electronics Corp. produces and sells LED lamps and displays in Taiwan and internationally. The company offers standard lamps in various shapes and sizes; single, dual, three-, and four-digit displays, as well as alphanumeric, and dot matrix displays; chip LED products; SMD products; chip on board and side view backlight; high power products; holder type products; COB; lamp, SMD, and high-power IR LED; and rigid and flexible light strips and tubes. It also provides UVC products, as well as low temperature, biological, and semiconductor yellow lightings. The company serves offices, schools, laboratories, banks, exhibition centers, supermarkets, and restaurants. Ledtech Electronics Corp. was founded in 1977 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yaohong  He', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	14.4
+open	14.4
+dayLow	14.15
+dayHigh	14.45
+regularMarketPreviousClose	14.4
+regularMarketOpen	14.4
+regularMarketDayLow	14.15
+regularMarketDayHigh	14.45
+dividendRate	0.55
+dividendYield	0.0382
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	3.0556
+fiveYearAvgDividendYield	5.22
+beta	1.034
+forwardPE	24.40678
+volume	552514
+regularMarketVolume	552514
+averageVolume	2877836
+averageVolume10days	506662
+averageDailyVolume10Day	506662
+bid	14.4
+ask	14.45
+marketCap	1440000000
+fiftyTwoWeekLow	10.15
+fiftyTwoWeekHigh	18.35
+priceToSalesTrailing12Months	2.0081694
+fiftyDayAverage	14.926
+twoHundredDayAverage	12.7075
+currency	TWD
+enterpriseValue	1118084992
+profitMargins	-0.03343
+sharesOutstanding	100000000
+heldPercentInsiders	0.17319
+heldPercentInstitutions	0.00151
+impliedSharesOutstanding	100687000
+bookValue	10.865
+priceToBook	1.3253566
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-23970000
+trailingEps	-0.24
+forwardEps	0.59
+lastSplitFactor	1.03936:1
+lastSplitDate	1314230400	 (2011-08-25 08:00:00)
+enterpriseToRevenue	1.559
+enterpriseToEbitda	-46.604
+52WeekChange	0.22033894
+SandP52WeekChange	0.26265144
+lastDividendValue	0.55
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6164.TW
+underlyingSymbol	6164.TW
+shortName	LEDTECH ELECTRONICS CORP
+longName	Ledtech Electronics Corp.
+firstTradeDateEpochUtc	1224550800	 (2008-10-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	952900b5-262e-373e-93e4-23ca14667070
+messageBoardId	finmb_11458983
+gmtOffSetMilliseconds	28800000
+currentPrice	14.4
+recommendationKey	none
+totalCash	552329024
+totalCashPerShare	5.523
+ebitda	-23991000
+totalDebt	219430000
+quickRatio	2.042
+currentRatio	2.435
+totalRevenue	717070976
+debtToEquity	19.993
+revenuePerShare	7.171
+returnOnAssets	-0.023139998
+returnOnEquity	-0.02246
+freeCashflow	72023872
+operatingCashflow	35950000
+revenueGrowth	-0.066
+grossMargins	0.25797
+ebitdaMargins	-0.03346
+operatingMargins	-0.094969995
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   188453.153387    -47333.157421      99200.0   -2117200.0
+Tax Rate For Calcs                                                 0.255357         0.033123          0.2          0.2
+Normalized EBITDA                                                14905000.0      114687000.0   60595000.0   22825000.0
+Total Unusual Items                                                738000.0       -1429000.0     496000.0  -10586000.0
+Total Unusual Items Excluding Goodwill                             738000.0       -1429000.0     496000.0  -10586000.0
+Net Income From Continuing Operation Net Minority Interest      -23970000.0       61719000.0    6468000.0  -16648000.0
+Reconciled Depreciation                                          44058000.0       44056000.0   42607000.0   49624000.0
+Reconciled Cost Of Revenue                                      532089000.0      658569000.0  705037000.0  569253000.0
+EBITDA                                                           15643000.0      113258000.0   61091000.0   12239000.0
+EBIT                                                            -28415000.0       69202000.0   18484000.0  -37385000.0
+Net Interest Income                                               2987000.0        2651000.0    2923000.0    1973000.0
+Interest Expense                                                  6262000.0        4776000.0    3010000.0    3691000.0
+Interest Income                                                   9249000.0        7427000.0    5933000.0    5664000.0
+Normalized Income                                          -24519546.846613  63100666.842579    6071200.0   -8179200.0
+Net Income From Continuing And Discontinued Operation           -23970000.0       61719000.0    6468000.0  -16648000.0
+Total Expenses                                                  779848000.0      927125000.0  941318000.0  808146000.0
+Diluted Average Shares                                                  NaN      100864000.0  100000000.0  100000000.0
+Basic Average Shares                                                    NaN      100000000.0  100000000.0  100000000.0
+Diluted EPS                                                             NaN             0.61         0.06        -0.17
+Basic EPS                                                               NaN             0.62         0.06        -0.17
+Diluted NI Availto Com Stockholders                             -23970000.0       61719000.0    6468000.0  -16648000.0
+Net Income Common Stockholders                                  -23970000.0       61719000.0    6468000.0  -16648000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0          0.0          0.0
+Net Income                                                      -23970000.0       61719000.0    6468000.0  -16648000.0
+Minority Interests                                                1852000.0        -573000.0   -1648000.0      32000.0
+Net Income Including Noncontrolling Interests                   -25822000.0       62292000.0    8116000.0  -16680000.0
+Net Income Continuous Operations                                -25822000.0       62292000.0    8116000.0  -16680000.0
+Tax Provision                                                    -8855000.0        2134000.0    7358000.0  -24396000.0
+Pretax Income                                                   -34677000.0       64426000.0   15474000.0  -41076000.0
+Other Non Operating Income Expenses                              24375000.0      104651000.0   -1172000.0   15071000.0
+Special Income Charges                                             738000.0       -1429000.0     496000.0  -10586000.0
+Write Off                                                         -738000.0        1429000.0    -496000.0   10586000.0
+Net Non Operating Interest Income Expense                         2987000.0        2651000.0    2923000.0    1973000.0
+Interest Expense Non Operating                                    6262000.0        4776000.0    3010000.0    3691000.0
+Interest Income Non Operating                                     9249000.0        7427000.0    5933000.0    5664000.0
+Operating Income                                                -62777000.0      -41447000.0   13227000.0  -47534000.0
+Operating Expense                                               247759000.0      268556000.0  236281000.0  238893000.0
+Research And Development                                         25047000.0       20950000.0   24070000.0   28677000.0
+Selling General And Administration                              222712000.0      247606000.0  212211000.0  210216000.0
+Selling And Marketing Expense                                    79265000.0       95321000.0   79605000.0   70982000.0
+General And Administrative Expense                              143447000.0      152285000.0  132606000.0  139234000.0
+Gross Profit                                                    184982000.0      227109000.0  249508000.0  191359000.0
+Cost Of Revenue                                                 532089000.0      658569000.0  705037000.0  569253000.0
+Total Revenue                                                   717071000.0      885678000.0  954545000.0  760612000.0
+Operating Revenue                                               717071000.0      885678000.0  954545000.0  760612000.0

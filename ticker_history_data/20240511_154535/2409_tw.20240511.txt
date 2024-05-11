@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	No. 1, Li-Hsin Road 2
+city	Hsinchu City
+zip	300094
+country	Taiwan
+phone	886 3 500 8899
+fax	886 3 564 3370
+website	https://www.auo.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	AUO Corporation researches, develops, produces, and sells thin film transistor liquid crystal displays (TFT-LCDs) and other flat panel displays for various applications. It operates through two segments, Display and Energy. The company designs, manufactures, and sells ingots, solar wafers, and solar modules, as well as provides technical engineering and maintenance services for solar system projects. It also sells and leases content management system and related hardware; designs digital signage content and field curation solutions; plans, designs, and develops construction project for environmental protection and related project management; and designs, manufactures, and sells TFT-LCD modules, TV sets and related parts, backlight modules, automotive parts, and precision plastic parts. In addition, the company engages in the development, manufacturing, and sale of medical equipment; services related to site rental and educational activities; research and development, and IP related business; solar power generation; and sale and sales support of TFTLCD panels. Further, it designs, develops, and sells software and hardware for health care industry; provides software and hardware integration system and equipment relating to intelligent manufacturing, as well as software development and related consulting services; and investment services. It operates in the People's Republic of China, Taiwan, the United States, Japan, Singapore, and internationally. The company was formerly known as AU Optronics Corp. and changed its name to AUO Corporation in June 2022. AUO Corporation was founded in 1996 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shuang-Lang  Peng', 'age': 64, 'title': 'Group Chief Strategy Officer & Chairman', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Fu-Jen  Ko Ph.D.', 'age': 51, 'title': 'CEO, President & Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Benjamin  Tseng', 'age': 55, 'title': 'CFO, Chief Accounting Officer, Head of Corporate  Governance & VP', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Wei-Lung  Liau', 'age': 52, 'title': 'CTO & Senior VP', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Julia  Chao', 'title': 'Head of IR Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hong-Shiung  Chen', 'age': 54, 'title': 'Vice President of Corporate Development Office', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Pin  Chen', 'age': 52, 'title': 'Senior Vice President of Display Strategy Business Group', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Ku', 'age': 58, 'title': 'Senior VP & Chief Sustainability Officer', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. C. S.  Hsieh', 'title': 'Chief Digital Officer & Senior VP', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.5
+open	17.6
+dayLow	17.15
+dayHigh	17.6
+regularMarketPreviousClose	17.5
+regularMarketOpen	17.6
+regularMarketDayLow	17.15
+regularMarketDayHigh	17.6
+dividendRate	2.8
+dividendYield	0.16
+exDividendDate	1691625600	 (2023-08-10 08:00:00)
+payoutRatio	2.2034
+fiveYearAvgDividendYield	6.29
+beta	1.269
+forwardPE	23.026316
+volume	32992317
+regularMarketVolume	32992317
+averageVolume	34799343
+averageVolume10days	40302646
+averageDailyVolume10Day	40302646
+bid	17.5
+ask	17.55
+marketCap	134187900928
+fiftyTwoWeekLow	14.95
+fiftyTwoWeekHigh	21.65
+priceToSalesTrailing12Months	0.54115784
+fiftyDayAverage	17.798
+twoHundredDayAverage	17.415
+currency	TWD
+enterpriseValue	177003134976
+profitMargins	-0.073410004
+floatShares	6348698829
+sharesOutstanding	7667879936
+heldPercentInsiders	0.16132
+heldPercentInstitutions	0.17343001
+impliedSharesOutstanding	7732320256
+bookValue	20.758
+priceToBook	0.8430485
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-18203273216
+trailingEps	-2.37
+forwardEps	0.76
+pegRatio	-2.15
+lastSplitFactor	800:1000
+lastSplitDate	1664409600	 (2022-09-29 08:00:00)
+enterpriseToRevenue	0.714
+enterpriseToEbitda	17.894
+52WeekChange	0.026392937
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1691625600	 (2023-08-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2409.TW
+underlyingSymbol	2409.TW
+shortName	AUO CORPORATION
+longName	AUO Corporation
+firstTradeDateEpochUtc	968634000	 (2000-09-11 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f25f4315-17e8-32b3-a3bc-fdcd55896061
+messageBoardId	finmb_2237606
+gmtOffSetMilliseconds	28800000
+currentPrice	17.5
+targetHighPrice	24.3
+targetLowPrice	13.3
+targetMeanPrice	19.01
+targetMedianPrice	18.8
+recommendationMean	2.7
+recommendationKey	hold
+numberOfAnalystOpinions	7
+totalCash	84553678848
+totalCashPerShare	11.027
+ebitda	9891968000
+totalDebt	121178562560
+quickRatio	1.166
+currentRatio	1.525
+totalRevenue	247964434432
+debtToEquity	73.283
+revenuePerShare	32.344
+returnOnAssets	-0.035639998
+returnOnEquity	-0.10175
+freeCashflow	-8623710208
+operatingCashflow	9993563136
+revenueGrowth	0.203
+grossMargins	0.01859
+ebitdaMargins	0.039890002
+operatingMargins	-0.080010004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                0.162849             0.2        0.044388             0.2
+Normalized EBITDA                                            13548367000.0   13468124000.0  102288960000.0   41129073000.0
+Net Income From Continuing Operation Net Minority Interest  -18203274000.0  -21101374000.0   61330628000.0    3376324000.0
+Reconciled Depreciation                                      32505544000.0   31466353000.0   33664600000.0   35397530000.0
+Reconciled Cost Of Revenue                                  243354069000.0  245225166000.0  279917384000.0  248190042000.0
+EBITDA                                                       13548367000.0   13468124000.0  102288960000.0   41129073000.0
+EBIT                                                        -18957177000.0  -17998229000.0   68624360000.0    5731543000.0
+Net Interest Income                                           -809805000.0    -628988000.0   -1722233000.0   -2410820000.0
+Interest Expense                                              2724883000.0    1507963000.0    2217565000.0    2943872000.0
+Interest Income                                               1915078000.0     878975000.0     495332000.0     533052000.0
+Normalized Income                                           -18203274000.0  -21101374000.0   61330628000.0    3376324000.0
+Net Income From Continuing And Discontinued Operation       -18203274000.0  -21101374000.0   61330628000.0    3376324000.0
+Total Expenses                                              269926452000.0  270763070000.0  307609525000.0  268872339000.0
+Diluted Average Shares                                                 NaN    8819096000.0    9801824000.0    7613881600.0
+Basic Average Shares                                                   NaN    8819096000.0    9522200000.0    7599396000.0
+Diluted EPS                                                            NaN           -2.39            6.26          0.4375
+Basic EPS                                                              NaN           -2.39            6.44            0.45
+Diluted NI Availto Com Stockholders                         -18203274000.0  -21101374000.0   61330628000.0    3376324000.0
+Net Income Common Stockholders                              -18203274000.0  -21101374000.0   61330628000.0    3376324000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0             0.0
+Net Income                                                  -18203274000.0  -21101374000.0   61330628000.0    3376324000.0
+Minority Interests                                             -52120000.0    -128194000.0   -2128470000.0     468897000.0
+Net Income Including Noncontrolling Interests               -18151154000.0  -20973180000.0   63459098000.0    2907427000.0
+Net Income Continuous Operations                            -18151154000.0  -20973180000.0   63459098000.0    2907427000.0
+Tax Provision                                                -3530906000.0    1466988000.0    2947697000.0    -119756000.0
+Pretax Income                                               -21682060000.0  -19506192000.0   66406795000.0    2787671000.0
+Other Non Operating Income Expenses                           1607809000.0    3089895000.0    2427138000.0    2997713000.0
+Net Non Operating Interest Income Expense                     -809805000.0    -628988000.0   -1722233000.0   -2410820000.0
+Interest Expense Non Operating                                2724883000.0    1507963000.0    2217565000.0    2943872000.0
+Interest Income Non Operating                                 1915078000.0     878975000.0     495332000.0     533052000.0
+Operating Income                                            -21962015000.0  -23970396000.0   63075616000.0    2083042000.0
+Operating Expense                                            26572383000.0   25537904000.0   27692141000.0   20682297000.0
+Research And Development                                     13231450000.0   12867781000.0   13069676000.0   10286078000.0
+Selling General And Administration                           13340933000.0   12670123000.0   14622465000.0   10396219000.0
+Selling And Marketing Expense                                 5019739000.0    4817426000.0    5095946000.0    3499116000.0
+General And Administrative Expense                            8321194000.0    7852697000.0    9526519000.0    6897103000.0
+Gross Profit                                                  4610368000.0    1567508000.0   90767757000.0   22765339000.0
+Cost Of Revenue                                             243354069000.0  245225166000.0  279917384000.0  248190042000.0
+Total Revenue                                               247964437000.0  246792674000.0  370685141000.0  270955381000.0
+Operating Revenue                                           247964437000.0  246792674000.0  370685141000.0  270955381000.0

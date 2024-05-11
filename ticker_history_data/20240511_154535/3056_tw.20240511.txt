@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 875, Fuxing Road
+address2	3rd Floor Hsinchu County
+city	Zhubei
+country	Taiwan
+phone	886 4 2302 6018
+fax	886 4 2302 6019
+website	https://www.zongtai.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Fu Hua Innovation Co., Ltd. engages in the development of real estate properties in Taiwan. It also leases residential and commercial buildings. The company was formerly known as ZongTai Real Estate Development Co., Ltd. and changed its name to Fu Hua Innovation Co., Ltd. in July 2023. The company was founded in 1986 and is based in Zhubei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jui-Hsiang  Lin', 'title': 'Vice General Manager', 'fiscalYear': 2021, 'totalPay': 1294000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Jing  Fu', 'title': 'Financial Officer & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	32.05
+open	32.1
+dayLow	31.8
+dayHigh	32.5
+regularMarketPreviousClose	32.05
+regularMarketOpen	32.1
+regularMarketDayLow	31.8
+regularMarketDayHigh	32.5
+dividendRate	4.1
+dividendYield	0.1263
+exDividendDate	1692316800	 (2023-08-18 08:00:00)
+payoutRatio	5.6944
+fiveYearAvgDividendYield	8.05
+beta	0.582
+trailingPE	45.069443
+forwardPE	10.674342
+volume	2725652
+regularMarketVolume	2725652
+averageVolume	3027451
+averageVolume10days	7430453
+averageDailyVolume10Day	7430453
+bid	32.5
+ask	32.55
+marketCap	11106856960
+fiftyTwoWeekLow	25.75
+fiftyTwoWeekHigh	41.48936
+priceToSalesTrailing12Months	7.2963953
+fiftyDayAverage	29.819
+twoHundredDayAverage	29.45913
+trailingAnnualDividendRate	0.41
+trailingAnnualDividendYield	0.012792512
+currency	TWD
+enterpriseValue	18685982720
+profitMargins	0.20159
+floatShares	259318322
+sharesOutstanding	342276000
+heldPercentInsiders	0.27983
+heldPercentInstitutions	0.037839998
+impliedSharesOutstanding	342276000
+bookValue	20.145
+priceToBook	1.6108215
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	306873984
+trailingEps	0.72
+forwardEps	3.04
+lastSplitFactor	1410:1000
+lastSplitDate	1692316800	 (2023-08-18 08:00:00)
+enterpriseToRevenue	12.275
+enterpriseToEbitda	48.499
+52WeekChange	-0.057579815
+SandP52WeekChange	0.26265144
+lastDividendValue	4.1
+lastDividendDate	1692316800	 (2023-08-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3056.TW
+underlyingSymbol	3056.TW
+shortName	FU HUA INNOVATION CO LTD
+longName	Fu Hua Innovation Co., Ltd.
+firstTradeDateEpochUtc	1046653200	 (2003-03-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	89cac296-c3aa-35c8-b2be-e7801104daeb
+messageBoardId	finmb_9844313
+gmtOffSetMilliseconds	28800000
+currentPrice	32.45
+recommendationKey	none
+totalCash	4154874880
+totalCashPerShare	12.139
+ebitda	385281984
+totalDebt	11734010880
+quickRatio	0.316
+currentRatio	1.611
+totalRevenue	1522238976
+debtToEquity	170.178
+revenuePerShare	4.447
+returnOnAssets	0.010140001
+returnOnEquity	0.04239
+freeCashflow	-647514112
+operatingCashflow	-1570246016
+revenueGrowth	-0.989
+grossMargins	0.42126998
+ebitdaMargins	0.2531
+operatingMargins	-2.10114
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   8455534.721465     1042235.973427    1375494.364078     4964777.472763
+Tax Rate For Calcs                                                  0.256058           0.185122          0.204778           0.194781
+Normalized EBITDA                                                453025000.0       2753949000.0       832400000.0       1268863000.0
+Total Unusual Items                                               33022000.0          5630000.0         6717000.0         25489000.0
+Total Unusual Items Excluding Goodwill                            33022000.0          5630000.0         6717000.0         25489000.0
+Net Income From Continuing Operation Net Minority Interest       306874000.0       2208900000.0       635368000.0       1024587000.0
+Reconciled Depreciation                                           53784000.0         30691000.0        24467000.0         17097000.0
+Reconciled Cost Of Revenue                                       880962000.0       5697874000.0      2591490000.0       3157914000.0
+EBITDA                                                           486047000.0       2759579000.0       839117000.0       1294352000.0
+EBIT                                                             432263000.0       2728888000.0       814650000.0       1277255000.0
+Net Interest Income                                               14943000.0         -8686000.0       -13070000.0         -1856000.0
+Interest Expense                                                  19766000.0         18176000.0        15668000.0          4822000.0
+Interest Income                                                   34709000.0          9490000.0         2598000.0          2966000.0
+Normalized Income                                           282307534.721465  2204312235.973427  630026494.364078  1004062777.472763
+Net Income From Continuing And Discontinued Operation            306874000.0       2208900000.0       635368000.0       1024587000.0
+Total Expenses                                                  1171862000.0       6009520000.0      2854660000.0       3407895000.0
+Diluted Average Shares                                           342358000.0        317855000.0       331851960.0        304140057.0
+Basic Average Shares                                             342276000.0        317530000.0       330202260.0        301553954.0
+Diluted EPS                                                              0.9               6.95           2.12766           3.366359
+Basic EPS                                                                0.9               6.96          2.134752           3.401064
+Diluted NI Availto Com Stockholders                              306874000.0       2208900000.0       635368000.0       1024587000.0
+Net Income Common Stockholders                                   306874000.0       2208900000.0       635368000.0       1024587000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0                0.0
+Net Income                                                       306874000.0       2208900000.0       635368000.0       1024587000.0
+Net Income Including Noncontrolling Interests                    306874000.0       2208900000.0       635368000.0       1024587000.0
+Net Income Continuous Operations                                 306874000.0       2208900000.0       635368000.0       1024587000.0
+Tax Provision                                                    105623000.0        501812000.0       163614000.0        247846000.0
+Pretax Income                                                    412497000.0       2710712000.0       798982000.0       1272433000.0
+Other Non Operating Income Expenses                               11039000.0          9323000.0        15828000.0        -21098000.0
+Special Income Charges                                              193000.0                0.0          198000.0           349000.0
+Other Special Charges                                              -193000.0                NaN         -198000.0          -349000.0
+Net Non Operating Interest Income Expense                         14943000.0         -8686000.0       -13070000.0         -1856000.0
+Interest Expense Non Operating                                    19766000.0         18176000.0        15668000.0          4822000.0
+Interest Income Non Operating                                     34709000.0          9490000.0         2598000.0          2966000.0
+Operating Income                                                 350377000.0       2687985000.0       792676000.0       1276748000.0
+Operating Expense                                                290900000.0        311646000.0       263170000.0        249981000.0
+Selling General And Administration                               290900000.0        311646000.0       263170000.0        249981000.0
+Selling And Marketing Expense                                    181138000.0        182227000.0       159612000.0        124142000.0
+General And Administrative Expense                               109762000.0        129419000.0       103558000.0        125839000.0
+Gross Profit                                                     641277000.0       2999631000.0      1055846000.0       1526729000.0
+Cost Of Revenue                                                  880962000.0       5697874000.0      2591490000.0       3157914000.0
+Total Revenue                                                   1522239000.0       8697505000.0      3647336000.0       4684643000.0
+Operating Revenue                                               1522239000.0       8697505000.0      3647336000.0       4684643000.0

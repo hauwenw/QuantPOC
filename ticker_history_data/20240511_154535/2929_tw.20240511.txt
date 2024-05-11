@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.97, Xinhu 1st Rd.
+address2	2nd Floor Neihu Dist.
+city	Taipei
+zip	11494
+country	Taiwan
+phone	886 2 2793 8077
+website	https://www.topbi.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	TOPBI International Holdings Limited designs, develops, and sells children's clothing and accessories in Taiwan and China. It offers clothing for children from 1 to 16 years old. The company operates sales outlets in various provinces and municipalities in China. It is also involved in the manufacture and sale of medical equipment and supplies; real estate leasing; and online sale of children's clothing. TOPBI International Holdings Limited was founded in 2002 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zhi Hong  Zhou', 'title': 'MD, CEO & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien Wei  Chen', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Dong Feng  Wu', 'title': 'Director of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ling Feng  Zhuang', 'title': 'Board Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	9.25
+open	9.24
+dayLow	9.2
+dayHigh	9.31
+regularMarketPreviousClose	9.25
+regularMarketOpen	9.24
+regularMarketDayLow	9.2
+regularMarketDayHigh	9.31
+exDividendDate	1606780800	 (2020-12-01 08:00:00)
+fiveYearAvgDividendYield	3.8
+beta	0.751
+forwardPE	0.72863925
+volume	208486
+regularMarketVolume	208486
+averageVolume	296665
+averageVolume10days	356046
+averageDailyVolume10Day	356046
+bid	9.21
+ask	9.22
+marketCap	1003770304
+fiftyTwoWeekLow	8.94
+fiftyTwoWeekHigh	13.4
+priceToSalesTrailing12Months	0.42064297
+fiftyDayAverage	9.8082
+twoHundredDayAverage	11.1568
+currency	TWD
+enterpriseValue	-1465087744
+profitMargins	-0.02858
+floatShares	92925586
+sharesOutstanding	108987000
+heldPercentInsiders	0.18959999
+heldPercentInstitutions	0.011770001
+impliedSharesOutstanding	108987000
+bookValue	25.703
+priceToBook	0.35832393
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-68208000
+trailingEps	-0.63
+forwardEps	12.64
+lastSplitFactor	1153.931:1000
+lastSplitDate	1606780800	 (2020-12-01 08:00:00)
+enterpriseToRevenue	-0.614
+enterpriseToEbitda	-403.161
+52WeekChange	-0.27193677
+SandP52WeekChange	0.26265144
+lastDividendValue	0.14831
+lastDividendDate	1606780800	 (2020-12-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2929.TW
+underlyingSymbol	2929.TW
+shortName	TOPBI INTERNATIONAL HOLDINGS LT
+longName	TOPBI International Holdings Limited
+firstTradeDateEpochUtc	1388365200	 (2013-12-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1648c4ac-ae08-3093-9318-fe3be960e7dc
+messageBoardId	finmb_252325306
+gmtOffSetMilliseconds	28800000
+currentPrice	9.21
+recommendationKey	none
+totalCash	2577586944
+totalCashPerShare	23.65
+ebitda	3634000
+totalDebt	108729000
+quickRatio	3.919
+currentRatio	3.955
+totalRevenue	2386276096
+debtToEquity	3.881
+revenuePerShare	21.895
+returnOnAssets	-0.00059
+returnOnEquity	-0.023829998
+freeCashflow	5154250
+operatingCashflow	1043000
+revenueGrowth	0.088
+grossMargins	0.16441
+ebitdaMargins	0.0015199999
+operatingMargins	0.04973
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -9341500.0  49029498.482259       53250.0     1553141.44061
+Tax Rate For Calcs                                                  0.25         0.192361          0.25          0.027617
+Normalized EBITDA                                             30512000.0      -70893000.0  -636107000.0     -2317995000.0
+Total Unusual Items                                          -37366000.0      254883000.0      213000.0        56239000.0
+Total Unusual Items Excluding Goodwill                       -37366000.0      254883000.0      213000.0        56239000.0
+Net Income From Continuing Operation Net Minority Interest   -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Reconciled Depreciation                                       12449000.0       17215000.0    25492000.0        26921000.0
+Reconciled Cost Of Revenue                                  1993953000.0     2253273000.0  3184618000.0      4165935000.0
+EBITDA                                                        -6854000.0      183990000.0  -635894000.0     -2261756000.0
+EBIT                                                         -19303000.0      166775000.0  -661386000.0     -2288677000.0
+Net Interest Income                                           20243000.0       24701000.0    23807000.0        25819000.0
+Interest Expense                                               5897000.0        2386000.0     4676000.0         9489000.0
+Interest Income                                               26140000.0       27087000.0    28483000.0        35308000.0
+Normalized Income                                            -40183500.0 -73086501.517741  -700977750.0 -2289383858.55939
+Net Income From Continuing And Discontinued Operation        -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Total Expenses                                              2390233000.0     2684497000.0  3698338000.0      5239383000.0
+Diluted Average Shares                                               NaN      108987000.0   108987000.0       109355000.0
+Basic Average Shares                                                 NaN      108987000.0   108987000.0       109355000.0
+Diluted EPS                                                          NaN             1.22         -6.43            -20.44
+Basic EPS                                                            NaN             1.22         -6.43            -20.44
+Diluted NI Availto Com Stockholders                          -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Net Income Common Stockholders                               -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0           0.0               0.0
+Net Income                                                   -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Net Income Including Noncontrolling Interests                -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Net Income Continuous Operations                             -68208000.0      132767000.0  -700818000.0     -2234698000.0
+Tax Provision                                                 43008000.0       31622000.0    34756000.0       -63468000.0
+Pretax Income                                                -25200000.0      164389000.0  -666062000.0     -2298166000.0
+Other Non Operating Income Expenses                            -331000.0       25060000.0    40345000.0        29587000.0
+Special Income Charges                                       -37366000.0      254883000.0      213000.0        -6145000.0
+Other Special Charges                                                NaN     -243574000.0     -213000.0               NaN
+Write Off                                                            NaN              NaN           0.0         6145000.0
+Impairment Of Capital Assets                                  37366000.0              0.0           NaN               NaN
+Restructuring And Mergern Acquisition                                0.0      -11309000.0           0.0               NaN
+Net Non Operating Interest Income Expense                     20243000.0       24701000.0    23807000.0        25819000.0
+Interest Expense Non Operating                                 5897000.0        2386000.0     4676000.0         9489000.0
+Interest Income Non Operating                                 26140000.0       27087000.0    28483000.0        35308000.0
+Operating Income                                              -3957000.0     -138341000.0  -734432000.0     -2431000000.0
+Operating Expense                                            396280000.0      431224000.0   513720000.0      1073448000.0
+Research And Development                                      39053000.0       45379000.0    49096000.0        85899000.0
+Selling General And Administration                           357227000.0      385845000.0   464624000.0       987549000.0
+Selling And Marketing Expense                                259590000.0      256629000.0   305730000.0       847674000.0
+General And Administrative Expense                            97637000.0      129216000.0   158894000.0       139875000.0
+Gross Profit                                                 392323000.0      292883000.0  -220712000.0     -1357552000.0
+Cost Of Revenue                                             1993953000.0     2253273000.0  3184618000.0      4165935000.0
+Total Revenue                                               2386276000.0     2546156000.0  2963906000.0      2808383000.0
+Operating Revenue                                           2386276000.0     2546156000.0  2963906000.0      2808383000.0

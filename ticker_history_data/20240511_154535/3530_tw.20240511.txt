@@ -1,0 +1,141 @@
+=== Ticker Info ===
+address1	10-2, Li Hsin 1st Road
+address2	4th Floor East District
+city	Hsinchu
+zip	300
+country	Taiwan
+phone	886 3 567 8986
+fax	886 3 567 8986
+website	https://www.soinc.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Silicon Optronics, Inc., together with its subsidiaries, designs, develops, and sells complementary metal-oxide-semiconductor image sensors in Taiwan, Hong Kong, and internationally. The company offers area sensors, including raw or SOC sensors for applications in smart phones and tablets, PC cams and webcams, digital still cameras, and security and surveillance systems; and linear sensors for use in document scanners, multifunction printers, barcode scanners, fax machines, counterfeit money scanners, and portable scanners. Silicon Optronics, Inc. was incorporated in 2004 and is headquartered in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Xinping  He BSEE, MSEE', 'title': 'Chairman & President', 'fiscalYear': 2021, 'totalPay': 16145000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Steffi  Huang', 'title': 'VP, CFO, Senior Director of Administration Division & IR Executive', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming  Li', 'title': 'Chief Technology Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Zung', 'title': 'Vice President of Marketing & Market Development Division', 'fiscalYear': 2021, 'totalPay': 40000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joyce  Lin', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	93.5
+open	93.6
+dayLow	92.1
+dayHigh	93.8
+regularMarketPreviousClose	93.5
+regularMarketOpen	93.6
+regularMarketDayLow	92.1
+regularMarketDayHigh	93.8
+exDividendDate	1657756800	 (2022-07-14 08:00:00)
+fiveYearAvgDividendYield	2.65
+forwardPE	25.769232
+volume	159693
+regularMarketVolume	159693
+averageVolume	1208574
+averageVolume10days	205345
+averageDailyVolume10Day	205345
+bid	93.7
+ask	93.8
+marketCap	7265373184
+fiftyTwoWeekLow	69.1
+fiftyTwoWeekHigh	147.5
+priceToSalesTrailing12Months	4.5640407
+fiftyDayAverage	105.136
+twoHundredDayAverage	96.6825
+currency	TWD
+enterpriseValue	-50716036
+profitMargins	-0.0872
+sharesOutstanding	77456000
+heldPercentInsiders	0.56908
+heldPercentInstitutions	0.00033
+impliedSharesOutstanding	78531800
+bookValue	361.381
+priceToBook	0.25955987
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-138816992
+trailingEps	-1.79
+forwardEps	3.64
+enterpriseToRevenue	-0.032
+enterpriseToEbitda	0.269
+52WeekChange	0.21818185
+SandP52WeekChange	0.26265144
+lastDividendValue	3.499274
+lastDividendDate	1657756800	 (2022-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3530.TW
+underlyingSymbol	3530.TW
+shortName	SILICON OPTRONICS INC
+longName	Silicon Optronics, Inc.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b381a53e-656a-3c1f-b1e4-0e55180363a3
+messageBoardId	finmb_36123662
+gmtOffSetMilliseconds	28800000
+currentPrice	93.8
+recommendationKey	none
+totalCash	1024476032
+totalCashPerShare	155.505
+ebitda	-188230000
+totalDebt	355801984
+quickRatio	2.64
+currentRatio	6.499
+totalRevenue	1591873024
+debtToEquity	14.945
+revenuePerShare	241.631
+returnOnAssets	-0.04537
+returnOnEquity	-0.05718
+freeCashflow	502462752
+operatingCashflow	469688000
+revenueGrowth	-0.171
+grossMargins	0.06666
+ebitdaMargins	-0.118240006
+operatingMargins	-0.1719
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.176841      0.201358        0.1715      0.139962
+Normalized EBITDA                                           -282951000.0   235427000.0  1008613000.0   427815000.0
+Net Income From Continuing Operation Net Minority Interest  -286716000.0   122558000.0   741050000.0   281438000.0
+Reconciled Depreciation                                       54222000.0    77046000.0   110552000.0    97773000.0
+Reconciled Cost Of Revenue                                  1707026000.0  1534568000.0  2609116000.0  2656485000.0
+EBITDA                                                      -282951000.0   235427000.0  1008613000.0   427815000.0
+EBIT                                                        -337173000.0   158381000.0   898061000.0   330042000.0
+Net Interest Income                                           24753000.0     5501000.0     1672000.0     1685000.0
+Interest Expense                                              11139000.0     4923000.0     3613000.0     2803000.0
+Interest Income                                               35892000.0    10424000.0     5285000.0     4488000.0
+Normalized Income                                           -286716000.0   122558000.0   741050000.0   281438000.0
+Net Income From Continuing And Discontinued Operation       -286716000.0   122558000.0   741050000.0   281438000.0
+Total Expenses                                              2034951000.0  1890600000.0  3112537000.0  3007118000.0
+Diluted Average Shares                                        77456000.0    77759000.0    77770000.0    77384000.0
+Basic Average Shares                                          77456000.0    77206000.0    77121000.0    77105000.0
+Diluted EPS                                                         -3.7          1.58          9.53          3.64
+Basic EPS                                                           -3.7          1.59          9.61          3.65
+Diluted NI Availto Com Stockholders                         -286716000.0   122558000.0   741050000.0   281438000.0
+Net Income Common Stockholders                              -286716000.0   122558000.0   741050000.0   281438000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -286716000.0   122558000.0   741050000.0   281438000.0
+Net Income Including Noncontrolling Interests               -286716000.0   122558000.0   741050000.0   281438000.0
+Net Income Continuous Operations                            -286716000.0   122558000.0   741050000.0   281438000.0
+Tax Provision                                                -61596000.0    30900000.0   153398000.0    45801000.0
+Pretax Income                                               -348312000.0   153458000.0   894448000.0   327239000.0
+Other Non Operating Income Expenses                           -1613000.0     9467000.0     8817000.0     3977000.0
+Net Non Operating Interest Income Expense                     24753000.0     5501000.0     1672000.0     1685000.0
+Interest Expense Non Operating                                11139000.0     4923000.0     3613000.0     2803000.0
+Interest Income Non Operating                                 35892000.0    10424000.0     5285000.0     4488000.0
+Operating Income                                            -371452000.0   138490000.0   883959000.0   321577000.0
+Operating Expense                                            327925000.0   356032000.0   503421000.0   350633000.0
+Research And Development                                     265285000.0   284266000.0   402551000.0   284672000.0
+Selling General And Administration                            62640000.0    71766000.0   100870000.0    65961000.0
+Selling And Marketing Expense                                 18629000.0    18805000.0    25023000.0    20291000.0
+General And Administrative Expense                            44011000.0    52961000.0    75847000.0    45670000.0
+Gross Profit                                                 -43527000.0   494522000.0  1387380000.0   672210000.0
+Cost Of Revenue                                             1707026000.0  1534568000.0  2609116000.0  2656485000.0
+Total Revenue                                               1663499000.0  2029090000.0  3996496000.0  3328695000.0
+Operating Revenue                                           1663499000.0  2029090000.0  3996496000.0  3328695000.0

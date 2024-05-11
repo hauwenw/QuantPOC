@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 12, Zhongxiao East Road
+address2	Section 1 Zhongzheng District
+city	Taipei
+zip	100
+country	Taiwan
+phone	886 2 2321 5858
+website	https://www.mhh-group.com
+industry	Lodging
+industryKey	lodging
+industryDisp	Lodging
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	My Humble House Hospitality Management Consulting Co., Ltd. operates tourism hotels in Taiwan. The company also provides hospitality consulting services. Its property portfolio includes the Sheraton Grand Taipei Hotel, Le Meridien Taipei, and Mu Jiao Xi Hotel. My Humble House Hospitality Management Consulting Co., Ltd. was founded in 2000 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Bai Han Cai', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Nong  Pan', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	71.0
+open	71.9
+dayLow	69.2
+dayHigh	71.9
+regularMarketPreviousClose	71.0
+regularMarketOpen	71.9
+regularMarketDayLow	69.2
+regularMarketDayHigh	71.9
+exDividendDate	1597104000	 (2020-08-11 08:00:00)
+fiveYearAvgDividendYield	4.74
+trailingPE	12.757353
+forwardPE	16.177156
+volume	2724654
+regularMarketVolume	2724654
+averageVolume	1923928
+averageVolume10days	6726898
+averageDailyVolume10Day	6726898
+bid	69.4
+ask	69.5
+marketCap	6351904768
+fiftyTwoWeekLow	34.65
+fiftyTwoWeekHigh	86.0
+priceToSalesTrailing12Months	1.272439
+fiftyDayAverage	54.732
+twoHundredDayAverage	50.66275
+currency	TWD
+enterpriseValue	16173151232
+profitMargins	0.09991
+floatShares	44262633
+sharesOutstanding	91526000
+heldPercentInsiders	0.77827
+heldPercentInstitutions	0.026129998
+impliedSharesOutstanding	96895200
+bookValue	13.867
+priceToBook	5.004688
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	1.034
+netIncomeToCommon	498758016
+trailingEps	5.44
+forwardEps	4.29
+lastSplitFactor	820.6696:1000
+lastSplitDate	1660176000	 (2022-08-11 08:00:00)
+enterpriseToRevenue	3.24
+enterpriseToEbitda	22.579
+52WeekChange	0.15474212
+SandP52WeekChange	0.26265144
+lastDividendValue	1.218517
+lastDividendDate	1597104000	 (2020-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2739.TW
+underlyingSymbol	2739.TW
+shortName	MY HUMBLE HOUSE HOSPITALITY MGM
+longName	My Humble House Hospitality Management Consulting Co., Ltd.
+firstTradeDateEpochUtc	1413766800	 (2014-10-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	858e3455-71b1-348d-b665-f2bb39bb16b7
+messageBoardId	finmb_46494260
+gmtOffSetMilliseconds	28800000
+currentPrice	69.4
+targetHighPrice	84.0
+targetLowPrice	57.5
+targetMeanPrice	70.75
+targetMedianPrice	70.75
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	1026510976
+totalCashPerShare	11.207
+ebitda	716292992
+totalDebt	10743193600
+quickRatio	0.509
+currentRatio	0.564
+totalRevenue	4991912960
+debtToEquity	784.14
+revenuePerShare	54.462
+returnOnAssets	0.0249
+returnOnEquity	0.45893002
+freeCashflow	1409227776
+operatingCashflow	1493719040
+earningsGrowth	1.032
+revenueGrowth	0.135
+grossMargins	0.39106998
+ebitdaMargins	0.14349
+operatingMargins	0.16724001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0      73608.116078
+Tax Rate For Calcs                                              0.125104       0.22804      0.204278          0.277766
+Normalized EBITDA                                           1883891000.0   962250000.0   336182000.0       797082000.0
+Total Unusual Items                                                  NaN           NaN           0.0          265000.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           0.0          265000.0
+Net Income From Continuing Operation Net Minority Interest   414019000.0  -338063000.0  -719595000.0      -351467000.0
+Reconciled Depreciation                                     1212530000.0  1187231000.0  1034949000.0      1067654000.0
+Reconciled Cost Of Revenue                                  2966454000.0  2572118000.0  2145574000.0      2207181000.0
+EBITDA                                                      1883891000.0   962250000.0   336182000.0       797347000.0
+EBIT                                                         671361000.0  -224981000.0  -698767000.0      -270307000.0
+Net Interest Income                                         -195641000.0  -210397000.0  -204249000.0      -214144000.0
+Interest Expense                                             198140000.0   212947000.0   205563000.0       216332000.0
+Interest Income                                                2499000.0     2550000.0     1314000.0         2188000.0
+Normalized Income                                            414019000.0  -338063000.0  -719595000.0 -351658391.883922
+Net Income From Continuing And Discontinued Operation        414019000.0  -338063000.0  -719595000.0      -351467000.0
+Total Expenses                                              4205365000.0  3652422000.0  3135718000.0      3223999000.0
+Diluted Average Shares                                        91526000.0    91526000.0   111526000.0        91526000.0
+Basic Average Shares                                          91526000.0    91526000.0   111526000.0        91526000.0
+Diluted EPS                                                         4.52         -3.69         -7.86         -3.838329
+Basic EPS                                                           4.52         -3.69         -7.86         -3.838329
+Diluted NI Availto Com Stockholders                          414019000.0  -338063000.0  -719595000.0      -351467000.0
+Net Income Common Stockholders                               414019000.0  -338063000.0  -719595000.0      -351467000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                   414019000.0  -338063000.0  -719595000.0      -351467000.0
+Net Income Including Noncontrolling Interests                414019000.0  -338063000.0  -719595000.0      -351467000.0
+Net Income Continuous Operations                             414019000.0  -338063000.0  -719595000.0      -351467000.0
+Tax Provision                                                 59202000.0   -99865000.0  -184735000.0      -135172000.0
+Pretax Income                                                473221000.0  -437928000.0  -904330000.0      -486639000.0
+Other Non Operating Income Expenses                           23652000.0    44830000.0   158962000.0       190793000.0
+Special Income Charges                                               NaN           NaN           0.0          265000.0
+Write Off                                                            NaN           NaN           0.0         -265000.0
+Net Non Operating Interest Income Expense                   -195641000.0  -210397000.0  -204249000.0      -214144000.0
+Interest Expense Non Operating                               198140000.0   212947000.0   205563000.0       216332000.0
+Interest Income Non Operating                                  2499000.0     2550000.0     1314000.0         2188000.0
+Operating Income                                             625770000.0  -230212000.0  -801808000.0      -417449000.0
+Operating Expense                                           1238911000.0  1080304000.0   990144000.0      1016818000.0
+Other Operating Expenses                                    -165290000.0  -129814000.0   -21896000.0      -119522000.0
+Selling General And Administration                          1404201000.0  1210118000.0  1012040000.0      1136340000.0
+Selling And Marketing Expense                                283031000.0   198056000.0   134239000.0       163911000.0
+General And Administrative Expense                          1121170000.0  1012062000.0   877801000.0       972429000.0
+Gross Profit                                                1864681000.0   850092000.0   188336000.0       599369000.0
+Cost Of Revenue                                             2966454000.0  2572118000.0  2145574000.0      2207181000.0
+Total Revenue                                               4831135000.0  3422210000.0  2333910000.0      2806550000.0
+Operating Revenue                                           4831135000.0  3422210000.0  2333910000.0      2806550000.0

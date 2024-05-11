@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	101, Shuiguan Road
+address2	Renwu District
+city	Kaohsiung
+zip	814
+country	Taiwan
+phone	886 7 3711 411
+fax	886 7 3712 155
+website	https://www.npc.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Nan Ya Plastics Corporation engages in the manufacture and sale of plastic products, polyester fibers, petrochemical products, and electronic materials in Taiwan, China and Hong Kong, the United States, and internationally. It provides plastics products comprising PP synthetic papers, adhesives, optical films, outdoor and interior decoration materials, synthetic leather, TPU films, PU resins, fire rated doors, windows, plastic pallets, PVC cling films, PE stretch films, CPP films, BOPP films, engineering and PVC compounds, unsaturated polyester, pipes and fittings, rigid sheets, A-PET sheets/rigid films, PVC sheets, PVC rigid sheets, PP sheets, and injection molding products, as well as decoration, window, and PET films; and PU discs. The company also offers electronic materials, including copper clad laminates, glass fabrics, liquid crystal display products, touch panels, copper foils, and PCB inks. In addition, it provides chemicals, such as phthalate plasticizers, phthalic anhydride, alcohols, glycols, curing agents, hydrogen peroxide, tetrahydrofuran, 1,4-butanediol, bisphenol-A, maleic anhydride, epoxidized soybean oil, stabilizer, liquefied gas, and epoxy resins. Further, the company provides fiber and textile products, such as draw textured yarns, spin drawn yarns, partially and fully oriented yarns, polyester staple fibers, PET resins, polyester films, polyester release films, and woven and knitting fabrics. Additionally, it offers machinery and switchgear products, including HV/LV switchgears, cast resin transformers, vacuum contactor switches, molds, rollers, and screws and barrels. Nan Ya Plastics Corporation was incorporated in 1958 and is headquartered in Kaohsiung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Jen  Tzou', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Ta  Pai', 'title': 'Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qiyun  Su', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Yuan  Wong', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Chiao  Wang', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Kang  Wang', 'title': 'MD & Independent Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Yueh  Shih', 'title': 'Executive VP & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hong-Cheng  Yan', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	56.3
+open	56.3
+dayLow	56.1
+dayHigh	57.3
+regularMarketPreviousClose	56.3
+regularMarketOpen	56.3
+regularMarketDayLow	56.1
+regularMarketDayHigh	57.3
+dividendRate	3.0
+dividendYield	0.052600004
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	3.5294
+fiveYearAvgDividendYield	5.64
+beta	0.637
+trailingPE	67.05882
+forwardPE	18.446602
+volume	7533744
+regularMarketVolume	7533744
+averageVolume	8548300
+averageVolume10days	7267750
+averageDailyVolume10Day	7267750
+bid	57.0
+ask	57.1
+marketCap	452056743936
+fiftyTwoWeekLow	53.1
+fiftyTwoWeekHigh	81.2
+priceToSalesTrailing12Months	1.7403173
+fiftyDayAverage	56.524
+twoHundredDayAverage	63.3295
+currency	TWD
+enterpriseValue	546513813504
+profitMargins	0.02429
+floatShares	5055343867
+sharesOutstanding	7930820096
+heldPercentInsiders	0.38122
+heldPercentInstitutions	0.134
+impliedSharesOutstanding	8042330112
+bookValue	45.411
+priceToBook	1.2552025
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	6310049792
+trailingEps	0.85
+forwardEps	3.09
+pegRatio	0.47
+lastSplitFactor	1.01:1
+lastSplitDate	1375833600	 (2013-08-07 08:00:00)
+enterpriseToRevenue	2.104
+enterpriseToEbitda	21.63
+52WeekChange	-0.26640928
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1303.TW
+underlyingSymbol	1303.TW
+shortName	NAN YA PLASTIC
+longName	Nan Ya Plastics Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3327bdc6-c78c-3401-93d5-cfdcfe6aaf1e
+messageBoardId	finmb_878523
+gmtOffSetMilliseconds	28800000
+currentPrice	57.0
+targetHighPrice	95.0
+targetLowPrice	45.0
+targetMeanPrice	61.8
+targetMedianPrice	60.0
+recommendationMean	3.4
+recommendationKey	hold
+numberOfAnalystOpinions	7
+totalCash	113273364480
+totalCashPerShare	14.283
+ebitda	25266337792
+totalDebt	190790533120
+quickRatio	1.219
+currentRatio	1.691
+totalRevenue	259755343872
+debtToEquity	50.596
+revenuePerShare	32.753
+returnOnAssets	0.0019
+returnOnEquity	0.02103
+freeCashflow	2847538688
+operatingCashflow	35677696000
+revenueGrowth	-0.169
+grossMargins	0.07405
+ebitdaMargins	0.097270004
+operatingMargins	0.01387
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                   -1198577.986411      -2662969.18361     -7875880.376021        44082.357034
+Tax Rate For Calcs                                                   0.111745            0.190662            0.180074             0.11662
+Normalized EBITDA                                               36583322000.0       70424385000.0      124799579000.0       48531157000.0
+Total Unusual Items                                               -10726000.0         -13967000.0         -43737000.0            378000.0
+Total Unusual Items Excluding Goodwill                            -10726000.0         -13967000.0         -43737000.0            378000.0
+Net Income From Continuing Operation Net Minority Interest       6310050000.0       32108977000.0       81295023000.0       25709049000.0
+Reconciled Depreciation                                         23444384000.0       20553430000.0       19784190000.0       16777476000.0
+Reconciled Cost Of Revenue                                     240519344000.0      301276564000.0      307825271000.0      233757221000.0
+EBITDA                                                          36572596000.0       70410418000.0      124755842000.0       48531535000.0
+EBIT                                                            13128212000.0       49856988000.0      104971652000.0       31754059000.0
+Net Interest Income                                             -1270315000.0        -690221000.0        -567418000.0        -561875000.0
+Interest Expense                                                 3997897000.0        2306156000.0        1507697000.0        1316319000.0
+Interest Income                                                  2727582000.0        1615935000.0         940279000.0         754444000.0
+Normalized Income                                           6319577422.013589  32120281030.816391  81330884119.623978  25708715082.357033
+Net Income From Continuing And Discontinued Operation            6310050000.0       32108977000.0       81295023000.0       25709049000.0
+Total Expenses                                                 257751069000.0      323141158000.0      330626614000.0      252134078000.0
+Diluted Average Shares                                           7930822000.0        7930822000.0        7930822000.0        7930822000.0
+Basic Average Shares                                             7930822000.0        7930822000.0        7930822000.0        7930822000.0
+Diluted EPS                                                               0.8                4.05               10.25                3.24
+Basic EPS                                                                 0.8                4.05               10.25                3.24
+Diluted NI Availto Com Stockholders                              6310050000.0       32108977000.0       81295023000.0       25709049000.0
+Net Income Common Stockholders                                   6310050000.0       32108977000.0       81295023000.0       25709049000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                 0.0                 0.0
+Net Income                                                       6310050000.0       32108977000.0       81295023000.0       25709049000.0
+Minority Interests                                              -1799997000.0       -6375742000.0       -3537802000.0       -1179042000.0
+Net Income Including Noncontrolling Interests                    8110047000.0       38484719000.0       84832825000.0       26888091000.0
+Net Income Continuous Operations                                 8110047000.0       38484719000.0       84832825000.0       26888091000.0
+Tax Provision                                                    1020268000.0        9066113000.0       18631130000.0        3549649000.0
+Pretax Income                                                    9130315000.0       47550832000.0      103463955000.0       30437740000.0
+Other Non Operating Income Expenses                              4432911000.0       11394022000.0        2282835000.0        3136206000.0
+Special Income Charges                                            -10726000.0         -13967000.0         -43737000.0            378000.0
+Other Special Charges                                                     NaN          -1665000.0           -188000.0            671000.0
+Write Off                                                          10726000.0          13967000.0          43925000.0          -1049000.0
+Net Non Operating Interest Income Expense                       -1270315000.0        -690221000.0        -567418000.0        -561875000.0
+Interest Expense Non Operating                                   3997897000.0        2306156000.0        1507697000.0        1316319000.0
+Interest Income Non Operating                                    2727582000.0        1615935000.0         940279000.0         754444000.0
+Operating Income                                                 2004275000.0       32042142000.0       81043777000.0       21219728000.0
+Operating Expense                                               17231725000.0       21864594000.0       22801343000.0       18376857000.0
+Other Operating Expenses                                                  NaN                 NaN           -188000.0            671000.0
+Selling General And Administration                              17231725000.0       21864594000.0       22801343000.0       18376857000.0
+Selling And Marketing Expense                                    8179516000.0       12147990000.0       12935585000.0        9495134000.0
+General And Administrative Expense                               9052209000.0        9716604000.0        9865758000.0        8881723000.0
+Gross Profit                                                    19236000000.0       53906736000.0      103845120000.0       39596585000.0
+Cost Of Revenue                                                240519344000.0      301276564000.0      307825271000.0      233757221000.0
+Total Revenue                                                  259755344000.0      355183300000.0      411670391000.0      273353806000.0
+Operating Revenue                                              259755344000.0      355183300000.0      411670391000.0      273353806000.0

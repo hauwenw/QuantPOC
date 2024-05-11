@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 189, Gangqian Road
+address2	7th Floor Neihu District
+city	Taipei
+zip	11494
+country	Taiwan
+phone	886 2 2657 8809
+fax	886 2 2657 2201
+website	https://www.supreme.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Supreme Electronics Co., Ltd. engages in the import and export dealership of various electronic products and components in Taiwan, Hong Kong, China, the United States, and internationally. It offers electronic components, such as lithium-ion batteries, semiconductors, chips, flash memory, and DRAM; SYSTEM LSI products; mobile and display LED's; multilayer ceramic capacitors; polarizer; SiP and MCP products; high-precision analog and mixed-signal integrated circuits; USB3.0 host and device solutions; LCD products, including TN, STN, TFT-LCD, and 3D applications; DSC/DV, DVR/PVR, door phone cameras, rear car video recorders, and digital cameras; and timing controller ICs. The company also provides display interface products; audio IC and chip design solutions; automated digitization technology; and LED driver ICs. In addition, it is involved in the manufacturing of batteries; provision of biotechnology related products, and warehousing services; and manufacturing and trading of electronic products. Supreme Electronics Co., Ltd. was incorporated in 1987 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jun  Ge', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Hsing', 'title': 'Vice Chairman & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mingde D.  Chen', 'title': 'CFO & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lixing  Chen', 'title': 'Assistant VP of Accounting, Chief Accountant & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vincent  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	85.5
+open	83.5
+dayLow	77.1
+dayHigh	83.7
+regularMarketPreviousClose	85.5
+regularMarketOpen	83.5
+regularMarketDayLow	77.1
+regularMarketDayHigh	83.7
+dividendRate	4.28
+dividendYield	0.045100003
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	0.8518
+fiveYearAvgDividendYield	8.2
+beta	0.426
+trailingPE	15.725645
+forwardPE	15.299806
+volume	53846098
+regularMarketVolume	53846098
+averageVolume	15282769
+averageVolume10days	21891323
+averageDailyVolume10Day	21891323
+bid	79.2
+ask	79.3
+marketCap	40903401472
+fiftyTwoWeekLow	40.900097
+fiftyTwoWeekHigh	99.8
+priceToSalesTrailing12Months	0.26884454
+fiftyDayAverage	77.684
+twoHundredDayAverage	61.550217
+currency	TWD
+enterpriseValue	65426481152
+profitMargins	0.01421
+floatShares	474755978
+sharesOutstanding	517110016
+heldPercentInsiders	0.05895
+heldPercentInstitutions	0.22459
+impliedSharesOutstanding	517110016
+bookValue	33.594
+priceToBook	2.354587
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.623
+netIncomeToCommon	2111440000
+trailingEps	5.03
+forwardEps	5.17
+lastSplitFactor	106.0473:100
+lastSplitDate	1187049600	 (2007-08-14 08:00:00)
+enterpriseToRevenue	0.43
+enterpriseToEbitda	14.52
+52WeekChange	0.8131069
+SandP52WeekChange	0.26265144
+lastDividendValue	4.284772
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8112.TW
+underlyingSymbol	8112.TW
+shortName	SUPREME ELECTRONICS CO
+longName	Supreme Electronics Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4fcc6833-899f-3214-8ade-926eba1ca119
+messageBoardId	finmb_9755572
+gmtOffSetMilliseconds	28800000
+currentPrice	79.1
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3325671936
+totalCashPerShare	6.508
+ebitda	4505930240
+totalDebt	23651837952
+quickRatio	0.91
+currentRatio	1.79
+totalRevenue	152145182720
+debtToEquity	127.323
+revenuePerShare	338.717
+returnOnAssets	0.05741
+returnOnEquity	0.14666
+freeCashflow	-1488776320
+operatingCashflow	-973998976
+earningsGrowth	2.932
+revenueGrowth	0.377
+grossMargins	0.0427
+ebitdaMargins	0.02962
+operatingMargins	0.03478
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -20930819.579823    -6273771.079904    -1741887.359628    -6111169.981624
+Tax Rate For Calcs                                                   0.250972           0.235528           0.245509           0.213148
+Normalized EBITDA                                                4775819000.0       4011691000.0       4716604000.0       2884257000.0
+Total Unusual Items                                               -83399000.0        -26637000.0         -7095000.0        -28671000.0
+Total Unusual Items Excluding Goodwill                            -83399000.0        -26637000.0         -7095000.0        -28671000.0
+Net Income From Continuing Operation Net Minority Interest       2162204000.0       2206969000.0       2881045000.0       1595129000.0
+Reconciled Depreciation                                            96129000.0         87803000.0         89090000.0         81605000.0
+Reconciled Cost Of Revenue                                     145648169000.0     168160669000.0     202103211000.0     133883606000.0
+EBITDA                                                           4692420000.0       3985054000.0       4709509000.0       2855586000.0
+EBIT                                                             4596291000.0       3897251000.0       4620419000.0       2773981000.0
+Net Interest Income                                             -1305656000.0      -1062887000.0       -446648000.0       -436144000.0
+Interest Expense                                                 1340092000.0       1073851000.0        454790000.0        442729000.0
+Interest Income                                                    34436000.0         10964000.0          8142000.0          6585000.0
+Normalized Income                                           2224672180.420177  2227332228.920096  2886398112.640372  1617688830.018376
+Net Income From Continuing And Discontinued Operation            2162204000.0       2206969000.0       2881045000.0       1595129000.0
+Total Expenses                                                 147581894000.0     170263453000.0     204240707000.0     135161299000.0
+Diluted Average Shares                                            449181000.0        445852323.0        422933848.0        402354925.0
+Basic Average Shares                                              428497000.0        428497000.0        421452043.0        400883388.0
+Diluted EPS                                                              4.47               4.95           6.816683           4.099748
+Basic EPS                                                                 4.7               5.16           6.836159           4.109486
+Diluted NI Availto Com Stockholders                              2162204000.0       2206969000.0       2881045000.0       1595129000.0
+Net Income Common Stockholders                                   2162204000.0       2206969000.0       2881045000.0       1595129000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2162204000.0       2206969000.0       2881045000.0       1595129000.0
+Minority Interests                                               -276780000.0         48560000.0       -261884000.0       -239221000.0
+Net Income Including Noncontrolling Interests                    2438984000.0       2158409000.0       3142929000.0       1834350000.0
+Net Income Continuous Operations                                 2438984000.0       2158409000.0       3142929000.0       1834350000.0
+Tax Provision                                                     817215000.0        664991000.0       1022700000.0        496902000.0
+Pretax Income                                                    3256199000.0       2823400000.0       4165629000.0       2331252000.0
+Other Non Operating Income Expenses                               199276000.0         93066000.0        139166000.0        147200000.0
+Special Income Charges                                            -83399000.0        -26637000.0         -7095000.0        -28671000.0
+Write Off                                                          83399000.0         26637000.0          7095000.0         28671000.0
+Net Non Operating Interest Income Expense                       -1305656000.0      -1062887000.0       -446648000.0       -436144000.0
+Interest Expense Non Operating                                   1340092000.0       1073851000.0        454790000.0        442729000.0
+Interest Income Non Operating                                      34436000.0         10964000.0          8142000.0          6585000.0
+Operating Income                                                 4563284000.0       3811068000.0       4498127000.0       2348680000.0
+Operating Expense                                                1933725000.0       2102784000.0       2137496000.0       1277693000.0
+Research And Development                                          100337000.0         87688000.0         39588000.0         32401000.0
+Selling General And Administration                               1833388000.0       2015096000.0       2097908000.0       1245292000.0
+Selling And Marketing Expense                                    1833388000.0       2015096000.0       2097908000.0       1245292000.0
+Gross Profit                                                     6497009000.0       5913852000.0       6635623000.0       3626373000.0
+Cost Of Revenue                                                145648169000.0     168160669000.0     202103211000.0     133883606000.0
+Total Revenue                                                  152145178000.0     174074521000.0     208738834000.0     137509979000.0
+Operating Revenue                                              152145178000.0     174074521000.0     208738834000.0     137509979000.0

@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 68, Zhongxiao East Road
+address2	36th Floor Section 5 Xinyi District
+city	Taipei
+country	Taiwan
+phone	886 2 2722 9898
+fax	886 2 2722 0300
+website	https://www.5v.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	WE & WIN Development Co., LTD engages in the development and construction of real estate in Taiwan. The company was formerly known as Chun Chi Development Co., Ltd. and changed its name to WE & WIN Development Co., LTD in June 2008. WE & WIN Development Co., LTD was incorporated in 1987 and is based in Taipei, Taiwan.
+fullTimeEmployees	39
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming Lee  Chih', 'age': 57, 'title': 'President & Representative Director', 'yearBorn': 1966, 'fiscalYear': 2021, 'totalPay': 10224000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching Tseng  Chin', 'title': 'Vice President of Administration Department', 'fiscalYear': 2021, 'totalPay': 2706000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih Lung  Shih', 'title': 'Vice President of Construction & Planning Department', 'fiscalYear': 2021, 'totalPay': 2269000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia Huei  Lu', 'title': "Associate Vice President for Procurement - President's Office", 'fiscalYear': 2021, 'totalPay': 1900000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien Lin  Chiu', 'title': 'Administration Department Manager & Corporate Governance Director', 'fiscalYear': 2021, 'totalPay': 1640000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zeng  Jinqing', 'title': 'CFO & Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	17.55
+open	17.75
+dayLow	16.9
+dayHigh	17.9
+regularMarketPreviousClose	17.55
+regularMarketOpen	17.75
+regularMarketDayLow	16.9
+regularMarketDayHigh	17.9
+exDividendDate	1659398400	 (2022-08-02 08:00:00)
+beta	0.526
+volume	11963002
+regularMarketVolume	11963002
+averageVolume	11559905
+averageVolume10days	22821117
+averageDailyVolume10Day	22821117
+bid	16.9
+ask	16.95
+marketCap	5079430144
+fiftyTwoWeekLow	6.91
+fiftyTwoWeekHigh	19.75
+priceToSalesTrailing12Months	9.305542
+fiftyDayAverage	13.4762
+twoHundredDayAverage	9.70695
+currency	TWD
+enterpriseValue	14206683136
+profitMargins	-0.11017
+sharesOutstanding	300558016
+heldPercentInsiders	0.39541999
+heldPercentInstitutions	0.00322
+impliedSharesOutstanding	305580992
+bookValue	13.559
+priceToBook	1.2464045
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-60134000
+trailingEps	-0.02
+lastSplitFactor	1040:1000
+lastSplitDate	1503878400	 (2017-08-28 08:00:00)
+enterpriseToRevenue	26.027
+enterpriseToEbitda	277.285
+52WeekChange	1.4316547
+SandP52WeekChange	0.26265144
+lastDividendValue	0.9
+lastDividendDate	1659398400	 (2022-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2537.TW
+underlyingSymbol	2537.TW
+shortName	WE & WIN DEVELOPMENT CO. LTD.
+longName	WE & WIN Development Co., LTD
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	49ed70c3-bc08-3a98-ab1b-c2f464858f79
+messageBoardId	finmb_9709536
+gmtOffSetMilliseconds	28800000
+currentPrice	16.9
+recommendationKey	none
+totalCash	231995008
+totalCashPerShare	0.772
+ebitda	51235000
+totalDebt	9359250432
+quickRatio	0.03
+currentRatio	1.534
+totalRevenue	545849984
+debtToEquity	229.66
+revenuePerShare	1.816
+returnOnAssets	0.00151
+returnOnEquity	-0.01465
+freeCashflow	-330144992
+operatingCashflow	-351720000
+revenueGrowth	1.895
+grossMargins	0.26524
+ebitdaMargins	0.09386
+operatingMargins	0.058319997
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                         0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                             0.105907      0.371859      0.087531      0.031346
+Normalized EBITDA                                            66930000.0   260559000.0   542364000.0   230801000.0
+Total Unusual Items                                                 NaN           NaN           NaN           0.0
+Total Unusual Items Excluding Goodwill                              NaN           NaN           NaN           0.0
+Net Income From Continuing Operation Net Minority Interest  -60134000.0    77902000.0   414729000.0   176390000.0
+Reconciled Depreciation                                      13947000.0    11719000.0    10546000.0     9727000.0
+Reconciled Cost Of Revenue                                  401070000.0  1265772000.0  1616985000.0  1131948000.0
+EBITDA                                                       66930000.0   260559000.0   542364000.0   230801000.0
+EBIT                                                         52983000.0   248840000.0   531818000.0   221074000.0
+Net Interest Income                                        -110564000.0  -121139000.0   -76661000.0   -37158000.0
+Interest Expense                                            120240000.0   124820000.0    77305000.0    38976000.0
+Interest Income                                               9676000.0     3681000.0      644000.0     1818000.0
+Normalized Income                                           -60134000.0    77902000.0   414729000.0   176390000.0
+Net Income From Continuing And Discontinued Operation       -60134000.0    77902000.0   414729000.0   176390000.0
+Total Expenses                                              508562000.0  1435550000.0  1813280000.0  1264995000.0
+Diluted Average Shares                                              NaN   301334000.0   302061000.0   301234000.0
+Basic Average Shares                                                NaN   300558000.0   300558000.0   300558000.0
+Diluted EPS                                                         NaN          0.26          1.37          0.59
+Basic EPS                                                           NaN          0.26          1.38          0.59
+Diluted NI Availto Com Stockholders                         -60134000.0    77902000.0   414729000.0   176390000.0
+Net Income Common Stockholders                              -60134000.0    77902000.0   414729000.0   176390000.0
+Otherunder Preferred Stock Dividend                                 0.0           0.0           0.0           0.0
+Net Income                                                  -60134000.0    77902000.0   414729000.0   176390000.0
+Net Income Including Noncontrolling Interests               -60134000.0    77902000.0   414729000.0   176390000.0
+Net Income Continuous Operations                            -60134000.0    77902000.0   414729000.0   176390000.0
+Tax Provision                                                -7123000.0    46118000.0    39784000.0     5708000.0
+Pretax Income                                               -67257000.0   124020000.0   454513000.0   182098000.0
+Other Non Operating Income Expenses                           6435000.0     -874000.0    10521000.0     8535000.0
+Special Income Charges                                              NaN           NaN           NaN           0.0
+Write Off                                                           NaN           NaN           NaN           0.0
+Net Non Operating Interest Income Expense                  -110564000.0  -121139000.0   -76661000.0   -37158000.0
+Interest Expense Non Operating                              120240000.0   124820000.0    77305000.0    38976000.0
+Interest Income Non Operating                                 9676000.0     3681000.0      644000.0     1818000.0
+Operating Income                                             37288000.0   246468000.0   521103000.0   211341000.0
+Operating Expense                                           107492000.0   169778000.0   196295000.0   133047000.0
+Selling General And Administration                          107492000.0   169778000.0   196295000.0   133047000.0
+Selling And Marketing Expense                                22772000.0    78107000.0    82513000.0    56687000.0
+General And Administrative Expense                           84720000.0    91671000.0   113782000.0    76360000.0
+Gross Profit                                                144780000.0   416246000.0   717398000.0   344388000.0
+Cost Of Revenue                                             401070000.0  1265772000.0  1616985000.0  1131948000.0
+Total Revenue                                               545850000.0  1682018000.0  2334383000.0  1476336000.0
+Operating Revenue                                           545850000.0  1682018000.0  2334383000.0  1476336000.0

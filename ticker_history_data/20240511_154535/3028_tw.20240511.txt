@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 8, Shinhu 2nd Road
+address2	Lane 250 Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 2792 8788
+fax	886 2 2796 8080
+website	https://www.zenitron.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Zenitron Corporation distributes semiconductor components in China, Taiwan, and internationally. The company offers supplier line cards; and IT, handheld, telecom and networking, IoT, industrial electronics, consumer, automotive, and power supply products, as well as digital products and computer storage devices. It also provides application design solutions, such as power management, home appliance, IoT, peripheral/human machine interface, telecommunications and networking, and video display. In addition, the company offers turnkey solutions and design consultation services; and technical support services. Zenitron Corporation was incorporated in 1982 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chang-Fu  Chang', 'title': 'Managing Director of Semiconductor China', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-lien  Ou Yang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	35.85
+open	35.45
+dayLow	35.15
+dayHigh	36.15
+regularMarketPreviousClose	35.85
+regularMarketOpen	35.45
+regularMarketDayLow	35.15
+regularMarketDayHigh	36.15
+dividendRate	2.91
+dividendYield	0.080699995
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	1.628
+fiveYearAvgDividendYield	6.9
+trailingPE	20.167597
+volume	1231152
+regularMarketVolume	1231152
+averageVolume	794330
+averageVolume10days	811284
+averageDailyVolume10Day	811284
+bid	36.05
+ask	36.1
+marketCap	8447652864
+fiftyTwoWeekLow	30.0
+fiftyTwoWeekHigh	37.2
+priceToSalesTrailing12Months	0.24968648
+fiftyDayAverage	35.783
+twoHundredDayAverage	33.458
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.055788007
+currency	TWD
+enterpriseValue	15508542464
+profitMargins	0.01248
+floatShares	183885457
+sharesOutstanding	234007008
+heldPercentInsiders	0.21451001
+heldPercentInstitutions	0.05183
+impliedSharesOutstanding	234007008
+bookValue	23.704
+priceToBook	1.5229496
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.296
+netIncomeToCommon	422295008
+trailingEps	1.79
+lastSplitFactor	103.0331:100
+lastSplitDate	1154390400	 (2006-08-01 08:00:00)
+enterpriseToRevenue	0.458
+enterpriseToEbitda	19.216
+52WeekChange	0.103975534
+SandP52WeekChange	0.26265144
+lastDividendValue	2.914092
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3028.TW
+underlyingSymbol	3028.TW
+shortName	ZENITRON CORP
+longName	Zenitron Corporation
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ac5b2217-c77e-3f1e-8651-9d505e33aab7
+messageBoardId	finmb_9870527
+gmtOffSetMilliseconds	28800000
+currentPrice	36.1
+recommendationKey	none
+totalCash	1470605952
+totalCashPerShare	6.248
+ebitda	807068992
+totalDebt	8481951744
+quickRatio	0.665
+currentRatio	1.296
+totalRevenue	33833039872
+debtToEquity	152.024
+revenuePerShare	148.038
+returnOnAssets	0.023570001
+returnOnEquity	0.07914
+freeCashflow	1872869248
+operatingCashflow	2224293120
+earningsGrowth	-0.298
+revenueGrowth	0.172
+grossMargins	0.06692
+ebitdaMargins	0.02385
+operatingMargins	0.01289
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    772503.330055     508511.612158            0.0            0.0
+Tax Rate For Calcs                                                  0.246255           0.21188       0.187888        0.14959
+Normalized EBITDA                                               1141004000.0      1295534000.0   1266009000.0    748918000.0
+Total Unusual Items                                                3137000.0         2400000.0            NaN            NaN
+Total Unusual Items Excluding Goodwill                             3137000.0         2400000.0            NaN            NaN
+Net Income From Continuing Operation Net Minority Interest       455974000.0       714572000.0    877710000.0    472025000.0
+Reconciled Depreciation                                           67302000.0        69927000.0     68915000.0     71700000.0
+Reconciled Cost Of Revenue                                     30182703000.0     37297722000.0  39557880000.0  32779983000.0
+EBITDA                                                          1144141000.0      1297934000.0   1266009000.0    748918000.0
+EBIT                                                            1076839000.0      1228007000.0   1197094000.0    677218000.0
+Net Interest Income                                             -454074000.0      -314033000.0   -113585000.0   -115737000.0
+Interest Expense                                                 471894000.0       321328000.0    116319000.0    122162000.0
+Interest Income                                                   17820000.0         7295000.0      2734000.0      6425000.0
+Normalized Income                                           453609503.330055  712680511.612158    877710000.0    472025000.0
+Net Income From Continuing And Discontinued Operation            455974000.0       714572000.0    877710000.0    472025000.0
+Total Expenses                                                 31654730000.0     38810534000.0  40980547000.0  33974192000.0
+Diluted Average Shares                                           238100000.0       237665000.0    223511000.0    214771000.0
+Basic Average Shares                                             224366000.0       216541000.0    213825000.0    213825000.0
+Diluted EPS                                                             1.93              3.03           3.94            2.2
+Basic EPS                                                               2.03               3.3            4.1           2.21
+Diluted NI Availto Com Stockholders                              455974000.0       714572000.0    877710000.0    472025000.0
+Net Income Common Stockholders                                   455974000.0       714572000.0    877710000.0    472025000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0            0.0            0.0
+Net Income                                                       455974000.0       714572000.0    877710000.0    472025000.0
+Minority Interests                                                       NaN               NaN            NaN            0.0
+Net Income Including Noncontrolling Interests                    455974000.0       714572000.0    877710000.0    472025000.0
+Net Income Continuous Operations                                 455974000.0       714572000.0    877710000.0    472025000.0
+Tax Provision                                                    148971000.0       192107000.0    203065000.0     83031000.0
+Pretax Income                                                    604945000.0       906679000.0   1080775000.0    555056000.0
+Other Non Operating Income Expenses                              136594000.0         5924000.0    130181000.0    243816000.0
+Special Income Charges                                             3137000.0         2400000.0            NaN            NaN
+Write Off                                                         -3137000.0        -2400000.0            NaN            NaN
+Net Non Operating Interest Income Expense                       -454074000.0      -314033000.0   -113585000.0   -115737000.0
+Interest Expense Non Operating                                   471894000.0       321328000.0    116319000.0    122162000.0
+Interest Income Non Operating                                     17820000.0         7295000.0      2734000.0      6425000.0
+Operating Income                                                 919288000.0      1212388000.0   1064179000.0    426977000.0
+Operating Expense                                               1472027000.0      1512812000.0   1422667000.0   1194209000.0
+Selling General And Administration                              1472027000.0      1512812000.0   1422667000.0   1194209000.0
+Selling And Marketing Expense                                   1089968000.0      1116524000.0   1069211000.0    857343000.0
+General And Administrative Expense                               382059000.0       396288000.0    353456000.0    336866000.0
+Gross Profit                                                    2391315000.0      2725200000.0   2486846000.0   1621186000.0
+Cost Of Revenue                                                30182703000.0     37297722000.0  39557880000.0  32779983000.0
+Total Revenue                                                  32574018000.0     40022922000.0  42044726000.0  34401169000.0
+Operating Revenue                                              32574018000.0     40022922000.0  42044726000.0  34401169000.0

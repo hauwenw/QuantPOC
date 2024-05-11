@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 36, Gongbei 1st Road
+address2	Zhangbin Industrial Zone Zhonggang Township
+city	Changhua
+zip	50953
+country	Taiwan
+phone	886 4 7586 136
+fax	886 4 7586 135
+website	https://www.tsutw.com.tw
+industry	Waste Management
+industryKey	waste-management
+industryDisp	Waste Management
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Taiwan Steel Union Co., Ltd. manufactures and trades in zinc oxide and non-metallic mineral products in Taiwan. It also engages in the disposal and reuse of general industrial waste and hazardous industrial waste. The company was founded in 1984 and is based in Changhua County, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mingru  Lin', 'age': 75, 'title': 'Chairman & CEO', 'yearBorn': 1948, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Chieh  Lin', 'title': 'Manager of Administration & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsai-Hsiang  Lin', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Nan  Yu', 'title': 'Head of Maintenance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Chiao  Chao', 'title': 'Head of Audit Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	102.5
+open	103.5
+dayLow	100.0
+dayHigh	103.5
+regularMarketPreviousClose	102.5
+regularMarketOpen	103.5
+regularMarketDayLow	100.0
+regularMarketDayHigh	103.5
+dividendRate	4.3
+dividendYield	0.0431
+exDividendDate	1711584000	 (2024-03-28 08:00:00)
+payoutRatio	0.874
+fiveYearAvgDividendYield	5.2
+beta	0.584
+trailingPE	20.833332
+forwardPE	20.5
+volume	125843
+regularMarketVolume	125843
+averageVolume	71324
+averageVolume10days	145145
+averageDailyVolume10Day	145145
+bid	102.5
+ask	103.0
+marketCap	11405277184
+fiftyTwoWeekLow	86.3
+fiftyTwoWeekHigh	106.0
+priceToSalesTrailing12Months	5.5868754
+fiftyDayAverage	93.99
+twoHundredDayAverage	90.625
+trailingAnnualDividendRate	4.3
+trailingAnnualDividendYield	0.04195122
+currency	TWD
+enterpriseValue	10394755072
+profitMargins	0.24719
+floatShares	17413912
+sharesOutstanding	111271000
+heldPercentInsiders	0.83821
+heldPercentInstitutions	0.00206
+impliedSharesOutstanding	112444000
+bookValue	36.956
+priceToBook	2.7735684
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.164
+netIncomeToCommon	504622016
+trailingEps	4.92
+forwardEps	5.0
+enterpriseToRevenue	5.092
+enterpriseToEbitda	11.937
+52WeekChange	0.13888884
+SandP52WeekChange	0.26265144
+lastDividendValue	4.3
+lastDividendDate	1711584000	 (2024-03-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6581.TW
+underlyingSymbol	6581.TW
+shortName	TAIWAN STEEL UNION CO LTD
+longName	Taiwan Steel Union Co., Ltd.
+firstTradeDateEpochUtc	1473642000	 (2016-09-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cfe81337-5ffa-3221-b53f-87fbb7135284
+messageBoardId	finmb_367203722
+gmtOffSetMilliseconds	28800000
+currentPrice	102.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	676708992
+totalCashPerShare	6.082
+ebitda	870828992
+quickRatio	2.135
+currentRatio	2.616
+totalRevenue	2041441024
+revenuePerShare	18.347
+returnOnAssets	0.084630005
+returnOnEquity	0.11955
+freeCashflow	349584640
+operatingCashflow	684561024
+earningsGrowth	-0.163
+revenueGrowth	-0.075
+grossMargins	0.42797002
+ebitdaMargins	0.42658
+operatingMargins	0.3798
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -2621970.08512    -796123.041654   -1122864.027615    -854131.570052
+Tax Rate For Calcs                                                 0.203981          0.194224          0.220689           0.22168
+Normalized EBITDA                                               876358000.0      1436230000.0       927098000.0       746549000.0
+Total Unusual Items                                             -12854000.0        -4099000.0        -5088000.0        -3853000.0
+Total Unusual Items Excluding Goodwill                          -12854000.0        -4099000.0        -5088000.0        -3853000.0
+Net Income From Continuing Operation Net Minority Interest      504622000.0       984155000.0       564869000.0       407534000.0
+Reconciled Depreciation                                         227569000.0       208071000.0       193189000.0       210672000.0
+Reconciled Cost Of Revenue                                     1167773000.0      1124910000.0       840496000.0       883443000.0
+EBITDA                                                          863504000.0      1432131000.0       922010000.0       742696000.0
+EBIT                                                            635935000.0      1224060000.0       728821000.0       532024000.0
+Net Interest Income                                               6476000.0          695000.0        -3563000.0        -4864000.0
+Interest Expense                                                  2003000.0         2685000.0         3990000.0         8417000.0
+Interest Income                                                   8479000.0         3380000.0          427000.0         3553000.0
+Normalized Income                                           514854029.91488  987457876.958346  568834135.972385  410532868.429948
+Net Income From Continuing And Discontinued Operation           504622000.0       984155000.0       564869000.0       407534000.0
+Total Expenses                                                 1398181000.0      1433869000.0      1125092000.0      1090732000.0
+Diluted Average Shares                                          111575000.0       111673000.0       111604000.0       111573000.0
+Basic Average Shares                                            111271000.0       111271000.0       111271000.0       111271000.0
+Diluted EPS                                                            4.52              8.81              5.06              3.65
+Basic EPS                                                              4.54              8.84              5.08              3.66
+Diluted NI Availto Com Stockholders                             504622000.0       984155000.0       564869000.0       407534000.0
+Net Income Common Stockholders                                  504622000.0       984155000.0       564869000.0       407534000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                      504622000.0       984155000.0       564869000.0       407534000.0
+Net Income Including Noncontrolling Interests                   504622000.0       984155000.0       564869000.0       407534000.0
+Net Income Continuous Operations                                504622000.0       984155000.0       564869000.0       407534000.0
+Tax Provision                                                   129310000.0       237220000.0       159962000.0       116073000.0
+Pretax Income                                                   633932000.0      1221375000.0       724831000.0       523607000.0
+Other Non Operating Income Expenses                               1680000.0         1284000.0         5430000.0         8900000.0
+Special Income Charges                                          -12854000.0        -4099000.0        -5088000.0        -3853000.0
+Other Special Charges                                            12854000.0         4099000.0         5088000.0         3853000.0
+Net Non Operating Interest Income Expense                         6476000.0          695000.0        -3563000.0        -4864000.0
+Interest Expense Non Operating                                    2003000.0         2685000.0         3990000.0         8417000.0
+Interest Income Non Operating                                     8479000.0         3380000.0          427000.0         3553000.0
+Operating Income                                                643260000.0      1203714000.0       728781000.0       531497000.0
+Operating Expense                                               230408000.0       308959000.0       284596000.0       207289000.0
+Research And Development                                          8158000.0          277000.0         2113000.0        21254000.0
+Selling General And Administration                              222250000.0       308682000.0       282483000.0       186035000.0
+Selling And Marketing Expense                                    92512000.0       169801000.0       153151000.0        64012000.0
+General And Administrative Expense                              129738000.0       138881000.0       129332000.0       122023000.0
+Gross Profit                                                    873668000.0      1512673000.0      1013377000.0       738786000.0
+Cost Of Revenue                                                1167773000.0      1124910000.0       840496000.0       883443000.0
+Total Revenue                                                  2041441000.0      2637583000.0      1853873000.0      1622229000.0
+Operating Revenue                                              2041441000.0      2637583000.0      1853873000.0      1622229000.0

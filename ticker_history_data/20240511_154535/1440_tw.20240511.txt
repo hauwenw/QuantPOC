@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 398 Huadong Road
+address2	10th Floor Section 1 East District
+city	Tainan City
+zip	701
+country	Taiwan
+phone	886 6 237 6161
+fax	886 6 236 1156
+website	https://www.tainanspin.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Tainan Spinning Co., Ltd. manufactures, processes, and sells various textile products and synthetic fiber materials in Taiwan, Mainland China, Vietnam, and internationally. The company offers cotton yarns, polyester fibers, polyester filament yarns, drawn textured yarns, polyester chips, pet granules, processed yarns, OE yarns, polyester partial oriented yarns, etc., as well as polyester terephthalate, and nanlon polyester chip bottle grade. It is also involved in the construction of national citizen buildings; rental and sale of commercial buildings; investment in textile-related industries and other businesses; production, printing, and dyeing of garments; and sales of woven textiles and garments. The company was incorporated in 1955 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Po-Ming  Hou', 'title': 'Chief Strategist Officer & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Fan  Wang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan-Hung  Peng', 'title': 'Assistant VP of Accounting Department & Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li Ling Cheng', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tun-Cheng  Wang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Mou  Chiang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu Che  Lee', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.5
+open	17.65
+dayLow	17.4
+dayHigh	17.75
+regularMarketPreviousClose	17.5
+regularMarketOpen	17.65
+regularMarketDayLow	17.4
+regularMarketDayHigh	17.75
+dividendRate	0.35
+dividendYield	0.0199
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.2333
+fiveYearAvgDividendYield	2.77
+trailingPE	11.7
+forwardPE	83.57143
+volume	3973311
+regularMarketVolume	3973311
+averageVolume	6662113
+averageVolume10days	20849181
+averageDailyVolume10Day	20849181
+bid	17.55
+ask	17.6
+marketCap	29077188608
+fiftyTwoWeekLow	13.65
+fiftyTwoWeekHigh	20.65
+priceToSalesTrailing12Months	1.5961298
+fiftyDayAverage	16.325
+twoHundredDayAverage	15.472
+trailingAnnualDividendRate	0.35
+trailingAnnualDividendYield	0.02
+currency	TWD
+enterpriseValue	36877115392
+profitMargins	0.13561
+floatShares	1118097552
+sharesOutstanding	1656819968
+heldPercentInsiders	0.3376
+heldPercentInstitutions	0.04916
+impliedSharesOutstanding	1752400000
+bookValue	16.472
+priceToBook	1.0654444
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	2470451968
+trailingEps	1.5
+forwardEps	0.21
+lastSplitFactor	1010:1000
+lastSplitDate	1438128000	 (2015-07-29 08:00:00)
+enterpriseToRevenue	2.024
+enterpriseToEbitda	256.667
+52WeekChange	0.103773594
+SandP52WeekChange	0.26265144
+lastDividendValue	0.35
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1440.TW
+underlyingSymbol	1440.TW
+shortName	TAINAN SPINNING
+longName	Tainan Spinning Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7eada338-df02-387c-b129-8719b8edc79e
+messageBoardId	finmb_9794195
+gmtOffSetMilliseconds	28800000
+currentPrice	17.55
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	8288309248
+totalCashPerShare	4.712
+ebitda	143676992
+totalDebt	13903215616
+quickRatio	0.888
+currentRatio	1.428
+totalRevenue	18217308160
+debtToEquity	47.345
+revenuePerShare	10.793
+returnOnAssets	-0.01076
+returnOnEquity	0.090950005
+freeCashflow	-1206944768
+operatingCashflow	-40294000
+revenueGrowth	-0.225
+grossMargins	0.05153
+ebitdaMargins	0.00789
+operatingMargins	-0.039890002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                                    0.2       0.158247       0.117277       0.017019
+Normalized EBITDA                                            3390910000.0   2654844000.0   4660341000.0   2145198000.0
+Total Unusual Items                                                   NaN            NaN            NaN            0.0
+Total Unusual Items Excluding Goodwill                                NaN            NaN            NaN            0.0
+Net Income From Continuing Operation Net Minority Interest   2101853000.0   1157904000.0   2926072000.0    936329000.0
+Reconciled Depreciation                                      1048474000.0   1025196000.0   1138042000.0    982029000.0
+Reconciled Cost Of Revenue                                  18844889000.0  19556386000.0  16908462000.0  15965585000.0
+EBITDA                                                       3390910000.0   2654844000.0   4660341000.0   2145198000.0
+EBIT                                                         2342436000.0   1629648000.0   3522299000.0   1163169000.0
+Net Interest Income                                          -218579000.0   -164840000.0   -149480000.0   -149988000.0
+Interest Expense                                              373723000.0    213843000.0    158507000.0    175092000.0
+Interest Income                                               155144000.0     49003000.0      9027000.0     25104000.0
+Normalized Income                                            2101853000.0   1157904000.0   2926072000.0    936329000.0
+Net Income From Continuing And Discontinued Operation        2101853000.0   1157904000.0   2926072000.0    936329000.0
+Total Expenses                                              20697701000.0  21604519000.0  18976807000.0  17816845000.0
+Diluted Average Shares                                       1659775000.0   1659116000.0   1659698000.0   1672016071.0
+Basic Average Shares                                         1656816000.0   1656816000.0   1656816000.0   1642682456.0
+Diluted EPS                                                          1.27            0.7           1.76           0.56
+Basic EPS                                                            1.27            0.7           1.77           0.57
+Diluted NI Availto Com Stockholders                          2101853000.0   1157904000.0   2926072000.0    936329000.0
+Net Income Common Stockholders                               2101853000.0   1157904000.0   2926072000.0    936329000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   2101853000.0   1157904000.0   2926072000.0    936329000.0
+Minority Interests                                            -88877000.0    -33854000.0    -43225000.0    -34932000.0
+Net Income Including Noncontrolling Interests                2190730000.0   1191758000.0   2969297000.0    971261000.0
+Net Income Continuous Operations                             2190730000.0   1191758000.0   2969297000.0    971261000.0
+Tax Provision                                                -222017000.0    224047000.0    394495000.0     16816000.0
+Pretax Income                                                1968713000.0   1415805000.0   3363792000.0    988077000.0
+Other Non Operating Income Expenses                          3223300000.0    875851000.0    323068000.0    368463000.0
+Special Income Charges                                                NaN            NaN            NaN            0.0
+Write Off                                                             NaN            NaN            NaN            0.0
+Net Non Operating Interest Income Expense                    -218579000.0   -164840000.0   -149480000.0   -149988000.0
+Interest Expense Non Operating                                373723000.0    213843000.0    158507000.0    175092000.0
+Interest Income Non Operating                                 155144000.0     49003000.0      9027000.0     25104000.0
+Operating Income                                            -1252489000.0    363713000.0   1216703000.0   -188624000.0
+Operating Expense                                            1852812000.0   2048133000.0   2068345000.0   1851260000.0
+Research And Development                                       39116000.0     40547000.0     37746000.0     47320000.0
+Selling General And Administration                           1813696000.0   2007586000.0   2030599000.0   1803940000.0
+Selling And Marketing Expense                                 944205000.0   1171202000.0   1191870000.0    962885000.0
+General And Administrative Expense                            869491000.0    836384000.0    838729000.0    841055000.0
+Gross Profit                                                  600323000.0   2411846000.0   3285048000.0   1662636000.0
+Cost Of Revenue                                             18844889000.0  19556386000.0  16908462000.0  15965585000.0
+Total Revenue                                               19445212000.0  21968232000.0  20193510000.0  17628221000.0
+Operating Revenue                                           19445212000.0  21968232000.0  20193510000.0  17628221000.0

@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No.370, Xinhu 1st Road
+address2	3rd Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2794 0259
+fax	886 2 2790 9644
+website	https://www.bin-live.com
+industry	Entertainment
+industryKey	entertainment
+industryDisp	Entertainment
+sector	Communication Services
+sectorKey	communication-services
+sectorDisp	Communication Services
+longBusinessSummary	B'in Live Co., Ltd. operates as a show production company in Taiwan and internationally. The company engages in the provision of visual and multimedia, lightning, stage and set, and audio design services; and production of concerts, music festival/award ceremonies, online performance, exhibition forums, and new media. It also provides technical integration, and hardware and engineering coordination services; and leases lighting engineering, audio engineering, studio engineering, video engineering, structural engineering, and construction engineering equipment. In addition, the company is involved in event planning, cross-platform marketing resource integration, ticketed show integration planning, trainee program, and artist agent service activities. The company was founded in 2014 and is based in Taipei, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	96.7
+open	96.8
+dayLow	96.1
+dayHigh	98.4
+regularMarketPreviousClose	96.7
+regularMarketOpen	96.8
+regularMarketDayLow	96.1
+regularMarketDayHigh	98.4
+exDividendDate	1598400000	 (2020-08-26 08:00:00)
+beta	0.268
+trailingPE	14.728916
+volume	221614
+regularMarketVolume	221614
+averageVolume	429117
+averageVolume10days	764366
+averageDailyVolume10Day	764366
+bid	97.7
+ask	97.9
+marketCap	4354095104
+fiftyTwoWeekLow	77.6
+fiftyTwoWeekHigh	155.0
+priceToSalesTrailing12Months	1.7017757
+fiftyDayAverage	97.528
+twoHundredDayAverage	98.1015
+currency	TWD
+enterpriseValue	3746643456
+profitMargins	0.11522
+sharesOutstanding	44520400
+heldPercentInsiders	0.53182
+heldPercentInstitutions	0.0014200001
+impliedSharesOutstanding	44520400
+bookValue	19.445
+priceToBook	5.029571
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.438
+netIncomeToCommon	294796992
+trailingEps	6.64
+lastSplitFactor	1049.865:1000
+lastSplitDate	1598400000	 (2020-08-26 08:00:00)
+enterpriseToRevenue	1.464
+enterpriseToEbitda	10.187
+52WeekChange	0.0818584
+SandP52WeekChange	0.26265144
+lastDividendValue	0.097493
+lastDividendDate	1598400000	 (2020-08-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6625.TW
+underlyingSymbol	6625.TW
+shortName	B'IN LIVE CO LTD
+longName	B'in Live Co., Ltd.
+firstTradeDateEpochUtc	1490835600	 (2017-03-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	73fbb45a-6f27-3f2e-a202-d11c4a7c9a43
+messageBoardId	finmb_416384688
+gmtOffSetMilliseconds	28800000
+currentPrice	97.8
+recommendationKey	none
+totalCash	679795008
+totalCashPerShare	15.269
+ebitda	367774016
+totalDebt	76891000
+quickRatio	1.303
+currentRatio	1.562
+totalRevenue	2558560000
+debtToEquity	8.929
+revenuePerShare	57.965
+returnOnAssets	0.12100001
+returnOnEquity	0.40905
+freeCashflow	145852992
+operatingCashflow	429358016
+earningsGrowth	0.428
+revenueGrowth	0.099
+grossMargins	0.20754999
+ebitdaMargins	0.14374
+operatingMargins	0.13543999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31      2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   1249600.190748  -608293.774319   -2431000.0   -3289600.0
+Tax Rate For Calcs                                                  0.129533        0.075875          0.2          0.2
+Normalized EBITDA                                                449820000.0      96037000.0   23798000.0   -5068000.0
+Total Unusual Items                                                9647000.0      -8017000.0  -12155000.0  -16448000.0
+Total Unusual Items Excluding Goodwill                             9647000.0      -8017000.0  -12155000.0  -16448000.0
+Net Income From Continuing Operation Net Minority Interest       294797000.0     -13764000.0  -87820000.0 -129111000.0
+Reconciled Depreciation                                          123187000.0     107211000.0  101882000.0  104780000.0
+Reconciled Cost Of Revenue                                      2027525000.0    1133372000.0  760614000.0  768665000.0
+EBITDA                                                           459467000.0      88020000.0   11643000.0  -21516000.0
+EBIT                                                             336280000.0     -19191000.0  -90239000.0 -126296000.0
+Net Interest Income                                                -311000.0      -1423000.0   -1770000.0   -2530000.0
+Interest Expense                                                   1808000.0       1883000.0    2197000.0    2958000.0
+Interest Income                                                    1497000.0        460000.0     427000.0     428000.0
+Normalized Income                                           286399600.190748 -6355293.774319  -78096000.0 -115952600.0
+Net Income From Continuing And Discontinued Operation            294797000.0     -13764000.0  -87820000.0 -129111000.0
+Total Expenses                                                  2284913000.0    1305644000.0  920524000.0  926704000.0
+Diluted Average Shares                                                   NaN      44060000.0   43997000.0   39094000.0
+Basic Average Shares                                                     NaN      44060000.0   43997000.0   39094000.0
+Diluted EPS                                                              NaN           -0.31         -2.0         -3.3
+Basic EPS                                                                NaN           -0.31         -2.0         -3.3
+Diluted NI Availto Com Stockholders                              294797000.0     -13764000.0  -87820000.0 -129111000.0
+Net Income Common Stockholders                                   294797000.0     -13764000.0  -87820000.0 -129111000.0
+Otherunder Preferred Stock Dividend                                      0.0             0.0          0.0          0.0
+Net Income                                                       294797000.0     -13764000.0  -87820000.0 -129111000.0
+Minority Interests                                                 3650000.0       5711000.0    5070000.0    2750000.0
+Net Income Including Noncontrolling Interests                    291147000.0     -19475000.0  -92890000.0 -131861000.0
+Net Income Continuous Operations                                 291147000.0     -19475000.0  -92890000.0 -131861000.0
+Tax Provision                                                     43325000.0      -1599000.0     454000.0    2607000.0
+Pretax Income                                                    334472000.0     -21074000.0  -92436000.0 -129254000.0
+Other Non Operating Income Expenses                               15934000.0       2506000.0   13000000.0   24823000.0
+Special Income Charges                                             1168000.0      -8359000.0      73000.0  -17146000.0
+Other Special Charges                                             -1057000.0       -495000.0      24000.0     -33000.0
+Write Off                                                          -111000.0       8854000.0     -97000.0   17179000.0
+Net Non Operating Interest Income Expense                          -311000.0      -1423000.0   -1770000.0   -2530000.0
+Interest Expense Non Operating                                     1808000.0       1883000.0    2197000.0    2958000.0
+Interest Income Non Operating                                      1497000.0        460000.0     427000.0     428000.0
+Operating Income                                                 273647000.0      -3000000.0  -82154000.0 -131479000.0
+Operating Expense                                                257388000.0     172272000.0  159910000.0  158039000.0
+Research And Development                                           8337000.0       7412000.0   10868000.0    4937000.0
+Selling General And Administration                               249051000.0     164860000.0  149042000.0  153102000.0
+Selling And Marketing Expense                                     75924000.0      55520000.0   49309000.0   56272000.0
+General And Administrative Expense                               173127000.0     109340000.0   99733000.0   96830000.0
+Gross Profit                                                     531035000.0     169272000.0   77756000.0   26560000.0
+Cost Of Revenue                                                 2027525000.0    1133372000.0  760614000.0  768665000.0
+Total Revenue                                                   2558560000.0    1302644000.0  838370000.0  795225000.0
+Operating Revenue                                               2558560000.0    1302644000.0  838370000.0  795225000.0

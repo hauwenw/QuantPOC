@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 123, Sanduo Road
+address2	Shulin District
+city	New Taipei City
+zip	23876
+country	Taiwan
+phone	886 2 2689 2689
+fax	886 2 2689 3393
+website	https://www.tbimotion.com.tw
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Tbi Motion Technology Co., Ltd., together with its subsidiaries, engages in the manufacture and sale of linear motion products for automation industry in Taiwan, rest of Asia, Europe, and internationally. Its products include miniature and self-lubricating series linear guides; ball splines; miniature, ball screw, finished shaft end, end-caps circulation, external circulation, and internal circulation ball screw series; rotary series ball screw and ball splines; single axis actuators; linear ball bearings, slide shafts, and slide shaft supports; fixed and floated side ball screw support units; and couplings. The company is also involved in the investment business. Tbi Motion Technology Co., Ltd. was founded in 1986 and is headquartered in New Taipei City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	33.35
+open	33.45
+dayLow	33.2
+dayHigh	33.8
+regularMarketPreviousClose	33.35
+regularMarketOpen	33.45
+regularMarketDayLow	33.2
+regularMarketDayHigh	33.8
+dividendRate	1.48
+dividendYield	0.0442
+exDividendDate	1694044800	 (2023-09-07 08:00:00)
+payoutRatio	2.5162
+beta	0.818
+forwardPE	10.532915
+volume	161308
+regularMarketVolume	161308
+averageVolume	459537
+averageVolume10days	128905
+averageDailyVolume10Day	128905
+bid	33.6
+ask	33.7
+marketCap	3197335552
+fiftyTwoWeekLow	30.1
+fiftyTwoWeekHigh	41.9
+priceToSalesTrailing12Months	1.2435217
+fiftyDayAverage	34.098
+twoHundredDayAverage	33.1065
+currency	TWD
+enterpriseValue	6631997440
+profitMargins	-0.0403
+floatShares	86132062
+sharesOutstanding	95158800
+heldPercentInsiders	0.30391002
+heldPercentInstitutions	0.091800004
+impliedSharesOutstanding	95158800
+bookValue	34.253
+priceToBook	0.980936
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-103612000
+trailingEps	-3.23
+forwardEps	3.19
+enterpriseToRevenue	2.579
+enterpriseToEbitda	41.85
+52WeekChange	-0.16104871
+SandP52WeekChange	0.26265144
+lastDividendValue	1.484539
+lastDividendDate	1694044800	 (2023-09-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4540.TW
+underlyingSymbol	4540.TW
+shortName	TBI MOTION TECHNOLOGY CO LTD
+longName	Tbi Motion Technology Co., Ltd.
+firstTradeDateEpochUtc	1416358800	 (2014-11-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	167bfc22-9ad5-374d-b739-35a527a8a693
+messageBoardId	finmb_213634474
+gmtOffSetMilliseconds	28800000
+currentPrice	33.6
+targetHighPrice	50.0
+targetLowPrice	50.0
+targetMeanPrice	50.0
+targetMedianPrice	50.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	612044032
+totalCashPerShare	6.432
+ebitda	158472000
+totalDebt	4046704896
+quickRatio	1.032
+currentRatio	2.955
+totalRevenue	2571194112
+debtToEquity	124.153
+revenuePerShare	27.081
+returnOnAssets	-0.0056
+returnOnEquity	-0.03078
+freeCashflow	-673513856
+operatingCashflow	-299960000
+revenueGrowth	-0.373
+grossMargins	0.16261
+ebitdaMargins	0.06163
+operatingMargins	-0.28569
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    881298.311851   -8231978.794432   -9869689.258653  -18480292.563428
+Tax Rate For Calcs                                                  0.298948          0.274034          0.271758          0.299019
+Normalized EBITDA                                                218238000.0       742816000.0       660766000.0       484995000.0
+Total Unusual Items                                                2948000.0       -30040000.0       -36318000.0       -61803000.0
+Total Unusual Items Excluding Goodwill                             2948000.0       -30040000.0       -36318000.0       -61803000.0
+Net Income From Continuing Operation Net Minority Interest      -103612000.0       284011000.0       237300000.0        91424000.0
+Reconciled Depreciation                                          297966000.0       270577000.0       266899000.0       260368000.0
+Reconciled Cost Of Revenue                                      2153100000.0      2436720000.0      2434561000.0      2140694000.0
+EBITDA                                                           221186000.0       712776000.0       624448000.0       423192000.0
+EBIT                                                             -76780000.0       442199000.0       357549000.0       162824000.0
+Net Interest Income                                              -65143000.0       -47948000.0       -29417000.0       -29814000.0
+Interest Expense                                                  71015000.0        50981000.0        31696000.0        32401000.0
+Interest Income                                                    5872000.0         3033000.0         2279000.0         2587000.0
+Normalized Income                                          -105678701.688149  305819021.205568  263748310.741347  134746707.436572
+Net Income From Continuing And Discontinued Operation           -103612000.0       284011000.0       237300000.0        91424000.0
+Total Expenses                                                  2645034000.0      2966403000.0      2907446000.0      2492723000.0
+Diluted Average Shares                                            94946000.0        97402000.0        94482000.0        95421000.0
+Basic Average Shares                                              94946000.0        94178000.0        94178000.0        95213000.0
+Diluted EPS                                                            -1.09              2.94              2.51              0.96
+Basic EPS                                                              -1.09              3.02              2.52              0.96
+Diluted NI Availto Com Stockholders                             -103612000.0       284011000.0       237300000.0        91424000.0
+Net Income Common Stockholders                                  -103612000.0       284011000.0       237300000.0        91424000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                      -103612000.0       284011000.0       237300000.0        91424000.0
+Net Income Including Noncontrolling Interests                   -103612000.0       284011000.0       237300000.0        91424000.0
+Net Income Continuous Operations                                -103612000.0       284011000.0       237300000.0        91424000.0
+Tax Provision                                                    -44183000.0       107207000.0        88553000.0        38999000.0
+Pretax Income                                                   -147795000.0       391218000.0       325853000.0       130423000.0
+Other Non Operating Income Expenses                              -11760000.0        61366000.0        13715000.0       -25458000.0
+Special Income Charges                                             2948000.0       -30040000.0       -36318000.0       -61803000.0
+Write Off                                                         -2948000.0        30040000.0        36318000.0        61803000.0
+Net Non Operating Interest Income Expense                        -65143000.0       -47948000.0       -29417000.0       -29814000.0
+Interest Expense Non Operating                                    71015000.0        50981000.0        31696000.0        32401000.0
+Interest Income Non Operating                                      5872000.0         3033000.0         2279000.0         2587000.0
+Operating Income                                                 -73840000.0       407840000.0       377873000.0       247498000.0
+Operating Expense                                                491934000.0       529683000.0       472885000.0       352029000.0
+Research And Development                                          83811000.0        86749000.0        87378000.0        82511000.0
+Selling General And Administration                               408123000.0       442934000.0       385507000.0       269518000.0
+Selling And Marketing Expense                                     97214000.0        94177000.0        89477000.0        65287000.0
+General And Administrative Expense                               310909000.0       348757000.0       296030000.0       204231000.0
+Gross Profit                                                     418094000.0       937523000.0       850758000.0       599527000.0
+Cost Of Revenue                                                 2153100000.0      2436720000.0      2434561000.0      2140694000.0
+Total Revenue                                                   2571194000.0      3374243000.0      3285319000.0      2740221000.0
+Operating Revenue                                               2571194000.0      3374243000.0      3285319000.0      2740221000.0

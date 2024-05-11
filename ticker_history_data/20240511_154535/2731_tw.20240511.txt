@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No.151, Shitan Road
+address2	9th Floor Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 8793 9000
+fax	886 2 6607 1483
+website	https://www.liontravel.com
+industry	Travel Services
+industryKey	travel-services
+industryDisp	Travel Services
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Lion Travel Service Co., Ltd. provides travel services in Taiwan and internationally. It offers packaged tour, transportation ticketing, visa application, tour guide, and other travel-related services. The company also engages in the information technology, management consulting, catering, and tour bus transportation activities. In addition, it publishes magazine; and acts as a property insurance broker. The company was incorporated in 1977 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsin-Chuan  Huang', 'title': 'President, GM, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu Ting  Liu', 'title': 'Financial Officer & Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Anita  Chou', 'title': 'General Manager of Business Development Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pei  Hsin-Yu', 'title': 'President of Sales Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dong Feng  Lin', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Leng Hong  Liu', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Cai Feng  Wang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shi-Xin  Su', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qian-Wen  Dai', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Feng  Dan', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	149.5
+open	152.5
+dayLow	152.0
+dayHigh	161.5
+regularMarketPreviousClose	149.5
+regularMarketOpen	152.5
+regularMarketDayLow	152.0
+regularMarketDayHigh	161.5
+exDividendDate	1593561600	 (2020-07-01 08:00:00)
+fiveYearAvgDividendYield	4.48
+beta	0.636
+trailingPE	9.033733
+forwardPE	20.25641
+volume	8727282
+regularMarketVolume	8727282
+averageVolume	2587773
+averageVolume10days	4034946
+averageDailyVolume10Day	4034946
+bid	158.0
+ask	158.5
+marketCap	14737924096
+fiftyTwoWeekLow	107.0
+fiftyTwoWeekHigh	201.5
+priceToSalesTrailing12Months	0.6850973
+fiftyDayAverage	137.34
+twoHundredDayAverage	135.505
+trailingAnnualDividendRate	8.0
+trailingAnnualDividendYield	0.053511705
+currency	TWD
+enterpriseValue	12239108096
+profitMargins	0.06473
+floatShares	65075009
+sharesOutstanding	93278000
+heldPercentInsiders	0.34004003
+heldPercentInstitutions	0.07981
+impliedSharesOutstanding	93278000
+bookValue	40.001
+priceToBook	3.9499013
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	1392466048
+trailingEps	17.49
+forwardEps	7.8
+enterpriseToRevenue	0.569
+enterpriseToEbitda	12.063
+52WeekChange	-0.12465376
+SandP52WeekChange	0.26265144
+lastDividendValue	1.966407
+lastDividendDate	1593561600	 (2020-07-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2731.TW
+underlyingSymbol	2731.TW
+shortName	LION TRAVEL SERVICE CO LTD
+longName	Lion Travel Service Co., Ltd.
+firstTradeDateEpochUtc	1351731600	 (2012-11-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1120dc84-4af9-3ad7-b0b1-c9f8d6c5e0ad
+messageBoardId	finmb_49443660
+gmtOffSetMilliseconds	28800000
+currentPrice	158.0
+targetHighPrice	172.0
+targetLowPrice	172.0
+targetMeanPrice	172.0
+targetMedianPrice	172.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	3686181888
+totalCashPerShare	39.539
+ebitda	1014576000
+totalDebt	1102306048
+quickRatio	0.951
+currentRatio	1.423
+totalRevenue	21512163328
+debtToEquity	28.84
+revenuePerShare	234.957
+returnOnAssets	0.0736
+returnOnEquity	0.54636
+freeCashflow	891239872
+operatingCashflow	1280615936
+revenueGrowth	2.915
+grossMargins	0.15067
+ebitdaMargins	0.04716
+operatingMargins	0.050430004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                           0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                 0.0551      0.016709      0.254026      0.288958
+Normalized EBITDA                                            1765848000.0  -496613000.0  -373670000.0  -190734000.0
+Net Income From Continuing Operation Net Minority Interest   1392466000.0  -684284000.0  -469985000.0  -413057000.0
+Reconciled Depreciation                                       219499000.0   202351000.0   241412000.0   353772000.0
+Reconciled Cost Of Revenue                                  18270845000.0  2713829000.0  1457490000.0  5496397000.0
+EBITDA                                                       1765848000.0  -496613000.0  -373670000.0  -190734000.0
+EBIT                                                         1546349000.0  -698964000.0  -615082000.0  -544506000.0
+Net Interest Income                                             -921000.0   -32591000.0   -25819000.0   -28515000.0
+Interest Expense                                               27366000.0    41901000.0    38324000.0    39163000.0
+Interest Income                                                26445000.0     9310000.0    12505000.0    10648000.0
+Normalized Income                                            1392466000.0  -684284000.0  -469985000.0  -413057000.0
+Net Income From Continuing And Discontinued Operation        1392466000.0  -684284000.0  -469985000.0  -413057000.0
+Total Expenses                                              20578426000.0  4090459000.0  2723418000.0  7503183000.0
+Diluted Average Shares                                         92337000.0    76820000.0    74368133.0    71195849.0
+Basic Average Shares                                           91558000.0    76820000.0    74368133.0    71195849.0
+Diluted EPS                                                         15.08         -8.91     -6.321998       -5.8009
+Basic EPS                                                           15.21         -8.91     -6.321998       -5.8009
+Diluted NI Availto Com Stockholders                          1392466000.0  -684284000.0  -469985000.0  -413057000.0
+Net Income Common Stockholders                               1392466000.0  -684284000.0  -469985000.0  -413057000.0
+Otherunder Preferred Stock Dividend                                   0.0           0.0           0.0           0.0
+Net Income                                                   1392466000.0  -684284000.0  -469985000.0  -413057000.0
+Minority Interests                                            -42821000.0    44202000.0    17439000.0     1956000.0
+Net Income Including Noncontrolling Interests                1435287000.0  -728486000.0  -487424000.0  -415013000.0
+Net Income Continuous Operations                             1435287000.0  -728486000.0  -487424000.0  -415013000.0
+Tax Provision                                                  83696000.0   -12379000.0  -165982000.0  -168656000.0
+Pretax Income                                                1518983000.0  -740865000.0  -653406000.0  -583669000.0
+Other Non Operating Income Expenses                           577022000.0    81919000.0   333411000.0   402852000.0
+Net Non Operating Interest Income Expense                       -921000.0   -32591000.0   -25819000.0   -28515000.0
+Interest Expense Non Operating                                 27366000.0    41901000.0    38324000.0    39163000.0
+Interest Income Non Operating                                  26445000.0     9310000.0    12505000.0    10648000.0
+Operating Income                                              933737000.0  -790193000.0  -960998000.0  -958006000.0
+Operating Expense                                            2307581000.0  1376630000.0  1265928000.0  2006786000.0
+Other Operating Expenses                                     2307581000.0  1376630000.0  1265928000.0  2006786000.0
+Gross Profit                                                 3241318000.0   586437000.0   304930000.0  1048780000.0
+Cost Of Revenue                                             18270845000.0  2713829000.0  1457490000.0  5496397000.0
+Total Revenue                                               21512163000.0  3300266000.0  1762420000.0  6545177000.0
+Operating Revenue                                           21512163000.0  3300266000.0  1762420000.0  6545177000.0

@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 249, Chung Shan Road
+address2	Sec. 2 Kuan Miao District
+city	Tainan City
+zip	71847
+country	Taiwan
+phone	886 6 595 3131
+fax	886 6 595 8190
+website	https://www.taya.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Ta Ya Electric Wire & Cable Co., Ltd. engages in the manufacture and sale of electric wires and cables in Taiwan and rest of Asia. The company offers power cable, telecommunication cable, optical fiber cable, and lead-free PVC and green wire, as well as heat resistant, flame retardant, and fire-resistant cable; and triple insulation layers and enameled wires. It also provides copper bonding and bare copper wires. Further, it constructs, sells, and rents office and house buildings. The company was formerly known as Ta Ya Enterprise and changed its name to Ta Ya Electric Wire & Cable Co., Ltd. in 1967. The company was founded in 1955 and is headquartered in Tainan City, Taiwan.
+fullTimeEmployees	1686
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shang-Hong  Shen', 'title': 'Chairman of the Board & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ta-Chih  Shen', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Ming  Hung', 'title': 'Financial Assistant Vice President and Financial & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Te-Tung  Lu', 'title': 'Director of Sales Office', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	53.3
+open	53.3
+dayLow	52.0
+dayHigh	53.9
+regularMarketPreviousClose	53.3
+regularMarketOpen	53.3
+regularMarketDayLow	52.0
+regularMarketDayHigh	53.9
+dividendRate	0.48
+dividendYield	0.009
+exDividendDate	1690761600	 (2023-07-31 08:00:00)
+payoutRatio	0.1229
+fiveYearAvgDividendYield	3.24
+beta	0.944
+trailingPE	13.708439
+forwardPE	26.146341
+volume	27215593
+regularMarketVolume	27215593
+averageVolume	68125854
+averageVolume10days	50989014
+averageDailyVolume10Day	50989014
+bid	53.5
+ask	53.6
+marketCap	39141933056
+fiftyTwoWeekLow	29.021141
+fiftyTwoWeekHigh	68.0
+priceToSalesTrailing12Months	1.48064
+fiftyDayAverage	46.879
+twoHundredDayAverage	37.901188
+currency	TWD
+enterpriseValue	59957010432
+profitMargins	0.10448
+floatShares	621137178
+sharesOutstanding	730259968
+heldPercentInsiders	0.119320005
+heldPercentInstitutions	0.07254
+impliedSharesOutstanding	730259968
+bookValue	19.554
+priceToBook	2.741127
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.25
+netIncomeToCommon	2762030080
+trailingEps	3.91
+forwardEps	2.05
+lastSplitFactor	1009.60876:1000
+lastSplitDate	1690761600	 (2023-07-31 08:00:00)
+enterpriseToRevenue	2.268
+enterpriseToEbitda	24.653
+52WeekChange	0.7889266
+SandP52WeekChange	0.26265144
+lastDividendValue	0.480438
+lastDividendDate	1690761600	 (2023-07-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1609.TW
+underlyingSymbol	1609.TW
+shortName	TA YA ELECTRONIC WIRE & CABLE
+longName	Ta Ya Electric Wire & Cable Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e64b025b-ce43-36cd-930b-90d68944f49e
+messageBoardId	finmb_11500479
+gmtOffSetMilliseconds	28800000
+currentPrice	53.6
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	7366339072
+totalCashPerShare	10.087
+ebitda	2432001024
+totalDebt	25964214272
+quickRatio	0.936
+currentRatio	1.439
+totalRevenue	26435819520
+debtToEquity	157.39
+revenuePerShare	37.422
+returnOnAssets	0.02241
+returnOnEquity	0.21648
+freeCashflow	-1824328320
+operatingCashflow	2787377920
+earningsGrowth	-0.258
+revenueGrowth	0.124
+grossMargins	0.13146
+ebitdaMargins	0.092
+operatingMargins	0.073410004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -818266.147941   -1831055.567814    -3741516.635484   -3558221.605884
+Tax Rate For Calcs                                                   0.125617          0.123553           0.172938          0.151762
+Normalized EBITDA                                                5218476000.0      2350921000.0       2928822000.0      1816767000.0
+Total Unusual Items                                                -6514000.0       -14820000.0        -21635000.0       -23446000.0
+Total Unusual Items Excluding Goodwill                             -6514000.0       -14820000.0        -21635000.0       -23446000.0
+Net Income From Continuing Operation Net Minority Interest       2762030000.0       841475000.0       1408768000.0       850045000.0
+Reconciled Depreciation                                           966152000.0       644820000.0        615152000.0       358350000.0
+Reconciled Cost Of Revenue                                      22960671000.0     24572112000.0      24656077000.0     16699808000.0
+EBITDA                                                           5211962000.0      2336101000.0       2907187000.0      1793321000.0
+EBIT                                                             4245810000.0      1691281000.0       2292035000.0      1434971000.0
+Net Interest Income                                              -595434000.0      -448935000.0       -276427000.0      -184750000.0
+Interest Expense                                                  665756000.0       476693000.0        291973000.0       216303000.0
+Interest Income                                                    70322000.0        27758000.0         15546000.0        31553000.0
+Normalized Income                                           2767725733.852059  854463944.432186  1426661483.364516  869932778.394116
+Net Income From Continuing And Discontinued Operation            2762030000.0       841475000.0       1408768000.0       850045000.0
+Total Expenses                                                  24895995000.0     25903045000.0      25940453000.0     17849448000.0
+Diluted Average Shares                                                    NaN       726524000.0        659594570.0       647339030.0
+Basic Average Shares                                                      NaN       683583000.0        654984696.0       647339030.0
+Diluted EPS                                                               NaN              1.17           2.139443          1.317529
+Basic EPS                                                                 NaN              1.23           2.149347          1.317529
+Diluted NI Availto Com Stockholders                              2762030000.0       841475000.0       1408768000.0       850045000.0
+Net Income Common Stockholders                                   2762030000.0       841475000.0       1408768000.0       850045000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0               0.0
+Net Income                                                       2762030000.0       841475000.0       1408768000.0       850045000.0
+Minority Interests                                               -368310000.0      -223047000.0       -245407000.0      -183675000.0
+Net Income Including Noncontrolling Interests                    3130340000.0      1064522000.0       1654175000.0      1033720000.0
+Net Income Continuous Operations                                 3130340000.0      1064522000.0       1654175000.0      1033720000.0
+Tax Provision                                                     449714000.0       150066000.0        345887000.0       184948000.0
+Pretax Income                                                    3580054000.0      1214588000.0       2000062000.0      1218668000.0
+Other Non Operating Income Expenses                              2604606000.0       778461000.0        674488000.0       846996000.0
+Special Income Charges                                             -6514000.0       -14820000.0        -21635000.0       -23446000.0
+Other Special Charges                                              -2353000.0         -593000.0                NaN               NaN
+Write Off                                                           8867000.0        15413000.0         21635000.0        23446000.0
+Net Non Operating Interest Income Expense                        -595434000.0      -448935000.0       -276427000.0      -184750000.0
+Interest Expense Non Operating                                    665756000.0       476693000.0        291973000.0       216303000.0
+Interest Income Non Operating                                      70322000.0        27758000.0         15546000.0        31553000.0
+Operating Income                                                 1539825000.0       845972000.0       1517426000.0       451357000.0
+Operating Expense                                                1935324000.0      1330933000.0       1284376000.0      1149640000.0
+Other Operating Expenses                                                  NaN               NaN           593000.0               NaN
+Research And Development                                           46088000.0        55379000.0         42445000.0        67013000.0
+Selling General And Administration                               1889236000.0      1275554000.0       1241931000.0      1082627000.0
+Selling And Marketing Expense                                     340391000.0       308249000.0        286577000.0       257837000.0
+General And Administrative Expense                               1548845000.0       967305000.0        955354000.0       824790000.0
+Gross Profit                                                     3475149000.0      2176905000.0       2801802000.0      1600997000.0
+Cost Of Revenue                                                 22960671000.0     24572112000.0      24656077000.0     16699808000.0
+Total Revenue                                                   26435820000.0     26749017000.0      27457879000.0     18300805000.0
+Operating Revenue                                               26435820000.0     26749017000.0      27457879000.0     18300805000.0

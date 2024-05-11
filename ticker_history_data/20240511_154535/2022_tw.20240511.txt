@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 79-1, Xinle Street
+address2	Gangshan District
+city	Kaohsiung
+zip	820
+country	Taiwan
+phone	886 7 621 2191
+fax	886 7 623 0159
+website	https://www.tycons.com.tw
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Tycoons Group Enterprise Co.,Ltd. produces and sells steel products in the United States, Asia, Europe, and internationally. It offers billets; steel wire rods; steel bars; spheroidizing annealing wires; and drywall, roofing, wood, self-tapping, chipboard, Euro, collated, and window screws, as well as shear connectors, large and construction screws, and steel bars. The company also offers fabrication services, as well as engages in the heat treatment of spheroidized wires and screws. Tycoons Group Enterprise Co.,Ltd. was incorporated in 1980 and is based in Kaohsiung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Sung  Huang', 'age': 68, 'title': 'President, GM & Chairman', 'yearBorn': 1955, 'fiscalYear': 2021, 'totalPay': 2646696, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jui-Fu  Chang', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 1960760, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wen-Hui  Chang', 'title': 'Finance Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pi-Wan  Chou', 'title': 'Accounting Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	11.85
+open	11.95
+dayLow	11.75
+dayHigh	12.15
+regularMarketPreviousClose	11.85
+regularMarketOpen	11.95
+regularMarketDayLow	11.75
+regularMarketDayHigh	12.15
+exDividendDate	1121817600	 (2005-07-20 08:00:00)
+beta	1.056
+trailingPE	17.720589
+volume	698435
+regularMarketVolume	698435
+averageVolume	1441148
+averageVolume10days	599505
+averageDailyVolume10Day	599505
+bid	12.0
+ask	12.05
+marketCap	4062874368
+fiftyTwoWeekLow	10.0
+fiftyTwoWeekHigh	16.29205
+priceToSalesTrailing12Months	0.48252133
+fiftyDayAverage	11.528
+twoHundredDayAverage	12.077252
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.016877636
+currency	TWD
+enterpriseValue	7373972480
+profitMargins	0.00961
+sharesOutstanding	337168000
+heldPercentInsiders	0.23639
+heldPercentInstitutions	0.020079998
+impliedSharesOutstanding	337168000
+bookValue	10.725
+priceToBook	1.1235431
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	228540992
+trailingEps	0.68
+lastSplitFactor	702.79675:1000
+lastSplitDate	1692230400	 (2023-08-17 08:00:00)
+enterpriseToRevenue	0.876
+enterpriseToEbitda	10.461
+52WeekChange	-0.23011804
+SandP52WeekChange	0.26265144
+lastDividendValue	1.53681
+lastDividendDate	1121817600	 (2005-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2022.TW
+underlyingSymbol	2022.TW
+shortName	TYCOONS GROUP ENTERPRISE
+longName	Tycoons Group Enterprise Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6c98f5a1-e095-330d-93e6-f88f57266e64
+messageBoardId	finmb_9857338
+gmtOffSetMilliseconds	28800000
+currentPrice	12.05
+recommendationKey	none
+totalCash	1156171008
+totalCashPerShare	3.429
+ebitda	704899968
+totalDebt	1178625024
+quickRatio	1.105
+currentRatio	2.719
+totalRevenue	8420092928
+debtToEquity	17.07
+revenuePerShare	24.973
+returnOnAssets	0.02895
+returnOnEquity	0.05124
+freeCashflow	-42480876
+operatingCashflow	1296864000
+grossMargins	0.14102
+ebitdaMargins	0.08372
+operatingMargins	0.04795
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   2444752.157178     1692000.0    2050219.452111    -2896600.0
+Tax Rate For Calcs                                                  0.074594           0.2          0.129884           0.2
+Normalized EBITDA                                                729632000.0   315134000.0       874986000.0   209056000.0
+Total Unusual Items                                               32774000.0     8460000.0        15785000.0   -14483000.0
+Total Unusual Items Excluding Goodwill                            32774000.0     8460000.0        15785000.0   -14483000.0
+Net Income From Continuing Operation Net Minority Interest       228541000.0  -110919000.0       423725000.0  -185640000.0
+Reconciled Depreciation                                          310856000.0   285052000.0       299281000.0   335166000.0
+Reconciled Cost Of Revenue                                      7232718000.0  8955751000.0      9294385000.0  7397427000.0
+EBITDA                                                           762406000.0   323594000.0       890771000.0   194573000.0
+EBIT                                                             451550000.0    38542000.0       591490000.0  -140593000.0
+Net Interest Income                                              -67996000.0   -62032000.0       -44079000.0   -60878000.0
+Interest Expense                                                  80811000.0    65872000.0        48752000.0    65489000.0
+Interest Income                                                   12815000.0     3840000.0         4673000.0     4611000.0
+Normalized Income                                           198211752.157178  -117687000.0  409990219.452111  -174053600.0
+Net Income From Continuing And Discontinued Operation             80877000.0  -120371000.0       425914000.0  -185640000.0
+Total Expenses                                                  8049095000.0  9462310000.0      9794865000.0  7798219000.0
+Diluted Average Shares                                                   NaN   337168000.0       337168155.0   337168155.0
+Basic Average Shares                                                     NaN   337168000.0       337168155.0   337168155.0
+Diluted EPS                                                              NaN         -0.36          1.266369     -0.554926
+Basic EPS                                                                NaN         -0.36          1.266369     -0.554926
+Diluted NI Availto Com Stockholders                               80877000.0  -120371000.0       425914000.0  -185640000.0
+Net Income Common Stockholders                                    80877000.0  -120371000.0       425914000.0  -185640000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0           0.0
+Net Income                                                        80877000.0  -120371000.0       425914000.0  -185640000.0
+Minority Interests                                              -114543000.0   -51776000.0       -48520000.0    34183000.0
+Net Income Including Noncontrolling Interests                    195420000.0   -68595000.0       474434000.0  -219823000.0
+Net Income Discontinuous Operations                             -147664000.0    -9452000.0         2189000.0           0.0
+Net Income Continuous Operations                                 343084000.0   -59143000.0       472245000.0  -219823000.0
+Tax Provision                                                     27655000.0    31813000.0        70493000.0    13741000.0
+Pretax Income                                                    370739000.0   -27330000.0       542738000.0  -206082000.0
+Other Non Operating Income Expenses                              131469000.0    46323000.0      -242320000.0    49006000.0
+Special Income Charges                                            32774000.0     8460000.0        15785000.0   -14483000.0
+Write Off                                                        -32774000.0    -8460000.0       -15785000.0    14483000.0
+Net Non Operating Interest Income Expense                        -67996000.0   -62032000.0       -44079000.0   -60878000.0
+Interest Expense Non Operating                                    80811000.0    65872000.0        48752000.0    65489000.0
+Interest Income Non Operating                                     12815000.0     3840000.0         4673000.0     4611000.0
+Operating Income                                                 370998000.0   111306000.0       905528000.0   132165000.0
+Operating Expense                                                816377000.0   506559000.0       500480000.0   400792000.0
+Research And Development                                          11868000.0     9421000.0         7363000.0     9082000.0
+Selling General And Administration                               804509000.0   497138000.0       493117000.0   391710000.0
+Selling And Marketing Expense                                    516505000.0   213055000.0       233238000.0   145389000.0
+General And Administrative Expense                               288004000.0   284083000.0       259879000.0   246321000.0
+Gross Profit                                                    1187375000.0   617865000.0      1406008000.0   532957000.0
+Cost Of Revenue                                                 7232718000.0  8955751000.0      9294385000.0  7397427000.0
+Total Revenue                                                   8420093000.0  9573616000.0     10700393000.0  7930384000.0
+Operating Revenue                                               8420093000.0  9573616000.0     10700393000.0  7930384000.0

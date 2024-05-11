@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 95, Dun Hua South Road
+address2	23rd Floor Section 2
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 3701 2000
+fax	886 2 3701 2999
+website	https://www.continental-holdings.com
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Continental Holdings Corporation, together with its subsidiaries, engages in the civil and building construction, real estate development, environmental project development, and water treatment businesses in Taiwan and internationally. It operates through Construction Engineering, Real Estate Development, Environmental Project Development & Water Treatment, and Investment segments. The company constructs roads, bridges, tunnels, ports, metro systems, and oil and liquefied natural gas storage tanks, as well as undertakes power plant engineering, and civil and environmental engineering projects. It also constructs residential buildings, commercial offices, factories, hospitals, hotels, telecommunication equipment rooms, educational and research facilities, multifunctional complexes, township communities, and other buildings; and engages in leasing and management of real estate properties. In addition, the company constructs, operates, and maintains water treatment, sewage treatment, industrial wastewater treatment, water reclamation, and biomass energy projects; and mechanical biological treatment, thermal treatment, and flue gas treatment projects. Further, it engages in the pipeline construction, user takeover; underground pipeline construction projects; equipment operation and maintenance projects; development of sludge reduction and energy conservation equipment, and green energy technologies; provision of mechanical-electrical engineering services, such as electrical, plumbing, fire safety, and air-conditioning; and processing of sewage, industrial wastewater, and solid waste. Additionally, the company engages in the hotel operation activities; and provision of pollution prevention equipment and management consulting services. Continental Holdings Corporation was founded in 1945 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Cindy  Chang', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kris  Lin', 'title': 'Principal Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gary  Hsieh', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Weifan  Wang', 'title': 'General Counsel & Vice President of Legal Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Emily  Liu', 'title': 'Vice President of Corporate Communications Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'ChiChi  Chen', 'title': 'Vice President of HR Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Long  Dai', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Charleen  Chang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	35.95
+open	36.0
+dayLow	35.55
+dayHigh	36.25
+regularMarketPreviousClose	35.95
+regularMarketOpen	36.0
+regularMarketDayLow	35.55
+regularMarketDayHigh	36.25
+dividendRate	2.5
+dividendYield	0.0698
+exDividendDate	1688083200	 (2023-06-30 08:00:00)
+payoutRatio	1.2887
+fiveYearAvgDividendYield	5.78
+beta	0.497
+trailingPE	18.453608
+forwardPE	12.344827
+volume	5059791
+regularMarketVolume	5059791
+averageVolume	8110817
+averageVolume10days	13551293
+averageDailyVolume10Day	13551293
+bid	35.8
+ask	35.9
+marketCap	29471131648
+fiftyTwoWeekLow	25.25
+fiftyTwoWeekHigh	42.65
+priceToSalesTrailing12Months	0.96289355
+fiftyDayAverage	32.289
+twoHundredDayAverage	28.47325
+currency	TWD
+enterpriseValue	56279154688
+profitMargins	0.05609
+floatShares	332299362
+sharesOutstanding	823216000
+heldPercentInsiders	0.56802
+heldPercentInstitutions	0.07768
+impliedSharesOutstanding	823216000
+bookValue	33.226
+priceToBook	1.0774693
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.861
+netIncomeToCommon	1716736000
+trailingEps	1.94
+forwardEps	2.9
+lastSplitFactor	1050:1000
+lastSplitDate	1407974400	 (2014-08-14 08:00:00)
+enterpriseToRevenue	1.839
+enterpriseToEbitda	21.189
+52WeekChange	0.17184937
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1688083200	 (2023-06-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3703.TW
+underlyingSymbol	3703.TW
+shortName	CONTINENTAL HLDGS CORP
+longName	Continental Holdings Corporation
+firstTradeDateEpochUtc	1270688400	 (2010-04-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ddcd373f-2af2-3599-b10b-aacf3b1636db
+messageBoardId	finmb_12719299
+gmtOffSetMilliseconds	28800000
+currentPrice	35.8
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	6878140928
+totalCashPerShare	8.355
+ebitda	2656092928
+totalDebt	30262597632
+quickRatio	0.442
+currentRatio	1.327
+totalRevenue	30606843904
+debtToEquity	98.333
+revenuePerShare	37.18
+returnOnAssets	0.0177
+returnOnEquity	0.04423
+freeCashflow	1053212736
+operatingCashflow	439224992
+earningsGrowth	0.861
+revenueGrowth	0.049
+grossMargins	0.1397
+ebitdaMargins	0.086780004
+operatingMargins	0.06811
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.222114       0.081123       0.145834       0.050956
+Normalized EBITDA                                            3035174000.0   3853364000.0   2823654000.0   2240783000.0
+Total Unusual Items                                                   NaN            NaN            NaN            0.0
+Total Unusual Items Excluding Goodwill                                NaN            NaN            NaN            0.0
+Net Income From Continuing Operation Net Minority Interest   1716736000.0   2888392000.0   1826298000.0   1538543000.0
+Reconciled Depreciation                                       554023000.0    546315000.0    394709000.0    309255000.0
+Reconciled Cost Of Revenue                                  26330971000.0  27093614000.0  22954778000.0  18396746000.0
+EBITDA                                                       3035174000.0   3853364000.0   2823654000.0   2240783000.0
+EBIT                                                         2481151000.0   3307049000.0   2428945000.0   1931528000.0
+Net Interest Income                                          -673132000.0   -442313000.0   -205251000.0   -169621000.0
+Interest Expense                                              770881000.0    489478000.0    242872000.0    210916000.0
+Interest Income                                                97749000.0     47165000.0     37621000.0     41295000.0
+Normalized Income                                            1716736000.0   2888392000.0   1826298000.0   1538543000.0
+Net Income From Continuing And Discontinued Operation        1716736000.0   2888392000.0   1826298000.0   1538543000.0
+Total Expenses                                              28434245000.0  28888039000.0  24540951000.0  19926964000.0
+Rent Expense Supplemental                                             NaN            NaN            NaN     82211000.0
+Diluted Average Shares                                                NaN    823826000.0    823669000.0    823617000.0
+Basic Average Shares                                                  NaN    823216000.0    823216000.0    823216000.0
+Diluted EPS                                                           NaN           3.51           2.22           1.87
+Basic EPS                                                             NaN           3.51           2.22           1.87
+Diluted NI Availto Com Stockholders                          1716736000.0   2888392000.0   1826298000.0   1538543000.0
+Net Income Common Stockholders                               1716736000.0   2888392000.0   1826298000.0   1538543000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                   1716736000.0   2888392000.0   1826298000.0   1538543000.0
+Minority Interests                                            386341000.0    299391000.0    -40972000.0    -94394000.0
+Net Income Including Noncontrolling Interests                1330395000.0   2589001000.0   1867270000.0   1632937000.0
+Net Income Continuous Operations                             1330395000.0   2589001000.0   1867270000.0   1632937000.0
+Tax Provision                                                 379875000.0    228570000.0    318803000.0     87675000.0
+Pretax Income                                                1710270000.0   2817571000.0   2186073000.0   1720612000.0
+Other Non Operating Income Expenses                           179417000.0     -3751000.0     84576000.0    159878000.0
+Special Income Charges                                                NaN            NaN            NaN            0.0
+Write Off                                                             NaN            NaN            NaN            0.0
+Net Non Operating Interest Income Expense                    -673132000.0   -442313000.0   -205251000.0   -169621000.0
+Interest Expense Non Operating                                770881000.0    489478000.0    242872000.0    210916000.0
+Interest Income Non Operating                                  97749000.0     47165000.0     37621000.0     41295000.0
+Operating Income                                             2172599000.0   3257564000.0   2303357000.0   1761685000.0
+Operating Expense                                            2103274000.0   1794425000.0   1586173000.0   1530218000.0
+Selling General And Administration                           2103274000.0   1794425000.0   1586173000.0   1530218000.0
+Selling And Marketing Expense                                 478366000.0    468445000.0    426013000.0    389861000.0
+General And Administrative Expense                           1624908000.0   1325980000.0   1160160000.0   1140357000.0
+Gross Profit                                                 4275873000.0   5051989000.0   3889530000.0   3291903000.0
+Cost Of Revenue                                             26330971000.0  27093614000.0  22954778000.0  18396746000.0
+Total Revenue                                               30606844000.0  32145603000.0  26844308000.0  21688649000.0
+Operating Revenue                                           30606844000.0  32145603000.0  26844308000.0  21688649000.0

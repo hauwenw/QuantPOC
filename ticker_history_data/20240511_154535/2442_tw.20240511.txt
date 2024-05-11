@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 300, Yang Guang St.
+address2	7th Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 5582 8168
+website	https://www.jean.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Jean Co.,Ltd engages in the design, manufacture, and marketing of computer and TV display products in Taiwan. It also imports and exports electronic parts; and constructs, develops, sells, and leases real estate properties. The company was incorporated in 1986 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chuan-Chieh  Lin', 'title': 'Chairman & Chief Strategy Officer', 'fiscalYear': 2021, 'totalPay': 16354700, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ron-Tsun  Chi', 'title': 'President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuang-Shih  Li', 'title': 'Financial Officer & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guang-Shi  Li', 'title': 'Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhiliang  Wu', 'title': 'Information Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zaiqing  Zhang', 'title': 'Chief Auditor of Audit Office', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lewis  Lien', 'title': 'Senior Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	28.2
+open	28.2
+dayLow	27.7
+dayHigh	28.35
+regularMarketPreviousClose	28.2
+regularMarketOpen	28.2
+regularMarketDayLow	27.7
+regularMarketDayHigh	28.35
+dividendRate	0.05
+dividendYield	0.0018000001
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	0.030199999
+beta	0.662
+trailingPE	16.807228
+volume	2893371
+regularMarketVolume	2893371
+averageVolume	3116937
+averageVolume10days	5366987
+averageDailyVolume10Day	5366987
+bid	27.85
+ask	27.9
+marketCap	7144576000
+fiftyTwoWeekLow	15.513112
+fiftyTwoWeekHigh	33.35
+priceToSalesTrailing12Months	2.8548865
+fiftyDayAverage	28.045
+twoHundredDayAverage	23.204145
+currency	TWD
+enterpriseValue	12802984960
+profitMargins	0.17009
+sharesOutstanding	256078000
+heldPercentInsiders	0.46639
+heldPercentInstitutions	0.00907
+impliedSharesOutstanding	273664992
+bookValue	16.927
+priceToBook	1.6482543
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.356
+netIncomeToCommon	425655008
+trailingEps	1.66
+lastSplitFactor	1012.04706:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	5.116
+enterpriseToEbitda	36.244
+52WeekChange	0.7814584
+SandP52WeekChange	0.26265144
+lastDividendValue	0.050196
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2442.TW
+underlyingSymbol	2442.TW
+shortName	JEAN CO LTD
+longName	Jean Co.,Ltd
+firstTradeDateEpochUtc	975286800	 (2000-11-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8e81c4e0-7359-3d85-bc01-f50d5654ad8b
+messageBoardId	finmb_9846212
+gmtOffSetMilliseconds	28800000
+currentPrice	27.9
+recommendationKey	none
+totalCash	2308413952
+totalCashPerShare	9.007
+ebitda	353240992
+totalDebt	7222564864
+quickRatio	0.23
+currentRatio	1.365
+totalRevenue	2502577920
+debtToEquity	142.273
+revenuePerShare	9.804
+returnOnAssets	0.01367
+returnOnEquity	0.08916
+freeCashflow	1349391744
+operatingCashflow	671571008
+earningsGrowth	2.315
+revenueGrowth	37.063
+grossMargins	0.26979
+ebitdaMargins	0.14115
+operatingMargins	0.19606
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31   2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0          0.0           0.0     -131600.0
+Tax Rate For Calcs                                              0.195576     0.205256      0.025059           0.2
+Normalized EBITDA                                            590140000.0  216063000.0   532187000.0   386465000.0
+Total Unusual Items                                                  NaN          NaN           0.0     -658000.0
+Total Unusual Items Excluding Goodwill                               NaN          NaN           0.0     -658000.0
+Net Income From Continuing Operation Net Minority Interest   425655000.0  140855000.0   479968000.0   153801000.0
+Reconciled Depreciation                                       39742000.0   35295000.0    35289000.0   234690000.0
+Reconciled Cost Of Revenue                                  1827399000.0  392142000.0   970798000.0  4480587000.0
+EBITDA                                                       590140000.0  216063000.0   532187000.0   385807000.0
+EBIT                                                         550398000.0  180768000.0   496898000.0   151117000.0
+Net Interest Income                                           56968000.0   42040000.0    57465000.0    16629000.0
+Interest Expense                                              19750000.0    6941000.0     6576000.0    34021000.0
+Interest Income                                               76718000.0   48981000.0    64041000.0    50650000.0
+Normalized Income                                            425655000.0  140855000.0   479968000.0   154327400.0
+Net Income From Continuing And Discontinued Operation        425655000.0  140855000.0   479968000.0   153801000.0
+Total Expenses                                              2156477000.0  556850000.0  1193292000.0  5257215000.0
+Diluted Average Shares                                               NaN  257014000.0   261071711.0   277409229.0
+Basic Average Shares                                                 NaN  254607000.0   256968872.0   274721120.0
+Diluted EPS                                                          NaN         0.55      1.837859      0.554639
+Basic EPS                                                            NaN         0.55      1.867502       0.56404
+Diluted NI Availto Com Stockholders                          425655000.0  140855000.0   479968000.0   153801000.0
+Net Income Common Stockholders                               425655000.0  140855000.0   479968000.0   153801000.0
+Otherunder Preferred Stock Dividend                                  0.0          0.0           0.0           0.0
+Net Income                                                   425655000.0  140855000.0   479968000.0   153801000.0
+Minority Interests                                            -1211000.0    2707000.0     1933000.0    31797000.0
+Net Income Including Noncontrolling Interests                426866000.0  138148000.0   478035000.0   122004000.0
+Net Income Continuous Operations                             426866000.0  138148000.0   478035000.0   122004000.0
+Tax Provision                                                103782000.0   35679000.0    12287000.0    -4908000.0
+Pretax Income                                                530648000.0  173827000.0   490322000.0   117096000.0
+Other Non Operating Income Expenses                          127579000.0  139542000.0    80899000.0    51804000.0
+Special Income Charges                                               NaN          NaN           0.0     -658000.0
+Write Off                                                            NaN          NaN           0.0      658000.0
+Net Non Operating Interest Income Expense                     56968000.0   42040000.0    57465000.0    16629000.0
+Interest Expense Non Operating                                19750000.0    6941000.0     6576000.0    34021000.0
+Interest Income Non Operating                                 76718000.0   48981000.0    64041000.0    50650000.0
+Operating Income                                             346101000.0   -9355000.0   335018000.0    49321000.0
+Operating Expense                                            329078000.0  164708000.0   222494000.0   776628000.0
+Research And Development                                             NaN          NaN           0.0   157570000.0
+Selling General And Administration                           329078000.0  164708000.0   222494000.0   619058000.0
+Selling And Marketing Expense                                145544000.0    7470000.0    44195000.0   228518000.0
+General And Administrative Expense                           183534000.0  157238000.0   178299000.0   390540000.0
+Gross Profit                                                 675179000.0  155353000.0   557512000.0   825949000.0
+Cost Of Revenue                                             1827399000.0  392142000.0   970798000.0  4480587000.0
+Total Revenue                                               2502578000.0  547495000.0  1528310000.0  5306536000.0
+Operating Revenue                                           2502578000.0  547495000.0  1528310000.0  5306536000.0

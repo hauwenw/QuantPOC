@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 140, Roosevelt Road
+address2	4th Floor Section 6 Wenshan District
+city	Taipei
+zip	116
+country	Taiwan
+phone	886 2 2935 6500
+fax	886 2 2935 6505
+website	https://www.npcgas.com.tw
+industry	Specialty Retail
+industryKey	specialty-retail
+industryDisp	Specialty Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	National Petroleum Co., Ltd. operates gas stations. It sells gasoline and diesel fuel. The company is also involved in retail sale of lubrication and greases for automobiles and motorcycles; provision of car wash services; retail supply of oil additives; and operation of parking lots and private label convenience stores. In addition, it engages in the rental of advertising billboards. The company was founded in 1988 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chia-Chang  Tsai', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 11949000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Li  Lin', 'title': 'Manager of Finance Department & Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Hui  Tsai', 'title': 'Deputy General Manager of Sales Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pei-Chi  Lee', 'title': 'Chief Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	67.1
+open	67.1
+dayLow	67.1
+dayHigh	67.8
+regularMarketPreviousClose	67.1
+regularMarketOpen	67.1
+regularMarketDayLow	67.1
+regularMarketDayHigh	67.8
+dividendRate	2.1
+dividendYield	0.031
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.83
+fiveYearAvgDividendYield	4.12
+beta	0.25
+trailingPE	26.79842
+forwardPE	26.484377
+volume	17518
+regularMarketVolume	17518
+averageVolume	26962
+averageVolume10days	21756
+averageDailyVolume10Day	21756
+bid	67.6
+ask	67.8
+marketCap	20953116672
+fiftyTwoWeekLow	55.1
+fiftyTwoWeekHigh	85.0
+priceToSalesTrailing12Months	0.8540017
+fiftyDayAverage	66.964
+twoHundredDayAverage	67.795
+trailingAnnualDividendRate	2.1
+trailingAnnualDividendYield	0.03129657
+currency	TWD
+enterpriseValue	22539806720
+profitMargins	0.03191
+floatShares	111156586
+sharesOutstanding	309043008
+heldPercentInsiders	0.62411
+heldPercentInstitutions	0.01048
+impliedSharesOutstanding	309513984
+bookValue	17.943
+priceToBook	3.7786324
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.106
+netIncomeToCommon	782950976
+trailingEps	2.53
+forwardEps	2.56
+lastSplitFactor	107.5:100
+lastSplitDate	1091577600	 (2004-08-04 08:00:00)
+enterpriseToRevenue	0.919
+enterpriseToEbitda	22.34
+52WeekChange	0.15306127
+SandP52WeekChange	0.26265144
+lastDividendValue	2.1
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9937.TW
+underlyingSymbol	9937.TW
+shortName	NATIONAL PETROLEUM CO
+longName	National Petroleum Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	032cb8ec-056f-3158-b44e-fcbfa038944b
+messageBoardId	finmb_9898403
+gmtOffSetMilliseconds	28800000
+currentPrice	67.8
+recommendationKey	none
+totalCash	691785024
+totalCashPerShare	2.238
+ebitda	1008961984
+totalDebt	2278476032
+quickRatio	0.178
+currentRatio	0.237
+totalRevenue	24535216128
+debtToEquity	41.089
+revenuePerShare	79.391
+returnOnAssets	0.04133
+returnOnEquity	0.14373
+freeCashflow	818186368
+operatingCashflow	1452513024
+earningsGrowth	0.106
+revenueGrowth	0.012
+grossMargins	0.111190006
+ebitdaMargins	0.04112
+operatingMargins	0.03539
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    453791.594034   -3057638.583267    -951819.167881   -2142059.701154
+Tax Rate For Calcs                                                  0.195263          0.204689          0.208367          0.200267
+Normalized EBITDA                                               1600711000.0      1586178000.0      1690658000.0      1635198000.0
+Total Unusual Items                                                2324000.0       -14938000.0        -4568000.0       -10696000.0
+Total Unusual Items Excluding Goodwill                             2324000.0       -14938000.0        -4568000.0       -10696000.0
+Net Income From Continuing Operation Net Minority Interest       782951000.0       724830000.0       810735000.0       793063000.0
+Reconciled Depreciation                                          602822000.0       631406000.0       630941000.0       607451000.0
+Reconciled Cost Of Revenue                                     21807234000.0     21585190000.0     18633171000.0     15914638000.0
+EBITDA                                                          1603035000.0      1571240000.0      1686090000.0      1624502000.0
+EBIT                                                            1000213000.0       939834000.0      1055149000.0      1017051000.0
+Net Interest Income                                              -17023000.0       -29291000.0       -37981000.0       -41272000.0
+Interest Expense                                                  27285000.0        33213000.0        40462000.0        48326000.0
+Interest Income                                                   10262000.0         3922000.0         2481000.0         7054000.0
+Normalized Income                                           781080791.594034  736710361.416733  814351180.832119  801616940.298846
+Net Income From Continuing And Discontinued Operation            782951000.0       724830000.0       810735000.0       793063000.0
+Total Expenses                                                 23718774000.0     23428300000.0     20375531000.0     17648730000.0
+Diluted Average Shares                                                   NaN       310226000.0       310329000.0       310229000.0
+Basic Average Shares                                                     NaN       309043000.0       309043000.0       309043000.0
+Diluted EPS                                                              NaN              2.34              2.61              2.56
+Basic EPS                                                                NaN              2.35              2.62              2.57
+Diluted NI Availto Com Stockholders                              782951000.0       724830000.0       810735000.0       793063000.0
+Net Income Common Stockholders                                   782951000.0       724830000.0       810735000.0       793063000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       782951000.0       724830000.0       810735000.0       793063000.0
+Minority Interests                                                       0.0         3784000.0         7475000.0        18342000.0
+Net Income Including Noncontrolling Interests                    782951000.0       721046000.0       803260000.0       774721000.0
+Net Income Continuous Operations                                 782951000.0       721046000.0       803260000.0       774721000.0
+Tax Provision                                                    189977000.0       185575000.0       211427000.0       194004000.0
+Pretax Income                                                    972928000.0       906621000.0      1014687000.0       968725000.0
+Other Non Operating Income Expenses                              157832000.0       200780000.0       209353000.0       303127000.0
+Special Income Charges                                            -4863000.0        -1849000.0        -4568000.0       -10696000.0
+Other Special Charges                                              4840000.0         1839000.0         4362000.0        10917000.0
+Write Off                                                            23000.0           10000.0          206000.0         -221000.0
+Net Non Operating Interest Income Expense                        -17023000.0       -29291000.0       -37981000.0       -41272000.0
+Interest Expense Non Operating                                    27285000.0        33213000.0        40462000.0        48326000.0
+Interest Income Non Operating                                     10262000.0         3922000.0         2481000.0         7054000.0
+Operating Income                                                 816443000.0       736252000.0       823652000.0       708834000.0
+Operating Expense                                               1911540000.0      1843110000.0      1742360000.0      1734092000.0
+Selling General And Administration                              1911540000.0      1843110000.0      1742360000.0      1734092000.0
+Selling And Marketing Expense                                   1717828000.0      1651201000.0      1549321000.0      1540605000.0
+General And Administrative Expense                               193712000.0       191909000.0       193039000.0       193487000.0
+Gross Profit                                                    2727983000.0      2579362000.0      2566012000.0      2442926000.0
+Cost Of Revenue                                                21807234000.0     21585190000.0     18633171000.0     15914638000.0
+Total Revenue                                                  24535217000.0     24164552000.0     21199183000.0     18357564000.0
+Operating Revenue                                              24535217000.0     24164552000.0     21199183000.0     18357564000.0

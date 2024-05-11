@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 75, Minsheng East Road
+address2	4th Floor Section 3
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2506 3320
+website	https://www.synnex-grp.com
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Synnex Technology International Corporation, together with its subsidiaries, distributes information technology, communication, consumer, and semiconductor products. The company offers computers, consumer desktops and notebooks, telecommunication devices, PC components and peripherals, supplies and accessories, software products, and professional graphics systems, as well as PC building blocks, consumer electronics and cloud services, enterprise servers, networks, and storage solutions. It operates in Taiwan, Mainland China, Hong Kong, Indonesia, Thailand, Vietnam, India, Australia, the United States, Canada, the Middle East, Africa, and internationally. The company was incorporated in 1988 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Feng-Chiang  Miau', 'age': 76, 'title': 'Chairman & CEO of Overseas Operation', 'yearBorn': 1947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kee  Ong', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shu-Wu  Tu', 'age': 71, 'title': 'President & Director', 'yearBorn': 1952, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kim  Lin', 'title': 'Senior Director of Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Grace  Huang', 'title': 'Treasury Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	80.8
+open	80.8
+dayLow	80.8
+dayHigh	86.5
+regularMarketPreviousClose	80.8
+regularMarketOpen	80.8
+regularMarketDayLow	80.8
+regularMarketDayHigh	86.5
+dividendRate	3.5
+dividendYield	0.040700004
+exDividendDate	1686096000	 (2023-06-07 08:00:00)
+payoutRatio	0.7527
+fiveYearAvgDividendYield	6.03
+beta	0.272
+trailingPE	18.473118
+forwardPE	16.238186
+volume	8866212
+regularMarketVolume	8866212
+averageVolume	5072008
+averageVolume10days	4535571
+averageDailyVolume10Day	4535571
+bid	85.8
+ask	85.9
+marketCap	143276900352
+fiftyTwoWeekLow	55.6
+fiftyTwoWeekHigh	86.5
+priceToSalesTrailing12Months	0.36181873
+fiftyDayAverage	77.952
+twoHundredDayAverage	69.5205
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.037128713
+currency	TWD
+enterpriseValue	194938437632
+profitMargins	0.01841
+floatShares	1200671625
+sharesOutstanding	1667949952
+heldPercentInsiders	0.26681
+heldPercentInstitutions	0.33602002
+impliedSharesOutstanding	1667949952
+bookValue	43.056
+priceToBook	1.9950762
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.123
+netIncomeToCommon	7289294848
+trailingEps	4.65
+forwardEps	5.29
+pegRatio	1.78
+lastSplitFactor	1050:1000
+lastSplitDate	1472515200	 (2016-08-30 08:00:00)
+enterpriseToRevenue	0.492
+enterpriseToEbitda	20.539
+52WeekChange	0.35062897
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1686096000	 (2023-06-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2347.TW
+underlyingSymbol	2347.TW
+shortName	SYNNEX TECHNOLOGY INTERNATIONAL
+longName	Synnex Technology International Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9cf65570-0164-3ae7-9a53-0966de179942
+messageBoardId	finmb_882379
+gmtOffSetMilliseconds	28800000
+currentPrice	85.9
+targetHighPrice	71.0
+targetLowPrice	71.0
+targetMeanPrice	71.0
+targetMedianPrice	71.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	33967226880
+totalCashPerShare	20.365
+ebitda	9491109888
+totalDebt	82944606208
+quickRatio	1.085
+currentRatio	1.631
+totalRevenue	395990827008
+debtToEquity	111.337
+revenuePerShare	237.412
+returnOnAssets	0.02624
+returnOnEquity	0.10548
+freeCashflow	12194732032
+operatingCashflow	16111567872
+earningsGrowth	-0.123
+revenueGrowth	0.024
+grossMargins	0.044439998
+ebitdaMargins	0.02397
+operatingMargins	0.02563
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                 -134997060.294684    -48524560.347515   -58089726.624662   -43889680.663128
+Tax Rate For Calcs                                                   0.250639             0.19455           0.234772           0.186889
+Normalized EBITDA                                               13755378000.0       22580712000.0      24624708000.0      11921437000.0
+Total Unusual Items                                              -538612000.0        -249419000.0       -247430000.0       -234843000.0
+Total Unusual Items Excluding Goodwill                           -538612000.0        -249419000.0       -247430000.0       -234843000.0
+Net Income From Continuing Operation Net Minority Interest       7289295000.0       15748824000.0      17271560000.0       8158539000.0
+Reconciled Depreciation                                           672465000.0         620770000.0        655208000.0        673991000.0
+Reconciled Cost Of Revenue                                     378391906000.0      406707201000.0     391212144000.0     319106359000.0
+EBITDA                                                          13216766000.0       22331293000.0      24377278000.0      11686594000.0
+EBIT                                                            12544301000.0       21710523000.0      23722070000.0      11012603000.0
+Net Interest Income                                             -1209776000.0       -1112224000.0       -190376000.0       -216466000.0
+Interest Expense                                                 2027553000.0        1435728000.0        490128000.0        511711000.0
+Interest Income                                                   817777000.0         323504000.0        299752000.0        295245000.0
+Normalized Income                                           7692909939.705316  15949718439.652485  17460900273.37534  8349492319.336872
+Net Income From Continuing And Discontinued Operation            7289295000.0       15748824000.0      17271560000.0       8158539000.0
+Total Expenses                                                 386817903000.0      415163465000.0     399231220000.0     326732376000.0
+Diluted Average Shares                                           1668030892.0        1668307627.0       1667982000.0       1667990000.0
+Basic Average Shares                                             1668030892.0        1668307627.0       1667947000.0       1667947000.0
+Diluted EPS                                                              4.37                9.44              10.35               4.89
+Basic EPS                                                                4.37                9.44              10.35               4.89
+Diluted NI Availto Com Stockholders                              7289295000.0       15748824000.0      17271560000.0       8158539000.0
+Net Income Common Stockholders                                   7289295000.0       15748824000.0      17271560000.0       8158539000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                0.0                0.0
+Net Income                                                       7289295000.0       15748824000.0      17271560000.0       8158539000.0
+Minority Interests                                               -591548000.0        -581502000.0       -506164000.0       -379847000.0
+Net Income Including Noncontrolling Interests                    7880843000.0       16330326000.0      17777724000.0       8538386000.0
+Net Income Continuous Operations                                 7880843000.0       16330326000.0      17777724000.0       8538386000.0
+Tax Provision                                                    2635905000.0        3944469000.0       5454218000.0       1962506000.0
+Pretax Income                                                   10516748000.0       20274795000.0      23231942000.0      10500892000.0
+Other Non Operating Income Expenses                              1526982000.0        9808894000.0      10831220000.0       1286795000.0
+Special Income Charges                                           -538612000.0        -249419000.0       -247430000.0       -234843000.0
+Write Off                                                         538612000.0         249419000.0        247430000.0        234843000.0
+Net Non Operating Interest Income Expense                       -1209776000.0       -1112224000.0       -190376000.0       -216466000.0
+Interest Expense Non Operating                                   2027553000.0        1435728000.0        490128000.0        511711000.0
+Interest Income Non Operating                                     817777000.0         323504000.0        299752000.0        295245000.0
+Operating Income                                                 9172926000.0        9386955000.0       9580392000.0       7468600000.0
+Operating Expense                                                8425997000.0        8456264000.0       8019076000.0       7626017000.0
+Selling General And Administration                               8425997000.0        8456264000.0       8019076000.0       7626017000.0
+Selling And Marketing Expense                                    7276240000.0        6926926000.0       6543389000.0       6145691000.0
+General And Administrative Expense                               1149757000.0        1529338000.0       1475687000.0       1480326000.0
+Gross Profit                                                    17598923000.0       17843219000.0      17599468000.0      15094617000.0
+Cost Of Revenue                                                378391906000.0      406707201000.0     391212144000.0     319106359000.0
+Total Revenue                                                  395990829000.0      424550420000.0     408811612000.0     334200976000.0
+Operating Revenue                                              395990829000.0      424550420000.0     408811612000.0     334200976000.0

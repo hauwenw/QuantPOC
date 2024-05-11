@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	420 Keelung Road
+address2	10th Floor Section 1
+city	Taipei
+country	Taiwan
+phone	886 2 8780 3025
+website	https://mis281.wixsite.com/asehcc
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Hung Ching Development & Construction Co. Ltd. constructs residential and commercial buildings for rent and sale in Taiwan. It provides residential buildings, villas, apartments, shops, factories, and offices, as well as parking space. Hung Ching Development & Construction Co. Ltd. is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Hsiang  Chien', 'title': 'Chairman & CEO', 'fiscalYear': 2021, 'totalPay': 5831000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fang-Ying  Chen', 'title': 'Deputy GM of Finance Department & Corporate Governance Supervisor and Director', 'fiscalYear': 2021, 'totalPay': 4426000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shun-Wan  Pan', 'title': 'Assistant GM of Investment & Development Department', 'fiscalYear': 2021, 'totalPay': 2207000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiao-Wei  Yao', 'title': 'Assistant General Manager of Sales Department', 'fiscalYear': 2021, 'totalPay': 2250000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia-Pei  Chou', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 4892000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Hua  Yao', 'title': 'Assistant GM & Director', 'fiscalYear': 2021, 'totalPay': 2481000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Hua  Chen', 'title': 'Executive Assistant GM, Chief Engineer & Representative Director', 'fiscalYear': 2021, 'totalPay': 5890000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Yuan  Tsai', 'title': 'Assistant General Manager of Administration Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	44.3
+open	44.9
+dayLow	42.25
+dayHigh	44.9
+regularMarketPreviousClose	44.3
+regularMarketOpen	44.9
+regularMarketDayLow	42.25
+regularMarketDayHigh	44.9
+dividendRate	1.0
+dividendYield	0.0234
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	0.4525
+fiveYearAvgDividendYield	7.27
+beta	0.542
+trailingPE	19.298643
+volume	5255989
+regularMarketVolume	5255989
+averageVolume	2865413
+averageVolume10days	7198555
+averageDailyVolume10Day	7198555
+bid	42.6
+ask	42.65
+marketCap	11163978752
+fiftyTwoWeekLow	22.25
+fiftyTwoWeekHigh	63.2
+priceToSalesTrailing12Months	4.821672
+fiftyDayAverage	43.558
+twoHundredDayAverage	29.9485
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.033860046
+currency	TWD
+enterpriseValue	26013140992
+profitMargins	0.2505
+floatShares	181173182
+sharesOutstanding	261758000
+heldPercentInsiders	0.73894
+heldPercentInstitutions	0.0124
+impliedSharesOutstanding	261758000
+bookValue	43.623
+priceToBook	0.9776953
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	580012992
+trailingEps	2.21
+lastSplitFactor	1:1.7399
+lastSplitDate	1139443200	 (2006-02-09 08:00:00)
+enterpriseToRevenue	11.235
+enterpriseToEbitda	52.63
+52WeekChange	0.91255605
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2527.TW
+underlyingSymbol	2527.TW
+shortName	HUNG CHING DEVELOPMENT & CONSTR
+longName	Hung Ching Development & Construction Co. Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9ddb2077-b3bb-384c-9bbf-b6ff7a196313
+messageBoardId	finmb_9870794
+gmtOffSetMilliseconds	28800000
+currentPrice	42.65
+recommendationKey	none
+totalCash	601619008
+totalCashPerShare	2.298
+ebitda	494262016
+totalDebt	15044739072
+quickRatio	0.184
+currentRatio	1.259
+totalRevenue	2315375104
+debtToEquity	127.232
+revenuePerShare	8.845
+returnOnAssets	0.009380001
+returnOnEquity	0.05264
+freeCashflow	-5209505280
+operatingCashflow	-2801299968
+revenueGrowth	0.926
+grossMargins	0.29163
+ebitdaMargins	0.21347
+operatingMargins	0.07513
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.147557      0.264165      0.104237      0.266085
+Normalized EBITDA                                            975356000.0   642768000.0  2008878000.0   764469000.0
+Net Income From Continuing Operation Net Minority Interest   580013000.0   305126000.0  1619178000.0   391153000.0
+Reconciled Depreciation                                      143160000.0   149648000.0   128968000.0   139342000.0
+Reconciled Cost Of Revenue                                  1640147000.0   835237000.0  4645413000.0  2394548000.0
+EBITDA                                                       975356000.0   642768000.0  2008878000.0   764469000.0
+EBIT                                                         832196000.0   493120000.0  1879910000.0   625127000.0
+Net Interest Income                                         -157981000.0  -103166000.0   -88084000.0  -114762000.0
+Interest Expense                                             170722000.0   104348000.0    89236000.0   115891000.0
+Interest Income                                               12741000.0     1182000.0     1152000.0     1129000.0
+Normalized Income                                            580013000.0   305126000.0  1619178000.0   391153000.0
+Net Income From Continuing And Discontinued Operation        580013000.0   305126000.0  1619178000.0   391153000.0
+Total Expenses                                              1956881000.0  1209205000.0  5238263000.0  2951156000.0
+Rent Expense Supplemental                                    136678000.0   117655000.0   115285000.0   116358000.0
+Diluted Average Shares                                               NaN   262737000.0   263386000.0   262775000.0
+Basic Average Shares                                                 NaN   261758000.0   261758000.0   261758000.0
+Diluted EPS                                                          NaN          1.16          6.15          1.49
+Basic EPS                                                            NaN          1.17          6.19          1.49
+Diluted NI Availto Com Stockholders                          580013000.0   305126000.0  1619178000.0   391153000.0
+Net Income Common Stockholders                               580013000.0   305126000.0  1619178000.0   391153000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   580013000.0   305126000.0  1619178000.0   391153000.0
+Minority Interests                                            16144000.0    19054000.0    15159000.0    17417000.0
+Net Income Including Noncontrolling Interests                563869000.0   286072000.0  1604019000.0   373736000.0
+Net Income Continuous Operations                             563869000.0   286072000.0  1604019000.0   373736000.0
+Tax Provision                                                 97605000.0   102700000.0   186655000.0   135500000.0
+Pretax Income                                                661474000.0   388772000.0  1790674000.0   509236000.0
+Other Non Operating Income Expenses                          461166000.0   313031000.0   126805000.0   103224000.0
+Net Non Operating Interest Income Expense                   -157981000.0  -103166000.0   -88084000.0  -114762000.0
+Interest Expense Non Operating                               170722000.0   104348000.0    89236000.0   115891000.0
+Interest Income Non Operating                                 12741000.0     1182000.0     1152000.0     1129000.0
+Operating Income                                             358494000.0   178907000.0  1751953000.0   520774000.0
+Operating Expense                                            316734000.0   373968000.0   592850000.0   556608000.0
+Selling General And Administration                           316734000.0   373968000.0   592850000.0   556608000.0
+Selling And Marketing Expense                                 41896000.0    85193000.0   252154000.0   251556000.0
+General And Administrative Expense                           274838000.0   288775000.0   340696000.0   305052000.0
+Gross Profit                                                 675228000.0   552875000.0  2344803000.0  1077382000.0
+Cost Of Revenue                                             1640147000.0   835237000.0  4645413000.0  2394548000.0
+Total Revenue                                               2315375000.0  1388112000.0  6990216000.0  3471930000.0
+Operating Revenue                                           2315375000.0  1388112000.0  6990216000.0  3471930000.0

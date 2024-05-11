@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 15, Luzhuli Industrial Road
+address2	Miaoli County
+city	Toufen
+zip	351
+country	Taiwan
+phone	886 3 7611 611
+fax	886 3 7611 612
+website	https://www.giantplus.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Giantplus Technology Co., Ltd., together with its subsidiaries, engages in the research, development, production, and sale of liquid crystal displays in Taiwan, China, Hong Kong, Macao, Europe, Japan, the United States, and internationally. It offers TFT-LCD displays used in marine, printer, construction machinery, electronic shelf labels, home appliance, digital image, low power devices, medical devices, HMI monitor, handheld terminal, measuring devices, POS terminal, navigation devices, and voice over internet protocol products, and automotive interior display. The company was founded in 1986 and is headquartered in Toufen, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sugimoto  Katsumi', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 181000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jia-Chiuan  Pu', 'title': 'Senior Vice President', 'fiscalYear': 2021, 'totalPay': 4173000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qing-Hua  Wu', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 3047000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yin-Sheng  Qiu', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 227000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yamamoto  Kozo', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 3966000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. De-Chi  Liou', 'title': 'Director of Finance & Accounting Division and Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken  Hsu', 'title': 'Vice Director of Investment Management Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kate  Wang', 'title': 'Vice Director of Administrative Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Chung  Hsieh', 'title': 'Assistant Vice President of Marketing & Sales Center', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gchien-Ming  Tsai', 'title': 'Chief Marketing Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	12.8
+open	12.85
+dayLow	12.5
+dayHigh	12.85
+regularMarketPreviousClose	12.8
+regularMarketOpen	12.85
+regularMarketDayLow	12.5
+regularMarketDayHigh	12.85
+dividendRate	0.2
+dividendYield	0.015800001
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.35709998
+beta	1.275
+trailingPE	22.589285
+forwardPE	22.192982
+volume	1784429
+regularMarketVolume	1784429
+averageVolume	3185724
+averageVolume10days	899974
+averageDailyVolume10Day	899974
+bid	12.65
+ask	12.7
+marketCap	5585544192
+fiftyTwoWeekLow	11.95
+fiftyTwoWeekHigh	17.4
+priceToSalesTrailing12Months	0.61772543
+fiftyDayAverage	13.657
+twoHundredDayAverage	13.429
+trailingAnnualDividendRate	0.1
+trailingAnnualDividendYield	0.0078125
+currency	TWD
+enterpriseValue	3731044352
+profitMargins	0.02612
+sharesOutstanding	441544992
+heldPercentInsiders	0.54667
+heldPercentInstitutions	0.01787
+impliedSharesOutstanding	450203008
+bookValue	17.933
+priceToBook	0.7054034
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	236156000
+trailingEps	0.56
+forwardEps	0.57
+lastSplitFactor	102:100
+lastSplitDate	1218672000	 (2008-08-14 08:00:00)
+enterpriseToRevenue	0.413
+enterpriseToEbitda	6.877
+52WeekChange	-0.04528302
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8105.TW
+underlyingSymbol	8105.TW
+shortName	GIANTPLUS TECHNOLOGY CO
+longName	Giantplus Technology Co., Ltd.
+firstTradeDateEpochUtc	1167181200	 (2006-12-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a65c5369-5237-35c5-a64b-6b4a2e912861
+messageBoardId	finmb_12721551
+gmtOffSetMilliseconds	28800000
+currentPrice	12.65
+recommendationKey	none
+totalCash	2652922112
+totalCashPerShare	6.008
+ebitda	542512000
+totalDebt	798422016
+quickRatio	1.297
+currentRatio	1.871
+totalRevenue	9042114560
+debtToEquity	10.083
+revenuePerShare	20.478
+returnOnAssets	0.00563
+returnOnEquity	0.030079998
+freeCashflow	542033024
+operatingCashflow	971147008
+revenueGrowth	-0.177
+grossMargins	0.08361
+ebitdaMargins	0.06
+operatingMargins	0.022850001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31     2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   7705515.304717      27316.378419       386400.0   -12465600.0
+Tax Rate For Calcs                                                  0.155044          0.015909            0.2           0.2
+Normalized EBITDA                                                686155000.0      1035125000.0    541296000.0  -345346000.0
+Total Unusual Items                                               49699000.0         1717000.0      1932000.0   -62328000.0
+Total Unusual Items Excluding Goodwill                            49699000.0         1717000.0      1932000.0   -62328000.0
+Net Income From Continuing Operation Net Minority Interest       236156000.0       613674000.0     92668000.0 -1090187000.0
+Reconciled Depreciation                                          436551000.0       391535000.0    437050000.0   567300000.0
+Reconciled Cost Of Revenue                                      8286086000.0      9275405000.0   9313816000.0  7013220000.0
+EBITDA                                                           735854000.0      1036842000.0    543228000.0  -407674000.0
+EBIT                                                             299303000.0       645307000.0    106178000.0  -974974000.0
+Net Interest Income                                               20621000.0        -6970000.0     -9945000.0    -5178000.0
+Interest Expense                                                  19814000.0        21712000.0     18241000.0    13837000.0
+Interest Income                                                   40435000.0        14742000.0      8296000.0     8659000.0
+Normalized Income                                           194162515.304717  611984316.378419     91122400.0 -1040324600.0
+Net Income From Continuing And Discontinued Operation            236156000.0       613674000.0     92668000.0 -1090187000.0
+Total Expenses                                                  8983168000.0     10093564000.0  10144545000.0  7872190000.0
+Diluted Average Shares                                                   NaN       444239000.0    441594000.0   441545000.0
+Basic Average Shares                                                     NaN       441545000.0    441545000.0   441545000.0
+Diluted EPS                                                              NaN              1.38           0.21         -2.47
+Basic EPS                                                                NaN              1.39           0.21         -2.47
+Diluted NI Availto Com Stockholders                              236156000.0       613674000.0     92668000.0 -1090187000.0
+Net Income Common Stockholders                                   236156000.0       613674000.0     92668000.0 -1090187000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0            0.0           0.0
+Net Income                                                       236156000.0       613674000.0     92668000.0 -1090187000.0
+Net Income Including Noncontrolling Interests                    236156000.0       613674000.0     92668000.0 -1090187000.0
+Net Income Continuous Operations                                 236156000.0       613674000.0     92668000.0 -1090187000.0
+Tax Provision                                                     43333000.0         9921000.0     -4731000.0   101376000.0
+Pretax Income                                                    279489000.0       623595000.0     87937000.0  -988811000.0
+Other Non Operating Income Expenses                              150222000.0       308042000.0    -28809000.0  -208158000.0
+Special Income Charges                                            49699000.0         1717000.0      1932000.0   -62328000.0
+Write Off                                                        -49699000.0        -1717000.0     -1932000.0    62328000.0
+Net Non Operating Interest Income Expense                         20621000.0        -6970000.0     -9945000.0    -5178000.0
+Interest Expense Non Operating                                    19814000.0        21712000.0     18241000.0    13837000.0
+Interest Income Non Operating                                     40435000.0        14742000.0      8296000.0     8659000.0
+Operating Income                                                  58947000.0       320806000.0    124759000.0  -713147000.0
+Operating Expense                                                697082000.0       818159000.0    830729000.0   858970000.0
+Research And Development                                         184194000.0       184199000.0    196969000.0   251943000.0
+Selling General And Administration                               512888000.0       633960000.0    633760000.0   607027000.0
+Selling And Marketing Expense                                    208240000.0       310639000.0    361761000.0   290051000.0
+General And Administrative Expense                               304648000.0       323321000.0    271999000.0   316976000.0
+Gross Profit                                                     756029000.0      1138965000.0    955488000.0   145823000.0
+Cost Of Revenue                                                 8286086000.0      9275405000.0   9313816000.0  7013220000.0
+Total Revenue                                                   9042115000.0     10414370000.0  10269304000.0  7159043000.0
+Operating Revenue                                               9042115000.0     10414370000.0  10269304000.0  7159043000.0

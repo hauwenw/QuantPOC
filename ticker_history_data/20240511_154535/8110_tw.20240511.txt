@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 18, North 1st Road
+address2	Qianzhen Science and Technology Industrial Park Qianzhen Dist.
+city	Kaohsiung
+zip	806
+country	Taiwan
+phone	886 7 811 1330
+fax	886 7 811 1889
+website	https://www.walton.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Walton Advanced Engineering, Inc. provides semiconductor packaging and testing services in Taiwan and internationally. The company offers end to end services, including wafer probing, IC packaging, final test, burn-in, and drop shipment to memory semiconductor manufacturers; and connectors. It also engages in the designing, manufacturing, selling, and trading of IC equipment; and corporate property management and professional investment activities. Walton Advanced Engineering, Inc. was formerly known as Walsin Advanced Engineering, Inc. and changed its name to Walton Advanced Engineering, Inc. in July 2002. The company was founded in 1995 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Heng  Chiao', 'age': 61, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jing-Yi  Pan', 'title': 'CFO, Chief Corporate Governance Officer, Finance & Accounting Supervisor and Deputy GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hong-Chi  Yu', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.0
+open	18.1
+dayLow	17.7
+dayHigh	18.1
+regularMarketPreviousClose	18.0
+regularMarketOpen	18.1
+regularMarketDayLow	17.7
+regularMarketDayHigh	18.1
+dividendRate	0.15
+dividendYield	0.0084
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	0.325
+fiveYearAvgDividendYield	3.62
+beta	1.002
+volume	2456144
+regularMarketVolume	2456144
+averageVolume	8568526
+averageVolume10days	6305563
+averageDailyVolume10Day	6305563
+bid	17.9
+ask	17.95
+marketCap	9257533440
+fiftyTwoWeekLow	12.6
+fiftyTwoWeekHigh	19.45
+priceToSalesTrailing12Months	1.2723262
+fiftyDayAverage	17.542
+twoHundredDayAverage	15.41375
+currency	TWD
+enterpriseValue	11472273408
+profitMargins	-0.00093999994
+floatShares	292264701
+sharesOutstanding	515740000
+heldPercentInsiders	0.47567
+heldPercentInstitutions	0.01248
+impliedSharesOutstanding	515740000
+bookValue	20.425
+priceToBook	0.87882507
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-6809000
+trailingEps	-0.01
+lastSplitFactor	1020.376:1000
+lastSplitDate	1282608000	 (2010-08-24 08:00:00)
+enterpriseToRevenue	1.577
+enterpriseToEbitda	7.529
+52WeekChange	0.4078431
+SandP52WeekChange	0.26265144
+lastDividendValue	0.15
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8110.TW
+underlyingSymbol	8110.TW
+shortName	WALTON ADVANCED ENGINEERING INC
+longName	Walton Advanced Engineering, Inc.
+firstTradeDateEpochUtc	1193792400	 (2007-10-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0273aa8e-2276-384c-a7f8-a7f505a4a0e1
+messageBoardId	finmb_20997180
+gmtOffSetMilliseconds	28800000
+currentPrice	17.95
+recommendationKey	none
+totalCash	2464430080
+totalCashPerShare	4.778
+ebitda	1523827968
+totalDebt	4586912768
+quickRatio	1.235
+currentRatio	1.638
+totalRevenue	7276068864
+debtToEquity	43.166
+revenuePerShare	14.099
+returnOnAssets	-0.0086900005
+returnOnEquity	-0.0108
+freeCashflow	1854086656
+operatingCashflow	2620979968
+revenueGrowth	-0.086
+grossMargins	0.01815
+ebitdaMargins	0.20943001
+operatingMargins	0.03366
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.250012           0.2           0.2           0.2
+Normalized EBITDA                                           1898241000.0  2473350000.0  2175115000.0  2044878000.0
+Total Unusual Items                                                  NaN           NaN           0.0           0.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           0.0           0.0
+Net Income From Continuing Operation Net Minority Interest    -6809000.0   258067000.0   219897000.0   254887000.0
+Reconciled Depreciation                                     1854242000.0  1882668000.0  1799489000.0  1761703000.0
+Reconciled Cost Of Revenue                                  7144004000.0  8664417000.0  7668924000.0  5767398000.0
+EBITDA                                                      1898241000.0  2473350000.0  2175115000.0  2044878000.0
+EBIT                                                          43999000.0   590682000.0   375626000.0   283175000.0
+Net Interest Income                                         -107726000.0  -195887000.0  -159157000.0   -44238000.0
+Interest Expense                                             194204000.0   220969000.0   168888000.0    56428000.0
+Interest Income                                               86478000.0    25082000.0     9731000.0    12190000.0
+Normalized Income                                             -6809000.0   258067000.0   219897000.0   254887000.0
+Net Income From Continuing And Discontinued Operation         -6809000.0   258067000.0   219897000.0   254887000.0
+Total Expenses                                              7530800000.0  9152423000.0  8062739000.0  6059088000.0
+Diluted Average Shares                                               NaN   517773000.0   519217000.0   540335000.0
+Basic Average Shares                                                 NaN   516475000.0   509189000.0   495264000.0
+Diluted EPS                                                          NaN           0.5          0.43          0.49
+Basic EPS                                                            NaN           0.5          0.43          0.51
+Diluted NI Availto Com Stockholders                           -6809000.0   258067000.0   219897000.0   254887000.0
+Net Income Common Stockholders                                -6809000.0   258067000.0   219897000.0   254887000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    -6809000.0   258067000.0   219897000.0   254887000.0
+Minority Interests                                           105843000.0   101969000.0   101165000.0           0.0
+Net Income Including Noncontrolling Interests               -112652000.0   156098000.0   118732000.0   254887000.0
+Net Income Continuous Operations                            -112652000.0   156098000.0   118732000.0   254887000.0
+Tax Provision                                                -37553000.0   213615000.0    88006000.0   -28140000.0
+Pretax Income                                               -150205000.0   369713000.0   206738000.0   226747000.0
+Other Non Operating Income Expenses                          224158000.0   230446000.0   322979000.0   364057000.0
+Special Income Charges                                               NaN           NaN           0.0           0.0
+Write Off                                                            NaN           NaN           0.0           0.0
+Net Non Operating Interest Income Expense                   -107726000.0  -195887000.0  -159157000.0   -44238000.0
+Interest Expense Non Operating                               194204000.0   220969000.0   168888000.0    56428000.0
+Interest Income Non Operating                                 86478000.0    25082000.0     9731000.0    12190000.0
+Operating Income                                            -254731000.0   353925000.0    55517000.0   -93554000.0
+Operating Expense                                            386796000.0   488006000.0   393815000.0   291690000.0
+Research And Development                                      69260000.0    50297000.0    27650000.0    29750000.0
+Selling General And Administration                           317536000.0   437709000.0   366165000.0   261940000.0
+Selling And Marketing Expense                                 50981000.0   130797000.0    99550000.0    43003000.0
+General And Administrative Expense                           266555000.0   306912000.0   266615000.0   218937000.0
+Gross Profit                                                 132065000.0   841931000.0   449332000.0   198136000.0
+Cost Of Revenue                                             7144004000.0  8664417000.0  7668924000.0  5767398000.0
+Total Revenue                                               7276069000.0  9506348000.0  8118256000.0  5965534000.0
+Operating Revenue                                           7276069000.0  9506348000.0  8118256000.0  5965534000.0

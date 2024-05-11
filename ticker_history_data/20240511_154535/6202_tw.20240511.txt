@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	Science Park
+address2	No. 3, Creation Road II
+city	Hsinchu City
+zip	300
+country	Taiwan
+phone	886 3 563 1999
+fax	886 3 563 1189
+website	https://www.holtek.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Holtek Semiconductor Inc. researches, develops, manufactures, and sells integrated circuits in Taiwan, China, and internationally. The company provides a range of general purpose and specialized types of microcontrollers (MCU) for use in the areas of voice, communication, computer peripheral, household appliance, medical equipment, automotive, security, etc.; and power management devices, LCD and LED drive/control chips, ultra-high resolution fingerprint identification sensors, various sensor modules, and other peripheral devices. It's MCU products are used for general purpose, motor MCU and peripheral, health and measurement, security and safety, touch / proximity & peripheral, music and voice, wireless, interface bridge, battery and power management, display, special purpose, amplifier and comparator, module, EEPROM memory, and video, as well as CCD/CIS analog signal processors, real time clocks, encoder/decoder, and infrared. The company was incorporated in 1998 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jung-Tsung  Tsai', 'title': 'President,  VP of Sales & Marketing Center and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Tung  Gau', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Tung  Liao', 'title': 'Chief Corporate Governance Officer and Head of Accounting & Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shiou-Ming  Li', 'title': 'Manager of Administrative Division &  Procurement Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih  Chang', 'title': 'Executive VP of Design and Product Center & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min-Kun  Wang', 'title': 'VP of Product Center & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan-Ho  Liu', 'title': 'VP of Product Center & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Te  Lee', 'title': 'Head of Internal Audit', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	58.0
+open	58.2
+dayLow	57.5
+dayHigh	58.5
+regularMarketPreviousClose	58.0
+regularMarketOpen	58.2
+regularMarketDayLow	57.5
+regularMarketDayHigh	58.5
+dividendRate	4.0
+dividendYield	0.069
+exDividendDate	1692144000	 (2023-08-16 08:00:00)
+payoutRatio	30.7692
+fiveYearAvgDividendYield	6.89
+trailingPE	446.15387
+forwardPE	36.024845
+volume	640507
+regularMarketVolume	640507
+averageVolume	1365914
+averageVolume10days	1620976
+averageDailyVolume10Day	1620976
+bid	58.0
+ask	58.1
+marketCap	13117744128
+fiftyTwoWeekLow	52.8
+fiftyTwoWeekHigh	73.4
+priceToSalesTrailing12Months	5.756525
+fiftyDayAverage	57.208
+twoHundredDayAverage	62.185
+currency	TWD
+enterpriseValue	13363252224
+profitMargins	0.013040001
+floatShares	176779831
+sharesOutstanding	226168000
+heldPercentInsiders	0.23581
+heldPercentInstitutions	0.08748999
+impliedSharesOutstanding	230443008
+bookValue	16.742
+priceToBook	3.4643412
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	29704000
+trailingEps	0.13
+forwardEps	1.61
+lastSplitFactor	1.0041:1
+lastSplitDate	1248998400	 (2009-07-31 08:00:00)
+enterpriseToRevenue	5.864
+enterpriseToEbitda	231.792
+52WeekChange	-0.13432837
+SandP52WeekChange	0.26265144
+lastDividendValue	4.0
+lastDividendDate	1692144000	 (2023-08-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6202.TW
+underlyingSymbol	6202.TW
+shortName	HOLTEK SEMICONDUCTOR INC
+longName	Holtek Semiconductor Inc.
+firstTradeDateEpochUtc	1096246800	 (2004-09-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	dea8c7d9-ad76-387c-9e29-bae28d7e07e0
+messageBoardId	finmb_11458931
+gmtOffSetMilliseconds	28800000
+currentPrice	58.0
+targetHighPrice	71.0
+targetLowPrice	70.0
+targetMeanPrice	70.5
+targetMedianPrice	70.5
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	931220992
+totalCashPerShare	4.112
+ebitda	57652000
+totalDebt	1103276032
+quickRatio	0.803
+currentRatio	2.749
+totalRevenue	2278760960
+debtToEquity	28.67
+revenuePerShare	10.111
+returnOnAssets	-0.00051
+returnOnEquity	0.00686
+freeCashflow	-1141393024
+operatingCashflow	503384000
+revenueGrowth	-0.417
+grossMargins	0.39331
+ebitdaMargins	0.0253
+operatingMargins	-0.13677
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   12805000.0   -21012673.98056           0.0           0.0
+Tax Rate For Calcs                                                   0.2          0.185953      0.201512       0.16909
+Normalized EBITDA                                            175432000.0      1648696000.0  2740452000.0  1425495000.0
+Total Unusual Items                                           64025000.0      -113000000.0           0.0           0.0
+Total Unusual Items Excluding Goodwill                        64025000.0      -113000000.0           0.0           0.0
+Net Income From Continuing Operation Net Minority Interest   111741000.0      1106374000.0  2044064000.0  1031063000.0
+Reconciled Depreciation                                      153085000.0       142670000.0   147835000.0   162741000.0
+Reconciled Cost Of Revenue                                  1495469000.0      2929773000.0  3311904000.0  2987604000.0
+EBITDA                                                       239457000.0      1535696000.0  2740452000.0  1425495000.0
+EBIT                                                          86372000.0      1393026000.0  2592617000.0  1262754000.0
+Net Interest Income                                           20782000.0        26752000.0    11339000.0    10305000.0
+Interest Expense                                               8197000.0         2066000.0     1468000.0     1346000.0
+Interest Income                                               28979000.0        28818000.0    12807000.0    11651000.0
+Normalized Income                                             60521000.0  1198361326.01944  2044064000.0  1031063000.0
+Net Income From Continuing And Discontinued Operation        111741000.0      1106374000.0  2044064000.0  1031063000.0
+Total Expenses                                              2769533000.0      4629245000.0  5179262000.0  4457876000.0
+Diluted Average Shares                                       226565000.0       228905000.0   228983000.0   228053000.0
+Basic Average Shares                                         226168000.0       226168000.0   226168000.0   226168000.0
+Diluted EPS                                                         0.49              4.83          8.93          4.52
+Basic EPS                                                           0.49              4.89          9.04          4.56
+Diluted NI Availto Com Stockholders                          111741000.0      1106374000.0  2044064000.0  1031063000.0
+Net Income Common Stockholders                               111741000.0      1106374000.0  2044064000.0  1031063000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0           0.0
+Net Income                                                   111741000.0      1106374000.0  2044064000.0  1031063000.0
+Minority Interests                                            -2898000.0       -25933000.0   -24938000.0   -17054000.0
+Net Income Including Noncontrolling Interests                114639000.0      1132307000.0  2069002000.0  1048117000.0
+Net Income Continuous Operations                             114639000.0      1132307000.0  2069002000.0  1048117000.0
+Tax Provision                                                -36464000.0       258653000.0   522147000.0   213291000.0
+Pretax Income                                                 78175000.0      1390960000.0  2591149000.0  1261408000.0
+Other Non Operating Income Expenses                          251677000.0        28268000.0   260776000.0   -18286000.0
+Special Income Charges                                        64025000.0      -113000000.0           0.0           0.0
+Write Off                                                    -64025000.0       113000000.0           0.0           0.0
+Net Non Operating Interest Income Expense                     20782000.0        26752000.0    11339000.0    10305000.0
+Interest Expense Non Operating                                 8197000.0         2066000.0     1468000.0     1346000.0
+Interest Income Non Operating                                 28979000.0        28818000.0    12807000.0    11651000.0
+Operating Income                                            -173466000.0      1386723000.0  1948488000.0  1156663000.0
+Operating Expense                                           1274064000.0      1699472000.0  1867358000.0  1470272000.0
+Other Operating Expenses                                             NaN               NaN   174147000.0    32531000.0
+Research And Development                                     812619000.0      1136791000.0  1207751000.0   928905000.0
+Selling General And Administration                           461445000.0       562681000.0   659607000.0   541367000.0
+Selling And Marketing Expense                                145740000.0       171493000.0   186391000.0   149209000.0
+General And Administrative Expense                           315705000.0       391188000.0   473216000.0   392158000.0
+Gross Profit                                                1100598000.0      3086195000.0  3815846000.0  2626935000.0
+Cost Of Revenue                                             1495469000.0      2929773000.0  3311904000.0  2987604000.0
+Total Revenue                                               2596067000.0      6015968000.0  7127750000.0  5614539000.0
+Operating Revenue                                           2596067000.0      6015968000.0  7127750000.0  5614539000.0

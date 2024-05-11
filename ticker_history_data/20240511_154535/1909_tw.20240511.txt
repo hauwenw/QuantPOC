@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.1-1, Guangxing Lane
+address2	Guangxing Village Erlin Township
+city	Changhua
+country	Taiwan
+phone	886 4 896 2111
+website	https://www.longchenpaper.com
+industry	Paper & Paper Products
+industryKey	paper-paper-products
+industryDisp	Paper & Paper Products
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Longchen Paper & Packaging Co., Ltd. engages in the manufacturing, processing, and trading of paper raw materials in Taiwan and Mainland China. The company manufactures, prints, processes, and trades in corrugated containers; and engages in the recycling/renewal of energy and resources, including turnkey design, trial-run, and operation of cogeneration and incinerator systems. It also recovers and sells wastepaper resources; and engages in wholesale, import, and export of packaging materials, paper products, electronic products, hardware, papermaking equipment, accessories, and materials. In addition, the company manufactures, processes, and sells paper, paperboard, paper products, novel packaging materials, cartons and paper boxes, and package printed products, as well as containerboard paper, cogeneration products, and warehousing. Further, it is involved in general investment; sewage treatment; renewable resource utilization technology research and development; and information technology consulting businesses. Additionally, the company offers prints for packaging and decoration, and color-printed paper cartons; and manufactures and sells cartons, pearl wool, and foam. The company was formerly known as Long Chen Paper Co., Ltd. and changed its name to Longchen Paper & Packaging Co., Ltd. in June 2019. Longchen Paper & Packaging Co., Ltd. was incorporated in 1978 and is based in Changhua, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ying-Pin  Cheng', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jui-Jung  Wang', 'title': 'Head of Financial Division, CFO & Assistant VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Shan  Wu', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yen-Mi  Lin', 'title': 'Chief Information Officer & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradley Craig Hinds', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.2
+open	15.25
+dayLow	15.25
+dayHigh	15.75
+regularMarketPreviousClose	15.2
+regularMarketOpen	15.25
+regularMarketDayLow	15.25
+regularMarketDayHigh	15.75
+dividendRate	0.25
+dividendYield	0.0162
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	5.7143
+fiveYearAvgDividendYield	3.53
+beta	1.114
+forwardPE	-51.499996
+volume	2170499
+regularMarketVolume	2170499
+averageVolume	2063090
+averageVolume10days	2440439
+averageDailyVolume10Day	2440439
+bid	15.45
+ask	15.5
+marketCap	20481292288
+fiftyTwoWeekLow	13.65
+fiftyTwoWeekHigh	17.6
+priceToSalesTrailing12Months	0.43845862
+fiftyDayAverage	14.771
+twoHundredDayAverage	14.65925
+currency	TWD
+enterpriseValue	61003636736
+profitMargins	-0.02187
+floatShares	681250507
+sharesOutstanding	1325650048
+heldPercentInsiders	0.48283002
+heldPercentInstitutions	0.08447
+impliedSharesOutstanding	1342860032
+bookValue	16.657
+priceToBook	0.927538
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-1021612032
+trailingEps	-0.77
+forwardEps	-0.3
+lastSplitFactor	105.147:100
+lastSplitDate	1217980800	 (2008-08-06 08:00:00)
+enterpriseToRevenue	1.306
+enterpriseToEbitda	31.831
+52WeekChange	-0.05214721
+SandP52WeekChange	0.26265144
+lastDividendValue	0.25
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1909.TW
+underlyingSymbol	1909.TW
+shortName	LONGCHEN PAPER&PACKAGING CO LTD
+longName	Longchen Paper & Packaging Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	912f80e1-a44d-3bcb-b1de-abcd14ab9b19
+messageBoardId	finmb_1023192
+gmtOffSetMilliseconds	28800000
+currentPrice	15.45
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1042516992
+totalCashPerShare	0.786
+ebitda	1916496000
+totalDebt	41522839552
+quickRatio	0.481
+currentRatio	0.72
+totalRevenue	46712029184
+debtToEquity	187.684
+revenuePerShare	35.237
+returnOnAssets	0.00027000002
+returnOnEquity	-0.04462
+freeCashflow	69976496
+operatingCashflow	4384756224
+revenueGrowth	-0.082
+grossMargins	0.09736
+ebitdaMargins	0.04103
+operatingMargins	0.0286
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -4541200.0     16207800.0    -4997562.873599    1479070.436246
+Tax Rate For Calcs                                                    0.2            0.2           0.181189           0.16241
+Normalized EBITDA                                            2828585000.0   3395825000.0       6964871000.0      5076318000.0
+Total Unusual Items                                           -22706000.0     81039000.0        -27582000.0         9107000.0
+Total Unusual Items Excluding Goodwill                        -22706000.0     81039000.0        -27582000.0         9107000.0
+Net Income From Continuing Operation Net Minority Interest  -1021612000.0   -909780000.0       2352856000.0       945893000.0
+Reconciled Depreciation                                      2005079000.0   2803035000.0       2603256000.0      2452303000.0
+Reconciled Cost Of Revenue                                  42164144000.0  48580467000.0      47308248000.0     35078972000.0
+EBITDA                                                       2805879000.0   3476864000.0       6937289000.0      5085425000.0
+EBIT                                                          800800000.0    673829000.0       4334033000.0      2633122000.0
+Net Interest Income                                         -1619062000.0  -1535278000.0      -1450209000.0     -1507495000.0
+Interest Expense                                             1638568000.0   1554330000.0       1461468000.0      1525766000.0
+Interest Income                                                19506000.0     19052000.0         11259000.0        18271000.0
+Normalized Income                                           -1003447200.0   -974611200.0  2375440437.126401  938265070.436246
+Net Income From Continuing And Discontinued Operation       -1021612000.0   -909780000.0       2352856000.0       945893000.0
+Total Expenses                                              46658385000.0  53462132000.0      52425600000.0     39309533000.0
+Diluted Average Shares                                                NaN   1282891000.0       1281089000.0      1230902650.0
+Basic Average Shares                                                  NaN   1282349000.0       1277686000.0      1229848110.0
+Diluted EPS                                                           NaN          -0.71               1.84          0.767415
+Basic EPS                                                             NaN          -0.71               1.84          0.767415
+Diluted NI Availto Com Stockholders                         -1021612000.0   -909780000.0       2352856000.0       945893000.0
+Net Income Common Stockholders                              -1021612000.0   -909780000.0       2352856000.0       945893000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                0.0               0.0
+Net Income                                                  -1021612000.0   -909780000.0       2352856000.0       945893000.0
+Minority Interests                                              9753000.0     13368000.0           769000.0        18383000.0
+Net Income Including Noncontrolling Interests               -1031365000.0   -923148000.0       2352087000.0       927510000.0
+Net Income Continuous Operations                            -1031365000.0   -923148000.0       2352087000.0       927510000.0
+Tax Provision                                                 193597000.0     42647000.0        520478000.0       179846000.0
+Pretax Income                                                -837768000.0   -880501000.0       2872565000.0      1107356000.0
+Other Non Operating Income Expenses                           707666000.0    753713000.0         42341000.0       245008000.0
+Special Income Charges                                        -22706000.0     81039000.0        -27582000.0         9107000.0
+Write Off                                                      22706000.0    -81039000.0         27582000.0        -9107000.0
+Net Non Operating Interest Income Expense                   -1619062000.0  -1535278000.0      -1450209000.0     -1507495000.0
+Interest Expense Non Operating                               1638568000.0   1554330000.0       1461468000.0      1525766000.0
+Interest Income Non Operating                                  19506000.0     19052000.0         11259000.0        18271000.0
+Operating Income                                               53644000.0   -493728000.0       4182596000.0      2291059000.0
+Operating Expense                                            4494241000.0   4881665000.0       5117352000.0      4230561000.0
+Research And Development                                     1459657000.0   1483034000.0       1624164000.0      1211463000.0
+Selling General And Administration                           3034584000.0   3398631000.0       3493188000.0      3019098000.0
+Selling And Marketing Expense                                1855754000.0   2242524000.0       2230782000.0      1782580000.0
+General And Administrative Expense                           1178830000.0   1156107000.0       1262406000.0      1236518000.0
+Gross Profit                                                 4547885000.0   4387937000.0       9299948000.0      6521620000.0
+Cost Of Revenue                                             42164144000.0  48580467000.0      47308248000.0     35078972000.0
+Total Revenue                                               46712029000.0  52968404000.0      56608196000.0     41600592000.0
+Operating Revenue                                           46712029000.0  52968404000.0      56608196000.0     41600592000.0

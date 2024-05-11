@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	Chinese Maritime Building
+address2	4th Floor No. 15, Jinan Road Section 1
+city	Taipei
+zip	10051
+country	Taiwan
+phone	886 2 2396 3282
+fax	886 2 2391 6165
+website	https://www.cmt.tw
+industry	Integrated Freight & Logistics
+industryKey	integrated-freight-logistics
+industryDisp	Integrated Freight & Logistics
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Chinese Maritime Transport Ltd., together with its subsidiaries, operates bulk carriers, and inland container transportation and terminals in Asia, the United States, Europe, and Oceania. The company owns and manages bulk vessels; and offers bulk carriers, terminal, manufacturing, ship owning, technology enterprises, and other investment services. It also provides container trucking services, such as long and short haul container drayage, shipside/dock and port container trans-loading, customers' container freight station (CFS)/container yard (CY) operation coordination, door to door delivery, real-time containers status information, and container and seal inspection services to depots and fully-owned CYs, as well as empty-container storage, cleaning, repair, other logistic support. In addition, the company offers CY, CFS, IB/OB, container maintenance and repair, reefer container, bonded and chilled warehouse facility, empty container depot, outside unbonded warehouse facility, and custom cargo closing services, as well as labor supplier services, such as labeling, sorting, picking, delivery, and bar code scan services. Further, it operates as a sales agent for Saudi Arabian Airlines in Taiwan; and provides cargo freighter charter, air cargo, passenger and ticket agency, and travel planning and reservation services, as well as travel packages. The company was formerly known as Associated Transport Inc. Chinese Maritime Transport Ltd. was founded in 1946 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. S. C.  Tai', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xianzhong  Sun', 'title': 'VP of Finance and Principal Financial & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Char-Lie  Mei', 'title': 'Executive VP & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Telvin  Ju Ph.D.', 'age': 56, 'title': 'Senior Vice President', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuei-Huei  Huang', 'title': 'Company Secretary & Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	48.3
+open	48.35
+dayLow	46.65
+dayHigh	52.5
+regularMarketPreviousClose	48.3
+regularMarketOpen	48.35
+regularMarketDayLow	46.65
+regularMarketDayHigh	52.5
+dividendRate	2.18
+dividendYield	0.0436
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	1.3133
+fiveYearAvgDividendYield	4.47
+beta	1.036
+trailingPE	30.120483
+forwardPE	12.953368
+volume	9276075
+regularMarketVolume	9276075
+averageVolume	1123913
+averageVolume10days	2650704
+averageDailyVolume10Day	2650704
+bid	49.95
+ask	50.0
+marketCap	9874249728
+fiftyTwoWeekLow	36.85
+fiftyTwoWeekHigh	62.4
+priceToSalesTrailing12Months	2.4594061
+fiftyDayAverage	45.923
+twoHundredDayAverage	45.0615
+currency	TWD
+enterpriseValue	16029869056
+profitMargins	0.08178
+floatShares	60612096
+sharesOutstanding	197484992
+heldPercentInsiders	0.69281995
+heldPercentInstitutions	0.019919999
+impliedSharesOutstanding	199007008
+bookValue	58.66
+priceToBook	0.8523696
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.807
+netIncomeToCommon	328328992
+trailingEps	1.66
+forwardEps	3.86
+lastSplitFactor	0.77:1
+lastSplitDate	1475107200	 (2016-09-29 08:00:00)
+enterpriseToRevenue	3.993
+enterpriseToEbitda	10.698
+52WeekChange	0.26903558
+SandP52WeekChange	0.26265144
+lastDividendValue	2.18
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2612.TW
+underlyingSymbol	2612.TW
+shortName	CHINESE MARITIME TRANSPORT LTD
+longName	Chinese Maritime Transport Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	990a2104-9b65-30a1-82f7-327b80a935c9
+messageBoardId	finmb_9768801
+gmtOffSetMilliseconds	28800000
+currentPrice	50.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	4583352832
+totalCashPerShare	23.209
+ebitda	1498345984
+totalDebt	10674060288
+quickRatio	1.137
+currentRatio	1.232
+totalRevenue	4014892032
+debtToEquity	91.628
+revenuePerShare	20.33
+returnOnAssets	0.010670001
+returnOnEquity	0.0278
+freeCashflow	-2128604800
+operatingCashflow	1273268992
+earningsGrowth	-0.806
+revenueGrowth	0.007
+grossMargins	0.21355
+ebitdaMargins	0.3732
+operatingMargins	0.11461
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  23819207.248424  -18499142.161192   56843661.283019   13729413.00733
+Tax Rate For Calcs                                                  0.251281          0.098933          0.073668         0.066988
+Normalized EBITDA                                               1880390000.0      2162764000.0      1327653000.0     1220703000.0
+Total Unusual Items                                               94791000.0      -186986000.0       771624000.0      204954000.0
+Total Unusual Items Excluding Goodwill                            94791000.0      -186986000.0       771624000.0      204954000.0
+Net Income From Continuing Operation Net Minority Interest       328329000.0       766083000.0      1040604000.0      329039000.0
+Reconciled Depreciation                                         1174674000.0       982650000.0       889244000.0      932021000.0
+Reconciled Cost Of Revenue                                      3157517000.0      3024721000.0      2779417000.0     2584845000.0
+EBITDA                                                          1975181000.0      1975778000.0      2099277000.0     1425657000.0
+EBIT                                                             800507000.0       993128000.0      1210033000.0      493636000.0
+Net Interest Income                                             -216328000.0      -104433000.0       -88822000.0     -124878000.0
+Interest Expense                                                 367944000.0       151935000.0        97033000.0      150245000.0
+Interest Income                                                  151616000.0        47502000.0         8211000.0       25367000.0
+Normalized Income                                           257357207.248424  934569857.838808  325823661.283019  137814413.00733
+Net Income From Continuing And Discontinued Operation            328329000.0       766083000.0      1040604000.0      329039000.0
+Total Expenses                                                  3640699000.0      3480663000.0      3199708000.0     2973827000.0
+Diluted Average Shares                                                   NaN       197720000.0       197693000.0      197623000.0
+Basic Average Shares                                                     NaN       197485000.0       197485000.0      197485000.0
+Diluted EPS                                                              NaN              3.87              5.26             1.66
+Basic EPS                                                                NaN              3.88              5.27             1.67
+Diluted NI Availto Com Stockholders                              328329000.0       766083000.0      1040604000.0      329039000.0
+Net Income Common Stockholders                                   328329000.0       766083000.0      1040604000.0      329039000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0              0.0
+Net Income                                                       328329000.0       766083000.0      1040604000.0      329039000.0
+Minority Interests                                                 4461000.0         8112000.0         9596000.0        8651000.0
+Net Income Including Noncontrolling Interests                    323868000.0       757971000.0      1031008000.0      320388000.0
+Net Income Continuous Operations                                 323868000.0       757971000.0      1031008000.0      320388000.0
+Tax Provision                                                    108695000.0        83222000.0        81992000.0       23003000.0
+Pretax Income                                                    432563000.0       841193000.0      1113000000.0      343391000.0
+Other Non Operating Income Expenses                              144788000.0       159202000.0        50626000.0       33741000.0
+Special Income Charges                                            11637000.0        25476000.0         6548000.0       -3184000.0
+Other Special Charges                                            -11556000.0       -25609000.0        -6635000.0        3168000.0
+Write Off                                                           -81000.0          133000.0           87000.0          16000.0
+Net Non Operating Interest Income Expense                       -216328000.0      -104433000.0       -88822000.0     -124878000.0
+Interest Expense Non Operating                                   367944000.0       151935000.0        97033000.0      150245000.0
+Interest Income Non Operating                                    151616000.0        47502000.0         8211000.0       25367000.0
+Operating Income                                                 374193000.0       929336000.0       354074000.0      158549000.0
+Operating Expense                                                483182000.0       455942000.0       420291000.0      388982000.0
+Selling General And Administration                               483182000.0       455942000.0       420291000.0      388982000.0
+General And Administrative Expense                               483182000.0       455942000.0       420291000.0      388982000.0
+Gross Profit                                                     857375000.0      1385278000.0       774365000.0      547531000.0
+Cost Of Revenue                                                 3157517000.0      3024721000.0      2779417000.0     2584845000.0
+Total Revenue                                                   4014892000.0      4409999000.0      3553782000.0     3132376000.0
+Operating Revenue                                               4014892000.0      4409999000.0      3553782000.0     3132376000.0

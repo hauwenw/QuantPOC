@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 115, Minquan Road
+address2	6th Floor Xindian District
+city	New Taipei City
+zip	231
+country	Taiwan
+phone	886 2 2219 6088
+fax	886 2 2219 6080
+website	https://www.asmedia.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	ASMedia Technology Inc., a fabless IC design company, designs, develops, and sells of high-speed interface and device controllers in the United States, Taiwan, China, Southeast Asia, Northeast Asia, and internationally. The company offers USB host and device controllers; application specific integrated circuit; PCIe bridge; SATA bridges and controllers; and high-speed signal switches. It serves motherboard companies and its OEMs. ASMedia Technology Inc. was incorporated in 2004 and is headquartered in New Taipei City, Taiwan.
+fullTimeEmployees	294
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Che-Wei  Lin', 'age': 59, 'title': 'GM, President & Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Martin  Pan', 'title': 'Accounting Manager, Financial Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alex  Chen', 'title': 'Sales Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chen-Yun  Yeh', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	1820.0
+open	1870.0
+dayLow	1835.0
+dayHigh	1935.0
+regularMarketPreviousClose	1820.0
+regularMarketOpen	1870.0
+regularMarketDayLow	1835.0
+regularMarketDayHigh	1935.0
+dividendRate	20.0
+dividendYield	0.0108
+exDividendDate	1690848000	 (2023-08-01 08:00:00)
+payoutRatio	0.5107
+fiveYearAvgDividendYield	1.65
+beta	0.972
+trailingPE	47.388535
+forwardPE	20.39921
+volume	1003088
+regularMarketVolume	1003088
+averageVolume	1060415
+averageVolume10days	884947
+averageDailyVolume10Day	884947
+bid	1860.0
+ask	1865.0
+marketCap	129017036800
+fiftyTwoWeekLow	836.0
+fiftyTwoWeekHigh	2570.0
+priceToSalesTrailing12Months	20.15492
+fiftyDayAverage	2176.1
+twoHundredDayAverage	1596.815
+currency	TWD
+enterpriseValue	126509228032
+profitMargins	0.34807998
+floatShares	29671624
+sharesOutstanding	69364000
+heldPercentInsiders	0.4699
+heldPercentInstitutions	0.3335
+impliedSharesOutstanding	71814400
+bookValue	282.364
+priceToBook	6.5872416
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.141
+netIncomeToCommon	2228182016
+trailingEps	39.25
+forwardEps	91.18
+pegRatio	1.87
+lastSplitFactor	1052:1000
+lastSplitDate	1503532800	 (2017-08-24 08:00:00)
+enterpriseToRevenue	19.763
+enterpriseToEbitda	59.942
+52WeekChange	0.6034483
+SandP52WeekChange	0.26265144
+lastDividendValue	20.000362
+lastDividendDate	1690848000	 (2023-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5269.TW
+underlyingSymbol	5269.TW
+shortName	ASMEDIA TECHNOLOGY INC
+longName	ASMedia Technology Inc.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ccbf24a1-6648-30a0-8f0d-048192a5103c
+messageBoardId	finmb_51827233
+gmtOffSetMilliseconds	28800000
+currentPrice	1860.0
+targetHighPrice	3030.0
+targetLowPrice	2200.0
+targetMeanPrice	2595.0
+targetMedianPrice	2545.0
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	6
+totalCash	2852339968
+totalCashPerShare	41.122
+ebitda	2110516992
+totalDebt	345462016
+quickRatio	1.918
+currentRatio	2.25
+totalRevenue	6401267200
+debtToEquity	1.764
+revenuePerShare	92.489
+returnOnAssets	0.058130004
+returnOnEquity	0.1277
+freeCashflow	2597304576
+operatingCashflow	3451574016
+earningsGrowth	1.148
+revenueGrowth	0.698
+grossMargins	0.55046004
+ebitdaMargins	0.32970002
+operatingMargins	0.38009
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    2951709.432395     2614507.14431     1623411.275634           0.0
+Tax Rate For Calcs                                                   0.132554          0.100566           0.104662      0.124669
+Normalized EBITDA                                                2933652000.0      3211373000.0       3796483000.0  3549162000.0
+Total Unusual Items                                                22268000.0        25998000.0         15511000.0           0.0
+Total Unusual Items Excluding Goodwill                             22268000.0        25998000.0         15511000.0           0.0
+Net Income From Continuing Operation Net Minority Interest       2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Reconciled Depreciation                                           381056000.0       318466000.0        244199000.0   202923000.0
+Reconciled Cost Of Revenue                                       2877606000.0      2537273000.0       2788154000.0  3343785000.0
+EBITDA                                                           2955920000.0      3237371000.0       3811994000.0  3549162000.0
+EBIT                                                             2574864000.0      2918905000.0       3567795000.0  3346239000.0
+Net Interest Income                                                26664000.0         1431000.0          3914000.0     7225000.0
+Interest Expense                                                    6195000.0         8897000.0          1379000.0     1320000.0
+Interest Income                                                    32859000.0        10328000.0          5293000.0     8545000.0
+Normalized Income                                           2208865709.432395  2593977507.14431  3179260411.275634  2927912000.0
+Net Income From Continuing And Discontinued Operation            2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Total Expenses                                                   4589280000.0      3951426000.0       4060846000.0  4499214000.0
+Diluted Average Shares                                                    NaN        69586000.0         69417000.0    66572000.0
+Basic Average Shares                                                      NaN        69141000.0         69076000.0    66308000.0
+Diluted EPS                                                               NaN             37.61               46.0         43.98
+Basic EPS                                                                 NaN             37.86              46.23         44.16
+Diluted NI Availto Com Stockholders                              2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Net Income Common Stockholders                                   2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0           0.0
+Net Income                                                       2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Net Income Including Noncontrolling Interests                    2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Net Income Continuous Operations                                 2228182000.0      2617361000.0       3193148000.0  2927912000.0
+Tax Provision                                                     340487000.0       292647000.0        373268000.0   417007000.0
+Pretax Income                                                    2568669000.0      2910008000.0       3566416000.0  3344919000.0
+Other Non Operating Income Expenses                                31824000.0       164284000.0        -19465000.0   256431000.0
+Special Income Charges                                             22268000.0        25998000.0         14143000.0           0.0
+Other Special Charges                                             -22268000.0       -25998000.0        -14143000.0           NaN
+Net Non Operating Interest Income Expense                          26664000.0         1431000.0          3914000.0     7225000.0
+Interest Expense Non Operating                                      6195000.0         8897000.0          1379000.0     1320000.0
+Interest Income Non Operating                                      32859000.0        10328000.0          5293000.0     8545000.0
+Operating Income                                                 1811987000.0      1296903000.0       1948166000.0  2488256000.0
+Operating Expense                                                1711674000.0      1414153000.0       1272692000.0  1155429000.0
+Other Operating Expenses                                                  NaN               NaN         10454000.0    15544000.0
+Research And Development                                         1389021000.0      1139860000.0        989056000.0   897393000.0
+Selling General And Administration                                322653000.0       274293000.0        283636000.0   258036000.0
+Selling And Marketing Expense                                     106492000.0        91017000.0        101150000.0    98174000.0
+General And Administrative Expense                                216161000.0       183276000.0        182486000.0   159862000.0
+Gross Profit                                                     3523661000.0      2711056000.0       3220858000.0  3643685000.0
+Cost Of Revenue                                                  2877606000.0      2537273000.0       2788154000.0  3343785000.0
+Total Revenue                                                    6401267000.0      5248329000.0       6009012000.0  6987470000.0
+Operating Revenue                                                6401267000.0      5248329000.0       6009012000.0  6987470000.0

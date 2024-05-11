@@ -1,0 +1,167 @@
+=== Ticker Info ===
+address1	Hsinchu Industrial Park
+address2	No.10, Datong Road Hukou
+city	Hsinchu City
+zip	303035
+country	Taiwan
+phone	886 3 598 0300
+fax	886 3 597 9900
+website	https://www.pti.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Powertech Technology Inc., together with its subsidiaries, researches, designs, develops, assembles, manufactures, packages, tests, and sells various integrated circuit (IC) products in Taiwan, Japan, Singapore, the United States, Europe, China, Hong Kong, Macao, and internationally. It provides chip probing and final test; IC packaging services, such as wafer level packing, flip chips, wire bond BGA, lead frame, and system in package; and module assembly services. The company is also involved in the design, manufacturing, assembly, testing, and sale of semiconductors; metal surface treatment on semiconductor wire frame; and metal plating on semiconductor lead frame, as well as investment and wafer probing testing activities. Powertech Technology Inc. was incorporated in 1997 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Evan  Tseng', 'title': 'CFO, Senior VP, Finance & Accounting Manager, Head of Accounting and Corporate Governance Officer', 'fiscalYear': 2017, 'totalPay': 11585000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Duh-Kung  Tsai', 'title': 'Chairman of the Board', 'fiscalYear': 2017, 'totalPay': 9050000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Boris  Hsieh', 'age': 63, 'title': 'CEO & Director', 'yearBorn': 1960, 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. J. S.  Leu', 'title': 'President & Director', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Chin  Chen', 'title': 'COO and Senior VP of Engineering & Operations', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wilber  Wu', 'title': 'Senior VP TMO Test and Module & COO', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shen  Huck', 'title': 'Chief Internal Auditor & Deputy Director of Investment Management Division', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Gail  Chuang', 'title': 'Manager of Investor Relations', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yohan  Lin', 'title': 'Vice President of Legal Affairs & Human Resources', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kevin  Chiao', 'title': 'Vice President of Sales', 'fiscalYear': 2017, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1514678400
+irWebsite	http://www.pti.com.tw/ptiweb/E0001.aspx?p=E&c=E1
+maxAge	86400
+priceHint	2
+previousClose	171.5
+open	172.0
+dayLow	163.5
+dayHigh	172.5
+regularMarketPreviousClose	171.5
+regularMarketOpen	172.0
+regularMarketDayLow	163.5
+regularMarketDayHigh	172.5
+dividendRate	7.0
+dividendYield	0.0427
+exDividendDate	1690848000	 (2023-08-01 08:00:00)
+payoutRatio	0.6114
+fiveYearAvgDividendYield	5.65
+beta	0.779
+trailingPE	14.323144
+forwardPE	12.0058565
+volume	10769814
+regularMarketVolume	10769814
+averageVolume	8298276
+averageVolume10days	5830710
+averageDailyVolume10Day	5830710
+bid	163.0
+ask	163.5
+marketCap	122564911104
+fiftyTwoWeekLow	92.0
+fiftyTwoWeekHigh	209.5
+priceToSalesTrailing12Months	1.7399669
+fiftyDayAverage	179.4
+twoHundredDayAverage	132.993
+trailingAnnualDividendRate	7.0
+trailingAnnualDividendYield	0.040816326
+currency	TWD
+enterpriseValue	140855099392
+profitMargins	0.113690004
+floatShares	665310394
+sharesOutstanding	747347008
+heldPercentInsiders	0.097600006
+heldPercentInstitutions	0.53642
+impliedSharesOutstanding	770969984
+bookValue	73.419
+priceToBook	2.2337542
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.939
+netIncomeToCommon	8008510976
+trailingEps	11.45
+forwardEps	13.66
+pegRatio	-11.29
+lastSplitFactor	1.1:1
+lastSplitDate	1311638400	 (2011-07-26 08:00:00)
+enterpriseToRevenue	2.0
+enterpriseToEbitda	6.499
+52WeekChange	0.7391304
+SandP52WeekChange	0.26265144
+lastDividendValue	7.0
+lastDividendDate	1690848000	 (2023-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6239.TW
+underlyingSymbol	6239.TW
+shortName	POWERTECH TECHNOLOGY INC
+longName	Powertech Technology Inc.
+firstTradeDateEpochUtc	1099875600	 (2004-11-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1ac124a7-7408-3ba1-9076-64db6967b511
+messageBoardId	finmb_12721564
+gmtOffSetMilliseconds	28800000
+currentPrice	164.0
+targetHighPrice	210.0
+targetLowPrice	105.0
+targetMeanPrice	171.63
+targetMedianPrice	185.5
+recommendationMean	2.4
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	21129748480
+totalCashPerShare	28.273
+ebitda	21674680320
+totalDebt	25183051776
+quickRatio	2.471
+currentRatio	2.919
+totalRevenue	70440943616
+debtToEquity	36.441
+revenuePerShare	94.255
+returnOnAssets	0.04429
+returnOnEquity	0.14043
+freeCashflow	8291315712
+operatingCashflow	19681581056
+earningsGrowth	1.948
+revenueGrowth	0.034
+grossMargins	0.17899999
+ebitdaMargins	0.3077
+operatingMargins	0.13575
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  703593465.63049  -124478911.383977    34315393.937243    27389951.469324
+Tax Rate For Calcs                                                  0.210409           0.211737           0.202616           0.213178
+Normalized EBITDA                                              22640192000.0      29338823000.0      28816515000.0      24368868000.0
+Total Unusual Items                                             3343935000.0       -587894000.0        169362000.0        128484000.0
+Total Unusual Items Excluding Goodwill                          3343935000.0       -587894000.0        169362000.0        128484000.0
+Net Income From Continuing Operation Net Minority Interest      8008511000.0       8686730000.0       8898398000.0       6662262000.0
+Reconciled Depreciation                                        13614219000.0      14854635000.0      14052238000.0      13822936000.0
+Reconciled Cost Of Revenue                                     57831970000.0      66550715000.0      64498915000.0      61152021000.0
+EBITDA                                                         25984127000.0      28750929000.0      28985877000.0      24497352000.0
+EBIT                                                           12369908000.0      13896294000.0      14933639000.0      10674416000.0
+Net Interest Income                                               15276000.0       -146901000.0       -181619000.0       -198947000.0
+Interest Expense                                                 326792000.0        256368000.0        228152000.0        279465000.0
+Interest Income                                                  342068000.0        109467000.0         46533000.0         80518000.0
+Normalized Income                                           5368169465.63049  9150145088.616022  8763351393.937243  6561167951.469324
+Net Income From Continuing And Discontinued Operation           8008511000.0       8686730000.0       8898398000.0       6662262000.0
+Total Expenses                                                 62287907000.0      71477987000.0      69319663000.0      65406153000.0
+Diluted Average Shares                                           752412000.0        757341000.0        777879000.0        779818000.0
+Basic Average Shares                                             747347000.0        748748000.0        770870000.0        774313000.0
+Diluted EPS                                                            10.64              11.47              11.44               8.54
+Basic EPS                                                              10.72               11.6              11.54                8.6
+Diluted NI Availto Com Stockholders                             8008511000.0       8686730000.0       8898398000.0       6662262000.0
+Net Income Common Stockholders                                  8008511000.0       8686730000.0       8898398000.0       6662262000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0                0.0
+Net Income                                                      8008511000.0       8686730000.0       8898398000.0       6662262000.0
+Minority Interests                                             -1500627000.0      -2065119000.0      -2827527000.0      -1516715000.0
+Net Income Including Noncontrolling Interests                   9509138000.0      10751849000.0      11725925000.0       8178977000.0
+Net Income Continuous Operations                                9509138000.0      10751849000.0      11725925000.0       8178977000.0
+Tax Provision                                                   2533978000.0       2888077000.0       2979562000.0       2215974000.0
+Pretax Income                                                  12043116000.0      13639926000.0      14705487000.0      10394951000.0
+Other Non Operating Income Expenses                              440466000.0        415986000.0        504741000.0        190225000.0
+Special Income Charges                                           -30962000.0         -3600000.0         49566000.0       -129877000.0
+Write Off                                                          9472000.0           731000.0        -51037000.0         56326000.0
+Impairment Of Capital Assets                                      21490000.0          2869000.0          1471000.0         73551000.0
+Net Non Operating Interest Income Expense                         15276000.0       -146901000.0       -181619000.0       -198947000.0
+Interest Expense Non Operating                                   326792000.0        256368000.0        228152000.0        279465000.0
+Interest Income Non Operating                                    342068000.0        109467000.0         46533000.0         80518000.0
+Operating Income                                                8153038000.0      12448748000.0      14473909000.0      10774496000.0
+Operating Expense                                               4455937000.0       4927272000.0       4820748000.0       4254132000.0
+Research And Development                                        2457741000.0       2462430000.0       2443246000.0       2196321000.0
+Selling General And Administration                              1998196000.0       2464842000.0       2377502000.0       2057811000.0
+Selling And Marketing Expense                                    255725000.0        428936000.0        404665000.0        350562000.0
+General And Administrative Expense                              1742471000.0       2035906000.0       1972837000.0       1707249000.0
+Gross Profit                                                   12608975000.0      17376020000.0      19294657000.0      15028628000.0
+Cost Of Revenue                                                57831970000.0      66550715000.0      64498915000.0      61152021000.0
+Total Revenue                                                  70440945000.0      83926735000.0      83793572000.0      76180649000.0
+Operating Revenue                                              70440945000.0      83926735000.0      83793572000.0      76180649000.0

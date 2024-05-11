@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 495, Guangfu South Road
+address2	Xinyi District
+city	Taipei
+country	Taiwan
+phone	886 2 2751 5051
+fax	886 2 2722 7600
+website	https://www.pacific-group.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Pacific Construction Co., Ltd. engages in the construction business in Taiwan and Malaysia. The company is involved in contracting of civil engineering and construction projects; land development and construction of houses; and residential and building development. It also engages in the sale and rental of houses; and operation of general department stores, real estate agency and agency sales. Pacific Construction Co., Ltd. was founded in 1967 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin Hui  Chen', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 4614648, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Te Shin  Huang', 'title': 'Director of Financial Dept. & Supervisor of Financial Dept.', 'fiscalYear': 2021, 'totalPay': 1798940, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chien  Lei', 'title': 'Executive Director', 'fiscalYear': 2021, 'totalPay': 1568448, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min Chuang  Cheng', 'title': 'Deputy General Manager', 'fiscalYear': 2021, 'totalPay': 2180279, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fang Yi  Yang', 'title': 'Manager of Accounting Office', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	11.9
+open	12.1
+dayLow	11.65
+dayHigh	12.1
+regularMarketPreviousClose	11.9
+regularMarketOpen	12.1
+regularMarketDayLow	11.65
+regularMarketDayHigh	12.1
+dividendRate	0.3
+dividendYield	0.025799999
+exDividendDate	1718323200	 (2024-06-14 08:00:00)
+payoutRatio	2.5
+fiveYearAvgDividendYield	1.69
+beta	0.358
+volume	2638654
+regularMarketVolume	2638654
+averageVolume	3845490
+averageVolume10days	7308986
+averageDailyVolume10Day	7308986
+bid	11.65
+ask	11.7
+marketCap	4212127232
+fiftyTwoWeekLow	8.98
+fiftyTwoWeekHigh	13.85
+priceToSalesTrailing12Months	2.8338902
+fiftyDayAverage	11.0236
+twoHundredDayAverage	9.82315
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.025210086
+currency	TWD
+enterpriseValue	6135276544
+profitMargins	0.029260002
+sharesOutstanding	361556000
+heldPercentInsiders	0.38489
+heldPercentInstitutions	0.013409999
+impliedSharesOutstanding	375679008
+bookValue	19.061
+priceToBook	0.61119556
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	43492000
+trailingEps	-0.18
+lastSplitFactor	1.025:1
+lastSplitDate	1348185600	 (2012-09-21 08:00:00)
+enterpriseToRevenue	4.128
+enterpriseToEbitda	27.265
+52WeekChange	0.26355743
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1718323200	 (2024-06-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2506.TW
+underlyingSymbol	2506.TW
+shortName	PACIFIC CONSTRUCTION
+longName	Pacific Construction Co., Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cfac9e82-7295-3ecc-95d0-1486317b0aee
+messageBoardId	finmb_878468
+gmtOffSetMilliseconds	28800000
+currentPrice	11.65
+recommendationKey	none
+totalCash	2327111936
+totalCashPerShare	6.436
+ebitda	225026000
+totalDebt	2404113920
+quickRatio	0.649
+currentRatio	2.073
+totalRevenue	1486340992
+debtToEquity	27.515
+revenuePerShare	4.111
+returnOnAssets	0.00477
+returnOnEquity	0.01351
+freeCashflow	302746624
+operatingCashflow	356872000
+revenueGrowth	2.637
+grossMargins	0.37453997
+ebitdaMargins	0.1514
+operatingMargins	0.02805
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     721600.0     804052.96368   -244878.233656   -88443600.0
+Tax Rate For Calcs                                                   0.2         0.144692         0.262463           0.2
+Normalized EBITDA                                            430352000.0     1052376000.0      459751000.0   784190000.0
+Total Unusual Items                                            3608000.0        5557000.0        -933000.0  -442218000.0
+Total Unusual Items Excluding Goodwill                         3608000.0        5557000.0        -933000.0  -442218000.0
+Net Income From Continuing Operation Net Minority Interest    43492000.0      575726000.0       92004000.0   -54669000.0
+Reconciled Depreciation                                      138539000.0      137345000.0      140617000.0   136255000.0
+Reconciled Cost Of Revenue                                   929647000.0     1262378000.0     1069558000.0  2042997000.0
+EBITDA                                                       433960000.0     1057933000.0      458818000.0   341972000.0
+EBIT                                                         295421000.0      920588000.0      318201000.0   205717000.0
+Net Interest Income                                          -71680000.0      -84970000.0     -107749000.0  -136447000.0
+Interest Expense                                              81604000.0       88565000.0      109227000.0   137908000.0
+Interest Income                                                9924000.0        3595000.0        1478000.0     1461000.0
+Normalized Income                                             40605600.0  570973052.96368  92692121.766344   299105400.0
+Net Income From Continuing And Discontinued Operation         43492000.0      575726000.0       92004000.0   -54669000.0
+Total Expenses                                              1378062000.0      814253000.0     1558909000.0  2530890000.0
+Diluted Average Shares                                               NaN      362748000.0      361685000.0   361556000.0
+Basic Average Shares                                                 NaN      361556000.0      361556000.0   361556000.0
+Diluted EPS                                                          NaN             1.59             0.25         -0.15
+Basic EPS                                                            NaN             1.59             0.25         -0.15
+Diluted NI Availto Com Stockholders                           43492000.0      575726000.0       92004000.0   -54669000.0
+Net Income Common Stockholders                                43492000.0      575726000.0       92004000.0   -54669000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0              0.0           0.0
+Net Income                                                    43492000.0      575726000.0       92004000.0   -54669000.0
+Minority Interests                                           -77773000.0     -135910000.0      -62122000.0   -89063000.0
+Net Income Including Noncontrolling Interests                121265000.0      711636000.0      154126000.0    34394000.0
+Net Income Continuous Operations                             121265000.0      711636000.0      154126000.0    34394000.0
+Tax Provision                                                 92552000.0      120387000.0       54848000.0    33415000.0
+Pretax Income                                                213817000.0      832023000.0      208974000.0    67809000.0
+Other Non Operating Income Expenses                          173610000.0      857034000.0      161140000.0   186418000.0
+Special Income Charges                                         3608000.0        5557000.0        -933000.0  -442218000.0
+Write Off                                                     -3608000.0       -5557000.0         933000.0   442218000.0
+Net Non Operating Interest Income Expense                    -71680000.0      -84970000.0     -107749000.0  -136447000.0
+Interest Expense Non Operating                                81604000.0       88565000.0      109227000.0   137908000.0
+Interest Income Non Operating                                  9924000.0        3595000.0        1478000.0     1461000.0
+Operating Income                                             108279000.0       43204000.0      110122000.0   418662000.0
+Operating Expense                                            448415000.0     -448125000.0      489351000.0   487893000.0
+Other Operating Expenses                                      -7426000.0     -932237000.0              NaN    -1872000.0
+Selling General And Administration                           455841000.0      484112000.0      489351000.0   489765000.0
+Selling And Marketing Expense                                127553000.0      112406000.0      147681000.0   164169000.0
+General And Administrative Expense                           328288000.0      371706000.0      341670000.0   325596000.0
+Gross Profit                                                 556694000.0     -404921000.0      599473000.0   906555000.0
+Cost Of Revenue                                              929647000.0     1262378000.0     1069558000.0  2042997000.0
+Total Revenue                                               1486341000.0      857457000.0     1669031000.0  2949552000.0
+Operating Revenue                                           1486341000.0      857457000.0     1669031000.0  2949552000.0

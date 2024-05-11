@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 3, Zhonghua Road
+address2	Hukou Township Hsinchu County
+city	Hsinchu
+zip	303
+country	Taiwan
+phone	886 3 598 1911
+fax	886 3 598 3378
+website	https://www.sanyang.com.tw
+industry	Auto Manufacturers
+industryKey	auto-manufacturers
+industryDisp	Auto Manufacturers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Sanyang Motor Co., Ltd. manufactures, processes, and sells automobiles, and scooters and their parts in Taiwan, China, Asia, Europe, and internationally. It is also involved in the provision of distribution, repair, and maintenance of automobiles and its parts; Product design; rental and leasing of passenger cars and trucks; waste disposal; development and sale of aluminum battery-related energy products; renewable-energy-based electricity retailing; property insurance agency business; manufacturing, processing, and sale of hardware and iron; real estate development and management; and investment activities. In addition, the company provides related technical and consulting services. It offers its products under the SYM and HYUNDAI brand. The company was formerly known as Sanyang Industry Co., Ltd. and changed its name to Sanyang Motor Co., Ltd. in January 2015. Sanyang Motor Co., Ltd. was founded in 1954 and is headquartered in Hsinchu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Yuan  Wu', 'age': 66, 'title': 'Chairperson & President', 'yearBorn': 1957, 'fiscalYear': 2021, 'totalPay': 23522000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ren-Hao  Tien', 'age': 37, 'title': 'Assistant Manager of Administrative Department & Director', 'yearBorn': 1986, 'fiscalYear': 2021, 'totalPay': 5515000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuei-Chin  Huang', 'title': 'Assistant VP, Assistant Manager of Finance Department & Governance Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuang-Pin  Chuang', 'title': 'Chief Marketing Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Chuan  Shih', 'age': 55, 'title': 'MD & Independent Director', 'yearBorn': 1968, 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+irWebsite	http://www.sym.com.tw/chi/about/news/index.php
+maxAge	86400
+priceHint	2
+previousClose	79.2
+open	79.4
+dayLow	78.1
+dayHigh	79.9
+regularMarketPreviousClose	79.2
+regularMarketOpen	79.4
+regularMarketDayLow	78.1
+regularMarketDayHigh	79.9
+dividendRate	1.8
+dividendYield	0.0229
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.22700001
+fiveYearAvgDividendYield	3.77
+beta	0.326
+trailingPE	9.911728
+volume	7497932
+regularMarketVolume	7497932
+averageVolume	8946951
+averageVolume10days	13027540
+averageDailyVolume10Day	13027540
+bid	78.8
+ask	78.9
+marketCap	62263619584
+fiftyTwoWeekLow	59.0
+fiftyTwoWeekHigh	99.3
+priceToSalesTrailing12Months	0.96590793
+fiftyDayAverage	77.534
+twoHundredDayAverage	74.094
+currency	TWD
+enterpriseValue	78346444800
+profitMargins	0.09769
+floatShares	518760250
+sharesOutstanding	792158016
+heldPercentInsiders	0.39609
+heldPercentInstitutions	0.07113
+impliedSharesOutstanding	811478976
+bookValue	28.271
+priceToBook	2.780234
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.629
+netIncomeToCommon	6297521152
+trailingEps	7.93
+lastSplitFactor	1.06:1
+lastSplitDate	1315958400	 (2011-09-14 08:00:00)
+enterpriseToRevenue	1.215
+enterpriseToEbitda	10.657
+52WeekChange	0.28221858
+SandP52WeekChange	0.26265144
+lastDividendValue	1.8
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2206.TW
+underlyingSymbol	2206.TW
+shortName	SANYANG MOTOR CO LTD
+longName	Sanyang Motor Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	10e6ec4e-f189-3109-a0de-2a562038849d
+messageBoardId	finmb_9870461
+gmtOffSetMilliseconds	28800000
+currentPrice	78.6
+recommendationKey	none
+totalCash	9818789888
+totalCashPerShare	12.395
+ebitda	7351839232
+totalDebt	22902953984
+quickRatio	0.654
+currentRatio	1.489
+totalRevenue	64461238272
+debtToEquity	90.191
+revenuePerShare	81.328
+returnOnAssets	0.06373
+returnOnEquity	0.29202
+freeCashflow	3740868352
+operatingCashflow	6932980224
+earningsGrowth	1.611
+revenueGrowth	0.184
+grossMargins	0.20803
+ebitdaMargins	0.11405
+operatingMargins	0.07095
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -782141.669416    -3923883.255399     2750918.294215      654168.476681
+Tax Rate For Calcs                                                   0.174858           0.150629           0.160844           0.177281
+Normalized EBITDA                                                9925340000.0       5734601000.0       3934102000.0       4096187000.0
+Total Unusual Items                                                -4473000.0        -26050000.0         17103000.0          3690000.0
+Total Unusual Items Excluding Goodwill                             -4473000.0        -26050000.0         17103000.0          3690000.0
+Net Income From Continuing Operation Net Minority Interest       6297521000.0       3116035000.0       1830190000.0       1938344000.0
+Reconciled Depreciation                                          1407226000.0       1379980000.0       1413410000.0       1380357000.0
+Reconciled Cost Of Revenue                                      51051120000.0      41132408000.0      33684513000.0      32968062000.0
+EBITDA                                                           9920867000.0       5708551000.0       3951205000.0       4099877000.0
+EBIT                                                             8513641000.0       4328571000.0       2537795000.0       2719520000.0
+Net Interest Income                                               170535000.0         11148000.0          6421000.0          9269000.0
+Interest Expense                                                  438193000.0        278585000.0        196492000.0        225525000.0
+Interest Income                                                   608728000.0        289733000.0        202913000.0        234794000.0
+Normalized Income                                           6301211858.330584  3138161116.744601  1815837918.294215  1935308168.476681
+Net Income From Continuing And Discontinued Operation            6297521000.0       3116035000.0       1830190000.0       1938344000.0
+Total Expenses                                                  58345990000.0      47407824000.0      39411843000.0      38819248000.0
+Diluted Average Shares                                                    NaN        793878000.0        796325000.0        803725000.0
+Basic Average Shares                                                      NaN        792660000.0        795390000.0        802783000.0
+Diluted EPS                                                               NaN               3.93                2.3               2.41
+Basic EPS                                                                 NaN               3.93                2.3               2.41
+Diluted NI Availto Com Stockholders                              6297521000.0       3116035000.0       1830190000.0       1938344000.0
+Net Income Common Stockholders                                   6297521000.0       3116035000.0       1830190000.0       1938344000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       6297521000.0       3116035000.0       1830190000.0       1938344000.0
+Minority Interests                                               -365867000.0       -323906000.0       -134528000.0       -113512000.0
+Net Income Including Noncontrolling Interests                    6663388000.0       3439941000.0       1964718000.0       2051856000.0
+Net Income Continuous Operations                                 6663388000.0       3439941000.0       1964718000.0       2051856000.0
+Tax Provision                                                    1412060000.0        610045000.0        376585000.0        442139000.0
+Pretax Income                                                    8075448000.0       4049986000.0       2341303000.0       2493995000.0
+Other Non Operating Income Expenses                              1884290000.0       1245924000.0        130602000.0        522914000.0
+Special Income Charges                                             -4473000.0        -26050000.0         17103000.0          3690000.0
+Write Off                                                           4473000.0         26050000.0        -17103000.0         -3690000.0
+Net Non Operating Interest Income Expense                         170535000.0         11148000.0          6421000.0          9269000.0
+Interest Expense Non Operating                                    438193000.0        278585000.0        196492000.0        225525000.0
+Interest Income Non Operating                                     608728000.0        289733000.0        202913000.0        234794000.0
+Operating Income                                                 6115249000.0       3442794000.0       2205508000.0       1955669000.0
+Operating Expense                                                7294870000.0       6275416000.0       5727330000.0       5851186000.0
+Research And Development                                         1346378000.0       1217714000.0       1115518000.0       1083501000.0
+Selling General And Administration                               5948492000.0       5057702000.0       4611812000.0       4767685000.0
+Selling And Marketing Expense                                    4152856000.0       3475639000.0       3189297000.0       3121110000.0
+General And Administrative Expense                               1795636000.0       1582063000.0       1422515000.0       1646575000.0
+Gross Profit                                                    13410119000.0       9718210000.0       7932838000.0       7806855000.0
+Cost Of Revenue                                                 51051120000.0      41132408000.0      33684513000.0      32968062000.0
+Total Revenue                                                   64461239000.0      50850618000.0      41617351000.0      40774917000.0
+Operating Revenue                                               64461239000.0      50850618000.0      41617351000.0      40774917000.0

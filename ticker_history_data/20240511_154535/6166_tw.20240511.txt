@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 66, Huaya 1st Rd.
+address2	Guishan Dist.
+city	Taoyuan City
+zip	333411
+country	Taiwan
+phone	886 3 216 5088
+fax	886 3 328 5706
+website	https://www.adlinktech.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Adlink Technology Inc. manufactures and sells hardware, software, and peripheral devices of industrial computers in the Asia Pacific, Mainland China, the Americas, Europe, and internationally. The company offers processor blades, switch blades, and platforms; CompactPCI blades, switches, backplanes, enclosures and systems, peripherals and accessories, rear transition modules, power supplies, and intelligent railway platforms; computer-on-modules; GPU solutions, including embedded MXM GPU modules and NVIDIA professional graphics solutions; Rugged computing solutions, comprising compactPCI and compactPCI serial, PC104, VPX, rugged embedded computers, and railway and military rugged solutions; autonomous driving solutions; and design and manufacturing services. It also provides MEC servers and network security appliance; industrial display systems and panel PCs; ROS2 solutions; edge computing platforms, which include industrial PCs, motherboards, SBCs, embedded computers and IoT gateway, edge AI platforms, AI smart cameras, robotic controllers, and industrial solid state drives; and gaming platforms and monitors. In addition, the company offers healthcare computing and monitors; automation and control solutions; ADLINK DDS, an intelligent data sharing platform; ADLINK Edge MCM, a machine condition monitoring solution; and Zenoh, the zero overhead pub/sub, store/query and compute platform. It serves defense and aviation, healthcare, industrial automation, gaming, power and energy, retail and logistics, semiconductor, smart city, networking and communication, test and measurement, transportation, and robotics industries. The company was incorporated in 1995 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Stephen  Huang', 'title': 'President & COO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ta-Chih  Chou', 'title': 'Global Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Ting  Lin', 'title': 'Senior Manager of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi Hua  Feng', 'title': 'Global Chief Operating Officer of Global Manufacturing Operations Management Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Wei  Lo', 'title': 'Regional Chief Director of China', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Hao  Wan', 'title': 'Regional Chief Director of Europe', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	64.6
+open	64.1
+dayLow	61.6
+dayHigh	64.1
+regularMarketPreviousClose	64.6
+regularMarketOpen	64.1
+regularMarketDayLow	61.6
+regularMarketDayHigh	64.1
+dividendRate	2.5
+dividendYield	0.039100002
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	1.6556
+fiveYearAvgDividendYield	3.02
+beta	-0.073
+trailingPE	42.317883
+forwardPE	26.081633
+volume	1014423
+regularMarketVolume	1014423
+averageVolume	1429890
+averageVolume10days	685096
+averageDailyVolume10Day	685096
+bid	63.7
+ask	65.0
+marketCap	13898057728
+fiftyTwoWeekLow	56.2
+fiftyTwoWeekHigh	86.5
+priceToSalesTrailing12Months	1.2175772
+fiftyDayAverage	65.336
+twoHundredDayAverage	62.9665
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.015479877
+currency	TWD
+enterpriseValue	16941890560
+profitMargins	0.02881
+floatShares	108054812
+sharesOutstanding	217496992
+heldPercentInsiders	0.62547
+heldPercentInstitutions	0.026400002
+impliedSharesOutstanding	217496992
+bookValue	24.801
+priceToBook	2.576509
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.138
+netIncomeToCommon	328796992
+trailingEps	1.51
+forwardEps	2.45
+lastSplitFactor	1090.105:1000
+lastSplitDate	1437955200	 (2015-07-27 08:00:00)
+enterpriseToRevenue	1.484
+enterpriseToEbitda	32.316
+52WeekChange	0.08488965
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6166.TW
+underlyingSymbol	6166.TW
+shortName	ADLINK TECHNOLOGY INC
+longName	Adlink Technology Inc.
+firstTradeDateEpochUtc	1099875600	 (2004-11-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	78ac9ad4-8db7-3b6b-ace8-dd7841dfee62
+messageBoardId	finmb_8160244
+gmtOffSetMilliseconds	28800000
+currentPrice	63.9
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1874855936
+totalCashPerShare	8.62
+ebitda	524249984
+totalDebt	4854993920
+quickRatio	0.959
+currentRatio	1.683
+totalRevenue	11414518784
+debtToEquity	88.955
+revenuePerShare	52.481
+returnOnAssets	0.015149999
+returnOnEquity	0.052810002
+freeCashflow	129597624
+operatingCashflow	571174016
+earningsGrowth	-0.121
+revenueGrowth	-0.111
+grossMargins	0.36613998
+ebitdaMargins	0.04593
+operatingMargins	0.01224
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1136651.417634   -1794950.454949     -150200.0    -577852.376772
+Tax Rate For Calcs                                                  0.356429          0.169976           0.2          0.311175
+Normalized EBITDA                                                880680000.0      1370542000.0   553300000.0       700327000.0
+Total Unusual Items                                               -3189000.0       -10560000.0     -751000.0        -1857000.0
+Total Unusual Items Excluding Goodwill                            -3189000.0       -10560000.0     -751000.0        -1857000.0
+Net Income From Continuing Operation Net Minority Interest       328797000.0       805858000.0   118884000.0       243665000.0
+Reconciled Depreciation                                          328787000.0       320231000.0   313068000.0       331198000.0
+Reconciled Cost Of Revenue                                      7235231000.0      7465205000.0  6117386000.0      5820891000.0
+EBITDA                                                           877491000.0      1359982000.0   552549000.0       698470000.0
+EBIT                                                             548704000.0      1039751000.0   239481000.0       367272000.0
+Net Interest Income                                              -67460000.0       -62001000.0   -35168000.0       -10574000.0
+Interest Expense                                                  92063000.0        69422000.0    36571000.0        16460000.0
+Interest Income                                                   24603000.0         7421000.0     1403000.0         5886000.0
+Normalized Income                                           330849348.582366  814623049.545051   119484800.0  244944147.623228
+Net Income From Continuing And Discontinued Operation            328797000.0       805858000.0   118884000.0       243665000.0
+Total Expenses                                                 11088003000.0     11090246000.0  9533299000.0      9158834000.0
+Diluted Average Shares                                                   NaN       218845000.0   218057000.0       218639000.0
+Basic Average Shares                                                     NaN       217497000.0   217497000.0       217497000.0
+Diluted EPS                                                              NaN              3.68          0.55              1.11
+Basic EPS                                                                NaN              3.71          0.55              1.12
+Diluted NI Availto Com Stockholders                              328797000.0       805858000.0   118884000.0       243665000.0
+Net Income Common Stockholders                                   328797000.0       805858000.0   118884000.0       243665000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0               0.0
+Net Income                                                       328797000.0       805858000.0   118884000.0       243665000.0
+Minority Interests                                                34916000.0          462000.0           0.0         2017000.0
+Net Income Including Noncontrolling Interests                    293881000.0       805396000.0   118884000.0       241648000.0
+Net Income Continuous Operations                                 293881000.0       805396000.0   118884000.0       241648000.0
+Tax Provision                                                    162760000.0       164933000.0    84026000.0       109164000.0
+Pretax Income                                                    456641000.0       970329000.0   202910000.0       350812000.0
+Other Non Operating Income Expenses                              229174000.0       463037000.0   146124000.0      -106809000.0
+Special Income Charges                                            -3189000.0       -10560000.0     -751000.0        -1857000.0
+Write Off                                                          3189000.0        10560000.0      751000.0         1857000.0
+Net Non Operating Interest Income Expense                        -67460000.0       -62001000.0   -35168000.0       -10574000.0
+Interest Expense Non Operating                                    92063000.0        69422000.0    36571000.0        16460000.0
+Interest Income Non Operating                                     24603000.0         7421000.0     1403000.0         5886000.0
+Operating Income                                                 326516000.0       627929000.0   139755000.0       476844000.0
+Operating Expense                                               3852772000.0      3625041000.0  3415913000.0      3337943000.0
+Other Operating Expenses                                                 NaN               NaN      506000.0          141000.0
+Research And Development                                        1693220000.0      1544496000.0  1521068000.0      1452997000.0
+Selling General And Administration                              2159552000.0      2080545000.0  1894845000.0      1884946000.0
+Selling And Marketing Expense                                   1081308000.0      1019835000.0   958691000.0      1015381000.0
+General And Administrative Expense                              1078244000.0      1060710000.0   936154000.0       869565000.0
+Gross Profit                                                    4179288000.0      4252970000.0  3555668000.0      3814787000.0
+Cost Of Revenue                                                 7235231000.0      7465205000.0  6117386000.0      5820891000.0
+Total Revenue                                                  11414519000.0     11718175000.0  9673054000.0      9635678000.0
+Operating Revenue                                              11414519000.0     11718175000.0  9673054000.0      9635678000.0

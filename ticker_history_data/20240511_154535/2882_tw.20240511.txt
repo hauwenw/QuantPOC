@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 296, Ren ai Road
+address2	16th Floor Section 4
+city	Taipei
+zip	10633
+country	Taiwan
+phone	886 2 2708 7698
+fax	886 2 2705 5933
+website	https://www.cathayholdings.com
+industry	Insurance - Life
+industryKey	insurance-life
+industryDisp	Insurance - Life
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Cathay Financial Holding Co., Ltd., through its subsidiaries, provides various financial products and services in Taiwan, rest of Asia, and internationally. The company operates through five segments: Banking, Life Insurance, Property Insurance, Securities, and Other segments. It offers banking, foreign exchange, guarantee, foreign exchange investment and consulting, trust, offshore banking units, and other financial services. The company also provides traditional, investment-linked, and annuity insurance products; financial planning and policy loan services; and various insurance products, such as fire, marine, land and air, liability, financial guarantee, and other insurance products. In addition, it offers securities brokerage, dealership, underwriting, and security financial services, as well as other financial products and futures services. Further, the company provides real estate investment and management, real estate and office leasing, asset management, fund management, venture capital, private equity service, and risk management software, as well as electric power supply, electric transmission, and power distribution, and machinery manufacturing services. The company was incorporated in 2001 and is based in Taipei City, Taiwan.
+fullTimeEmployees	55669
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chang-Ken  Lee', 'age': 64, 'title': 'President & Director', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Grace  Chen', 'age': 59, 'title': 'CFO, Senior EVP & Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Fen  Cheng', 'title': 'Chief Investment Officer & Senior Executive VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jui-Hung  Hung', 'title': 'Chief Accountant & Senior VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Po-Hsiung  Li', 'age': 57, 'title': 'Chief Information Officer', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Deh-Yen  Weng', 'age': 53, 'title': 'Executive VP, Chief Corporate Governance Officer & Head of Administration Div.', 'yearBorn': 1970, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shane  Sun', 'title': 'Deputy Manager of IR Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Mei  Lee', 'title': 'Executive VP & Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David Paul  Sun', 'age': 59, 'title': 'Senior EVP and Head of Strategic Communications & Marketing Div.', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Ying  Wu', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	51.7
+open	53.0
+dayLow	53.0
+dayHigh	55.5
+regularMarketPreviousClose	51.7
+regularMarketOpen	53.0
+regularMarketDayLow	53.0
+regularMarketDayHigh	55.5
+dividendRate	0.9
+dividendYield	0.0162
+exDividendDate	1687910400	 (2023-06-28 08:00:00)
+payoutRatio	0.2778
+fiveYearAvgDividendYield	4.58
+beta	0.647
+trailingPE	17.12963
+forwardPE	11.167003
+volume	111338060
+regularMarketVolume	111338060
+averageVolume	26560844
+averageVolume10days	35244600
+averageDailyVolume10Day	35244600
+bid	55.4
+ask	55.5
+marketCap	814140620800
+fiftyTwoWeekLow	42.05
+fiftyTwoWeekHigh	55.5
+priceToSalesTrailing12Months	0.9663306
+fiftyDayAverage	48.24
+twoHundredDayAverage	45.92425
+currency	TWD
+enterpriseValue	-1094225231872
+profitMargins	0.060450003
+floatShares	9131876689
+sharesOutstanding	14669200384
+heldPercentInsiders	0.36424
+heldPercentInstitutions	0.22158001
+impliedSharesOutstanding	14727499776
+bookValue	52.676
+priceToBook	1.0536108
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	47537942528
+trailingEps	3.24
+forwardEps	4.97
+pegRatio	-1.19
+lastSplitFactor	1050:1000
+lastSplitDate	1406592000	 (2014-07-29 08:00:00)
+enterpriseToRevenue	-1.299
+enterpriseToEbitda	-11.764
+52WeekChange	0.28027678
+SandP52WeekChange	0.26265144
+lastDividendValue	0.9
+lastDividendDate	1687910400	 (2023-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2882.TW
+underlyingSymbol	2882.TW
+shortName	CATHAY FINANCIAL HLDG CO
+longName	Cathay Financial Holding Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	84f42355-8365-3420-9be6-b28fce210526
+messageBoardId	finmb_3019738
+gmtOffSetMilliseconds	28800000
+currentPrice	55.5
+targetHighPrice	58.0
+targetLowPrice	45.6
+targetMeanPrice	52.26
+targetMedianPrice	52.0
+recommendationMean	2.1
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	2511742173184
+totalCashPerShare	171.225
+ebitda	93018046464
+totalDebt	574651760640
+quickRatio	1.07
+currentRatio	1.234
+totalRevenue	842507354112
+debtToEquity	71.702
+revenuePerShare	57.434
+returnOnAssets	0.00438
+returnOnEquity	0.072909996
+freeCashflow	-579452141568
+operatingCashflow	-59249598464
+revenueGrowth	0.548
+grossMargins	0.22503
+ebitdaMargins	0.110410005
+operatingMargins	0.35810003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31           2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                  1238650559.670052   2163047144.543086    1630577122.126592    788434216.178094
+Tax Rate For Calcs                                                    0.118959            0.239964             0.116827            0.069319
+Total Unusual Items                                              10412380000.0        9014044000.0        13957139000.0       11373931000.0
+Total Unusual Items Excluding Goodwill                           10412380000.0        9014044000.0        13957139000.0       11373931000.0
+Net Income From Continuing Operation Net Minority Interest       50928865000.0       37359360000.0       139514082000.0       74579460000.0
+Reconciled Depreciation                                           8635961000.0        7544064000.0         7397795000.0        7358416000.0
+Net Interest Income                                             245629684000.0      226162526000.0       194882161000.0      190929532000.0
+Interest Expense                                                 61947352000.0       24356980000.0        12930863000.0       17319732000.0
+Interest Income                                                 307577036000.0      250519506000.0       207813024000.0      208249264000.0
+Normalized Income                                           41755135559.670052  30508363144.543087  127187520122.126587  63993963216.178093
+Net Income From Continuing And Discontinued Operation            50928865000.0       37359360000.0       139514082000.0       74579460000.0
+Diluted Average Shares                                           14669210000.0       13189758000.0        13189758000.0       13375662729.0
+Basic Average Shares                                             14669210000.0       13189758000.0        13189758000.0       13375662729.0
+Diluted EPS                                                               3.24                2.58                10.34            5.326497
+Basic EPS                                                                 3.24                2.58                10.34            5.326497
+Diluted NI Availto Com Stockholders                              50928865000.0       37359360000.0       139514082000.0       74579460000.0
+Net Income Common Stockholders                                   50928865000.0       37359360000.0       139514082000.0       74579460000.0
+Net Income                                                       50928865000.0       37359360000.0       139514082000.0       74579460000.0
+Minority Interests                                                -584952000.0        -602754000.0        -1375228000.0       -1378763000.0
+Net Income Including Noncontrolling Interests                    51513817000.0       37962114000.0       140889310000.0       75958223000.0
+Net Income Continuous Operations                                 51513817000.0       37962114000.0       140889310000.0       75958223000.0
+Tax Provision                                                     6955472000.0       11985678000.0        18637061000.0        5657558000.0
+Pretax Income                                                    58469289000.0       49947792000.0       159526371000.0       81615781000.0
+Special Income Charges                                           -1362986000.0       -4682547000.0         2299198000.0       -1860502000.0
+Write Off                                                         1362986000.0        4682547000.0        -2299198000.0        1860502000.0
+Gain On Sale Of Security                                         24906437000.0     -177995172000.0       251933940000.0      239690219000.0
+Operating Expense                                               212011686000.0      322745975000.0       455754719000.0      538640527000.0
+Other Operating Expenses                                        109515202000.0      234135694000.0       370211245000.0      455613839000.0
+Depreciation And Amortization In Income Statement                 8635961000.0        7544064000.0         7397795000.0        7358416000.0
+Depreciation Income Statement                                     8635961000.0        7544064000.0         7397795000.0        7358416000.0
+Selling General And Administration                               33331212000.0       27061810000.0        24439211000.0       23007140000.0
+General And Administrative Expense                               33331212000.0       27061810000.0        24439211000.0       23007140000.0
+Total Revenue                                                   273995860000.0      379887908000.0       614659538000.0      637379349000.0
+Operating Revenue                                               273995860000.0      379887908000.0       614659538000.0      637379349000.0

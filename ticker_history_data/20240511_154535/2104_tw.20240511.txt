@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.113, Zhongshan North Road
+address2	8th Floor Section 2 Zhongshan North Road
+city	Taipei
+zip	104
+country	Taiwan
+website	https://www.csrcgroup.com
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	International CSRC Investment Holdings Co., Ltd. produces and sells carbon black for tire and other rubber products in Asia, the United States, and internationally. Its carbon black products are also used in plastics, printing and coatings, and conductive applications. The company also engages in the biotechnology research and development activities. In addition, it provides investment and investment consultation services; and produces and sells carbon masterbatch and carbon black. The company was formerly known as China Synthetic Rubber Corporation and changed its name to International CSRC Investment Holdings Co., Ltd. in October 2018. International CSRC Investment Holdings Co., Ltd. was incorporated in 1973 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kung-Yi  Koo', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia-Wen  Lee', 'title': 'Assistant VP & Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Shen  Hung', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. I-Chen  Tsai', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stan  Lee', 'title': 'Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Liu', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.7
+open	17.85
+dayLow	17.65
+dayHigh	17.85
+regularMarketPreviousClose	17.7
+regularMarketOpen	17.85
+regularMarketDayLow	17.65
+regularMarketDayHigh	17.85
+dividendRate	0.1
+dividendYield	0.0056
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.7143
+fiveYearAvgDividendYield	1.97
+beta	0.731
+forwardPE	66.11111
+volume	676296
+regularMarketVolume	676296
+averageVolume	1577565
+averageVolume10days	1468589
+averageDailyVolume10Day	1468589
+bid	17.8
+ask	17.85
+marketCap	17314482176
+fiftyTwoWeekLow	16.75
+fiftyTwoWeekHigh	24.25
+priceToSalesTrailing12Months	0.9686271
+fiftyDayAverage	17.519
+twoHundredDayAverage	19.02575
+currency	TWD
+enterpriseValue	13996893184
+profitMargins	-0.027660001
+floatShares	724860853
+sharesOutstanding	969998976
+heldPercentInsiders	0.23278
+heldPercentInstitutions	0.08487
+impliedSharesOutstanding	975433024
+bookValue	34.609
+priceToBook	0.5157618
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-494441984
+trailingEps	-0.78
+forwardEps	0.27
+lastSplitFactor	1130:1000
+lastSplitDate	1566950400	 (2019-08-28 08:00:00)
+enterpriseToRevenue	0.783
+enterpriseToEbitda	10.049
+52WeekChange	-0.098484874
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2104.TW
+underlyingSymbol	2104.TW
+shortName	INTERNATIONAL CSRC INVESTMENT H
+longName	International CSRC Investment Holdings Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4d7fab37-b0b9-3740-aaee-52682c434d50
+messageBoardId	finmb_1531019
+gmtOffSetMilliseconds	28800000
+currentPrice	17.85
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	16826320896
+totalCashPerShare	17.347
+ebitda	1392817024
+totalDebt	11626725376
+quickRatio	1.52
+currentRatio	1.831
+totalRevenue	17875281920
+debtToEquity	32.795
+revenuePerShare	18.428
+returnOnAssets	0.0016300001
+returnOnEquity	-0.0152900005
+freeCashflow	1942451584
+operatingCashflow	3064171008
+revenueGrowth	-0.208
+grossMargins	0.081999995
+ebitdaMargins	0.07792
+operatingMargins	0.03424
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                     9090000.0      2765600.0   -10529368.647961    -10147000.0
+Tax Rate For Calcs                                                    0.2            0.2           0.359168            0.2
+Normalized EBITDA                                            1860116000.0   3245160000.0       6631799000.0   2752516000.0
+Total Unusual Items                                            45450000.0     13828000.0        -29316000.0    -50735000.0
+Total Unusual Items Excluding Goodwill                         45450000.0     13828000.0        -29316000.0    -50735000.0
+Net Income From Continuing Operation Net Minority Interest   -494442000.0    679382000.0       3395441000.0    726555000.0
+Reconciled Depreciation                                      1333352000.0   1288371000.0       1049792000.0   1117357000.0
+Reconciled Cost Of Revenue                                  16409459000.0  20095459000.0      17672290000.0  13565328000.0
+EBITDA                                                       1905566000.0   3258988000.0       6602483000.0   2701781000.0
+EBIT                                                          572214000.0   1970617000.0       5552691000.0   1584424000.0
+Net Interest Income                                          -199630000.0   -355474000.0       -161227000.0    -38841000.0
+Interest Expense                                              686851000.0    498091000.0        197403000.0    160229000.0
+Interest Income                                               487221000.0    142617000.0         36176000.0    121388000.0
+Normalized Income                                            -530802000.0    668319600.0  3414227631.352039    767143000.0
+Net Income From Continuing And Discontinued Operation        -494442000.0    679382000.0       3395441000.0    726555000.0
+Total Expenses                                              17770019000.0  21642626000.0      19410583000.0  15650307000.0
+Diluted Average Shares                                                NaN    970101000.0        970113000.0    970049000.0
+Basic Average Shares                                                  NaN    969999000.0        969999000.0    969999000.0
+Diluted EPS                                                           NaN            0.7                3.5           0.75
+Basic EPS                                                             NaN            0.7                3.5           0.75
+Diluted NI Availto Com Stockholders                          -494442000.0    679382000.0       3395441000.0    726555000.0
+Net Income Common Stockholders                               -494442000.0    679382000.0       3395441000.0    726555000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                0.0            0.0
+Net Income                                                   -494442000.0    679382000.0       3395441000.0    726555000.0
+Minority Interests                                             48262000.0     16400000.0        -36399000.0     50545000.0
+Net Income Including Noncontrolling Interests                -542704000.0    662982000.0       3431840000.0    676010000.0
+Net Income Continuous Operations                             -542704000.0    662982000.0       3431840000.0    676010000.0
+Tax Provision                                                 428067000.0    809544000.0       1923448000.0    748185000.0
+Pretax Income                                                -114637000.0   1472526000.0       5355288000.0   1424195000.0
+Other Non Operating Income Expenses                           229443000.0     22594000.0        374785000.0     74603000.0
+Special Income Charges                                         45450000.0     13828000.0        -29316000.0    -50735000.0
+Write Off                                                     -45450000.0    -13828000.0         29316000.0     50735000.0
+Net Non Operating Interest Income Expense                    -199630000.0   -355474000.0       -161227000.0    -38841000.0
+Interest Expense Non Operating                                686851000.0    498091000.0        197403000.0    160229000.0
+Interest Income Non Operating                                 487221000.0    142617000.0         36176000.0    121388000.0
+Operating Income                                              105263000.0   1725659000.0       5206153000.0   1455195000.0
+Operating Expense                                            1360560000.0   1547167000.0       1738293000.0   2084979000.0
+Research And Development                                      209123000.0    190864000.0        352165000.0    612924000.0
+Selling General And Administration                           1151437000.0   1356303000.0       1386128000.0   1472055000.0
+Selling And Marketing Expense                                 320194000.0    429720000.0        474429000.0    406627000.0
+General And Administrative Expense                            831243000.0    926583000.0        911699000.0   1065428000.0
+Gross Profit                                                 1465823000.0   3272826000.0       6944446000.0   3540174000.0
+Cost Of Revenue                                             16409459000.0  20095459000.0      17672290000.0  13565328000.0
+Total Revenue                                               17875282000.0  23368285000.0      24616736000.0  17105502000.0
+Operating Revenue                                           17875282000.0  23368285000.0      24616736000.0  17105502000.0

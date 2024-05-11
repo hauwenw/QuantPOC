@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 100, Xinjiang Road
+address2	Yangmei District
+city	Taoyuan City
+zip	326
+country	Taiwan
+phone	886 3 478 3121
+fax	886 3 475 4318
+website	https://www.kian-shen.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Kian Shen Corporation manufactures and sells automobile parts in Taiwan. The company offers truck/bus frames, electric scooter frames, stamping parts, rear body parts, dies and jigs, suspension components, and high tensile steel products. It designs, produces, and sells automotive-specific constant velocity steering knuckles, automobile body beams, stamping molds, and woodworking products, as well as provision of after-sales service. The company was founded in 1955 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chiung-Chih  Tseng', 'title': 'GM & Representative Juristic Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Te-Hsiang  Yu', 'title': 'VP & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	70.2
+open	70.2
+dayLow	69.7
+dayHigh	70.4
+regularMarketPreviousClose	70.2
+regularMarketOpen	70.2
+regularMarketDayLow	69.7
+regularMarketDayHigh	70.4
+dividendRate	3.3
+dividendYield	0.0473
+exDividendDate	1719446400	 (2024-06-27 08:00:00)
+payoutRatio	0.5949
+fiveYearAvgDividendYield	3.26
+trailingPE	19.773373
+forwardPE	11.952055
+volume	22397
+regularMarketVolume	22397
+averageVolume	44550
+averageVolume10days	33200
+averageDailyVolume10Day	33200
+bid	69.7
+ask	70.0
+marketCap	5123326976
+fiftyTwoWeekLow	67.8
+fiftyTwoWeekHigh	129.5
+priceToSalesTrailing12Months	3.528506
+fiftyDayAverage	72.104
+twoHundredDayAverage	77.146
+trailingAnnualDividendRate	3.3
+trailingAnnualDividendYield	0.047008548
+currency	TWD
+enterpriseValue	3376854528
+profitMargins	0.17872
+floatShares	17035099
+sharesOutstanding	73400096
+heldPercentInsiders	0.86477995
+heldPercentInstitutions	0.00117
+impliedSharesOutstanding	74127904
+bookValue	66.791
+priceToBook	1.045051
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.749
+netIncomeToCommon	259499008
+trailingEps	3.53
+forwardEps	5.84
+lastSplitFactor	1060:1000
+lastSplitDate	1473724800	 (2016-09-13 08:00:00)
+enterpriseToRevenue	2.326
+enterpriseToEbitda	31.146
+52WeekChange	-0.07915568
+SandP52WeekChange	0.26265144
+lastDividendValue	3.3
+lastDividendDate	1719446400	 (2024-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1525.TW
+underlyingSymbol	1525.TW
+shortName	KIANSHEN CORP
+longName	Kian Shen Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	16be9de7-ae96-3316-90a7-0c57d9d961dd
+messageBoardId	finmb_20346593
+gmtOffSetMilliseconds	28800000
+currentPrice	69.8
+recommendationKey	none
+totalCash	1845388032
+totalCashPerShare	25.119
+ebitda	108420000
+totalDebt	94375000
+quickRatio	3.239
+currentRatio	3.914
+totalRevenue	1451981952
+debtToEquity	1.923
+revenuePerShare	19.771
+returnOnAssets	0.00442
+returnOnEquity	0.05328
+freeCashflow	94488000
+operatingCashflow	35570000
+earningsGrowth	-0.748
+revenueGrowth	-0.322
+grossMargins	0.10520001
+ebitdaMargins	0.07467
+operatingMargins	0.00834
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.268674      0.204382      0.184295      0.209928
+Normalized EBITDA                                            618916000.0   395538000.0   425237000.0   453804000.0
+Net Income From Continuing Operation Net Minority Interest   403823000.0   269818000.0   306767000.0   324045000.0
+Reconciled Depreciation                                       65040000.0    54847000.0    48073000.0    41415000.0
+Reconciled Cost Of Revenue                                  1417745000.0  1352764000.0  1171714000.0   960750000.0
+EBITDA                                                       618916000.0   395538000.0   425237000.0   453804000.0
+EBIT                                                         553876000.0   340691000.0   377164000.0   412389000.0
+Net Interest Income                                           30168000.0    14610000.0     8364000.0     8450000.0
+Interest Expense                                               1697000.0     1561000.0     1088000.0     2243000.0
+Interest Income                                               31865000.0    16171000.0     9452000.0    10693000.0
+Normalized Income                                            403823000.0   269818000.0   306767000.0   324045000.0
+Net Income From Continuing And Discontinued Operation        403823000.0   269818000.0   306767000.0   324045000.0
+Total Expenses                                              1533103000.0  1455514000.0  1261098000.0  1046687000.0
+Diluted Average Shares                                               NaN    73451000.0    73464000.0    73467000.0
+Basic Average Shares                                                 NaN    73400000.0    73400000.0    73400000.0
+Diluted EPS                                                          NaN          3.67          4.18          4.41
+Basic EPS                                                            NaN          3.68          4.18          4.41
+Diluted NI Availto Com Stockholders                          403823000.0   269818000.0   306767000.0   324045000.0
+Net Income Common Stockholders                               403823000.0   269818000.0   306767000.0   324045000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   403823000.0   269818000.0   306767000.0   324045000.0
+Net Income Including Noncontrolling Interests                403823000.0   269818000.0   306767000.0   324045000.0
+Net Income Continuous Operations                             403823000.0   269818000.0   306767000.0   324045000.0
+Tax Provision                                                148356000.0    69312000.0    69309000.0    86101000.0
+Pretax Income                                                552179000.0   339130000.0   376076000.0   410146000.0
+Other Non Operating Income Expenses                            1679000.0     5223000.0    -8406000.0     1404000.0
+Net Non Operating Interest Income Expense                     30168000.0    14610000.0     8364000.0     8450000.0
+Interest Expense Non Operating                                 1697000.0     1561000.0     1088000.0     2243000.0
+Interest Income Non Operating                                 31865000.0    16171000.0     9452000.0    10693000.0
+Operating Income                                              65393000.0    44751000.0    14510000.0     6304000.0
+Operating Expense                                            115358000.0   102750000.0    89384000.0    85937000.0
+Research And Development                                      23554000.0    23386000.0    23455000.0    17243000.0
+Selling General And Administration                            91804000.0    79364000.0    65929000.0    68694000.0
+Selling And Marketing Expense                                  3195000.0     3187000.0     2673000.0     2996000.0
+General And Administrative Expense                            88609000.0    76177000.0    63256000.0    65698000.0
+Gross Profit                                                 180751000.0   147501000.0   103894000.0    92241000.0
+Cost Of Revenue                                             1417745000.0  1352764000.0  1171714000.0   960750000.0
+Total Revenue                                               1598496000.0  1500265000.0  1275608000.0  1052991000.0
+Operating Revenue                                           1598496000.0  1500265000.0  1275608000.0  1052991000.0

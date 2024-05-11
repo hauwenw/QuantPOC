@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.54, MinSheng East Road
+address2	3rd Floor Section 4
+city	Taipei
+country	Taiwan
+phone	886 2 2717 2222
+fax	886 2 2718 7995
+website	https://www.yuanjen.com
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Yuan Jen Enterprises Co.,Ltd. operates as a petrochemical trading company. It engages in the manufacture, processing, wholesale, and trade of chemicals, gasoline, and diesel. The company is also involved in building rental business; trading, import, and export of chemical raw materials and chemicals, as well as provides related supporting services; wholesale of resin coatings, inks, industrial chemicals, plastic raw materials, rubber, chemicals; and operates a commission agency. Yuan Jen Enterprises Co.,Ltd. was incorporated in 1977 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Zhenlong  Xu', 'title': 'President, Director & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	40.85
+open	41.0
+dayLow	40.6
+dayHigh	41.7
+regularMarketPreviousClose	40.85
+regularMarketOpen	41.0
+regularMarketDayLow	40.6
+regularMarketDayHigh	41.7
+dividendRate	1.0
+dividendYield	0.0242
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	0.90910006
+fiveYearAvgDividendYield	4.96
+beta	0.599
+trailingPE	37.636364
+volume	378831
+regularMarketVolume	378831
+averageVolume	1421911
+averageVolume10days	1946087
+averageDailyVolume10Day	1946087
+bid	41.4
+ask	41.5
+marketCap	7527762432
+fiftyTwoWeekLow	19.7
+fiftyTwoWeekHigh	51.3
+priceToSalesTrailing12Months	1.0040069
+fiftyDayAverage	35.506
+twoHundredDayAverage	24.57875
+trailingAnnualDividendRate	0.85
+trailingAnnualDividendYield	0.020807834
+currency	TWD
+enterpriseValue	5106393088
+profitMargins	0.02674
+sharesOutstanding	181830000
+heldPercentInsiders	0.90647006
+impliedSharesOutstanding	187744992
+bookValue	25.221
+priceToBook	1.6414893
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.292
+netIncomeToCommon	200468992
+trailingEps	1.1
+lastSplitFactor	1.135:1
+lastSplitDate	1312329600	 (2011-08-03 08:00:00)
+enterpriseToRevenue	0.681
+enterpriseToEbitda	29.509
+52WeekChange	0.79999995
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1725.TW
+underlyingSymbol	1725.TW
+shortName	YUAN JEN ENTERPRISE
+longName	Yuan Jen Enterprises Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8a7eae54-bddb-3dd4-b400-27c479af24e5
+messageBoardId	finmb_20384557
+gmtOffSetMilliseconds	28800000
+currentPrice	41.4
+recommendationKey	none
+totalCash	4425811968
+totalCashPerShare	24.34
+ebitda	173044000
+totalDebt	2004443008
+quickRatio	2.015
+currentRatio	2.349
+totalRevenue	7497719808
+debtToEquity	43.708
+revenuePerShare	41.235
+returnOnAssets	0.013780001
+returnOnEquity	0.045739997
+freeCashflow	134702496
+operatingCashflow	274612992
+earningsGrowth	0.284
+revenueGrowth	-0.088
+grossMargins	0.05056
+ebitdaMargins	0.02308
+operatingMargins	0.01808
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      2997.852316    -340743.706246     967617.563395    -672857.692587
+Tax Rate For Calcs                                                  0.124911          0.112866          0.137877          0.095876
+Normalized EBITDA                                                285206000.0       329530000.0       395508000.0       312810000.0
+Total Unusual Items                                                  24000.0        -3019000.0         7018000.0        -7018000.0
+Total Unusual Items Excluding Goodwill                               24000.0        -3019000.0         7018000.0        -7018000.0
+Net Income From Continuing Operation Net Minority Interest       200469000.0       253824000.0       319140000.0       249050000.0
+Reconciled Depreciation                                           18718000.0        19335000.0        19656000.0        19041000.0
+Reconciled Cost Of Revenue                                      7118646000.0      8783976000.0     10196216000.0      6686003000.0
+EBITDA                                                           285230000.0       326511000.0       402526000.0       305792000.0
+EBIT                                                             266512000.0       307176000.0       382870000.0       286751000.0
+Net Interest Income                                               -9228000.0       -14124000.0        -9166000.0        -4082000.0
+Interest Expense                                                  37428000.0        21059000.0        12691000.0        11291000.0
+Interest Income                                                   28200000.0         6935000.0         3525000.0         7209000.0
+Normalized Income                                           200447997.852316  256502256.293754  313089617.563395  255395142.307413
+Net Income From Continuing And Discontinued Operation            200469000.0       253824000.0       319140000.0       249050000.0
+Total Expenses                                                  7339064000.0      9021755000.0     10431847000.0      6913848000.0
+Diluted Average Shares                                                   NaN       182048000.0       182011000.0       182092000.0
+Basic Average Shares                                                     NaN       181830000.0       181830000.0       181830000.0
+Diluted EPS                                                              NaN              1.39              1.75              1.37
+Basic EPS                                                                NaN               1.4              1.76              1.37
+Diluted NI Availto Com Stockholders                              200469000.0       253824000.0       319140000.0       249050000.0
+Net Income Common Stockholders                                   200469000.0       253824000.0       319140000.0       249050000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       200469000.0       253824000.0       319140000.0       249050000.0
+Minority Interests                                                       0.0               0.0               0.0               0.0
+Net Income Including Noncontrolling Interests                    200469000.0       253824000.0       319140000.0       249050000.0
+Net Income Continuous Operations                                 200469000.0       253824000.0       319140000.0       249050000.0
+Tax Provision                                                     28615000.0        32293000.0        51039000.0        26410000.0
+Pretax Income                                                    229084000.0       286117000.0       370179000.0       275460000.0
+Other Non Operating Income Expenses                               79632000.0       114209000.0       133835000.0       127888000.0
+Special Income Charges                                               24000.0        -3019000.0         7018000.0        -7018000.0
+Write Off                                                           -24000.0         3019000.0        -7018000.0         7018000.0
+Net Non Operating Interest Income Expense                         -9228000.0       -14124000.0        -9166000.0        -4082000.0
+Interest Expense Non Operating                                    37428000.0        21059000.0        12691000.0        11291000.0
+Interest Income Non Operating                                     28200000.0         6935000.0         3525000.0         7209000.0
+Operating Income                                                 158656000.0       189051000.0       238492000.0       158672000.0
+Operating Expense                                                220418000.0       237779000.0       235631000.0       227845000.0
+Selling General And Administration                               220418000.0       237779000.0       235631000.0       227845000.0
+Selling And Marketing Expense                                    122465000.0       133838000.0       125303000.0       122237000.0
+General And Administrative Expense                                97953000.0       103941000.0       110328000.0       105608000.0
+Gross Profit                                                     379074000.0       426830000.0       474123000.0       386517000.0
+Cost Of Revenue                                                 7118646000.0      8783976000.0     10196216000.0      6686003000.0
+Total Revenue                                                   7497720000.0      9210806000.0     10670339000.0      7072520000.0
+Operating Revenue                                               7497720000.0      9210806000.0     10670339000.0      7072520000.0

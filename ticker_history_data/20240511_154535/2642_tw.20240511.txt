@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 2, Chongqing South Road
+address2	5th Floor Section 1
+city	Taipei
+country	Taiwan
+phone	886 2 2389 2999
+website	https://www.e-can.com.tw
+industry	Integrated Freight & Logistics
+industryKey	integrated-freight-logistics
+industryDisp	Integrated Freight & Logistics
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Taiwan Pelican Express Co., Ltd. provides trucking and door-to-door home delivery services in Taiwan. It offers C2C, B2C, and C2B home-delivery services. The company also provides warehousing and logistics, and tally and packaging services. Taiwan Pelican Express Co., Ltd. was founded in 1999 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ching-Yi  Hsu', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hau-Ting  Liau', 'title': 'Principal Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yen Hsi  Chen', 'title': 'Principal Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Cheng-Hsiung  Chou', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	37.75
+open	37.8
+dayLow	37.75
+dayHigh	38.1
+regularMarketPreviousClose	37.75
+regularMarketOpen	37.8
+regularMarketDayLow	37.75
+regularMarketDayHigh	38.1
+dividendRate	1.5
+dividendYield	0.0395
+exDividendDate	1686096000	 (2023-06-07 08:00:00)
+payoutRatio	1.5152
+fiveYearAvgDividendYield	2.76
+beta	0.681
+trailingPE	38.38384
+forwardPE	52.777775
+volume	106674
+regularMarketVolume	106674
+averageVolume	83399
+averageVolume10days	50549
+averageDailyVolume10Day	50549
+bid	37.95
+ask	38.0
+marketCap	3627746048
+fiftyTwoWeekLow	37.0
+fiftyTwoWeekHigh	46.4
+priceToSalesTrailing12Months	0.8661286
+fiftyDayAverage	37.857
+twoHundredDayAverage	39.76475
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.021192053
+currency	TWD
+enterpriseValue	3966988032
+profitMargins	0.02256
+sharesOutstanding	95467000
+heldPercentInsiders	0.61180997
+heldPercentInstitutions	0.00090000004
+impliedSharesOutstanding	95595296
+bookValue	23.307
+priceToBook	1.6304115
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.516
+netIncomeToCommon	94496000
+trailingEps	0.99
+forwardEps	0.72
+enterpriseToRevenue	0.947
+enterpriseToEbitda	18.545
+52WeekChange	-0.14221221
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1686096000	 (2023-06-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2642.TW
+underlyingSymbol	2642.TW
+shortName	TAIWAN PELICAN EXPRESS CO LTD
+longName	Taiwan Pelican Express Co., Ltd.
+firstTradeDateEpochUtc	1363050000	 (2013-03-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b7cf40dd-cd51-39d7-baf9-90121771a696
+messageBoardId	finmb_139760941
+gmtOffSetMilliseconds	28800000
+currentPrice	38.0
+recommendationKey	none
+totalCash	927500032
+totalCashPerShare	9.715
+ebitda	213911008
+totalDebt	1266742016
+quickRatio	1.664
+currentRatio	1.691
+totalRevenue	4188461056
+debtToEquity	56.93
+revenuePerShare	43.873
+returnOnAssets	0.01501
+returnOnEquity	0.042729996
+freeCashflow	148563872
+operatingCashflow	295417984
+earningsGrowth	-0.516
+revenueGrowth	-0.06
+grossMargins	0.13261
+ebitdaMargins	0.051069997
+operatingMargins	0.029930001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     8211.406028      60509.997364     212710.196786    -905092.231672
+Tax Rate For Calcs                                                 0.182476          0.183921          0.188908          0.188679
+Normalized EBITDA                                               444445000.0       547624000.0       574293000.0       528785000.0
+Total Unusual Items                                                 45000.0          329000.0         1126000.0        -4797000.0
+Total Unusual Items Excluding Goodwill                              45000.0          329000.0         1126000.0        -4797000.0
+Net Income From Continuing Operation Net Minority Interest       94496000.0       176442000.0       240501000.0       209015000.0
+Reconciled Depreciation                                         309658000.0       312772000.0       262827000.0       251560000.0
+Reconciled Cost Of Revenue                                     3633035000.0      3836081000.0      3713200000.0      3298106000.0
+EBITDA                                                          444490000.0       547953000.0       575419000.0       523988000.0
+EBIT                                                            134832000.0       235181000.0       312592000.0       272428000.0
+Net Interest Income                                             -11111000.0       -14592000.0       -13406000.0       -11449000.0
+Interest Expense                                                 19244000.0        18974000.0        16077000.0        14805000.0
+Interest Income                                                   8133000.0         4382000.0         2671000.0         3356000.0
+Normalized Income                                           94459211.406028  176173509.997364  239587710.196786  212906907.768328
+Net Income From Continuing And Discontinued Operation            94496000.0       176442000.0       240501000.0       209015000.0
+Total Expenses                                                 4081425000.0      4305850000.0      4182747000.0      3733757000.0
+Diluted Average Shares                                                  NaN        95512000.0        95510000.0        95522000.0
+Basic Average Shares                                                    NaN        95467000.0        95467000.0        95467000.0
+Diluted EPS                                                             NaN              1.85              2.52              2.19
+Basic EPS                                                               NaN              1.85              2.52              2.19
+Diluted NI Availto Com Stockholders                              94496000.0       176442000.0       240501000.0       209015000.0
+Net Income Common Stockholders                                   94496000.0       176442000.0       240501000.0       209015000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                       94496000.0       176442000.0       240501000.0       209015000.0
+Net Income Including Noncontrolling Interests                    94496000.0       176442000.0       240501000.0       209015000.0
+Net Income Continuous Operations                                 94496000.0       176442000.0       240501000.0       209015000.0
+Tax Provision                                                    21092000.0        39765000.0        56014000.0        48608000.0
+Pretax Income                                                   115588000.0       216207000.0       296515000.0       257623000.0
+Other Non Operating Income Expenses                              19618000.0        26614000.0        25405000.0        24317000.0
+Special Income Charges                                              45000.0          329000.0         1126000.0        -4797000.0
+Write Off                                                          -45000.0         -329000.0        -1126000.0         4797000.0
+Net Non Operating Interest Income Expense                       -11111000.0       -14592000.0       -13406000.0       -11449000.0
+Interest Expense Non Operating                                   19244000.0        18974000.0        16077000.0        14805000.0
+Interest Income Non Operating                                     8133000.0         4382000.0         2671000.0         3356000.0
+Operating Income                                                107036000.0       203856000.0       283390000.0       249552000.0
+Operating Expense                                               448390000.0       469769000.0       469547000.0       435651000.0
+Selling General And Administration                              448390000.0       469769000.0       469547000.0       435651000.0
+Selling And Marketing Expense                                    20189000.0        26878000.0        29714000.0        21828000.0
+General And Administrative Expense                              428201000.0       442891000.0       439833000.0       413823000.0
+Gross Profit                                                    555426000.0       673625000.0       752937000.0       685203000.0
+Cost Of Revenue                                                3633035000.0      3836081000.0      3713200000.0      3298106000.0
+Total Revenue                                                  4188461000.0      4509706000.0      4466137000.0      3983309000.0
+Operating Revenue                                              4188461000.0      4509706000.0      4466137000.0      3983309000.0

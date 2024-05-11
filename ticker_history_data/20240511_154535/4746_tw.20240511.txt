@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 36, Hoping Street
+address2	Louchu
+city	Taoyuan
+zip	33842
+country	Taiwan
+phone	886 3 324 0895
+fax	886 3 324 0945
+website	https://www.formosalab.com
+industry	Drug Manufacturers - Specialty & Generic
+industryKey	drug-manufacturers-specialty-generic
+industryDisp	Drug Manufacturers - Specialty & Generic
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Formosa Laboratories, Inc., together with its subsidiaries, engages in the manufacture and sale of active pharmaceutical ingredients (APIs) and ultraviolet absorbers worldwide. It offers APIs in the areas of anticancer, anti-inflammatory and analgesic agents, MRI enhancing agents, cholesterol and phosphate binders, CNS agents, immunomodulators, respiratory agents, steroids, vitamin D derivatives, antibiotics, potassium binders, and other areas. The company also provides contract development and manufacturing services; solutions for manufacturing antibody-drug conjugates; and injectable manufacturing services. In addition, it is involved in chemical trading; investment; and wholesale of chemical raw materials and products, as well as commission agency activities. Formosa Laboratories, Inc. was incorporated in 1985 and is headquartered in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Chen-Yu  Cheng Ph.D.', 'title': 'President & Chairman of the Board', 'fiscalYear': 2022, 'totalPay': 7943000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chih-Ping  Yang', 'title': 'Chief Executive Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Michelle  Lo', 'title': 'Vice President of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Chien Hsing Lin', 'title': 'Vice President of Legal & Strategy Planning Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. S. J. Liou B.S.', 'title': 'Vice President of Marketing and Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xian-Gui  Huang', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yih-Huang  Hsieh', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ling-Fang  Yang', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chien-Fei  Lin', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	94.6
+open	95.5
+dayLow	90.0
+dayHigh	95.6
+regularMarketPreviousClose	94.6
+regularMarketOpen	95.5
+regularMarketDayLow	90.0
+regularMarketDayHigh	95.6
+dividendRate	1.0
+dividendYield	0.0109
+exDividendDate	1692835200	 (2023-08-24 08:00:00)
+payoutRatio	2.1739
+fiveYearAvgDividendYield	3.06
+beta	0.801
+trailingPE	200.0
+forwardPE	10.454545
+volume	2839462
+regularMarketVolume	2839462
+averageVolume	2757461
+averageVolume10days	1593001
+averageDailyVolume10Day	1593001
+bid	91.9
+ask	92.0
+marketCap	11063552000
+fiftyTwoWeekLow	78.0
+fiftyTwoWeekHigh	121.0
+priceToSalesTrailing12Months	2.5372512
+fiftyDayAverage	103.952
+twoHundredDayAverage	97.7105
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.02114165
+currency	TWD
+enterpriseValue	13255701504
+profitMargins	0.02895
+floatShares	97143999
+sharesOutstanding	120256000
+heldPercentInsiders	0.16257
+heldPercentInstitutions	0.13909
+impliedSharesOutstanding	123058000
+bookValue	62.957
+priceToBook	1.4613148
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.44
+netIncomeToCommon	126243000
+trailingEps	0.46
+forwardEps	8.8
+enterpriseToRevenue	3.04
+enterpriseToEbitda	11.758
+52WeekChange	0.06358385
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1692835200	 (2023-08-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4746.TW
+underlyingSymbol	4746.TW
+shortName	FORMOSA LABORATORIES INC
+longName	Formosa Laboratories, Inc.
+firstTradeDateEpochUtc	1298854800	 (2011-02-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	786f9380-4564-33ac-b179-ffc1bf751802
+messageBoardId	finmb_32561507
+gmtOffSetMilliseconds	28800000
+currentPrice	92.0
+targetHighPrice	145.0
+targetLowPrice	130.0
+targetMeanPrice	137.5
+targetMedianPrice	137.5
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	2
+totalCash	2510488064
+totalCashPerShare	20.876
+ebitda	1127352960
+totalDebt	4063388928
+quickRatio	1.091
+currentRatio	1.618
+totalRevenue	4360448000
+debtToEquity	49.492
+revenuePerShare	36.26
+returnOnAssets	0.03197
+returnOnEquity	-0.00653
+freeCashflow	372072992
+operatingCashflow	826600000
+earningsGrowth	-0.439
+revenueGrowth	0.135
+grossMargins	0.44109002
+ebitdaMargins	0.25854
+operatingMargins	0.19408001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    5292600.0   -9901180.163335      561346.557232   -2721693.837771
+Tax Rate For Calcs                                                   0.2          0.349273           0.040466          0.088574
+Normalized EBITDA                                            638992000.0       851763000.0       1576704000.0       870227000.0
+Total Unusual Items                                           26463000.0       -28348000.0         13872000.0       -30728000.0
+Total Unusual Items Excluding Goodwill                        26463000.0       -28348000.0         13872000.0       -30728000.0
+Net Income From Continuing Operation Net Minority Interest   126243000.0       409359000.0       1249096000.0       400034000.0
+Reconciled Depreciation                                      488329000.0       470915000.0        474999000.0       449811000.0
+Reconciled Cost Of Revenue                                  2437119000.0      2375312000.0       2170962000.0      2130287000.0
+EBITDA                                                       665455000.0       823415000.0       1590576000.0       839499000.0
+EBIT                                                         177126000.0       352500000.0       1115577000.0       389688000.0
+Net Interest Income                                          -11027000.0       -17175000.0        -27694000.0       -27453000.0
+Interest Expense                                              34735000.0        19319000.0         28051000.0        28520000.0
+Interest Income                                               23708000.0         2144000.0           357000.0         1067000.0
+Normalized Income                                            105072600.0  427805819.836665  1235785346.557232  428040306.162229
+Net Income From Continuing And Discontinued Operation        126243000.0       409359000.0       1249096000.0       400034000.0
+Total Expenses                                              3711936000.0      3573667000.0       3324295000.0      3016716000.0
+Diluted Average Shares                                       120491000.0       120884000.0        121497000.0       118199000.0
+Basic Average Shares                                         120256000.0       120256000.0        114356000.0       105659000.0
+Diluted EPS                                                         1.05              3.39              10.32              3.46
+Basic EPS                                                           1.05               3.4              10.92              3.78
+Diluted NI Availto Com Stockholders                          126243000.0       409359000.0       1249096000.0       400034000.0
+Net Income Common Stockholders                               126243000.0       409359000.0       1249096000.0       400034000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0                0.0               0.0
+Net Income                                                   126243000.0       409359000.0       1249096000.0       400034000.0
+Minority Interests                                           178502000.0       192549000.0        205578000.0        70856000.0
+Net Income Including Noncontrolling Interests                -52259000.0       216810000.0       1043518000.0       329178000.0
+Net Income Continuous Operations                             -52259000.0       216810000.0       1043518000.0       329178000.0
+Tax Provision                                                194650000.0       116371000.0         44008000.0        31990000.0
+Pretax Income                                                142391000.0       333181000.0       1087526000.0       361168000.0
+Other Non Operating Income Expenses                         -527119000.0       179280000.0       1274065000.0       360330000.0
+Special Income Charges                                        26463000.0       -28348000.0         13872000.0       -30728000.0
+Write Off                                                    -26463000.0        28348000.0        -13872000.0        30728000.0
+Net Non Operating Interest Income Expense                    -11027000.0       -17175000.0        -27694000.0       -27453000.0
+Interest Expense Non Operating                                34735000.0        19319000.0         28051000.0        28520000.0
+Interest Income Non Operating                                 23708000.0         2144000.0           357000.0         1067000.0
+Operating Income                                             648512000.0       191837000.0       -181889000.0        58741000.0
+Operating Expense                                           1274817000.0      1198355000.0       1153333000.0       886429000.0
+Research And Development                                     841872000.0       777016000.0        700198000.0       548184000.0
+Selling General And Administration                           432945000.0       421339000.0        453135000.0       338245000.0
+Selling And Marketing Expense                                187772000.0       187120000.0        170921000.0       135204000.0
+General And Administrative Expense                           245173000.0       234219000.0        282214000.0       203041000.0
+Gross Profit                                                1923329000.0      1390192000.0        971444000.0       945170000.0
+Cost Of Revenue                                             2437119000.0      2375312000.0       2170962000.0      2130287000.0
+Total Revenue                                               4360448000.0      3765504000.0       3142406000.0      3075457000.0
+Operating Revenue                                           4360448000.0      3765504000.0       3142406000.0      3075457000.0

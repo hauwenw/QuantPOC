@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 406, Xinhu 1st Road
+address2	Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 2791 8296
+fax	886 2 8791 8216
+website	https://voltronicpower.com
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Voltronic Power Technology Corp., together with its subsidiaries, engages in the design, manufacture, and sale of uninterruptible power systems (UPS) in Taiwan and China. It provides DC and standby, line interactive, lithium, and online UPS products; PV inverters, such as off-grid inverters, on-grid with energy-storage inverters, solar charge controllers, application-specific products, solar accessories, AVR, and various other inverters; and energy storage systems, variable frequency drives, and EV chargers. The company is also involved in the investment activities. Voltronic Power Technology Corp. was incorporated in 2008 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chuo-Ming  Hsieh', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wang  Chiehmin', 'title': 'Finance Officer & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Hua  Yang', 'title': 'Division Chief of Audit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Ju  Chen', 'title': 'Chief Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yvonne  Chen', 'title': 'Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	1515.0
+open	1515.0
+dayLow	1515.0
+dayHigh	1600.0
+regularMarketPreviousClose	1515.0
+regularMarketOpen	1515.0
+regularMarketDayLow	1515.0
+regularMarketDayHigh	1600.0
+dividendRate	43.51
+dividendYield	0.0274
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	1.0626999
+fiveYearAvgDividendYield	2.75
+beta	1.005
+trailingPE	38.91336
+forwardPE	31.139835
+volume	208357
+regularMarketVolume	208357
+averageVolume	180829
+averageVolume10days	178347
+averageDailyVolume10Day	178347
+bid	1590.0
+ask	1595.0
+marketCap	139490705408
+fiftyTwoWeekLow	1270.0
+fiftyTwoWeekHigh	2125.0
+priceToSalesTrailing12Months	7.36066
+fiftyDayAverage	1601.3
+twoHundredDayAverage	1546.425
+currency	TWD
+enterpriseValue	135517249536
+profitMargins	0.19116
+floatShares	70627037
+sharesOutstanding	87730000
+heldPercentInsiders	0.23573999
+heldPercentInstitutions	0.40182
+impliedSharesOutstanding	88607296
+bookValue	95.267
+priceToBook	16.689936
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.193
+netIncomeToCommon	3622555904
+trailingEps	40.86
+forwardEps	51.06
+pegRatio	2.14
+lastSplitFactor	1050.017:1000
+lastSplitDate	1600214400	 (2020-09-16 08:00:00)
+enterpriseToRevenue	7.151
+enterpriseToEbitda	30.903
+52WeekChange	-0.07017541
+SandP52WeekChange	0.26265144
+lastDividendValue	43.508923
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6409.TW
+underlyingSymbol	6409.TW
+shortName	VOLTRONIC POWER TECHNOLOGY CORP
+longName	Voltronic Power Technology Corp.
+firstTradeDateEpochUtc	1363050000	 (2013-03-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9c76ff5b-0acf-31e0-8b29-9f0245a65602
+messageBoardId	finmb_224341039
+gmtOffSetMilliseconds	28800000
+currentPrice	1590.0
+targetHighPrice	1990.0
+targetLowPrice	1600.0
+targetMeanPrice	1796.67
+targetMedianPrice	1800.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	5044706816
+totalCashPerShare	57.503
+ebitda	4385180160
+totalDebt	1071256000
+quickRatio	1.497
+currentRatio	1.761
+totalRevenue	18950842368
+debtToEquity	12.817
+revenuePerShare	217.189
+returnOnAssets	0.16770001
+returnOnEquity	0.43381
+freeCashflow	2778994176
+operatingCashflow	4083248128
+earningsGrowth	-0.197
+revenueGrowth	-0.194
+grossMargins	0.31494
+ebitdaMargins	0.2314
+operatingMargins	0.20432
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -1073387.889644      699912.326073    -2333093.709209     -795346.761017
+Tax Rate For Calcs                                                   0.173379           0.179557           0.183752           0.170749
+Normalized EBITDA                                                4813714000.0       5800155000.0       3243508000.0       2933877000.0
+Total Unusual Items                                                -6191000.0          3898000.0        -12697000.0         -4658000.0
+Total Unusual Items Excluding Goodwill                             -6191000.0          3898000.0        -12697000.0         -4658000.0
+Net Income From Continuing Operation Net Minority Interest       3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Reconciled Depreciation                                           361890000.0        326805000.0        299215000.0        238121000.0
+Reconciled Cost Of Revenue                                      12982371000.0      15587926000.0      12645691000.0       9634383000.0
+EBITDA                                                           4807523000.0       5804053000.0       3230811000.0       2929219000.0
+EBIT                                                             4445633000.0       5477248000.0       2931596000.0       2691098000.0
+Net Interest Income                                                82775000.0         -6604000.0         30577000.0         19129000.0
+Interest Expense                                                   63268000.0         74205000.0         41101000.0         41547000.0
+Interest Income                                                   146043000.0         67601000.0         71678000.0         60676000.0
+Normalized Income                                           3627673612.110356  4429691912.326073  2369725906.290791  2201006653.238983
+Net Income From Continuing And Discontinued Operation            3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Total Expenses                                                  14807038000.0      17440727000.0      14019421000.0      10917432000.0
+Diluted Average Shares                                             87699000.0         87421000.0         87485000.0         87410000.0
+Basic Average Shares                                               87255000.0         87098000.0         86955000.0         86795000.0
+Diluted EPS                                                             41.31              50.71              26.97              25.14
+Basic EPS                                                               41.52               50.9              27.13              25.31
+Diluted NI Availto Com Stockholders                              3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Net Income Common Stockholders                                   3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Net Income Including Noncontrolling Interests                    3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Net Income Continuous Operations                                 3622556000.0       4432890000.0       2359362000.0       2197144000.0
+Tax Provision                                                     759809000.0        970153000.0        531133000.0        452407000.0
+Pretax Income                                                    4382365000.0       5403043000.0       2890495000.0       2649551000.0
+Other Non Operating Income Expenses                               161976000.0        121880000.0        -64646000.0       -100052000.0
+Special Income Charges                                             -6191000.0          3898000.0        -12697000.0         -4658000.0
+Write Off                                                           6191000.0         -3898000.0         12697000.0          4658000.0
+Net Non Operating Interest Income Expense                          82775000.0         -6604000.0         30577000.0         19129000.0
+Interest Expense Non Operating                                     63268000.0         74205000.0         41101000.0         41547000.0
+Interest Income Non Operating                                     146043000.0         67601000.0         71678000.0         60676000.0
+Operating Income                                                 4143805000.0       5283869000.0       2937261000.0       2735132000.0
+Operating Expense                                                1824667000.0       1852801000.0       1373730000.0       1283049000.0
+Research And Development                                          933367000.0        905917000.0        601138000.0        574437000.0
+Selling General And Administration                                891300000.0        946884000.0        772592000.0        708612000.0
+Selling And Marketing Expense                                     372487000.0        433954000.0        387264000.0        351222000.0
+General And Administrative Expense                                518813000.0        512930000.0        385328000.0        357390000.0
+Gross Profit                                                     5968472000.0       7136670000.0       4310991000.0       4018181000.0
+Cost Of Revenue                                                 12982371000.0      15587926000.0      12645691000.0       9634383000.0
+Total Revenue                                                   18950843000.0      22724596000.0      16956682000.0      13652564000.0
+Operating Revenue                                               18950843000.0      22724596000.0      16956682000.0      13652564000.0

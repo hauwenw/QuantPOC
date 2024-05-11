@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 436, Pei-Shing Road
+address2	Section 1 Chu-Tung
+city	Hsinchu City
+country	Taiwan
+phone	886 3 595 9213
+fax	886 3 594 4495
+website	https://www.sigurd.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Sigurd Microelectronics Corporation, together with its subsidiaries, engages in the design, processing, testing, burn-in treatment, manufacture, and trading of integrated circuits in Taiwan, Singapore, China, the United States, and internationally. The company provides test services, including wafer sort chip probing, final test, and test engineering services; and testing equipment. It also offers die process services, such as wafer grinding, laser grooving, optional, marking, SAW, tape and reel, and drop shipment. In addition, the company provides backend services, including lead scan, inspection, baking, and packing; and other services, such as system level test and RMA, as well as Burn In Services. It serves semiconductor design companies, integrated device manufacturers, and wafer foundries. The company was incorporated in 1988 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shin-Yang  Huang', 'title': 'Chairman, CEO & President', 'fiscalYear': 2022, 'totalPay': 62792000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsan-Lien  Yeh', 'title': 'Vice Chairman of the Board, GM & COO', 'fiscalYear': 2022, 'totalPay': 43633000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Min-Hung  Wu', 'title': 'CFO, Executive Vice GM & Director', 'fiscalYear': 2022, 'totalPay': 25898000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsu-Tung  Kuo', 'title': 'Director, Vice COO, GM of Business Group & Senior EVP', 'fiscalYear': 2022, 'totalPay': 31959000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Chang  Chen', 'title': 'Head of Accounting, Chief of Accounting Department & Controller', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Cheng  Tian', 'title': 'Vice GM and Head of R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuang-Shun  Yang', 'title': 'Senior Vice General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ja-Hung  Hsieh', 'title': 'Senior Vice General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu Hui  Chen', 'title': 'Chief Internal Auditor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chiao-Ling  Kuan', 'title': 'Head of Corporate Governance & Chief of Finance Department', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	77.1
+open	77.5
+dayLow	76.1
+dayHigh	77.9
+regularMarketPreviousClose	77.1
+regularMarketOpen	77.5
+regularMarketDayLow	76.1
+regularMarketDayHigh	77.9
+dividendRate	4.2
+dividendYield	0.0551
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.9032
+fiveYearAvgDividendYield	6.04
+beta	0.601
+trailingPE	16.387096
+forwardPE	12.937181
+volume	3984656
+regularMarketVolume	3984656
+averageVolume	6981148
+averageVolume10days	6604480
+averageDailyVolume10Day	6604480
+bid	76.2
+ask	76.4
+marketCap	34803965952
+fiftyTwoWeekLow	49.95
+fiftyTwoWeekHigh	79.5
+priceToSalesTrailing12Months	2.1719358
+fiftyDayAverage	71.952
+twoHundredDayAverage	63.9585
+trailingAnnualDividendRate	2.68
+trailingAnnualDividendYield	0.034760054
+currency	TWD
+enterpriseValue	36766752768
+profitMargins	0.14077
+floatShares	406443452
+sharesOutstanding	456744992
+heldPercentInsiders	0.08517
+heldPercentInstitutions	0.20368
+impliedSharesOutstanding	456744992
+bookValue	37.562
+priceToBook	2.028646
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	2.295
+netIncomeToCommon	2255686912
+trailingEps	4.65
+forwardEps	5.89
+lastSplitFactor	105.0881:100
+lastSplitDate	1218672000	 (2008-08-14 08:00:00)
+enterpriseToRevenue	2.294
+enterpriseToEbitda	5.634
+52WeekChange	0.44318187
+SandP52WeekChange	0.26265144
+lastDividendValue	4.2
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6257.TW
+underlyingSymbol	6257.TW
+shortName	SIGURD MICROELECTRONICS CORP
+longName	Sigurd Microelectronics Corporation
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	774aebc6-00f1-3474-8009-03aae0e71727
+messageBoardId	finmb_9754579
+gmtOffSetMilliseconds	28800000
+currentPrice	76.2
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	13828018176
+totalCashPerShare	30.101
+ebitda	6525412864
+totalDebt	12773183488
+quickRatio	1.951
+currentRatio	2.07
+totalRevenue	16024398848
+debtToEquity	63.637
+revenuePerShare	35.113
+returnOnAssets	0.03758
+returnOnEquity	0.14291
+freeCashflow	2010484480
+operatingCashflow	6761349120
+earningsGrowth	2.253
+revenueGrowth	0.151
+grossMargins	0.23923999
+ebitdaMargins	0.40722
+operatingMargins	0.14193
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                   -1502894.236756     -119154.109413            0.0            0.0
+Tax Rate For Calcs                                                   0.169417           0.206149       0.171061       0.154477
+Normalized EBITDA                                                7307599000.0       9193877000.0   7858024000.0   5326495000.0
+Total Unusual Items                                                -8871000.0          -578000.0            0.0            0.0
+Total Unusual Items Excluding Goodwill                             -8871000.0          -578000.0            0.0            0.0
+Net Income From Continuing Operation Net Minority Interest       1737319000.0       3033285000.0   2787446000.0   1783299000.0
+Reconciled Depreciation                                          4460673000.0       4554998000.0   4030007000.0   2928359000.0
+Reconciled Cost Of Revenue                                      11900735000.0      13165811000.0  11732806000.0   8819196000.0
+EBITDA                                                           7298728000.0       9193299000.0   7858024000.0   5326495000.0
+EBIT                                                             2838055000.0       4638301000.0   3828017000.0   2398136000.0
+Net Interest Income                                               110927000.0       -103644000.0   -134275000.0    -66796000.0
+Interest Expense                                                  263342000.0        211842000.0    165205000.0    119560000.0
+Interest Income                                                   374269000.0        108198000.0     30930000.0     52764000.0
+Normalized Income                                           1744687105.763244  3033743845.890587   2787446000.0   1783299000.0
+Net Income From Continuing And Discontinued Operation            1737319000.0       3033285000.0   2787446000.0   1783299000.0
+Total Expenses                                                  13392425000.0      14867085000.0  13240867000.0  10089804000.0
+Diluted Average Shares                                            483932869.0        488451691.0    469758000.0    463556000.0
+Basic Average Shares                                              457189211.0        454084581.0    446115000.0    422912000.0
+Diluted EPS                                                              3.59               6.21           5.95           3.87
+Basic EPS                                                                 3.8               6.68           6.25           4.22
+Diluted NI Availto Com Stockholders                              1737319000.0       3033285000.0   2787446000.0   1783299000.0
+Net Income Common Stockholders                                   1737319000.0       3033285000.0   2787446000.0   1783299000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0            0.0            0.0
+Net Income                                                       1737319000.0       3033285000.0   2787446000.0   1783299000.0
+Minority Interests                                               -401195000.0       -480664000.0   -248802000.0   -143290000.0
+Net Income Including Noncontrolling Interests                    2138514000.0       3513949000.0   3036248000.0   1926589000.0
+Net Income Continuous Operations                                 2138514000.0       3513949000.0   3036248000.0   1926589000.0
+Tax Provision                                                     436199000.0        912510000.0    626564000.0    351987000.0
+Pretax Income                                                    2574713000.0       4426459000.0   3662812000.0   2278576000.0
+Other Non Operating Income Expenses                               385581000.0        703421000.0    356690000.0      6627000.0
+Special Income Charges                                             -8871000.0          -578000.0            0.0            0.0
+Write Off                                                           8871000.0           578000.0            0.0            0.0
+Net Non Operating Interest Income Expense                         110927000.0       -103644000.0   -134275000.0    -66796000.0
+Interest Expense Non Operating                                    263342000.0        211842000.0    165205000.0    119560000.0
+Interest Income Non Operating                                     374269000.0        108198000.0     30930000.0     52764000.0
+Operating Income                                                 2087076000.0       3827260000.0   3440397000.0   2338745000.0
+Operating Expense                                                1491690000.0       1701274000.0   1508061000.0   1270608000.0
+Research And Development                                          391863000.0        423867000.0    416714000.0    422555000.0
+Selling General And Administration                               1099827000.0       1277407000.0   1091347000.0    848053000.0
+Selling And Marketing Expense                                     200729000.0        234386000.0    218888000.0    176411000.0
+General And Administrative Expense                                899098000.0       1043021000.0    872459000.0    671642000.0
+Gross Profit                                                     3578766000.0       5528534000.0   4948458000.0   3609353000.0
+Cost Of Revenue                                                 11900735000.0      13165811000.0  11732806000.0   8819196000.0
+Total Revenue                                                   15479501000.0      18694345000.0  16681264000.0  12428549000.0
+Operating Revenue                                               15479501000.0      18694345000.0  16681264000.0  12428549000.0

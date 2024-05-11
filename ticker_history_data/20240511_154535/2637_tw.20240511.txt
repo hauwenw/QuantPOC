@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 237, Fushing S. Road
+address2	7th Floor, Room. 711 Sec.2
+city	Taipei
+zip	10667
+country	Taiwan
+phone	886 2 2755 2637
+fax	886 2 8192 6089
+website	https://www.wisdomlines.com.tw
+industry	Marine Shipping
+industryKey	marine-shipping
+industryDisp	Marine Shipping
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Wisdom Marine Lines Co., Limited (Cayman), together with its subsidiaries, primarily provides marine cargo transportation services in the Netherlands, Japan, Singapore, Denmark, Germany, and internationally. It also offers vessel management and maintenance, vessel chartering, vessel leasing, and shipping agency and management services. The company acquires, operates, and manages dry bulk vessels with a focus on the handysize sector. It operates a fleet of 134 vessels that include bulk carriers, log carriers, tween-deckrs, multi-purpose vessels, RORO ships, and container ships of various sizes. The company was founded in 1999 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chun-Sheng  Lan', 'age': 72, 'title': 'Founder, President & Chairman', 'yearBorn': 1951, 'fiscalYear': 2020, 'totalPay': 5436000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bruce  Hsueh', 'title': 'CFO & Company Secretary', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bryan  Chang', 'title': 'Assistant Vice President of Business & Operation Department', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shuang-Chau  Tsaur', 'title': 'Chief Technical Officer', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	70.6
+open	71.2
+dayLow	69.2
+dayHigh	74.1
+regularMarketPreviousClose	70.6
+regularMarketOpen	71.2
+regularMarketDayLow	69.2
+regularMarketDayHigh	74.1
+dividendRate	6.5
+dividendYield	0.088999994
+exDividendDate	1685404800	 (2023-05-30 08:00:00)
+payoutRatio	1.6345
+fiveYearAvgDividendYield	6.73
+beta	0.977
+trailingPE	17.380953
+forwardPE	9.878214
+volume	25640051
+regularMarketVolume	25640051
+averageVolume	8013809
+averageVolume10days	11986031
+averageDailyVolume10Day	11986031
+bid	73.0
+ask	73.1
+marketCap	54487859200
+fiftyTwoWeekLow	41.4
+fiftyTwoWeekHigh	78.4
+priceToSalesTrailing12Months	99.88054
+fiftyDayAverage	63.442
+twoHundredDayAverage	52.21875
+currency	TWD
+enterpriseValue	55694094336
+profitMargins	0.19240999
+floatShares	382221121
+sharesOutstanding	746409024
+heldPercentInsiders	0.47255
+heldPercentInstitutions	0.080579996
+impliedSharesOutstanding	746409024
+bookValue	1.963
+priceToBook	37.187977
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.49
+netIncomeToCommon	104966720
+trailingEps	4.2
+forwardEps	7.39
+lastSplitFactor	1023.629:1000
+lastSplitDate	1593993600	 (2020-07-06 08:00:00)
+enterpriseToRevenue	102.092
+enterpriseToEbitda	233.806
+52WeekChange	0.16427433
+SandP52WeekChange	0.26265144
+lastDividendValue	6.5
+lastDividendDate	1685404800	 (2023-05-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2637.TW
+underlyingSymbol	2637.TW
+shortName	WISDOM MARINE LINES CO LIMITED
+longName	Wisdom Marine Lines Co., Limited (Cayman)
+firstTradeDateEpochUtc	1291165200	 (2010-12-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0409410e-c865-3765-9c8c-5e14c3f47ab8
+messageBoardId	finmb_62287114
+gmtOffSetMilliseconds	28800000
+currentPrice	73.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	125387928
+totalCashPerShare	0.168
+ebitda	238206912
+totalDebt	1331627264
+quickRatio	0.368
+currentRatio	0.592
+totalRevenue	545530304
+debtToEquity	90.87
+revenuePerShare	0.731
+returnOnAssets	0.02355
+returnOnEquity	0.07001
+freeCashflow	-22300648
+operatingCashflow	206294224
+earningsGrowth	0.463
+revenueGrowth	-0.062
+grossMargins	0.21430999
+ebitdaMargins	0.43665
+operatingMargins	0.31165
+financialCurrency	USD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2022-12-31        2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                     -5539.838695    -165386.837215   216247.83732
+Tax Rate For Calcs                                                  0.001859           0.00202       0.124506
+Normalized EBITDA                                                556135031.0       563575455.0    196011974.0
+Total Unusual Items                                               -2980551.0       -81859918.0      1736844.0
+Total Unusual Items Excluding Goodwill                            -2980551.0       -81859918.0      1736844.0
+Net Income From Continuing Operation Net Minority Interest       354580639.0       295119049.0      3780602.0
+Reconciled Depreciation                                          154055886.0       153392056.0    150761056.0
+Reconciled Cost Of Revenue                                       442945442.0       383644757.0    348903801.0
+EBITDA                                                           553154480.0       481715537.0    197748818.0
+EBIT                                                             399098594.0       328323481.0     46987762.0
+Net Interest Income                                              -40189160.0       -32365570.0    -42018848.0
+Interest Expense                                                  43857682.0        32606977.0     42669511.0
+Interest Income                                                    3668522.0          241407.0       650663.0
+Normalized Income                                           357555650.161305  376813580.162785  2260005.83732
+Net Income From Continuing And Discontinued Operation            354580639.0       295119049.0      3780602.0
+Total Expenses                                                   450983747.0       390588276.0    354306581.0
+Rent Expense Supplemental                                         51436688.0        40726635.0     27885927.0
+Total Operating Income As Reported                               384827037.0       295576904.0     50831972.0
+Diluted Average Shares                                           746409199.0       746409199.0    729348722.0
+Basic Average Shares                                             746409199.0       746409199.0    729329679.0
+Diluted EPS                                                             0.48               0.4       0.004054
+Basic EPS                                                               0.48               0.4           0.01
+Diluted NI Availto Com Stockholders                              354580639.0       295119049.0      2956739.0
+Average Dilution Earnings                                                NaN       295119049.0      -823863.0
+Net Income Common Stockholders                                   354580639.0       295119049.0      3780602.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0            0.0
+Net Income                                                       354580639.0       295119049.0      3780602.0
+Net Income Including Noncontrolling Interests                    354580639.0       295119049.0      3780602.0
+Net Income Continuous Operations                                 354580639.0       295119049.0      3780602.0
+Tax Provision                                                       660273.0          597455.0       537649.0
+Pretax Income                                                    355240912.0       295716504.0      4318251.0
+Other Non Operating Income Expenses                                1619824.0       109235185.0     -1932184.0
+Special Income Charges                                            -2927994.0       -81859918.0        -8018.0
+Other Special Charges                                              -510220.0         2359918.0         8018.0
+Impairment Of Capital Assets                                       3438214.0        79500000.0            0.0
+Net Non Operating Interest Income Expense                        -40189160.0       -32365570.0    -42018848.0
+Interest Expense Non Operating                                    43857682.0        32606977.0     42669511.0
+Interest Income Non Operating                                      3668522.0          241407.0       650663.0
+Operating Income                                                 384827037.0       295576904.0     50831972.0
+Operating Expense                                                  8038305.0         6943519.0      5402780.0
+Other Operating Expenses                                           1215159.0          439124.0       210445.0
+Selling General And Administration                                 6823146.0         6504395.0      5192335.0
+General And Administrative Expense                                 6823146.0         6504395.0      5192335.0
+Gross Profit                                                     392865342.0       302520423.0     56234752.0
+Cost Of Revenue                                                  442945442.0       383644757.0    348903801.0
+Total Revenue                                                    835810784.0       686165180.0    405138553.0
+Operating Revenue                                                835810784.0       686165180.0    405138553.0

@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 40, Keji 1st Road
+address2	19, Wenhuali Guishan District
+city	Taoyuan
+zip	333
+country	Taiwan
+phone	886 3 211 5678
+fax	886 3 211 5688
+website	https://www.jentech.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Jentech Precision Industrial Co., Ltd manufactures and sells precision molds worldwide. The company's principal products include thermal heat spreaders, insert molding SMD LED and semiconductor lead frames and injection moldings, EV power module coolers, machining parts, motor core lamination and housing, TV tuner metal chassis products, frame connector and PIN connectors, LCD frame and backlight panels, EMI Shielding cases, RF coaxial connectors, HDD and floppy drive components, and DPC thin-film ceramic substrate components, as well as peripheral device and stamping parts. It also engages in manufacturing, processing, and trading of electrical appliances, electronics, computers, and other metal parts, as well as hardware machinery and its parts; and metal forging and surface treatment related businesses, as well as trading of materials. The company's products are used in medical, consumer electronics, semiconductor, automotive, appliance, micro electronic, and other industries. Jentech Precision Industrial Co., Ltd was founded in 1987 and is headquartered in Taoyuan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Fengchun  Guo', 'title': 'Administrative Office Deputy GM', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	980.0
+open	985.0
+dayLow	932.0
+dayHigh	994.0
+regularMarketPreviousClose	980.0
+regularMarketOpen	985.0
+regularMarketDayLow	932.0
+regularMarketDayHigh	994.0
+dividendRate	11.66
+dividendYield	0.0124
+exDividendDate	1692748800	 (2023-08-23 08:00:00)
+payoutRatio	0.65400004
+fiveYearAvgDividendYield	1.62
+beta	0.467
+trailingPE	52.921352
+forwardPE	40.051018
+volume	1895912
+regularMarketVolume	1895912
+averageVolume	1406049
+averageVolume10days	1406515
+averageDailyVolume10Day	1406515
+bid	941.0
+ask	942.0
+marketCap	132649607168
+fiftyTwoWeekLow	458.0
+fiftyTwoWeekHigh	1035.0
+priceToSalesTrailing12Months	10.99671
+fiftyDayAverage	923.98
+twoHundredDayAverage	726.285
+trailingAnnualDividendRate	10.0
+trailingAnnualDividendYield	0.010204081
+currency	TWD
+enterpriseValue	130172198912
+profitMargins	0.19052
+floatShares	84792836
+sharesOutstanding	140816992
+heldPercentInsiders	0.43035
+heldPercentInstitutions	0.3434
+impliedSharesOutstanding	140972992
+bookValue	81.51
+priceToBook	11.556864
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.311
+netIncomeToCommon	2298193920
+trailingEps	17.8
+forwardEps	23.52
+lastSplitFactor	1099.963:1000
+lastSplitDate	1661990400	 (2022-09-01 08:00:00)
+enterpriseToRevenue	10.791
+enterpriseToEbitda	41.012
+52WeekChange	1.0389609
+SandP52WeekChange	0.26265144
+lastDividendValue	11.660364
+lastDividendDate	1692748800	 (2023-08-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3653.TW
+underlyingSymbol	3653.TW
+shortName	JENTECH PRECISION INDUSTRIAL CO
+longName	Jentech Precision Industrial Co., Ltd
+firstTradeDateEpochUtc	1258506000	 (2009-11-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	831272a9-cfb0-3bf8-a506-da9151bca332
+messageBoardId	finmb_50259850
+gmtOffSetMilliseconds	28800000
+currentPrice	942.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	4155622912
+totalCashPerShare	29.511
+ebitda	3173969920
+totalDebt	818027008
+quickRatio	2.466
+currentRatio	3.379
+totalRevenue	12062663680
+debtToEquity	6.63
+revenuePerShare	87.099
+returnOnAssets	0.10582
+returnOnEquity	0.19755
+freeCashflow	2351907072
+operatingCashflow	3057220096
+earningsGrowth	-0.311
+revenueGrowth	-0.088
+grossMargins	0.33512002
+ebitdaMargins	0.26312
+operatingMargins	0.23798001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0           0.0   27767720.851786
+Tax Rate For Calcs                                               0.191646       0.211483      0.222147          0.174403
+Normalized EBITDA                                            3345365000.0   3876259000.0  2054047000.0      1418438000.0
+Total Unusual Items                                                   NaN            NaN    36731000.0       159216000.0
+Total Unusual Items Excluding Goodwill                                NaN            NaN    36731000.0       159216000.0
+Net Income From Continuing Operation Net Minority Interest   2298194000.0   2614281000.0  1196152000.0      1000200000.0
+Reconciled Depreciation                                       535578000.0    469342000.0   430383000.0       376602000.0
+Reconciled Cost Of Revenue                                   8020245000.0   7706052000.0  6042862000.0      4846641000.0
+EBITDA                                                       3345365000.0   3876259000.0  2054047000.0      1577654000.0
+EBIT                                                         2809787000.0   3406917000.0  1623664000.0      1201052000.0
+Net Interest Income                                            83328000.0    -16499000.0   -25182000.0        -2528000.0
+Interest Expense                                               24242000.0     38198000.0    31922000.0        12866000.0
+Interest Income                                               107570000.0     21699000.0     6740000.0        10338000.0
+Normalized Income                                            2298194000.0   2614281000.0  1196152000.0  868751720.851786
+Net Income From Continuing And Discontinued Operation        2298194000.0   2614281000.0  1196152000.0      1000200000.0
+Total Expenses                                               9385702000.0   8997834000.0  7091132000.0      5726575000.0
+Diluted Average Shares                                                NaN    141468000.0   140657000.0       133706002.0
+Basic Average Shares                                                  NaN    133820000.0   133123000.0       133123022.0
+Diluted EPS                                                           NaN          18.64          8.55           7.48207
+Basic EPS                                                             NaN          19.54          8.99          7.509343
+Diluted NI Availto Com Stockholders                          2298194000.0   2614281000.0  1196152000.0      1000200000.0
+Net Income Common Stockholders                               2298194000.0   2614281000.0  1196152000.0      1000200000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0           0.0               0.0
+Net Income                                                   2298194000.0   2614281000.0  1196152000.0      1000200000.0
+Minority Interests                                             46488000.0    -42011000.0   -41990000.0        19237000.0
+Net Income Including Noncontrolling Interests                2251706000.0   2656292000.0  1238142000.0       980963000.0
+Net Income Continuous Operations                             2251706000.0   2656292000.0  1238142000.0       980963000.0
+Tax Provision                                                 533839000.0    712427000.0   353600000.0       207223000.0
+Pretax Income                                                2785545000.0   3368719000.0  1591742000.0      1188186000.0
+Other Non Operating Income Expenses                            24042000.0    351412000.0   -92564000.0         8994000.0
+Special Income Charges                                                NaN            NaN    17653000.0       162559000.0
+Other Special Charges                                                 NaN            NaN   -17653000.0       -30367000.0
+Restructuring And Mergern Acquisition                                 NaN            NaN           0.0      -132192000.0
+Net Non Operating Interest Income Expense                      83328000.0    -16499000.0   -25182000.0        -2528000.0
+Interest Expense Non Operating                                 24242000.0     38198000.0    31922000.0        12866000.0
+Interest Income Non Operating                                 107570000.0     21699000.0     6740000.0        10338000.0
+Operating Income                                             2676962000.0   3034060000.0  1710017000.0      1118922000.0
+Operating Expense                                            1365457000.0   1291782000.0  1048270000.0       879934000.0
+Research And Development                                      527280000.0    453974000.0   389784000.0       300831000.0
+Selling General And Administration                            838177000.0    837808000.0   658486000.0       579103000.0
+Selling And Marketing Expense                                 195651000.0    213082000.0   155027000.0       154542000.0
+General And Administrative Expense                            642526000.0    624726000.0   503459000.0       424561000.0
+Gross Profit                                                 4042419000.0   4325842000.0  2758287000.0      1998856000.0
+Cost Of Revenue                                              8020245000.0   7706052000.0  6042862000.0      4846641000.0
+Total Revenue                                               12062664000.0  12031894000.0  8801149000.0      6845497000.0
+Operating Revenue                                           12062664000.0  12031894000.0  8801149000.0      6845497000.0

@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 59 Dongxing Road
+address2	6th Floor Xinyi District
+city	Taipei
+zip	110
+country	Taiwan
+phone	886 2 8768 2688
+fax	886 2 8768 2588
+website	https://www.welltend.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Welltend Technology Corporation produces and sells electronic components and wire connectors in Taiwan and internationally. The company offers system integration services, which include information infrastructure, custom software development, and professional IT consulting. It also offers server virtualization, data loss prevention, database upgrade, geography intelligent system, on-site engineers and maintenance service, and web-based workflow services. Welltend Technology Corporation was founded in 1973 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jiaxiang  Lin', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	23.3
+open	24.05
+dayLow	23.75
+dayHigh	24.85
+regularMarketPreviousClose	23.3
+regularMarketOpen	24.05
+regularMarketDayLow	23.75
+regularMarketDayHigh	24.85
+dividendRate	0.7
+dividendYield	0.0294
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	0.5185
+fiveYearAvgDividendYield	3.19
+beta	0.072
+trailingPE	17.666666
+forwardPE	13.947369
+volume	1068386
+regularMarketVolume	1068386
+averageVolume	691275
+averageVolume10days	358296
+averageDailyVolume10Day	358296
+bid	23.8
+ask	23.95
+marketCap	2286976512
+fiftyTwoWeekLow	19.65
+fiftyTwoWeekHigh	29.85
+priceToSalesTrailing12Months	0.7631808
+fiftyDayAverage	22.639
+twoHundredDayAverage	22.16825
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.012875537
+currency	TWD
+enterpriseValue	2198632448
+profitMargins	0.04291
+floatShares	95818083
+sharesOutstanding	95890000
+heldPercentInsiders	0.59406
+impliedSharesOutstanding	97395000
+bookValue	16.004
+priceToBook	1.4902525
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.091
+netIncomeToCommon	128581000
+trailingEps	1.35
+forwardEps	1.71
+lastSplitFactor	1030:1000
+lastSplitDate	1661385600	 (2022-08-25 08:00:00)
+enterpriseToRevenue	0.734
+enterpriseToEbitda	9.383
+52WeekChange	0.13842487
+SandP52WeekChange	0.26265144
+lastDividendValue	0.7
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3021.TW
+underlyingSymbol	3021.TW
+shortName	WELLTEND TECHNOLOGY CORPORATION
+longName	Welltend Technology Corporation
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	14a4ccdc-6c3c-3d1c-b936-938d0b1f29ce
+messageBoardId	finmb_9857955
+gmtOffSetMilliseconds	28800000
+currentPrice	23.85
+recommendationKey	none
+totalCash	829409024
+totalCashPerShare	8.65
+ebitda	234316000
+totalDebt	740862976
+quickRatio	1.286
+currentRatio	1.776
+totalRevenue	2996637952
+debtToEquity	48.269
+revenuePerShare	31.251
+returnOnAssets	0.03785
+returnOnEquity	0.08519
+freeCashflow	387708000
+operatingCashflow	454812992
+earningsGrowth	0.1
+revenueGrowth	-0.132
+grossMargins	0.19042
+ebitdaMargins	0.07819
+operatingMargins	0.07474
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -9204485.778183     -600000.0    -988519.201788   -952510.952637
+Tax Rate For Calcs                                                  0.313227           0.2          0.382406         0.354225
+Normalized EBITDA                                                314023000.0   406353000.0       303899000.0      241300000.0
+Total Unusual Items                                              -29386000.0    -3000000.0        -2585000.0       -2689000.0
+Total Unusual Items Excluding Goodwill                           -29386000.0    -3000000.0        -2585000.0       -2689000.0
+Net Income From Continuing Operation Net Minority Interest       128581000.0   184188000.0       130729000.0       95985000.0
+Reconciled Depreciation                                           84019000.0    80267000.0        80042000.0       81177000.0
+Reconciled Cost Of Revenue                                      2426021000.0  3185291000.0      2690890000.0     2144607000.0
+EBITDA                                                           284637000.0   403353000.0       301314000.0      238611000.0
+EBIT                                                             200618000.0   323086000.0       221272000.0      157434000.0
+Net Interest Income                                               -6884000.0    -8623000.0        -5458000.0       -6190000.0
+Interest Expense                                                  13265000.0    11233000.0         9599000.0        8794000.0
+Interest Income                                                    6381000.0     2610000.0         4141000.0        2604000.0
+Normalized Income                                           148762514.221817   186588000.0  132325480.798212  97721489.047363
+Net Income From Continuing And Discontinued Operation            128581000.0   184188000.0       130729000.0       95985000.0
+Total Expenses                                                  2785107000.0  3611302000.0      3134757000.0     2543780000.0
+Diluted Average Shares                                                   NaN    96300000.0        96020000.0       96656230.0
+Basic Average Shares                                                     NaN    95868000.0        95790000.0       96332810.0
+Diluted EPS                                                              NaN          1.91              1.36         0.990291
+Basic EPS                                                                NaN          1.92              1.36              1.0
+Diluted NI Availto Com Stockholders                              128581000.0   184188000.0       130729000.0       95985000.0
+Net Income Common Stockholders                                   128581000.0   184188000.0       130729000.0       95985000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0              0.0
+Net Income                                                       128581000.0   184188000.0       130729000.0       95985000.0
+Minority Interests                                                  -88000.0       -2000.0            1000.0          -3000.0
+Net Income Including Noncontrolling Interests                    128669000.0   184190000.0       130728000.0       95988000.0
+Net Income Continuous Operations                                 128669000.0   184190000.0       130728000.0       95988000.0
+Tax Provision                                                     58684000.0   127663000.0        80945000.0       52652000.0
+Pretax Income                                                    187353000.0   311853000.0       211673000.0      148640000.0
+Other Non Operating Income Expenses                                8542000.0     2880000.0         7753000.0        8302000.0
+Special Income Charges                                           -29386000.0    -3000000.0        -2585000.0       -2689000.0
+Write Off                                                         29386000.0     3000000.0         2585000.0        2689000.0
+Net Non Operating Interest Income Expense                         -6884000.0    -8623000.0        -5458000.0       -6190000.0
+Interest Expense Non Operating                                    13265000.0    11233000.0         9599000.0        8794000.0
+Interest Income Non Operating                                      6381000.0     2610000.0         4141000.0        2604000.0
+Operating Income                                                 211531000.0   296882000.0       238681000.0      173258000.0
+Operating Expense                                                359086000.0   426011000.0       443867000.0      399173000.0
+Selling General And Administration                               359086000.0   426011000.0       443867000.0      399173000.0
+Selling And Marketing Expense                                    152419000.0   211837000.0       253768000.0      226926000.0
+General And Administrative Expense                               206667000.0   214174000.0       190099000.0      172247000.0
+Gross Profit                                                     570617000.0   722893000.0       682548000.0      572431000.0
+Cost Of Revenue                                                 2426021000.0  3185291000.0      2690890000.0     2144607000.0
+Total Revenue                                                   2996638000.0  3908184000.0      3373438000.0     2717038000.0
+Operating Revenue                                               2996638000.0  3908184000.0      3373438000.0     2717038000.0

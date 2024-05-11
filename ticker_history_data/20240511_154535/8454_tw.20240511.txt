@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 96, Zhouzi Street
+address2	4th Floor
+city	Taipei
+zip	11493
+country	Taiwan
+phone	886 2 2162 6688
+fax	886 2 2162 6696
+website	https://corp.momo.com.tw
+industry	Internet Retail
+industryKey	internet-retail
+industryDisp	Internet Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	momo.com Inc. engages in the TV and radio production, radio and TV program distribution, radio and TV commercial, video program distribution, issuing of magazine, and retailing businesses in Taiwan and internationally. It operates Fubon momo Channel, a TV shopping channel; momoshop, a B to C shopping website; and catalog shopping market. The company also engages in the travel agency, life and comprehensive insurance agency, wholesale and retail, and logistics businesses; and wholesale of cosmetics. momo.com Inc. was incorporated in 2004 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jeff  Ku', 'title': 'President & Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Gina  Lu', 'title': 'Vice President of Financial & Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Terrisa  Liu', 'title': 'Head of Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeremy  Hong', 'title': 'Senior Vice President of EC Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Robinson  Lin', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	419.0
+open	424.0
+dayLow	415.5
+dayHigh	424.0
+regularMarketPreviousClose	419.0
+regularMarketOpen	424.0
+regularMarketDayLow	415.5
+regularMarketDayHigh	424.0
+dividendRate	13.64
+dividendYield	0.0327
+exDividendDate	1685923200	 (2023-06-05 08:00:00)
+payoutRatio	0.89769995
+fiveYearAvgDividendYield	1.9
+beta	0.79
+trailingPE	27.467106
+forwardPE	23.194445
+volume	531519
+regularMarketVolume	531519
+averageVolume	1261125
+averageVolume10days	1450077
+averageDailyVolume10Day	1450077
+bid	417.0
+ask	417.5
+marketCap	100341948416
+fiftyTwoWeekLow	376.0
+fiftyTwoWeekHigh	677.2727
+priceToSalesTrailing12Months	0.9039754
+fiftyDayAverage	405.17
+twoHundredDayAverage	479.80386
+currency	TWD
+enterpriseValue	97087610880
+profitMargins	0.03287
+floatShares	112700801
+sharesOutstanding	240340000
+heldPercentInsiders	0.69198996
+heldPercentInstitutions	0.11076
+impliedSharesOutstanding	243986000
+bookValue	46.392
+priceToBook	8.999396
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.023
+netIncomeToCommon	3648582912
+trailingEps	15.2
+forwardEps	18.0
+pegRatio	1.41
+lastSplitFactor	1100:1000
+lastSplitDate	1692057600	 (2023-08-15 08:00:00)
+enterpriseToRevenue	0.875
+enterpriseToEbitda	19.865
+52WeekChange	-0.3585894
+SandP52WeekChange	0.26265144
+lastDividendValue	13.636364
+lastDividendDate	1685923200	 (2023-06-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8454.TW
+underlyingSymbol	8454.TW
+shortName	MOMO COM INC
+longName	momo.com Inc.
+firstTradeDateEpochUtc	1393462800	 (2014-02-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	758a535a-27a4-3001-9ca7-4e7d826adfe8
+messageBoardId	finmb_79236521
+gmtOffSetMilliseconds	28800000
+currentPrice	417.5
+targetHighPrice	513.0
+targetLowPrice	370.0
+targetMeanPrice	481.13
+targetMedianPrice	496.0
+recommendationMean	2.5
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	6925983232
+totalCashPerShare	28.803
+ebitda	4887461888
+totalDebt	3532503040
+quickRatio	0.716
+currentRatio	1.032
+totalRevenue	111000748032
+debtToEquity	31.42
+revenuePerShare	461.996
+returnOnAssets	0.10402001
+returnOnEquity	0.3321
+freeCashflow	2592233984
+operatingCashflow	5049270784
+earningsGrowth	0.023
+revenueGrowth	0.07
+grossMargins	0.09481
+ebitdaMargins	0.04403
+operatingMargins	0.04157
+financialCurrency	TWD
+trailingPegRatio	1.7802
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -380113.043719     -250023.178767     -591126.084256    -1004902.153804
+Tax Rate For Calcs                                                   0.182747           0.203602           0.198165           0.188998
+Normalized EBITDA                                                5670282000.0       5434514000.0       5050160000.0       3220975000.0
+Total Unusual Items                                                -2080000.0         -1228000.0         -2983000.0         -5317000.0
+Total Unusual Items Excluding Goodwill                             -2080000.0         -1228000.0         -2983000.0         -5317000.0
+Net Income From Continuing Operation Net Minority Interest       3628069000.0       3434626000.0       3280300000.0       1943304000.0
+Reconciled Depreciation                                          1208095000.0       1108469000.0        949795000.0        815111000.0
+Reconciled Cost Of Revenue                                      98700012000.0      93164417000.0      79451893000.0      60883619000.0
+EBITDA                                                           5668202000.0       5433286000.0       5047177000.0       3215658000.0
+EBIT                                                             4460107000.0       4324817000.0       4097382000.0       2400547000.0
+Net Interest Income                                                87670000.0         42643000.0         14165000.0         13128000.0
+Interest Expense                                                   19878000.0         13026000.0         12669000.0          9754000.0
+Interest Income                                                   107548000.0         55669000.0         26834000.0         22882000.0
+Normalized Income                                           3629768886.956281  3435603976.821233  3282691873.915744  1947616097.846196
+Net Income From Continuing And Discontinued Operation            3628069000.0       3434626000.0       3280300000.0       1943304000.0
+Total Expenses                                                 104856176000.0      99150388000.0      84351641000.0      64973697000.0
+Diluted Average Shares                                            240349000.0        240347000.0        240343400.0        240345600.0
+Basic Average Shares                                              240340000.0        240340000.0        240340100.0        240340320.0
+Diluted EPS                                                              15.1              14.29          13.645455           8.083333
+Basic EPS                                                                15.1              14.29          13.645455           8.083333
+Diluted NI Availto Com Stockholders                              3628069000.0       3434626000.0       3280300000.0       1943304000.0
+Net Income Common Stockholders                                   3628069000.0       3434626000.0       3280300000.0       1943304000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       3628069000.0       3434626000.0       3280300000.0       1943304000.0
+Minority Interests                                                  -723000.0           724000.0          5034000.0          4366000.0
+Net Income Including Noncontrolling Interests                    3628792000.0       3433902000.0       3275266000.0       1938938000.0
+Net Income Continuous Operations                                 3628792000.0       3433902000.0       3275266000.0       1938938000.0
+Tax Provision                                                     811437000.0        877889000.0        809447000.0        451855000.0
+Pretax Income                                                    4440229000.0       4311791000.0       4084713000.0       2390793000.0
+Other Non Operating Income Expenses                               -33443000.0         48200000.0        100894000.0         75699000.0
+Special Income Charges                                             -2080000.0         -1228000.0         -2983000.0         -5317000.0
+Write Off                                                           2080000.0          1228000.0          2983000.0          5317000.0
+Net Non Operating Interest Income Expense                          87670000.0         42643000.0         14165000.0         13128000.0
+Interest Expense Non Operating                                     19878000.0         13026000.0         12669000.0          9754000.0
+Interest Income Non Operating                                     107548000.0         55669000.0         26834000.0         22882000.0
+Operating Income                                                 4386742000.0       4286047000.0       4045055000.0       2224407000.0
+Operating Expense                                                6156164000.0       5985971000.0       4899748000.0       4090078000.0
+Other Operating Expenses                                         -162734000.0       -211735000.0       -123562000.0       -103711000.0
+Research And Development                                          283288000.0        227377000.0        202289000.0        175599000.0
+Selling General And Administration                               6035610000.0       5970329000.0       4821021000.0       4018190000.0
+Selling And Marketing Expense                                    3248404000.0       3379974000.0       2857970000.0       2374531000.0
+General And Administrative Expense                               2787206000.0       2590355000.0       1963051000.0       1643659000.0
+Gross Profit                                                    10542906000.0      10272018000.0       8944803000.0       6314485000.0
+Cost Of Revenue                                                 98700012000.0      93164417000.0      79451893000.0      60883619000.0
+Total Revenue                                                  109242918000.0     103436435000.0      88396696000.0      67198104000.0
+Operating Revenue                                              109242918000.0     103436435000.0      88396696000.0      67198104000.0

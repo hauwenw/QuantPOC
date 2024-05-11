@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 16, Jian 8th Road
+address2	4th Floor Zhonghe District
+city	New Taipei City
+zip	23511
+country	Taiwan
+phone	886 2 8226 5658
+fax	886 2 8226 5660
+website	https://www.copartner.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Copartner Technology Corporation manufactures and sells cable and wire products for information, communications, and electronics industries worldwide. It offers consumer market cables, including USB, SFP/QSFP, plenum HDMI, and display port cables; and transportation cables comprising vehicle, marine, and aircraft video/audio and control cables. The company also provides industrial cables, such as control, flexible, chain, and robot cables; medical cables consisting of medical equipment, medical auto bed control, auto control system, and non-invasive medical device cables; and green energy cables, including solar tracker and EV cables. In addition, it offers communication cables, such as RG type, AISG, coaxial communication, and LAN cables. The company was formerly known as Cablex Wire & Cable Mfg. Corp. and changed its name to Copartner Technology Corporation in August 2004. The company was founded in 1987 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Vincent  Liaw', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Hung  Liao', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li Qing Wu', 'title': 'Vice President of Finance Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jun Xiong Su', 'title': 'Director of Business Development', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hong Yao Chen', 'title': 'Director and President of Raw Material Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.0
+open	14.9
+dayLow	14.9
+dayHigh	15.1
+regularMarketPreviousClose	15.0
+regularMarketOpen	14.9
+regularMarketDayLow	14.9
+regularMarketDayHigh	15.1
+dividendRate	0.5
+dividendYield	0.033099998
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	3.125
+fiveYearAvgDividendYield	3.99
+beta	0.413
+volume	82300
+regularMarketVolume	82300
+averageVolume	150851
+averageVolume10days	71127
+averageDailyVolume10Day	71127
+bid	14.9
+ask	15.1
+marketCap	1322004992
+fiftyTwoWeekLow	14.3
+fiftyTwoWeekHigh	17.5
+priceToSalesTrailing12Months	0.36293095
+fiftyDayAverage	15.079
+twoHundredDayAverage	15.16775
+currency	TWD
+enterpriseValue	2385946880
+profitMargins	-0.09952
+floatShares	78381764
+sharesOutstanding	87550000
+heldPercentInsiders	0.30021998
+impliedSharesOutstanding	88440304
+bookValue	16.921
+priceToBook	0.8923823
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-362508992
+trailingEps	-1.67
+lastSplitFactor	1030:1000
+lastSplitDate	1660694400	 (2022-08-17 08:00:00)
+enterpriseToRevenue	0.655
+enterpriseToEbitda	-9.05
+52WeekChange	-0.044303775
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3550.TW
+underlyingSymbol	3550.TW
+shortName	COPARTNER TECHNOLOGY CORPORATIO
+longName	Copartner Technology Corporation
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4cda27b0-ae96-3859-bed1-f3668c9216d9
+messageBoardId	finmb_36685146
+gmtOffSetMilliseconds	28800000
+currentPrice	15.1
+recommendationKey	none
+totalCash	1075676032
+totalCashPerShare	12.286
+ebitda	-263639008
+totalDebt	2130116992
+quickRatio	0.984
+currentRatio	1.169
+totalRevenue	3642579968
+debtToEquity	142.873
+revenuePerShare	41.606
+returnOnAssets	-0.05193
+returnOnEquity	-0.21139
+freeCashflow	-247173248
+operatingCashflow	71898000
+revenueGrowth	-0.162
+grossMargins	0.09981
+ebitdaMargins	-0.07238
+operatingMargins	-0.2471
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -3883800.0    -2996400.0    -5342600.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2
+Normalized EBITDA                                            227489000.0   359979000.0   355847000.0
+Total Unusual Items                                          -19419000.0   -14982000.0   -26713000.0
+Total Unusual Items Excluding Goodwill                       -19419000.0   -14982000.0   -26713000.0
+Net Income From Continuing Operation Net Minority Interest   -22606000.0    81823000.0    79942000.0
+Reconciled Depreciation                                      187975000.0   180382000.0   168014000.0
+Reconciled Cost Of Revenue                                  3549042000.0  4049766000.0  2882840000.0
+EBITDA                                                       208070000.0   344997000.0   329134000.0
+EBIT                                                          20095000.0   164615000.0   161120000.0
+Net Interest Income                                          -21340000.0    -9946000.0     4283000.0
+Interest Expense                                              35968000.0    22715000.0    19842000.0
+Interest Income                                               14628000.0    12769000.0    24125000.0
+Normalized Income                                             -7070800.0    93808600.0   101312400.0
+Net Income From Continuing And Discontinued Operation        -22606000.0    81823000.0    79942000.0
+Total Expenses                                              4201551000.0  4707187000.0  3448683000.0
+Diluted Average Shares                                        87550000.0    87723000.0    87750850.0
+Basic Average Shares                                          87550000.0    87550000.0    87550000.0
+Diluted EPS                                                        -0.26          0.93      0.912621
+Basic EPS                                                          -0.26          0.93      0.912621
+Diluted NI Availto Com Stockholders                          -22606000.0    81823000.0    79942000.0
+Net Income Common Stockholders                               -22606000.0    81823000.0    79942000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0
+Net Income                                                   -22606000.0    81823000.0    79942000.0
+Minority Interests                                             2028000.0     -261000.0    -1466000.0
+Net Income Including Noncontrolling Interests                -24634000.0    82084000.0    81408000.0
+Net Income Continuous Operations                             -24634000.0    82084000.0    81408000.0
+Tax Provision                                                  8761000.0    59816000.0    59870000.0
+Pretax Income                                                -15873000.0   141900000.0   141278000.0
+Other Non Operating Income Expenses                           52264000.0    27872000.0    17735000.0
+Special Income Charges                                       -19419000.0   -14982000.0   -26713000.0
+Write Off                                                     19419000.0    14982000.0    26713000.0
+Net Non Operating Interest Income Expense                    -21340000.0    -9946000.0     4283000.0
+Interest Expense Non Operating                                35968000.0    22715000.0    19842000.0
+Interest Income Non Operating                                 14628000.0    12769000.0    24125000.0
+Operating Income                                             -34902000.0   142447000.0   148946000.0
+Operating Expense                                            652509000.0   657421000.0   565843000.0
+Research And Development                                     150540000.0   131854000.0   127164000.0
+Selling General And Administration                           501969000.0   525567000.0   438679000.0
+Selling And Marketing Expense                                206790000.0   205872000.0   176282000.0
+General And Administrative Expense                           295179000.0   319695000.0   262397000.0
+Gross Profit                                                 617607000.0   799868000.0   714789000.0
+Cost Of Revenue                                             3549042000.0  4049766000.0  2882840000.0
+Total Revenue                                               4166649000.0  4849634000.0  3597629000.0
+Operating Revenue                                           4166649000.0  4849634000.0  3597629000.0

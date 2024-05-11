@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	Science Industrial Park
+address2	No. 1, Yanxin 1st Road East District
+city	Hsinchu City
+zip	300
+country	Taiwan
+phone	886 3 578 3344
+fax	886 3 566 5888
+website	https://www.mosel.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Mosel Vitelic Inc. manufactures and sells power semiconductor devices and power management ICs in Taiwan. It primarily offers trench power metal oxide semiconductor field effect transistors, trench insulated gate bipolar transistors, analog ICs, trench schottky diodes, and electrostatic protection devices, as well as various diodes that are used in computers, LCD monitors and televisions, mobile phone batteries, machine tools, LED lighting, power supplies, and automotive electronics. The company was founded in 1987 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Yixian  Tang', 'title': 'Chairman & CEO', 'fiscalYear': 2019, 'totalPay': 7632000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jianzhi  Lu', 'title': 'President, GM & Director', 'fiscalYear': 2019, 'totalPay': 670000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun Sheng  Chen', 'title': 'Head of R&D and Chief Technology Officer', 'fiscalYear': 2019, 'totalPay': 2399000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yafei  Yang', 'title': 'Head of Finance and Accounting & Company Secretary', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	30.45
+open	30.6
+dayLow	30.3
+dayHigh	30.75
+regularMarketPreviousClose	30.45
+regularMarketOpen	30.6
+regularMarketDayLow	30.3
+regularMarketDayHigh	30.75
+dividendRate	2.0
+dividendYield	0.0651
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	1.1719
+beta	1.054
+forwardPE	16.684782
+volume	185988
+regularMarketVolume	185988
+averageVolume	711715
+averageVolume10days	233843
+averageDailyVolume10Day	233843
+bid	30.65
+ask	30.7
+marketCap	4824689152
+fiftyTwoWeekLow	29.0
+fiftyTwoWeekHigh	42.95
+priceToSalesTrailing12Months	3.253085
+fiftyDayAverage	31.57
+twoHundredDayAverage	33.87675
+currency	TWD
+enterpriseValue	3453050112
+profitMargins	-0.118269995
+sharesOutstanding	157156000
+heldPercentInsiders	0.36450002
+heldPercentInstitutions	0.010980001
+impliedSharesOutstanding	158704000
+bookValue	14.894
+priceToBook	2.0612328
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-175411008
+trailingEps	-1.12
+forwardEps	1.84
+lastSplitFactor	201.8568:1000
+lastSplitDate	1506384000	 (2017-09-26 08:00:00)
+enterpriseToRevenue	2.328
+enterpriseToEbitda	-26.8
+52WeekChange	-0.2015605
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2342.TW
+underlyingSymbol	2342.TW
+shortName	MOSEL VITELIC INC
+longName	Mosel Vitelic Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	09a67df6-02cf-34b1-946b-0079eecd3b3a
+messageBoardId	finmb_882040
+gmtOffSetMilliseconds	28800000
+currentPrice	30.7
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1710263040
+totalCashPerShare	10.883
+ebitda	-128845000
+totalDebt	315452000
+quickRatio	3.314
+currentRatio	3.81
+totalRevenue	1483111936
+debtToEquity	13.344
+revenuePerShare	9.498
+returnOnAssets	-0.03217
+returnOnEquity	-0.06995
+freeCashflow	-368685888
+operatingCashflow	-60643000
+revenueGrowth	-0.373
+grossMargins	0.04361
+ebitdaMargins	-0.08687
+operatingMargins	-0.34958
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                     -36400.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2         0.001           0.0           0.0
+Normalized EBITDA                                            -89857000.0   619461000.0   300000000.0   268558000.0
+Total Unusual Items                                            -182000.0           0.0           NaN           0.0
+Total Unusual Items Excluding Goodwill                         -182000.0           0.0           NaN           0.0
+Net Income From Continuing Operation Net Minority Interest  -175411000.0   550228000.0   245238000.0   220130000.0
+Reconciled Depreciation                                       78414000.0    56376000.0    43471000.0    40309000.0
+Reconciled Cost Of Revenue                                  1418438000.0  1533642000.0  1462141000.0  1427057000.0
+EBITDA                                                       -90039000.0   619461000.0   300000000.0   268558000.0
+EBIT                                                        -168453000.0   563085000.0   256529000.0   228249000.0
+Net Interest Income                                           33456000.0    15978000.0    -4883000.0    -2902000.0
+Interest Expense                                               8075000.0     8242000.0     8469000.0     8716000.0
+Interest Income                                               41531000.0    24220000.0     3586000.0     5814000.0
+Normalized Income                                           -175265400.0   550228000.0   245238000.0   220130000.0
+Net Income From Continuing And Discontinued Operation       -175411000.0   550228000.0   245238000.0   220130000.0
+Total Expenses                                              1678530000.0  1793208000.0  1690859000.0  1627384000.0
+Diluted Average Shares                                               NaN   157948000.0   156695000.0   155932000.0
+Basic Average Shares                                                 NaN   156071000.0   155694000.0   155387000.0
+Diluted EPS                                                          NaN          3.48          1.57          1.41
+Basic EPS                                                            NaN          3.53          1.58          1.42
+Diluted NI Availto Com Stockholders                         -175411000.0   550228000.0   245238000.0   220130000.0
+Net Income Common Stockholders                              -175411000.0   550228000.0   245238000.0   220130000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -175411000.0   550228000.0   245238000.0   220130000.0
+Minority Interests                                             1300000.0    -4060000.0    -2822000.0      597000.0
+Net Income Including Noncontrolling Interests               -176711000.0   554288000.0   248060000.0   219533000.0
+Net Income Continuous Operations                            -176711000.0   554288000.0   248060000.0   219533000.0
+Tax Provision                                                   183000.0      555000.0           0.0           0.0
+Pretax Income                                               -176528000.0   554843000.0   248060000.0   219533000.0
+Other Non Operating Income Expenses                          -14384000.0   180562000.0    -8165000.0     4167000.0
+Special Income Charges                                         -182000.0           0.0           NaN           0.0
+Write Off                                                       182000.0           0.0           NaN           0.0
+Net Non Operating Interest Income Expense                     33456000.0    15978000.0    -4883000.0    -2902000.0
+Interest Expense Non Operating                                 8075000.0     8242000.0     8469000.0     8716000.0
+Interest Income Non Operating                                 41531000.0    24220000.0     3586000.0     5814000.0
+Operating Income                                            -195418000.0   358303000.0   261108000.0   218268000.0
+Operating Expense                                            260092000.0   259566000.0   228718000.0   200327000.0
+Research And Development                                     125710000.0   114271000.0    98770000.0    92332000.0
+Selling General And Administration                           134382000.0   145295000.0   129948000.0   107995000.0
+Selling And Marketing Expense                                 21790000.0    22911000.0    22776000.0    18158000.0
+General And Administrative Expense                           112592000.0   122384000.0   107172000.0    89837000.0
+Gross Profit                                                  64674000.0   617869000.0   489826000.0   418595000.0
+Cost Of Revenue                                             1418438000.0  1533642000.0  1462141000.0  1427057000.0
+Total Revenue                                               1483112000.0  2151511000.0  1951967000.0  1845652000.0
+Operating Revenue                                           1483112000.0  2151511000.0  1951967000.0  1845652000.0

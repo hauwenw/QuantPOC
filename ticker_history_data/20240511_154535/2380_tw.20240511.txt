@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	No. 20, Creation Road 1
+city	Hsinchu City
+zip	308
+country	Taiwan
+phone	886 3 578 2388
+fax	886 3 577 7017
+website	https://www.avision.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Avision Inc., together with its subsidiaries, designs, manufactures, and markets digital office equipment in Taiwan and internationally. The company provides document, flatbed, network, mobile, and PaperAir series scanners, as well as multi-function and network peripherals, printers, and medical devices. It engages in the development, production, sale, and after sale services of integrated circuit chip products, as well as repair scanners. Avision Inc. was founded in 1991 and is headquartered in Hsinchu City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	6.9
+open	6.9
+dayLow	6.61
+dayHigh	6.91
+regularMarketPreviousClose	6.9
+regularMarketOpen	6.9
+regularMarketDayLow	6.61
+regularMarketDayHigh	6.91
+exDividendDate	1341792000	 (2012-07-09 08:00:00)
+fiveYearAvgDividendYield	7.14
+beta	1.184
+volume	147672
+regularMarketVolume	147672
+averageVolume	193580
+averageVolume10days	137651
+averageDailyVolume10Day	137651
+bid	6.83
+ask	6.86
+marketCap	1483312640
+fiftyTwoWeekLow	6.19
+fiftyTwoWeekHigh	11.8
+priceToSalesTrailing12Months	0.7547939
+fiftyDayAverage	6.7734
+twoHundredDayAverage	7.86345
+currency	TWD
+enterpriseValue	2032732288
+profitMargins	-0.20594999
+sharesOutstanding	216542000
+heldPercentInsiders	0.35976002
+heldPercentInstitutions	0.00016000001
+impliedSharesOutstanding	220014000
+bookValue	3.669
+priceToBook	1.8669938
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-404723008
+trailingEps	-1.88
+lastSplitFactor	780.1528:1000
+lastSplitDate	1569456000	 (2019-09-26 08:00:00)
+enterpriseToRevenue	1.034
+enterpriseToEbitda	-6.521
+52WeekChange	-0.3080808
+SandP52WeekChange	0.26265144
+lastDividendValue	0.31458
+lastDividendDate	1341792000	 (2012-07-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2380.TW
+underlyingSymbol	2380.TW
+shortName	AVISION INC
+longName	Avision Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fb5f6722-d86f-3dab-82a2-4dc08b64685c
+messageBoardId	finmb_9221745
+gmtOffSetMilliseconds	28800000
+currentPrice	6.85
+recommendationKey	none
+totalCash	505888000
+totalCashPerShare	2.334
+ebitda	-311703008
+totalDebt	1050585024
+quickRatio	0.662
+currentRatio	1.193
+totalRevenue	1965188992
+debtToEquity	131.544
+revenuePerShare	9.145
+returnOnAssets	-0.097320005
+returnOnEquity	-0.41294
+freeCashflow	261254256
+operatingCashflow	203415008
+revenueGrowth	0.133
+grossMargins	0.19791001
+ebitdaMargins	-0.15861
+operatingMargins	-0.02345
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31      2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  -10707600.0 -8207725.998962      13836.684349     7952000.0
+Tax Rate For Calcs                                                   0.2        0.208614          0.047386           0.2
+Normalized EBITDA                                           -179113000.0     171373000.0        17196000.0  -266397000.0
+Total Unusual Items                                          -53538000.0     -39344000.0          292000.0    39760000.0
+Total Unusual Items Excluding Goodwill                       -53538000.0     -39344000.0          292000.0    39760000.0
+Net Income From Continuing Operation Net Minority Interest  -404723000.0     -32399000.0      -125928000.0  -412651000.0
+Reconciled Depreciation                                      141361000.0     145438000.0       124016000.0   154606000.0
+Reconciled Cost Of Revenue                                  1576264000.0    2093944000.0      2224378000.0  1509281000.0
+EBITDA                                                      -232651000.0     132029000.0        17488000.0  -226637000.0
+EBIT                                                        -374012000.0     -13409000.0      -106528000.0  -381243000.0
+Net Interest Income                                          -30608000.0     -31186000.0       -19917000.0   -25140000.0
+Interest Expense                                              32704000.0      32839000.0        25621000.0    30709000.0
+Interest Income                                                2096000.0       1653000.0         5704000.0     5569000.0
+Normalized Income                                           -361892600.0 -1262725.998962 -126206163.315651  -444459000.0
+Net Income From Continuing And Discontinued Operation       -404723000.0     -32399000.0      -125928000.0  -412651000.0
+Total Expenses                                              2334537000.0    2852096000.0      2955119000.0  2238391000.0
+Diluted Average Shares                                               NaN     192806000.0       185830000.0   178334898.0
+Basic Average Shares                                                 NaN     192806000.0       185830000.0   178334898.0
+Diluted EPS                                                          NaN           -0.17             -0.69     -2.316767
+Basic EPS                                                            NaN           -0.17             -0.69     -2.316767
+Diluted NI Availto Com Stockholders                         -404723000.0     -32399000.0      -125928000.0  -412651000.0
+Net Income Common Stockholders                              -404723000.0     -32399000.0      -125928000.0  -412651000.0
+Otherunder Preferred Stock Dividend                                  0.0             0.0               0.0           0.0
+Net Income                                                  -404723000.0     -32399000.0      -125928000.0  -412651000.0
+Minority Interests                                             5481000.0       4201000.0          -41000.0        2000.0
+Net Income Including Noncontrolling Interests               -410204000.0     -36600000.0      -125887000.0  -412653000.0
+Net Income Continuous Operations                            -410204000.0     -36600000.0      -125887000.0  -412653000.0
+Tax Provision                                                  3488000.0      -9648000.0        -6262000.0      701000.0
+Pretax Income                                               -406716000.0     -46248000.0      -132149000.0  -411952000.0
+Other Non Operating Income Expenses                           46778000.0      43938000.0        14479000.0   -23553000.0
+Special Income Charges                                       -53538000.0     -39344000.0          292000.0    39760000.0
+Write Off                                                     53538000.0      39344000.0         -292000.0   -39760000.0
+Net Non Operating Interest Income Expense                    -30608000.0     -31186000.0       -19917000.0   -25140000.0
+Interest Expense Non Operating                                32704000.0      32839000.0        25621000.0    30709000.0
+Interest Income Non Operating                                  2096000.0       1653000.0         5704000.0     5569000.0
+Operating Income                                            -369348000.0     -19656000.0      -127003000.0  -403019000.0
+Operating Expense                                            758273000.0     758152000.0       730741000.0   729110000.0
+Research And Development                                     411226000.0     401691000.0       401938000.0   432565000.0
+Selling General And Administration                           347047000.0     356461000.0       328803000.0   296545000.0
+Selling And Marketing Expense                                139579000.0     166031000.0       161847000.0   128626000.0
+General And Administrative Expense                           207468000.0     190430000.0       166956000.0   167919000.0
+Gross Profit                                                 388925000.0     738496000.0       603738000.0   326091000.0
+Cost Of Revenue                                             1576264000.0    2093944000.0      2224378000.0  1509281000.0
+Total Revenue                                               1965189000.0    2832440000.0      2828116000.0  1835372000.0
+Operating Revenue                                           1965189000.0    2832440000.0      2828116000.0  1835372000.0

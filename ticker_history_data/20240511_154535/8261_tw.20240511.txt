@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 5, Taiyuan 1st Street
+address2	12th Floor-1 & 2
+city	Zhubei
+zip	30265
+country	Taiwan
+phone	886 3 621 5899
+fax	886 3 621 5999
+website	https://www.a-power.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Advanced Power Electronics Co., Ltd. provides metal oxide semiconductor field effect transistors (MOSFET) components in Europe, Africa, Asia, Australia, North America, and South America. It offers power MOSFETs; super junctions; insulated gate bipolar transistors; and power integrated circuits (ICs), including power IC-LDOs, power IC-DDRs and resets, and power IC-load switches, as well as testing services. The company's products have applications in networking devices, LED, LCD/LED TVs, switching power systems, MB, and notebooks. Its products are used in the computing, consumer electronics, display, communications, and industrial segments. The company was founded in 1998 and is headquartered in Zhubei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Fu-Chi  Teng', 'title': 'Vice Chairman, Chief Strategy Officer & COO', 'fiscalYear': 2021, 'totalPay': 13517000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Shuai  Chang', 'title': 'President & Representative Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mei Ying  Tan', 'title': 'Corporate Governance Officer, VP of Finance, HR & Administration Division and Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Hsueh  Lin', 'title': 'Vice President of Sales Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-De  Lin', 'title': 'Chairman Assistant', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hong-Yi  Wang', 'title': 'Chairman Assistant', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	83.1
+open	83.1
+dayLow	82.1
+dayHigh	84.0
+regularMarketPreviousClose	83.1
+regularMarketOpen	83.1
+regularMarketDayLow	82.1
+regularMarketDayHigh	84.0
+dividendRate	4.98
+dividendYield	0.059499998
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	1.6479
+trailingPE	27.71523
+volume	291225
+regularMarketVolume	291225
+averageVolume	627876
+averageVolume10days	336428
+averageDailyVolume10Day	336428
+bid	83.4
+ask	83.7
+marketCap	9933682688
+fiftyTwoWeekLow	77.8
+fiftyTwoWeekHigh	113.5
+priceToSalesTrailing12Months	3.5663497
+fiftyDayAverage	84.456
+twoHundredDayAverage	88.45
+trailingAnnualDividendRate	2.5
+trailingAnnualDividendYield	0.030084236
+currency	TWD
+enterpriseValue	6661167104
+profitMargins	0.129
+floatShares	70203363
+sharesOutstanding	118682000
+heldPercentInsiders	0.40918
+heldPercentInstitutions	0.01842
+impliedSharesOutstanding	118682000
+bookValue	46.434
+priceToBook	1.8025584
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.503
+netIncomeToCommon	359316000
+trailingEps	3.02
+lastSplitFactor	0.449585:1
+lastSplitDate	1440720000	 (2015-08-28 08:00:00)
+enterpriseToRevenue	2.391
+enterpriseToEbitda	21.93
+52WeekChange	-0.15197569
+SandP52WeekChange	0.26265144
+lastDividendValue	4.976673
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8261.TW
+underlyingSymbol	8261.TW
+shortName	ADVANCED POWER ELECTRONICS
+longName	Advanced Power Electronics Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e9b3328c-043e-3280-a7d5-51a27ea48aba
+messageBoardId	finmb_9830154
+gmtOffSetMilliseconds	28800000
+currentPrice	83.7
+recommendationKey	none
+totalCash	3110902016
+totalCashPerShare	26.659
+ebitda	303744992
+totalDebt	6729000
+quickRatio	7.971
+currentRatio	9.256
+totalRevenue	2785392128
+debtToEquity	0.124
+revenuePerShare	23.867
+returnOnAssets	0.02755
+returnOnEquity	0.06528
+freeCashflow	338205504
+operatingCashflow	513296000
+earningsGrowth	0.521
+revenueGrowth	-0.1
+grossMargins	0.24400999
+ebitdaMargins	0.10905
+operatingMargins	0.043470003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                          0.0      14783.383346           0.0     479045.203299
+Tax Rate For Calcs                                              0.164112          0.182511      0.181809          0.121925
+Normalized EBITDA                                            431687000.0      1125649000.0   825040000.0       247825000.0
+Total Unusual Items                                                  0.0           81000.0           0.0         3929000.0
+Total Unusual Items Excluding Goodwill                               0.0           81000.0           0.0         3929000.0
+Net Income From Continuing Operation Net Minority Interest   330426000.0       899827000.0   652787000.0       198348000.0
+Reconciled Depreciation                                       37198000.0        26220000.0    23860000.0        25201000.0
+Reconciled Cost Of Revenue                                  2106147000.0      2512961000.0  2953209000.0      2613933000.0
+EBITDA                                                       431687000.0      1125730000.0   825040000.0       251754000.0
+EBIT                                                         394489000.0      1099510000.0   801180000.0       226553000.0
+Net Interest Income                                           63160000.0        22421000.0    -2055000.0         -677000.0
+Interest Expense                                                 99000.0         2129000.0     4936000.0         2941000.0
+Interest Income                                               63259000.0        24550000.0     2881000.0         2264000.0
+Normalized Income                                            330426000.0  899760783.383346   652787000.0  194898045.203299
+Net Income From Continuing And Discontinued Operation        330426000.0       899827000.0   652787000.0       198348000.0
+Total Expenses                                              2542266000.0      3011327000.0  3374666000.0      2889764000.0
+Diluted Average Shares                                       119161000.0       104832000.0    82933000.0        81824000.0
+Basic Average Shares                                         116850000.0       101957000.0    81341000.0        81341000.0
+Diluted EPS                                                         2.77              8.58          7.87              2.42
+Basic EPS                                                           2.83              8.83          8.03              2.44
+Diluted NI Availto Com Stockholders                          330426000.0       899827000.0   652787000.0       198348000.0
+Net Income Common Stockholders                               330426000.0       899827000.0   652787000.0       198348000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0               0.0
+Net Income                                                   330426000.0       899827000.0   652787000.0       198348000.0
+Minority Interests                                              760000.0         2730000.0     1307000.0         2000000.0
+Net Income Including Noncontrolling Interests                329666000.0       897097000.0   651480000.0       196348000.0
+Net Income Continuous Operations                             329666000.0       897097000.0   651480000.0       196348000.0
+Tax Provision                                                 64724000.0       200284000.0   144764000.0        27264000.0
+Pretax Income                                                394390000.0      1097381000.0   796244000.0       223612000.0
+Other Non Operating Income Expenses                           22334000.0       175068000.0   -30674000.0       -15652000.0
+Special Income Charges                                               0.0           81000.0           0.0         3929000.0
+Write Off                                                            0.0          -81000.0           0.0        -3929000.0
+Net Non Operating Interest Income Expense                     63160000.0        22421000.0    -2055000.0         -677000.0
+Interest Expense Non Operating                                   99000.0         2129000.0     4936000.0         2941000.0
+Interest Income Non Operating                                 63259000.0        24550000.0     2881000.0         2264000.0
+Operating Income                                             308896000.0       899811000.0   828973000.0       236012000.0
+Operating Expense                                            436119000.0       498366000.0   421457000.0       275831000.0
+Research And Development                                     155287000.0       171911000.0   119407000.0       100439000.0
+Selling General And Administration                           280832000.0       326455000.0   302050000.0       175392000.0
+Selling And Marketing Expense                                 95410000.0       101704000.0    99362000.0        88914000.0
+General And Administrative Expense                           185422000.0       224751000.0   202688000.0        86478000.0
+Gross Profit                                                 745015000.0      1398177000.0  1250430000.0       511843000.0
+Cost Of Revenue                                             2106147000.0      2512961000.0  2953209000.0      2613933000.0
+Total Revenue                                               2851162000.0      3911138000.0  4203639000.0      3125776000.0
+Operating Revenue                                           2851162000.0      3911138000.0  4203639000.0      3125776000.0

@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No.26, Jinzhuang Road
+address2	11th Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8792 9510
+fax	886 2 8792 9621
+website	https://www.cyberpower.com
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Cyber Power Systems, Inc. designs, manufactures, and sells power protection products and computer peripheral accessories worldwide. It offers backup uninterruptible power supply (UPS), smart UPS, and datacenter UPS system; racks, power management software, power distribution units, and smart management solutions, as well as inverters, surge protectors, mobile chargers, batteries, software, energy saving, and solar power systems. The company also provides home desktop, home theater, office desktop, back office, server room, and IT data center solutions, as well as grid-tied, and off-grid systems. Cyber Power Systems, Inc. was incorporated in 1997 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Xun  He', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tian Wei Zhang', 'title': 'Chief Financial Officer and Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	264.0
+open	265.5
+dayLow	261.0
+dayHigh	268.0
+regularMarketPreviousClose	264.0
+regularMarketOpen	265.5
+regularMarketDayLow	261.0
+regularMarketDayHigh	268.0
+dividendRate	5.0
+dividendYield	0.0188
+exDividendDate	1692144000	 (2023-08-16 08:00:00)
+payoutRatio	0.31129998
+fiveYearAvgDividendYield	4.67
+beta	0.86
+trailingPE	16.583696
+forwardPE	31.613285
+volume	1324584
+regularMarketVolume	1324584
+averageVolume	1812052
+averageVolume10days	2679857
+averageDailyVolume10Day	2679857
+bid	266.0
+ask	266.5
+marketCap	24100395008
+fiftyTwoWeekLow	125.2381
+fiftyTwoWeekHigh	304.5
+priceToSalesTrailing12Months	2.05439
+fiftyDayAverage	237.0
+twoHundredDayAverage	224.85428
+trailingAnnualDividendRate	8.0
+trailingAnnualDividendYield	0.030303031
+currency	TWD
+enterpriseValue	23633772544
+profitMargins	0.12517999
+floatShares	41320646
+sharesOutstanding	90433000
+heldPercentInsiders	0.5035
+heldPercentInstitutions	0.03803
+impliedSharesOutstanding	94755200
+bookValue	80.198
+priceToBook	3.3230257
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.607
+netIncomeToCommon	1468530048
+trailingEps	16.07
+forwardEps	8.43
+lastSplitFactor	1050:1000
+lastSplitDate	1692144000	 (2023-08-16 08:00:00)
+enterpriseToRevenue	2.015
+enterpriseToEbitda	12.301
+52WeekChange	1.05
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1692144000	 (2023-08-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3617.TW
+underlyingSymbol	3617.TW
+shortName	CYBERPOWER SYSTEMS INC.
+longName	Cyber Power Systems, Inc.
+firstTradeDateEpochUtc	1261530000	 (2009-12-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	507660c3-78f3-3b4d-9358-041683edbf94
+messageBoardId	finmb_23352502
+gmtOffSetMilliseconds	28800000
+currentPrice	266.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3406148096
+totalCashPerShare	37.665
+ebitda	1921342976
+totalDebt	2898296064
+quickRatio	1.247
+currentRatio	1.925
+totalRevenue	11731168256
+debtToEquity	39.737
+revenuePerShare	132.431
+returnOnAssets	0.09132
+returnOnEquity	0.23126
+freeCashflow	1768508928
+operatingCashflow	2132636032
+earningsGrowth	0.758
+revenueGrowth	0.007
+grossMargins	0.47675
+ebitdaMargins	0.16378
+operatingMargins	0.18833
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   -1573259.45997    -9072398.834519    -52690.205969   -3615746.84899
+Tax Rate For Calcs                                                  0.238626           0.228168         0.087817         0.246876
+Normalized EBITDA                                               2271252000.0       1809435000.0      186153000.0      892550000.0
+Total Unusual Items                                               -6593000.0        -39762000.0        -600000.0      -14646000.0
+Total Unusual Items Excluding Goodwill                            -6593000.0        -39762000.0        -600000.0      -14646000.0
+Net Income From Continuing Operation Net Minority Interest      1468530000.0       1142846000.0      -71691000.0      462681000.0
+Reconciled Depreciation                                          240282000.0        221626000.0      208657000.0      213738000.0
+Reconciled Cost Of Revenue                                      6138321000.0       6486741000.0     5672094000.0     5430030000.0
+EBITDA                                                          2264659000.0       1769673000.0      185553000.0      877904000.0
+EBIT                                                            2024377000.0       1548047000.0      -23104000.0      664166000.0
+Net Interest Income                                               -4435000.0        -33904000.0      -28209000.0      -26007000.0
+Interest Expense                                                  87373000.0         48237000.0       33992000.0       36272000.0
+Interest Income                                                   82938000.0         14333000.0        5783000.0       10265000.0
+Normalized Income                                           1473549740.54003  1173535601.165481 -71143690.205969  473711253.15101
+Net Income From Continuing And Discontinued Operation           1468530000.0       1142846000.0      -71691000.0      462681000.0
+Total Expenses                                                  9910378000.0      10017621000.0     8765438000.0     8350298000.0
+Diluted Average Shares                                                   NaN         96687479.0       84998550.0       95823000.0
+Basic Average Shares                                                     NaN         85223415.0       84998550.0       84998550.0
+Diluted EPS                                                              NaN              11.82        -0.847619         4.942857
+Basic EPS                                                                NaN              13.41        -0.847619         5.447619
+Diluted NI Availto Com Stockholders                             1468530000.0       1142846000.0      -71691000.0      462681000.0
+Net Income Common Stockholders                                  1468530000.0       1142846000.0      -71691000.0      462681000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0              0.0              0.0
+Net Income                                                      1468530000.0       1142846000.0      -71691000.0      462681000.0
+Minority Interests                                                -6255000.0        -14756000.0      -19609000.0      -10201000.0
+Net Income Including Noncontrolling Interests                   1474785000.0       1157602000.0      -52082000.0      472882000.0
+Net Income Continuous Operations                                1474785000.0       1157602000.0      -52082000.0      472882000.0
+Tax Provision                                                    462219000.0        342208000.0       -5014000.0      155012000.0
+Pretax Income                                                   1937004000.0       1499810000.0      -57096000.0      627894000.0
+Other Non Operating Income Expenses                              127242000.0        373378000.0     -122751000.0     -122605000.0
+Special Income Charges                                            -6593000.0        -39762000.0        -600000.0      -14646000.0
+Write Off                                                          6593000.0         39762000.0         600000.0       14646000.0
+Net Non Operating Interest Income Expense                         -4435000.0        -33904000.0      -28209000.0      -26007000.0
+Interest Expense Non Operating                                    87373000.0         48237000.0       33992000.0       36272000.0
+Interest Income Non Operating                                     82938000.0         14333000.0        5783000.0       10265000.0
+Operating Income                                                1820790000.0       1200098000.0       94464000.0      791152000.0
+Operating Expense                                               3772057000.0       3530880000.0     3093344000.0     2920268000.0
+Research And Development                                         443923000.0        429844000.0      344901000.0      368298000.0
+Selling General And Administration                              3328134000.0       3101036000.0     2748443000.0     2551970000.0
+Selling And Marketing Expense                                   2098641000.0       2005813000.0     1832713000.0     1610457000.0
+General And Administrative Expense                              1229493000.0       1095223000.0      915730000.0      941513000.0
+Gross Profit                                                    5592847000.0       4730978000.0     3187808000.0     3711420000.0
+Cost Of Revenue                                                 6138321000.0       6486741000.0     5672094000.0     5430030000.0
+Total Revenue                                                  11731168000.0      11217719000.0     8859902000.0     9141450000.0
+Operating Revenue                                              11731168000.0      11217719000.0     8859902000.0     9141450000.0

@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No.66, Hougang Street
+address2	Shilin District
+city	Taipei
+zip	111059
+country	Taiwan
+phone	886 2 2881 0721
+fax	886 2 2882 8086
+website	https://www.inventec.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Inventec Corporation, together with its subsidiaries, develops, manufactures, processes, and trades in computers and related products in Taiwan, the United States, Japan, Hong Kong, Macau, China, and internationally. The company operates through Core Department and Other Department segments. It offers personal computing products, including notebook PC, desktop/AIO, and thin client products; enterprise system solutions, such as servers, blade servers, network switches, 5G/edge products, AI solutions, storage equipment, and rack solutions, as well as server management software; and networking solutions. The company also provides automotive electronics solutions; and 5G smart factory solutions. In addition, it develops, produces, and sells intelligent mobile devices; sells solar cells and medical equipment; offers trading and management, leasing, business management, house leasing, and marketing promotion services; develops electronic product software; and produces and sells medical devices. Further, the company is involved in the environmental energy and emerging technology businesses. Inventec Corporation was incorporated in 1975 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Li-Cheng  Yeh', 'title': 'Chairman & Executive VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-An  Tsai', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yea-Ping  Chen', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui  Chang', 'title': 'President of Group Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Ming  Yi', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. ChuiI-Kuan  Chiu', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Chao  Chen', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Ching  Wang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi An Cai', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ying-Zhe  Huang', 'title': 'Chief Information Security Officer & Director of Server Information Development Center', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	54.6
+open	55.1
+dayLow	53.8
+dayHigh	57.0
+regularMarketPreviousClose	54.6
+regularMarketOpen	55.1
+regularMarketDayLow	53.8
+regularMarketDayHigh	57.0
+dividendRate	1.5
+dividendYield	0.026300002
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.8824
+fiveYearAvgDividendYield	5.57
+beta	0.451
+trailingPE	33.52941
+forwardPE	18.269232
+volume	67687595
+regularMarketVolume	67687595
+averageVolume	47754681
+averageVolume10days	24309485
+averageDailyVolume10Day	24309485
+bid	56.9
+ask	57.0
+marketCap	204486361088
+fiftyTwoWeekLow	29.1
+fiftyTwoWeekHigh	73.5
+priceToSalesTrailing12Months	0.39725667
+fiftyDayAverage	55.53
+twoHundredDayAverage	51.82625
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.027472528
+currency	TWD
+enterpriseValue	225600143360
+profitMargins	0.01191
+floatShares	2440308119
+sharesOutstanding	3587480064
+heldPercentInsiders	0.28786
+heldPercentInstitutions	0.22069
+impliedSharesOutstanding	3628470016
+bookValue	17.037
+priceToBook	3.3456593
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.427
+netIncomeToCommon	6130732032
+trailingEps	1.7
+forwardEps	3.12
+pegRatio	1.4
+lastSplitFactor	1.035:1
+lastSplitDate	1342396800	 (2012-07-16 08:00:00)
+enterpriseToRevenue	0.438
+enterpriseToEbitda	21.718
+52WeekChange	0.84168017
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2356.TW
+underlyingSymbol	2356.TW
+shortName	INVENTEC CORP
+longName	Inventec Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	28fd5b6c-4937-3be3-9dc1-9686f1582514
+messageBoardId	finmb_9638854
+gmtOffSetMilliseconds	28800000
+currentPrice	57.0
+targetHighPrice	70.0
+targetLowPrice	45.0
+targetMeanPrice	57.36
+targetMedianPrice	56.6
+recommendationMean	2.6
+recommendationKey	hold
+numberOfAnalystOpinions	8
+totalCash	29056544768
+totalCashPerShare	8.099
+ebitda	10387515392
+totalDebt	51031773184
+quickRatio	0.727
+currentRatio	1.135
+totalRevenue	514746187776
+debtToEquity	84.688
+revenuePerShare	143.484
+returnOnAssets	0.01968
+returnOnEquity	0.10114
+freeCashflow	-902837888
+operatingCashflow	11358841856
+earningsGrowth	0.416
+revenueGrowth	-0.05
+grossMargins	0.051170003
+ebitdaMargins	0.020179998
+operatingMargins	0.01991
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -520027.361787     1144849.731679    -7610570.069893    10578961.053887
+Tax Rate For Calcs                                                   0.167805            0.15536           0.227568           0.364666
+Normalized EBITDA                                               15338097000.0      13106622000.0      11733885000.0      15224479000.0
+Total Unusual Items                                                -3099000.0          7369000.0        -33443000.0         29010000.0
+Total Unusual Items Excluding Goodwill                             -3099000.0          7369000.0        -33443000.0         29010000.0
+Net Income From Continuing Operation Net Minority Interest       6130732000.0       6128786000.0       6537765000.0       7547985000.0
+Reconciled Depreciation                                          3511939000.0       2901368000.0       3262821000.0       3853540000.0
+Reconciled Cost Of Revenue                                     488408057000.0     515747708000.0     497437486000.0     487181281000.0
+EBITDA                                                          15334998000.0      13113991000.0      11700442000.0      15253489000.0
+EBIT                                                            11823059000.0      10212623000.0       8437621000.0      11399949000.0
+Net Interest Income                                             -1960544000.0      -1271272000.0        337523000.0        132385000.0
+Interest Expense                                                 4588115000.0       3035588000.0        738437000.0       1054244000.0
+Interest Income                                                  2627571000.0       1764316000.0       1075960000.0       1186629000.0
+Normalized Income                                           6133310972.638213  6122561849.731679  6563597429.930107  7529553961.053887
+Net Income From Continuing And Discontinued Operation            6130732000.0       6128786000.0       6537765000.0       7547985000.0
+Total Expenses                                                 507279877000.0     535089143000.0     514973971000.0     503882122000.0
+Diluted Average Shares                                                    NaN       3614326000.0       3615934000.0       3620382000.0
+Basic Average Shares                                                      NaN       3587475000.0       3587475000.0       3587475000.0
+Diluted EPS                                                               NaN                1.7               1.81               2.08
+Basic EPS                                                                 NaN               1.71               1.82                2.1
+Diluted NI Availto Com Stockholders                              6130732000.0       6128786000.0       6537765000.0       7547985000.0
+Net Income Common Stockholders                                   6130732000.0       6128786000.0       6537765000.0       7547985000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       6130732000.0       6128786000.0       6537765000.0       7547985000.0
+Minority Interests                                                109847000.0         66777000.0        590672000.0        975007000.0
+Net Income Including Noncontrolling Interests                    6020885000.0       6062009000.0       5947093000.0       6572978000.0
+Net Income Continuous Operations                                 6020885000.0       6062009000.0       5947093000.0       6572978000.0
+Tax Provision                                                    1214059000.0       1115026000.0       1752091000.0       3772727000.0
+Pretax Income                                                    7234944000.0       7177035000.0       7699184000.0      10345705000.0
+Other Non Operating Income Expenses                              1756772000.0       1788959000.0       2598698000.0       5790552000.0
+Special Income Charges                                             -3099000.0          7369000.0        -33443000.0         29010000.0
+Write Off                                                           3099000.0         -7369000.0         33443000.0        -29010000.0
+Net Non Operating Interest Income Expense                       -1960544000.0      -1271272000.0        337523000.0        132385000.0
+Interest Expense Non Operating                                   4588115000.0       3035588000.0        738437000.0       1054244000.0
+Interest Income Non Operating                                    2627571000.0       1764316000.0       1075960000.0       1186629000.0
+Operating Income                                                 7466323000.0       6661707000.0       4758077000.0       4412076000.0
+Operating Expense                                               18871820000.0      19341435000.0      17536485000.0      16700841000.0
+Research And Development                                        11321839000.0      12095376000.0      10593339000.0       9715204000.0
+Selling General And Administration                               7549981000.0       7246059000.0       6943146000.0       6985637000.0
+Selling And Marketing Expense                                    2884821000.0       3241707000.0       3076667000.0       2795370000.0
+General And Administrative Expense                               4665160000.0       4004352000.0       3866479000.0       4190267000.0
+Gross Profit                                                    26338143000.0      26003142000.0      22294562000.0      21112917000.0
+Cost Of Revenue                                                488408057000.0     515747708000.0     497437486000.0     487181281000.0
+Total Revenue                                                  514746200000.0     541750850000.0     519732048000.0     508294198000.0
+Operating Revenue                                              514746200000.0     541750850000.0     519732048000.0     508294198000.0

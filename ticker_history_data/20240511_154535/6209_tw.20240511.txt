@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 91, Xiangshang Road
+address2	Lane 562 Sec. 9 Wuqi District
+city	Taichung
+zip	435
+country	Taiwan
+phone	886 4 2630 5679
+fax	886 4 2630 5638
+website	https://www.kinko-optical.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Kinko Optical Co., Ltd. engages in the design, development, and production of optical components and lens in Taiwan. The company offers digital single-lens reflex cameras; mobile phone lens; projector lens; IoT, automotive, far infrared, and VR/AR/MR lens; and industrial, telescope, and sports cameras. It provides spherical and aspherical glass lens OEM, and lens ODM services. Kinko Optical Co., Ltd. was founded in 1980 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jason  Chen', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Liang-Chang  Chou', 'title': 'Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.05
+open	25.05
+dayLow	24.75
+dayHigh	25.05
+regularMarketPreviousClose	25.05
+regularMarketOpen	25.05
+regularMarketDayLow	24.75
+regularMarketDayHigh	25.05
+dividendRate	0.7
+dividendYield	0.028199999
+exDividendDate	1691539200	 (2023-08-09 08:00:00)
+payoutRatio	6.7356
+beta	1.206
+forwardPE	-155.3125
+volume	259101
+regularMarketVolume	259101
+averageVolume	552922
+averageVolume10days	286488
+averageDailyVolume10Day	286488
+bid	24.85
+ask	24.95
+marketCap	4332075520
+fiftyTwoWeekLow	24.25
+fiftyTwoWeekHigh	32.35
+priceToSalesTrailing12Months	1.606266
+fiftyDayAverage	25.47
+twoHundredDayAverage	26.821
+currency	TWD
+enterpriseValue	4004205568
+profitMargins	-0.01846
+sharesOutstanding	174328992
+heldPercentInsiders	0.23416
+heldPercentInstitutions	0.01567
+impliedSharesOutstanding	174679008
+bookValue	17.452
+priceToBook	1.4239056
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-49788000
+trailingEps	-0.29
+forwardEps	-0.16
+lastSplitFactor	101:100
+lastSplitDate	1217289600	 (2008-07-29 08:00:00)
+enterpriseToRevenue	1.485
+enterpriseToEbitda	27.559
+52WeekChange	-0.14013839
+SandP52WeekChange	0.26265144
+lastDividendValue	0.69975
+lastDividendDate	1691539200	 (2023-08-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6209.TW
+underlyingSymbol	6209.TW
+shortName	KINKO OPTICAL CO
+longName	Kinko Optical Co., Ltd.
+firstTradeDateEpochUtc	1099875600	 (2004-11-08 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ba07327c-ed12-3934-9ef9-c48e42903dd5
+messageBoardId	finmb_9845927
+gmtOffSetMilliseconds	28800000
+currentPrice	24.85
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	933003008
+totalCashPerShare	5.352
+ebitda	145295008
+totalDebt	605132992
+quickRatio	1.676
+currentRatio	2.325
+totalRevenue	2696985088
+debtToEquity	19.89
+revenuePerShare	15.477
+returnOnAssets	-0.02041
+returnOnEquity	-0.01588
+freeCashflow	275495264
+operatingCashflow	420699008
+revenueGrowth	-0.314
+grossMargins	0.072129995
+ebitdaMargins	0.05387
+operatingMargins	-0.123909995
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  1432976.416414    -1156800.0           0.0    -5992800.0
+Tax Rate For Calcs                                                 0.366678           0.2      0.308577           0.2
+Normalized EBITDA                                               220174000.0   380790000.0   135662000.0   122105000.0
+Total Unusual Items                                               3908000.0    -5784000.0    -6467000.0   -29964000.0
+Total Unusual Items Excluding Goodwill                            3908000.0    -5784000.0    -6467000.0   -29964000.0
+Net Income From Continuing Operation Net Minority Interest      -49788000.0    64944000.0  -150464000.0  -216792000.0
+Reconciled Depreciation                                         294267000.0   326313000.0   344391000.0   297189000.0
+Reconciled Cost Of Revenue                                     2502446000.0  3266974000.0  3412077000.0  2857760000.0
+EBITDA                                                          224082000.0   375006000.0   135662000.0    92141000.0
+EBIT                                                            -70185000.0    48693000.0  -208729000.0  -205048000.0
+Net Interest Income                                              11367000.0    -4339000.0    -6061000.0     1645000.0
+Interest Expense                                                  8429000.0     7269000.0     8886000.0     8852000.0
+Interest Income                                                  19796000.0     2930000.0     2825000.0    10497000.0
+Normalized Income                                          -52263023.583586    69571200.0  -150464000.0  -192820800.0
+Net Income From Continuing And Discontinued Operation           -49788000.0    64944000.0  -150464000.0  -216792000.0
+Total Expenses                                                 2842750000.0  3682337000.0  3835124000.0  3192198000.0
+Diluted Average Shares                                                  NaN   174447000.0   165927000.0   163147000.0
+Basic Average Shares                                                    NaN   174210000.0   165927000.0   163147000.0
+Diluted EPS                                                             NaN          0.37         -0.91         -1.33
+Basic EPS                                                               NaN          0.37         -0.91         -1.33
+Diluted NI Availto Com Stockholders                             -49788000.0    64944000.0  -150464000.0  -216792000.0
+Net Income Common Stockholders                                  -49788000.0    64944000.0  -150464000.0  -216792000.0
+Otherunder Preferred Stock Dividend                                     0.0           0.0           0.0           0.0
+Net Income                                                      -49788000.0    64944000.0  -150464000.0  -216792000.0
+Minority Interests                                                      NaN           NaN           NaN           0.0
+Net Income Including Noncontrolling Interests                   -49788000.0    64944000.0  -150464000.0  -216792000.0
+Net Income Continuous Operations                                -49788000.0    64944000.0  -150464000.0  -216792000.0
+Tax Provision                                                   -28826000.0   -23520000.0   -67151000.0     2892000.0
+Pretax Income                                                   -78614000.0    41424000.0  -217615000.0  -213900000.0
+Other Non Operating Income Expenses                              51876000.0   152406000.0     9909000.0    57493000.0
+Special Income Charges                                            3908000.0    -5784000.0           NaN           NaN
+Write Off                                                        -3908000.0     5784000.0           NaN           NaN
+Net Non Operating Interest Income Expense                        11367000.0    -4339000.0    -6061000.0     1645000.0
+Interest Expense Non Operating                                    8429000.0     7269000.0     8886000.0     8852000.0
+Interest Income Non Operating                                    19796000.0     2930000.0     2825000.0    10497000.0
+Operating Income                                               -145765000.0  -100859000.0  -221463000.0  -213036000.0
+Operating Expense                                               340304000.0   415363000.0   423047000.0   334438000.0
+Other Operating Expenses                                                NaN           NaN           NaN   -29606000.0
+Research And Development                                         91257000.0   133228000.0   133530000.0   123106000.0
+Selling General And Administration                              249047000.0   282135000.0   289517000.0   240938000.0
+Selling And Marketing Expense                                    41238000.0    53649000.0    44431000.0    30699000.0
+General And Administrative Expense                              207809000.0   228486000.0   245086000.0   210239000.0
+Gross Profit                                                    194539000.0   314504000.0   201584000.0   121402000.0
+Cost Of Revenue                                                2502446000.0  3266974000.0  3412077000.0  2857760000.0
+Total Revenue                                                  2696985000.0  3581478000.0  3613661000.0  2979162000.0
+Operating Revenue                                              2696985000.0  3581478000.0  3613661000.0  2979162000.0

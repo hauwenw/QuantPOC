@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 9 Chang'an East Road
+address2	6th Floor Sec. 1
+city	Taipei
+zip	10441
+country	Taiwan
+phone	886 2 2551 1100
+fax	886 2 2568 1663
+website	https://www.tunghosteel.com
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Tung Ho Steel Enterprise Corporation, together with its subsidiaries, produces and sells steel products in Taiwan. It offers re-bars, such as round bar, screwed re-bar, and deformed steel re-bar products for building projects; and formed steel products, including H-beams, I-beams, channel beams, and U-beams; plate-type steel products. The company also provides processing services, such as rebar cutting, bending, processing, forming, friction welding, welded steel mesh, and built-up H-beam. The company was founded in 1946 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Bing-Hua  Huang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhao  Liu', 'title': 'Senior Manager of Investment Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ju-Yu  Ho', 'title': 'Head of Corporate Governance & VP of Administration Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jun-Xian  Chao', 'title': 'Manager of Legal Affairs Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuanren  Gu', 'title': 'Vice President of Sales & Marketing Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ru-Yu  He', 'title': 'Head of Corporate Governance & Assistant Manager of Administration Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhe-Chong  Lin', 'title': 'Assistant Manager of the Systems Engineering Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	70.0
+open	70.0
+dayLow	69.8
+dayHigh	70.8
+regularMarketPreviousClose	70.0
+regularMarketOpen	70.0
+regularMarketDayLow	69.8
+regularMarketDayHigh	70.8
+dividendRate	4.2
+dividendYield	0.0596
+exDividendDate	1711065600	 (2024-03-22 08:00:00)
+payoutRatio	0.65830004
+fiveYearAvgDividendYield	6.14
+beta	0.469
+trailingPE	11.050157
+forwardPE	12.589286
+volume	1288077
+regularMarketVolume	1288077
+averageVolume	2713742
+averageVolume10days	1897335
+averageDailyVolume10Day	1897335
+bid	70.4
+ask	70.5
+marketCap	51480088576
+fiftyTwoWeekLow	55.0
+fiftyTwoWeekHigh	78.8
+priceToSalesTrailing12Months	0.8250394
+fiftyDayAverage	73.468
+twoHundredDayAverage	68.093
+trailingAnnualDividendRate	4.2
+trailingAnnualDividendYield	0.06
+currency	TWD
+enterpriseValue	64107458560
+profitMargins	0.0752
+floatShares	456766839
+sharesOutstanding	730214016
+heldPercentInsiders	0.34206
+heldPercentInstitutions	0.16096
+impliedSharesOutstanding	736249024
+bookValue	39.861
+priceToBook	1.768646
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.032
+netIncomeToCommon	4675254784
+trailingEps	6.38
+forwardEps	5.6
+pegRatio	0.5
+lastSplitFactor	670:1000
+lastSplitDate	1637798400	 (2021-11-25 08:00:00)
+enterpriseToRevenue	1.027
+enterpriseToEbitda	8.518
+52WeekChange	0.23251748
+SandP52WeekChange	0.26265144
+lastDividendValue	4.2
+lastDividendDate	1711065600	 (2024-03-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2006.TW
+underlyingSymbol	2006.TW
+shortName	TUNG HO STEEL ENTERPRISE CORP
+longName	Tung Ho Steel Enterprise Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6d7532c8-6372-3bd1-a5f5-bfdf16358949
+messageBoardId	finmb_881628
+gmtOffSetMilliseconds	28800000
+currentPrice	70.5
+targetHighPrice	80.0
+targetLowPrice	65.0
+targetMeanPrice	72.75
+targetMedianPrice	73.0
+recommendationMean	2.6
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	2367877120
+totalCashPerShare	3.235
+ebitda	7526472192
+totalDebt	14745709568
+quickRatio	0.425
+currentRatio	1.271
+totalRevenue	62397128704
+debtToEquity	50.325
+revenuePerShare	85.455
+returnOnAssets	0.06672
+returnOnEquity	0.16566
+freeCashflow	2875514880
+operatingCashflow	3941942016
+earningsGrowth	-0.032
+revenueGrowth	0.09
+grossMargins	0.13888
+ebitdaMargins	0.120620005
+operatingMargins	0.0947
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    2051135.06134     -453665.615861    -1307895.157353   -14242194.922454
+Tax Rate For Calcs                                                   0.21541            0.24696           0.194425           0.207812
+Normalized EBITDA                                               8030390000.0       7142018000.0       9137333000.0       6388622000.0
+Total Unusual Items                                                9522000.0         -1837000.0         -6727000.0        -68534000.0
+Total Unusual Items Excluding Goodwill                             9522000.0         -1837000.0         -6727000.0        -68534000.0
+Net Income From Continuing Operation Net Minority Interest      4678651000.0       3926854000.0       5906247000.0       3562064000.0
+Reconciled Depreciation                                         1603192000.0       1605234000.0       1630394000.0       1640581000.0
+Reconciled Cost Of Revenue                                     52315715000.0      51767274000.0      49321315000.0      36245586000.0
+EBITDA                                                          8039912000.0       7140181000.0       9130606000.0       6320088000.0
+EBIT                                                            6436720000.0       5534947000.0       7500212000.0       4679507000.0
+Net Interest Income                                             -397388000.0       -280751000.0       -134091000.0       -181676000.0
+Interest Expense                                                 434699000.0        298015000.0        149501000.0        189937000.0
+Interest Income                                                   37311000.0         17264000.0         15410000.0          8261000.0
+Normalized Income                                           4671180135.06134  3928237334.384139  5911666104.842647  3616355805.077546
+Net Income From Continuing And Discontinued Operation           4729346000.0       3994004000.0       5906247000.0       3562064000.0
+Total Expenses                                                 54972730000.0      54097395000.0      51728757000.0      38376269000.0
+Diluted Average Shares                                           732655000.0        733222000.0        998575000.0        709369200.0
+Basic Average Shares                                             730214000.0        730214000.0        991957000.0        709369200.0
+Diluted EPS                                                             6.46               5.45               5.92               3.27
+Basic EPS                                                               6.48               5.47               5.95               3.52
+Diluted NI Availto Com Stockholders                             4729346000.0       3994004000.0       5906247000.0       3562064000.0
+Net Income Common Stockholders                                  4729346000.0       3994004000.0       5906247000.0       3562064000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0                0.0
+Net Income                                                      4729346000.0       3994004000.0       5906247000.0       3562064000.0
+Minority Interests                                               -30474000.0        -16765000.0        -15304000.0          5481000.0
+Net Income Including Noncontrolling Interests                   4759820000.0       4010769000.0       5921551000.0       3556583000.0
+Net Income Discontinuous Operations                               50695000.0         67150000.0                NaN                NaN
+Net Income Continuous Operations                                4709125000.0       3943619000.0       5921551000.0       3556583000.0
+Tax Provision                                                   1292896000.0       1293313000.0       1429160000.0        932987000.0
+Pretax Income                                                   6002021000.0       5236932000.0       7350711000.0       4489570000.0
+Other Non Operating Income Expenses                              271278000.0        287412000.0        225263000.0        169547000.0
+Special Income Charges                                             9522000.0         -1837000.0         -6727000.0        -68534000.0
+Write Off                                                         -9522000.0          1837000.0          6727000.0         68534000.0
+Net Non Operating Interest Income Expense                       -397388000.0       -280751000.0       -134091000.0       -181676000.0
+Interest Expense Non Operating                                   434699000.0        298015000.0        149501000.0        189937000.0
+Interest Income Non Operating                                     37311000.0         17264000.0         15410000.0          8261000.0
+Operating Income                                                5989178000.0       5119618000.0       7066332000.0       4490021000.0
+Operating Expense                                               2657015000.0       2330121000.0       2407442000.0       2130683000.0
+Selling General And Administration                              2657015000.0       2330121000.0       2407442000.0       2130683000.0
+Selling And Marketing Expense                                   1126406000.0        930469000.0        953430000.0        846197000.0
+General And Administrative Expense                              1530609000.0       1399652000.0       1454012000.0       1284486000.0
+Gross Profit                                                    8646193000.0       7449739000.0       9473774000.0       6620704000.0
+Cost Of Revenue                                                52315715000.0      51767274000.0      49321315000.0      36245586000.0
+Total Revenue                                                  60961908000.0      59217013000.0      58795089000.0      42866290000.0
+Operating Revenue                                              60961908000.0      59217013000.0      58795089000.0      42866290000.0

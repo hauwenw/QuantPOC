@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre
+address2	Oleander Way 802 West Bay Road PO Box 32052
+city	Grand Cayman
+zip	KY1-1208
+country	Cayman Islands
+website	https://www.gsd.net.tw
+industry	Pollution & Treatment Controls
+industryKey	pollution-treatment-controls
+industryDisp	Pollution & Treatment Controls
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	GSD Technologies Co., Ltd. manufactures and sells environmental protection equipment and its consumables in Asia and internationally. The company offers submersible pumps, on land pumps, blowers, and machines; aerating oxygen inputting, mixing and flow propeller, solid liquid separation, reactor and package, and intelligent equipment; consumable and pharmaceutical products; and electric control cabinet products. It is also involved in the sales, installation, maintenance, and provision of related technical services for aquaculture and environmental protection equipment; technology development, technology transfer, technical consulting, and technical services for environmental protection technology; and trading of electronic, and mechanical equipment and spare parts. The company was incorporated in 2013 and is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shin-Hsien  Chen', 'title': 'GM and VP of Marketing & Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wu-Hsiung  Wu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Chen  Chuang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.3
+open	42.6
+dayLow	42.6
+dayHigh	43.05
+regularMarketPreviousClose	43.3
+regularMarketOpen	42.6
+regularMarketDayLow	42.6
+regularMarketDayHigh	43.05
+dividendRate	3.5
+dividendYield	0.0813
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	1.9337
+beta	0.081
+trailingPE	23.78453
+forwardPE	9.218415
+volume	2030
+regularMarketVolume	2030
+averageVolume	31600
+averageVolume10days	17305
+averageDailyVolume10Day	17305
+bid	43.0
+ask	43.15
+marketCap	1571324928
+fiftyTwoWeekLow	38.95
+fiftyTwoWeekHigh	55.6
+priceToSalesTrailing12Months	0.8856312
+fiftyDayAverage	41.367
+twoHundredDayAverage	43.43325
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.02309469
+currency	TWD
+enterpriseValue	1238705024
+profitMargins	0.02641
+sharesOutstanding	36500000
+heldPercentInsiders	0.52159
+heldPercentInstitutions	0.06903
+impliedSharesOutstanding	36754700
+bookValue	38.887
+priceToBook	1.1070538
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.398
+netIncomeToCommon	46866000
+trailingEps	1.81
+forwardEps	4.67
+enterpriseToRevenue	0.698
+enterpriseToEbitda	40.528
+52WeekChange	-0.21441609
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6641.TW
+underlyingSymbol	6641.TW
+shortName	GSD TECHNOLOGIES CO LTD
+longName	GSD Technologies Co., Ltd.
+firstTradeDateEpochUtc	1537491600	 (2018-09-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	84c5f787-e419-3db6-bc32-bb11d1d143e5
+messageBoardId	finmb_558774613
+gmtOffSetMilliseconds	28800000
+currentPrice	43.05
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	757484032
+totalCashPerShare	20.753
+ebitda	30564000
+totalDebt	414932000
+quickRatio	1.253
+currentRatio	1.563
+totalRevenue	1774242944
+debtToEquity	29.03
+revenuePerShare	48.609
+returnOnAssets	-0.00343
+returnOnEquity	0.02569
+freeCashflow	-29594750
+operatingCashflow	-3911000
+earningsGrowth	0.484
+revenueGrowth	0.168
+grossMargins	0.32104
+ebitdaMargins	0.01723
+operatingMargins	-0.0022
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -960103.099869    -177418.449562     691698.929433    1490356.124269
+Tax Rate For Calcs                                                 0.125209           0.13764          0.171213          0.259283
+Normalized EBITDA                                               114492000.0       249574000.0       290633000.0       321317000.0
+Total Unusual Items                                              -7668000.0        -1289000.0         4040000.0         5748000.0
+Total Unusual Items Excluding Goodwill                           -7668000.0        -1289000.0         4040000.0         5748000.0
+Net Income From Continuing Operation Net Minority Interest       46866000.0       182390000.0       215623000.0       219358000.0
+Reconciled Depreciation                                          59306000.0        42670000.0        35907000.0        35183000.0
+Reconciled Cost Of Revenue                                     1204643000.0      1180300000.0      1208569000.0      1106723000.0
+EBITDA                                                          106824000.0       248285000.0       294673000.0       327065000.0
+EBIT                                                             47518000.0       205615000.0       258766000.0       291882000.0
+Net Interest Income                                              10705000.0        14871000.0        19147000.0        18028000.0
+Interest Expense                                                  3871000.0         3930000.0         2640000.0          933000.0
+Interest Income                                                  14576000.0        18801000.0        21787000.0        18961000.0
+Normalized Income                                           53573896.900131  183501581.550438  212274698.929433  215100356.124269
+Net Income From Continuing And Discontinued Operation            46866000.0       182390000.0       215623000.0       219358000.0
+Total Expenses                                                 1779916000.0      1723644000.0      1761331000.0      1590317000.0
+Diluted Average Shares                                                  NaN        41249000.0        37052000.0        33811000.0
+Basic Average Shares                                                    NaN        36500000.0        34223000.0        33667000.0
+Diluted EPS                                                             NaN              3.78              5.86              6.49
+Basic EPS                                                               NaN               5.0               6.3              6.52
+Diluted NI Availto Com Stockholders                              46866000.0       182390000.0       215623000.0       219358000.0
+Net Income Common Stockholders                                   46866000.0       182390000.0       215623000.0       219358000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                       46866000.0       182390000.0       215623000.0       219358000.0
+Minority Interests                                                8684000.0         8465000.0         3349000.0         3847000.0
+Net Income Including Noncontrolling Interests                    38182000.0       173925000.0       212274000.0       215511000.0
+Net Income Continuous Operations                                 38182000.0       173925000.0       212274000.0       215511000.0
+Tax Provision                                                     5465000.0        27760000.0        43852000.0        75438000.0
+Pretax Income                                                    43647000.0       201685000.0       256126000.0       290949000.0
+Other Non Operating Income Expenses                              26729000.0        44952000.0        22068000.0        10816000.0
+Special Income Charges                                           -7668000.0        -1289000.0         4040000.0         5748000.0
+Write Off                                                         7668000.0         1289000.0        -4040000.0        -5748000.0
+Net Non Operating Interest Income Expense                        10705000.0        14871000.0        19147000.0        18028000.0
+Interest Expense Non Operating                                    3871000.0         3930000.0         2640000.0          933000.0
+Interest Income Non Operating                                    14576000.0        18801000.0        21787000.0        18961000.0
+Operating Income                                                 -5673000.0       116940000.0       199187000.0       256357000.0
+Operating Expense                                               575273000.0       543344000.0       552762000.0       483594000.0
+Research And Development                                         88672000.0        74072000.0        82473000.0        62388000.0
+Selling General And Administration                              486601000.0       469272000.0       470289000.0       421206000.0
+Selling And Marketing Expense                                   325086000.0       300789000.0       307102000.0       275408000.0
+General And Administrative Expense                              161515000.0       168483000.0       163187000.0       145798000.0
+Gross Profit                                                    569600000.0       660284000.0       751949000.0       739951000.0
+Cost Of Revenue                                                1204643000.0      1180300000.0      1208569000.0      1106723000.0
+Total Revenue                                                  1774243000.0      1840584000.0      1960518000.0      1846674000.0
+Operating Revenue                                              1774243000.0      1840584000.0      1960518000.0      1846674000.0

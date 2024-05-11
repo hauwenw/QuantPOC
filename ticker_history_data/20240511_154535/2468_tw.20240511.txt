@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 25, Xing'ai Road
+address2	Lane 78 Neihu District
+city	Taipei City
+zip	11494
+country	Taiwan
+phone	886 2 2793 5566
+fax	886 2 5555 1111
+website	https://www.fis.com.tw
+industry	Information Technology Services
+industryKey	information-technology-services
+industryDisp	Information Technology Services
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Fortune Information Systems Corp provides information system integration and professional services in Taiwan. The company offers enterprise public/private cloud infrastructure construction and planning, network system planning, information security, backup and redundancy planning, financial institution information integration, cloud monitoring management, software and project development, and video projection product integration services. It provides document microfilm production, document digitization, information image processing, logistics warehouse management system, insurance software, insurance industry information, and information equipment services. In addition, the company offers professional video and image, maintenance management, warehouse logistics, insurance finance, and value-added services. The company was founded in 1966 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Yu Hua  Tang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiuyue  Chen', 'title': 'VP & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liang-Shih  Chang', 'title': 'Senior VP & Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	26.3
+open	26.4
+dayLow	26.25
+dayHigh	26.55
+regularMarketPreviousClose	26.3
+regularMarketOpen	26.4
+regularMarketDayLow	26.25
+regularMarketDayHigh	26.55
+dividendRate	0.6
+dividendYield	0.0228
+exDividendDate	1693958400	 (2023-09-06 08:00:00)
+payoutRatio	0.5357
+fiveYearAvgDividendYield	2.9
+beta	0.646
+trailingPE	23.526787
+volume	182068
+regularMarketVolume	182068
+averageVolume	554901
+averageVolume10days	169430
+averageDailyVolume10Day	169430
+bid	26.35
+ask	26.4
+marketCap	1843472384
+fiftyTwoWeekLow	24.65
+fiftyTwoWeekHigh	44.0
+priceToSalesTrailing12Months	0.7883575
+fiftyDayAverage	28.068
+twoHundredDayAverage	29.015
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.030418253
+currency	TWD
+enterpriseValue	1502676352
+profitMargins	0.03352
+sharesOutstanding	69961000
+heldPercentInsiders	0.56027
+impliedSharesOutstanding	70762096
+bookValue	17.633
+priceToBook	1.4943572
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.379
+netIncomeToCommon	78378000
+trailingEps	1.12
+lastSplitFactor	105:100
+lastSplitDate	1187654400	 (2007-08-21 08:00:00)
+enterpriseToRevenue	0.643
+enterpriseToEbitda	15.37
+52WeekChange	0.0625
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1693958400	 (2023-09-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2468.TW
+underlyingSymbol	2468.TW
+shortName	FORTUNE INFORMATION SYSTEMS COR
+longName	Fortune Information Systems Corp
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f904ba1c-14ad-3cd9-a49a-f7dbbcc0de84
+messageBoardId	finmb_9846027
+gmtOffSetMilliseconds	28800000
+currentPrice	26.35
+recommendationKey	none
+totalCash	433972000
+totalCashPerShare	6.203
+ebitda	97764000
+totalDebt	93176000
+quickRatio	1.541
+currentRatio	1.952
+totalRevenue	2338371072
+debtToEquity	7.553
+revenuePerShare	33.424
+returnOnAssets	0.026870001
+returnOnEquity	0.06446
+freeCashflow	261720752
+operatingCashflow	300660000
+earningsGrowth	0.415
+revenueGrowth	-0.099
+grossMargins	0.11579
+ebitdaMargins	0.041810002
+operatingMargins	0.045640003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.209262      0.189513      0.208982      0.187256
+Normalized EBITDA                                            119181000.0    96494000.0    72574000.0    62586000.0
+Net Income From Continuing Operation Net Minority Interest    78378000.0    63530000.0    44683000.0    38776000.0
+Reconciled Depreciation                                       16525000.0    15153000.0    14415000.0    14125000.0
+Reconciled Cost Of Revenue                                  2067618000.0  2023539000.0  1916539000.0  1938854000.0
+EBITDA                                                       119181000.0    96494000.0    72574000.0    62586000.0
+EBIT                                                         102656000.0    81341000.0    58159000.0    48461000.0
+Net Interest Income                                             257000.0     1012000.0      285000.0     2604000.0
+Interest Expense                                               3536000.0     2956000.0     1671000.0      751000.0
+Interest Income                                                3793000.0     3968000.0     1956000.0     3355000.0
+Normalized Income                                             78378000.0    63530000.0    44683000.0    38776000.0
+Net Income From Continuing And Discontinued Operation         78378000.0    63530000.0    44683000.0    38776000.0
+Total Expenses                                              2248573000.0  2206272000.0  2095344000.0  2113738000.0
+Diluted Average Shares                                               NaN    70204000.0    70258000.0    70246000.0
+Basic Average Shares                                                 NaN    69961000.0    69961000.0    69961000.0
+Diluted EPS                                                          NaN           0.9          0.64          0.55
+Basic EPS                                                            NaN          0.91          0.64          0.55
+Diluted NI Availto Com Stockholders                           78378000.0    63530000.0    44683000.0    38776000.0
+Net Income Common Stockholders                                78378000.0    63530000.0    44683000.0    38776000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    78378000.0    63530000.0    44683000.0    38776000.0
+Net Income Including Noncontrolling Interests                 78378000.0    63530000.0    44683000.0    38776000.0
+Net Income Continuous Operations                              78378000.0    63530000.0    44683000.0    38776000.0
+Tax Provision                                                 20742000.0    14855000.0    11805000.0     8934000.0
+Pretax Income                                                 99120000.0    78385000.0    56488000.0    47710000.0
+Other Non Operating Income Expenses                            9065000.0    13612000.0     3044000.0    -2154000.0
+Net Non Operating Interest Income Expense                       257000.0     1012000.0      285000.0     2604000.0
+Interest Expense Non Operating                                 3536000.0     2956000.0     1671000.0      751000.0
+Interest Income Non Operating                                  3793000.0     3968000.0     1956000.0     3355000.0
+Operating Income                                              89798000.0    63761000.0    53159000.0    47260000.0
+Operating Expense                                            180955000.0   182733000.0   178805000.0   174884000.0
+Other Operating Expenses                                     180955000.0   182733000.0   178805000.0   174884000.0
+Gross Profit                                                 270753000.0   246494000.0   231964000.0   222144000.0
+Cost Of Revenue                                             2067618000.0  2023539000.0  1916539000.0  1938854000.0
+Total Revenue                                               2338371000.0  2270033000.0  2148503000.0  2160998000.0
+Operating Revenue                                           2338371000.0  2270033000.0  2148503000.0  2160998000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.15, Kezhong Road
+address2	Zhunan Township Hsinchu Science Park Miaoli
+city	Chunan
+zip	350
+country	Taiwan
+phone	886 0 3578 1616
+fax	886 0 3758 2908
+website	https://www.tyntek.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Tyntek Corporation provides Si and compound semiconductor components. The company offers visible LED, ultra HB LED, infrared LED, InGaAs/InP, and other LED products. It also provides SI products, such as Si submount, Si resistor, Si zener diode, ambient sensor, Si photo-transistor, Si photo-diode, and other chips. It also engages in the research and development, manufacturing, and sale of various products, that includes gallium arsenide, infrared, light-emitting diodes, laser diodes, phototransistors, photodiodes, single crystal and epitaxy, crystal grains, optoelectronic systems, radio transmitters, and other electrical devices that generate radio radiant energy. In addition, the company offers optical fiber communication component products, including InP-based chips. Tyntek Corporation was incorporated in 1987 and is based in Chunan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jung Huan  Lee', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiao-Ping  Li', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.5
+open	17.6
+dayLow	17.35
+dayHigh	17.6
+regularMarketPreviousClose	17.5
+regularMarketOpen	17.6
+regularMarketDayLow	17.35
+regularMarketDayHigh	17.6
+exDividendDate	1660780800	 (2022-08-18 08:00:00)
+fiveYearAvgDividendYield	4.57
+beta	1.121
+forwardPE	14.303279
+volume	280487
+regularMarketVolume	280487
+averageVolume	636028
+averageVolume10days	233620
+averageDailyVolume10Day	233620
+bid	17.4
+ask	17.5
+marketCap	5245836288
+fiftyTwoWeekLow	16.85
+fiftyTwoWeekHigh	21.6
+priceToSalesTrailing12Months	2.3133492
+fiftyDayAverage	17.981
+twoHundredDayAverage	18.3865
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.011428571
+currency	TWD
+enterpriseValue	4669935616
+profitMargins	-0.05819
+floatShares	276556289
+sharesOutstanding	300620992
+heldPercentInsiders	0.24576999
+heldPercentInstitutions	0.06256
+impliedSharesOutstanding	307652992
+bookValue	12.768
+priceToBook	1.3666981
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-131954000
+trailingEps	-0.58
+forwardEps	1.22
+lastSplitFactor	0.662697:1
+lastSplitDate	1414108800	 (2014-10-24 08:00:00)
+enterpriseToRevenue	2.059
+enterpriseToEbitda	31.441
+52WeekChange	-0.014124274
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1660780800	 (2022-08-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2426.TW
+underlyingSymbol	2426.TW
+shortName	TYNTEK CORP
+longName	Tyntek Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fcfc5d00-168a-3f9d-bdac-8e1d79074d1d
+messageBoardId	finmb_9844951
+gmtOffSetMilliseconds	28800000
+currentPrice	17.45
+recommendationKey	none
+totalCash	1411320064
+totalCashPerShare	4.695
+ebitda	148530000
+totalDebt	793057984
+quickRatio	2.229
+currentRatio	3.118
+totalRevenue	2267636992
+debtToEquity	20.435
+revenuePerShare	7.543
+returnOnAssets	-0.01667
+returnOnEquity	-0.03446
+freeCashflow	-141471872
+operatingCashflow	156560000
+revenueGrowth	0.194
+grossMargins	0.10241
+ebitdaMargins	0.0655
+operatingMargins	-0.024230001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0    -987116.995294
+Tax Rate For Calcs                                                   0.2      0.115649          0.154093
+Normalized EBITDA                                            123656000.0  1088998000.0       642969000.0
+Total Unusual Items                                                  NaN           0.0        -6406000.0
+Total Unusual Items Excluding Goodwill                               NaN           0.0        -6406000.0
+Net Income From Continuing Operation Net Minority Interest  -181505000.0   724850000.0       304498000.0
+Reconciled Depreciation                                      274802000.0   247377000.0       248411000.0
+Reconciled Cost Of Revenue                                  2032905000.0  2446714000.0      2067874000.0
+EBITDA                                                       123656000.0  1088998000.0       636563000.0
+EBIT                                                        -151146000.0   841621000.0       388152000.0
+Net Interest Income                                           -8298000.0   -15042000.0       -15043000.0
+Interest Expense                                              12862000.0    20531000.0        24163000.0
+Interest Income                                                4564000.0     5489000.0         9120000.0
+Normalized Income                                           -181505000.0   724850000.0  309916883.004706
+Net Income From Continuing And Discontinued Operation       -181505000.0   724850000.0       304498000.0
+Total Expenses                                              2382072000.0  2852828000.0      2413882000.0
+Diluted Average Shares                                       300621000.0   303004000.0       301665000.0
+Basic Average Shares                                         300621000.0   300621000.0       299849000.0
+Diluted EPS                                                         -0.6          2.39              1.01
+Basic EPS                                                           -0.6          2.41              1.02
+Diluted NI Availto Com Stockholders                         -181505000.0   724850000.0       304498000.0
+Net Income Common Stockholders                              -181505000.0   724850000.0       304498000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0
+Net Income                                                  -181505000.0   724850000.0       304498000.0
+Minority Interests                                             2918000.0    -1282000.0        -3403000.0
+Net Income Including Noncontrolling Interests               -184423000.0   726132000.0       307901000.0
+Net Income Continuous Operations                            -184423000.0   726132000.0       307901000.0
+Tax Provision                                                 20415000.0    94958000.0        56088000.0
+Pretax Income                                               -164008000.0   821090000.0       363989000.0
+Other Non Operating Income Expenses                         -214212000.0   511547000.0       383091000.0
+Special Income Charges                                               NaN           0.0        -6406000.0
+Write Off                                                            NaN           0.0         6406000.0
+Net Non Operating Interest Income Expense                     -8298000.0   -15042000.0       -15043000.0
+Interest Expense Non Operating                                12862000.0    20531000.0        24163000.0
+Interest Income Non Operating                                  4564000.0     5489000.0         9120000.0
+Operating Income                                              37437000.0   310547000.0        14734000.0
+Operating Expense                                            349167000.0   406114000.0       346008000.0
+Other Operating Expenses                                       -431000.0       23000.0       -14438000.0
+Research And Development                                     141652000.0   132896000.0       128112000.0
+Selling General And Administration                           207946000.0   273195000.0       232334000.0
+Selling And Marketing Expense                                 41767000.0    41493000.0        36506000.0
+General And Administrative Expense                           166179000.0   231702000.0       195828000.0
+Gross Profit                                                 386604000.0   716661000.0       360742000.0
+Cost Of Revenue                                             2032905000.0  2446714000.0      2067874000.0
+Total Revenue                                               2419509000.0  3163375000.0      2428616000.0
+Operating Revenue                                           2419509000.0  3163375000.0      2428616000.0

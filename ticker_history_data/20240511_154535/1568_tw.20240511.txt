@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 18, Chung Shan Rd.
+address2	Min-Hsiung Industrial Park
+city	Chiayi
+zip	62154
+country	Taiwan
+phone	886 5 220 0888
+fax	886 5 220 0666
+website	https://www.tsangyow.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Tsang Yow Industrial Co.,Ltd. manufactures and supplies transmission system components and assemblies worldwide. It provides automatic and manual transmission, off highway machinery, torque converter, and viscous coupling parts; clutch parts for heavy-duty trucks; and gear boxes. The company was founded in 1985 and is based in Chiayi, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chi-Hu  Su', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui-Jung  Chen', 'title': 'Financial Officer & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chang Zhong  Yang', 'title': 'Marketing Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qing Shan  Wei', 'title': 'Quality Assurance Department Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	30.5
+open	30.9
+dayLow	30.6
+dayHigh	31.45
+regularMarketPreviousClose	30.5
+regularMarketOpen	30.9
+regularMarketDayLow	30.6
+regularMarketDayHigh	31.45
+dividendRate	1.34
+dividendYield	0.0431
+exDividendDate	1716768000	 (2024-05-27 08:00:00)
+payoutRatio	0.4741
+fiveYearAvgDividendYield	2.56
+beta	0.836
+trailingPE	13.405173
+forwardPE	10.798611
+volume	775395
+regularMarketVolume	775395
+averageVolume	828230
+averageVolume10days	559605
+averageDailyVolume10Day	559605
+bid	31.05
+ask	31.1
+marketCap	3182991616
+fiftyTwoWeekLow	22.95
+fiftyTwoWeekHigh	39.85
+priceToSalesTrailing12Months	2.6678867
+fiftyDayAverage	30.575
+twoHundredDayAverage	30.37825
+trailingAnnualDividendRate	1.34
+trailingAnnualDividendYield	0.043934427
+currency	TWD
+enterpriseValue	2718469888
+profitMargins	0.22944
+floatShares	61800946
+sharesOutstanding	102347000
+heldPercentInsiders	0.47265
+heldPercentInstitutions	0.00712
+impliedSharesOutstanding	103223000
+bookValue	17.882
+priceToBook	1.7391791
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	196592000
+trailingEps	2.32
+forwardEps	2.88
+lastSplitFactor	110.1133:100
+lastSplitDate	1225152000	 (2008-10-28 08:00:00)
+enterpriseToRevenue	2.279
+enterpriseToEbitda	8.047
+52WeekChange	0.27720737
+SandP52WeekChange	0.26265144
+lastDividendValue	1.34
+lastDividendDate	1716768000	 (2024-05-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1568.TW
+underlyingSymbol	1568.TW
+shortName	TSANG YOW INDUSTRIAL CO
+longName	Tsang Yow Industrial Co.,Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2c51c5a5-2d0c-3397-a67d-ffa42bd213eb
+messageBoardId	finmb_20385670
+gmtOffSetMilliseconds	28800000
+currentPrice	31.1
+recommendationKey	none
+totalCash	860734016
+totalCashPerShare	8.41
+ebitda	337844000
+totalDebt	396225984
+quickRatio	2.044
+currentRatio	2.779
+totalRevenue	1193075968
+debtToEquity	21.649
+revenuePerShare	11.657
+returnOnAssets	0.05262
+returnOnEquity	0.11336
+freeCashflow	468758240
+operatingCashflow	326936992
+revenueGrowth	0.016
+grossMargins	0.33648
+ebitdaMargins	0.28316998
+operatingMargins	0.17206
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    160394.694688     103501.326646   -554036.259323     2010000.0
+Tax Rate For Calcs                                                  0.212725           0.17136         0.150717           0.2
+Normalized EBITDA                                                363704000.0       399523000.0      197771000.0   168323000.0
+Total Unusual Items                                                 754000.0          604000.0       -3676000.0    10050000.0
+Total Unusual Items Excluding Goodwill                              754000.0          604000.0       -3676000.0    10050000.0
+Net Income From Continuing Operation Net Minority Interest       196592000.0       204873000.0       29606000.0    10300000.0
+Reconciled Depreciation                                          104344000.0       140546000.0      148850000.0   158370000.0
+Reconciled Cost Of Revenue                                       791631000.0       975146000.0     1566626000.0  1590591000.0
+EBITDA                                                           364458000.0       400127000.0      194095000.0   178373000.0
+EBIT                                                             260114000.0       259581000.0       45245000.0    20003000.0
+Net Interest Income                                               -2438000.0        -9319000.0       -8444000.0   -11542000.0
+Interest Expense                                                  10402000.0        12341000.0       10385000.0    12932000.0
+Interest Income                                                    7964000.0         3022000.0        1941000.0     1390000.0
+Normalized Income                                           195998394.694688  204372501.326646  32727963.740677     2260000.0
+Net Income From Continuing And Discontinued Operation            273734000.0       165390000.0       29606000.0    10300000.0
+Total Expenses                                                   960330000.0      1156092000.0     1789240000.0  1787453000.0
+Diluted Average Shares                                           102904000.0       102907000.0      102080000.0   102008000.0
+Basic Average Shares                                             102347000.0       102347000.0      101986000.0   101960000.0
+Diluted EPS                                                             2.66              1.61             0.29           0.1
+Basic EPS                                                               2.67              1.62             0.29           0.1
+Diluted NI Availto Com Stockholders                              273734000.0       165390000.0       29606000.0    10300000.0
+Net Income Common Stockholders                                   273734000.0       165390000.0       29606000.0    10300000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0           0.0
+Net Income                                                       273734000.0       165390000.0       29606000.0    10300000.0
+Net Income Including Noncontrolling Interests                    273734000.0       165390000.0       29606000.0    10300000.0
+Net Income Discontinuous Operations                               77142000.0       -39483000.0              NaN           NaN
+Net Income Continuous Operations                                 196592000.0       204873000.0       29606000.0    10300000.0
+Tax Provision                                                     53120000.0        42367000.0        5254000.0    -3229000.0
+Pretax Income                                                    249712000.0       247240000.0       34860000.0     7071000.0
+Other Non Operating Income Expenses                               18650000.0        64412000.0       10413000.0    39298000.0
+Special Income Charges                                              754000.0          604000.0       -3676000.0    10050000.0
+Write Off                                                          -754000.0         -604000.0        3676000.0   -10050000.0
+Net Non Operating Interest Income Expense                         -2438000.0        -9319000.0       -8444000.0   -11542000.0
+Interest Expense Non Operating                                    10402000.0        12341000.0       10385000.0    12932000.0
+Interest Income Non Operating                                      7964000.0         3022000.0        1941000.0     1390000.0
+Operating Income                                                 232746000.0       191543000.0       36567000.0   -30735000.0
+Operating Expense                                                168699000.0       180946000.0      222614000.0   196862000.0
+Research And Development                                          47102000.0        46519000.0       69306000.0    65343000.0
+Selling General And Administration                               121597000.0       134427000.0      153308000.0   131519000.0
+Selling And Marketing Expense                                     42362000.0        64287000.0       68367000.0    47513000.0
+General And Administrative Expense                                79235000.0        70140000.0       84941000.0    84006000.0
+Gross Profit                                                     401445000.0       372489000.0      259181000.0   166127000.0
+Cost Of Revenue                                                  791631000.0       975146000.0     1566626000.0  1590591000.0
+Total Revenue                                                   1193076000.0      1347635000.0     1825807000.0  1756718000.0
+Operating Revenue                                               1193076000.0      1347635000.0     1825807000.0  1756718000.0

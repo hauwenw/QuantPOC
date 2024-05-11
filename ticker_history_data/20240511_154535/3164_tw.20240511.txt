@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No.8, Nanke 7th Road
+address2	Shanhua District Tainan Science-based Industrial Park
+city	Tainan City
+zip	741
+country	Taiwan
+phone	886 6 505 2151
+fax	886 6 505 2152
+website	https://www.genmont.com.tw
+industry	Biotechnology
+industryKey	biotechnology
+industryDisp	Biotechnology
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	GenMont Biotech Incorporation engages in the research, development, manufacture, and sale of functional probiotic supplements in Taiwan. The company offers functional probiotics raw materials, capsules, powder, tablets, and liquid products; and original formula design and manufacturing, and equipment manufacturing services on health care food, as well as cooperates in the research, production, and clinical trial of various products. GenMont Biotech Incorporation was founded in 2000 and is headquartered in Tainan City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	23.15
+open	23.35
+dayLow	23.35
+dayHigh	23.85
+regularMarketPreviousClose	23.15
+regularMarketOpen	23.35
+regularMarketDayLow	23.35
+regularMarketDayHigh	23.85
+dividendRate	0.7
+dividendYield	0.0297
+exDividendDate	1687910400	 (2023-06-28 08:00:00)
+payoutRatio	1.0294
+beta	0.356
+trailingPE	34.63235
+volume	215767
+regularMarketVolume	215767
+averageVolume	184882
+averageVolume10days	214026
+averageDailyVolume10Day	214026
+bid	23.5
+ask	23.55
+marketCap	2037343360
+fiftyTwoWeekLow	21.4
+fiftyTwoWeekHigh	27.5
+priceToSalesTrailing12Months	6.406438
+fiftyDayAverage	22.593
+twoHundredDayAverage	23.38025
+currency	TWD
+enterpriseValue	1900154112
+profitMargins	0.10374
+floatShares	68498545
+sharesOutstanding	86511400
+heldPercentInsiders	0.37935
+heldPercentInstitutions	0.00348
+impliedSharesOutstanding	86511400
+bookValue	15.215
+priceToBook	1.5478146
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	32991000
+trailingEps	0.68
+lastSplitFactor	110:100
+lastSplitDate	1276560000	 (2010-06-15 08:00:00)
+enterpriseToRevenue	5.975
+enterpriseToEbitda	27.629
+52WeekChange	-0.03086418
+SandP52WeekChange	0.26265144
+lastDividendValue	0.7
+lastDividendDate	1687910400	 (2023-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3164.TW
+underlyingSymbol	3164.TW
+shortName	GENMONT BIOTECH INC
+longName	GenMont Biotech Incorporation
+firstTradeDateEpochUtc	1221786000	 (2008-09-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9576e760-1106-38ab-be2b-75904e62001b
+messageBoardId	finmb_20343535
+gmtOffSetMilliseconds	28800000
+currentPrice	23.55
+recommendationKey	none
+totalCash	328302016
+totalCashPerShare	3.795
+ebitda	68774000
+totalDebt	58307000
+quickRatio	2.516
+currentRatio	3.18
+totalRevenue	318015008
+debtToEquity	4.024
+revenuePerShare	3.68
+returnOnAssets	0.00261
+returnOnEquity	0.01523
+freeCashflow	-1571625
+operatingCashflow	34599000
+revenueGrowth	-0.301
+grossMargins	0.66409
+ebitdaMargins	0.21626
+operatingMargins	0.04101
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -150001.207258    507244.951553    -705447.082281    141545.252254
+Tax Rate For Calcs                                                 0.203529         0.283694          0.213901          0.21643
+Normalized EBITDA                                                94653000.0      115640000.0       164622000.0       97872000.0
+Total Unusual Items                                               -737000.0        1788000.0        -3298000.0         654000.0
+Total Unusual Items Excluding Goodwill                            -737000.0        1788000.0        -3298000.0         654000.0
+Net Income From Continuing Operation Net Minority Interest       32991000.0       56978000.0       113132000.0       60884000.0
+Reconciled Depreciation                                          64780000.0       50415000.0        21134000.0       20873000.0
+Reconciled Cost Of Revenue                                      106823000.0      111829000.0       128603000.0      109801000.0
+EBITDA                                                           93916000.0      117428000.0       161324000.0       98526000.0
+EBIT                                                             29136000.0       67013000.0       140190000.0       77653000.0
+Net Interest Income                                               7551000.0        4049000.0         1246000.0        1231000.0
+Interest Expense                                                   973000.0         755000.0          766000.0         806000.0
+Interest Income                                                   8524000.0        4804000.0         2012000.0        2037000.0
+Normalized Income                                           33577998.792742  55697244.951553  115724552.917719  60371545.252254
+Net Income From Continuing And Discontinued Operation            32991000.0       56978000.0       113132000.0       60884000.0
+Total Expenses                                                  310290000.0      308364000.0       299592000.0      254831000.0
+Diluted Average Shares                                                  NaN       86660000.0        86741000.0       88058000.0
+Basic Average Shares                                                    NaN       86371000.0        86357000.0       87797000.0
+Diluted EPS                                                             NaN             0.66               1.3             0.69
+Basic EPS                                                               NaN             0.66              1.31             0.69
+Diluted NI Availto Com Stockholders                              32991000.0       56978000.0       113132000.0       60884000.0
+Net Income Common Stockholders                                   32991000.0       56978000.0       113132000.0       60884000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0               0.0              0.0
+Net Income                                                       32991000.0       56978000.0       113132000.0       60884000.0
+Minority Interests                                               10560000.0        9517000.0         3531000.0         669000.0
+Net Income Including Noncontrolling Interests                    22431000.0       47461000.0       109601000.0       60215000.0
+Net Income Continuous Operations                                 22431000.0       47461000.0       109601000.0       60215000.0
+Tax Provision                                                     5732000.0       18797000.0        29823000.0       16632000.0
+Pretax Income                                                    28163000.0       66258000.0       139424000.0       76847000.0
+Other Non Operating Income Expenses                              13624000.0         239000.0        13139000.0        4705000.0
+Special Income Charges                                            -737000.0        1788000.0        -3298000.0         654000.0
+Write Off                                                          737000.0       -1788000.0         3298000.0        -654000.0
+Net Non Operating Interest Income Expense                         7551000.0        4049000.0         1246000.0        1231000.0
+Interest Expense Non Operating                                     973000.0         755000.0          766000.0         806000.0
+Interest Income Non Operating                                     8524000.0        4804000.0         2012000.0        2037000.0
+Operating Income                                                  7725000.0       60182000.0       128337000.0       70360000.0
+Operating Expense                                               203467000.0      196535000.0       170989000.0      145030000.0
+Research And Development                                         46863000.0       59411000.0        25524000.0       26300000.0
+Selling General And Administration                              156604000.0      137124000.0       145465000.0      118730000.0
+Selling And Marketing Expense                                    49859000.0       49103000.0        63127000.0       54983000.0
+General And Administrative Expense                              106745000.0       88021000.0        82338000.0       63747000.0
+Gross Profit                                                    211192000.0      256717000.0       299326000.0      215390000.0
+Cost Of Revenue                                                 106823000.0      111829000.0       128603000.0      109801000.0
+Total Revenue                                                   318015000.0      368546000.0       427929000.0      325191000.0
+Operating Revenue                                               318015000.0      368546000.0       427929000.0      325191000.0

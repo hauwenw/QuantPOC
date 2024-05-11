@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 248, Bo-ai Street
+address2	Shulin District
+city	New Taipei City
+zip	238
+country	Taiwan
+phone	886 2 8686 8868
+fax	886 2 8686 6998
+website	https://www.careergroups.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Career Technology (Mfg.) Co., Ltd. manufactures and sells flexible printed circuits in Taiwan, Mainland China, the United States, and internationally. It offers single-sided, double-sided, double access, and multilayer flexible circuits; air gap structures; and rigid-flex boards, as well as membrane switches, and coaxial cable connectors and machinery. The company provides integrated IC packaging and flexible circuit boards assembling services. Its products are used in various applications, such as smart phones, tablet PCs, GPS, automotive electronics, cameras, ultrabooks, wearable devices, and virtual reality. The company was founded in 1992 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Heng  Chiao', 'age': 61, 'title': 'General CSO & Chairman', 'yearBorn': 1962, 'fiscalYear': 2021, 'totalPay': 282000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuang-Sung  Hsiung', 'title': 'General Manager of China Regional Business & VP of Group Administration Division', 'fiscalYear': 2021, 'totalPay': 276000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chung-Chi  Li', 'title': 'Sales Vice President', 'fiscalYear': 2021, 'totalPay': 4491000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chong-Ren  Cai', 'title': 'VP & Chief Quality Officer', 'fiscalYear': 2021, 'totalPay': 3978000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chia-Hao  Chang', 'title': 'COO & President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Wen  Cheng', 'title': 'CFO & Financial Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsien-Chi  Fu', 'title': 'Head of CFO, Accounting Supervisor, Controller & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Yan  Lin', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	19.65
+open	19.65
+dayLow	19.65
+dayHigh	19.75
+regularMarketPreviousClose	19.65
+regularMarketOpen	19.65
+regularMarketDayLow	19.65
+regularMarketDayHigh	19.75
+dividendRate	0.24
+dividendYield	0.0121
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+fiveYearAvgDividendYield	1.02
+beta	0.935
+forwardPE	5.32345
+volume	748774
+regularMarketVolume	748774
+averageVolume	1681041
+averageVolume10days	920209
+averageDailyVolume10Day	920209
+bid	19.7
+ask	19.75
+marketCap	11734581248
+fiftyTwoWeekLow	18.9
+fiftyTwoWeekHigh	26.90567
+priceToSalesTrailing12Months	1.1931959
+fiftyDayAverage	20.092
+twoHundredDayAverage	21.285124
+currency	TWD
+enterpriseValue	13376512000
+profitMargins	-0.34041
+floatShares	393322077
+sharesOutstanding	594156032
+heldPercentInsiders	0.29142
+heldPercentInstitutions	0.06769
+impliedSharesOutstanding	594156032
+bookValue	22.06
+priceToBook	0.8952856
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-3347781120
+trailingEps	-5.45
+forwardEps	3.71
+lastSplitFactor	1020:1000
+lastSplitDate	1597276800	 (2020-08-13 08:00:00)
+enterpriseToRevenue	1.36
+enterpriseToEbitda	-32.462
+52WeekChange	-0.13001955
+SandP52WeekChange	0.26265144
+lastDividendValue	0.23826
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6153.TW
+underlyingSymbol	6153.TW
+shortName	CAREER TECHNOLOGY CO
+longName	Career Technology (Mfg.) Co., Ltd.
+firstTradeDateEpochUtc	1200877200	 (2008-01-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	73461fdb-9db9-3859-b826-8aef8bbd2009
+messageBoardId	finmb_9850306
+gmtOffSetMilliseconds	28800000
+currentPrice	19.75
+recommendationKey	none
+totalCash	3151336960
+totalCashPerShare	5.687
+ebitda	-412063008
+totalDebt	5582839808
+quickRatio	1.338
+currentRatio	1.567
+totalRevenue	9834579968
+debtToEquity	45.667
+revenuePerShare	17.746
+returnOnAssets	-0.06313
+returnOnEquity	-0.24552
+freeCashflow	562779264
+operatingCashflow	282934016
+revenueGrowth	-0.389
+grossMargins	-0.09594
+ebitdaMargins	-0.0419
+operatingMargins	-0.16547
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                       -685.350185   -1079641.207462        79800.0       540400.0
+Tax Rate For Calcs                                                   0.000549          0.097458            0.2            0.2
+Normalized EBITDA                                               -1205289000.0      2722814000.0   1842812000.0   2952145000.0
+Total Unusual Items                                                -1249000.0       -11078000.0       399000.0      2702000.0
+Total Unusual Items Excluding Goodwill                             -1249000.0       -11078000.0       399000.0      2702000.0
+Net Income From Continuing Operation Net Minority Interest      -3347781000.0       445223000.0   -490146000.0    657018000.0
+Reconciled Depreciation                                          2020662000.0      2092106000.0   2175366000.0   2227355000.0
+Reconciled Cost Of Revenue                                      10778135000.0     13015136000.0  13565678000.0  14171347000.0
+EBITDA                                                          -1206538000.0      2711736000.0   1843211000.0   2954847000.0
+EBIT                                                            -3227200000.0       619630000.0   -332155000.0    727492000.0
+Net Interest Income                                               -33107000.0       -88809000.0    -83889000.0    -97395000.0
+Interest Expense                                                  122419000.0       126331000.0    115061000.0    139596000.0
+Interest Income                                                    89312000.0        37522000.0     31172000.0     42201000.0
+Normalized Income                                          -3346532685.350185  455221358.792538   -490465200.0    654856400.0
+Net Income From Continuing And Discontinued Operation           -3347781000.0       445223000.0   -490146000.0    657018000.0
+Total Expenses                                                  12164862000.0     14551631000.0  15069425000.0  15628334000.0
+Diluted Average Shares                                            560240000.0       562016000.0    562262196.0    563045674.0
+Basic Average Shares                                              560240000.0       560486000.0    562262196.0    561616206.0
+Diluted EPS                                                             -6.04               0.8      -0.870478       1.167231
+Basic EPS                                                               -6.04               0.8      -0.870478       1.167231
+Diluted NI Availto Com Stockholders                             -3347781000.0       445223000.0   -490146000.0    657018000.0
+Net Income Common Stockholders                                  -3347781000.0       445223000.0   -490146000.0    657018000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0            0.0            0.0
+Net Income                                                      -3347781000.0       445223000.0   -490146000.0    657018000.0
+Net Income Including Noncontrolling Interests                   -3347781000.0       445223000.0   -490146000.0    657018000.0
+Net Income Continuous Operations                                -3347781000.0       445223000.0   -490146000.0    657018000.0
+Tax Provision                                                      -1838000.0        48076000.0     42930000.0    -69122000.0
+Pretax Income                                                   -3349619000.0       493299000.0   -447216000.0    587896000.0
+Other Non Operating Income Expenses                              -984981000.0       402356000.0     37794000.0    273810000.0
+Special Income Charges                                             -1249000.0       -11078000.0       399000.0      2702000.0
+Write Off                                                           1249000.0        11078000.0      -399000.0     -2702000.0
+Net Non Operating Interest Income Expense                         -33107000.0       -88809000.0    -83889000.0    -97395000.0
+Interest Expense Non Operating                                    122419000.0       126331000.0    115061000.0    139596000.0
+Interest Income Non Operating                                      89312000.0        37522000.0     31172000.0     42201000.0
+Operating Income                                                -2330282000.0       190830000.0   -401520000.0    408779000.0
+Operating Expense                                                1386727000.0      1536495000.0   1503747000.0   1456987000.0
+Research And Development                                          594864000.0       615856000.0    644372000.0    585222000.0
+Selling General And Administration                                791863000.0       920639000.0    859375000.0    871765000.0
+Selling And Marketing Expense                                     201853000.0       265329000.0    214410000.0    197930000.0
+General And Administrative Expense                                590010000.0       655310000.0    644965000.0    673835000.0
+Gross Profit                                                     -943555000.0      1727325000.0   1102227000.0   1865766000.0
+Cost Of Revenue                                                 10778135000.0     13015136000.0  13565678000.0  14171347000.0
+Total Revenue                                                    9834580000.0     14742461000.0  14667905000.0  16037113000.0
+Operating Revenue                                                9834580000.0     14742461000.0  14667905000.0  16037113000.0

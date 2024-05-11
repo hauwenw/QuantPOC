@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	No. 88, Xing'ai Road
+address2	Neihu District
+city	Taipei City
+zip	114067
+country	Taiwan
+phone	886 2 6608 1999
+fax	886 2 6619 9990
+website	https://www.chcg.com
+industry	Medical Distribution
+industryKey	medical-distribution
+industryDisp	Medical Distribution
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	CHC Healthcare Group, together with its subsidiaries, engages in the trading of pharmaceutical products and health food in Taiwan, China, and internationally. It also sells, leases, installs, and repairs medical instruments. In addition, the company is involved in the provision of healthcare management service, such as educational training and implementing application programs for medical equipment, and management consultation, as well as overseas healthcare business development. Further, it provides long-term elderly care and radiation sterilization businesses. Additionally, the company offers a range of equipment in the areas of radiation and oncology, neurology, medical imaging, ophthalmology, and surgery. The company was founded in 1977 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Pei-Lin  Lee', 'title': 'Chairman, GM, Chief Information & Human Resources Officer', 'fiscalYear': 2021, 'totalPay': 11059000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Chun  Chen', 'title': 'CFO, Corporate Governance Officer & Company Secretary', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yee-Min  Jen', 'title': 'Chief Executive Officer of Oncology Business Group', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	51.6
+open	51.9
+dayLow	51.3
+dayHigh	53.2
+regularMarketPreviousClose	51.6
+regularMarketOpen	51.9
+regularMarketDayLow	51.3
+regularMarketDayHigh	53.2
+dividendRate	1.97
+dividendYield	0.0374
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	1.064
+fiveYearAvgDividendYield	4.42
+trailingPE	28.486486
+forwardPE	14.359673
+volume	615525
+regularMarketVolume	615525
+averageVolume	907885
+averageVolume10days	697805
+averageDailyVolume10Day	697805
+bid	52.6
+ask	52.7
+marketCap	8787989504
+fiftyTwoWeekLow	51.3
+fiftyTwoWeekHigh	72.3
+priceToSalesTrailing12Months	2.353225
+fiftyDayAverage	58.176
+twoHundredDayAverage	59.1315
+trailingAnnualDividendRate	2.01
+trailingAnnualDividendYield	0.03895349
+currency	TWD
+enterpriseValue	15481844736
+profitMargins	0.09155
+floatShares	144114629
+sharesOutstanding	166755008
+heldPercentInsiders	0.40105
+heldPercentInstitutions	0.091280006
+impliedSharesOutstanding	167928992
+bookValue	27.207
+priceToBook	1.9370015
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.971
+netIncomeToCommon	341881984
+trailingEps	1.85
+forwardEps	3.67
+enterpriseToRevenue	4.146
+enterpriseToEbitda	14.109
+52WeekChange	-0.2051282
+SandP52WeekChange	0.26265144
+lastDividendValue	1.968403
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4164.TW
+underlyingSymbol	4164.TW
+shortName	CHC HEALTHCARE GROUP
+longName	CHC Healthcare Group
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f60918f1-0ff6-3c32-aff4-c39a21212822
+messageBoardId	finmb_141107257
+gmtOffSetMilliseconds	28800000
+currentPrice	52.7
+targetHighPrice	69.0
+targetLowPrice	69.0
+targetMeanPrice	69.0
+targetMedianPrice	69.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	2187569920
+totalCashPerShare	9.667
+ebitda	1097296000
+totalDebt	5414484992
+quickRatio	1.678
+currentRatio	2.361
+totalRevenue	3734445056
+debtToEquity	83.482
+revenuePerShare	20.678
+returnOnAssets	0.02382
+returnOnEquity	0.05335
+freeCashflow	442870880
+operatingCashflow	1232278016
+earningsGrowth	-0.976
+revenueGrowth	-0.178
+grossMargins	0.2637
+ebitdaMargins	0.29383
+operatingMargins	0.03095
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -66444.745545    -817807.816714     -71290.779911    -193891.240442
+Tax Rate For Calcs                                                  0.239873           0.19673          0.225604          0.217855
+Normalized EBITDA                                               1243171000.0      1058641000.0      1014493000.0       984006000.0
+Total Unusual Items                                                -277000.0        -4157000.0         -316000.0         -890000.0
+Total Unusual Items Excluding Goodwill                             -277000.0        -4157000.0         -316000.0         -890000.0
+Net Income From Continuing Operation Net Minority Interest       418866000.0       356571000.0       381633000.0       366389000.0
+Reconciled Depreciation                                          594463000.0       499382000.0       460592000.0       440912000.0
+Reconciled Cost Of Revenue                                      2808977000.0      2072038000.0      1590083000.0      1724201000.0
+EBITDA                                                          1242894000.0      1054484000.0      1014177000.0       983116000.0
+EBIT                                                             648431000.0       555102000.0       553585000.0       542204000.0
+Net Interest Income                                              -68318000.0       -58737000.0       -52952000.0       -66159000.0
+Interest Expense                                                  89001000.0        71267000.0        62516000.0        78208000.0
+Interest Income                                                   20683000.0        12530000.0         9564000.0        12049000.0
+Normalized Income                                           419076555.254455  359910192.183286  381877709.220089  367085108.759558
+Net Income From Continuing And Discontinued Operation            418866000.0       356571000.0       381633000.0       366389000.0
+Total Expenses                                                  3263384000.0      2494435000.0      1945920000.0      2040915000.0
+Diluted Average Shares                                           193571000.0       191812000.0       185673000.0       201416000.0
+Basic Average Shares                                             164454000.0       161381000.0       157029000.0       144957000.0
+Diluted EPS                                                             2.26              1.98              2.18              1.95
+Basic EPS                                                               2.55              2.21              2.43              2.53
+Diluted NI Availto Com Stockholders                              418866000.0       356571000.0       381633000.0       366389000.0
+Net Income Common Stockholders                                   418866000.0       356571000.0       381633000.0       366389000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       418866000.0       356571000.0       381633000.0       366389000.0
+Minority Interests                                                -6372000.0       -32079000.0         1351000.0         3477000.0
+Net Income Including Noncontrolling Interests                    425238000.0       388650000.0       380282000.0       362912000.0
+Net Income Continuous Operations                                 425238000.0       388650000.0       380282000.0       362912000.0
+Tax Provision                                                    134192000.0        95185000.0       110787000.0       101084000.0
+Pretax Income                                                    559430000.0       483835000.0       491069000.0       463996000.0
+Other Non Operating Income Expenses                               12668000.0        67146000.0        42052000.0        17325000.0
+Special Income Charges                                             -277000.0        -4157000.0         -316000.0         -890000.0
+Write Off                                                           277000.0         4157000.0          316000.0          890000.0
+Net Non Operating Interest Income Expense                        -68318000.0       -58737000.0       -52952000.0       -66159000.0
+Interest Expense Non Operating                                    89001000.0        71267000.0        62516000.0        78208000.0
+Interest Income Non Operating                                     20683000.0        12530000.0         9564000.0        12049000.0
+Operating Income                                                 613753000.0       479917000.0       493644000.0       513996000.0
+Operating Expense                                                454407000.0       422397000.0       355837000.0       316714000.0
+Research And Development                                                 NaN               NaN               0.0         6252000.0
+Selling General And Administration                               454407000.0       422397000.0       355837000.0       310462000.0
+Selling And Marketing Expense                                    218424000.0       184049000.0       122279000.0       118774000.0
+General And Administrative Expense                               235983000.0       238348000.0       233558000.0       191688000.0
+Gross Profit                                                    1068160000.0       902314000.0       849481000.0       830710000.0
+Cost Of Revenue                                                 2808977000.0      2072038000.0      1590083000.0      1724201000.0
+Total Revenue                                                   3877137000.0      2974352000.0      2439564000.0      2554911000.0
+Operating Revenue                                               3877137000.0      2974352000.0      2439564000.0      2554911000.0

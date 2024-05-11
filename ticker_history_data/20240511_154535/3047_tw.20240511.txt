@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 278, Xinhu 1st Road
+address2	Neihu District
+city	Taipei
+country	Taiwan
+phone	886 2 7739 6888
+fax	886 2 7739 6887
+website	https://www.edimax.com/edimax/global
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	EDIMAX Technology Co., Ltd. engages in the design, development, manufacture, and marketing of networking solutions to SOHO and SME markets, and businesses in Europe, the United States, Asia, and internationally. The company's products include whole home Wi-Fi systems, wireless routers, Wi-Fi range extenders, access points, Wi-Fi bridges, wireless adapters, powerline solutions, home automation systems, network cameras, switches, ADSL modem routers, network adapters, print servers, KVM switches, Wi-Fi antennas, and legacy products, as well as indoor and semi-outdoor air quality detection and monitoring systems. Its products also comprise EDIMAX pro, AP controllers, wireless projection systems, and SFP/Mini GBICs, as well as accessories; and wired broadband routers, hubs/USB hubs, entertainment network solutions, convergence/IP telephony hubs, projector servers, network attached storage devices, bluetooth adaptors, ethernet network access controllers, and WLAN cables and accessories. In addition, the company offers xDSL routers, load balancer solutions, professional surveillance cameras, VoIP solutions, media converters, home entertainment integration solutions, and other customer-oriented networking applications. It offers its products primarily through retail and online channels, resellers, and distributors. EDIMAX Technology Co., Ltd. was incorporated in 1986 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Guan-Sheng  Renn', 'title': 'Chairman, GM & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Han-Shen  Lee', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liang-Jung  Pan', 'title': 'Senior VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	15.6
+open	15.65
+dayLow	15.2
+dayHigh	15.65
+regularMarketPreviousClose	15.6
+regularMarketOpen	15.65
+regularMarketDayLow	15.2
+regularMarketDayHigh	15.65
+dividendRate	0.98
+dividendYield	0.063200004
+exDividendDate	1694476800	 (2023-09-12 08:00:00)
+payoutRatio	5.7476
+fiveYearAvgDividendYield	4.57
+volume	2380049
+regularMarketVolume	2380049
+averageVolume	6562362
+averageVolume10days	2620445
+averageDailyVolume10Day	2620445
+bid	15.4
+ask	15.45
+marketCap	3337354496
+fiftyTwoWeekLow	12.9
+fiftyTwoWeekHigh	21.3
+priceToSalesTrailing12Months	0.8187462
+fiftyDayAverage	15.446
+twoHundredDayAverage	15.3865
+currency	TWD
+enterpriseValue	4504729088
+profitMargins	-0.023699999
+floatShares	201115482
+sharesOutstanding	216010000
+heldPercentInsiders	0.1595
+heldPercentInstitutions	0.018760001
+impliedSharesOutstanding	216010000
+bookValue	11.834
+priceToBook	1.3055602
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-96610000
+trailingEps	-0.46
+lastSplitFactor	1090:1000
+lastSplitDate	1376006400	 (2013-08-09 08:00:00)
+enterpriseToRevenue	1.105
+enterpriseToEbitda	-14.771
+52WeekChange	0.033444762
+SandP52WeekChange	0.26265144
+lastDividendValue	0.977098
+lastDividendDate	1694476800	 (2023-09-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3047.TW
+underlyingSymbol	3047.TW
+shortName	EDIMAX TECHNOLOGY CO
+longName	EDIMAX Technology Co., Ltd.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c0b90230-0bdd-38ec-a52a-fba90b92d829
+messageBoardId	finmb_4599787
+gmtOffSetMilliseconds	28800000
+currentPrice	15.45
+recommendationKey	none
+totalCash	1274777984
+totalCashPerShare	5.985
+ebitda	-304976992
+totalDebt	2034248960
+quickRatio	0.854
+currentRatio	1.727
+totalRevenue	4076176896
+debtToEquity	68.376
+revenuePerShare	19.021
+returnOnAssets	-0.0345
+returnOnEquity	-0.10902
+freeCashflow	135853504
+operatingCashflow	69417000
+revenueGrowth	-0.161
+grossMargins	0.23096001
+ebitdaMargins	-0.07482
+operatingMargins	-0.21474001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    1340800.0   -1112349.942903    -1719600.0   -3974783.529875
+Tax Rate For Calcs                                                   0.2          0.130191           0.2          0.186697
+Normalized EBITDA                                            -53838000.0       479569000.0   122174000.0       462177000.0
+Total Unusual Items                                            6704000.0        -8544000.0    -8598000.0       -21290000.0
+Total Unusual Items Excluding Goodwill                         6704000.0        -8544000.0    -8598000.0       -21290000.0
+Net Income From Continuing Operation Net Minority Interest   -30958000.0       252658000.0   -55028000.0       104251000.0
+Reconciled Depreciation                                      143584000.0       135492000.0   141145000.0       133533000.0
+Reconciled Cost Of Revenue                                  3204930000.0      4509884000.0  4069648000.0      4690262000.0
+EBITDA                                                       -47134000.0       471025000.0   113576000.0       440887000.0
+EBIT                                                        -190718000.0       335533000.0   -27569000.0       307354000.0
+Net Interest Income                                          -14618000.0       -29982000.0   -22808000.0       -23178000.0
+Interest Expense                                              38321000.0        37793000.0    26567000.0        27939000.0
+Interest Income                                               23703000.0         7811000.0     3759000.0         4761000.0
+Normalized Income                                            -36321200.0  260089650.057097   -48149600.0  121566216.470125
+Net Income From Continuing And Discontinued Operation        -30958000.0       252658000.0   -55028000.0       104251000.0
+Total Expenses                                              4508106000.0      5799513000.0  5276564000.0      5921339000.0
+Diluted Average Shares                                               NaN       224996000.0   187664000.0       186000000.0
+Basic Average Shares                                                 NaN       194012000.0   187664000.0       184953000.0
+Diluted EPS                                                          NaN              1.14         -0.29              0.56
+Basic EPS                                                            NaN               1.3         -0.29              0.56
+Diluted NI Availto Com Stockholders                          -30958000.0       252658000.0   -55028000.0       104251000.0
+Net Income Common Stockholders                               -30958000.0       252658000.0   -55028000.0       104251000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0               0.0
+Net Income                                                   -30958000.0       252658000.0   -55028000.0       104251000.0
+Minority Interests                                           230006000.0        -6319000.0    17156000.0      -122998000.0
+Net Income Including Noncontrolling Interests               -260964000.0       258977000.0   -72184000.0       227249000.0
+Net Income Continuous Operations                            -260964000.0       258977000.0   -72184000.0       227249000.0
+Tax Provision                                                 31925000.0        38763000.0    18048000.0        52166000.0
+Pretax Income                                               -229039000.0       297740000.0   -54136000.0       279415000.0
+Other Non Operating Income Expenses                           12661000.0       147120000.0    -7443000.0       -95473000.0
+Special Income Charges                                         6704000.0        -8544000.0    -8598000.0       -21290000.0
+Write Off                                                     -6704000.0         8544000.0     8598000.0        21290000.0
+Net Non Operating Interest Income Expense                    -14618000.0       -29982000.0   -22808000.0       -23178000.0
+Interest Expense Non Operating                                38321000.0        37793000.0    26567000.0        27939000.0
+Interest Income Non Operating                                 23703000.0         7811000.0     3759000.0         4761000.0
+Operating Income                                            -247694000.0       163644000.0   -29046000.0       392043000.0
+Operating Expense                                           1303176000.0      1289629000.0  1206916000.0      1231077000.0
+Research And Development                                     448920000.0       442021000.0   422094000.0       413325000.0
+Selling General And Administration                           854256000.0       847608000.0   784822000.0       817752000.0
+Selling And Marketing Expense                                552576000.0       580143000.0   531024000.0       535023000.0
+General And Administrative Expense                           301680000.0       267465000.0   253798000.0       282729000.0
+Gross Profit                                                1055482000.0      1453273000.0  1177870000.0      1623120000.0
+Cost Of Revenue                                             3204930000.0      4509884000.0  4069648000.0      4690262000.0
+Total Revenue                                               4260412000.0      5963157000.0  5247518000.0      6313382000.0
+Operating Revenue                                           4260412000.0      5963157000.0  5247518000.0      6313382000.0

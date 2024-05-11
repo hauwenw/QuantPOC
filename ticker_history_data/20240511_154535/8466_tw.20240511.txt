@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.126, Danuan Rd.
+address2	Tucheng Dist.
+city	New Taipei City
+zip	236
+country	Taiwan
+phone	886 2 2268 4666
+fax	886 2 2268 4115
+website	https://www.mjig.com
+industry	Building Products & Equipment
+industryKey	building-products-equipment
+industryDisp	Building Products & Equipment
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	M.J. International Co., Ltd., together with its subsidiaries, engages in the development, production, and sales of luxury vinyl tile (LVT) floors. The company offers rigid core, LVT click, non-polyvinyl chloride, LVT dry back wood and stone design, LVT dry back carpet, and various design products for commercial and residential customers. It also engages in the production and sales of titles, and decoration and construction materials; and International trading activities. The company operates in Europe, North America, China, Taiwan, and internationally. M.J. International Co., Ltd. was founded in 1982 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chuan-Han  Wang', 'title': 'CEO, COO & Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiao-Pei  Song', 'title': 'Vice President of Marketing Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Ji  Hung', 'title': 'Chief Auditor of Auditing Office', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	54.3
+open	54.9
+dayLow	54.0
+dayHigh	55.2
+regularMarketPreviousClose	54.3
+regularMarketOpen	54.9
+regularMarketDayLow	54.0
+regularMarketDayHigh	55.2
+dividendRate	1.5
+dividendYield	0.0272
+exDividendDate	1693440000	 (2023-08-31 08:00:00)
+payoutRatio	0.97220004
+fiveYearAvgDividendYield	4.45
+beta	0.485
+forwardPE	10.073126
+volume	48550
+regularMarketVolume	48550
+averageVolume	88305
+averageVolume10days	228736
+averageDailyVolume10Day	228736
+bid	55.0
+ask	55.2
+marketCap	3618912768
+fiftyTwoWeekLow	39.0
+fiftyTwoWeekHigh	59.4
+priceToSalesTrailing12Months	1.3391309
+fiftyDayAverage	49.149
+twoHundredDayAverage	45.88375
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.005524862
+currency	TWD
+enterpriseValue	5429203968
+profitMargins	-0.0238
+floatShares	50538020
+sharesOutstanding	65679000
+heldPercentInsiders	0.47886002
+heldPercentInstitutions	0.00093999994
+impliedSharesOutstanding	65679000
+bookValue	37.22
+priceToBook	1.4803869
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-64313000
+trailingEps	-0.98
+forwardEps	5.47
+enterpriseToRevenue	2.009
+enterpriseToEbitda	22.855
+52WeekChange	0.2828871
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1693440000	 (2023-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8466.TW
+underlyingSymbol	8466.TW
+shortName	MJ INTERNATIONAL CO LTD
+longName	M.J. International Co., Ltd.
+firstTradeDateEpochUtc	1477962000	 (2016-11-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4d3ecd7b-306f-3a73-9af9-2b132987002f
+messageBoardId	finmb_364572125
+gmtOffSetMilliseconds	28800000
+currentPrice	55.1
+recommendationKey	none
+totalCash	1085356032
+totalCashPerShare	16.525
+ebitda	237551008
+totalDebt	2892687872
+quickRatio	1.744
+currentRatio	2.332
+totalRevenue	2702434048
+debtToEquity	118.189
+revenuePerShare	41.146
+returnOnAssets	-0.00092
+returnOnEquity	-0.03769
+freeCashflow	2779000
+operatingCashflow	388787008
+revenueGrowth	0.305
+grossMargins	0.1547
+ebitdaMargins	0.0879
+operatingMargins	0.0060799997
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31       2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                   -3285600.0   -1817871.405149   -121139.540334    -150401.8883
+Tax Rate For Calcs                                                   0.2          0.284309         0.099213         0.23282
+Normalized EBITDA                                            360613000.0       410370000.0      258464000.0     536362000.0
+Total Unusual Items                                          -16428000.0        -6394000.0       -1221000.0       -646000.0
+Total Unusual Items Excluding Goodwill                       -16428000.0        -6394000.0       -1221000.0       -646000.0
+Net Income From Continuing Operation Net Minority Interest   -64313000.0       143494000.0       68578000.0     278985000.0
+Reconciled Depreciation                                      262768000.0       190137000.0      175275000.0     164576000.0
+Reconciled Cost Of Revenue                                  2284358000.0      2573811000.0     2986204000.0    2096842000.0
+EBITDA                                                       344185000.0       403976000.0      257243000.0     535716000.0
+EBIT                                                          81417000.0       213839000.0       81968000.0     371140000.0
+Net Interest Income                                          -30277000.0       -16718000.0        1631000.0      13379000.0
+Interest Expense                                              75123000.0        33303000.0       13701000.0       9333000.0
+Interest Income                                               44846000.0        16585000.0       15332000.0      22712000.0
+Normalized Income                                            -51170600.0  148070128.594851  69677860.459666  279480598.1117
+Net Income From Continuing And Discontinued Operation        -64313000.0       143494000.0       68578000.0     278985000.0
+Total Expenses                                              2695299000.0      3105048000.0     3522841000.0    2476720000.0
+Diluted Average Shares                                               NaN        74728000.0       74415000.0      67481000.0
+Basic Average Shares                                                 NaN        65679000.0       65900000.0      66059000.0
+Diluted EPS                                                          NaN              2.02             1.02            4.18
+Basic EPS                                                            NaN              2.18             1.04            4.22
+Diluted NI Availto Com Stockholders                          -64313000.0       143494000.0       68578000.0     278985000.0
+Net Income Common Stockholders                               -64313000.0       143494000.0       68578000.0     278985000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0              0.0             0.0
+Net Income                                                   -64313000.0       143494000.0       68578000.0     278985000.0
+Minority Interests                                            31310000.0        14286000.0        7084000.0       1414000.0
+Net Income Including Noncontrolling Interests                -95623000.0       129208000.0       61494000.0     277571000.0
+Net Income Continuous Operations                             -95623000.0       129208000.0       61494000.0     277571000.0
+Tax Provision                                                101917000.0        51328000.0        6773000.0      84236000.0
+Pretax Income                                                  6294000.0       180536000.0       68267000.0     361807000.0
+Other Non Operating Income Expenses                           45864000.0        45918000.0      -19972000.0     -56696000.0
+Special Income Charges                                       -16428000.0        -6394000.0       -1221000.0       -646000.0
+Write Off                                                     16428000.0         6394000.0        1221000.0        646000.0
+Net Non Operating Interest Income Expense                    -30277000.0       -16718000.0        1631000.0      13379000.0
+Interest Expense Non Operating                                75123000.0        33303000.0       13701000.0       9333000.0
+Interest Income Non Operating                                 44846000.0        16585000.0       15332000.0      22712000.0
+Operating Income                                               7135000.0       157730000.0       87829000.0     405770000.0
+Operating Expense                                            410941000.0       531237000.0      536637000.0     379878000.0
+Research And Development                                      48547000.0        56597000.0       88065000.0       4314000.0
+Selling General And Administration                           362394000.0       474640000.0      448572000.0     375564000.0
+Selling And Marketing Expense                                165914000.0       226777000.0      250557000.0     211764000.0
+General And Administrative Expense                           196480000.0       247863000.0      198015000.0     163800000.0
+Gross Profit                                                 418076000.0       688967000.0      624466000.0     785648000.0
+Cost Of Revenue                                             2284358000.0      2573811000.0     2986204000.0    2096842000.0
+Total Revenue                                               2702434000.0      3262778000.0     3610670000.0    2882490000.0
+Operating Revenue                                           2702434000.0      3262778000.0     3610670000.0    2882490000.0

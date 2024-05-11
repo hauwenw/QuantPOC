@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 21, Lixing Road
+address2	4th Floor Hsinchu Science Park
+city	Hsinchu City
+country	Taiwan
+phone	886 3 666 2888
+fax	886 3 666 2999
+website	https://www.ene.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Ene Technology Inc. research, development, production, and sale of electronic components, information software, and circuit design services in China, Taiwan, and internationally. The company offers its embedded controllers for mobile devices; embedded micro controllers; peripherals; tools for product design and development; technical support services for product design; and wireless chargers. Ene Technology Inc. was incorporated in 1998 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kasper  Tsai', 'title': 'C.T.O', 'fiscalYear': 2021, 'totalPay': 2700000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Armingle  Lee', 'title': 'Sales Vice President', 'fiscalYear': 2021, 'totalPay': 2637000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Huei  Tsai', 'age': 70, 'title': 'Chief Strategy Officer', 'yearBorn': 1953, 'fiscalYear': 2021, 'totalPay': 1574000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis  Lee', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 2745000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dylan  Chuang', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Wen  Chao', 'title': 'Accounting Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	57.3
+open	57.1
+dayLow	55.9
+dayHigh	57.1
+regularMarketPreviousClose	57.3
+regularMarketOpen	57.1
+regularMarketDayLow	55.9
+regularMarketDayHigh	57.1
+dividendRate	1.2
+dividendYield	0.021
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	0.7317
+trailingPE	34.817074
+forwardPE	-35.6875
+volume	375644
+regularMarketVolume	375644
+averageVolume	1262269
+averageVolume10days	280693
+averageDailyVolume10Day	280693
+bid	57.0
+ask	57.2
+marketCap	2584848384
+fiftyTwoWeekLow	38.2
+fiftyTwoWeekHigh	90.4
+priceToSalesTrailing12Months	3.0269387
+fiftyDayAverage	65.494
+twoHundredDayAverage	61.86975
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.020942409
+currency	TWD
+enterpriseValue	2117328384
+profitMargins	0.08745
+sharesOutstanding	45268800
+heldPercentInsiders	0.26767
+impliedSharesOutstanding	45268800
+bookValue	18.955
+priceToBook	3.0123978
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.483
+netIncomeToCommon	74682000
+trailingEps	1.64
+forwardEps	-1.6
+lastSplitFactor	484.4551:1000
+lastSplitDate	1635379200	 (2021-10-28 08:00:00)
+enterpriseToRevenue	2.479
+enterpriseToEbitda	44.206
+52WeekChange	0.48891783
+SandP52WeekChange	0.26265144
+lastDividendValue	1.2
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6243.TW
+underlyingSymbol	6243.TW
+shortName	ENE TECHNOLOGY
+longName	Ene Technology Inc.
+firstTradeDateEpochUtc	1261011600	 (2009-12-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	524232a2-6a4c-326e-8490-fa3639a9c1f1
+messageBoardId	finmb_11479967
+gmtOffSetMilliseconds	28800000
+currentPrice	57.1
+recommendationKey	none
+totalCash	578096000
+totalCashPerShare	12.943
+ebitda	47897000
+totalDebt	145027008
+quickRatio	2.837
+currentRatio	3.781
+totalRevenue	853948032
+debtToEquity	17.13
+revenuePerShare	19.208
+returnOnAssets	0.01638
+returnOnEquity	0.08999
+freeCashflow	416442112
+operatingCashflow	272532000
+earningsGrowth	0.459
+revenueGrowth	-0.107
+grossMargins	0.3456
+ebitdaMargins	0.05609
+operatingMargins	-0.025829999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                     89600.0     -56200.0      98000.0          0.0
+Tax Rate For Calcs                                                  0.2          0.2          0.2          0.0
+Normalized EBITDA                                           107673000.0   92839000.0   73048000.0  -46898000.0
+Total Unusual Items                                            448000.0    -281000.0     490000.0    -681000.0
+Total Unusual Items Excluding Goodwill                         448000.0    -281000.0     490000.0    -681000.0
+Net Income From Continuing Operation Net Minority Interest   66676000.0   76906000.0   60307000.0  -61358000.0
+Reconciled Depreciation                                      39166000.0   19991000.0   13527000.0   10421000.0
+Reconciled Cost Of Revenue                                  563442000.0  466169000.0  564456000.0  490593000.0
+EBITDA                                                      108121000.0   92558000.0   73538000.0  -47579000.0
+EBIT                                                         68955000.0   72567000.0   60011000.0  -58000000.0
+Net Interest Income                                          13609000.0    3873000.0   -2301000.0    -402000.0
+Interest Expense                                              4069000.0    2209000.0    3002000.0    3358000.0
+Interest Income                                              17678000.0    6082000.0     701000.0    2956000.0
+Normalized Income                                            66317600.0   77130800.0   59915000.0  -60677000.0
+Net Income From Continuing And Discontinued Operation        66676000.0   76906000.0   60307000.0  -61358000.0
+Total Expenses                                              823281000.0  709410000.0  761796000.0  661404000.0
+Diluted Average Shares                                       45305000.0   45119000.0   38042000.0   36322982.0
+Basic Average Shares                                         44480000.0   44322000.0   37791000.0   36322982.0
+Diluted EPS                                                        1.47          1.7         1.59    -1.692624
+Basic EPS                                                           1.5         1.74          1.6    -1.692624
+Diluted NI Availto Com Stockholders                          66676000.0   76906000.0   60307000.0  -61358000.0
+Net Income Common Stockholders                               66676000.0   76906000.0   60307000.0  -61358000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                   66676000.0   76906000.0   60307000.0  -61358000.0
+Minority Interests                                                  NaN          NaN          0.0          0.0
+Net Income Including Noncontrolling Interests                66676000.0   76906000.0   60307000.0  -61358000.0
+Net Income Continuous Operations                             66676000.0   76906000.0   60307000.0  -61358000.0
+Tax Provision                                                -1790000.0   -6548000.0   -3298000.0          0.0
+Pretax Income                                                64886000.0   70358000.0   57009000.0  -61358000.0
+Other Non Operating Income Expenses                          -1232000.0   62291000.0   -6186000.0  -35384000.0
+Special Income Charges                                         448000.0    -281000.0     490000.0    -681000.0
+Write Off                                                     -448000.0     281000.0    -490000.0     681000.0
+Net Non Operating Interest Income Expense                    13609000.0    3873000.0   -2301000.0    -402000.0
+Interest Expense Non Operating                                4069000.0    2209000.0    3002000.0    3358000.0
+Interest Income Non Operating                                17678000.0    6082000.0     701000.0    2956000.0
+Operating Income                                             52061000.0    4475000.0   65006000.0  -24891000.0
+Operating Expense                                           259839000.0  243241000.0  197340000.0  170811000.0
+Research And Development                                    108079000.0   84048000.0   64025000.0   62417000.0
+Selling General And Administration                          151760000.0  159193000.0  133315000.0  108394000.0
+Selling And Marketing Expense                                76343000.0   80545000.0   57184000.0   48537000.0
+General And Administrative Expense                           75417000.0   78648000.0   76131000.0   59857000.0
+Gross Profit                                                311900000.0  247716000.0  262346000.0  145920000.0
+Cost Of Revenue                                             563442000.0  466169000.0  564456000.0  490593000.0
+Total Revenue                                               875342000.0  713885000.0  826802000.0  636513000.0
+Operating Revenue                                           875342000.0  713885000.0  826802000.0  636513000.0

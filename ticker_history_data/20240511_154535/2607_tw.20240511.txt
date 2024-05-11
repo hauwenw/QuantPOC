@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	899, Ching Kuo Road
+address2	Taoyuan District
+city	Taoyuan City
+country	Taiwan
+phone	866 3 325 2060
+fax	866 3 325 2059
+website	https://www.evergreen-eitc.com.tw
+industry	Marine Shipping
+industryKey	marine-shipping
+industryDisp	Marine Shipping
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Evergreen International Storage & Transport Corporation provides inland haulage, marine terminal stevedoring and chartering, and passenger transportation services. It offers inland container terminal services, including lifting operations, and control of inbound and outbound containers; warehousing and inspection of inbound container cargos; warehousing of LCL outbound cargos; operations of the bonded warehouse; container repairing and cleaning service; and warehousing in the distribution center. The company provides inland container haulage service for shipping and trade related industries, including shipside operations, container haulage, long-distance haulage, professional hovercraft transport, and special container haulage services. In addition, it offers ships berthing services; stevedoring services comprising loading, discharging, and transshipment; container storage/transition; receipt and delivery of cargo and container; stuffing and stripping of cargo into/from the container; reconsolidation of transshipped cargo; repairing and cleaning of container; garment on-hanger; inspection and management of container; and customs clearance services. Further, it operates gasoline stations that sell various gasoline, diesel, and CPC branded lubricants. Additionally, the company provides passenger transport services through buses; and offers vehicle maintenance and inspection services. Furthermore, it offers motor vehicle inspection station, gas station, vehicle maintenance, and repair services. Evergreen International Storage & Transport Corporation was incorporated in 1973 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Rong  Lin', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 4378000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Pang  Chen', 'title': 'Executive VP of Finance Dept. & Financial Officer', 'fiscalYear': 2021, 'totalPay': 3167000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Chen  Chang', 'title': 'VP of Finance Department & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu  Huang', 'title': 'Vice President of Human Resources Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	33.7
+open	33.8
+dayLow	33.4
+dayHigh	35.0
+regularMarketPreviousClose	33.7
+regularMarketOpen	33.8
+regularMarketDayLow	33.4
+regularMarketDayHigh	35.0
+dividendRate	1.25
+dividendYield	0.0366
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.4902
+fiveYearAvgDividendYield	2.1
+beta	0.625
+trailingPE	13.392158
+volume	11403411
+regularMarketVolume	11403411
+averageVolume	3446078
+averageVolume10days	6315631
+averageDailyVolume10Day	6315631
+bid	34.15
+ask	34.2
+marketCap	36442832896
+fiftyTwoWeekLow	26.35
+fiftyTwoWeekHigh	36.1
+priceToSalesTrailing12Months	2.22293
+fiftyDayAverage	32.244
+twoHundredDayAverage	31.0195
+trailingAnnualDividendRate	1.1
+trailingAnnualDividendYield	0.03264095
+currency	TWD
+enterpriseValue	32066232320
+profitMargins	0.16610001
+floatShares	504693709
+sharesOutstanding	1067139968
+heldPercentInsiders	0.58251
+heldPercentInstitutions	0.08283
+impliedSharesOutstanding	1067139968
+bookValue	29.583
+priceToBook	1.1543792
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.4
+netIncomeToCommon	2723072000
+trailingEps	2.55
+lastSplitFactor	115:100
+lastSplitDate	963532800	 (2000-07-14 08:00:00)
+enterpriseToRevenue	1.956
+enterpriseToEbitda	8.438
+52WeekChange	0.28383458
+SandP52WeekChange	0.26265144
+lastDividendValue	1.25
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2607.TW
+underlyingSymbol	2607.TW
+shortName	EVERGREEN INTL STORAGE TRANSPOR
+longName	Evergreen International Storage & Transport Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	970656ba-b8b4-31d9-a970-7dc07fd4d720
+messageBoardId	finmb_12720730
+gmtOffSetMilliseconds	28800000
+currentPrice	34.15
+recommendationKey	none
+totalCash	9523823616
+totalCashPerShare	8.925
+ebitda	3800403968
+totalDebt	4848693760
+quickRatio	4.005
+currentRatio	4.112
+totalRevenue	16394053632
+debtToEquity	15.215
+revenuePerShare	15.363
+returnOnAssets	0.03812
+returnOnEquity	0.09182999
+freeCashflow	1185380864
+operatingCashflow	4483955200
+earningsGrowth	-0.393
+revenueGrowth	0.268
+grossMargins	0.24962999
+ebitdaMargins	0.23181999
+operatingMargins	0.16016
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -218984.578649     -268563.184433      592196.576241   -1056076.020228
+Tax Rate For Calcs                                                   0.249697           0.113318           0.101334          0.174012
+Normalized EBITDA                                                5288211000.0       5499190000.0       3453379000.0      3179578000.0
+Total Unusual Items                                                 -877000.0         -2370000.0          5844000.0        -6069000.0
+Total Unusual Items Excluding Goodwill                              -877000.0         -2370000.0          5844000.0        -6069000.0
+Net Income From Continuing Operation Net Minority Interest       2723072000.0       3526415000.0       1064544000.0       682203000.0
+Reconciled Depreciation                                          1403071000.0       1230379000.0       2164922000.0      2202484000.0
+Reconciled Cost Of Revenue                                      12301528000.0      13087458000.0       7526982000.0      5975816000.0
+EBITDA                                                           5287334000.0       5496820000.0       3459223000.0      3173509000.0
+EBIT                                                             3884263000.0       4266441000.0       1294301000.0       971025000.0
+Net Interest Income                                                52703000.0        -81989000.0        -78751000.0      -106939000.0
+Interest Expense                                                  109237000.0        126703000.0         88784000.0       144666000.0
+Interest Income                                                   161940000.0         44714000.0         10033000.0        37727000.0
+Normalized Income                                           2723730015.421351  3528516436.815567  1059292196.576241  687215923.979772
+Net Income From Continuing And Discontinued Operation            2723072000.0       3526415000.0       1064544000.0       682203000.0
+Total Expenses                                                  13786593000.0      14382867000.0       7926587000.0      6215334000.0
+Diluted Average Shares                                                    NaN       1068508000.0       1067721000.0      1068169000.0
+Basic Average Shares                                                      NaN       1067141000.0       1067141000.0      1067141000.0
+Diluted EPS                                                               NaN                3.3                1.0              0.64
+Basic EPS                                                                 NaN                3.3                1.0              0.64
+Diluted NI Availto Com Stockholders                              2723072000.0       3526415000.0       1064544000.0       682203000.0
+Net Income Common Stockholders                                   2723072000.0       3526415000.0       1064544000.0       682203000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0               0.0
+Net Income                                                       2723072000.0       3526415000.0       1064544000.0       682203000.0
+Minority Interests                                               -109340000.0       -144217000.0        -18813000.0         -360000.0
+Net Income Including Noncontrolling Interests                    2832412000.0       3670632000.0       1083357000.0       682563000.0
+Net Income Continuous Operations                                 2832412000.0       3670632000.0       1083357000.0       682563000.0
+Tax Provision                                                     942614000.0        469106000.0        122160000.0       143796000.0
+Pretax Income                                                    3775026000.0       4139738000.0       1205517000.0       826359000.0
+Other Non Operating Income Expenses                               997983000.0        898566000.0        193184000.0       104664000.0
+Special Income Charges                                              -877000.0         -2370000.0          5844000.0        -6069000.0
+Write Off                                                            877000.0          2370000.0         -5844000.0         6069000.0
+Net Non Operating Interest Income Expense                          52703000.0        -81989000.0        -78751000.0      -106939000.0
+Interest Expense Non Operating                                    109237000.0        126703000.0         88784000.0       144666000.0
+Interest Income Non Operating                                     161940000.0         44714000.0         10033000.0        37727000.0
+Operating Income                                                 2607461000.0       3204089000.0        953639000.0       751053000.0
+Operating Expense                                                1485065000.0       1295409000.0        399605000.0       239518000.0
+Selling General And Administration                               1485065000.0       1295409000.0        399605000.0       239518000.0
+Selling And Marketing Expense                                     679732000.0        549941000.0        114086000.0        26822000.0
+General And Administrative Expense                                805333000.0        745468000.0        285519000.0       212696000.0
+Gross Profit                                                     4092526000.0       4499498000.0       1353244000.0       990571000.0
+Cost Of Revenue                                                 12301528000.0      13087458000.0       7526982000.0      5975816000.0
+Total Revenue                                                   16394054000.0      17586956000.0       8880226000.0      6966387000.0
+Operating Revenue                                               16394054000.0      17586956000.0       8880226000.0      6966387000.0

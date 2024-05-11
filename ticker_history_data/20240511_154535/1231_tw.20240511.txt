@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.148, Dihua Street
+address2	Section 1 Datong District
+city	Taipei
+zip	103
+country	Taiwan
+phone	886 2 2553 4546
+fax	886 2 2553 3479
+website	https://www.lianhwa.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Lian Hwa Foods Corporation engages in the manufacture, processing, trade, wholesale, and retail of food products in Taiwan. The company's products portfolio include seaweed, fish, noodles, rice, beans, nuts, melon seeds, Jams, beverages, sugar, candy, biscuits, peanut butter, and other products. It also engages in the provision processed, marine and land products, frozen processed, and canned foods; and tobacco and alcohol wholesale and retail activities. The company offers under the KOLOKO, VIVA, CADINA, Moto-Moto-Yama, Chef Hoka, and Lucky Star brand names. Lian Hwa Foods Corporation was founded in 1951 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jia-Chi  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuo-Heng  Lee', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Yuan  Lin', 'title': 'Assistant Vice President of Financial Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pei-Cen  Chen', 'title': 'Manager of General Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao-Min  Fu', 'title': 'President of Business Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Chiang  Chiang', 'title': 'President of Business Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	97.5
+open	97.5
+dayLow	97.5
+dayHigh	98.0
+regularMarketPreviousClose	97.5
+regularMarketOpen	97.5
+regularMarketDayLow	97.5
+regularMarketDayHigh	98.0
+dividendRate	1.6
+dividendYield	0.0163
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.4071
+fiveYearAvgDividendYield	2.64
+beta	0.26
+trailingPE	24.936386
+volume	53393
+regularMarketVolume	53393
+averageVolume	220991
+averageVolume10days	103572
+averageDailyVolume10Day	103572
+bid	97.9
+ask	98.0
+marketCap	24172384256
+fiftyTwoWeekLow	81.454544
+fiftyTwoWeekHigh	99.4
+priceToSalesTrailing12Months	2.2272012
+fiftyDayAverage	95.332
+twoHundredDayAverage	89.473
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.016410256
+currency	TWD
+enterpriseValue	27746643968
+profitMargins	0.08934
+floatShares	111183109
+sharesOutstanding	246656992
+heldPercentInsiders	0.61627
+heldPercentInstitutions	0.00918
+impliedSharesOutstanding	247411008
+bookValue	23.356
+priceToBook	4.195924
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.792
+netIncomeToCommon	969576000
+trailingEps	3.93
+lastSplitFactor	1100:1000
+lastSplitDate	1689206400	 (2023-07-13 08:00:00)
+enterpriseToRevenue	2.557
+enterpriseToEbitda	24.189
+52WeekChange	0.18331504
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1231.TW
+underlyingSymbol	1231.TW
+shortName	LIAN HWA FOODS CORP
+longName	Lian Hwa Foods Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	96a0383f-b89e-35c4-b9f0-d1fbff8c624e
+messageBoardId	finmb_9844223
+gmtOffSetMilliseconds	28800000
+currentPrice	98.0
+recommendationKey	none
+totalCash	1139836032
+totalCashPerShare	4.621
+ebitda	1147069952
+totalDebt	4696017920
+quickRatio	1.004
+currentRatio	1.48
+totalRevenue	10853256192
+debtToEquity	81.261
+revenuePerShare	44.001
+returnOnAssets	0.04834
+returnOnEquity	0.17709999
+freeCashflow	-726335744
+operatingCashflow	1446177024
+earningsGrowth	0.793
+revenueGrowth	-0.049
+grossMargins	0.21028
+ebitdaMargins	0.10569
+operatingMargins	0.08587
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0           0.0           0.0
+Tax Rate For Calcs                                                0.19326       0.205516      0.194974      0.194793
+Normalized EBITDA                                            1533726000.0   1390872000.0  1309232000.0  1153299000.0
+Net Income From Continuing Operation Net Minority Interest    969576000.0    871814000.0   814001000.0   684768000.0
+Reconciled Depreciation                                       286313000.0    257043000.0   267907000.0   270419000.0
+Reconciled Cost Of Revenue                                   8571068000.0   8270979000.0  7315626000.0  6930265000.0
+EBITDA                                                       1533726000.0   1390872000.0  1309232000.0  1153299000.0
+EBIT                                                         1247413000.0   1133829000.0  1041325000.0   882880000.0
+Net Interest Income                                           -43070000.0    -36857000.0   -30355000.0   -30955000.0
+Interest Expense                                               45471000.0     37537000.0    30574000.0    31300000.0
+Interest Income                                                 2401000.0       680000.0      219000.0      345000.0
+Normalized Income                                             969576000.0    871814000.0   814001000.0   684768000.0
+Net Income From Continuing And Discontinued Operation         969576000.0    871814000.0   814001000.0   684768000.0
+Total Expenses                                               9943407000.0   9595239000.0  8571639000.0  8078071000.0
+Diluted Average Shares                                                NaN    246899000.0   246858700.0   246624906.0
+Basic Average Shares                                                  NaN    246605000.0   246351600.0   246224418.0
+Diluted EPS                                                           NaN           3.53           3.3      2.776413
+Basic EPS                                                             NaN           3.54           3.3      2.776413
+Diluted NI Availto Com Stockholders                           969576000.0    871814000.0   814001000.0   684768000.0
+Net Income Common Stockholders                                969576000.0    871814000.0   814001000.0   684768000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0           0.0           0.0
+Net Income                                                    969576000.0    871814000.0   814001000.0   684768000.0
+Minority Interests                                               -79000.0       828000.0      320000.0     -930000.0
+Net Income Including Noncontrolling Interests                 969655000.0    870986000.0   813681000.0   685698000.0
+Net Income Continuous Operations                              969655000.0    870986000.0   813681000.0   685698000.0
+Tax Provision                                                 232287000.0    225306000.0   197070000.0   165882000.0
+Pretax Income                                                1201942000.0   1096292000.0  1010751000.0   851580000.0
+Other Non Operating Income Expenses                           335183000.0    -43634000.0    95695000.0   143567000.0
+Net Non Operating Interest Income Expense                     -43070000.0    -36857000.0   -30355000.0   -30955000.0
+Interest Expense Non Operating                                 45471000.0     37537000.0    30574000.0    31300000.0
+Interest Income Non Operating                                   2401000.0       680000.0      219000.0      345000.0
+Operating Income                                              909849000.0   1177600000.0   946253000.0   739250000.0
+Operating Expense                                            1372339000.0   1324260000.0  1256013000.0  1147806000.0
+Research And Development                                      115298000.0     96188000.0    88778000.0    82566000.0
+Selling General And Administration                           1257041000.0   1228072000.0  1167235000.0  1065240000.0
+Selling And Marketing Expense                                 908753000.0    904886000.0   877321000.0   809345000.0
+General And Administrative Expense                            348288000.0    323186000.0   289914000.0   255895000.0
+Gross Profit                                                 2282188000.0   2501860000.0  2202266000.0  1887056000.0
+Cost Of Revenue                                              8571068000.0   8270979000.0  7315626000.0  6930265000.0
+Total Revenue                                               10853256000.0  10772839000.0  9517892000.0  8817321000.0
+Operating Revenue                                           10853256000.0  10772839000.0  9517892000.0  8817321000.0

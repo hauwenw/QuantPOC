@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No.555, Siyuan Road
+address2	35th Floor Xinzhuang District
+city	New Taipei City
+zip	242034
+country	Taiwan
+phone	886 2 2278 9696
+website	https://www.clevo.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Clevo Co. operates as an ODM/OEM manufacturer worldwide. It also offers products for gaming, entertainment, and mobility applications. In addition, the company engages in the research, development, design, manufacture, retail, wholesale, maintenance, and after-sales service of computers and computer peripherals, computer software, and digital products; property and shopping mall management, building leasing, real estate advisory, housekeeping, parking lot, and car wash activities; and provision of maintenance service for electronics, notebooks, tablets, information and communication products, and computer components. Further, it provides market management services for operators of laptops, computers, tablets, desktops, palmtop computers, information and communication products, computer component, and electronic products; mechanical equipment and accessories; wires and cables; air conditioning equipment; building and decoration materials; lighting equipment; kitchen appliances; water cleaners; pipeline and accessories; fire safety equipment; compressors; and accessories, as well as engages in the wholesale of elevators and appliances; and leasing services. Additionally, the company is involved in the manufacturing of consumer electronics; investment, business management, advisory, and consultation services; business affairs; designing and marketing of advertising; catering business management services; technology extension services; wholesale and retail, import and export, and aftersales service of household appliances, goods, communication equipment, electrical devices, office supplies, and complementary products; and development, technology transfer, and service and training for internet and communication equipment. Clevo Co. was incorporated in 1983 and is headquartered in New Taipei City, Taiwan. Clevo Co. is a subsidiary of Taipei Twin Corporation.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Hsien  Tsai', 'age': 68, 'title': 'Vice Chairperson & President', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mai  Wu', 'title': 'VP, Chief of Finance & Accounting and Officer of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Ming  Zhang', 'title': 'Senior VP of Business & Procurement Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yih-Long  Chien', 'title': 'Executive Vice President of Notebook Business Group & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Mei  Liu', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.65
+open	43.7
+dayLow	43.1
+dayHigh	44.0
+regularMarketPreviousClose	43.65
+regularMarketOpen	43.7
+regularMarketDayLow	43.1
+regularMarketDayHigh	44.0
+dividendRate	1.5
+dividendYield	0.0343
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.5769
+fiveYearAvgDividendYield	3.43
+beta	0.595
+trailingPE	16.807693
+volume	3674853
+regularMarketVolume	3674853
+averageVolume	3966719
+averageVolume10days	5601120
+averageDailyVolume10Day	5601120
+bid	43.7
+ask	43.75
+marketCap	25573939200
+fiftyTwoWeekLow	31.0
+fiftyTwoWeekHigh	48.85
+priceToSalesTrailing12Months	1.0489827
+fiftyDayAverage	40.945
+twoHundredDayAverage	36.7225
+trailingAnnualDividendRate	1.6
+trailingAnnualDividendYield	0.03665521
+currency	TWD
+enterpriseValue	50860593152
+profitMargins	0.04348
+floatShares	296956020
+sharesOutstanding	585216000
+heldPercentInsiders	0.40562
+heldPercentInstitutions	0.02636
+impliedSharesOutstanding	590104000
+bookValue	70.373
+priceToBook	0.6209768
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.463
+netIncomeToCommon	1060089984
+trailingEps	2.6
+lastSplitFactor	1.0504:1
+lastSplitDate	1248134400	 (2009-07-21 08:00:00)
+enterpriseToRevenue	2.086
+enterpriseToEbitda	26.861
+52WeekChange	0.37854886
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2362.TW
+underlyingSymbol	2362.TW
+shortName	CLEVO CO
+longName	Clevo Co.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	71d45374-a895-34ef-a479-6ba579b0653a
+messageBoardId	finmb_1433610
+gmtOffSetMilliseconds	28800000
+currentPrice	43.7
+recommendationKey	none
+totalCash	10220266496
+totalCashPerShare	17.464
+ebitda	1893451008
+totalDebt	35506933760
+quickRatio	0.795
+currentRatio	1.019
+totalRevenue	24379752448
+debtToEquity	86.217
+revenuePerShare	41.659
+returnOnAssets	0.01149
+returnOnEquity	0.02555
+freeCashflow	1328613120
+operatingCashflow	505513984
+earningsGrowth	0.461
+revenueGrowth	0.292
+grossMargins	0.20039
+ebitdaMargins	0.077659994
+operatingMargins	0.06358
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      38119.883641   -5560142.894638    -1263629.749881     -89606.440632
+Tax Rate For Calcs                                                    0.03812          0.075164           0.201922          0.042029
+Normalized EBITDA                                                2247221000.0      2024410000.0       3172972000.0      1908816000.0
+Total Unusual Items                                                 1000000.0       -73973000.0         -6258000.0        -2132000.0
+Total Unusual Items Excluding Goodwill                              1000000.0       -73973000.0         -6258000.0        -2132000.0
+Net Income From Continuing Operation Net Minority Interest       1060090000.0       824526000.0       1796350000.0       666944000.0
+Reconciled Depreciation                                           312234000.0       317663000.0        276925000.0       301848000.0
+Reconciled Cost Of Revenue                                      19494238000.0     17257626000.0      21676266000.0     15882827000.0
+EBITDA                                                           2248221000.0      1950437000.0       3166714000.0      1906684000.0
+EBIT                                                             1935987000.0      1632774000.0       2889789000.0      1604836000.0
+Net Interest Income                                              -595829000.0      -673545000.0       -620752000.0      -840888000.0
+Interest Expense                                                  833885000.0       741236000.0        638943000.0       908631000.0
+Interest Income                                                   238056000.0        67691000.0         18191000.0        67743000.0
+Normalized Income                                           1059128119.883641  892938857.105362  1801344370.250119  668986393.559368
+Net Income From Continuing And Discontinued Operation            1060090000.0       824526000.0       1796350000.0       666944000.0
+Total Expenses                                                  22647047000.0     20204080000.0      24895745000.0     18760631000.0
+Diluted Average Shares                                                    NaN       590125000.0        599687000.0       601992000.0
+Basic Average Shares                                                      NaN       585216000.0        593451000.0       597825000.0
+Diluted EPS                                                               NaN               1.4                3.0              1.11
+Basic EPS                                                                 NaN              1.41               3.03              1.12
+Diluted NI Availto Com Stockholders                              1060090000.0       824526000.0       1796350000.0       666944000.0
+Net Income Common Stockholders                                   1060090000.0       824526000.0       1796350000.0       666944000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0               0.0
+Net Income                                                       1060090000.0       824526000.0       1796350000.0       666944000.0
+Minority Interests                                                        NaN               NaN                NaN               0.0
+Net Income Including Noncontrolling Interests                    1060090000.0       824526000.0       1796350000.0       666944000.0
+Net Income Continuous Operations                                 1060090000.0       824526000.0       1796350000.0       666944000.0
+Tax Provision                                                      42012000.0        67012000.0        454496000.0        29261000.0
+Pretax Income                                                    1102102000.0       891538000.0       2250846000.0       696205000.0
+Other Non Operating Income Expenses                                 4197000.0       -69288000.0        603180000.0        18962000.0
+Special Income Charges                                              1000000.0       -73973000.0         -6258000.0        -2132000.0
+Write Off                                                          -1000000.0        73973000.0          6258000.0         2132000.0
+Net Non Operating Interest Income Expense                        -595829000.0      -673545000.0       -620752000.0      -840888000.0
+Interest Expense Non Operating                                    833885000.0       741236000.0        638943000.0       908631000.0
+Interest Income Non Operating                                     238056000.0        67691000.0         18191000.0        67743000.0
+Operating Income                                                 1732706000.0      1992780000.0       2096097000.0      1478315000.0
+Operating Expense                                                3152809000.0      2946454000.0       3219479000.0      2877804000.0
+Research And Development                                          704043000.0       630168000.0        632583000.0       547461000.0
+Selling General And Administration                               2448766000.0      2316286000.0       2586896000.0      2330343000.0
+Selling And Marketing Expense                                    1204710000.0      1126542000.0       1202125000.0      1095907000.0
+General And Administrative Expense                               1244056000.0      1189744000.0       1384771000.0      1234436000.0
+Gross Profit                                                     4885515000.0      4939234000.0       5315576000.0      4356119000.0
+Cost Of Revenue                                                 19494238000.0     17257626000.0      21676266000.0     15882827000.0
+Total Revenue                                                   24379753000.0     22196860000.0      26991842000.0     20238946000.0
+Operating Revenue                                               24379753000.0     22196860000.0      26991842000.0     20238946000.0

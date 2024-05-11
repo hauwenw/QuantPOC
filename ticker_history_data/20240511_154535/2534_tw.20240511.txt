@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 156, Section 3
+address2	19th and 5th Floor Minsheng East Road Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 2719 9999
+fax	886 2 2546 4577
+website	https://www.hsc.com.tw
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Hung Sheng Construction Ltd. constructs, sells, and leases residential and commercial buildings. The company was founded in 1975 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yung-Fu  Lu', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 6108000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Te  Chen', 'title': 'Manager of Finance Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih Mei  Wang', 'title': 'Principal Accounting Officer & Acting Spokesperson', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	27.05
+open	27.25
+dayLow	26.0
+dayHigh	27.25
+regularMarketPreviousClose	27.05
+regularMarketOpen	27.25
+regularMarketDayLow	26.0
+regularMarketDayHigh	27.25
+dividendRate	1.75
+dividendYield	0.0665
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	1.5909
+fiveYearAvgDividendYield	4.53
+beta	0.469
+trailingPE	23.90909
+forwardPE	5.1771655
+volume	5247885
+regularMarketVolume	5247885
+averageVolume	2625224
+averageVolume10days	8089786
+averageDailyVolume10Day	8089786
+bid	26.3
+ask	26.35
+marketCap	12439925760
+fiftyTwoWeekLow	17.65
+fiftyTwoWeekHigh	30.95
+priceToSalesTrailing12Months	4.8724484
+fiftyDayAverage	23.204
+twoHundredDayAverage	20.49575
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.036968578
+currency	TWD
+enterpriseValue	25990469632
+profitMargins	0.20401
+floatShares	339463336
+sharesOutstanding	473000992
+heldPercentInsiders	0.34362
+heldPercentInstitutions	0.11462
+impliedSharesOutstanding	475406016
+bookValue	31.047
+priceToBook	0.8471027
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.874
+netIncomeToCommon	520871008
+trailingEps	1.1
+forwardEps	5.08
+lastSplitFactor	800:1000
+lastSplitDate	1606953600	 (2020-12-03 08:00:00)
+enterpriseToRevenue	10.18
+enterpriseToEbitda	34.691
+52WeekChange	0.17673373
+SandP52WeekChange	0.26265144
+lastDividendValue	1.75
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2534.TW
+underlyingSymbol	2534.TW
+shortName	HUNG SHENG CONSTRUCTION
+longName	Hung Sheng Construction Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4346feb6-8489-31e3-ac8d-efe3b9f9bfa0
+messageBoardId	finmb_9833722
+gmtOffSetMilliseconds	28800000
+currentPrice	26.3
+recommendationKey	none
+totalCash	1183874048
+totalCashPerShare	2.503
+ebitda	749193984
+totalDebt	14734418944
+quickRatio	0.092
+currentRatio	1.282
+totalRevenue	2553115904
+debtToEquity	100.335
+revenuePerShare	5.398
+returnOnAssets	0.01342
+returnOnEquity	0.03518
+freeCashflow	-1268396160
+operatingCashflow	-143792992
+earningsGrowth	-0.874
+revenueGrowth	-0.883
+grossMargins	0.45082
+ebitdaMargins	0.29343998
+operatingMargins	0.33451
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    726098.988061    -1514987.109668    -458768.927535    3351984.893924
+Tax Rate For Calcs                                                  0.136768           0.033292          0.042287          0.071746
+Normalized EBITDA                                                851998000.0       2337031000.0      1142368000.0       863251000.0
+Total Unusual Items                                                5309000.0        -45506000.0       -10849000.0        46720000.0
+Total Unusual Items Excluding Goodwill                             5309000.0        -45506000.0       -10849000.0        46720000.0
+Net Income From Continuing Operation Net Minority Interest       520871000.0       1965239000.0       844003000.0       610066000.0
+Reconciled Depreciation                                           72733000.0         65274000.0        53419000.0        52645000.0
+Reconciled Cost Of Revenue                                      1402126000.0       3968692000.0      2217798000.0      1545821000.0
+EBITDA                                                           857307000.0       2291525000.0      1131519000.0       909971000.0
+EBIT                                                             784574000.0       2226251000.0      1078100000.0       857326000.0
+Net Interest Income                                             -169407000.0       -189361000.0      -196166000.0      -199279000.0
+Interest Expense                                                 181178000.0        193332000.0       196831000.0       200107000.0
+Interest Income                                                   11771000.0          3971000.0          665000.0          828000.0
+Normalized Income                                           516288098.988061  2009230012.890332  854393231.072465  566697984.893924
+Net Income From Continuing And Discontinued Operation            520871000.0       1965239000.0       844003000.0       610066000.0
+Total Expenses                                                  1879691000.0       4744768000.0      2825155000.0      2042026000.0
+Rent Expense Supplemental                                         77181000.0         65931000.0        51755000.0        51751000.0
+Diluted Average Shares                                                   NaN        473495000.0       473206000.0       545193000.0
+Basic Average Shares                                                     NaN        473001000.0       473001000.0       545049000.0
+Diluted EPS                                                              NaN               4.15              1.78              1.12
+Basic EPS                                                                NaN               4.15              1.78              1.12
+Diluted NI Availto Com Stockholders                              520871000.0       1965239000.0       844003000.0       610066000.0
+Net Income Common Stockholders                                   520871000.0       1965239000.0       844003000.0       610066000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0               0.0
+Net Income                                                       520871000.0       1965239000.0       844003000.0       610066000.0
+Net Income Including Noncontrolling Interests                    520871000.0       1965239000.0       844003000.0       610066000.0
+Net Income Continuous Operations                                 520871000.0       1965239000.0       844003000.0       610066000.0
+Tax Provision                                                     82525000.0         67680000.0        37266000.0        47153000.0
+Pretax Income                                                    603396000.0       2032919000.0       881269000.0       657219000.0
+Other Non Operating Income Expenses                                4544000.0         31504000.0         -597000.0        39775000.0
+Special Income Charges                                             5309000.0        -45506000.0       -10849000.0        46720000.0
+Other Special Charges                                             -2273000.0         -2863000.0        -5356000.0       -46720000.0
+Write Off                                                         -3036000.0         48369000.0        16205000.0               0.0
+Net Non Operating Interest Income Expense                       -169407000.0       -189361000.0      -196166000.0      -199279000.0
+Interest Expense Non Operating                                   181178000.0        193332000.0       196831000.0       200107000.0
+Interest Income Non Operating                                     11771000.0          3971000.0          665000.0          828000.0
+Operating Income                                                 673425000.0       2223383000.0      1050637000.0       729879000.0
+Operating Expense                                                477565000.0        776076000.0       607357000.0       496205000.0
+Selling General And Administration                               477565000.0        776076000.0       607357000.0       496205000.0
+Selling And Marketing Expense                                    121129000.0        320129000.0       194785000.0       167215000.0
+General And Administrative Expense                               356436000.0        455947000.0       412572000.0       328990000.0
+Gross Profit                                                    1150990000.0       2999459000.0      1657994000.0      1226084000.0
+Cost Of Revenue                                                 1402126000.0       3968692000.0      2217798000.0      1545821000.0
+Total Revenue                                                   2553116000.0       6968151000.0      3875792000.0      2771905000.0
+Operating Revenue                                               2553116000.0       6968151000.0      3875792000.0      2771905000.0

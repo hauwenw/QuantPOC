@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 136, Lotus Building
+address2	5F, Sec. 3 Ren Ai Road Da An District
+city	Taipei
+zip	10657
+country	Taiwan
+phone	886 2 2507 1259
+fax	886 2 2507 2264
+website	https://www.shinkong.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Shinkong Synthetic Fibers Corporation researches, manufactures, and sells polyester chips and polyester films in Asia and Europe. Its products primarily include partially oriented yarns, polyester filament yarns, fully drawn yarns, polyester staple fibers, polyester draw textured yarns, industrial yarns, polyester pellets, PET bottle grade resins, PET bottles, PET bottle preforms, engineering polymers, optical films, polyester films, and A-PET sheets. The company also offers synthetic resins, plastic products; chemical fiber weaving, printing, and dyeing services; and leasing, investment, human resources management and securities investment consulting, and life and property insurance agency services, as well as electronic information software. In addition, it manufactures magnetic tapes for recording and video disks, and polyester films; manufactures synthetic fibers; and manufactures electronic parts and components, and precision chemical materials, as well as engages in the wholesale and retail sale of textile products. Further, the company is involved in the precision chemical materials and mold manufacturing wholesale, etc.; consignment trading of securities and futures; and sale and rental of housing and building development projects; and provision of consulting, biotechnology research, and development services. It serves textiles, food, packaging, electronics, and optoelectronics industries. The company was founded in 1967 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chin-Ta  Ou', 'title': 'President & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsin-Chang  Lin', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lung Hsiao  Chih', 'title': 'Vice President of Investment Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsun-Neng  Lee', 'title': 'Accounting Department Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tiou  Kou Tai', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Lo  Jung-Sen', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yong Chuan  Zeng', 'title': 'Associate Manager of General Administration Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xin-Yi  Tseng', 'title': 'Assistant Vice President of Human Resource Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng  Chin-Chang', 'title': 'Executive VP & Head of Material Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shu Peng  Chun', 'title': 'Head of Production Technology of Corporate Engineering Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	16.8
+open	16.85
+dayLow	16.75
+dayHigh	17.15
+regularMarketPreviousClose	16.8
+regularMarketOpen	16.85
+regularMarketDayLow	16.75
+regularMarketDayHigh	17.15
+dividendRate	1.0
+dividendYield	0.0585
+exDividendDate	1693440000	 (2023-08-31 08:00:00)
+payoutRatio	2.1277
+fiveYearAvgDividendYield	6.16
+beta	0.677
+trailingPE	36.38298
+volume	4958388
+regularMarketVolume	4958388
+averageVolume	4750205
+averageVolume10days	5140136
+averageDailyVolume10Day	5140136
+bid	17.05
+ask	17.15
+marketCap	27594784768
+fiftyTwoWeekLow	14.6
+fiftyTwoWeekHigh	17.65
+priceToSalesTrailing12Months	0.6991031
+fiftyDayAverage	16.241
+twoHundredDayAverage	15.73525
+trailingAnnualDividendRate	0.55
+trailingAnnualDividendYield	0.032738097
+currency	TWD
+enterpriseValue	80939188224
+profitMargins	0.01937
+floatShares	1110713533
+sharesOutstanding	1613730048
+heldPercentInsiders	0.32445
+heldPercentInstitutions	0.07835
+impliedSharesOutstanding	1613730048
+bookValue	22.526
+priceToBook	0.75912285
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.492
+netIncomeToCommon	764409984
+trailingEps	0.47
+lastSplitFactor	1.05544:1
+lastSplitDate	1316995200	 (2011-09-26 08:00:00)
+enterpriseToRevenue	2.051
+enterpriseToEbitda	15.223
+52WeekChange	0.014836788
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1693440000	 (2023-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1409.TW
+underlyingSymbol	1409.TW
+shortName	SHINKONG SYNTHETIC FIBER
+longName	Shinkong Synthetic Fibers Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	07d6ab4d-531e-3d78-8b35-eae85b94e415
+messageBoardId	finmb_9870732
+gmtOffSetMilliseconds	28800000
+currentPrice	17.1
+recommendationKey	none
+totalCash	16810593280
+totalCashPerShare	10.417
+ebitda	5316923904
+totalDebt	59661021184
+quickRatio	0.379
+currentRatio	1.02
+totalRevenue	39471693824
+debtToEquity	127.358
+revenuePerShare	24.46
+returnOnAssets	0.01169
+returnOnEquity	0.02517
+freeCashflow	-4694476288
+operatingCashflow	-5351369216
+earningsGrowth	3.482
+revenueGrowth	0.076
+grossMargins	0.18989
+ebitdaMargins	0.1347
+operatingMargins	0.09688
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  14381615.826832     5231195.964461       17233.391735  -209910022.628896
+Tax Rate For Calcs                                                  0.220716           0.228706           0.183334           0.310269
+Normalized EBITDA                                               5169771000.0       7471609000.0       8210515000.0       5544327000.0
+Total Unusual Items                                               65159000.0         22873000.0            94000.0       -676543000.0
+Total Unusual Items Excluding Goodwill                            65159000.0         22873000.0            94000.0       -676543000.0
+Net Income From Continuing Operation Net Minority Interest       764410000.0       2823787000.0       3859660000.0        842670000.0
+Reconciled Depreciation                                         2001885000.0       1768123000.0       1670209000.0       1786155000.0
+Reconciled Cost Of Revenue                                     31976448000.0      35203650000.0      32053302000.0      24345888000.0
+EBITDA                                                          5234930000.0       7494482000.0       8210609000.0       4867784000.0
+EBIT                                                            3233045000.0       5726359000.0       6540400000.0       3081629000.0
+Net Interest Income                                            -1732214000.0      -1032314000.0       -692438000.0       -764459000.0
+Interest Expense                                                1732214000.0       1032314000.0        692438000.0        764459000.0
+Normalized Income                                           713632615.826832  2806145195.964461  3859583233.391735  1309302977.371104
+Net Income From Continuing And Discontinued Operation            764410000.0       2823787000.0       3888416000.0       2884329000.0
+Total Expenses                                                 35936024000.0      39849447000.0      36765813000.0      27623511000.0
+Diluted Average Shares                                                   NaN       1616081000.0       1616413000.0       1616447000.0
+Basic Average Shares                                                     NaN       1613729000.0       1613729000.0       1613729000.0
+Diluted EPS                                                              NaN               1.75               2.41               1.78
+Basic EPS                                                                NaN               1.75               2.41               1.79
+Diluted NI Availto Com Stockholders                              764410000.0       2823787000.0       3888416000.0       2884329000.0
+Net Income Common Stockholders                                   764410000.0       2823787000.0       3888416000.0       2884329000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0                0.0
+Net Income                                                       764410000.0       2823787000.0       3888416000.0       2884329000.0
+Minority Interests                                              -405164000.0       -796701000.0       -916172000.0       -755555000.0
+Net Income Including Noncontrolling Interests                   1169574000.0       3620488000.0       4804588000.0       3639884000.0
+Net Income Discontinuous Operations                                      NaN                0.0         28756000.0       2041659000.0
+Net Income Continuous Operations                                1169574000.0       3620488000.0       4775832000.0       1598225000.0
+Tax Provision                                                    331257000.0       1073557000.0       1072130000.0        718945000.0
+Pretax Income                                                   1500831000.0       4694045000.0       5847962000.0       2317170000.0
+Other Non Operating Income Expenses                               39825000.0         20052000.0       -174422000.0        -25998000.0
+Special Income Charges                                            -9722000.0         -3266000.0       -137212000.0       -727334000.0
+Other Special Charges                                             -9295000.0        -13161000.0          8694000.0        -37103000.0
+Write Off                                                         19017000.0         16427000.0        128518000.0        764437000.0
+Net Non Operating Interest Income Expense                      -1732214000.0      -1032314000.0       -692438000.0       -764459000.0
+Interest Expense Non Operating                                  1732214000.0       1032314000.0        692438000.0        764459000.0
+Operating Income                                                3040944000.0       4784627000.0       6872907000.0       4104600000.0
+Operating Expense                                               3959576000.0       4645797000.0       4712511000.0       3277623000.0
+Research And Development                                         478135000.0        395951000.0        378874000.0        309696000.0
+Selling General And Administration                              3481441000.0       4249846000.0       4333637000.0       2967927000.0
+Selling And Marketing Expense                                   1178132000.0       1834191000.0       1754565000.0        838084000.0
+General And Administrative Expense                              2303309000.0       2415655000.0       2579072000.0       2129843000.0
+Gross Profit                                                    7000520000.0       9430424000.0      11585418000.0       7382223000.0
+Cost Of Revenue                                                31976448000.0      35203650000.0      32053302000.0      24345888000.0
+Total Revenue                                                  38976968000.0      44634074000.0      43638720000.0      31728111000.0
+Operating Revenue                                              38976968000.0      44634074000.0      43638720000.0      31728111000.0

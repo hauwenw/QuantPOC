@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	Ugland House
+address2	PO Box 309 Grand Cayman
+city	Shanghai
+zip	KY1-1104
+country	China
+website	https://www.sinohorizon.cn
+industry	Real Estate - Development
+industryKey	real-estate-development
+industryDisp	Real Estate - Development
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Sino Horizon Holdings Limited, together with its subsidiaries, develops, manages, sells, and leases real estate properties in China. It operates through Real-Estate Sales, Commercial Leasing, Property Management, and Others segments. The company's property portfolio includes residential, office buildings, and shopping malls. It also engages in parking lot business. The company was incorporated in 1997 and is headquartered in Shanghai, China.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Nen-Yao  Chang', 'age': 42, 'title': 'President, Chief Information Security Officer & Representative Director', 'yearBorn': 1981, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. An Yee  Fung', 'age': 51, 'title': 'CFO, Chief Accountant, Corporate Governance Officer & Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xiang-Lei  Sun', 'title': 'Vice President of Legal Affairs', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhong Jin Li', 'title': 'Vice President of Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching Te  Ni', 'title': 'Vice President of Personnel', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.85
+open	26.45
+dayLow	26.0
+dayHigh	27.4
+regularMarketPreviousClose	25.85
+regularMarketOpen	26.45
+regularMarketDayLow	26.0
+regularMarketDayHigh	27.4
+dividendRate	0.6
+dividendYield	0.0226
+exDividendDate	1693785600	 (2023-09-04 08:00:00)
+payoutRatio	1.875
+fiveYearAvgDividendYield	4.5
+beta	0.817
+trailingPE	82.96875
+forwardPE	44.249996
+volume	84858
+regularMarketVolume	84858
+averageVolume	48803
+averageVolume10days	92712
+averageDailyVolume10Day	92712
+bid	26.55
+ask	26.65
+marketCap	46204964864
+fiftyTwoWeekLow	22.2
+fiftyTwoWeekHigh	28.9
+priceToSalesTrailing12Months	3.9381666
+fiftyDayAverage	24.845
+twoHundredDayAverage	24.334
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.007736944
+currency	TWD
+enterpriseValue	85775523840
+profitMargins	0.048189998
+floatShares	43959902
+sharesOutstanding	1740300032
+heldPercentInsiders	0.97463995
+heldPercentInstitutions	0.0117999995
+impliedSharesOutstanding	1829799936
+bookValue	28.077
+priceToBook	0.94561386
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	565350976
+trailingEps	0.32
+forwardEps	0.6
+lastSplitFactor	1.011:1
+lastSplitDate	1377648000	 (2013-08-28 08:00:00)
+enterpriseToRevenue	7.311
+enterpriseToEbitda	14.37
+52WeekChange	0.1932584
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1693785600	 (2023-09-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2923.TW
+underlyingSymbol	2923.TW
+shortName	SINO HORIZON HOLDINGS LIMITED
+longName	Sino Horizon Holdings Limited
+firstTradeDateEpochUtc	1354842000	 (2012-12-07 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1c365a0b-6c12-3206-b830-f46a47c5f940
+messageBoardId	finmb_214119288
+gmtOffSetMilliseconds	28800000
+currentPrice	26.55
+recommendationKey	none
+totalCash	9756316672
+totalCashPerShare	5.606
+ebitda	5969048064
+totalDebt	48298184704
+quickRatio	0.443
+currentRatio	2.73
+totalRevenue	11732608000
+debtToEquity	96.806
+revenuePerShare	6.742
+returnOnAssets	0.03167
+returnOnEquity	0.01127
+freeCashflow	3844053504
+operatingCashflow	322988992
+revenueGrowth	1.008
+grossMargins	0.55518
+ebitdaMargins	0.50876
+operatingMargins	0.57265
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31    2022-12-31    2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0           0.0           0.0            0.0
+Tax Rate For Calcs                                                   0.25          0.25          0.25           0.25
+Normalized EBITDA                                            6062794000.0  3443731000.0  2494673000.0   3534259000.0
+Net Income From Continuing Operation Net Minority Interest    565351000.0   592803000.0  1171032000.0   1177395000.0
+Reconciled Depreciation                                        70354000.0    65939000.0    73343000.0     76491000.0
+Reconciled Cost Of Revenue                                   5218896000.0  3750939000.0  2135890000.0   7897413000.0
+EBITDA                                                       6062794000.0  3443731000.0  2494673000.0   3534259000.0
+EBIT                                                         5992440000.0  3377792000.0  2421330000.0   3457768000.0
+Net Interest Income                                         -1165958000.0  -330394000.0   200315000.0    333067000.0
+Interest Expense                                             1510019000.0   640680000.0   456780000.0    762173000.0
+Interest Income                                               344061000.0   310286000.0   657095000.0   1095240000.0
+Normalized Income                                             565351000.0   592803000.0  1171032000.0   1177395000.0
+Net Income From Continuing And Discontinued Operation         565351000.0   592803000.0  1171032000.0   1177395000.0
+Total Expenses                                               5984115000.0  5786138000.0  2978066000.0  10121031000.0
+Diluted Average Shares                                                NaN  1746089000.0  1743734000.0   1746368000.0
+Basic Average Shares                                                  NaN  1740297000.0  1740297000.0   1740297000.0
+Diluted EPS                                                           NaN          0.34          0.67           0.67
+Basic EPS                                                             NaN          0.34          0.67           0.68
+Diluted NI Availto Com Stockholders                           565351000.0   592803000.0  1171032000.0   1177395000.0
+Net Income Common Stockholders                                565351000.0   592803000.0  1171032000.0   1177395000.0
+Otherunder Preferred Stock Dividend                                   0.0           0.0           0.0            0.0
+Net Income                                                    565351000.0   592803000.0  1171032000.0   1177395000.0
+Minority Interests                                               352000.0       -6000.0       18000.0        40000.0
+Net Income Including Noncontrolling Interests                 564999000.0   592809000.0  1171014000.0   1177355000.0
+Net Income Discontinuous Operations                                   NaN           NaN           NaN            0.0
+Net Income Continuous Operations                              564999000.0   592809000.0  1171014000.0   1177355000.0
+Tax Provision                                                3917422000.0  2144303000.0   793536000.0   1518240000.0
+Pretax Income                                                4482421000.0  2737112000.0  1964550000.0   2695595000.0
+Other Non Operating Income Expenses                          -100114000.0  -367933000.0   -60887000.0   -936357000.0
+Net Non Operating Interest Income Expense                   -1165958000.0  -330394000.0   200315000.0    333067000.0
+Interest Expense Non Operating                               1510019000.0   640680000.0   456780000.0    762173000.0
+Interest Income Non Operating                                 344061000.0   310286000.0   657095000.0   1095240000.0
+Operating Income                                             5748493000.0  3435439000.0  1825122000.0   3298885000.0
+Operating Expense                                             765219000.0  2035199000.0   842176000.0   2223618000.0
+Other Operating Expenses                                      160743000.0  1434577000.0   186995000.0   1460226000.0
+Selling General And Administration                            604476000.0   600622000.0   655181000.0    763392000.0
+Selling And Marketing Expense                                 214156000.0   189553000.0   290130000.0    385684000.0
+General And Administrative Expense                            390320000.0   411069000.0   365051000.0    377708000.0
+Gross Profit                                                 6513712000.0  5470638000.0  2667298000.0   5522503000.0
+Cost Of Revenue                                              5218896000.0  3750939000.0  2135890000.0   7897413000.0
+Total Revenue                                               11732608000.0  9221577000.0  4803188000.0  13419916000.0
+Operating Revenue                                           11732608000.0  9221577000.0  4803188000.0  13419916000.0

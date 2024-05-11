@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park Operation Building
+address2	No. 160, Kexue Road Zhunan Township Miaoli County
+city	Hsinchu City
+zip	35053
+country	Taiwan
+phone	886 3 758 6000
+website	https://www.innolux.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Innolux Corporation, together with its subsidiaries, researches, develops, designs, manufactures, and sells modules and monitors of liquid crystal displays (LCD), color filters, low temperature poly-silicon thin film transistor (TFT)-LCDs, and TFT-LCD panels. The company provides panels for LCD TV, PID, monitor, notebook, industrial display, medical, automotive display, tablet display, smart phone/ mobile, and consumer electronics applications. It offers display technologies for LCD and non-LCD products; and x-ray image sensor, a non-display technology. In addition, the company provides display integration solutions, including ultra-high resolution, AM miniLED, AM microLED, LTPS, and touch solutions. Further, it is involved in the research, development, testing, and maintenance activities, and after sales services of 3D flat monitor and micro LED, as well as warehousing, distribution, and general investment business, as well as manufactures electronic parts. Additionally, the company produces and sells medical related products; and engages in E-Paper Module/Assembly activities. The company was formerly known as Chimei Innolux Corporation and changed its name to Innolux Corporation in December 2012. Innolux Corporation was incorporated in 2003 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chu-Hsiang  Yang', 'title': 'President, COO, GM & Representative Director', 'fiscalYear': 2022, 'totalPay': 17170000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+irWebsite	http://www.innolux.com/Pages/EN/InvestorRelations_EN.html
+maxAge	86400
+priceHint	2
+previousClose	13.3
+open	13.35
+dayLow	13.1
+dayHigh	13.35
+regularMarketPreviousClose	13.3
+regularMarketOpen	13.35
+regularMarketDayLow	13.1
+regularMarketDayHigh	13.35
+dividendRate	1.5
+dividendYield	0.112799995
+exDividendDate	1692230400	 (2023-08-17 08:00:00)
+payoutRatio	0.2014
+fiveYearAvgDividendYield	5.09
+beta	1.332
+forwardPE	20.151514
+volume	60680180
+regularMarketVolume	60680180
+averageVolume	77856936
+averageVolume10days	65081664
+averageDailyVolume10Day	65081664
+bid	13.3
+ask	13.35
+marketCap	120684339200
+fiftyTwoWeekLow	11.35
+fiftyTwoWeekHigh	18.210526
+priceToSalesTrailing12Months	0.5570795
+fiftyDayAverage	14.485
+twoHundredDayAverage	14.219211
+currency	TWD
+enterpriseValue	102199099392
+profitMargins	-0.06914
+floatShares	8721749703
+sharesOutstanding	9074010112
+heldPercentInsiders	0.06752
+heldPercentInstitutions	0.16063
+impliedSharesOutstanding	9242670080
+bookValue	25.153
+priceToBook	0.52876395
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-14977539072
+trailingEps	-2.01
+forwardEps	0.66
+pegRatio	-3.42
+lastSplitFactor	950:1000
+lastSplitDate	1692230400	 (2023-08-17 08:00:00)
+enterpriseToRevenue	0.472
+enterpriseToEbitda	6.037
+52WeekChange	-0.035496116
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1692230400	 (2023-08-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3481.TW
+underlyingSymbol	3481.TW
+shortName	INNOLUX CORPORATION
+longName	Innolux Corporation
+firstTradeDateEpochUtc	1161651600	 (2006-10-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b9746bdc-b46b-3a4f-9704-b4964802a432
+messageBoardId	finmb_7873451
+gmtOffSetMilliseconds	28800000
+currentPrice	13.3
+targetHighPrice	20.0
+targetLowPrice	13.5
+targetMeanPrice	15.82
+targetMedianPrice	15.3
+recommendationMean	2.4
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	62625574912
+totalCashPerShare	6.905
+ebitda	16929334272
+totalDebt	43441541120
+totalRevenue	216637554688
+debtToEquity	18.98
+revenuePerShare	23.241
+revenueGrowth	0.107
+grossMargins	0.03904
+ebitdaMargins	0.078150004
+operatingMargins	-0.062800005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                     0.2             0.2        0.077966        0.358725
+Normalized EBITDA                                            16114963000.0    7150992000.0   99688783000.0   39151750000.0
+Net Income From Continuing Operation Net Minority Interest  -18642539000.0  -27990256000.0   57534461000.0    1636144000.0
+Reconciled Depreciation                                      30773369000.0   32457777000.0   36300651000.0   35568103000.0
+Reconciled Cost Of Revenue                                  208631513000.0  230621530000.0  258577010000.0  246077953000.0
+EBITDA                                                       16114963000.0    7150992000.0   99688783000.0   39151750000.0
+EBIT                                                        -14658406000.0  -25306785000.0   63388132000.0    3583647000.0
+Net Interest Income                                            802836000.0     673615000.0     -48671000.0    -643379000.0
+Interest Expense                                              1704725000.0     915668000.0     977035000.0    1026516000.0
+Interest Income                                               2507561000.0    1589283000.0     928364000.0     383137000.0
+Normalized Income                                           -18642539000.0  -27990256000.0   57534461000.0    1636144000.0
+Net Income From Continuing And Discontinued Operation       -18642539000.0  -27990256000.0   57534461000.0    1636144000.0
+Total Expenses                                              230449491000.0  255380756000.0  287363615000.0  268099254000.0
+Diluted Average Shares                                        9291353000.0   10152560000.0   10238135750.0    8317746807.0
+Basic Average Shares                                          9291353000.0   10152560000.0    9875755400.0    8309249898.0
+Diluted EPS                                                          -2.01           -2.76        5.621053        0.197732
+Basic EPS                                                            -2.01           -2.76        5.821053        0.197732
+Diluted NI Availto Com Stockholders                         -18642539000.0  -27990256000.0   57534461000.0    1636144000.0
+Net Income Common Stockholders                              -18642539000.0  -27990256000.0   57534461000.0    1636144000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0             0.0
+Net Income                                                  -18642539000.0  -27990256000.0   57534461000.0    1636144000.0
+Minority Interests                                             -43809000.0     -75480000.0     -10662000.0      -3680000.0
+Net Income Including Noncontrolling Interests               -18598730000.0  -27914776000.0   57545123000.0    1639824000.0
+Net Income Continuous Operations                            -18598730000.0  -27914776000.0   57545123000.0    1639824000.0
+Tax Provision                                                 2235599000.0    1692323000.0    4865974000.0     917307000.0
+Pretax Income                                               -16363131000.0  -26222453000.0   62411097000.0    2557131000.0
+Other Non Operating Income Expenses                           1509055000.0    4778877000.0    -318441000.0    1212152000.0
+Net Non Operating Interest Income Expense                      802836000.0     673615000.0     -48671000.0    -643379000.0
+Interest Expense Non Operating                                1704725000.0     915668000.0     977035000.0    1026516000.0
+Interest Income Non Operating                                 2507561000.0    1589283000.0     928364000.0     383137000.0
+Operating Income                                            -18708934000.0  -31664998000.0   62713075000.0    1811797000.0
+Operating Expense                                            21817978000.0   24759226000.0   28786605000.0   22021301000.0
+Research And Development                                     12011556000.0   13045403000.0   15044650000.0   12149513000.0
+Selling General And Administration                            9806422000.0   11713823000.0   13741955000.0    9871788000.0
+Selling And Marketing Expense                                 2519314000.0    3565393000.0    5417962000.0    3383316000.0
+General And Administrative Expense                            7287108000.0    8148430000.0    8323993000.0    6488472000.0
+Gross Profit                                                  3109044000.0   -6905772000.0   91499680000.0   23833098000.0
+Cost Of Revenue                                             208631513000.0  230621530000.0  258577010000.0  246077953000.0
+Total Revenue                                               211740557000.0  223715758000.0  350076690000.0  269911051000.0
+Operating Revenue                                           211740557000.0  223715758000.0  350076690000.0  269911051000.0

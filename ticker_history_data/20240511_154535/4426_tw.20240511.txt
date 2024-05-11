@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 5 Dou-Kung 12 Road
+address2	Yun-Lin Hsien
+city	Douliu
+zip	640
+country	Taiwan
+phone	886 5 557 1010
+fax	886 5 557 3476
+website	https://www.li-cheng.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Li Cheng Enterprise Co., Ltd. manufactures and sells spacer fabrics in Taiwan, Vietnam, Mainland China, and internationally. The company provides polyester and nylon monofilaments; and other materials, such as PP and others. Its products are used in sport shoes, bags, hats, lingerie, apparels, mattress, sports/medical equipment, car textiles, etc. Li Cheng Enterprise Co., Ltd. founded 1992 and is headquartered in Douliu, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen-Yao  Hong', 'title': 'CEO & Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wei-Lun  Chien', 'title': 'Finance & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yen-Cheng  Chi', 'title': 'Dept. of Yarn Manufacturing Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Wei  Tu', 'title': 'Dyeing & Finishing Department Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.2
+open	17.2
+dayLow	17.05
+dayHigh	17.3
+regularMarketPreviousClose	17.2
+regularMarketOpen	17.2
+regularMarketDayLow	17.05
+regularMarketDayHigh	17.3
+exDividendDate	1598313600	 (2020-08-25 08:00:00)
+fiveYearAvgDividendYield	1.06
+beta	0.597
+volume	53687
+regularMarketVolume	53687
+averageVolume	185384
+averageVolume10days	263971
+averageDailyVolume10Day	263971
+bid	17.25
+ask	17.35
+marketCap	2987311872
+fiftyTwoWeekLow	15.4
+fiftyTwoWeekHigh	23.75
+priceToSalesTrailing12Months	2.3119676
+fiftyDayAverage	17.541
+twoHundredDayAverage	19.743
+currency	TWD
+enterpriseValue	4347204096
+profitMargins	-0.03235
+floatShares	90890266
+sharesOutstanding	172676992
+heldPercentInstitutions	0.03269
+impliedSharesOutstanding	174170000
+bookValue	15.395
+priceToBook	1.1237414
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-41804000
+trailingEps	-0.24
+lastSplitFactor	1072:1000
+lastSplitDate	1598313600	 (2020-08-25 08:00:00)
+enterpriseToRevenue	3.364
+enterpriseToEbitda	20.419
+52WeekChange	-0.1972158
+SandP52WeekChange	0.26265144
+lastDividendValue	0.447761
+lastDividendDate	1598313600	 (2020-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4426.TW
+underlyingSymbol	4426.TW
+shortName	LI CHENG ENTERPRISE CO. LTD
+longName	Li Cheng Enterprise Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	32104e26-cda5-3209-89b7-7662b0472597
+messageBoardId	finmb_20411291
+gmtOffSetMilliseconds	28800000
+currentPrice	17.3
+recommendationKey	none
+totalCash	610300032
+totalCashPerShare	3.534
+ebitda	212899008
+totalDebt	1969899008
+quickRatio	0.983
+currentRatio	1.313
+totalRevenue	1292108032
+debtToEquity	74.094
+revenuePerShare	7.483
+returnOnAssets	-0.00285
+returnOnEquity	-0.01566
+freeCashflow	210193248
+operatingCashflow	413872992
+revenueGrowth	-0.317
+grossMargins	0.17972
+ebitdaMargins	0.16476999
+operatingMargins	-0.05945
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    83354.862068     -809600.0     326122.777464    -149007.540599
+Tax Rate For Calcs                                                 0.020158           0.2          0.199586          0.296828
+Normalized EBITDA                                               251911000.0   269748000.0       -67946000.0       302350000.0
+Total Unusual Items                                               4135000.0    -4048000.0         1634000.0         -502000.0
+Total Unusual Items Excluding Goodwill                            4135000.0    -4048000.0         1634000.0         -502000.0
+Net Income From Continuing Operation Net Minority Interest      -41804000.0   -79481000.0      -371570000.0      -108638000.0
+Reconciled Depreciation                                         264863000.0   295443000.0       377877000.0       439049000.0
+Reconciled Cost Of Revenue                                     1059891000.0  1274049000.0       912071000.0      1170380000.0
+EBITDA                                                          256046000.0   265700000.0       -66312000.0       301848000.0
+EBIT                                                             -8817000.0   -29743000.0      -444189000.0      -137201000.0
+Net Interest Income                                             -17405000.0   -22910000.0       -19319000.0       -15160000.0
+Interest Expense                                                 33994000.0    27967000.0        20033000.0        17296000.0
+Interest Income                                                  16589000.0     5057000.0          714000.0         2136000.0
+Normalized Income                                          -45855645.137932   -76242600.0 -372877877.222536 -108285007.540599
+Net Income From Continuing And Discontinued Operation           -41804000.0   -79481000.0      -371570000.0      -108638000.0
+Total Expenses                                                 1318271000.0  1552762000.0      1080555000.0      1373689000.0
+Diluted Average Shares                                                  NaN   172677000.0       172677000.0       172677000.0
+Basic Average Shares                                                    NaN   172677000.0       172677000.0       172677000.0
+Diluted EPS                                                             NaN         -0.46             -2.15             -0.63
+Basic EPS                                                               NaN         -0.46             -2.15             -0.63
+Diluted NI Availto Com Stockholders                             -41804000.0   -79481000.0      -371570000.0      -108638000.0
+Net Income Common Stockholders                                  -41804000.0   -79481000.0      -371570000.0      -108638000.0
+Otherunder Preferred Stock Dividend                                     0.0           0.0               0.0               0.0
+Net Income                                                      -41804000.0   -79481000.0      -371570000.0      -108638000.0
+Minority Interests                                                 144000.0           0.0               NaN               NaN
+Net Income Including Noncontrolling Interests                   -41948000.0   -79481000.0      -371570000.0      -108638000.0
+Net Income Continuous Operations                                -41948000.0   -79481000.0      -371570000.0      -108638000.0
+Tax Provision                                                     -863000.0    21771000.0       -92652000.0       -45859000.0
+Pretax Income                                                   -42811000.0   -57710000.0      -464222000.0      -154497000.0
+Other Non Operating Income Expenses                              -1745000.0   122299000.0        -8894000.0        18726000.0
+Special Income Charges                                            4135000.0    -4048000.0         1634000.0         -502000.0
+Write Off                                                        -4135000.0     4048000.0        -1634000.0          502000.0
+Net Non Operating Interest Income Expense                       -17405000.0   -22910000.0       -19319000.0       -15160000.0
+Interest Expense Non Operating                                   33994000.0    27967000.0        20033000.0        17296000.0
+Interest Income Non Operating                                    16589000.0     5057000.0          714000.0         2136000.0
+Operating Income                                                -26163000.0  -154543000.0      -437659000.0      -156524000.0
+Operating Expense                                               258380000.0   278713000.0       168484000.0       203309000.0
+Research And Development                                         15958000.0    16585000.0        15674000.0        20516000.0
+Selling General And Administration                              242422000.0   262128000.0       152810000.0       182793000.0
+Selling And Marketing Expense                                    66900000.0   128826000.0        54001000.0        85684000.0
+General And Administrative Expense                              175522000.0   133302000.0        98809000.0        97109000.0
+Gross Profit                                                    232217000.0   124170000.0      -269175000.0        46785000.0
+Cost Of Revenue                                                1059891000.0  1274049000.0       912071000.0      1170380000.0
+Total Revenue                                                  1292108000.0  1398219000.0       642896000.0      1217165000.0
+Operating Revenue                                              1292108000.0  1398219000.0       642896000.0      1217165000.0

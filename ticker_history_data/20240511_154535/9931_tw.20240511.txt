@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 56, Dayi Street
+address2	Yancheng District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 531 5701
+website	https://www.hkgas.com.tw
+industry	Utilities - Regulated Gas
+industryKey	utilities-regulated-gas
+industryDisp	Utilities - Regulated Gas
+sector	Utilities
+sectorKey	utilities
+sectorDisp	Utilities
+longBusinessSummary	Hsin Kao Gas Co.,Ltd. provides natural gas for domestic and commercial use in Taiwan. The company manufactures, imports, and sells natural gas appliances and equipment. It also operates and invests in the natural gas industry, as well as offers industrial fuels. Hsin Kao Gas Co.,Ltd. was founded in 1972 and is based in Kaohsiung, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	37.5
+open	37.75
+dayLow	35.75
+dayHigh	37.75
+regularMarketPreviousClose	37.5
+regularMarketOpen	37.75
+regularMarketDayLow	35.75
+regularMarketDayHigh	37.75
+dividendRate	0.28
+dividendYield	0.0077
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.1689
+fiveYearAvgDividendYield	2.49
+trailingPE	21.932516
+volume	89148
+regularMarketVolume	89148
+averageVolume	27606
+averageVolume10days	25438
+averageDailyVolume10Day	25438
+bid	35.75
+ask	37.65
+marketCap	4303191552
+fiftyTwoWeekLow	35.75
+fiftyTwoWeekHigh	41.7
+priceToSalesTrailing12Months	2.7951424
+fiftyDayAverage	37.582
+twoHundredDayAverage	38.543945
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.026666667
+currency	TWD
+enterpriseValue	3681933568
+profitMargins	0.1274
+floatShares	45772124
+sharesOutstanding	120369000
+heldPercentInsiders	0.66640997
+impliedSharesOutstanding	120369000
+bookValue	23.046
+priceToBook	1.5512453
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.595
+netIncomeToCommon	196136992
+trailingEps	1.63
+lastSplitFactor	1090:1000
+lastSplitDate	1692748800	 (2023-08-23 08:00:00)
+enterpriseToRevenue	2.392
+enterpriseToEbitda	8.941
+52WeekChange	-0.03186333
+SandP52WeekChange	0.26265144
+lastDividendValue	0.275229
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9931.TW
+underlyingSymbol	9931.TW
+shortName	HSIN KAO GAS CO LTD
+longName	Hsin Kao Gas Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	415b1b4a-a9e9-30db-8cca-df524c399d55
+messageBoardId	finmb_9845450
+gmtOffSetMilliseconds	28800000
+currentPrice	35.75
+recommendationKey	none
+totalCash	1111750016
+totalCashPerShare	9.233
+ebitda	411796000
+totalDebt	437295008
+quickRatio	0.523
+currentRatio	0.897
+totalRevenue	1539524992
+debtToEquity	15.471
+revenuePerShare	12.787
+returnOnAssets	0.02003
+returnOnEquity	0.07554
+freeCashflow	237946752
+operatingCashflow	639284992
+earningsGrowth	0.595
+revenueGrowth	0.895
+grossMargins	0.17737
+ebitdaMargins	0.26748
+operatingMargins	0.1175
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0       3721.116565
+Tax Rate For Calcs                                              0.190997      0.206873      0.165602          0.195848
+Normalized EBITDA                                            443522000.0   445438000.0   508709000.0       448838000.0
+Total Unusual Items                                                  NaN           NaN           0.0           19000.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           0.0           19000.0
+Net Income From Continuing Operation Net Minority Interest   173220000.0   173284000.0   237364000.0       190786000.0
+Reconciled Depreciation                                      225583000.0   224849000.0   217554000.0       208432000.0
+Reconciled Cost Of Revenue                                   995408000.0  1021142000.0   960832000.0      1011195000.0
+EBITDA                                                       443522000.0   445438000.0   508709000.0       448857000.0
+EBIT                                                         217939000.0   220589000.0   291155000.0       240425000.0
+Net Interest Income                                            1009000.0      594000.0      376000.0         1114000.0
+Interest Expense                                               2454000.0      754000.0      361000.0           45000.0
+Interest Income                                                3463000.0     1348000.0      737000.0         1159000.0
+Normalized Income                                            173220000.0   173284000.0   237364000.0  190770721.116565
+Net Income From Continuing And Discontinued Operation        173220000.0   173284000.0   237364000.0       190786000.0
+Total Expenses                                              1057488000.0  1089387000.0  1027211000.0      1073093000.0
+Diluted Average Shares                                       120472000.0   120477000.0   120508220.0       120486420.0
+Basic Average Shares                                         120369000.0   120369000.0   120369790.0       120369790.0
+Diluted EPS                                                         1.44          1.44      1.972477          1.587156
+Basic EPS                                                           1.44          1.44      1.972477          1.587156
+Diluted NI Availto Com Stockholders                          173220000.0   173284000.0   237364000.0       190786000.0
+Net Income Common Stockholders                               173220000.0   173284000.0   237364000.0       190786000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                   173220000.0   173284000.0   237364000.0       190786000.0
+Minority Interests                                            -1108000.0    -1073000.0    -5274000.0        -2516000.0
+Net Income Including Noncontrolling Interests                174328000.0   174357000.0   242638000.0       193302000.0
+Net Income Continuous Operations                             174328000.0   174357000.0   242638000.0       193302000.0
+Tax Provision                                                 41157000.0    45478000.0    48156000.0        47078000.0
+Pretax Income                                                215485000.0   219835000.0   290794000.0       240380000.0
+Other Non Operating Income Expenses                           52125000.0    63828000.0    87121000.0        83065000.0
+Special Income Charges                                               NaN           NaN           0.0           19000.0
+Write Off                                                            NaN           NaN           0.0          -19000.0
+Net Non Operating Interest Income Expense                      1009000.0      594000.0      376000.0         1114000.0
+Interest Expense Non Operating                                 2454000.0      754000.0      361000.0           45000.0
+Interest Income Non Operating                                  3463000.0     1348000.0      737000.0         1159000.0
+Operating Income                                             170610000.0   158093000.0   165961000.0       159411000.0
+Operating Expense                                             62080000.0    68245000.0    66379000.0        61898000.0
+Selling General And Administration                            62080000.0    68245000.0    66379000.0        61898000.0
+Selling And Marketing Expense                                 15413000.0    26061000.0    27337000.0        25095000.0
+General And Administrative Expense                            46667000.0    42184000.0    39042000.0        36803000.0
+Gross Profit                                                 232690000.0   226338000.0   232340000.0       221309000.0
+Cost Of Revenue                                              995408000.0  1021142000.0   960832000.0      1011195000.0
+Total Revenue                                               1228098000.0  1247480000.0  1193172000.0      1232504000.0
+Operating Revenue                                           1228098000.0  1247480000.0  1193172000.0      1232504000.0

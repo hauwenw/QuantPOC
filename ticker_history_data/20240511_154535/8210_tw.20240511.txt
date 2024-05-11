@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	No. 558, Zhongyuan Road
+address2	19th Floor Xinzhuang District
+city	New Taipei City
+zip	242030
+country	Taiwan
+phone	886 2 8226 5500
+fax	886 2 8226 5392
+website	https://www.chenbro.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Chenbro Micom Co., Ltd. engages in the research and development, design, manufacture, processing, and trading of computer peripheral equipment. The company offers barebone servers; rackmount, tower server, and PC chassis products. It also offers storage expansion kits; and OEM/JDM services. In addition, the company is involved in the software design activities; and export and import of computer supplies and peripheral equipment. It operates in the United States, China, Taiwan, Singapore, and internationally. Chenbro Micom Co., Ltd. was incorporated in 1983 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Mei-Chi  Chen', 'title': 'Chairwoman & Chief Strategy Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-nan  Chen', 'title': 'CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu  Jane', 'title': 'Associate Vice President of Global Finance & Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia-Lin  Chih', 'title': 'Assistant Vice President of Accounting & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Linda  Chen', 'title': 'Senior Director of Global Information Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-nan  Hsu', 'title': 'Vice President of Global Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	280.0
+open	285.0
+dayLow	267.0
+dayHigh	288.0
+regularMarketPreviousClose	280.0
+regularMarketOpen	285.0
+regularMarketDayLow	267.0
+regularMarketDayHigh	288.0
+dividendRate	4.0
+dividendYield	0.0139
+exDividendDate	1687305600	 (2023-06-21 08:00:00)
+payoutRatio	0.342
+fiveYearAvgDividendYield	4.28
+beta	0.654
+trailingPE	24.57265
+forwardPE	16.657011
+volume	7965976
+regularMarketVolume	7965976
+averageVolume	5215885
+averageVolume10days	5480357
+averageDailyVolume10Day	5480357
+bid	287.0
+ask	287.5
+marketCap	34668761088
+fiftyTwoWeekLow	83.8
+fiftyTwoWeekHigh	323.0
+priceToSalesTrailing12Months	3.0824192
+fiftyDayAverage	265.39
+twoHundredDayAverage	244.14
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.017857144
+currency	TWD
+enterpriseValue	35305594880
+profitMargins	0.09651
+floatShares	57602726
+sharesOutstanding	120587000
+heldPercentInsiders	0.54140997
+heldPercentInstitutions	0.108219996
+impliedSharesOutstanding	125150000
+bookValue	45.832
+priceToBook	6.2729096
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.562
+netIncomeToCommon	1085456000
+trailingEps	11.7
+forwardEps	17.26
+lastSplitFactor	1.04:1
+lastSplitDate	1341964800	 (2012-07-11 08:00:00)
+enterpriseToRevenue	3.139
+enterpriseToEbitda	20.283
+52WeekChange	2.4185493
+SandP52WeekChange	0.26265144
+lastDividendValue	4.000829
+lastDividendDate	1687305600	 (2023-06-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8210.TW
+underlyingSymbol	8210.TW
+shortName	CHENBRO MICOM CO
+longName	Chenbro Micom Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	da74538a-559e-37a7-a0ed-b7147820a95b
+messageBoardId	finmb_20386835
+gmtOffSetMilliseconds	28800000
+currentPrice	287.5
+targetHighPrice	340.0
+targetLowPrice	262.0
+targetMeanPrice	296.4
+targetMedianPrice	285.0
+recommendationMean	2.1
+recommendationKey	buy
+numberOfAnalystOpinions	5
+totalCash	2947152896
+totalCashPerShare	24.44
+ebitda	1740657024
+totalDebt	3533096960
+quickRatio	1.165
+currentRatio	1.511
+totalRevenue	11247257600
+debtToEquity	63.342
+revenuePerShare	93.542
+returnOnAssets	0.06939
+returnOnEquity	0.21057
+freeCashflow	2086741888
+operatingCashflow	2523919872
+earningsGrowth	2.584
+revenueGrowth	0.78
+grossMargins	0.22884001
+ebitdaMargins	0.15476
+operatingMargins	0.16732
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    2538551.77122    -2572021.362687    -128959.44198    -131868.304364
+Tax Rate For Calcs                                                  0.225649           0.248937         0.241497          0.190837
+Normalized EBITDA                                               1796234000.0       1777870000.0     1241512000.0      1436106000.0
+Total Unusual Items                                               11250000.0        -10332000.0        -534000.0         -691000.0
+Total Unusual Items Excluding Goodwill                            11250000.0        -10332000.0        -534000.0         -691000.0
+Net Income From Continuing Operation Net Minority Interest      1085456000.0        998685000.0      672901000.0       976857000.0
+Reconciled Depreciation                                          298191000.0        376884000.0      338498000.0       222218000.0
+Reconciled Cost Of Revenue                                      8673431000.0       8427152000.0     7579154000.0      5612927000.0
+EBITDA                                                          1807484000.0       1767538000.0     1240978000.0      1435415000.0
+EBIT                                                            1509293000.0       1390654000.0      902480000.0      1213197000.0
+Net Interest Income                                              -46461000.0        -28284000.0        4350000.0        12021000.0
+Interest Expense                                                  79657000.0         47939000.0       16490000.0        10044000.0
+Interest Income                                                   33196000.0         19655000.0       20840000.0        22065000.0
+Normalized Income                                           1076744551.77122  1006444978.637313  673306040.55802  977416131.695636
+Net Income From Continuing And Discontinued Operation           1085456000.0        998685000.0      672901000.0       976857000.0
+Total Expenses                                                  9796792000.0       9405768000.0     8540104000.0      6580661000.0
+Diluted Average Shares                                           121238000.0        121871000.0      121022000.0       120854000.0
+Basic Average Shares                                             120238000.0        120061000.0      119834000.0       119726000.0
+Diluted EPS                                                             8.95               8.19             5.56              8.08
+Basic EPS                                                               9.03               8.32             5.62              8.16
+Diluted NI Availto Com Stockholders                             1085456000.0        998685000.0      672901000.0       976857000.0
+Net Income Common Stockholders                                  1085456000.0        998685000.0      672901000.0       976857000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0              0.0               0.0
+Net Income                                                      1085456000.0        998685000.0      672901000.0       976857000.0
+Minority Interests                                               -21584000.0         -9778000.0         875000.0         3310000.0
+Net Income Including Noncontrolling Interests                   1107040000.0       1008463000.0      672026000.0       973547000.0
+Net Income Continuous Operations                                1107040000.0       1008463000.0      672026000.0       973547000.0
+Tax Provision                                                    322596000.0        334252000.0      213964000.0       229606000.0
+Pretax Income                                                   1429636000.0       1342715000.0      885990000.0      1203153000.0
+Other Non Operating Income Expenses                               14381000.0        229398000.0        -742000.0       227939000.0
+Special Income Charges                                            11250000.0        -10332000.0        -534000.0         -691000.0
+Write Off                                                        -11250000.0         10332000.0         534000.0          691000.0
+Net Non Operating Interest Income Expense                        -46461000.0        -28284000.0        4350000.0        12021000.0
+Interest Expense Non Operating                                    79657000.0         47939000.0       16490000.0        10044000.0
+Interest Income Non Operating                                     33196000.0         19655000.0       20840000.0        22065000.0
+Operating Income                                                1450466000.0       1151933000.0      882916000.0       963884000.0
+Operating Expense                                               1123361000.0        978616000.0      960950000.0       967734000.0
+Other Operating Expenses                                         -15182000.0                NaN              NaN               NaN
+Research And Development                                         201979000.0        187085000.0      203912000.0       225897000.0
+Selling General And Administration                               936564000.0        791531000.0      757038000.0       741837000.0
+Selling And Marketing Expense                                    362045000.0        307749000.0      323689000.0       312474000.0
+General And Administrative Expense                               574519000.0        483782000.0      433349000.0       429363000.0
+Gross Profit                                                    2573827000.0       2130549000.0     1843866000.0      1931618000.0
+Cost Of Revenue                                                 8673431000.0       8427152000.0     7579154000.0      5612927000.0
+Total Revenue                                                  11247258000.0      10557701000.0     9423020000.0      7544545000.0
+Operating Revenue                                              11247258000.0      10557701000.0     9423020000.0      7544545000.0

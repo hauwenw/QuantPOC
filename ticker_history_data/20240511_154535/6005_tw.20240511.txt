@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No.156, Minsheng East Road
+address2	11th Floor Section 3 Songshan District
+city	Taipei
+zip	105402
+country	Taiwan
+phone	886 2 8789 8888
+fax	886 2 8712 1219
+website	https://www2.capital.com.tw
+industry	Capital Markets
+industryKey	capital-markets
+industryDisp	Capital Markets
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Capital Securities Corporation provides various financial services in Taiwan and internationally. The company operates through four segments: Asset Management Business, Investment Business, Investment Banking Business, and Retail and Wealth Management Business. It engages in the fixed income and equity investment transaction, debt financing, and NEEQ market making businesses; asset management, private equity investment fund, public offering fund, alternative investment, credit and futures, research, and securities brokerage businesses; and retail and wealth management businesses. The company also provides stock sponsorship and underwriting, bond issuance underwriting, asset securitization, and financial advisory services. Capital Securities Corporation was incorporated in 1988 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jiunn-Chih  Wang', 'title': 'Chief Strategy Officer', 'fiscalYear': 2021, 'totalPay': 54302000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Ming  Chang', 'title': 'Chief of Staff', 'fiscalYear': 2021, 'totalPay': 13275000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Chu  Lee', 'title': 'President & Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsien-Yang  Chou', 'title': 'Financial Officer, Accounting Officer, Spokesperson & Executive VP', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Qi  Chen', 'title': 'Senior Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jie-Bin  Yang', 'title': 'Senior Executive Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jian-Hua  Qiu', 'title': 'Executive Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pei-Wen  Zhang', 'title': 'Executive Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jing-Hua  Lin', 'title': 'Senior Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tun-Fu  Chang', 'title': 'Senior Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	23.75
+open	24.0
+dayLow	23.85
+dayHigh	25.0
+regularMarketPreviousClose	23.75
+regularMarketOpen	24.0
+regularMarketDayLow	23.85
+regularMarketDayHigh	25.0
+dividendRate	0.39
+dividendYield	0.015700001
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.2053
+fiveYearAvgDividendYield	6.57
+beta	0.828
+trailingPE	13.052631
+volume	23631161
+regularMarketVolume	23631161
+averageVolume	15906868
+averageVolume10days	19963895
+averageDailyVolume10Day	19963895
+bid	24.75
+ask	24.8
+marketCap	53838565376
+fiftyTwoWeekLow	12.95
+fiftyTwoWeekHigh	27.0
+priceToSalesTrailing12Months	5.0373335
+fiftyDayAverage	20.921
+twoHundredDayAverage	16.73475
+currency	TWD
+enterpriseValue	89308782592
+profitMargins	0.38656
+floatShares	1573647791
+sharesOutstanding	2170909952
+heldPercentInsiders	0.26528
+heldPercentInstitutions	0.12488
+impliedSharesOutstanding	2272079872
+bookValue	18.539
+priceToBook	1.3377205
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.49
+netIncomeToCommon	4131510016
+trailingEps	1.9
+lastSplitFactor	1070:1000
+lastSplitDate	1535068800	 (2018-08-24 08:00:00)
+enterpriseToRevenue	8.356
+52WeekChange	0.8931298
+SandP52WeekChange	0.26265144
+lastDividendValue	0.39
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6005.TW
+underlyingSymbol	6005.TW
+shortName	CAPITAL SECURITIES
+longName	Capital Securities Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8e9ac032-7f0d-34d7-a50d-76a0e1cbd585
+messageBoardId	finmb_10878272
+gmtOffSetMilliseconds	28800000
+currentPrice	24.8
+recommendationKey	none
+totalCash	84532199424
+totalCashPerShare	38.939
+totalDebt	116884824064
+quickRatio	0.616
+currentRatio	0.989
+totalRevenue	10687909888
+debtToEquity	269.54
+revenuePerShare	4.923
+returnOnAssets	0.02085
+returnOnEquity	0.11141
+operatingCashflow	-11831836672
+earningsGrowth	0.469
+revenueGrowth	0.331
+grossMargins	0.88981
+operatingMargins	0.31392
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                 -151517240.361292  235926579.942808  -237485125.770192     5137370.191891
+Tax Rate For Calcs                                                   0.105267          0.361331            0.12298           0.123673
+Normalized EBITDA                                                8924828000.0      2237705000.0       8824096000.0       5162774000.0
+Total Unusual Items                                             -1439368000.0       652938000.0      -1931085000.0         41540000.0
+Total Unusual Items Excluding Goodwill                          -1439368000.0       652938000.0      -1931085000.0         41540000.0
+Net Income From Continuing Operation Net Minority Interest       4131510000.0       840040000.0       5249590000.0       3569529000.0
+Reconciled Depreciation                                           463477000.0       463513000.0        469975000.0        447303000.0
+Reconciled Cost Of Revenue                                       1552031000.0      1624534000.0       1468716000.0       1223254000.0
+EBITDA                                                           7485460000.0      2890643000.0       6893011000.0       5204314000.0
+EBIT                                                             7021983000.0      2427130000.0       6423036000.0       4757011000.0
+Net Interest Income                                             -1913207000.0      -581079000.0       -195527000.0       -374311000.0
+Interest Expense                                                 1913207000.0       581079000.0        195527000.0        374311000.0
+Normalized Income                                           5419360759.638708  423028579.942808  6943189874.229808  3533126370.191891
+Net Income From Continuing And Discontinued Operation            4131510000.0       840040000.0       5249590000.0       3569529000.0
+Total Expenses                                                   7805135000.0      7361743000.0       7549500000.0       5893811000.0
+Diluted Average Shares                                                    NaN      2153948718.0       2175215000.0       2174279000.0
+Basic Average Shares                                                      NaN      2153948718.0       2170908000.0       2170916000.0
+Diluted EPS                                                               NaN              0.39               2.41               1.64
+Basic EPS                                                                 NaN              0.39               2.42               1.64
+Diluted NI Availto Com Stockholders                              4131510000.0       840040000.0       5249590000.0       3569529000.0
+Net Income Common Stockholders                                   4131510000.0       840040000.0       5249590000.0       3569529000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0                0.0
+Net Income                                                       4131510000.0       840040000.0       5249590000.0       3569529000.0
+Minority Interests                                               -439483000.0      -338976000.0       -212059000.0       -271150000.0
+Net Income Including Noncontrolling Interests                    4570993000.0      1179016000.0       5461649000.0       3840679000.0
+Net Income Continuous Operations                                 4570993000.0      1179016000.0       5461649000.0       3840679000.0
+Tax Provision                                                     537783000.0       667035000.0        765860000.0        542021000.0
+Pretax Income                                                    5108776000.0      1846051000.0       6227509000.0       4382700000.0
+Other Non Operating Income Expenses                              2027839000.0      1107468000.0        700526000.0        949581000.0
+Special Income Charges                                             -7214000.0        -4973000.0        -16676000.0        -33677000.0
+Write Off                                                           7214000.0         4973000.0         16676000.0         33677000.0
+Net Non Operating Interest Income Expense                       -1913207000.0      -581079000.0       -195527000.0       -374311000.0
+Interest Expense Non Operating                                   1913207000.0       581079000.0        195527000.0        374311000.0
+Operating Income                                                 6228136000.0       465664000.0       7446939000.0       3584966000.0
+Operating Expense                                                6253104000.0      5737209000.0       6080784000.0       4670557000.0
+Other Operating Expenses                                         2522639000.0      2236933000.0       2020161000.0       1525282000.0
+Depreciation And Amortization In Income Statement                 463477000.0       463513000.0        469975000.0        447303000.0
+Depreciation Income Statement                                     463477000.0       463513000.0        469975000.0        447303000.0
+Gross Profit                                                    12481240000.0      6202873000.0      13527723000.0       8255523000.0
+Cost Of Revenue                                                  1552031000.0      1624534000.0       1468716000.0       1223254000.0
+Total Revenue                                                   14033271000.0      7827407000.0      14996439000.0       9478777000.0
+Operating Revenue                                               14033271000.0      7827407000.0      14996439000.0       9478777000.0

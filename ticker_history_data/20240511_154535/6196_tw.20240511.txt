@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 3-2, Yuancyu Street
+address2	6th Floor Nangang District
+city	Taipei
+zip	11503
+country	Taiwan
+phone	886 2 2655 8899
+website	https://www.micb2b.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Marketech International Corp., manufactures, sells, imports, and trades in a range of integrated circuits, semiconductors, electrical and computer equipment and materials, chemicals, gas, and components. The company also engages in design and manufacturing of customized equipment; factory affair and mechatronic system, including clean room, automatic supply system of gas and chemicals, monitor system, turn-key, and hook-up project services; contracting for semiconductor automatic supply system and electrical installing construction; design, manufacturing, and installation of automatic production equipment and related parts; trading, installation, and repair of various machinery equipment and peripherals; sales of cosmetics and daily necessities and panels; and production, development, and implementation of software, as well as installation of industrial machine and equipment and consulting and coding services. In addition, it is involved in research, trading, and consulting of information system software and hardware appliances; supply of electronic information and data processing service; medical consulting services; management of IoT and 5G telecommunication instrument; production of scrubber bins for semiconductor manufacturers; renovation and decoration services; design and construction of smart buildings and electronic projects; design, installation, debugging, and technology services of tunnel systems. Marketech International Corp. was incorporated in 1988 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsin-Ming  Sung Kao', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yue-Yeh  Lin', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ming-Ju  Hsieh', 'title': 'General Manager of Finance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chi-Wen  Zhong', 'title': 'Director of Finance Department & Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Qing  Lin', 'title': 'Chief of Audit', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'I-Jung  Lee', 'title': 'Head of Executive Strategy Group, Operation Performance Analysis & Management', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zhong-Wen  Huang', 'title': 'Enterprise Division President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ruei-Ru  Chang', 'title': 'Enterprise Division President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Wen  Chung', 'title': 'Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	155.0
+open	156.0
+dayLow	153.5
+dayHigh	156.0
+regularMarketPreviousClose	155.0
+regularMarketOpen	156.0
+regularMarketDayLow	153.5
+regularMarketDayHigh	156.0
+dividendRate	5.64
+dividendYield	0.0361
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	0.48400003
+fiveYearAvgDividendYield	4.42
+beta	1.359
+trailingPE	13.390558
+forwardPE	12.430279
+volume	551824
+regularMarketVolume	551824
+averageVolume	2516671
+averageVolume10days	707538
+averageDailyVolume10Day	707538
+bid	155.5
+ask	156.0
+marketCap	31405142016
+fiftyTwoWeekLow	125.5
+fiftyTwoWeekHigh	180.5
+priceToSalesTrailing12Months	0.5580187
+fiftyDayAverage	161.01
+twoHundredDayAverage	144.75
+trailingAnnualDividendRate	6.0
+trailingAnnualDividendYield	0.038709678
+currency	TWD
+enterpriseValue	39025287168
+profitMargins	0.03841
+floatShares	76532077
+sharesOutstanding	201315008
+heldPercentInsiders	0.62527
+heldPercentInstitutions	0.03549
+impliedSharesOutstanding	201315008
+bookValue	55.352
+priceToBook	2.8183262
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.407
+netIncomeToCommon	2161832960
+trailingEps	11.65
+forwardEps	12.55
+lastSplitFactor	1.1:1
+lastSplitDate	1252886400	 (2009-09-14 08:00:00)
+enterpriseToRevenue	0.693
+enterpriseToEbitda	14.303
+52WeekChange	0.24302793
+SandP52WeekChange	0.26265144
+lastDividendValue	5.638303
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6196.TW
+underlyingSymbol	6196.TW
+shortName	MARKETECH INTERNATIONAL CORP
+longName	Marketech International Corp.
+firstTradeDateEpochUtc	1085360400	 (2004-05-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	897d5888-3e74-38c2-b43c-f8d6756785d5
+messageBoardId	finmb_2528566
+gmtOffSetMilliseconds	28800000
+currentPrice	156.0
+targetHighPrice	200.0
+targetLowPrice	170.0
+targetMeanPrice	184.25
+targetMedianPrice	183.5
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	7374781952
+totalCashPerShare	36.633
+ebitda	2728534016
+totalDebt	14902102016
+quickRatio	0.986
+currentRatio	1.306
+totalRevenue	56279732224
+debtToEquity	132.628
+revenuePerShare	285.37
+returnOnAssets	0.03704
+returnOnEquity	0.2028
+freeCashflow	-4517560832
+operatingCashflow	-4174266112
+earningsGrowth	-0.425
+revenueGrowth	0.04
+grossMargins	0.09324
+ebitdaMargins	0.04848
+operatingMargins	0.0366
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -49438735.544003     1471711.457183   -41759878.324853
+Tax Rate For Calcs                                                   0.282546           0.222616           0.238528
+Normalized EBITDA                                                3720722000.0       2359293000.0       1729889000.0
+Total Unusual Items                                              -174976000.0          6611000.0       -175073000.0
+Total Unusual Items Excluding Goodwill                           -174976000.0          6611000.0       -175073000.0
+Net Income From Continuing Operation Net Minority Interest       2210709000.0       1547479000.0        913736000.0
+Reconciled Depreciation                                           453323000.0        367143000.0        337740000.0
+Reconciled Cost Of Revenue                                      44980634000.0      30838692000.0      22019515000.0
+EBITDA                                                           3545746000.0       2365904000.0       1554816000.0
+EBIT                                                             3092423000.0       1998761000.0       1217076000.0
+Net Interest Income                                               -70730000.0        -46589000.0        -58099000.0
+Interest Expense                                                   95985000.0         58380000.0         67326000.0
+Interest Income                                                    25255000.0         11791000.0          9227000.0
+Normalized Income                                           2336246264.455997  1542339711.457183  1047049121.675147
+Net Income From Continuing And Discontinued Operation            2210709000.0       1547479000.0        913736000.0
+Total Expenses                                                  47325478000.0      32822199000.0      23743286000.0
+Diluted Average Shares                                            203838000.0        199825000.0        188543000.0
+Basic Average Shares                                              194942000.0        187830000.0        187080000.0
+Diluted EPS                                                             10.87                7.8               4.85
+Basic EPS                                                               11.34               8.24               4.88
+Diluted NI Availto Com Stockholders                              2210709000.0       1547479000.0        913736000.0
+Net Income Common Stockholders                                   2210709000.0       1547479000.0        913736000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0
+Net Income                                                       2210709000.0       1547479000.0        913736000.0
+Minority Interests                                                 60902000.0         39057000.0         38234000.0
+Net Income Including Noncontrolling Interests                    2149807000.0       1508422000.0        875502000.0
+Net Income Continuous Operations                                 2149807000.0       1508422000.0        875502000.0
+Tax Provision                                                     846631000.0        431959000.0        274248000.0
+Pretax Income                                                    2996438000.0       1940381000.0       1149750000.0
+Other Non Operating Income Expenses                               193532000.0        346577000.0          5541000.0
+Special Income Charges                                           -174976000.0          6611000.0       -175073000.0
+Write Off                                                         174976000.0         -6611000.0        175073000.0
+Net Non Operating Interest Income Expense                         -70730000.0        -46589000.0        -58099000.0
+Interest Expense Non Operating                                     95985000.0         58380000.0         67326000.0
+Interest Income Non Operating                                      25255000.0         11791000.0          9227000.0
+Operating Income                                                 3041226000.0       1636475000.0       1376571000.0
+Operating Expense                                                2344844000.0       1983507000.0       1723771000.0
+Research And Development                                          277870000.0        226158000.0        184401000.0
+Selling General And Administration                               2066974000.0       1757349000.0       1539370000.0
+Selling And Marketing Expense                                     749202000.0        712422000.0        609897000.0
+General And Administrative Expense                               1317772000.0       1044927000.0        929473000.0
+Gross Profit                                                     5386070000.0       3619982000.0       3100342000.0
+Cost Of Revenue                                                 44980634000.0      30838692000.0      22019515000.0
+Total Revenue                                                   50366704000.0      34458674000.0      25119857000.0
+Operating Revenue                                               50366704000.0      34458674000.0      25119857000.0

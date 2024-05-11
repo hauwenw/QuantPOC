@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 69, Lide Street
+address2	Zhonghe District
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 3234 5599
+fax	886 2 3234 5488
+website	https://www.msi.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Micro-Star International Co., Ltd. manufactures and sells motherboards, interface cards, notebook computers, and other electronic products in Asia, Europe, the United States, and internationally. Its products portfolio includes laptops, desktops, monitors, graphic cards, expansion cards, storage, PC cases, liquid cooling, fans and hubs, and power supply products; and peripherals comprising keyboards, mice, controllers, mouse pads, gaming chairs, and audio products; gaming routers, USB adapters, and servers; and industrial PC and tablets, as well as EV charging, autonomous mobile robots, automotive electronics, embedded platform, and commercial products. The company is also involved in the manufacturing, sale, support, after-sales service, and logistics service of computers and electronic components, as well as provides AIoT solutions. Micro-Star International Co., Ltd. was incorporated in 1986 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin-Ching  Huang', 'age': 64, 'title': 'Vice Chairman & President', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pao-Yu  Hung', 'title': 'CFO & VP of Finance Center', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hui-Chin  Lin', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui-Cheng  Cheng', 'title': 'Vice President of Corp. Marketing Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Long  Lu', 'title': 'Senior Vice President of Management Committee', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsien-Neng  You', 'age': 64, 'title': 'Senior VP of Management Committee & Director', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Tung  Lin', 'age': 64, 'title': 'Senior VP of Management Committee & Director', 'yearBorn': 1959, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Keng  Liao', 'age': 58, 'title': 'Executive VP, GM of Graphics and Peripheral B.U. & Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsu-Kuang  Kuo', 'age': 55, 'title': 'Executive VP, GM of Note Book B.U. & Director', 'yearBorn': 1968, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Sheng  Hung', 'age': 51, 'title': 'Executive VP, GM of Computing and Display B.U. & Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	163.0
+open	164.0
+dayLow	162.0
+dayHigh	165.0
+regularMarketPreviousClose	163.0
+regularMarketOpen	164.0
+regularMarketDayLow	162.0
+regularMarketDayHigh	165.0
+dividendRate	6.6
+dividendYield	0.04
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	0.74410003
+fiveYearAvgDividendYield	4.84
+beta	0.724
+trailingPE	18.581081
+forwardPE	11.066399
+volume	2086046
+regularMarketVolume	2086046
+averageVolume	3768981
+averageVolume10days	2871471
+averageDailyVolume10Day	2871471
+bid	164.0
+ask	165.0
+marketCap	139401232384
+fiftyTwoWeekLow	148.0
+fiftyTwoWeekHigh	216.5
+priceToSalesTrailing12Months	0.7618982
+fiftyDayAverage	170.94
+twoHundredDayAverage	175.37
+trailingAnnualDividendRate	5.4
+trailingAnnualDividendYield	0.033128835
+currency	TWD
+enterpriseValue	114225283072
+profitMargins	0.04117
+floatShares	654062324
+sharesOutstanding	844856000
+heldPercentInsiders	0.19582
+heldPercentInstitutions	0.33226
+impliedSharesOutstanding	847513024
+bookValue	59.395
+priceToBook	2.7780116
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.357
+netIncomeToCommon	7532896256
+trailingEps	8.88
+forwardEps	14.91
+pegRatio	1.98
+lastSplitFactor	1.0499:1
+lastSplitDate	1249516800	 (2009-08-06 08:00:00)
+enterpriseToRevenue	0.624
+enterpriseToEbitda	11.583
+52WeekChange	0.08552635
+SandP52WeekChange	0.26265144
+lastDividendValue	6.6
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2377.TW
+underlyingSymbol	2377.TW
+shortName	MICRO-STAR INTERNATIONAL CO
+longName	Micro-Star International Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3a032837-ef6b-33cb-8b6f-a36fd21b84f8
+messageBoardId	finmb_7960661
+gmtOffSetMilliseconds	28800000
+currentPrice	165.0
+targetHighPrice	215.0
+targetLowPrice	143.0
+targetMeanPrice	183.14
+targetMedianPrice	180.0
+recommendationMean	2.1
+recommendationKey	buy
+numberOfAnalystOpinions	7
+totalCash	25848440832
+totalCashPerShare	30.595
+ebitda	9861524480
+totalDebt	672449984
+quickRatio	1.179
+currentRatio	2.084
+totalRevenue	182965682176
+debtToEquity	1.34
+revenuePerShare	216.564
+returnOnAssets	0.062090002
+returnOnEquity	0.15283
+freeCashflow	2616003584
+operatingCashflow	4961653248
+earningsGrowth	0.361
+revenueGrowth	0.205
+grossMargins	0.12486
+ebitdaMargins	0.0539
+operatingMargins	0.0279
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -3219984.185578     -8764304.348817     -2412553.606543     1320742.088924
+Tax Rate For Calcs                                                   0.179127            0.188963            0.179813           0.170616
+Normalized EBITDA                                               10596997000.0       13771557000.0       21903241000.0      10717115000.0
+Total Unusual Items                                               -17976000.0         -46381000.0         -13417000.0          7741000.0
+Total Unusual Items Excluding Goodwill                            -17976000.0         -46381000.0         -13417000.0          7741000.0
+Net Income From Continuing Operation Net Minority Interest       7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Reconciled Depreciation                                          1374677000.0        1403253000.0        1240446000.0       1096018000.0
+Reconciled Cost Of Revenue                                     160120037000.0      154683162000.0      163565876000.0     125199949000.0
+EBITDA                                                          10579021000.0       13725176000.0       21889824000.0      10724856000.0
+EBIT                                                             9204344000.0       12321923000.0       20649378000.0       9628838000.0
+Net Interest Income                                               429078000.0         107445000.0          53339000.0         56877000.0
+Interest Expense                                                   27657000.0          38238000.0          18706000.0         31945000.0
+Interest Income                                                   456735000.0         145683000.0          72045000.0         88822000.0
+Normalized Income                                           7547652015.814422  10000136695.651182  16932009446.393457  7953084742.088924
+Net Income From Continuing And Discontinued Operation            7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Total Expenses                                                 174137683000.0      169668975000.0      181822091000.0     137322702000.0
+Diluted Average Shares                                                    NaN         854967000.0         855580000.0        852081000.0
+Basic Average Shares                                                      NaN         844856000.0         844856000.0        844856000.0
+Diluted EPS                                                               NaN               11.65               19.78               9.34
+Basic EPS                                                                 NaN               11.79               20.03               9.42
+Diluted NI Availto Com Stockholders                              7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Net Income Common Stockholders                                   7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                 0.0                0.0
+Net Income                                                       7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Net Income Including Noncontrolling Interests                    7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Net Income Continuous Operations                                 7532896000.0        9962520000.0       16921005000.0       7959505000.0
+Tax Provision                                                    1643791000.0        2321165000.0        3709667000.0       1637388000.0
+Pretax Income                                                    9176687000.0       12283685000.0       20630672000.0       9596893000.0
+Other Non Operating Income Expenses                               -62420000.0        1480354000.0         602689000.0        352188000.0
+Special Income Charges                                            -17976000.0         -46381000.0         -13417000.0          7741000.0
+Write Off                                                          17976000.0          46381000.0          13417000.0         -7741000.0
+Net Non Operating Interest Income Expense                         429078000.0         107445000.0          53339000.0         56877000.0
+Interest Expense Non Operating                                     27657000.0          38238000.0          18706000.0         31945000.0
+Interest Income Non Operating                                     456735000.0         145683000.0          72045000.0         88822000.0
+Operating Income                                                 8828005000.0       10742267000.0       19988061000.0       9180087000.0
+Operating Expense                                               14017646000.0       14985813000.0       18256215000.0      12122753000.0
+Research And Development                                         4282955000.0        4396924000.0        5179451000.0       3724340000.0
+Selling General And Administration                               9734691000.0       10588889000.0       13076764000.0       8398413000.0
+Selling And Marketing Expense                                    8034888000.0        8884636000.0       11203377000.0       7053359000.0
+General And Administrative Expense                               1699803000.0        1704253000.0        1873387000.0       1345054000.0
+Gross Profit                                                    22845651000.0       25728080000.0       38244276000.0      21302840000.0
+Cost Of Revenue                                                160120037000.0      154683162000.0      163565876000.0     125199949000.0
+Total Revenue                                                  182965688000.0      180411242000.0      201810152000.0     146502789000.0
+Operating Revenue                                              182965688000.0      180411242000.0      201810152000.0     146502789000.0

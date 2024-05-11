@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	147, Guoguang Road
+address2	Sec. 1 Dali District
+city	Taichung
+zip	41262
+country	Taiwan
+phone	886 4 2418 1856
+fax	886 4 2418 1906
+website	https://www.lelon.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Lelon Electronics Corp. develops, manufactures, markets, trades in, and sells electrolytic capacitors worldwide. Its electrolytic capacitors include aluminum electrolytic capacitors, such as radial leaded, SMD, snap-in, screw terminal, and axial; organic conductive polymer capacitors; conductive polymer hybrid capacitors; and flame retardants. The company also produces formed aluminum foils and automatic manufacturing equipment. Its products are used in various applications, including automotive electronics, telecommunication, cloud computing, and power electronics. The company was incorporated in 1976 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	2560
+companyOfficers	[{'maxAge': 1, 'name': 'Jimmy  Wu', 'title': 'GM, President & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Jun Lin', 'title': 'Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jimmy  Ou', 'title': 'Independent Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	79.1
+open	79.6
+dayLow	77.7
+dayHigh	79.9
+regularMarketPreviousClose	79.1
+regularMarketOpen	79.6
+regularMarketDayLow	77.7
+regularMarketDayHigh	79.9
+dividendRate	3.49
+dividendYield	0.044699997
+exDividendDate	1692230400	 (2023-08-17 08:00:00)
+payoutRatio	0.6254
+fiveYearAvgDividendYield	4.69
+beta	1.297
+trailingPE	13.996416
+forwardPE	10.025674
+volume	1483940
+regularMarketVolume	1483940
+averageVolume	1668129
+averageVolume10days	2627738
+averageDailyVolume10Day	2627738
+bid	78.1
+ask	78.2
+marketCap	12865804288
+fiftyTwoWeekLow	53.3
+fiftyTwoWeekHigh	81.8
+priceToSalesTrailing12Months	1.4298095
+fiftyDayAverage	72.918
+twoHundredDayAverage	65.732
+trailingAnnualDividendRate	2.8
+trailingAnnualDividendYield	0.03539823
+currency	TWD
+enterpriseValue	15200321536
+profitMargins	0.1025
+floatShares	109122111
+sharesOutstanding	164735008
+heldPercentInsiders	0.42810002
+heldPercentInstitutions	0.01651
+impliedSharesOutstanding	164735008
+bookValue	42.873
+priceToBook	1.8216592
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.297
+netIncomeToCommon	922332992
+trailingEps	5.58
+forwardEps	7.79
+lastSplitFactor	0.85:1
+lastSplitDate	1444176000	 (2015-10-07 08:00:00)
+enterpriseToRevenue	1.689
+enterpriseToEbitda	7.619
+52WeekChange	0.27198696
+SandP52WeekChange	0.26265144
+lastDividendValue	3.489479
+lastDividendDate	1692230400	 (2023-08-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2472.TW
+underlyingSymbol	2472.TW
+shortName	LELON ELECTRONICS
+longName	Lelon Electronics Corp.
+firstTradeDateEpochUtc	958525200	 (2000-05-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	35db075c-a009-3d80-81fe-593b92039425
+messageBoardId	finmb_9829930
+gmtOffSetMilliseconds	28800000
+currentPrice	78.1
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	3803289088
+totalCashPerShare	23.087
+ebitda	1995043968
+totalDebt	2687877120
+quickRatio	1.675
+currentRatio	2.08
+totalRevenue	8998264832
+debtToEquity	25.568
+revenuePerShare	54.673
+returnOnAssets	0.06251
+returnOnEquity	0.120670006
+freeCashflow	647257024
+operatingCashflow	1261287936
+earningsGrowth	0.285
+revenueGrowth	-0.01
+grossMargins	0.28681
+ebitdaMargins	0.22171
+operatingMargins	0.1904
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1933092.445617     -260841.463213    3729292.976275    4165604.733632
+Tax Rate For Calcs                                                  0.215266           0.226229           0.21692           0.20875
+Normalized EBITDA                                               2167473000.0       2766287000.0      2321816000.0      1632547000.0
+Total Unusual Items                                                8980000.0         -1153000.0        17192000.0        19955000.0
+Total Unusual Items Excluding Goodwill                             8980000.0         -1153000.0        17192000.0        19955000.0
+Net Income From Continuing Operation Net Minority Interest       922333000.0       1230167000.0       981565000.0       678197000.0
+Reconciled Depreciation                                          536655000.0        476018000.0       403938000.0       350303000.0
+Reconciled Cost Of Revenue                                      6417467000.0       7175476000.0      7028204000.0      5578148000.0
+EBITDA                                                          2176453000.0       2765134000.0      2339008000.0      1652502000.0
+EBIT                                                            1639798000.0       2289116000.0      1935070000.0      1302199000.0
+Net Interest Income                                               32958000.0        -18652000.0       -21500000.0       -35838000.0
+Interest Expense                                                  48960000.0         49743000.0        51682000.0        68474000.0
+Interest Income                                                   81918000.0         31091000.0        30182000.0        32636000.0
+Normalized Income                                           915286092.445617  1231059158.536787  968102292.976275  662407604.733632
+Net Income From Continuing And Discontinued Operation            922333000.0       1230167000.0       981565000.0       678197000.0
+Total Expenses                                                  7534189000.0       8374620000.0      8179561000.0      6551020000.0
+Diluted Average Shares                                                   NaN        165178000.0       162802000.0       139939000.0
+Basic Average Shares                                                     NaN        163456000.0       160364000.0       132249000.0
+Diluted EPS                                                              NaN               7.45              6.04              4.91
+Basic EPS                                                                NaN               7.53              6.12              5.13
+Diluted NI Availto Com Stockholders                              922333000.0       1230167000.0       981565000.0       678197000.0
+Net Income Common Stockholders                                   922333000.0       1230167000.0       981565000.0       678197000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0               0.0
+Net Income                                                       922333000.0       1230167000.0       981565000.0       678197000.0
+Minority Interests                                              -326051000.0       -502596000.0      -493278000.0      -297988000.0
+Net Income Including Noncontrolling Interests                   1248384000.0       1732763000.0      1474843000.0       976185000.0
+Net Income Continuous Operations                                1248384000.0       1732763000.0      1474843000.0       976185000.0
+Tax Provision                                                    342454000.0        506610000.0       408545000.0       257540000.0
+Pretax Income                                                   1590838000.0       2239373000.0      1883388000.0      1233725000.0
+Other Non Operating Income Expenses                               84824000.0        286609000.0       110084000.0       -21694000.0
+Special Income Charges                                             8980000.0         -1153000.0        17192000.0        19955000.0
+Write Off                                                         -8980000.0          1153000.0       -17192000.0       -19955000.0
+Net Non Operating Interest Income Expense                         32958000.0        -18652000.0       -21500000.0       -35838000.0
+Interest Expense Non Operating                                    48960000.0         49743000.0        51682000.0        68474000.0
+Interest Income Non Operating                                     81918000.0         31091000.0        30182000.0        32636000.0
+Operating Income                                                1464076000.0       1972569000.0      1777612000.0      1271302000.0
+Operating Expense                                               1116722000.0       1199144000.0      1151357000.0       972872000.0
+Research And Development                                         237659000.0        210281000.0       200164000.0       162131000.0
+Selling General And Administration                               879063000.0        988863000.0       951193000.0       810741000.0
+Selling And Marketing Expense                                    315162000.0        362563000.0       322033000.0       280059000.0
+General And Administrative Expense                               563901000.0        626300000.0       629160000.0       530682000.0
+Gross Profit                                                    2580798000.0       3171713000.0      2928969000.0      2244174000.0
+Cost Of Revenue                                                 6417467000.0       7175476000.0      7028204000.0      5578148000.0
+Total Revenue                                                   8998265000.0      10347189000.0      9957173000.0      7822322000.0
+Operating Revenue                                               8998265000.0      10347189000.0      9957173000.0      7822322000.0

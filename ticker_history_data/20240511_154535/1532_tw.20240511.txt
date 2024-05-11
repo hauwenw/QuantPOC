@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 85, Ren'ai Road
+address2	4th Floor Section 4 Da¡¦an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2711 2831
+fax	886 2 8773 1803
+website	https://www.cmp.com.tw
+industry	Metal Fabrication
+industryKey	metal-fabrication
+industryDisp	Metal Fabrication
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	China Metal Products Co., Ltd. designs, manufactures, and retails iron casting products in Taiwan, the United States, Japan, China, Europe, South America, and internationally. The company operates through three segments: Metal Manufacturing, Real Estate Development, and Lifestyle Hospitality. The company designs, develops, manufactures, and sells vehicle and machinery parts; retails auto parts; and offers management and consulting services. It also develops and leases resident, commercial buildings, and factories; and operates hotels under the Hotel National and Splendor Hotel Taichung names, as well as amusement park under the Shangrila Paradise name. In addition, the company operates Park Lane by CMP and Park Lane by Splendor lifestyle shopping malls; and foundation for arts and culture. Further, it develops, manufactures, and sells farm and industrial wagon parts, and household appliances parts, as well as provides after sales services. China Metal Products Co., Ltd. was founded in 1972 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sheng Wei  Mai', 'title': 'President & Executive VP of Head Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching Yi  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Hong  Tsao', 'title': 'Co-Founder & Vice Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih Kang  He', 'title': 'Manager of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pie Chang  Wang', 'title': 'Manager of Accounting Department & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Man Ni  Feng', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.cmp.com.tw/webpage/investor.php
+maxAge	86400
+priceHint	2
+previousClose	48.75
+open	49.45
+dayLow	48.4
+dayHigh	50.7
+regularMarketPreviousClose	48.75
+regularMarketOpen	49.45
+regularMarketDayLow	48.4
+regularMarketDayHigh	50.7
+dividendRate	1.2
+dividendYield	0.0247
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	0.5455
+fiveYearAvgDividendYield	5.19
+beta	0.585
+trailingPE	22.113636
+volume	8714930
+regularMarketVolume	8714930
+averageVolume	5585246
+averageVolume10days	17409667
+averageDailyVolume10Day	17409667
+bid	48.6
+ask	48.65
+marketCap	18433290240
+fiftyTwoWeekLow	33.15
+fiftyTwoWeekHigh	58.3
+priceToSalesTrailing12Months	1.0461903
+fiftyDayAverage	41.317
+twoHundredDayAverage	38.69725
+trailingAnnualDividendRate	1.51
+trailingAnnualDividendYield	0.030974358
+currency	TWD
+enterpriseValue	39984193536
+profitMargins	0.054780003
+floatShares	206279552
+sharesOutstanding	378896000
+heldPercentInsiders	0.40085998
+heldPercentInstitutions	0.14271
+impliedSharesOutstanding	378896000
+bookValue	35.066
+priceToBook	1.3873838
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.664
+netIncomeToCommon	965227008
+trailingEps	2.2
+lastSplitFactor	1020:1000
+lastSplitDate	1407196800	 (2014-08-05 08:00:00)
+enterpriseToRevenue	2.269
+enterpriseToEbitda	15.558
+52WeekChange	0.4522388
+SandP52WeekChange	0.26265144
+lastDividendValue	1.19999
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1532.TW
+underlyingSymbol	1532.TW
+shortName	CHINA METAL PRODUCTS CO
+longName	China Metal Products Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a398f8c1-2354-318a-8d33-f6b05e3f4a83
+messageBoardId	finmb_9196251
+gmtOffSetMilliseconds	28800000
+currentPrice	48.65
+recommendationKey	none
+totalCash	7168160768
+totalCashPerShare	18.924
+ebitda	2569961984
+totalDebt	24819699712
+quickRatio	0.425
+currentRatio	1.397
+totalRevenue	17619443712
+debtToEquity	144.408
+revenuePerShare	46.777
+returnOnAssets	0.019960001
+returnOnEquity	0.07732
+freeCashflow	2184085760
+operatingCashflow	2901238016
+earningsGrowth	0.708
+revenueGrowth	0.321
+grossMargins	0.23371
+ebitdaMargins	0.14586
+operatingMargins	0.10559
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     20710.310843       -596.057819      -46997.135202    4139481.360406
+Tax Rate For Calcs                                                  0.193554          0.000394           0.070672          0.182027
+Normalized EBITDA                                               3109445000.0      2329063000.0       3044140000.0      2182064000.0
+Total Unusual Items                                                 107000.0        -1512000.0          -665000.0        22741000.0
+Total Unusual Items Excluding Goodwill                              107000.0        -1512000.0          -665000.0        22741000.0
+Net Income From Continuing Operation Net Minority Interest       965227000.0       805125000.0       1211398000.0       557458000.0
+Reconciled Depreciation                                         1072390000.0      1063476000.0        970971000.0       962502000.0
+Reconciled Cost Of Revenue                                     13501665000.0     11337623000.0      14564322000.0      9827107000.0
+EBITDA                                                          3109552000.0      2327551000.0       3043475000.0      2204805000.0
+EBIT                                                            2037162000.0      1264075000.0       2072504000.0      1242303000.0
+Net Interest Income                                             -333483000.0      -234905000.0       -196003000.0      -229227000.0
+Interest Expense                                                 413318000.0       274775000.0        259462000.0       274739000.0
+Interest Income                                                   79835000.0        39870000.0         63459000.0        45512000.0
+Normalized Income                                           965140710.310843  806636403.942181  1212016002.864798  538856481.360406
+Net Income From Continuing And Discontinued Operation            965227000.0       805125000.0       1211398000.0       557458000.0
+Total Expenses                                                 15908215000.0     13578223000.0      17069056000.0     11851025000.0
+Diluted Average Shares                                                   NaN       423631000.0        377320000.0       380727000.0
+Basic Average Shares                                                     NaN       376122000.0        376122000.0       380040000.0
+Diluted EPS                                                              NaN              1.85               3.21              1.46
+Basic EPS                                                                NaN              2.14               3.22              1.47
+Diluted NI Availto Com Stockholders                              965227000.0       805125000.0       1211398000.0       557458000.0
+Net Income Common Stockholders                                   965227000.0       805125000.0       1211398000.0       557458000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0                0.0               0.0
+Net Income                                                       965227000.0       805125000.0       1211398000.0       557458000.0
+Minority Interests                                              -344315000.0      -183785000.0       -473512000.0      -233983000.0
+Net Income Including Noncontrolling Interests                   1309542000.0       988910000.0       1684910000.0       791441000.0
+Net Income Continuous Operations                                1309542000.0       988910000.0       1684910000.0       791441000.0
+Tax Provision                                                    314302000.0          390000.0        128132000.0       176123000.0
+Pretax Income                                                   1623844000.0       989300000.0       1813042000.0       967564000.0
+Other Non Operating Income Expenses                              285553000.0       230738000.0        139478000.0        10242000.0
+Special Income Charges                                              107000.0        -1512000.0          -665000.0        22741000.0
+Write Off                                                          -107000.0         1512000.0           665000.0       -22741000.0
+Net Non Operating Interest Income Expense                       -333483000.0      -234905000.0       -196003000.0      -229227000.0
+Interest Expense Non Operating                                   413318000.0       274775000.0        259462000.0       274739000.0
+Interest Income Non Operating                                     79835000.0        39870000.0         63459000.0        45512000.0
+Operating Income                                                1711228000.0      1051955000.0       1869112000.0      1274874000.0
+Operating Expense                                               2406550000.0      2240600000.0       2504734000.0      2023918000.0
+Other Operating Expenses                                                 NaN               NaN                NaN        -7703000.0
+Research And Development                                          13736000.0        22328000.0         11411000.0        12143000.0
+Selling General And Administration                              2392814000.0      2218272000.0       2493323000.0      2019478000.0
+Selling And Marketing Expense                                    566394000.0       563390000.0        715706000.0       557711000.0
+General And Administrative Expense                              1826420000.0      1654882000.0       1777617000.0      1461767000.0
+Gross Profit                                                    4117778000.0      3292555000.0       4373846000.0      3298792000.0
+Cost Of Revenue                                                13501665000.0     11337623000.0      14564322000.0      9827107000.0
+Total Revenue                                                  17619443000.0     14630178000.0      18938168000.0     13125899000.0
+Operating Revenue                                              17619443000.0     14630178000.0      18938168000.0     13125899000.0

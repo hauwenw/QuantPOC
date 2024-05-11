@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 297, Chien-Kang Road
+address2	Section 1
+city	Tainan
+zip	702
+country	Taiwan
+phone	886 6 2160 688
+fax	886 6 2160 678
+website	https://www.tybio.com.tw
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Taiyen Biotech Co., Ltd. engages in the production and sale of salt products in Taiwan and internationally. Its products portfolio includes various salt and seawater chemical products; bath salt, bath salt milk, salt soap, algae soap, and shampoo; beverage and raw drinking water; skin care; toothpaste, salt mouthwash, and eye glass care solution; salt for washing fruits and vegetables; and food and food additives. The company also manufactures western medicine, environmental pharmaceuticals, and cosmetics. In addition, it imports and exports daily necessities and cosmetic products. Further, the company is involved in the provision, introduction, and management consulting of industrial salt technology. Taiyen Biotech Co., Ltd. was founded in 1952 and is based in Tainan, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shi-Hui  Chen', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wei  Su', 'title': 'Director of Financial Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tung-Hsuan  Yang', 'title': 'Director of Legal Affairs Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chieh-Han  Lee', 'title': 'VP & Director of Corporate Development Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mei-Wen  Chen', 'title': 'Director of Branding & Marketing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mei-Yu  Chuang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	34.1
+open	34.15
+dayLow	34.0
+dayHigh	34.15
+regularMarketPreviousClose	34.1
+regularMarketOpen	34.15
+regularMarketDayLow	34.0
+regularMarketDayHigh	34.15
+dividendRate	1.5
+dividendYield	0.044
+exDividendDate	1692748800	 (2023-08-23 08:00:00)
+payoutRatio	1.0135
+fiveYearAvgDividendYield	4.68
+trailingPE	23.040539
+volume	153657
+regularMarketVolume	153657
+averageVolume	448863
+averageVolume10days	310902
+averageDailyVolume10Day	310902
+bid	34.1
+ask	34.15
+marketCap	6819999744
+fiftyTwoWeekLow	32.8
+fiftyTwoWeekHigh	40.5
+priceToSalesTrailing12Months	0.9397684
+fiftyDayAverage	34.021
+twoHundredDayAverage	34.01575
+trailingAnnualDividendRate	1.2
+trailingAnnualDividendYield	0.03519062
+currency	TWD
+enterpriseValue	5224939520
+profitMargins	0.04088
+floatShares	111848798
+sharesOutstanding	200000000
+heldPercentInsiders	0.49389
+heldPercentInstitutions	0.047470003
+impliedSharesOutstanding	200591008
+bookValue	32.857
+priceToBook	1.0378306
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.035
+netIncomeToCommon	296640992
+trailingEps	1.48
+lastSplitFactor	0.719:1
+lastSplitDate	1387152000	 (2013-12-16 08:00:00)
+enterpriseToRevenue	0.72
+enterpriseToEbitda	10.039
+52WeekChange	0.014880896
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1692748800	 (2023-08-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1737.TW
+underlyingSymbol	1737.TW
+shortName	TAIYEN BIOTECH CO
+longName	Taiyen Biotech Co., Ltd.
+firstTradeDateEpochUtc	1069117200	 (2003-11-18 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	22571d66-2db0-3358-b6e7-5bfb6a0e1296
+messageBoardId	finmb_9302419
+gmtOffSetMilliseconds	28800000
+currentPrice	34.1
+recommendationKey	none
+totalCash	1907270016
+totalCashPerShare	9.501
+ebitda	520462016
+totalDebt	247438000
+quickRatio	2.59
+currentRatio	3.066
+totalRevenue	7257106944
+debtToEquity	3.729
+revenuePerShare	36.263
+returnOnAssets	0.02498
+returnOnEquity	0.02961
+freeCashflow	179008496
+operatingCashflow	442472000
+earningsGrowth	-0.037
+revenueGrowth	4.449
+grossMargins	0.17385
+ebitdaMargins	0.07172
+operatingMargins	0.029360002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                 -27714790.651321           0.0           0.0           0.0
+Tax Rate For Calcs                                                  0.339759      0.194258      0.191709      0.192764
+Normalized EBITDA                                                612096000.0   730058000.0   705520000.0   653652000.0
+Total Unusual Items                                              -81572000.0           0.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                           -81572000.0           0.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest       300386000.0   426704000.0   393227000.0   365085000.0
+Reconciled Depreciation                                          198059000.0   194948000.0   189660000.0   186008000.0
+Reconciled Cost Of Revenue                                      2151333000.0  2337002000.0  2722415000.0  1822755000.0
+EBITDA                                                           530524000.0   730058000.0   705520000.0   653652000.0
+EBIT                                                             332465000.0   535110000.0   515860000.0   467644000.0
+Net Interest Income                                               -3349000.0    -4523000.0    -5942000.0    -3605000.0
+Interest Expense                                                   3349000.0     4523000.0     5942000.0     3605000.0
+Normalized Income                                           354243209.348679   426704000.0   393227000.0   365085000.0
+Net Income From Continuing And Discontinued Operation            300386000.0   426704000.0   393227000.0   365085000.0
+Total Expenses                                                  3013811000.0  3168557000.0  3566474000.0  2667026000.0
+Diluted Average Shares                                           200000000.0   200000000.0   200568000.0   200548000.0
+Basic Average Shares                                             200000000.0   200000000.0   200000000.0   200000000.0
+Diluted EPS                                                              1.5          2.13          1.96          1.82
+Basic EPS                                                                1.5          2.13          1.97          1.83
+Diluted NI Availto Com Stockholders                              300386000.0   426704000.0   393227000.0   365085000.0
+Net Income Common Stockholders                                   300386000.0   426704000.0   393227000.0   365085000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0           0.0           0.0
+Net Income                                                       300386000.0   426704000.0   393227000.0   365085000.0
+Minority Interests                                                83090000.0     -812000.0   -18935000.0    -9504000.0
+Net Income Including Noncontrolling Interests                    217296000.0   427516000.0   412162000.0   374589000.0
+Net Income Continuous Operations                                 217296000.0   427516000.0   412162000.0   374589000.0
+Tax Provision                                                    111820000.0   103071000.0    97756000.0    89450000.0
+Pretax Income                                                    329116000.0   530587000.0   509918000.0   464039000.0
+Other Non Operating Income Expenses                               19037000.0    90060000.0   -13317000.0     4877000.0
+Special Income Charges                                           -81572000.0           0.0           NaN           NaN
+Write Off                                                         81572000.0           0.0           NaN           NaN
+Net Non Operating Interest Income Expense                         -3349000.0    -4523000.0    -5942000.0    -3605000.0
+Interest Expense Non Operating                                     3349000.0     4523000.0     5942000.0     3605000.0
+Operating Income                                                 395000000.0   445050000.0   529177000.0   463321000.0
+Operating Expense                                                862478000.0   831555000.0   844059000.0   844271000.0
+Research And Development                                          60495000.0    60640000.0    57597000.0    73984000.0
+Selling General And Administration                               801983000.0   770915000.0   786462000.0   770287000.0
+Selling And Marketing Expense                                    589498000.0   553681000.0   568472000.0   558111000.0
+General And Administrative Expense                               212485000.0   217234000.0   217990000.0   212176000.0
+Gross Profit                                                    1257478000.0  1276605000.0  1373236000.0  1307592000.0
+Cost Of Revenue                                                 2151333000.0  2337002000.0  2722415000.0  1822755000.0
+Total Revenue                                                   3408811000.0  3613607000.0  4095651000.0  3130347000.0
+Operating Revenue                                               3408811000.0  3613607000.0  4095651000.0  3130347000.0

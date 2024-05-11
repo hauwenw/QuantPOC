@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	Lane 199, Section 1
+address2	2nd Floor No. 15, Funong Street East District
+city	Tainan City
+zip	701
+country	Taiwan
+phone	886 6 289 5658
+fax	886 6 260 1632
+website	https://www.jypkg.com
+industry	Packaging & Containers
+industryKey	packaging-containers
+industryDisp	Packaging & Containers
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Jiyuan Packaging Holdings Limited, together with its subsidiaries, engages in the research, development, manufacture, and sale of metal packaging containers in China. It offers aluminum and tin cans, as well as aluminum covers for food and drink industries. The company also provides tin cans, paper bowls, bottles, and plastic color-printing services. Jiyuan Packaging Holdings Limited was founded in 1993 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chin-Lung  Chen', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung-Fa  Tsai', 'title': 'Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Hsien  Li', 'title': 'Financial Manager, Accounting Manager & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Min  Lin', 'title': 'Special Assistant of the Chairman & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Miao-Hsuan  Wang', 'title': 'Deputy President of China Subsidiaries', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung-Liang  Chang', 'title': 'Deputy President of China Subsidiaries', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	16.0
+open	16.05
+dayLow	16.0
+dayHigh	16.4
+regularMarketPreviousClose	16.0
+regularMarketOpen	16.05
+regularMarketDayLow	16.0
+regularMarketDayHigh	16.4
+exDividendDate	1661817600	 (2022-08-30 08:00:00)
+fiveYearAvgDividendYield	3.41
+beta	0.271
+volume	35086
+regularMarketVolume	35086
+averageVolume	50574
+averageVolume10days	20600
+averageDailyVolume10Day	20600
+bid	16.0
+ask	16.3
+marketCap	1183350016
+fiftyTwoWeekLow	15.291856
+fiftyTwoWeekHigh	20.771023
+priceToSalesTrailing12Months	0.3086914
+fiftyDayAverage	16.2
+twoHundredDayAverage	17.004633
+currency	TWD
+enterpriseValue	1489339008
+profitMargins	-0.0308
+sharesOutstanding	73500000
+heldPercentInsiders	0.66656
+impliedSharesOutstanding	74176400
+bookValue	35.0
+priceToBook	0.46
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-118051000
+trailingEps	-1.54
+enterpriseToRevenue	0.389
+enterpriseToEbitda	7.518
+52WeekChange	0.042659163
+SandP52WeekChange	0.26265144
+lastDividendValue	0.298864
+lastDividendDate	1661817600	 (2022-08-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8488.TW
+underlyingSymbol	8488.TW
+shortName	JIYUAN PACKAGING HOLDINGS LTD
+longName	Jiyuan Packaging Holdings Limited
+firstTradeDateEpochUtc	1481677200	 (2016-12-14 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4083a012-b7db-3f0d-93cf-1b75d56e9bb5
+messageBoardId	finmb_374228271
+gmtOffSetMilliseconds	28800000
+currentPrice	16.1
+recommendationKey	none
+totalCash	539568000
+totalCashPerShare	7.994
+ebitda	198114000
+totalDebt	942156992
+quickRatio	0.727
+currentRatio	1.089
+totalRevenue	3833440000
+debtToEquity	39.879
+revenuePerShare	56.792
+returnOnAssets	-0.00099
+returnOnEquity	-0.04863
+freeCashflow	386821248
+operatingCashflow	712814976
+revenueGrowth	-0.028
+grossMargins	0.0612
+ebitdaMargins	0.051680002
+operatingMargins	-0.00926
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31      2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    4325600.0   1828177.90214   8497162.464004    19421400.0
+Tax Rate For Calcs                                                   0.2        0.073863         0.369876           0.2
+Normalized EBITDA                                            187041000.0     168110000.0      295583000.0   300414000.0
+Total Unusual Items                                           21628000.0      24751000.0       22973000.0    97107000.0
+Total Unusual Items Excluding Goodwill                        21628000.0      24751000.0       22973000.0    97107000.0
+Net Income From Continuing Operation Net Minority Interest  -118051000.0     -68348000.0       50328000.0    50451000.0
+Reconciled Depreciation                                      212342000.0     208359000.0      202288000.0   216500000.0
+Reconciled Cost Of Revenue                                  3598840000.0    3771589000.0     3771581000.0  2525457000.0
+EBITDA                                                       208669000.0     192861000.0      318556000.0   397521000.0
+EBIT                                                          -3673000.0     -15498000.0      116268000.0   181021000.0
+Net Interest Income                                          -56385000.0     -47916000.0      -25989000.0   -31130000.0
+Interest Expense                                              67758000.0      58301000.0       36398000.0    42301000.0
+Interest Income                                               11373000.0      10385000.0       10409000.0    11171000.0
+Normalized Income                                           -135353400.0 -91270822.09786  35852162.464004   -27234600.0
+Net Income From Continuing And Discontinued Operation       -118051000.0     -68348000.0       50328000.0    50451000.0
+Total Expenses                                              3863808000.0    4018183000.0     4003485000.0  2733104000.0
+Diluted Average Shares                                               NaN      67500000.0       67789779.0    67808851.0
+Basic Average Shares                                                 NaN      67500000.0       67756654.0    67756654.0
+Diluted EPS                                                          NaN       -1.012563         0.742413      0.747159
+Basic EPS                                                            NaN           -1.01         0.747159      0.747159
+Diluted NI Availto Com Stockholders                         -118051000.0     -68348000.0       50328000.0    50451000.0
+Net Income Common Stockholders                              -118051000.0     -68348000.0       50328000.0    50451000.0
+Otherunder Preferred Stock Dividend                                  0.0             0.0              0.0           0.0
+Net Income                                                  -118051000.0     -68348000.0       50328000.0    50451000.0
+Net Income Including Noncontrolling Interests               -118051000.0     -68348000.0       50328000.0    50451000.0
+Net Income Continuous Operations                            -118051000.0     -68348000.0       50328000.0    50451000.0
+Tax Provision                                                 46620000.0      -5451000.0       29542000.0    88269000.0
+Pretax Income                                                -71431000.0     -73799000.0       79870000.0   138720000.0
+Other Non Operating Income Expenses                           -6306000.0      39586000.0       33353000.0    14274000.0
+Special Income Charges                                        21628000.0      24751000.0       22973000.0    97107000.0
+Write Off                                                    -21628000.0     -24751000.0      -22973000.0   -97107000.0
+Net Non Operating Interest Income Expense                    -56385000.0     -47916000.0      -25989000.0   -31130000.0
+Interest Expense Non Operating                                67758000.0      58301000.0       36398000.0    42301000.0
+Interest Income Non Operating                                 11373000.0      10385000.0       10409000.0    11171000.0
+Operating Income                                             -30368000.0     -90220000.0       49533000.0    58469000.0
+Operating Expense                                            264968000.0     246594000.0      231904000.0   207647000.0
+Research And Development                                      19032000.0      18072000.0       16160000.0    12612000.0
+Selling General And Administration                           245936000.0     228522000.0      215744000.0   195035000.0
+Selling And Marketing Expense                                 60625000.0      59247000.0       62652000.0    40776000.0
+General And Administrative Expense                           185311000.0     169275000.0      153092000.0   154259000.0
+Gross Profit                                                 234600000.0     156374000.0      281437000.0   266116000.0
+Cost Of Revenue                                             3598840000.0    3771589000.0     3771581000.0  2525457000.0
+Total Revenue                                               3833440000.0    3927963000.0     4053018000.0  2791573000.0
+Operating Revenue                                           3833440000.0    3927963000.0     4053018000.0  2791573000.0

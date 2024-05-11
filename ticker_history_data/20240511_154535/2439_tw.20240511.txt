@@ -1,0 +1,164 @@
+=== Ticker Info ===
+address1	Taichung Industrial Park
+address2	No.22, 23rd Road
+city	Taichung
+zip	408213
+country	Taiwan
+phone	886 4 2359 0811
+website	https://www.merry.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Merry Electronics Co., Ltd. engages in the manufacture, processing, repair, and sale of electric appliances, audiovisual electric products, telecommunication equipment and apparatus, computers and computing peripheral equipment, restrained telecom radio frequency equipment, medical appliances, and electronic parts and components in the United States, the Netherlands, Denmark, Switzerland, China, and internationally. It offers microphones, receivers, earphones, speakers and speaker monomers, and sound equipment; power amplifiers, charging boxes, and mobile power supply products; hearing aids and devices and acoustics equipment; medical and rehabilitation devices; cables, connectors, and electronic components; security systems; induction cookers; plastic hardware products; and moulds and antennas. The company is also involved in the research, development, and sale of software for hearing aid usage; plastic injection molding and metal stamping; international and transit trade; trading consulting; and electric wire and cable processing activities. Its products are used in mobile communication, multimedia and entertainment, and medical and healthcare applications, as well as smart homes and accessories. The company was incorporated in 1975 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Li  Huang', 'title': 'CEO, President, Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shijie  Lin', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Joyce  Lam', 'title': 'Vice GM of Finance, CFO & VP of Financial Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Huxuan  Lin', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sam  Chang', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chester  Chiang', 'title': 'Vice President of Sales', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Tang  Liang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jenny  Chen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	125.5
+open	126.5
+dayLow	123.5
+dayHigh	126.5
+regularMarketPreviousClose	125.5
+regularMarketOpen	126.5
+regularMarketDayLow	123.5
+regularMarketDayHigh	126.5
+dividendRate	4.47
+dividendYield	0.0358
+exDividendDate	1693440000	 (2023-08-31 08:00:00)
+payoutRatio	0.66370004
+fiveYearAvgDividendYield	5.61
+beta	0.685
+trailingPE	18.545994
+forwardPE	13.76652
+volume	2093043
+regularMarketVolume	2093043
+averageVolume	2522831
+averageVolume10days	2546213
+averageDailyVolume10Day	2546213
+bid	125.0
+ask	125.5
+marketCap	27547250688
+fiftyTwoWeekLow	83.5
+fiftyTwoWeekHigh	130.0
+priceToSalesTrailing12Months	0.7265921
+fiftyDayAverage	118.78
+twoHundredDayAverage	103.618
+trailingAnnualDividendRate	4.7
+trailingAnnualDividendYield	0.037450198
+currency	TWD
+enterpriseValue	23632676864
+profitMargins	0.04298
+floatShares	186817071
+sharesOutstanding	219316000
+heldPercentInsiders	0.10706
+heldPercentInstitutions	0.18751
+impliedSharesOutstanding	220378000
+bookValue	57.404
+priceToBook	2.1775486
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	5.519
+netIncomeToCommon	1629424000
+trailingEps	6.74
+forwardEps	9.08
+pegRatio	0.64
+lastSplitFactor	1050:1000
+lastSplitDate	1406160000	 (2014-07-24 08:00:00)
+enterpriseToRevenue	0.623
+enterpriseToEbitda	12.609
+52WeekChange	0.45011604
+SandP52WeekChange	0.26265144
+lastDividendValue	4.473261
+lastDividendDate	1693440000	 (2023-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2439.TW
+underlyingSymbol	2439.TW
+shortName	MERRY ELECTRONICS CO
+longName	Merry Electronics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ec05c157-19bf-387a-8ef4-ab54383fed69
+messageBoardId	finmb_9844249
+gmtOffSetMilliseconds	28800000
+currentPrice	125.0
+targetHighPrice	103.0
+targetLowPrice	85.0
+targetMeanPrice	94.0
+targetMedianPrice	94.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	9607705600
+totalCashPerShare	44.734
+ebitda	1874278016
+totalDebt	5471791104
+quickRatio	1.001
+currentRatio	1.286
+totalRevenue	37912948736
+debtToEquity	41.294
+revenuePerShare	176.988
+returnOnAssets	0.02465
+returnOnEquity	0.13942
+freeCashflow	2204029184
+operatingCashflow	4133239040
+earningsGrowth	4.924
+revenueGrowth	0.171
+grossMargins	0.13016
+ebitdaMargins	0.049439996
+operatingMargins	0.02158
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     974134.083623   -35733057.335534    -1277534.348014      -39395.182959
+Tax Rate For Calcs                                                   0.247997           0.208865           0.183977           0.225115
+Normalized EBITDA                                                2805676000.0       3089520000.0       2399533000.0       2373544000.0
+Total Unusual Items                                                 3928000.0       -171082000.0         -6944000.0          -175000.0
+Total Unusual Items Excluding Goodwill                              3928000.0       -171082000.0         -6944000.0          -175000.0
+Net Income From Continuing Operation Net Minority Interest       1320318000.0       1455398000.0       1128485000.0       1321943000.0
+Reconciled Depreciation                                           823612000.0        763777000.0        726087000.0        609847000.0
+Reconciled Cost Of Revenue                                      31948416000.0      30846138000.0      31807621000.0      30126271000.0
+EBITDA                                                           2809604000.0       2918438000.0       2392589000.0       2373369000.0
+EBIT                                                             1985992000.0       2154661000.0       1666502000.0       1763522000.0
+Net Interest Income                                                36308000.0        -39369000.0        -43337000.0        -16905000.0
+Interest Expense                                                  100497000.0        105635000.0         84329000.0         60817000.0
+Interest Income                                                   136805000.0         66266000.0         40992000.0         43912000.0
+Normalized Income                                           1317364134.083623  1590746942.664466  1134151465.651986  1322078604.817041
+Net Income From Continuing And Discontinued Operation            1320318000.0       1455398000.0       1128485000.0       1321943000.0
+Total Expenses                                                  35556200000.0      34338424000.0      35077218000.0      33303902000.0
+Diluted Average Shares                                            244827000.0        243579000.0        238013000.0        224326000.0
+Basic Average Shares                                              214371000.0        213834000.0        208855000.0        206892000.0
+Diluted EPS                                                              5.49               6.07               4.88               6.01
+Basic EPS                                                                6.16               6.81                5.4               6.39
+Diluted NI Availto Com Stockholders                              1320318000.0       1455398000.0       1128485000.0       1321943000.0
+Net Income Common Stockholders                                   1320318000.0       1455398000.0       1128485000.0       1321943000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       1320318000.0       1455398000.0       1128485000.0       1321943000.0
+Minority Interests                                                -97579000.0       -165658000.0       -162605000.0          2543000.0
+Net Income Including Noncontrolling Interests                    1417897000.0       1621056000.0       1291090000.0       1319400000.0
+Net Income Continuous Operations                                 1417897000.0       1621056000.0       1291090000.0       1319400000.0
+Tax Provision                                                     467598000.0        427970000.0        291083000.0        383305000.0
+Pretax Income                                                    1885495000.0       2049026000.0       1582173000.0       1702705000.0
+Other Non Operating Income Expenses                               451610000.0        482439000.0        272778000.0         96736000.0
+Special Income Charges                                            -42479000.0       -161153000.0         -6944000.0          -175000.0
+Other Special Charges                                             -19291000.0         12241000.0                NaN                NaN
+Write Off                                                          61770000.0        148912000.0          6944000.0           175000.0
+Net Non Operating Interest Income Expense                          36308000.0        -39369000.0        -43337000.0        -16905000.0
+Interest Expense Non Operating                                    100497000.0        105635000.0         84329000.0         60817000.0
+Interest Income Non Operating                                     136805000.0         66266000.0         40992000.0         43912000.0
+Operating Income                                                 1134183000.0       1060266000.0       1105501000.0       1140917000.0
+Operating Expense                                                3607784000.0       3492286000.0       3269597000.0       3177631000.0
+Research And Development                                         1964625000.0       1800730000.0       1699476000.0       1704636000.0
+Selling General And Administration                               1643159000.0       1691556000.0       1570121000.0       1472995000.0
+Selling And Marketing Expense                                     456917000.0        467211000.0        409076000.0        344395000.0
+General And Administrative Expense                               1186242000.0       1224345000.0       1161045000.0       1128600000.0
+Gross Profit                                                     4741967000.0       4552552000.0       4375098000.0       4318548000.0
+Cost Of Revenue                                                 31948416000.0      30846138000.0      31807621000.0      30126271000.0
+Total Revenue                                                   36690383000.0      35398690000.0      36182719000.0      34444819000.0
+Operating Revenue                                               36690383000.0      35398690000.0      36182719000.0      34444819000.0

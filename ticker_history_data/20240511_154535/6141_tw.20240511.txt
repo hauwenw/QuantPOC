@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No.33, Ta Yeou Street
+address2	Lu Chu Area
+city	Taoyuan City
+country	Taiwan
+phone	886 3 354 3961
+fax	886 3 354 3963
+website	https://www.plotech.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Plotech Co.,Ltd engages in the manufacture and sale of printed circuit boards (PCB's) in Taiwan and China. It offers PCB's of various layers for applications, such as automotive, telecommunication, Bluetooth, LCD displays, storage, connectors, scanners, industrial PC's, medical equipment, computers, wireless, power supply, dram modules, probe cards, load boards, burn-in board power supply, GPS, wireless, research and development prototypes, digital cameras and video products, IA products, PDAs, cellular phones, etc. The company was founded in 1990 and is headquartered in Taoyuan City, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	18.4
+open	18.5
+dayLow	18.15
+dayHigh	18.5
+regularMarketPreviousClose	18.4
+regularMarketOpen	18.5
+regularMarketDayLow	18.15
+regularMarketDayHigh	18.5
+exDividendDate	1657670400	 (2022-07-13 08:00:00)
+fiveYearAvgDividendYield	2.65
+beta	0.541
+forwardPE	7.137255
+volume	313738
+regularMarketVolume	313738
+averageVolume	1212447
+averageVolume10days	765389
+averageDailyVolume10Day	765389
+bid	18.2
+ask	18.25
+marketCap	2063042944
+fiftyTwoWeekLow	15.5
+fiftyTwoWeekHigh	22.6
+priceToSalesTrailing12Months	0.8026964
+fiftyDayAverage	18.704
+twoHundredDayAverage	17.266
+currency	TWD
+enterpriseValue	5087946752
+profitMargins	-0.16597
+sharesOutstanding	113354000
+heldPercentInsiders	0.50076
+heldPercentInstitutions	0.01174
+impliedSharesOutstanding	117000000
+bookValue	15.863
+priceToBook	1.147324
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-426553984
+trailingEps	-3.76
+forwardEps	2.55
+lastSplitFactor	900:1000
+lastSplitDate	1639612800	 (2021-12-16 08:00:00)
+enterpriseToRevenue	1.98
+enterpriseToEbitda	-19.882
+52WeekChange	0.034090877
+SandP52WeekChange	0.26265144
+lastDividendValue	1.013204
+lastDividendDate	1657670400	 (2022-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6141.TW
+underlyingSymbol	6141.TW
+shortName	PLOTECH CO LTD
+longName	Plotech Co.,Ltd
+firstTradeDateEpochUtc	1066784400	 (2003-10-22 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9f272bce-a063-3a70-9a24-6971420ee646
+messageBoardId	finmb_2482641
+gmtOffSetMilliseconds	28800000
+currentPrice	18.2
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	455680992
+totalCashPerShare	4.02
+ebitda	-255908992
+totalDebt	3453755904
+quickRatio	0.38
+currentRatio	0.598
+totalRevenue	2570140928
+debtToEquity	189.25
+revenuePerShare	22.674
+returnOnAssets	-0.04844
+returnOnEquity	-0.21243
+freeCashflow	-1431045632
+operatingCashflow	-273516992
+revenueGrowth	0.284
+grossMargins	-0.05278
+ebitdaMargins	-0.09957
+operatingMargins	-0.35776
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -2786376.507247   -3037443.37875    -919100.823592    -398243.71126
+Tax Rate For Calcs                                                  0.180512         0.105109          0.226603         0.126146
+Normalized EBITDA                                               -167421000.0      214256000.0       825350000.0      665329000.0
+Total Unusual Items                                              -15436000.0      -28898000.0        -4056000.0       -3157000.0
+Total Unusual Items Excluding Goodwill                           -15436000.0      -28898000.0        -4056000.0       -3157000.0
+Net Income From Continuing Operation Net Minority Interest      -426554000.0     -147305000.0       364608000.0      345226000.0
+Reconciled Depreciation                                          296815000.0      292135000.0       273326000.0      245403000.0
+Reconciled Cost Of Revenue                                      2705797000.0     2642404000.0      2894705000.0     2601885000.0
+EBITDA                                                          -182857000.0      185358000.0       821294000.0      662172000.0
+EBIT                                                            -479672000.0     -106777000.0       547968000.0      416769000.0
+Net Interest Income                                              -66656000.0      -61850000.0       -32774000.0      -14626000.0
+Interest Expense                                                  84519000.0       75681000.0        47599000.0       21022000.0
+Interest Income                                                   17863000.0       13831000.0        14825000.0        6396000.0
+Normalized Income                                          -413904376.507247 -121444443.37875  367744899.176408  347984756.28874
+Net Income From Continuing And Discontinued Operation           -426554000.0     -147305000.0       364608000.0      345226000.0
+Total Expenses                                                  3102333000.0     3152404000.0      3294663000.0     2947686000.0
+Diluted Average Shares                                                   NaN      114245000.0       127100000.0      116465000.0
+Basic Average Shares                                                     NaN      114245000.0       126583000.0      116268000.0
+Diluted EPS                                                              NaN            -1.29              2.87             2.67
+Basic EPS                                                                NaN            -1.29              2.88             2.67
+Diluted NI Availto Com Stockholders                             -426554000.0     -147305000.0       364608000.0      345226000.0
+Net Income Common Stockholders                                  -426554000.0     -147305000.0       364608000.0      345226000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0              0.0
+Net Income                                                      -426554000.0     -147305000.0       364608000.0      345226000.0
+Minority Interests                                                35794000.0       15975000.0       -22376000.0        -599000.0
+Net Income Including Noncontrolling Interests                   -462348000.0     -163280000.0       386984000.0      345825000.0
+Net Income Continuous Operations                                -462348000.0     -163280000.0       386984000.0      345825000.0
+Tax Provision                                                   -101843000.0      -19178000.0       113385000.0       49922000.0
+Pretax Income                                                   -564191000.0     -182458000.0       500369000.0      395747000.0
+Other Non Operating Income Expenses                               50093000.0       -7371000.0       132569000.0       93788000.0
+Special Income Charges                                           -15436000.0      -28898000.0        -4056000.0       -3157000.0
+Write Off                                                         15436000.0       28898000.0         4056000.0        3157000.0
+Net Non Operating Interest Income Expense                        -66656000.0      -61850000.0       -32774000.0      -14626000.0
+Interest Expense Non Operating                                    84519000.0       75681000.0        47599000.0       21022000.0
+Interest Income Non Operating                                     17863000.0       13831000.0        14825000.0        6396000.0
+Operating Income                                                -532192000.0      -84339000.0       404630000.0      319742000.0
+Operating Expense                                                396536000.0      510000000.0       399958000.0      345801000.0
+Research And Development                                         106065000.0      134680000.0        87567000.0       78627000.0
+Selling General And Administration                               290471000.0      375320000.0       312391000.0      267174000.0
+Selling And Marketing Expense                                     91764000.0      112370000.0       120453000.0      129305000.0
+General And Administrative Expense                               198707000.0      262950000.0       191938000.0      137869000.0
+Gross Profit                                                    -135656000.0      425661000.0       804588000.0      665543000.0
+Cost Of Revenue                                                 2705797000.0     2642404000.0      2894705000.0     2601885000.0
+Total Revenue                                                   2570141000.0     3068065000.0      3699293000.0     3267428000.0
+Operating Revenue                                               2570141000.0     3068065000.0      3699293000.0     3267428000.0

@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 229, Zhongxing Street
+address2	5th floor West District
+city	Taichung
+zip	403022
+country	Taiwan
+phone	886 4 2321 5616
+fax	886 4 2310 9292
+website	https://www.sunko.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Sunko Ink Co., Ltd. engages in the manufacture, processing, and trading of chemicals and industrial materials in Taiwan, the United States, Asia, Europe, and internationally. The company offers flame retardants, elastomers, agrochemicals, electronic chemicals, polymer additives, polyurethane resins and top coating materials, curing agents, antioxidants, UV absorbers, PU based surface treating agents, thermoplastic polyurethane, thermoplastic vulcanizate, and polymer-TPU and polymer-TPV products. It also engages in the wholesale of chemical solvents, industrial additives, and other chemical raw materials or with derivatives. The company's products are used in various applications, such as moldings, extrusion moldings, and thin films. The company was incorporated in 1974 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jun-Pin  Zhang', 'title': 'General Manager', 'fiscalYear': 2021, 'totalPay': 1873000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ting-Yu  Wang', 'title': 'Supervisor of Finance Office', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sheng-Hui  Wang', 'title': 'Manager of Accounting Office', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	15.6
+open	15.65
+dayLow	15.2
+dayHigh	15.85
+regularMarketPreviousClose	15.6
+regularMarketOpen	15.65
+regularMarketDayLow	15.2
+regularMarketDayHigh	15.85
+dividendRate	0.1
+dividendYield	0.0064
+exDividendDate	1689897600	 (2023-07-21 08:00:00)
+beta	0.514
+volume	5796773
+regularMarketVolume	5796773
+averageVolume	2531777
+averageVolume10days	3923915
+averageDailyVolume10Day	3923915
+bid	15.7
+ask	15.75
+marketCap	2902678784
+fiftyTwoWeekLow	12.9
+fiftyTwoWeekHigh	19.5
+priceToSalesTrailing12Months	1.3280493
+fiftyDayAverage	14.851
+twoHundredDayAverage	14.839
+currency	TWD
+enterpriseValue	3546823680
+profitMargins	-0.12718001
+sharesOutstanding	184884000
+heldPercentInsiders	0.28164
+heldPercentInstitutions	0.00813
+impliedSharesOutstanding	185532992
+bookValue	11.4
+priceToBook	1.377193
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-277967008
+trailingEps	-1.64
+lastSplitFactor	850:1000
+lastSplitDate	1611792000	 (2021-01-28 08:00:00)
+enterpriseToRevenue	1.623
+enterpriseToEbitda	-99.01
+52WeekChange	0.03289473
+SandP52WeekChange	0.26265144
+lastDividendValue	0.1
+lastDividendDate	1689897600	 (2023-07-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1721.TW
+underlyingSymbol	1721.TW
+shortName	SUNKO INK CO
+longName	Sunko Ink Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9348dea3-0e1c-33d3-9acd-54ca96b27595
+messageBoardId	finmb_11481800
+gmtOffSetMilliseconds	28800000
+currentPrice	15.7
+recommendationKey	none
+totalCash	519747008
+totalCashPerShare	2.811
+ebitda	-35823000
+totalDebt	1163891968
+quickRatio	1.237
+currentRatio	2.446
+totalRevenue	2185670912
+debtToEquity	55.221
+revenuePerShare	11.822
+returnOnAssets	-0.041100003
+returnOnEquity	-0.123380005
+freeCashflow	90087376
+operatingCashflow	119733000
+revenueGrowth	-0.166
+grossMargins	-0.02849
+ebitdaMargins	-0.016390001
+operatingMargins	-0.017819999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -10744.639541    432516.453996     -167800.0       98000.0
+Tax Rate For Calcs                                                  0.061398         0.141902           0.2           0.2
+Normalized EBITDA                                                -14161000.0      351573000.0   231978000.0   768329000.0
+Total Unusual Items                                                -175000.0        3048000.0     -839000.0      490000.0
+Total Unusual Items Excluding Goodwill                             -175000.0        3048000.0     -839000.0      490000.0
+Net Income From Continuing Operation Net Minority Interest      -277967000.0       61330000.0   -69958000.0   524404000.0
+Reconciled Depreciation                                          261751000.0      266019000.0   272736000.0   269374000.0
+Reconciled Cost Of Revenue                                      2247941000.0     2752806000.0  2722534000.0  2613246000.0
+EBITDA                                                           -14336000.0      354621000.0   231139000.0   768819000.0
+EBIT                                                            -276087000.0       88602000.0   -41597000.0   499445000.0
+Net Interest Income                                              -16994000.0      -15834000.0   -10604000.0   -13761000.0
+Interest Expense                                                  20063000.0       17130000.0    12244000.0    16151000.0
+Interest Income                                                    3069000.0        1296000.0     1640000.0     2390000.0
+Normalized Income                                          -277802744.639541  58714516.453996   -69286800.0   524012000.0
+Net Income From Continuing And Discontinued Operation           -277967000.0       61330000.0   -69958000.0   524404000.0
+Total Expenses                                                  2445530000.0     2979040000.0  2945750000.0  2996846000.0
+Diluted Average Shares                                                   NaN      185026000.0   184490000.0   217144000.0
+Basic Average Shares                                                     NaN      184884000.0   184490000.0   215780000.0
+Diluted EPS                                                              NaN             0.33         -0.38          2.42
+Basic EPS                                                                NaN             0.33         -0.38          2.43
+Diluted NI Availto Com Stockholders                             -277967000.0       61330000.0   -69958000.0   524404000.0
+Net Income Common Stockholders                                  -277967000.0       61330000.0   -69958000.0   524404000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0           0.0           0.0
+Net Income                                                      -277967000.0       61330000.0   -69958000.0   524404000.0
+Minority Interests                                                       0.0              0.0       58000.0       98000.0
+Net Income Including Noncontrolling Interests                   -277967000.0       61330000.0   -70016000.0   524306000.0
+Net Income Continuous Operations                                -277967000.0       61330000.0   -70016000.0   524306000.0
+Tax Provision                                                    -18183000.0       10142000.0    16175000.0   -41012000.0
+Pretax Income                                                   -296150000.0       71472000.0   -53841000.0   483294000.0
+Other Non Operating Income Expenses                              -19072000.0       60507000.0    55052000.0   744798000.0
+Special Income Charges                                             -175000.0        3048000.0     -839000.0      490000.0
+Write Off                                                           175000.0       -3048000.0      839000.0     -490000.0
+Net Non Operating Interest Income Expense                        -16994000.0      -15834000.0   -10604000.0   -13761000.0
+Interest Expense Non Operating                                    20063000.0       17130000.0    12244000.0    16151000.0
+Interest Income Non Operating                                      3069000.0        1296000.0     1640000.0     2390000.0
+Operating Income                                                -259859000.0       29514000.0   -95112000.0  -244245000.0
+Operating Expense                                                197589000.0      226234000.0   223216000.0   383600000.0
+Research And Development                                          47468000.0       49847000.0    51299000.0    54464000.0
+Selling General And Administration                               150121000.0      176387000.0   171917000.0   329136000.0
+Selling And Marketing Expense                                     59332000.0       79042000.0    63079000.0    69128000.0
+General And Administrative Expense                                90789000.0       97345000.0   108838000.0   260008000.0
+Gross Profit                                                     -62270000.0      255748000.0   128104000.0   139355000.0
+Cost Of Revenue                                                 2247941000.0     2752806000.0  2722534000.0  2613246000.0
+Total Revenue                                                   2185671000.0     3008554000.0  2850638000.0  2752601000.0
+Operating Revenue                                               2185671000.0     3008554000.0  2850638000.0  2752601000.0

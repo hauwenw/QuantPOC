@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	Jinling Road
+address2	No. 402, Section 2 Jinling Road Pingzhen District
+city	Taoyuan City
+zip	324
+country	Taiwan
+phone	886 3 457 2121
+fax	886 3 457 2128
+website	https://www.grapeking.com.tw
+industry	Drug Manufacturers - Specialty & Generic
+industryKey	drug-manufacturers-specialty-generic
+industryDisp	Drug Manufacturers - Specialty & Generic
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Grape King Bio Ltd produces and sells pharmaceutical preparations, patent medicines, liquid tonics, drinks, and healthy foods in Taiwan, China, and internationally. It operates through Multi-Level Marketing, Distribution, and Original Design Manufacturer/Original Equipment Manufacturer segments. The company provides kampo maintenance, health regulation, female beauty, school-age health care, and energy drink products, as well as food inspection services. Grape King Bio Ltd was founded in 1969 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sheng-Lin  Tseng', 'title': 'Chairman & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nick  Hung', 'title': 'Accounting Supervisor, CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bing-Jyun  Cuei', 'title': 'Chief Legal Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	159.0
+open	159.5
+dayLow	159.0
+dayHigh	160.5
+regularMarketPreviousClose	159.0
+regularMarketOpen	159.5
+regularMarketDayLow	159.0
+regularMarketDayHigh	160.5
+dividendRate	6.9
+dividendYield	0.043
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.70839995
+fiveYearAvgDividendYield	3.87
+beta	0.421
+trailingPE	16.47844
+forwardPE	14.116096
+volume	254972
+regularMarketVolume	254972
+averageVolume	298959
+averageVolume10days	186733
+averageDailyVolume10Day	186733
+bid	160.0
+ask	160.5
+marketCap	23775987712
+fiftyTwoWeekLow	147.5
+fiftyTwoWeekHigh	189.0
+priceToSalesTrailing12Months	2.2355385
+fiftyDayAverage	157.21
+twoHundredDayAverage	156.01
+trailingAnnualDividendRate	6.9
+trailingAnnualDividendYield	0.043396227
+currency	TWD
+enterpriseValue	20650633216
+profitMargins	0.13659
+floatShares	113935129
+sharesOutstanding	148136992
+heldPercentInsiders	0.21408
+heldPercentInstitutions	0.18187
+impliedSharesOutstanding	149556992
+bookValue	67.359
+priceToBook	2.382755
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.007
+netIncomeToCommon	1452728064
+trailingEps	9.74
+forwardEps	11.37
+pegRatio	1.79
+lastSplitFactor	102.05:100
+lastSplitDate	1126742400	 (2005-09-15 08:00:00)
+enterpriseToRevenue	1.942
+enterpriseToEbitda	7.158
+52WeekChange	-0.08285713
+SandP52WeekChange	0.26265144
+lastDividendValue	6.9
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1707.TW
+underlyingSymbol	1707.TW
+shortName	GRAPE KING BIO LTD
+longName	Grape King Bio Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f5766404-2153-3462-a290-e14857e1c551
+messageBoardId	finmb_9709002
+gmtOffSetMilliseconds	28800000
+currentPrice	160.5
+targetHighPrice	168.0
+targetLowPrice	161.0
+targetMeanPrice	165.0
+targetMedianPrice	166.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	4969910784
+totalCashPerShare	33.549
+ebitda	2884968960
+totalDebt	192920000
+quickRatio	1.449
+currentRatio	1.656
+totalRevenue	10635463680
+debtToEquity	1.659
+revenuePerShare	71.795
+returnOnAssets	0.102110006
+returnOnEquity	0.18809
+freeCashflow	1285106688
+operatingCashflow	2519401984
+earningsGrowth	-0.01
+revenueGrowth	0.024
+grossMargins	0.8026
+ebitdaMargins	0.27126
+operatingMargins	0.25694
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0     -110208.302104       10766.185629
+Tax Rate For Calcs                                               0.195108       0.192788           0.193348           0.203136
+Normalized EBITDA                                            3122921000.0   3139883000.0       2846940000.0       2807483000.0
+Total Unusual Items                                                   NaN     -1096000.0          -570000.0            53000.0
+Total Unusual Items Excluding Goodwill                                NaN     -1096000.0          -570000.0            53000.0
+Net Income From Continuing Operation Net Minority Interest   1452728000.0   1457112000.0       1300423000.0       1272025000.0
+Reconciled Depreciation                                       459763000.0    449638000.0        427453000.0        415005000.0
+Reconciled Cost Of Revenue                                   2099450000.0   1909186000.0       1942319000.0       1631457000.0
+EBITDA                                                       3122921000.0   3139883000.0       2846370000.0       2807536000.0
+EBIT                                                         2663158000.0   2690245000.0       2418917000.0       2392531000.0
+Net Interest Income                                            45066000.0     17556000.0          2276000.0         -9708000.0
+Interest Expense                                                2538000.0      2367000.0          4011000.0         14341000.0
+Interest Income                                                47604000.0     19923000.0          6287000.0          4633000.0
+Normalized Income                                            1452728000.0   1457112000.0  1300882791.697896  1271982766.185629
+Net Income From Continuing And Discontinued Operation        1452728000.0   1457112000.0       1300423000.0       1272025000.0
+Total Expenses                                               8136323000.0   7838398000.0       7486092000.0       6863466000.0
+Diluted Average Shares                                                NaN    149062000.0        148400000.0        136887000.0
+Basic Average Shares                                                  NaN    148137000.0        147553000.0        136132000.0
+Diluted EPS                                                           NaN           9.78               8.76               9.29
+Basic EPS                                                             NaN           9.84               8.81               9.34
+Diluted NI Availto Com Stockholders                          1452728000.0   1457112000.0       1300423000.0       1272025000.0
+Net Income Common Stockholders                               1452728000.0   1457112000.0       1300423000.0       1272025000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                0.0                0.0
+Net Income                                                   1452728000.0   1457112000.0       1300423000.0       1272025000.0
+Minority Interests                                           -688783000.0   -712575000.0       -647566000.0       -623070000.0
+Net Income Including Noncontrolling Interests                2141511000.0   2169687000.0       1947989000.0       1895095000.0
+Net Income Continuous Operations                             2141511000.0   2169687000.0       1947989000.0       1895095000.0
+Tax Provision                                                 519109000.0    518191000.0        466917000.0        483095000.0
+Pretax Income                                                2660620000.0   2687878000.0       2414906000.0       2378190000.0
+Other Non Operating Income Expenses                            96543000.0    106667000.0         98816000.0         81435000.0
+Special Income Charges                                                NaN     -1096000.0          -570000.0            53000.0
+Other Special Charges                                                 NaN      1096000.0           570000.0           -53000.0
+Net Non Operating Interest Income Expense                      45066000.0     17556000.0          2276000.0         -9708000.0
+Interest Expense Non Operating                                  2538000.0      2367000.0          4011000.0         14341000.0
+Interest Income Non Operating                                  47604000.0     19923000.0          6287000.0          4633000.0
+Operating Income                                             2499141000.0   2552833000.0       2312154000.0       2304729000.0
+Operating Expense                                            6036873000.0   5929212000.0       5543773000.0       5232009000.0
+Other Operating Expenses                                              NaN            NaN           570000.0           -53000.0
+Research And Development                                      289545000.0    289884000.0        292228000.0        252857000.0
+Selling General And Administration                           5747328000.0   5639328000.0       5251545000.0       4979152000.0
+Selling And Marketing Expense                                5045611000.0   4999836000.0       4650569000.0       4424840000.0
+General And Administrative Expense                            701717000.0    639492000.0        600976000.0        554312000.0
+Gross Profit                                                 8536014000.0   8482045000.0       7855927000.0       7536738000.0
+Cost Of Revenue                                              2099450000.0   1909186000.0       1942319000.0       1631457000.0
+Total Revenue                                               10635464000.0  10391231000.0       9798246000.0       9168195000.0
+Operating Revenue                                           10635464000.0  10391231000.0       9798246000.0       9168195000.0

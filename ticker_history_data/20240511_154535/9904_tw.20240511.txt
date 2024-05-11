@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 600, Taiwan Boulevard
+address2	Sec. 4 Xitun District
+city	Taichung
+zip	40764
+country	Taiwan
+phone	886 4 2461 5678
+fax	886 4 2460 6668
+website	https://www.pouchen.com
+industry	Footwear & Accessories
+industryKey	footwear-accessories
+industryDisp	Footwear & Accessories
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Pou Chen Corporation designs, manufactures, and sells various shoes in Taiwan and internationally. It invests in footwear, electronic, and peripheral products. It manufactures and sells of athletic and casual footwear and sports apparel; and engages in retail of sporting goods and brand licensing business. The company is also involved in entertainment and resort operations; property and casualty insurance agency business; import and export of shoe related materials; operating agency of land demarcation; development, rental, and sale of real estate; and construction activities. The company was founded in 1969 and is headquartered in Taichung, Taiwan.
+fullTimeEmployees	268690
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Lu Min  Chan', 'age': 68, 'title': 'Chairman & President of Administration Management Department', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Chu  Lu', 'age': 69, 'title': 'President & Director', 'yearBorn': 1954, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiu-Jung  Tsai', 'title': 'Founder and Chairman of Pou Chen Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi Jui  Tsai', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Chi  Wu', 'title': 'Accounting Officer & Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yue-Ming  Ho', 'age': 52, 'title': 'VP & Director', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui-Yao  Chiu', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Hung  Shih', 'age': 57, 'title': 'Vice President', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Kun  Ho', 'title': 'Company Secretary & Executive Senior Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.5
+open	36.5
+dayLow	36.5
+dayHigh	37.2
+regularMarketPreviousClose	36.5
+regularMarketOpen	36.5
+regularMarketDayLow	36.5
+regularMarketDayHigh	37.2
+dividendRate	1.3
+dividendYield	0.0349
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.36110002
+fiveYearAvgDividendYield	3.86
+beta	0.735
+trailingPE	10.333334
+forwardPE	8.248337
+volume	12033261
+regularMarketVolume	12033261
+averageVolume	13248050
+averageVolume10days	12334091
+averageDailyVolume10Day	12334091
+bid	37.15
+ask	37.2
+marketCap	109620584448
+fiftyTwoWeekLow	28.5
+fiftyTwoWeekHigh	37.35
+priceToSalesTrailing12Months	0.44446716
+fiftyDayAverage	34.42
+twoHundredDayAverage	31.1955
+currency	TWD
+enterpriseValue	191694258176
+profitMargins	0.043070003
+floatShares	2177086236
+sharesOutstanding	2946789888
+heldPercentInsiders	0.23834999
+heldPercentInstitutions	0.22333999
+impliedSharesOutstanding	2950870016
+bookValue	42.823
+priceToBook	0.86869204
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	10623607808
+trailingEps	3.6
+forwardEps	4.51
+lastSplitFactor	1020:1000
+lastSplitDate	1276732800	 (2010-06-17 08:00:00)
+enterpriseToRevenue	0.777
+enterpriseToEbitda	10.004
+52WeekChange	0.18471336
+SandP52WeekChange	0.26265144
+lastDividendValue	1.3
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9904.TW
+underlyingSymbol	9904.TW
+shortName	POU CHEN
+longName	Pou Chen Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a5354465-1b3b-3d7e-ac66-28d8913ee087
+messageBoardId	finmb_882518
+gmtOffSetMilliseconds	28800000
+currentPrice	37.2
+targetHighPrice	39.0
+targetLowPrice	37.0
+targetMeanPrice	38.33
+targetMedianPrice	39.0
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	3
+totalCash	72514600960
+totalCashPerShare	24.608
+ebitda	19161393152
+totalDebt	78114463744
+quickRatio	1.242
+currentRatio	1.858
+totalRevenue	246633709568
+debtToEquity	38.544
+revenuePerShare	83.696
+returnOnAssets	0.01951
+returnOnEquity	0.08302
+freeCashflow	20983945216
+operatingCashflow	31817820160
+revenueGrowth	-0.032
+grossMargins	0.24778
+ebitdaMargins	0.07769
+operatingMargins	0.08003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31         2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -14426845.562425    -2884441.528031      -665494.556015     1100878.483411
+Tax Rate For Calcs                                                    0.179445           0.211935            0.032249           0.342526
+Normalized EBITDA                                                36053220000.0      39249464000.0       35822830000.0      24976528000.0
+Total Unusual Items                                                -80397000.0        -13610000.0         -20636000.0          3214000.0
+Total Unusual Items Excluding Goodwill                             -80397000.0        -13610000.0         -20636000.0          3214000.0
+Net Income From Continuing Operation Net Minority Interest       10623608000.0      12644855000.0       14439307000.0       4840184000.0
+Reconciled Depreciation                                          13218180000.0      15272054000.0       16776771000.0      16611119000.0
+Reconciled Cost Of Revenue                                      185522719000.0     202890708000.0      181661384000.0     195203206000.0
+EBITDA                                                           35972823000.0      39235854000.0       35802194000.0      24979742000.0
+EBIT                                                             22754643000.0      23963800000.0       19025423000.0       8368623000.0
+Net Interest Income                                              -1507518000.0      -1593972000.0       -1134192000.0      -1767662000.0
+Interest Expense                                                  3287962000.0       2532223000.0        1868689000.0       2407297000.0
+Interest Income                                                   1780444000.0        938251000.0         734497000.0        639635000.0
+Normalized Income                                           10689578154.437574  12655580558.47197  14459277505.443985  4838070878.483411
+Net Income From Continuing And Discontinued Operation            10623608000.0      12644855000.0       14439307000.0       4840184000.0
+Total Expenses                                                  236418121000.0     256900730000.0      237408700000.0     252065389000.0
+Diluted Average Shares                                                     NaN       2954405374.0        2954409000.0       2951930000.0
+Basic Average Shares                                                       NaN       2947518648.0        2946787000.0       2946787000.0
+Diluted EPS                                                                NaN               4.28                4.89           1.639668
+Basic EPS                                                                  NaN               4.29                 4.9               1.64
+Diluted NI Availto Com Stockholders                              10623608000.0      12644855000.0       14439307000.0       4840184000.0
+Net Income Common Stockholders                                   10623608000.0      12644855000.0       14439307000.0       4840184000.0
+Otherunder Preferred Stock Dividend                                        0.0                0.0                 0.0                0.0
+Net Income                                                       10623608000.0      12644855000.0       14439307000.0       4840184000.0
+Minority Interests                                               -5349873000.0      -4244611000.0       -2164136000.0        920767000.0
+Net Income Including Noncontrolling Interests                    15973481000.0      16889466000.0       16603443000.0       3919417000.0
+Net Income Continuous Operations                                 15973481000.0      16889466000.0       16603443000.0       3919417000.0
+Tax Provision                                                     3493200000.0       4542111000.0         553291000.0       2041909000.0
+Pretax Income                                                    19466681000.0      21431577000.0       17156734000.0       5961326000.0
+Other Non Operating Income Expenses                               5009893000.0       4902320000.0        4858563000.0       1939159000.0
+Net Non Operating Interest Income Expense                        -1507518000.0      -1593972000.0       -1134192000.0      -1767662000.0
+Interest Expense Non Operating                                    3287962000.0       2532223000.0        1868689000.0       2407297000.0
+Interest Income Non Operating                                     1780444000.0        938251000.0         734497000.0        639635000.0
+Operating Income                                                 10215593000.0      10596070000.0        2475709000.0      -2111078000.0
+Operating Expense                                                50895402000.0      54010022000.0       55747316000.0      56862183000.0
+Research And Development                                          4910311000.0       5482964000.0        5093278000.0       5567161000.0
+Selling General And Administration                               45985091000.0      48527058000.0       50654038000.0      51295022000.0
+Selling And Marketing Expense                                    27736106000.0      29287359000.0       33366556000.0      31835128000.0
+General And Administrative Expense                               18248985000.0      19239699000.0       17287482000.0      19459894000.0
+Gross Profit                                                     61110995000.0      64606092000.0       58223025000.0      54751105000.0
+Cost Of Revenue                                                 185522719000.0     202890708000.0      181661384000.0     195203206000.0
+Total Revenue                                                   246633714000.0     267496800000.0      239884409000.0     249954311000.0
+Operating Revenue                                               246633714000.0     267496800000.0      239884409000.0     249954311000.0

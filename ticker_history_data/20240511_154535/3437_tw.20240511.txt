@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	Hsinchu Industrial Park
+address2	No. 13, Gongye 5th Road Hukou Township
+city	Hsinchu City
+zip	303
+country	Taiwan
+phone	886 3 597 6988
+fax	886 3 597 2388
+website	https://www.aot.com.tw
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Advanced Optoelectronic Technology Inc. focuses on the development of LED packaging technology in Taiwan. It offers surface mount light-emitting diodes, light module applications, sensing components, and automotive lighting products. The company offers television/monitor, mobile device/pads/notebook, industrial control/automotive backlight products for backlight application. It also provides wearable and mobile phone products for sensor application. In addition, the company offers vehicle applications products comprising interior and exterior products; and UV application products. The company was formerly known as Advanced Development Optoelectronics Co., Ltd. and changed its name to Advanced Optoelectronic Technology Inc. in 2010. The company was incorporated in 1999 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jung-Hsi  Fang', 'title': 'Chairman & CEO', 'fiscalYear': 2022, 'totalPay': 4035000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Hsing  Yao', 'title': 'Director of Operation Management Center', 'fiscalYear': 2022, 'totalPay': 2356000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Ho  Chen', 'title': 'Division Head of GM Office', 'fiscalYear': 2022, 'totalPay': 2313000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Liang  Huang', 'title': 'General Manager', 'fiscalYear': 2022, 'totalPay': 3357000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsing-Wei  Ho', 'title': 'Director BU of Automotive', 'fiscalYear': 2022, 'totalPay': 2318000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhen Xun  Zheng', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	26.95
+open	26.95
+dayLow	26.25
+dayHigh	26.95
+regularMarketPreviousClose	26.95
+regularMarketOpen	26.95
+regularMarketDayLow	26.25
+regularMarketDayHigh	26.95
+exDividendDate	1663113600	 (2022-09-14 08:00:00)
+fiveYearAvgDividendYield	4.35
+beta	1.602
+volume	1125821
+regularMarketVolume	1125821
+averageVolume	3925345
+averageVolume10days	756632
+averageDailyVolume10Day	756632
+bid	26.45
+ask	26.5
+marketCap	3823294720
+fiftyTwoWeekLow	16.5
+fiftyTwoWeekHigh	40.0
+priceToSalesTrailing12Months	1.9381771
+fiftyDayAverage	29.523
+twoHundredDayAverage	25.014
+currency	TWD
+enterpriseValue	2587399680
+profitMargins	-0.051370002
+floatShares	140269379
+sharesOutstanding	144548000
+heldPercentInsiders	0.28658
+heldPercentInstitutions	0.03346
+impliedSharesOutstanding	145899008
+bookValue	17.153
+priceToBook	1.5420043
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-101333000
+trailingEps	-0.7
+enterpriseToRevenue	1.312
+enterpriseToEbitda	117.657
+52WeekChange	0.4375
+SandP52WeekChange	0.26265144
+lastDividendValue	0.45
+lastDividendDate	1663113600	 (2022-09-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3437.TW
+underlyingSymbol	3437.TW
+shortName	ADVANCED OPTOELECTRONIC TECHNOL
+longName	Advanced Optoelectronic Technology Inc.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9e92fce1-fc64-30e9-b465-5fd72661ded4
+messageBoardId	finmb_22071420
+gmtOffSetMilliseconds	28800000
+currentPrice	26.45
+recommendationKey	none
+totalCash	1388432000
+totalCashPerShare	9.605
+ebitda	21991000
+totalDebt	46243000
+quickRatio	2.897
+currentRatio	3.196
+totalRevenue	1972624000
+debtToEquity	1.788
+revenuePerShare	13.647
+returnOnAssets	-0.03151
+returnOnEquity	-0.057600003
+freeCashflow	-83611128
+operatingCashflow	953000
+revenueGrowth	0.206
+grossMargins	0.19396
+ebitdaMargins	0.01115
+operatingMargins	-0.15027
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                    -658400.0     1678200.0   -636114.523023    15058600.0
+Tax Rate For Calcs                                                   0.2           0.2         0.173992           0.2
+Normalized EBITDA                                             78455000.0    72081000.0      334696000.0    80252000.0
+Total Unusual Items                                           -3292000.0     8391000.0       -3656000.0    75293000.0
+Total Unusual Items Excluding Goodwill                        -3292000.0     8391000.0       -3656000.0    75293000.0
+Net Income From Continuing Operation Net Minority Interest  -101333000.0  -141204000.0       88311000.0  -110627000.0
+Reconciled Depreciation                                      207321000.0   217996000.0      221225000.0   247201000.0
+Reconciled Cost Of Revenue                                  1590023000.0  2103304000.0     3773988000.0  5097190000.0
+EBITDA                                                        75163000.0    80472000.0      331040000.0   155545000.0
+EBIT                                                        -132158000.0  -137524000.0      109815000.0   -91656000.0
+Net Interest Income                                           11898000.0     6255000.0        1270000.0    -2175000.0
+Interest Expense                                               6043000.0     3550000.0        2902000.0     6372000.0
+Interest Income                                               17941000.0     9805000.0        4172000.0     4197000.0
+Normalized Income                                            -98699400.0  -147916800.0  91330885.476977  -170861400.0
+Net Income From Continuing And Discontinued Operation       -101333000.0  -141204000.0       88311000.0  -110627000.0
+Total Expenses                                              2135094000.0  2591875000.0     4331335000.0  5660840000.0
+Diluted Average Shares                                               NaN   144548000.0      144729000.0   144548000.0
+Basic Average Shares                                                 NaN   144548000.0      144548000.0   144548000.0
+Diluted EPS                                                          NaN         -0.98             0.61         -0.77
+Basic EPS                                                            NaN         -0.98             0.61         -0.77
+Diluted NI Availto Com Stockholders                         -101333000.0  -141204000.0       88311000.0  -110627000.0
+Net Income Common Stockholders                              -101333000.0  -141204000.0       88311000.0  -110627000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0              0.0           0.0
+Net Income                                                  -101333000.0  -141204000.0       88311000.0  -110627000.0
+Minority Interests                                            46289000.0     1042000.0              0.0           NaN
+Net Income Including Noncontrolling Interests               -147622000.0  -142246000.0       88311000.0  -110627000.0
+Net Income Continuous Operations                            -147622000.0  -142246000.0       88311000.0  -110627000.0
+Tax Provision                                                  9421000.0     1172000.0       18602000.0    12599000.0
+Pretax Income                                               -138201000.0  -141074000.0      106913000.0   -98028000.0
+Other Non Operating Income Expenses                           11364000.0    22424000.0       51666000.0    28839000.0
+Special Income Charges                                        -3292000.0     8391000.0       -3656000.0    75293000.0
+Write Off                                                      3292000.0    -8391000.0        3656000.0   -75293000.0
+Net Non Operating Interest Income Expense                     11898000.0     6255000.0        1270000.0    -2175000.0
+Interest Expense Non Operating                                 6043000.0     3550000.0        2902000.0     6372000.0
+Interest Income Non Operating                                 17941000.0     9805000.0        4172000.0     4197000.0
+Operating Income                                            -162470000.0  -181203000.0       64774000.0  -181956000.0
+Operating Expense                                            545071000.0   488571000.0      557347000.0   563650000.0
+Research And Development                                     127531000.0    82078000.0       87962000.0   103510000.0
+Selling General And Administration                           417540000.0   406493000.0      469385000.0   460140000.0
+Selling And Marketing Expense                                190745000.0   189115000.0      264817000.0   263868000.0
+General And Administrative Expense                           226795000.0   217378000.0      204568000.0   196272000.0
+Gross Profit                                                 382601000.0   307368000.0      622121000.0   381694000.0
+Cost Of Revenue                                             1590023000.0  2103304000.0     3773988000.0  5097190000.0
+Total Revenue                                               1972624000.0  2410672000.0     4396109000.0  5478884000.0
+Operating Revenue                                           1972624000.0  2410672000.0     4396109000.0  5478884000.0

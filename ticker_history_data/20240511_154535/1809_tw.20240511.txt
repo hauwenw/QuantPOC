@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 136, Chung Hsing Road
+address2	Sector 4 Chutung
+city	Hsinchu City
+zip	31061
+country	Taiwan
+phone	886 3 582 4128
+fax	886 3 582 0543
+website	https://www.china-glaze.com.tw/Entaiwan/AboutUs.aspx
+industry	Building Products & Equipment
+industryKey	building-products-equipment
+industryDisp	Building Products & Equipment
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	China Glaze Co., Ltd. manufactures and sells ceramic glaze materials. The company offers frits, pigments, ameloblasts, zirconium silicates, print glazes, vetrosa glazes, and digital inks. It also provides building construction materials, such as crystal glass; ceramic tiles; and photoelectric and nano materials. The company was founded in 1973 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tsai  Xianchang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Liu-Kun  Chiang', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.35
+open	24.35
+dayLow	23.5
+dayHigh	24.8
+regularMarketPreviousClose	24.35
+regularMarketOpen	24.35
+regularMarketDayLow	23.5
+regularMarketDayHigh	24.8
+dividendRate	0.25
+dividendYield	0.0104
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	25.0
+fiveYearAvgDividendYield	1.65
+beta	1.085
+forwardPE	240.0
+volume	3539243
+regularMarketVolume	3539243
+averageVolume	5355708
+averageVolume10days	3215687
+averageDailyVolume10Day	3215687
+bid	23.95
+ask	24.0
+marketCap	4009008128
+fiftyTwoWeekLow	13.65
+fiftyTwoWeekHigh	36.2
+priceToSalesTrailing12Months	1.700745
+fiftyDayAverage	27.113
+twoHundredDayAverage	18.61175
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.008213553
+currency	TWD
+enterpriseValue	4674306560
+profitMargins	-0.0070599997
+floatShares	147863852
+sharesOutstanding	167042000
+heldPercentInsiders	0.31437
+heldPercentInstitutions	0.012180001
+impliedSharesOutstanding	173620992
+bookValue	17.242
+priceToBook	1.3919499
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-16649000
+trailingEps	-0.1
+forwardEps	0.1
+lastSplitFactor	0.88:1
+lastSplitDate	1475193600	 (2016-09-30 08:00:00)
+enterpriseToRevenue	1.983
+enterpriseToEbitda	-303.074
+52WeekChange	0.68421054
+SandP52WeekChange	0.26265144
+lastDividendValue	0.25
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1809.TW
+underlyingSymbol	1809.TW
+shortName	CHINA GLAZE CO
+longName	China Glaze Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	90811cef-11c2-3e99-9a24-30003f70b687
+messageBoardId	finmb_9846053
+gmtOffSetMilliseconds	28800000
+currentPrice	24.0
+recommendationKey	none
+totalCash	698947008
+totalCashPerShare	4.184
+ebitda	-15423000
+totalDebt	912744000
+quickRatio	1.405
+currentRatio	2.226
+totalRevenue	2357207040
+debtToEquity	27.396
+revenuePerShare	14.111
+returnOnAssets	-0.0098
+returnOnEquity	-0.016490001
+freeCashflow	10705250
+operatingCashflow	145850000
+revenueGrowth	0.03
+grossMargins	0.15815
+ebitdaMargins	-0.00654
+operatingMargins	-0.00607
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31       2022-12-31       2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                  -495008.75227  -4485063.411793   1689287.245594    -1251200.0
+Tax Rate For Calcs                                                0.089159          0.15383         0.183479           0.2
+Normalized EBITDA                                               50107000.0      161305000.0      118096000.0     4408000.0
+Total Unusual Items                                             -5552000.0      -29156000.0        9207000.0    -6256000.0
+Total Unusual Items Excluding Goodwill                          -5552000.0      -29156000.0        9207000.0    -6256000.0
+Net Income From Continuing Operation Net Minority Interest     -16649000.0       62787000.0       42099000.0   -60726000.0
+Reconciled Depreciation                                         80973000.0       83215000.0       83257000.0    83502000.0
+Reconciled Cost Of Revenue                                    1984413000.0     2063141000.0     1756069000.0  1527845000.0
+EBITDA                                                          44555000.0      132149000.0      127303000.0    -1848000.0
+EBIT                                                           -36418000.0       48934000.0       44046000.0   -85350000.0
+Net Interest Income                                             -4864000.0       -1582000.0         759000.0     2873000.0
+Interest Expense                                                24709000.0       11165000.0        8129000.0     8394000.0
+Interest Income                                                 19845000.0        9583000.0        8888000.0    11267000.0
+Normalized Income                                          -11592008.75227  87457936.588207  34581287.245594   -55721200.0
+Net Income From Continuing And Discontinued Operation          -16649000.0       62787000.0       42099000.0   -60726000.0
+Total Expenses                                                2424848000.0     2573697000.0     2221775000.0  1957484000.0
+Diluted Average Shares                                                 NaN      167381000.0      167200000.0   167042000.0
+Basic Average Shares                                                   NaN      167042000.0      167042000.0   167042000.0
+Diluted EPS                                                            NaN             0.38             0.25     -0.363537
+Basic EPS                                                              NaN             0.38             0.25         -0.36
+Diluted NI Availto Com Stockholders                            -16649000.0       62787000.0       42099000.0   -60726000.0
+Net Income Common Stockholders                                 -16649000.0       62787000.0       42099000.0   -60726000.0
+Otherunder Preferred Stock Dividend                                    0.0              0.0              0.0           0.0
+Net Income                                                     -16649000.0       62787000.0       42099000.0   -60726000.0
+Minority Interests                                              39028000.0       30828000.0       12772000.0    35397000.0
+Net Income Including Noncontrolling Interests                  -55677000.0       31959000.0       29327000.0   -96123000.0
+Net Income Continuous Operations                               -55677000.0       31959000.0       29327000.0   -96123000.0
+Tax Provision                                                   -5450000.0        5810000.0        6590000.0     2379000.0
+Pretax Income                                                  -61127000.0       37769000.0       35917000.0   -93744000.0
+Other Non Operating Income Expenses                             16930000.0       50173000.0       48929000.0     6600000.0
+Special Income Charges                                          -5552000.0      -29156000.0        9207000.0    -6256000.0
+Write Off                                                        5552000.0       29156000.0       -9207000.0     6256000.0
+Net Non Operating Interest Income Expense                       -4864000.0       -1582000.0         759000.0     2873000.0
+Interest Expense Non Operating                                  24709000.0       11165000.0        8129000.0     8394000.0
+Interest Income Non Operating                                   19845000.0        9583000.0        8888000.0    11267000.0
+Operating Income                                               -67641000.0       18334000.0      -22978000.0   -96961000.0
+Operating Expense                                              440435000.0      510556000.0      465706000.0   429639000.0
+Other Operating Expenses                                       -31543000.0      -26401000.0      -26903000.0   -26329000.0
+Research And Development                                        55099000.0       63931000.0       44317000.0    44566000.0
+Selling General And Administration                             416879000.0      473026000.0      448292000.0   411402000.0
+Selling And Marketing Expense                                  220994000.0      273072000.0      230561000.0   194090000.0
+General And Administrative Expense                             195885000.0      199954000.0      217731000.0   217312000.0
+Gross Profit                                                   372794000.0      528890000.0      442728000.0   332678000.0
+Cost Of Revenue                                               1984413000.0     2063141000.0     1756069000.0  1527845000.0
+Total Revenue                                                 2357207000.0     2592031000.0     2198797000.0  1860523000.0
+Operating Revenue                                             2357207000.0     2592031000.0     2198797000.0  1860523000.0

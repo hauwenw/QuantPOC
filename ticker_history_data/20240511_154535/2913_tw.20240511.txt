@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No. 3, Zhonghua Rd
+address2	Hukou Township Hsinchu County
+city	Hsinchu
+zip	303035
+country	Taiwan
+phone	886 3 6591 188
+fax	886 3 6591 199
+website	https://www.ttch.com.tw
+industry	Farm Products
+industryKey	farm-products
+industryDisp	Farm Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Taiwan Tea Corporation is involved in the plantation, cultivation, production, and sale of tea products in Taiwan. The company also engages in the recreational tea farming land development activities; and marketing channel business. In addition, it is involved in the construction engineering business, including decoration works, compartment works, ceiling works, anti-smoke vertical wall works, painting works, flooring works, windowsill Board works, curtain box works, stone works, etc. The company was formerly known as Mitsui & Co., Ltd. and changed its name to Taiwan Tea Corporation in 1950. Taiwan Tea Corporation was founded in 1899 and is headquartered in Hsinchu, Taiwan.
+fullTimeEmployees	237
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Yuan  Wu', 'title': 'President, GM & Chairman', 'fiscalYear': 2022, 'totalPay': 5053000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Chuan  Kao', 'title': 'Vice General Manager of the Public Affairs Office', 'fiscalYear': 2022, 'totalPay': 2129000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Li  Hsu', 'title': 'Director of Financial Division, Management Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ya-Fan  Hsu', 'title': 'Manager of Accounting Department-Financial Division, Management Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chia-Hui  Wan', 'title': 'Director of Admin Division, Secretary to the Board of Directors & Manager of Human Resources Dept.', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsien-Chi  Shih', 'title': 'Director of Tourism & Sales Center and Director of Marketing Planning Business Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tzu-Chien  Chen', 'title': 'Chief of Audit Section', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Chiang  Lin', 'title': 'Director of Asset Development Department & Chief of Asset Section, Logistics Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	21.35
+open	21.35
+dayLow	21.2
+dayHigh	21.45
+regularMarketPreviousClose	21.35
+regularMarketOpen	21.35
+regularMarketDayLow	21.2
+regularMarketDayHigh	21.45
+exDividendDate	1566518400	 (2019-08-23 08:00:00)
+beta	0.709
+volume	3020208
+regularMarketVolume	3020208
+averageVolume	4635654
+averageVolume10days	14408333
+averageDailyVolume10Day	14408333
+bid	21.3
+ask	21.35
+marketCap	16826999808
+fiftyTwoWeekLow	19.75
+fiftyTwoWeekHigh	33.0
+priceToSalesTrailing12Months	44.3391
+fiftyDayAverage	20.898
+twoHundredDayAverage	21.58875
+currency	TWD
+enterpriseValue	21869346816
+profitMargins	-0.75748
+floatShares	424648700
+sharesOutstanding	790000000
+heldPercentInsiders	0.44965
+heldPercentInstitutions	0.061890002
+impliedSharesOutstanding	813664000
+bookValue	16.083
+priceToBook	1.3243797
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-287470016
+trailingEps	-0.36
+lastSplitFactor	0.665:1
+lastSplitDate	1252972800	 (2009-09-15 08:00:00)
+enterpriseToRevenue	57.626
+enterpriseToEbitda	-683.78
+52WeekChange	-0.038374722
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1566518400	 (2019-08-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2913.TW
+underlyingSymbol	2913.TW
+shortName	TAIWAN TEA CORPORATION
+longName	Taiwan Tea Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a2137392-aec0-3eb2-80a8-c30a2f30dc66
+messageBoardId	finmb_2482063
+gmtOffSetMilliseconds	28800000
+currentPrice	21.3
+recommendationKey	none
+totalCash	151292992
+totalCashPerShare	0.192
+ebitda	-31983000
+totalDebt	5193639936
+quickRatio	0.394
+currentRatio	2.537
+totalRevenue	379507008
+debtToEquity	40.878
+revenuePerShare	0.48
+returnOnAssets	-0.0035899999
+returnOnEquity	-0.02238
+freeCashflow	-114334248
+operatingCashflow	-43925000
+revenueGrowth	-0.029
+grossMargins	0.36375
+ebitdaMargins	-0.08428001
+operatingMargins	-0.28892002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                     -3061.873053      -19000.0  -10839248.306721      62200.0
+Tax Rate For Calcs                                                  0.016823           0.2          0.010826          0.2
+Normalized EBITDA                                                -73007000.0 -1383954000.0        49249000.0  140448000.0
+Total Unusual Items                                                -182000.0      -95000.0     -1001186000.0     311000.0
+Total Unusual Items Excluding Goodwill                             -182000.0      -95000.0     -1001186000.0     311000.0
+Net Income From Continuing Operation Net Minority Interest      -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Reconciled Depreciation                                           95613000.0   118216000.0        99914000.0   94164000.0
+Reconciled Cost Of Revenue                                       241460000.0   212083000.0       251696000.0  187121000.0
+EBITDA                                                           -73189000.0 -1384049000.0      -951937000.0  140759000.0
+EBIT                                                            -168802000.0 -1502265000.0     -1051851000.0   46595000.0
+Net Interest Income                                             -123219000.0  -111527000.0       -82760000.0  -79084000.0
+Interest Expense                                                 123587000.0   111625000.0        82782000.0   79143000.0
+Interest Income                                                     368000.0       98000.0           22000.0      59000.0
+Normalized Income                                          -287291061.873053 -1635038000.0 -132002248.306721  -17599800.0
+Net Income From Continuing And Discontinued Operation           -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Total Expenses                                                   503902000.0   531572000.0       551843000.0  459359000.0
+Diluted Average Shares                                                   NaN   790000000.0       790000000.0  867550000.0
+Basic Average Shares                                                     NaN   790000000.0       790000000.0  867550000.0
+Diluted EPS                                                              NaN         -2.07             -1.42        -0.02
+Basic EPS                                                                NaN         -2.07             -1.42        -0.02
+Diluted NI Availto Com Stockholders                             -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Net Income Common Stockholders                                  -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0          0.0
+Net Income                                                      -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Net Income Including Noncontrolling Interests                   -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Net Income Continuous Operations                                -287470000.0 -1635114000.0     -1122349000.0  -17351000.0
+Tax Provision                                                     -4919000.0    21224000.0       -12284000.0  -15197000.0
+Pretax Income                                                   -292389000.0 -1613890000.0     -1134633000.0  -32548000.0
+Other Non Operating Income Expenses                              -44593000.0 -1347692000.0        17309000.0    5753000.0
+Special Income Charges                                             -182000.0      -95000.0     -1016057000.0     311000.0
+Other Special Charges                                                    NaN  -646445000.0         2712000.0     -89000.0
+Write Off                                                           182000.0       95000.0          -65000.0    -222000.0
+Impairment Of Capital Assets                                             NaN  2106871000.0      1013410000.0          0.0
+Net Non Operating Interest Income Expense                       -123219000.0  -111527000.0       -82760000.0  -79084000.0
+Interest Expense Non Operating                                   123587000.0   111625000.0        82782000.0   79143000.0
+Interest Income Non Operating                                       368000.0       98000.0           22000.0      59000.0
+Operating Income                                                -124395000.0  -154576000.0      -182640000.0 -147594000.0
+Operating Expense                                                262442000.0   319489000.0       300147000.0  272238000.0
+Research And Development                                           5562000.0     5966000.0         6599000.0    6678000.0
+Selling General And Administration                               256880000.0   313523000.0       293548000.0  265560000.0
+Selling And Marketing Expense                                     78387000.0    96872000.0        98630000.0   93540000.0
+General And Administrative Expense                               178493000.0   216651000.0       194918000.0  172020000.0
+Gross Profit                                                     138047000.0   164913000.0       117507000.0  124644000.0
+Cost Of Revenue                                                  241460000.0   212083000.0       251696000.0  187121000.0
+Total Revenue                                                    379507000.0   376996000.0       369203000.0  311765000.0
+Operating Revenue                                                379507000.0   376996000.0       369203000.0  311765000.0

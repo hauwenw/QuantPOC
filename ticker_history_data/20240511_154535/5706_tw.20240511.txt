@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 25, Chang'an East Road
+address2	4th & 5th Floor Section 1 Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2537 0000
+fax	886 2 2356 1790
+website	https://www.travel.com.tw
+industry	Travel Services
+industryKey	travel-services
+industryDisp	Travel Services
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Phoenix Tours International, Inc., together with its subsidiaries, provides travel agency services in Taiwan. The company offers foreign group travel, mini and free tour, cruise vacation, international air tickets, domestic and international reservations, Taiwan tourism, rail service, online consultation, domestic and international group travel, as well as passenger and freight forwarding, business contracting, wine free travel, passport, international travel safety insurance. Phoenix Tours International, Inc. was founded in 1957 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jie Min  Bian', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ding Qing  Shao', 'title': 'Deputy General Manager of Tourism Operations Department & Sales Office', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	75.5
+open	76.1
+dayLow	76.0
+dayHigh	79.0
+regularMarketPreviousClose	75.5
+regularMarketOpen	76.1
+regularMarketDayLow	76.0
+regularMarketDayHigh	79.0
+dividendRate	0.3
+dividendYield	0.0038
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	0.083500005
+fiveYearAvgDividendYield	1.82
+beta	0.478
+trailingPE	21.754875
+forwardPE	39.05
+volume	1950173
+regularMarketVolume	1950173
+averageVolume	1575941
+averageVolume10days	2778408
+averageDailyVolume10Day	2778408
+bid	78.1
+ask	78.3
+marketCap	5712702464
+fiftyTwoWeekLow	59.3
+fiftyTwoWeekHigh	128.5
+priceToSalesTrailing12Months	2.5935588
+fiftyDayAverage	69.866
+twoHundredDayAverage	70.2055
+currency	TWD
+enterpriseValue	5678671360
+profitMargins	0.08089
+floatShares	52246688
+sharesOutstanding	73146000
+heldPercentInsiders	0.36344
+heldPercentInstitutions	0.00449
+impliedSharesOutstanding	74687904
+bookValue	19.429
+priceToBook	4.019764
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	178174000
+trailingEps	3.59
+forwardEps	2.0
+lastSplitFactor	1100:1000
+lastSplitDate	1659052800	 (2022-07-29 08:00:00)
+enterpriseToRevenue	2.578
+enterpriseToEbitda	35.787
+52WeekChange	0.22992122
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5706.TW
+underlyingSymbol	5706.TW
+shortName	PHOENIX TOURS INTL INC
+longName	Phoenix Tours International, Inc.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	12212cb4-8a37-3d12-8fe0-8bf9879fe053
+messageBoardId	finmb_9870821
+gmtOffSetMilliseconds	28800000
+currentPrice	78.1
+recommendationKey	none
+totalCash	1139592960
+totalCashPerShare	15.58
+ebitda	158679008
+totalDebt	1061126016
+quickRatio	0.816
+currentRatio	1.339
+totalRevenue	2202650112
+debtToEquity	72.404
+revenuePerShare	30.113
+returnOnAssets	0.03192
+returnOnEquity	0.13311
+freeCashflow	-396671008
+operatingCashflow	305924000
+revenueGrowth	3.88
+grossMargins	0.16740999
+ebitdaMargins	0.07204
+operatingMargins	0.032899998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31   2022-12-31       2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                  -3446817.028851   -2182600.0   1603537.197222  -2189294.52096
+Tax Rate For Calcs                                                  0.171594          0.2         0.013431        0.189451
+Normalized EBITDA                                                268520000.0   11504000.0       -5378000.0      59896000.0
+Total Unusual Items                                              -20087000.0  -10913000.0      119395000.0     -11556000.0
+Total Unusual Items Excluding Goodwill                           -20087000.0  -10913000.0      119395000.0     -11556000.0
+Net Income From Continuing Operation Net Minority Interest       178174000.0  -31236000.0       77739000.0      10210000.0
+Reconciled Depreciation                                           19797000.0   21811000.0       23478000.0      25327000.0
+Reconciled Cost Of Revenue                                      1833894000.0  152470000.0      106145000.0     359550000.0
+EBITDA                                                           248433000.0     591000.0      114017000.0      48340000.0
+EBIT                                                             228636000.0  -21220000.0       90539000.0      23013000.0
+Net Interest Income                                              -10556000.0   -7737000.0       -4263000.0      -5064000.0
+Interest Expense                                                  13460000.0    9547000.0        6030000.0       6386000.0
+Interest Income                                                    2904000.0    1810000.0        1767000.0       1322000.0
+Normalized Income                                           194814182.971149  -22505600.0 -40052462.802778  19576705.47904
+Net Income From Continuing And Discontinued Operation            178174000.0  -31236000.0       77739000.0      10210000.0
+Total Expenses                                                  2019381000.0  262069000.0      217108000.0     521439000.0
+Diluted Average Shares                                            73206000.0   73146000.0       73173000.0      73432700.0
+Basic Average Shares                                              73146000.0   73146000.0       73146000.0      73368900.0
+Diluted EPS                                                             2.43        -0.43             1.06        0.136364
+Basic EPS                                                               2.44        -0.43             1.06        0.136364
+Diluted NI Availto Com Stockholders                              178174000.0  -31236000.0       77739000.0      10210000.0
+Net Income Common Stockholders                                   178174000.0  -31236000.0       77739000.0      10210000.0
+Otherunder Preferred Stock Dividend                                      0.0          0.0              0.0             0.0
+Net Income                                                       178174000.0  -31236000.0       77739000.0      10210000.0
+Minority Interests                                                  -79000.0     458000.0       -5635000.0      -3267000.0
+Net Income Including Noncontrolling Interests                    178253000.0  -31694000.0       83374000.0      13477000.0
+Net Income Discontinuous Operations                                      0.0          0.0              0.0             0.0
+Net Income Continuous Operations                                 178253000.0  -31694000.0       83374000.0      13477000.0
+Tax Provision                                                     36923000.0     927000.0        1135000.0       3150000.0
+Pretax Income                                                    215176000.0  -30767000.0       84509000.0      16627000.0
+Other Non Operating Income Expenses                               10025000.0    8051000.0       23718000.0      48195000.0
+Special Income Charges                                           -33331000.0          0.0       76610000.0     -22349000.0
+Other Special Charges                                              -286000.0          NaN      -75477000.0        322000.0
+Write Off                                                         33617000.0          0.0       -1133000.0      22027000.0
+Net Non Operating Interest Income Expense                        -10556000.0   -7737000.0       -4263000.0      -5064000.0
+Interest Expense Non Operating                                    13460000.0    9547000.0        6030000.0       6386000.0
+Interest Income Non Operating                                      2904000.0    1810000.0        1767000.0       1322000.0
+Operating Income                                                 183269000.0  -59393000.0      -67173000.0     -31931000.0
+Operating Expense                                                185487000.0  109599000.0      110963000.0     161889000.0
+Other Operating Expenses                                          -6113000.0   -8120000.0       -8190000.0      -8040000.0
+Selling General And Administration                               191600000.0  117719000.0      119153000.0     169929000.0
+Selling And Marketing Expense                                    141611000.0   77604000.0       80622000.0     120981000.0
+General And Administrative Expense                                49989000.0   40115000.0       38531000.0      48948000.0
+Gross Profit                                                     368756000.0   50206000.0       43790000.0     129958000.0
+Cost Of Revenue                                                 1833894000.0  152470000.0      106145000.0     359550000.0
+Total Revenue                                                   2202650000.0  202676000.0      149935000.0     489508000.0
+Operating Revenue                                               2202650000.0  202676000.0      149935000.0     489508000.0

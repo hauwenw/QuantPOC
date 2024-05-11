@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	PLO 650, Jalan Keluli 7
+address2	Pasir Gudang Industrial Estate
+city	Pasir Gudang
+zip	81700
+country	Malaysia
+phone	607-252-3788
+fax	607-251-2588
+website	https://www.allcosmos.com
+industry	Agricultural Inputs
+industryKey	agricultural-inputs
+industryDisp	Agricultural Inputs
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	All Cosmos Bio-Tech Holding Corporation, through its subsidiaries, manufactures and sells bio-organic and bio-chemical compound fertilizers in Malaysia. It also engages in the research and development of microorganisms for waste disposal of oil-palm; and wholesale of probiotics. In addition, the company is involved in the research and forest plantation activities. It also exports its products to Malaysia, Taiwan, Indonesia, Vietnam, and China. All Cosmos Bio-Tech Holding Corporation was founded in 1999 and is headquartered in Pasir Gudang, Malaysia.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Shih Hao  Peng Ph.D.', 'age': 48, 'title': 'Chairman of the Board & CEO', 'yearBorn': 1975, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janice  Cheow', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wan Azha Bin Wan Mustapha', 'title': 'AESB Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	50.6
+open	50.6
+dayLow	50.2
+dayHigh	50.6
+regularMarketPreviousClose	50.6
+regularMarketOpen	50.6
+regularMarketDayLow	50.2
+regularMarketDayHigh	50.6
+dividendRate	2.5
+dividendYield	0.0494
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	1.1737
+fiveYearAvgDividendYield	3.81
+beta	0.901
+trailingPE	23.755867
+forwardPE	9.980275
+volume	11100
+regularMarketVolume	11100
+averageVolume	98094
+averageVolume10days	50822
+averageDailyVolume10Day	50822
+bid	50.4
+ask	50.5
+marketCap	3240120320
+fiftyTwoWeekLow	39.05
+fiftyTwoWeekHigh	63.0
+priceToSalesTrailing12Months	1.1463014
+fiftyDayAverage	52.001
+twoHundredDayAverage	48.339
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.019762846
+currency	TWD
+enterpriseValue	2772211456
+profitMargins	0.0493
+floatShares	33736313
+sharesOutstanding	64034000
+heldPercentInsiders	0.68742996
+heldPercentInstitutions	0.0076200003
+impliedSharesOutstanding	64284600
+bookValue	35.205
+priceToBook	1.4372957
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	139360992
+trailingEps	2.13
+forwardEps	5.07
+enterpriseToRevenue	0.981
+enterpriseToEbitda	12.043
+52WeekChange	-0.10915494
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4148.TW
+underlyingSymbol	4148.TW
+shortName	ALL COSMOS BIO-TECH HOLDING COR
+longName	All Cosmos Bio-Tech Holding Corporation
+firstTradeDateEpochUtc	1496970000	 (2017-06-09 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fe8def8e-136d-3c71-b399-95aaf918bd2d
+messageBoardId	finmb_225679215
+gmtOffSetMilliseconds	28800000
+currentPrice	50.6
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1570850048
+totalCashPerShare	24.531
+ebitda	230187008
+totalDebt	543089984
+quickRatio	2.626
+currentRatio	3.566
+totalRevenue	2826586880
+debtToEquity	19.298
+revenuePerShare	44.142
+returnOnAssets	0.03049
+returnOnEquity	0.06669
+freeCashflow	777564032
+operatingCashflow	959243008
+revenueGrowth	-0.349
+grossMargins	0.20802
+ebitdaMargins	0.08144
+operatingMargins	0.06821
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                    530115.588247    2037947.773484   15979710.141953   2624856.41173
+Tax Rate For Calcs                                                   0.26519           0.28067          0.264101        0.344108
+Normalized EBITDA                                                308761000.0       694511000.0       314208000.0     196638000.0
+Total Unusual Items                                                1999000.0         7261000.0        60506000.0       7628000.0
+Total Unusual Items Excluding Goodwill                             1999000.0         7261000.0        60506000.0       7628000.0
+Net Income From Continuing Operation Net Minority Interest       139361000.0       368204000.0       198128000.0      82204000.0
+Reconciled Depreciation                                           49147000.0        49012000.0        48592000.0      50155000.0
+Reconciled Cost Of Revenue                                      2238608000.0      2564754000.0      1602958000.0    1270636000.0
+EBITDA                                                           310760000.0       701772000.0       374714000.0     204266000.0
+EBIT                                                             261613000.0       652760000.0       326122000.0     154111000.0
+Net Interest Income                                               26434000.0        -7323000.0         4895000.0      14360000.0
+Interest Expense                                                   3983000.0        18810000.0         4537000.0       4440000.0
+Interest Income                                                   30417000.0        11487000.0         9432000.0      18800000.0
+Normalized Income                                           137892115.588247  362980947.773484  153601710.141953  77200856.41173
+Net Income From Continuing And Discontinued Operation            139361000.0       368204000.0       198128000.0      82204000.0
+Total Expenses                                                  2638691000.0      3042599000.0      1984588000.0    1547700000.0
+Diluted Average Shares                                                   NaN        66041000.0        64207000.0      64116000.0
+Basic Average Shares                                                     NaN        64034000.0        64034000.0      64034000.0
+Diluted EPS                                                              NaN              5.65              3.09            1.28
+Basic EPS                                                                NaN              5.75              3.09            1.28
+Diluted NI Availto Com Stockholders                              139361000.0       368204000.0       198128000.0      82204000.0
+Net Income Common Stockholders                                   139361000.0       368204000.0       198128000.0      82204000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0             0.0
+Net Income                                                       139361000.0       368204000.0       198128000.0      82204000.0
+Minority Interests                                               -49948000.0       -87815000.0       -38526000.0     -15964000.0
+Net Income Including Noncontrolling Interests                    189309000.0       456019000.0       236654000.0      98168000.0
+Net Income Continuous Operations                                 189309000.0       456019000.0       236654000.0      98168000.0
+Tax Provision                                                     68321000.0       177931000.0        84931000.0      51503000.0
+Pretax Income                                                    257630000.0       633950000.0       321585000.0     149671000.0
+Other Non Operating Income Expenses                               35956000.0       -27651000.0        41763000.0      33896000.0
+Special Income Charges                                             1999000.0         7261000.0        60506000.0       7628000.0
+Write Off                                                         -1999000.0        -7261000.0       -60506000.0      -7628000.0
+Net Non Operating Interest Income Expense                         26434000.0        -7323000.0         4895000.0      14360000.0
+Interest Expense Non Operating                                     3983000.0        18810000.0         4537000.0       4440000.0
+Interest Income Non Operating                                     30417000.0        11487000.0         9432000.0      18800000.0
+Operating Income                                                 187896000.0       659731000.0       212735000.0      95083000.0
+Operating Expense                                                400083000.0       477845000.0       381630000.0     277064000.0
+Research And Development                                           3731000.0         2277000.0         3851000.0       2541000.0
+Selling General And Administration                               396352000.0       475568000.0       377779000.0     274523000.0
+Selling And Marketing Expense                                    160186000.0       246451000.0       199562000.0     121509000.0
+General And Administrative Expense                               236166000.0       229117000.0       178217000.0     153014000.0
+Gross Profit                                                     587979000.0      1137576000.0       594365000.0     372147000.0
+Cost Of Revenue                                                 2238608000.0      2564754000.0      1602958000.0    1270636000.0
+Total Revenue                                                   2826587000.0      3702330000.0      2197323000.0    1642783000.0
+Operating Revenue                                               2826587000.0      3702330000.0      2197323000.0    1642783000.0

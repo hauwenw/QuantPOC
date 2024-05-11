@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No.369, Huanxi Road
+address2	Guanyin District
+city	Taoyuan City
+zip	328451
+country	Taiwan
+phone	886 3 452 2156
+fax	886 3 461 6357
+website	https://www.federalcorporation.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Federal Corporation produces and sells tires in Taiwan and internationally. It offers tires for the UHP, SUV, LTR, and PCR lines. The company was founded in 1954 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Hsing  Chiang', 'title': 'Chairman of the Board & President', 'fiscalYear': 2021, 'totalPay': 980000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsin-I  Lu', 'title': 'Head of Finance Department & Corporate Governance Officer', 'fiscalYear': 2021, 'totalPay': 3539000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xin-Yi  Lu', 'title': 'Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsin-Yu  Li', 'title': 'Manager of Finance Department & Chief of Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Shen  Liu', 'title': 'Head of Production & Sales Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Cheng  Wu', 'title': 'Head of Manufacturing Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	19.9
+open	19.9
+dayLow	19.65
+dayHigh	20.05
+regularMarketPreviousClose	19.9
+regularMarketOpen	19.9
+regularMarketDayLow	19.65
+regularMarketDayHigh	20.05
+exDividendDate	1636416000	 (2021-11-09 08:00:00)
+fiveYearAvgDividendYield	0.91
+beta	0.639
+volume	453804
+regularMarketVolume	453804
+averageVolume	673522
+averageVolume10days	1890468
+averageDailyVolume10Day	1890468
+bid	19.75
+ask	19.8
+marketCap	9099565056
+fiftyTwoWeekLow	16.95
+fiftyTwoWeekHigh	21.45
+priceToSalesTrailing12Months	19.020752
+fiftyDayAverage	18.597
+twoHundredDayAverage	18.325
+currency	TWD
+enterpriseValue	12378816512
+floatShares	205618003
+sharesOutstanding	459574016
+heldPercentInsiders	0.53648996
+heldPercentInstitutions	0.04461
+impliedSharesOutstanding	459574016
+bookValue	15.644
+priceToBook	1.2656609
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-1729298944
+trailingEps	-3.76
+lastSplitFactor	1020:1000
+lastSplitDate	1470096000	 (2016-08-02 08:00:00)
+enterpriseToRevenue	25.875
+enterpriseToEbitda	-17.069
+52WeekChange	-0.02222222
+SandP52WeekChange	0.26265144
+lastDividendValue	0.02
+lastDividendDate	1636416000	 (2021-11-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2102.TW
+underlyingSymbol	2102.TW
+shortName	FEDERAL CORP
+longName	Federal Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	92453790-8f31-3830-b395-9775948b1555
+messageBoardId	finmb_9951592
+gmtOffSetMilliseconds	28800000
+currentPrice	19.8
+recommendationKey	none
+totalCash	1072649024
+totalCashPerShare	2.334
+ebitda	-725217024
+totalDebt	4351900160
+quickRatio	1.55
+currentRatio	1.714
+totalRevenue	478401984
+debtToEquity	60.53
+revenuePerShare	1.041
+returnOnAssets	-0.05657
+returnOnEquity	-0.30963
+freeCashflow	2457134080
+operatingCashflow	-450486016
+revenueGrowth	-0.872
+grossMargins	-0.62028
+ebitdaMargins	-1.5159199
+operatingMargins	-3.08246
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    -463800.0       52600.0     -872000.0    2634329.55635
+Tax Rate For Calcs                                                   0.2           0.2           0.2         0.219802
+Normalized EBITDA                                          -1261322000.0  -840662000.0 -1703447000.0      725502000.0
+Total Unusual Items                                           -2319000.0      263000.0    -4360000.0       11985000.0
+Total Unusual Items Excluding Goodwill                        -2319000.0      263000.0    -4360000.0       11985000.0
+Net Income From Continuing Operation Net Minority Interest -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Reconciled Depreciation                                      365940000.0   436382000.0   529495000.0      529825000.0
+Reconciled Cost Of Revenue                                   775144000.0  1646698000.0  2296075000.0     4402644000.0
+EBITDA                                                     -1263641000.0  -840399000.0 -1707807000.0      737487000.0
+EBIT                                                       -1629581000.0 -1276781000.0 -2237302000.0      207662000.0
+Net Interest Income                                          -59193000.0   -67494000.0   -57802000.0      -56599000.0
+Interest Expense                                              99023000.0    77765000.0    63641000.0       64779000.0
+Interest Income                                               39830000.0    10271000.0     5839000.0        8180000.0
+Normalized Income                                          -1727443800.0 -1356420400.0 -2346476000.0  102126329.55635
+Net Income From Continuing And Discontinued Operation      -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Total Expenses                                              1552964000.0  2344720000.0  3405034000.0     5469430000.0
+Diluted Average Shares                                               NaN   459574000.0   459574000.0      459608000.0
+Basic Average Shares                                                 NaN   459574000.0   459574000.0      459574000.0
+Diluted EPS                                                          NaN         -2.95         -5.11             0.24
+Basic EPS                                                            NaN         -2.95         -5.11             0.24
+Diluted NI Availto Com Stockholders                        -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Net Income Common Stockholders                             -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0              0.0
+Net Income                                                 -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Net Income Including Noncontrolling Interests              -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Net Income Discontinuous Operations                                  NaN           NaN           0.0              0.0
+Net Income Continuous Operations                           -1729299000.0 -1356210000.0 -2349964000.0      111477000.0
+Tax Provision                                                   695000.0     1664000.0    49021000.0       31406000.0
+Pretax Income                                              -1728604000.0 -1354546000.0 -2300943000.0      142883000.0
+Other Non Operating Income Expenses                         -592530000.0  -558227000.0  -394988000.0      -47736000.0
+Special Income Charges                                        -2319000.0      263000.0    -4360000.0       11985000.0
+Write Off                                                      2319000.0     -263000.0     4360000.0      -11985000.0
+Net Non Operating Interest Income Expense                    -59193000.0   -67494000.0   -57802000.0      -56599000.0
+Interest Expense Non Operating                                99023000.0    77765000.0    63641000.0       64779000.0
+Interest Income Non Operating                                 39830000.0    10271000.0     5839000.0        8180000.0
+Operating Income                                           -1074562000.0  -729088000.0 -1843793000.0      235233000.0
+Operating Expense                                            777820000.0   698022000.0  1108959000.0     1066786000.0
+Research And Development                                      49555000.0    79078000.0   126821000.0      123761000.0
+Selling General And Administration                           728265000.0   618944000.0   982138000.0      943025000.0
+Selling And Marketing Expense                                156743000.0   310528000.0   514611000.0      669147000.0
+General And Administrative Expense                           571522000.0   308416000.0   467527000.0      273878000.0
+Gross Profit                                                -296742000.0   -31066000.0  -734834000.0     1302019000.0
+Cost Of Revenue                                              775144000.0  1646698000.0  2296075000.0     4402644000.0
+Total Revenue                                                478402000.0  1615632000.0  1561241000.0     5704663000.0
+Operating Revenue                                            478402000.0  1615632000.0  1561241000.0     5704663000.0

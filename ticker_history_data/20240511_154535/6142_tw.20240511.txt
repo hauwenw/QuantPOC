@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.158, Ruihu Street
+address2	5th Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 7736 3000
+website	https://www.cameo.com.tw
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Cameo Communications, Inc. manufactures and sells networking system equipment and components primarily in Taiwan. The company offers layer 2 management Ethernet switches, wireless client adapters, wireless LAN AP/routers, SOHO routers, Ethernet switches, media converters, USB to Ethernet converters, Web-smart switches, and Ethernet NIC products, as well as network cards, hubs, routers, and residential gateways. It also provides consumer and SMB/enterprise Wi-Fi products, data center switches, and cable and xDSL modem products. The company markets its products for systems integrators, distributors, VARs, and other resellers in the United States, the Pacific Rim, and Europe. The company was founded in 1991 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Allen  Cheng', 'title': 'CEO & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ray  Mao', 'title': 'Vice President of GNT Manufacturing Center', 'fiscalYear': 2020, 'totalPay': 1052000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	9.5
+open	9.49
+dayLow	9.45
+dayHigh	9.57
+regularMarketPreviousClose	9.5
+regularMarketOpen	9.49
+regularMarketDayLow	9.45
+regularMarketDayHigh	9.57
+dividendRate	0.22
+dividendYield	0.021
+exDividendDate	1692748800	 (2023-08-23 08:00:00)
+payoutRatio	1.8333
+beta	0.698
+volume	225515
+regularMarketVolume	225515
+averageVolume	467920
+averageVolume10days	211791
+averageDailyVolume10Day	211791
+bid	9.51
+ask	9.56
+marketCap	3162256896
+fiftyTwoWeekLow	9.1
+fiftyTwoWeekHigh	14.4
+priceToSalesTrailing12Months	0.93881005
+fiftyDayAverage	9.906
+twoHundredDayAverage	10.1633
+trailingAnnualDividendRate	0.22
+trailingAnnualDividendYield	0.023157895
+currency	TWD
+enterpriseValue	2604378112
+profitMargins	0.01124
+sharesOutstanding	330780000
+heldPercentInsiders	0.47726002
+heldPercentInstitutions	0.01833
+impliedSharesOutstanding	333896992
+bookValue	9.631
+priceToBook	0.99262804
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+netIncomeToCommon	37855000
+trailingEps	-0.11
+lastSplitFactor	856.2592:1000
+lastSplitDate	1617840000	 (2021-04-08 08:00:00)
+enterpriseToRevenue	0.773
+enterpriseToEbitda	32.739
+52WeekChange	-0.2259109
+SandP52WeekChange	0.26265144
+lastDividendValue	0.22
+lastDividendDate	1692748800	 (2023-08-23 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6142.TW
+underlyingSymbol	6142.TW
+shortName	CAMEO COMMUNICATIONS INC
+longName	Cameo Communications, Inc.
+firstTradeDateEpochUtc	1059958800	 (2003-08-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a15104da-3b03-3f1a-8eaa-10b2f1e3ceb7
+messageBoardId	finmb_693238
+gmtOffSetMilliseconds	28800000
+currentPrice	9.56
+recommendationKey	none
+totalCash	1607751936
+totalCashPerShare	4.86
+ebitda	79549000
+totalDebt	738940032
+quickRatio	3.721
+currentRatio	4.923
+totalRevenue	3368367104
+debtToEquity	23.195
+revenuePerShare	10.183
+returnOnAssets	-0.0033399998
+returnOnEquity	0.01189
+freeCashflow	536223872
+operatingCashflow	613782976
+revenueGrowth	-0.612
+grossMargins	0.1012
+ebitdaMargins	0.02362
+operatingMargins	-0.18834
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   17153400.0     84006.431206  212377266.776994        545.707225
+Tax Rate For Calcs                                                   0.2         0.001976          0.277659          0.000076
+Normalized EBITDA                                             44048000.0      210395000.0       -22415000.0      -241342000.0
+Total Unusual Items                                           85767000.0       42522000.0       764886000.0         7193000.0
+Total Unusual Items Excluding Goodwill                        85767000.0       42522000.0       764886000.0         7193000.0
+Net Income From Continuing Operation Net Minority Interest   -37160000.0       94973000.0       390653000.0      -434942000.0
+Reconciled Depreciation                                      132247000.0      140730000.0       189281000.0       184325000.0
+Reconciled Cost Of Revenue                                  2366447000.0     3088896000.0      2461701000.0      3216162000.0
+EBITDA                                                       129815000.0      252917000.0       742471000.0      -234149000.0
+EBIT                                                          -2432000.0      112187000.0       553190000.0      -418474000.0
+Net Interest Income                                            9126000.0       11792000.0        -1431000.0        -3697000.0
+Interest Expense                                              16059000.0       17026000.0        12375000.0        16501000.0
+Interest Income                                               25185000.0       28818000.0        10944000.0        12804000.0
+Normalized Income                                           -105773600.0  52535006.431206 -161855733.223006 -442134454.292775
+Net Income From Continuing And Discontinued Operation        -37160000.0       94973000.0       390653000.0      -434942000.0
+Total Expenses                                              2728781000.0     3468998000.0      3123424000.0      3794417000.0
+Diluted Average Shares                                       330780000.0      331011000.0       317762000.0       229680000.0
+Basic Average Shares                                         330780000.0      330780000.0       317762000.0       229680000.0
+Diluted EPS                                                        -0.11             0.29              1.23             -1.89
+Basic EPS                                                          -0.11             0.29              1.23             -1.89
+Diluted NI Availto Com Stockholders                          -37160000.0       94973000.0       390653000.0      -434942000.0
+Net Income Common Stockholders                               -37160000.0       94973000.0       390653000.0      -434942000.0
+Otherunder Preferred Stock Dividend                                  0.0              0.0               0.0               0.0
+Net Income                                                   -37160000.0       94973000.0       390653000.0      -434942000.0
+Net Income Including Noncontrolling Interests                -37160000.0       94973000.0       390653000.0      -434942000.0
+Net Income Continuous Operations                             -37160000.0       94973000.0       390653000.0      -434942000.0
+Tax Provision                                                 18669000.0         188000.0       150162000.0          -33000.0
+Pretax Income                                                -18491000.0       95161000.0       540815000.0      -434975000.0
+Other Non Operating Income Expenses                           65756000.0       29934000.0       417027000.0        91047000.0
+Special Income Charges                                         -502000.0       42294000.0       765037000.0         1947000.0
+Other Special Charges                                           502000.0      -42294000.0      -765037000.0        -1881000.0
+Write Off                                                            NaN              NaN               0.0          -66000.0
+Net Non Operating Interest Income Expense                      9126000.0       11792000.0        -1431000.0        -3697000.0
+Interest Expense Non Operating                                16059000.0       17026000.0        12375000.0        16501000.0
+Interest Income Non Operating                                 25185000.0       28818000.0        10944000.0        12804000.0
+Operating Income                                            -189427000.0      -89881000.0      -631517000.0      -503157000.0
+Operating Expense                                            362334000.0      380102000.0       661723000.0       578255000.0
+Research And Development                                     188837000.0      187365000.0       250560000.0       320608000.0
+Selling General And Administration                           173497000.0      192737000.0       411163000.0       257647000.0
+Selling And Marketing Expense                                 65063000.0       85478000.0       122899000.0       114517000.0
+General And Administrative Expense                           108434000.0      107259000.0       288264000.0       143130000.0
+Gross Profit                                                 172907000.0      290221000.0        30206000.0        75098000.0
+Cost Of Revenue                                             2366447000.0     3088896000.0      2461701000.0      3216162000.0
+Total Revenue                                               2539354000.0     3379117000.0      2491907000.0      3291260000.0
+Operating Revenue                                           2539354000.0     3379117000.0      2491907000.0      3291260000.0

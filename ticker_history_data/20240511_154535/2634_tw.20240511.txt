@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 1, Hanxiang Road
+address2	Xitun District
+city	Taichung
+zip	407803
+country	Taiwan
+phone	886 4 2702 0001
+website	https://www.aidc.com.tw
+industry	Aerospace & Defense
+industryKey	aerospace-defense
+industryDisp	Aerospace & Defense
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Aerospace Industrial Development Corporation engages in the development, manufacturing, integration, assembly, and testing and verification of aircraft systems and parts in Taiwan and internationally. The company provides military aircrafts and helicopters, commercial aviation, and aero/industrial engines. It engages in the manufacturing maintenance and upgradation of drones, military aircrafts, and production of military hardware, as well as military aircraft engines. The company also design and OEM production of airframe structure and sub-assembly parts; design, processing, and OEM production of international commercial aircraft engines and parts and components. In addition, it offers aviation service, R&D application, design, manufacturing, testing, system integration, and after-sales services. Further, the company offers aircraft maintenance including flight line operations, intermediate, and depot level maintenance; instrument and electronics repair, accessories, and avionics test equipment maintenance; harness fabrication and maintenance, avionics repair/overhaul, and production of avionic systems; and logistic support services. Additionally, it provides flight services, which includes flight test, airborne system development flight test verification, aerial data measurement and acquisition, and flight training; and information and technology services, as well as involves in railway, automotive electronics, and power/energy business; and commercial jet aircraft auxiliary power unit. The company was formerly known as Aero Industry Development Center. Aerospace Industrial Development Corporation was founded in 1969 and is headquartered in Taichung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wan-June  Ma', 'title': 'President & Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu-Yen  Huang', 'title': 'Director of Financial & Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chou  Chun', 'title': 'Director of Public Relations & Legal Affairs', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fu-Ji  Lin', 'title': 'Director of Human Resources Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jennifer  Chuang', 'title': 'Senior VP and Director of Strategy & Operational Management Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xiumei  Zhuang', 'title': 'Deputy General Manager of Professional Engineering', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chia-Yu  Wei', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Yi  Tseng', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	53.8
+open	54.2
+dayLow	53.6
+dayHigh	54.7
+regularMarketPreviousClose	53.8
+regularMarketOpen	54.2
+regularMarketDayLow	53.6
+regularMarketDayHigh	54.7
+dividendRate	1.08
+dividendYield	0.0198
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	0.4576
+fiveYearAvgDividendYield	3.68
+beta	0.323
+trailingPE	23.093222
+forwardPE	15.616046
+volume	6485434
+regularMarketVolume	6485434
+averageVolume	15796723
+averageVolume10days	11941121
+averageDailyVolume10Day	11941121
+bid	54.4
+ask	54.5
+marketCap	51331751936
+fiftyTwoWeekLow	46.95
+fiftyTwoWeekHigh	67.3
+priceToSalesTrailing12Months	1.3128325
+fiftyDayAverage	53.005
+twoHundredDayAverage	53.18075
+trailingAnnualDividendRate	1.42
+trailingAnnualDividendYield	0.026394052
+currency	TWD
+enterpriseValue	62626439168
+profitMargins	0.056929998
+floatShares	610000163
+sharesOutstanding	941867008
+heldPercentInsiders	0.40066
+heldPercentInstitutions	0.093260005
+impliedSharesOutstanding	946940032
+bookValue	18.155
+priceToBook	3.0019276
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.06
+netIncomeToCommon	2225899008
+trailingEps	2.36
+forwardEps	3.49
+pegRatio	0.59
+lastSplitFactor	1037:1000
+lastSplitDate	1500595200	 (2017-07-21 08:00:00)
+enterpriseToRevenue	1.602
+enterpriseToEbitda	15.184
+52WeekChange	0.014897585
+SandP52WeekChange	0.26265144
+lastDividendValue	1.08
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2634.TW
+underlyingSymbol	2634.TW
+shortName	AEROSPACE INDUSTRIAL DEVLPMT CO
+longName	Aerospace Industrial Development Corporation
+firstTradeDateEpochUtc	1408928400	 (2014-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a9506d11-6147-3fc8-bb23-cb0a65db6bb6
+messageBoardId	finmb_12962307
+gmtOffSetMilliseconds	28800000
+currentPrice	54.5
+targetHighPrice	69.0
+targetLowPrice	60.0
+targetMeanPrice	63.0
+targetMedianPrice	61.5
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	4
+totalCash	4648209920
+totalCashPerShare	4.935
+ebitda	4124506880
+totalDebt	15942898688
+quickRatio	0.672
+currentRatio	1.489
+totalRevenue	39100002304
+debtToEquity	93.237
+revenuePerShare	41.513
+returnOnAssets	0.040289998
+returnOnEquity	0.13518
+freeCashflow	2808497920
+operatingCashflow	3872445952
+earningsGrowth	0.06
+revenueGrowth	0.076
+grossMargins	0.11146
+ebitdaMargins	0.10549
+operatingMargins	0.073699996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    1125485.455631     -533237.987643     134894.441348    1392639.865061
+Tax Rate For Calcs                                                   0.216773           0.200315          0.172942          0.174648
+Normalized EBITDA                                                4576052000.0       3615247000.0      2251273000.0      2081852000.0
+Total Unusual Items                                                 5192000.0         -2662000.0          780000.0         7974000.0
+Total Unusual Items Excluding Goodwill                              5192000.0         -2662000.0          780000.0         7974000.0
+Net Income From Continuing Operation Net Minority Interest       2225899000.0       1627333000.0       558013000.0       395858000.0
+Reconciled Depreciation                                          1479421000.0       1414122000.0      1444114000.0      1430178000.0
+Reconciled Cost Of Revenue                                      34742053000.0      27331310000.0     21963093000.0     19640836000.0
+EBITDA                                                           4581244000.0       3612585000.0      2252053000.0      2089826000.0
+EBIT                                                             3101823000.0       2198463000.0       807939000.0       659648000.0
+Net Interest Income                                              -194436000.0       -148468000.0      -130252000.0      -138809000.0
+Interest Expense                                                  259864000.0        163496000.0       133243000.0       180025000.0
+Interest Income                                                    65428000.0         15028000.0         2991000.0        41216000.0
+Normalized Income                                           2221832485.455631  1629461762.012357  557367894.441348  389276639.865061
+Net Income From Continuing And Discontinued Operation            2225899000.0       1627333000.0       558013000.0       395858000.0
+Total Expenses                                                  36314530000.0      28732657000.0     23244005000.0     20871087000.0
+Diluted Average Shares                                                    NaN        944672000.0       942988000.0       943520000.0
+Basic Average Shares                                                      NaN        941867000.0       941867000.0       941867000.0
+Diluted EPS                                                               NaN               1.72              0.59              0.42
+Basic EPS                                                                 NaN               1.73              0.59              0.42
+Diluted NI Availto Com Stockholders                              2225899000.0       1627333000.0       558013000.0       395858000.0
+Net Income Common Stockholders                                   2225899000.0       1627333000.0       558013000.0       395858000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0               0.0
+Net Income                                                       2225899000.0       1627333000.0       558013000.0       395858000.0
+Net Income Including Noncontrolling Interests                    2225899000.0       1627333000.0       558013000.0       395858000.0
+Net Income Continuous Operations                                 2225899000.0       1627333000.0       558013000.0       395858000.0
+Tax Provision                                                     616060000.0        407634000.0       116683000.0        83765000.0
+Pretax Income                                                    2841959000.0       2034967000.0       674696000.0       479623000.0
+Other Non Operating Income Expenses                              -161829000.0        452870000.0        67292000.0       197375000.0
+Special Income Charges                                              5192000.0         -2662000.0          780000.0         7974000.0
+Write Off                                                          -5192000.0          2662000.0         -780000.0        -7974000.0
+Net Non Operating Interest Income Expense                        -194436000.0       -148468000.0      -130252000.0      -138809000.0
+Interest Expense Non Operating                                    259864000.0        163496000.0       133243000.0       180025000.0
+Interest Income Non Operating                                      65428000.0         15028000.0         2991000.0        41216000.0
+Operating Income                                                 2785472000.0       1509650000.0       490561000.0       171850000.0
+Operating Expense                                                1572477000.0       1401347000.0      1280912000.0      1230251000.0
+Research And Development                                          655683000.0        591208000.0       544242000.0       516700000.0
+Selling General And Administration                                916794000.0        810139000.0       736670000.0       713551000.0
+Selling And Marketing Expense                                     153920000.0        144740000.0       160989000.0       115566000.0
+General And Administrative Expense                                762874000.0        665399000.0       575681000.0       597985000.0
+Gross Profit                                                     4357949000.0       2910997000.0      1771473000.0      1402101000.0
+Cost Of Revenue                                                 34742053000.0      27331310000.0     21963093000.0     19640836000.0
+Total Revenue                                                   39100002000.0      30242307000.0     23734566000.0     21042937000.0
+Operating Revenue                                               39100002000.0      30242307000.0     23734566000.0     21042937000.0

@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 66-1, Zhongshan Road
+address2	Tucheng District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2268 0970
+website	https://www.foxconntech.com.tw
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Foxconn Technology Co., Ltd. manufactures, processes, and sells cases, heat dissipation modules, and consumer electronics products. It offers 3C product and alloy material. The company also engages in the research, development, manufacture, and sale of computer thermal modules, computer components, and aluminum magnesium cases; and manufacture and marketing of computer cases, new alloy materials, precision molds, electronic components, and portable computers and its components. In addition, it produces and sells aluminum alloy materials, rail vehicle components, car accessories and electronic components, structured metal products, metal containers, automobile parts, power plugs, wall sockets, and micro ribbon connectors, as well as aluminum alloy parts for automobiles and electronics. The company was founded in 1990 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wu-Guang  Chen', 'age': 57, 'title': 'Manager & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tzu Hung  Li', 'age': 59, 'title': 'Finance Director & Head of Corporate Governance', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'KuanHui  Zhou', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	60.8
+open	61.2
+dayLow	60.0
+dayHigh	61.2
+regularMarketPreviousClose	60.8
+regularMarketOpen	61.2
+regularMarketDayLow	60.0
+regularMarketDayHigh	61.2
+dividendRate	1.6
+dividendYield	0.026400002
+exDividendDate	1688428800	 (2023-07-04 08:00:00)
+payoutRatio	0.5229
+fiveYearAvgDividendYield	3.82
+beta	0.753
+trailingPE	19.80392
+forwardPE	11.201479
+volume	6518009
+regularMarketVolume	6518009
+averageVolume	22264257
+averageVolume10days	12861231
+averageDailyVolume10Day	12861231
+bid	60.6
+ask	60.8
+marketCap	85717483520
+fiftyTwoWeekLow	48.8
+fiftyTwoWeekHigh	68.7
+priceToSalesTrailing12Months	1.1500587
+fiftyDayAverage	58.042
+twoHundredDayAverage	54.71275
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.024671054
+currency	TWD
+enterpriseValue	38766956544
+profitMargins	0.05717
+floatShares	919174912
+sharesOutstanding	1414480000
+heldPercentInsiders	0.34179002
+heldPercentInstitutions	0.092980005
+impliedSharesOutstanding	1423660032
+bookValue	74.434
+priceToBook	0.8141441
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.279
+netIncomeToCommon	4260720128
+trailingEps	3.06
+forwardEps	5.41
+lastSplitFactor	1010:1000
+lastSplitDate	1472774400	 (2016-09-02 08:00:00)
+enterpriseToRevenue	0.52
+enterpriseToEbitda	14.563
+52WeekChange	0.14990509
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1688428800	 (2023-07-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2354.TW
+underlyingSymbol	2354.TW
+shortName	FOXCONN TECH CO
+longName	Foxconn Technology Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b00e1d44-94c2-37b4-94d6-891e261e1cf0
+messageBoardId	finmb_9898381
+gmtOffSetMilliseconds	28800000
+currentPrice	60.6
+recommendationMean	4.0
+recommendationKey	underperform
+totalCash	57721978880
+totalCashPerShare	40.808
+ebitda	2661956096
+totalDebt	10897217536
+quickRatio	2.513
+currentRatio	2.675
+totalRevenue	74533134336
+debtToEquity	10.362
+revenuePerShare	52.693
+returnOnAssets	0.00643
+returnOnEquity	0.04141
+freeCashflow	-5261416448
+operatingCashflow	-3545780992
+earningsGrowth	0.267
+revenueGrowth	-0.596
+grossMargins	0.07683
+ebitdaMargins	0.035720002
+operatingMargins	0.02602
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                  -44237912.771933   -19761893.540115             0.0             0.0
+Tax Rate For Calcs                                                   0.193356           0.362863        0.212551         0.13791
+Normalized EBITDA                                                7207878000.0       8352923000.0    7228966000.0    7242329000.0
+Total Unusual Items                                              -228790000.0        -54461000.0             NaN             NaN
+Total Unusual Items Excluding Goodwill                           -228790000.0        -54461000.0             NaN             NaN
+Net Income From Continuing Operation Net Minority Interest       4260720000.0       4266446000.0    4488906000.0    4718343000.0
+Reconciled Depreciation                                          1390071000.0       1499878000.0    1475507000.0    1557260000.0
+Reconciled Cost Of Revenue                                      68806707000.0      83584939000.0   96823495000.0   98320026000.0
+EBITDA                                                           6979088000.0       8298462000.0    7228966000.0    7242329000.0
+EBIT                                                             5589017000.0       6798584000.0    5753459000.0    5685069000.0
+Net Interest Income                                              2612275000.0       1821189000.0    1459568000.0    1785634000.0
+Interest Expense                                                  240876000.0        209473000.0     147212000.0     249299000.0
+Interest Income                                                  2853151000.0       2030662000.0    1606780000.0    2034933000.0
+Normalized Income                                           4445272087.228067  4301145106.459885    4488906000.0    4718343000.0
+Net Income From Continuing And Discontinued Operation            4260720000.0       4266446000.0    4488906000.0    4718343000.0
+Total Expenses                                                  72836291000.0      87563001000.0  100488028000.0  102171174000.0
+Diluted Average Shares                                                    NaN       1419187000.0    1418538000.0    1420489000.0
+Basic Average Shares                                                      NaN       1414485000.0    1414485000.0    1414485000.0
+Diluted EPS                                                               NaN               3.01            3.16            3.32
+Basic EPS                                                                 NaN               3.02            3.17            3.34
+Diluted NI Availto Com Stockholders                              4260720000.0       4266446000.0    4488906000.0    4718343000.0
+Net Income Common Stockholders                                   4260720000.0       4266446000.0    4488906000.0    4718343000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0             0.0             0.0
+Net Income                                                       4260720000.0       4266446000.0    4488906000.0    4718343000.0
+Minority Interests                                                -53326000.0         68281000.0      74270000.0      32220000.0
+Net Income Including Noncontrolling Interests                    4314046000.0       4198165000.0    4414636000.0    4686123000.0
+Net Income Continuous Operations                                 4314046000.0       4198165000.0    4414636000.0    4686123000.0
+Tax Provision                                                    1034095000.0       2390946000.0    1191611000.0     749647000.0
+Pretax Income                                                    5348141000.0       6589111000.0    5606247000.0    5435770000.0
+Other Non Operating Income Expenses                              1398664000.0       2060843000.0     980916000.0    1333841000.0
+Special Income Charges                                           -228790000.0        -54461000.0             NaN             NaN
+Write Off                                                         228790000.0         54461000.0             NaN             NaN
+Net Non Operating Interest Income Expense                        2612275000.0       1821189000.0    1459568000.0    1785634000.0
+Interest Expense Non Operating                                    240876000.0        209473000.0     147212000.0     249299000.0
+Interest Income Non Operating                                    2853151000.0       2030662000.0    1606780000.0    2034933000.0
+Operating Income                                                 1696840000.0       2906505000.0    3594003000.0    2618425000.0
+Operating Expense                                                4029584000.0       3978062000.0    3664533000.0    3851148000.0
+Research And Development                                         1578581000.0       1504998000.0    1612511000.0    1742124000.0
+Selling General And Administration                               2451003000.0       2473064000.0    2052022000.0    2109024000.0
+Selling And Marketing Expense                                     725876000.0        847810000.0     845529000.0     621879000.0
+General And Administrative Expense                               1725127000.0       1625254000.0    1206493000.0    1487145000.0
+Gross Profit                                                     5726424000.0       6884567000.0    7258536000.0    6469573000.0
+Cost Of Revenue                                                 68806707000.0      83584939000.0   96823495000.0   98320026000.0
+Total Revenue                                                   74533131000.0      90469506000.0  104082031000.0  104789599000.0
+Operating Revenue                                               74533131000.0      90469506000.0  104082031000.0  104789599000.0

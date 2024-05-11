@@ -1,0 +1,141 @@
+=== Ticker Info ===
+address1	85, Chung-Ching Road
+address2	Sec. 4 TaYa District
+city	Taichung
+zip	428
+country	Taiwan
+phone	886 4 2568 3366
+fax	886 4 2567 3069
+website	https://www.mobiletron.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Mobiletron Electronics Co.,Ltd. engages in the production and sale of electronic components for the automotive industry in Taiwan. The company offers engine management systems, such as ABS/wheel speed sensors, brake pad wear sensors, crank/cam shaft position sensors, DPF sensors, exhaust gas temperature sensors, knock sensors, MAF and Map sensors, oxygen sensors, throttle position sensors, and transmission speed sensors; fuel management products, which includes EGR valves and idle air control valves; and ignite systems, such as ignition modules and coils. It also provides charging systems, including brush holders, diodes and diode trios, rectifiers, repair circuits, voltage regulators, and others. In addition, the company offers safety systems comprising park assist cameras, PDC parking sensors, and tire pressure monitoring systems. It also exports its products. The company was founded in 1982 and is based in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Nancy  Tsai', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhan  Zhiwei', 'title': 'Chief Accounting Officer & Corporate governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kim  Tsai', 'title': 'President of Mobiletron Brazil', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	47.3
+open	47.3
+dayLow	46.7
+dayHigh	47.3
+regularMarketPreviousClose	47.3
+regularMarketOpen	47.3
+regularMarketDayLow	46.7
+regularMarketDayHigh	47.3
+exDividendDate	1662336000	 (2022-09-05 08:00:00)
+fiveYearAvgDividendYield	1.07
+volume	92367
+regularMarketVolume	92367
+averageVolume	210693
+averageVolume10days	437616
+averageDailyVolume10Day	437616
+bid	47.1
+ask	47.15
+marketCap	4641563648
+fiftyTwoWeekLow	43.6
+fiftyTwoWeekHigh	71.3
+priceToSalesTrailing12Months	1.2182102
+fiftyDayAverage	48.087
+twoHundredDayAverage	53.43225
+currency	TWD
+enterpriseValue	8558379520
+profitMargins	-0.04013
+sharesOutstanding	98547000
+heldPercentInsiders	0.41641998
+heldPercentInstitutions	0.00894
+impliedSharesOutstanding	99801000
+bookValue	22.789
+priceToBook	2.0667865
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-152900000
+trailingEps	-1.55
+lastSplitFactor	1040:1000
+lastSplitDate	1471996800	 (2016-08-24 08:00:00)
+enterpriseToRevenue	2.246
+enterpriseToEbitda	-72.488
+52WeekChange	-0.119626164
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1662336000	 (2022-09-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1533.TW
+underlyingSymbol	1533.TW
+shortName	MOBILETRON ELECTRONICS
+longName	Mobiletron Electronics Co.,Ltd.
+firstTradeDateEpochUtc	986778000	 (2001-04-09 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4314c3c3-684f-32ed-8cf1-def2255feaf2
+messageBoardId	finmb_9917194
+gmtOffSetMilliseconds	28800000
+currentPrice	47.1
+recommendationKey	none
+totalCash	1557275008
+totalCashPerShare	15.851
+ebitda	-118066000
+totalDebt	5029262848
+quickRatio	0.76
+currentRatio	1.213
+totalRevenue	3810149888
+debtToEquity	186.404
+revenuePerShare	38.689
+returnOnAssets	-0.021289999
+returnOnEquity	-0.09588
+freeCashflow	-518649376
+operatingCashflow	-468028992
+revenueGrowth	-0.209
+grossMargins	0.18969999
+ebitdaMargins	-0.030989999
+operatingMargins	-0.17021
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                             90773000.0   215061000.0   239037000.0   263171000.0
+Net Income From Continuing Operation Net Minority Interest  -129448000.0    41279000.0    86629000.0    85187000.0
+Reconciled Depreciation                                      223077000.0   206069000.0   169338000.0   172648000.0
+Reconciled Cost Of Revenue                                  3235535000.0  2489277000.0  2055347000.0  2062214000.0
+EBITDA                                                        90773000.0   215061000.0   239037000.0   263171000.0
+EBIT                                                        -132304000.0     8992000.0    69699000.0    90523000.0
+Net Interest Income                                          -38858000.0   -37518000.0   -28627000.0   -12889000.0
+Interest Expense                                              76497000.0    50326000.0    31953000.0    30381000.0
+Interest Income                                               37639000.0    12808000.0     3326000.0    17492000.0
+Normalized Income                                           -129448000.0    41279000.0    86629000.0    85187000.0
+Net Income From Continuing And Discontinued Operation       -129448000.0    41279000.0    86629000.0    85187000.0
+Total Expenses                                              4246311000.0  3457273000.0  2903442000.0  2802190000.0
+Diluted Average Shares                                        98547000.0    98607000.0    98623000.0    98738000.0
+Basic Average Shares                                          98547000.0    98547000.0    98547000.0    98547000.0
+Diluted EPS                                                        -1.31          0.42          0.88          0.86
+Basic EPS                                                          -1.31          0.42          0.88          0.86
+Diluted NI Availto Com Stockholders                         -129448000.0    41279000.0    86629000.0    85187000.0
+Net Income Common Stockholders                              -129448000.0    41279000.0    86629000.0    85187000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -129448000.0    41279000.0    86629000.0    85187000.0
+Minority Interests                                            91949000.0   105513000.0    73753000.0    90187000.0
+Net Income Including Noncontrolling Interests               -221397000.0   -64234000.0    12876000.0    -5000000.0
+Net Income Continuous Operations                            -221397000.0   -64234000.0    12876000.0    -5000000.0
+Tax Provision                                                 12596000.0    22900000.0    24870000.0    65142000.0
+Pretax Income                                               -208801000.0   -41334000.0    37746000.0    60142000.0
+Other Non Operating Income Expenses                           75432000.0    89565000.0    33334000.0    10754000.0
+Net Non Operating Interest Income Expense                    -38858000.0   -37518000.0   -28627000.0   -12889000.0
+Interest Expense Non Operating                                76497000.0    50326000.0    31953000.0    30381000.0
+Interest Income Non Operating                                 37639000.0    12808000.0     3326000.0    17492000.0
+Operating Income                                            -242676000.0   -91857000.0    29095000.0    64002000.0
+Operating Expense                                           1010776000.0   967996000.0   848095000.0   739976000.0
+Research And Development                                     214158000.0   181083000.0   191780000.0   159026000.0
+Selling General And Administration                           796618000.0   786913000.0   656315000.0   580950000.0
+Selling And Marketing Expense                                458578000.0   464158000.0   409419000.0   353776000.0
+General And Administrative Expense                           338040000.0   322755000.0   246896000.0   227174000.0
+Gross Profit                                                 768100000.0   876139000.0   877190000.0   803978000.0
+Cost Of Revenue                                             3235535000.0  2489277000.0  2055347000.0  2062214000.0
+Total Revenue                                               4003635000.0  3365416000.0  2932537000.0  2866192000.0
+Operating Revenue                                           4003635000.0  3365416000.0  2932537000.0  2866192000.0

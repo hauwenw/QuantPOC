@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.95, Xintai 5TH RD.
+address2	21st Floor. -8 Sec.1
+city	New Taipei
+country	Taiwan
+phone	886 2 2712 5311
+website	https://www.collins.com.tw
+industry	Specialty Retail
+industryKey	specialty-retail
+industryDisp	Specialty Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Collins Co., Ltd. exports sundry goods and garments to department stores, warehouse clubs, supermarkets, discounted stores, home centers, and drug stores and importers worldwide. The company operates through Trading Business Department, Fashion Life Business Department, Kidney Dialysis Business Department, and Other Business Department segments. Its products include indoor and outdoor furniture; lightings appliances; Christmas decorations and lightings; sporting travel related equipment. In addition, the company offers houseware, kitchenware; barbecue grills, firepits, and accessories; garments, garden tools, digital products; computer accessories, tool set and box, and auto accessories. Further, the company sells hemodialysis and dental consumables. Collins Co., Ltd. was incorporated in 1969 and is based in New Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chieh-Hsi  Lee', 'age': 43, 'title': 'CEO, President & Representative Director', 'yearBorn': 1980, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	22.4
+open	22.8
+dayLow	22.05
+dayHigh	23.05
+regularMarketPreviousClose	22.4
+regularMarketOpen	22.8
+regularMarketDayLow	22.05
+regularMarketDayHigh	23.05
+dividendRate	0.6
+dividendYield	0.026099999
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	1.0714
+fiveYearAvgDividendYield	2.58
+beta	0.798
+trailingPE	41.07143
+volume	2782627
+regularMarketVolume	2782627
+averageVolume	1275124
+averageVolume10days	2753912
+averageDailyVolume10Day	2753912
+bid	22.95
+ask	23.0
+marketCap	4809553408
+fiftyTwoWeekLow	15.6
+fiftyTwoWeekHigh	23.25
+priceToSalesTrailing12Months	0.60111415
+fiftyDayAverage	20.04
+twoHundredDayAverage	18.551
+trailingAnnualDividendRate	0.6
+trailingAnnualDividendYield	0.026785716
+currency	TWD
+enterpriseValue	10295472128
+profitMargins	0.01485
+sharesOutstanding	209111008
+heldPercentInsiders	0.52153
+heldPercentInstitutions	0.01212
+impliedSharesOutstanding	210556992
+bookValue	15.672
+priceToBook	1.4675856
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.186
+netIncomeToCommon	118777000
+trailingEps	0.56
+lastSplitFactor	1.034:1
+lastSplitDate	1312848000	 (2011-08-09 08:00:00)
+enterpriseToRevenue	1.287
+enterpriseToEbitda	14.144
+52WeekChange	0.42414856
+SandP52WeekChange	0.26265144
+lastDividendValue	0.6
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2906.TW
+underlyingSymbol	2906.TW
+shortName	COLLINS
+longName	Collins Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6c263825-d893-3a85-8909-6caae8174b14
+messageBoardId	finmb_9857997
+gmtOffSetMilliseconds	28800000
+currentPrice	23.0
+recommendationKey	none
+totalCash	1033425984
+totalCashPerShare	4.942
+ebitda	727928000
+totalDebt	3285082112
+quickRatio	1.083
+currentRatio	1.705
+totalRevenue	8001064960
+debtToEquity	50.45
+revenuePerShare	38.262
+returnOnAssets	0.025810001
+returnOnEquity	0.056339998
+freeCashflow	46614500
+operatingCashflow	563788032
+earningsGrowth	2.622
+revenueGrowth	0.093
+grossMargins	0.2982
+ebitdaMargins	0.09097999
+operatingMargins	0.07064
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -1614353.066913    2060248.771006   -2969116.859122   -198111.421921
+Tax Rate For Calcs                                                  0.281835          0.258144          0.240531         0.308105
+Normalized EBITDA                                                976764000.0       951583000.0       828977000.0      690052000.0
+Total Unusual Items                                               -5728000.0         7981000.0       -12344000.0        -643000.0
+Total Unusual Items Excluding Goodwill                            -5728000.0         7981000.0       -12344000.0        -643000.0
+Net Income From Continuing Operation Net Minority Interest       118777000.0       129704000.0        90834000.0       30461000.0
+Reconciled Depreciation                                          422840000.0       408948000.0       376902000.0      359325000.0
+Reconciled Cost Of Revenue                                      5615164000.0      6675059000.0      6324396000.0     4899127000.0
+EBITDA                                                           971036000.0       959564000.0       816633000.0      689409000.0
+EBIT                                                             548196000.0       550616000.0       439731000.0      330084000.0
+Net Interest Income                                              -49044000.0       -35082000.0       -33526000.0      -18614000.0
+Interest Expense                                                  63523000.0        44918000.0        41371000.0       27648000.0
+Interest Income                                                   14479000.0         9836000.0         7845000.0        9034000.0
+Normalized Income                                           122890646.933087  123783248.771006  100208883.140878  30905888.578079
+Net Income From Continuing And Discontinued Operation            118777000.0       129704000.0        90834000.0       30461000.0
+Total Expenses                                                  7540170000.0      8509033000.0      7903224000.0     6349011000.0
+Diluted Average Shares                                                   NaN       209373000.0       209328000.0      209245000.0
+Basic Average Shares                                                     NaN       209111000.0       209111000.0      209111000.0
+Diluted EPS                                                              NaN              0.62              0.43             0.15
+Basic EPS                                                                NaN              0.62              0.43             0.15
+Diluted NI Availto Com Stockholders                              118777000.0       129704000.0        90834000.0       30461000.0
+Net Income Common Stockholders                                   118777000.0       129704000.0        90834000.0       30461000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0              0.0
+Net Income                                                       118777000.0       129704000.0        90834000.0       30461000.0
+Minority Interests                                              -229298000.0      -245451000.0      -211708000.0     -178793000.0
+Net Income Including Noncontrolling Interests                    348075000.0       375155000.0       302542000.0      209254000.0
+Net Income Continuous Operations                                 348075000.0       375155000.0       302542000.0      209254000.0
+Tax Provision                                                    136598000.0       130543000.0        95818000.0       93182000.0
+Pretax Income                                                    484673000.0       505698000.0       398360000.0      302436000.0
+Other Non Operating Income Expenses                               74914000.0        87280000.0       116657000.0       77125000.0
+Special Income Charges                                            -5728000.0         7981000.0       -12344000.0        -643000.0
+Write Off                                                          5728000.0        -7981000.0        12344000.0         643000.0
+Net Non Operating Interest Income Expense                        -49044000.0       -35082000.0       -33526000.0      -18614000.0
+Interest Expense Non Operating                                    63523000.0        44918000.0        41371000.0       27648000.0
+Interest Income Non Operating                                     14479000.0         9836000.0         7845000.0        9034000.0
+Operating Income                                                 460895000.0       442838000.0       346893000.0      258174000.0
+Operating Expense                                               1925006000.0      1833974000.0      1578828000.0     1449884000.0
+Selling General And Administration                              1925006000.0      1833974000.0      1578828000.0     1449884000.0
+Selling And Marketing Expense                                   1038638000.0       960443000.0       802650000.0      712651000.0
+General And Administrative Expense                               886368000.0       873531000.0       776178000.0      737233000.0
+Gross Profit                                                    2385901000.0      2276812000.0      1925721000.0     1708058000.0
+Cost Of Revenue                                                 5615164000.0      6675059000.0      6324396000.0     4899127000.0
+Total Revenue                                                   8001065000.0      8951871000.0      8250117000.0     6607185000.0
+Operating Revenue                                               8001065000.0      8951871000.0      8250117000.0     6607185000.0

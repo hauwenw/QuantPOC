@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 24-1 Industry East Road IV
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	300
+country	Taiwan
+phone	886 3 564 3931
+fax	886 3 564 4624
+website	https://www.pttc.com.tw
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Polytronics Technology Corp. engages in the research, development, manufacture, and sale of circuit protection and thermal management solutions for high-density electronics systems in Taiwan and China. It provides EVERFUSE polymeric positive temperature coefficient products, including surface-mount devices for computers, portable electronics, game consoles, telephony and broadband products, mobile phones, industrial controls, batteries, and multimedia products; radial-leaded devices for AC/DC adapters, power supply products, USB hubs and accessories, computer accessories and related applications, medical equipment, industrial controls, and automotive and motor protection products; and battery device products for mobile phones, laptops and netbooks, PDAs, portable multimedia players, MP3s, and game consoles. The company also offers telecom products for xDSL, VoIP, MDF module, Ethernet, and telecom analog and digital line card applications, as well as for modem, telephone, and facsimile machines; current limiting modules for note book, cell phone, ultrabook, tablet PC, cordless vacuum cleaner, E-bikes, self-balancing scooter, energy storage system, and automotive applications; surface mount fuses; transient voltage suppressor diodes; thyristor surge suppressor devices; and thermal conductive boards for automotive lighting, power module, solar cell, IC packing, and LED applications. In addition, it offers electrostatic discharge protectors; metal oxide varistors; gas discharge tubes; thermal setable pads; thermal dissipation coating materials; thermal conductive inks; heat dispersing materials; and overvoltage protection element and related semi-finished goods, modules and dies, and LED lightings and modules. Polytronics Technology Corp. was incorporated in 1997 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Edward  Chu', 'title': 'CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Wang', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dennis  Ho', 'title': 'Vice President of Financial & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jong  Wang', 'title': 'VP & General Counsel', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Oscar  Yang', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Glory  Lu', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  Yu', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Enoch  Chen', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Simmon  Sha', 'title': 'Managing Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	55.0
+open	55.5
+dayLow	53.7
+dayHigh	55.5
+regularMarketPreviousClose	55.0
+regularMarketOpen	55.5
+regularMarketDayLow	53.7
+regularMarketDayHigh	55.5
+dividendRate	1.5
+dividendYield	0.0293
+exDividendDate	1681948800	 (2023-04-20 08:00:00)
+payoutRatio	1.0204
+fiveYearAvgDividendYield	4.61
+trailingPE	36.598637
+forwardPE	768.5714
+volume	64289
+regularMarketVolume	64289
+averageVolume	177205
+averageVolume10days	114062
+averageDailyVolume10Day	114062
+bid	53.8
+ask	54.0
+marketCap	4607700992
+fiftyTwoWeekLow	50.6
+fiftyTwoWeekHigh	66.5
+priceToSalesTrailing12Months	1.6728348
+fiftyDayAverage	55.608
+twoHundredDayAverage	55.638
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.027272727
+currency	TWD
+enterpriseValue	4379195904
+profitMargins	0.04625
+sharesOutstanding	85645000
+heldPercentInsiders	0.30527002
+heldPercentInstitutions	0.0093
+impliedSharesOutstanding	86139104
+bookValue	30.048
+priceToBook	1.7904686
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	4.013
+netIncomeToCommon	127388000
+trailingEps	1.47
+forwardEps	0.07
+lastSplitFactor	102.4927:100
+lastSplitDate	1215388800	 (2008-07-07 08:00:00)
+enterpriseToRevenue	1.59
+enterpriseToEbitda	23.935
+52WeekChange	-0.08503401
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1681948800	 (2023-04-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6224.TW
+underlyingSymbol	6224.TW
+shortName	POLYTRONICS TECHNOLOGY CORP
+longName	Polytronics Technology Corp.
+firstTradeDateEpochUtc	1253149200	 (2009-09-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d363860b-8e35-3c34-95c9-a04042c779b8
+messageBoardId	finmb_2482649
+gmtOffSetMilliseconds	28800000
+currentPrice	53.8
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1379689984
+totalCashPerShare	16.277
+ebitda	182964000
+totalDebt	1006622976
+quickRatio	1.421
+currentRatio	1.912
+totalRevenue	2754426880
+debtToEquity	36.752
+revenuePerShare	32.407
+returnOnAssets	-0.0050199996
+returnOnEquity	-0.0033500001
+freeCashflow	372074624
+operatingCashflow	397038016
+earningsGrowth	4.0
+revenueGrowth	-0.059
+grossMargins	0.26860002
+ebitdaMargins	0.06643
+operatingMargins	-0.01363
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -4250800.0     -101400.0     513894.946699   -3213177.136662
+Tax Rate For Calcs                                                   0.2           0.2          0.209924          0.167921
+Normalized EBITDA                                            323603000.0   225380000.0       751122000.0       607978000.0
+Total Unusual Items                                          -21254000.0     -507000.0         2448000.0       -19135000.0
+Total Unusual Items Excluding Goodwill                       -21254000.0     -507000.0         2448000.0       -19135000.0
+Net Income From Continuing Operation Net Minority Interest   106353000.0    89938000.0       510054000.0       400635000.0
+Reconciled Depreciation                                      241993000.0   240594000.0       169667000.0       101340000.0
+Reconciled Cost Of Revenue                                  2092778000.0  2433974000.0      1967347000.0       887730000.0
+EBITDA                                                       302349000.0   224873000.0       753570000.0       588843000.0
+EBIT                                                          60356000.0   -15721000.0       583903000.0       487503000.0
+Net Interest Income                                          -14549000.0    -6171000.0        -6429000.0          597000.0
+Interest Expense                                              27677000.0    13296000.0        13088000.0         6016000.0
+Interest Income                                               13128000.0     7125000.0         6659000.0         6613000.0
+Normalized Income                                            123356200.0    90343600.0  508119894.946699  416556822.863338
+Net Income From Continuing And Discontinued Operation        106353000.0    89938000.0       510054000.0       400635000.0
+Total Expenses                                              2847049000.0  3128007000.0      2578256000.0      1324207000.0
+Diluted Average Shares                                        86357000.0    86458000.0        87109000.0        81979000.0
+Basic Average Shares                                          85645000.0    85645000.0        84683000.0        81241000.0
+Diluted EPS                                                         1.23          1.04              5.89              4.96
+Basic EPS                                                           1.24          1.05              6.02              5.01
+Diluted NI Availto Com Stockholders                          106353000.0    89938000.0       510054000.0       400635000.0
+Net Income Common Stockholders                               106353000.0    89938000.0       510054000.0       400635000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0               0.0
+Net Income                                                   106353000.0    89938000.0       510054000.0       400635000.0
+Minority Interests                                           135322000.0   196133000.0        59067000.0               0.0
+Net Income Including Noncontrolling Interests                -28969000.0  -106195000.0       450987000.0       400635000.0
+Net Income Continuous Operations                             -28969000.0  -106195000.0       450987000.0       400635000.0
+Tax Provision                                                 61648000.0    77178000.0       119828000.0        80852000.0
+Pretax Income                                                 32679000.0   -29017000.0       570815000.0       481487000.0
+Other Non Operating Income Expenses                          121779000.0   162817000.0        71459000.0        56965000.0
+Special Income Charges                                       -21254000.0     -507000.0         2448000.0       -19135000.0
+Write Off                                                     21254000.0      507000.0        -2448000.0        19135000.0
+Net Non Operating Interest Income Expense                    -14549000.0    -6171000.0        -6429000.0          597000.0
+Interest Expense Non Operating                                27677000.0    13296000.0        13088000.0         6016000.0
+Interest Income Non Operating                                 13128000.0     7125000.0         6659000.0         6613000.0
+Operating Income                                             -53297000.0  -185156000.0       503337000.0       443060000.0
+Operating Expense                                            754271000.0   694033000.0       610909000.0       436477000.0
+Research And Development                                     223886000.0   175932000.0       154811000.0       143743000.0
+Selling General And Administration                           530385000.0   518101000.0       456098000.0       292734000.0
+Selling And Marketing Expense                                224433000.0   194545000.0       196685000.0        98081000.0
+General And Administrative Expense                           305952000.0   323556000.0       259413000.0       194653000.0
+Gross Profit                                                 700974000.0   508877000.0      1114246000.0       879537000.0
+Cost Of Revenue                                             2092778000.0  2433974000.0      1967347000.0       887730000.0
+Total Revenue                                               2793752000.0  2942851000.0      3081593000.0      1767267000.0
+Operating Revenue                                           2793752000.0  2942851000.0      3081593000.0      1767267000.0

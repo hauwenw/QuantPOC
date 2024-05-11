@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	30, Chung King South Road
+address2	18th Floor Section 1
+city	Taipei
+zip	100
+country	Taiwan
+phone	886 2 2311 1111
+fax	886 2 2311 9691
+website	https://www.firstholding.com.tw
+industry	Banks - Regional
+industryKey	banks-regional
+industryDisp	Banks - Regional
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	First Financial Holding Co., Ltd., through its subsidiaries, provides various financial products and services in Taiwan, Asia, the United States, and internationally. The company operates through Banking Business, Securities Business, Investment Trust Business, Insurance Business, and Other Businesses segments. It engages in the management of securities investment trust funds and private funds business; life insurance business; and financial institution creditor's right, accounts receivable purchase, and real estate transaction businesses. In addition, the company is involved in the marketable securities brokerage, trading, and underwriting; futures introducing brokerage; margin and stock loans of marketable securities trading; registration and transfer agency operations for securities; and other securities-related businesses. Further, it engages in venture capital business management consultancy, investment consultancy, and enterprise operation management consultancy services. Additionally, the company offers chattel secured and repo trade, leasing, and receivable factoring services. It operates branches in Taiwan; overseas branches and sub-branches; and representative offices. First Financial Holding Co., Ltd. was founded in 1899 and is based in Taipei, Taiwan.
+fullTimeEmployees	10266
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Fen-Len  Chen', 'age': 62, 'title': 'President & Director', 'yearBorn': 1961, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chen Bean Lee', 'title': 'Head of Finance & Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mandy  Horng', 'title': 'Head of Administration Management Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jenn-Hwa  Wang', 'title': 'Executive VP, Chief Compliance Officer & Head of Compliance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Annie  Lee', 'title': 'Executive VP & Head of Strategy Planning Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. H.C  Lin', 'title': 'Chief Auditor & Head of Auditing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pei-Wen  Liu', 'title': 'Executive VP & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Patty  Tsai', 'title': 'Head of Business Development Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Ping  Wang', 'title': 'VP & Head of IT Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui-Hsing  Chang', 'title': 'C I O', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	27.75
+open	27.8
+dayLow	27.75
+dayHigh	28.0
+regularMarketPreviousClose	27.75
+regularMarketOpen	27.8
+regularMarketDayLow	27.75
+regularMarketDayHigh	28.0
+dividendRate	0.8
+dividendYield	0.0287
+exDividendDate	1691712000	 (2023-08-11 08:00:00)
+payoutRatio	0.48479998
+fiveYearAvgDividendYield	3.98
+beta	0.412
+trailingPE	16.90909
+forwardPE	17.012196
+volume	21521168
+regularMarketVolume	21521168
+averageVolume	14410119
+averageVolume10days	16257658
+averageDailyVolume10Day	16257658
+bid	27.9
+ask	27.95
+marketCap	380000796672
+fiftyTwoWeekLow	25.8
+fiftyTwoWeekHigh	28.446602
+priceToSalesTrailing12Months	6.184728
+fiftyDayAverage	27.339
+twoHundredDayAverage	27.01829
+currency	TWD
+enterpriseValue	626755502080
+profitMargins	0.36556998
+floatShares	11567589149
+sharesOutstanding	13620100096
+heldPercentInsiders	0.13043
+heldPercentInstitutions	0.33144
+impliedSharesOutstanding	13620100096
+bookValue	18.241
+priceToBook	1.5295215
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.176
+netIncomeToCommon	22461001728
+trailingEps	1.65
+forwardEps	1.64
+pegRatio	1.44
+lastSplitFactor	1030:1000
+lastSplitDate	1691712000	 (2023-08-11 08:00:00)
+enterpriseToRevenue	10.201
+52WeekChange	0.0487957
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1691712000	 (2023-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2892.TW
+underlyingSymbol	2892.TW
+shortName	FIRST FINANCIAL HOLDING CO LTD
+longName	First Financial Holding Co., Ltd.
+firstTradeDateEpochUtc	1041555600	 (2003-01-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7ed37fa0-862b-3d08-aa88-02564d51563e
+messageBoardId	finmb_7376197
+gmtOffSetMilliseconds	28800000
+currentPrice	27.9
+targetHighPrice	29.0
+targetLowPrice	20.5
+targetMeanPrice	25.93
+targetMedianPrice	27.1
+recommendationMean	3.1
+recommendationKey	hold
+numberOfAnalystOpinions	4
+totalCash	250453016576
+totalCashPerShare	18.388
+totalDebt	497206493184
+totalRevenue	61441794048
+revenuePerShare	4.511
+returnOnAssets	0.0052300002
+returnOnEquity	0.09506
+operatingCashflow	-202754473984
+earningsGrowth	-0.176
+revenueGrowth	0.029
+operatingMargins	0.33942002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31          2020-12-31
+Tax Effect Of Unusual Items                                    33364406.276166     29321647.087036     39717386.931003     24198043.607638
+Tax Rate For Calcs                                                    0.205265            0.158901            0.157655            0.143335
+Total Unusual Items                                                162543000.0         184528000.0         251926000.0         168822000.0
+Total Unusual Items Excluding Goodwill                             162543000.0         184528000.0         251926000.0         168822000.0
+Net Income From Continuing Operation Net Minority Interest       22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Reconciled Depreciation                                           2316507000.0        2243880000.0        2079392000.0        1972807000.0
+Net Interest Income                                              32524945000.0       37969147000.0       34588282000.0       30482847000.0
+Interest Expense                                                 71501734000.0       28085214000.0       10257797000.0       15617955000.0
+Interest Income                                                 104026679000.0       66054361000.0       44846079000.0       46100802000.0
+Normalized Income                                           22331822406.276165  20440456647.087036  19526836386.931004  16662917043.607637
+Net Income From Continuing And Discontinued Operation            22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Diluted Average Shares                                           13620145000.0       13620145000.0       13485292510.0       13620145445.0
+Basic Average Shares                                             13620145000.0       13620145000.0       13485292510.0       13620145445.0
+Diluted EPS                                                               1.65                1.51            1.446602            1.237388
+Basic EPS                                                                 1.65                1.51            1.446602            1.237388
+Diluted NI Availto Com Stockholders                              22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Net Income Common Stockholders                                   22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Net Income                                                       22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Net Income Including Noncontrolling Interests                    22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Net Income Continuous Operations                                 22461001000.0       20595663000.0       19739045000.0       16807541000.0
+Tax Provision                                                     5801255000.0        3890941000.0        3694399000.0        2812187000.0
+Pretax Income                                                    28262256000.0       24486604000.0       23433444000.0       19619728000.0
+Special Income Charges                                             -49749000.0          -5905000.0          67036000.0         -42493000.0
+Write Off                                                           49749000.0           5905000.0         -67036000.0          42493000.0
+Gain On Sale Of Security                                         19144523000.0        5423036000.0        6478941000.0        8703673000.0
+Operating Expense                                                32398689000.0       36278587000.0       35149281000.0       35448907000.0
+Other Operating Expenses                                          2016761000.0        8491401000.0        8874598000.0       10718734000.0
+Depreciation And Amortization In Income Statement                 2316507000.0        2243880000.0        2079392000.0        1972807000.0
+Depreciation Income Statement                                     2316507000.0        2243880000.0        2079392000.0        1972807000.0
+Selling General And Administration                                9334941000.0        7724393000.0        6863672000.0        6626301000.0
+General And Administrative Expense                                9334941000.0        7724393000.0        6863672000.0        6626301000.0
+Total Revenue                                                    66373558000.0       67271430000.0       62037245000.0       59485317000.0
+Operating Revenue                                                66373558000.0       67271430000.0       62037245000.0       59485317000.0

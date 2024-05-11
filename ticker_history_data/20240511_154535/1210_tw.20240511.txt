@@ -1,0 +1,161 @@
+=== Ticker Info ===
+address1	No.3, Niao-Song 2nd Street
+address2	Yongkang District
+city	Tainan City
+zip	71042
+country	Taiwan
+phone	886 6 253 1111
+fax	886 6 253 4596
+website	https://www.dachan.com
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Great Wall Enterprise Co., Ltd. procures, produces, processes, imports, markets, sells, distributes, wholesales, retails, exports, and transports oil, flour, meat, and processed food products in Taiwan, China, Vietnam, and internationally. It operates through six segments: Grain, Meat, Food, Catering and Shopping Malls, Southeast Asia, and East Asia. The company offers vegetable oil seeds, dried coconut, and rice bran; vegetable oil and its by-products, grains, feeds, soybean cakes and bakery products, and slurry and pulp powder; noodles, corn and soybean flour, biscuits, bread, wheat, canned food, instant noodles and rice flour, dairy and ice products, juices and beverages, and other related foods; seedlings; and chicken, pork, poultry livestock, and related processed food products. It also imports, exports, and sells alcohol; operates supermarkets, shopping malls, and leisure farms, as well as Japanese, Chinese, and western restaurants; sources, manufactures, processes, and sews various packaging supplies, including metal, alloy, plastic, paper, cloth, wooden cans, barrels, boxes, bags, etc; and builds, sells, and rents residential and commercial buildings. In addition, the company provides animal-used and western medicines; frozen prepared and refrigerated food; slaughtering of poultry and meat processing; coffee; livestock farming services; and fast-food products. Further, it manufactures and sells chemical fertilizers; and other food products. Additionally, the company engages in investment activities; warehousing; commodities and aquaculture trading; and research, consulting, and operations management services. It supplies its products to supermarkets and chain restaurants, as well as sells through online. Great Wall Enterprise Co., Ltd. was founded in 1957 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Fang-Hao  Han', 'title': 'President & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jianzhong  Liu', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tien Fu  Tseng', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien Kuo  Liang', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin Ho Jan', 'title': 'Senior Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Tai  Wang', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	58.1
+open	58.1
+dayLow	57.6
+dayHigh	58.5
+regularMarketPreviousClose	58.1
+regularMarketOpen	58.1
+regularMarketDayLow	57.6
+regularMarketDayHigh	58.5
+dividendRate	1.5
+dividendYield	0.025999999
+exDividendDate	1722470400	 (2024-08-01 08:00:00)
+payoutRatio	0.3125
+fiveYearAvgDividendYield	4.22
+beta	0.579
+trailingPE	11.999999
+forwardPE	11.999999
+volume	1539781
+regularMarketVolume	1539781
+averageVolume	2265282
+averageVolume10days	1383548
+averageDailyVolume10Day	1383548
+bid	57.6
+ask	57.7
+marketCap	48712720384
+fiftyTwoWeekLow	50.8
+fiftyTwoWeekHigh	64.0
+priceToSalesTrailing12Months	0.4384231
+fiftyDayAverage	57.842
+twoHundredDayAverage	56.197
+trailingAnnualDividendRate	2.2
+trailingAnnualDividendYield	0.03786575
+currency	TWD
+enterpriseValue	71856545792
+profitMargins	0.03662
+floatShares	534368425
+sharesOutstanding	845707008
+heldPercentInsiders	0.3222
+heldPercentInstitutions	0.08959
+impliedSharesOutstanding	850142976
+bookValue	28.013
+priceToBook	2.056188
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.586
+netIncomeToCommon	4069203968
+trailingEps	4.8
+forwardEps	4.8
+lastSplitFactor	1050:1000
+lastSplitDate	1661817600	 (2022-08-30 08:00:00)
+enterpriseToRevenue	0.647
+enterpriseToEbitda	8.831
+52WeekChange	0.09090912
+SandP52WeekChange	0.26265144
+lastDividendValue	2.2
+lastDividendDate	1722470400	 (2024-08-01 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1210.TW
+underlyingSymbol	1210.TW
+shortName	GREAT WALL ENTERPRISE
+longName	Great Wall Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	42ff74da-fd53-3e1c-af21-8d44f4fd1c4a
+messageBoardId	finmb_11149950
+gmtOffSetMilliseconds	28800000
+currentPrice	57.6
+targetHighPrice	65.0
+targetLowPrice	65.0
+targetMeanPrice	65.0
+targetMedianPrice	65.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	6396902912
+totalCashPerShare	7.564
+ebitda	8137119744
+totalDebt	21414559744
+quickRatio	0.528
+currentRatio	1.012
+totalRevenue	111108931584
+debtToEquity	67.306
+revenuePerShare	131.38
+returnOnAssets	0.059180003
+returnOnEquity	0.15824
+freeCashflow	3310081024
+operatingCashflow	9768055808
+earningsGrowth	0.578
+revenueGrowth	-0.078
+grossMargins	0.13465
+ebitdaMargins	0.07324
+operatingMargins	0.05376
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   18633050.307786    -6675529.667599   -53743950.030796    -5832163.869563
+Tax Rate For Calcs                                                   0.195211           0.168018           0.216403           0.182832
+Normalized EBITDA                                                9068846000.0       6336891000.0       5352706000.0       7186441000.0
+Total Unusual Items                                                95451000.0        -39731000.0       -248351000.0        -31899000.0
+Total Unusual Items Excluding Goodwill                             95451000.0        -39731000.0       -248351000.0        -31899000.0
+Net Income From Continuing Operation Net Minority Interest       4069204000.0       2193061000.0       1869385000.0       3122071000.0
+Reconciled Depreciation                                          2543202000.0       2396566000.0       1933014000.0       1891427000.0
+Reconciled Cost Of Revenue                                      96148202000.0     101938516000.0      90701292000.0      69388663000.0
+EBITDA                                                           9164297000.0       6297160000.0       5104355000.0       7154542000.0
+EBIT                                                             6621095000.0       3900594000.0       3171341000.0       5263115000.0
+Net Interest Income                                              -652496000.0       -474887000.0       -284623000.0       -279627000.0
+Interest Expense                                                  652496000.0        474887000.0        284623000.0        279627000.0
+Normalized Income                                           3992386050.307786  2226116470.332401  2063992049.969204  3148137836.130437
+Net Income From Continuing And Discontinued Operation            4069204000.0       2193061000.0       1869385000.0       3122071000.0
+Total Expenses                                                 105184100000.0     110199351000.0      98844099000.0      77407045000.0
+Diluted Average Shares                                                    NaN        847683000.0        822974000.0        847568400.0
+Basic Average Shares                                                      NaN        845707000.0        821075000.0        845707800.0
+Diluted EPS                                                               NaN               2.59               2.21           3.685714
+Basic EPS                                                                 NaN               2.59               2.21           3.695238
+Diluted NI Availto Com Stockholders                              4069204000.0       2193061000.0       1869385000.0       3122071000.0
+Net Income Common Stockholders                                   4069204000.0       2193061000.0       1869385000.0       3122071000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       4069204000.0       2193061000.0       1869385000.0       3122071000.0
+Minority Interests                                               -734261000.0       -657065000.0       -392638000.0       -950275000.0
+Net Income Including Noncontrolling Interests                    4803465000.0       2850126000.0       2262023000.0       4072346000.0
+Net Income Continuous Operations                                 4803465000.0       2850126000.0       2262023000.0       4072346000.0
+Tax Provision                                                    1165134000.0        575581000.0        624695000.0        911142000.0
+Pretax Income                                                    5968599000.0       3425707000.0       2886718000.0       4983488000.0
+Other Non Operating Income Expenses                               640356000.0        872973000.0        819763000.0       1035132000.0
+Special Income Charges                                             95451000.0        -39731000.0       -248351000.0        -31899000.0
+Write Off                                                         -95451000.0         39731000.0        248351000.0         31899000.0
+Net Non Operating Interest Income Expense                        -652496000.0       -474887000.0       -284623000.0       -279627000.0
+Interest Expense Non Operating                                    652496000.0        474887000.0        284623000.0        279627000.0
+Operating Income                                                 5924829000.0       3097935000.0       2593743000.0       4243847000.0
+Operating Expense                                                9035898000.0       8260835000.0       8142807000.0       8018382000.0
+Research And Development                                          147470000.0        151987000.0        138290000.0        169130000.0
+Selling General And Administration                               8888428000.0       8108848000.0       8004517000.0       7849252000.0
+Selling And Marketing Expense                                    6284624000.0       5605608000.0       5648032000.0       5460747000.0
+General And Administrative Expense                               2603804000.0       2503240000.0       2356485000.0       2388505000.0
+Gross Profit                                                    14960727000.0      11358770000.0      10736550000.0      12262229000.0
+Cost Of Revenue                                                 96148202000.0     101938516000.0      90701292000.0      69388663000.0
+Total Revenue                                                  111108929000.0     113297286000.0     101437842000.0      81650892000.0
+Operating Revenue                                              111108929000.0     113297286000.0     101437842000.0      81650892000.0

@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No.7, Beiyuan 1st Road
+address2	Tainan Science Industrial Park Shanhua District
+city	Tainan City
+zip	74149
+country	Taiwan
+phone	886 6 505 3959
+fax	886 2 505 2308
+website	https://www.hannstouch.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	HannsTouch Holdings Company manufactures and sells touch sensors in Taiwan, South Korea, China, and Europe. The company offers AMOLED touch sensors for smartphones, wearable consumer products, tablets, laptops, and other IT products; E-paper display TFT backplane for electronic shelf labels, E-readers, digital signage, credit cards and smart cards, logistics labels, smart luggage tags, smart forms, healthcare technology, and sports devices; and flexible touch sensors for Smartphones, wearable consumer products, IT products, wearable health monitoring devices, and smart phone products. It also provides industrial application touch sensors for medical display instruments, automotive operating systems, education interactive whiteboards, entertainment gaming facilities, military high-spec devices, and industrial control panels; and fingerprint on display backplane for mobile fingerprint recognition, airport security screening, physiological detection, automated item monitoring, and vein recognition. The company was formerly known as HannsTouch Solution Incorporated and changed its name to HannsTouch Holdings Company in June 2023. HannsTouch Holdings Company was incorporated in 1999 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Lien-Hsiang  Chiang', 'title': 'President & Head of Corporate Governance', 'fiscalYear': 2021, 'totalPay': 5361680, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Li-Zhi  Lei', 'title': 'Vice President of New Ventures', 'fiscalYear': 2021, 'totalPay': 180000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rebecca  Ma', 'title': 'GM, CEO & Chairman', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Chieh  Yeh', 'title': 'Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Janet  Weng', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	8.11
+open	8.15
+dayLow	8.06
+dayHigh	8.15
+regularMarketPreviousClose	8.11
+regularMarketOpen	8.15
+regularMarketDayLow	8.06
+regularMarketDayHigh	8.15
+exDividendDate	1657152000	 (2022-07-07 08:00:00)
+forwardPE	26.129034
+volume	864749
+regularMarketVolume	864749
+averageVolume	1904345
+averageVolume10days	1414454
+averageDailyVolume10Day	1414454
+bid	8.1
+ask	8.12
+marketCap	6465914368
+fiftyTwoWeekLow	7.61
+fiftyTwoWeekHigh	11.5
+priceToSalesTrailing12Months	5.302681
+fiftyDayAverage	8.3024
+twoHundredDayAverage	9.2097
+currency	TWD
+enterpriseValue	8457418752
+profitMargins	-0.79085
+floatShares	482257461
+sharesOutstanding	798260992
+heldPercentInsiders	0.39742002
+heldPercentInstitutions	0.043870002
+impliedSharesOutstanding	798260992
+bookValue	10.822
+priceToBook	0.7484754
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-964337024
+trailingEps	-1.2
+forwardEps	0.31
+lastSplitFactor	0.632226:1
+lastSplitDate	1443052800	 (2015-09-24 08:00:00)
+enterpriseToRevenue	6.936
+enterpriseToEbitda	-39.179
+52WeekChange	-0.14012736
+SandP52WeekChange	0.26265144
+lastDividendValue	0.35
+lastDividendDate	1657152000	 (2022-07-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3049.TW
+underlyingSymbol	3049.TW
+shortName	HANNSTOUCH HOLDINGS COMPANY
+longName	HannsTouch Holdings Company
+firstTradeDateEpochUtc	1033347600	 (2002-09-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	334152b1-1abf-35cd-8177-799acb0ed816
+messageBoardId	finmb_9406404
+gmtOffSetMilliseconds	28800000
+currentPrice	8.1
+recommendationKey	none
+totalCash	2255809024
+totalCashPerShare	2.846
+ebitda	-215864000
+totalDebt	3736442112
+quickRatio	3.141
+currentRatio	3.422
+totalRevenue	1219367040
+debtToEquity	40.905
+revenuePerShare	1.517
+returnOnAssets	-0.05009
+returnOnEquity	-0.10325
+freeCashflow	249358368
+operatingCashflow	-312649984
+revenueGrowth	-0.275
+grossMargins	-0.73811996
+ebitdaMargins	-0.17703
+operatingMargins	-0.98706
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      11400.0        2000.0       -2008.167022      10006.765812
+Tax Rate For Calcs                                                   0.2           0.2           0.182561          0.222373
+Normalized EBITDA                                             83515000.0   958158000.0       2178188000.0      1553236000.0
+Total Unusual Items                                              57000.0       10000.0           -11000.0           45000.0
+Total Unusual Items Excluding Goodwill                           57000.0       10000.0           -11000.0           45000.0
+Net Income From Continuing Operation Net Minority Interest  -899775000.0    24772000.0       1000398000.0       350004000.0
+Reconciled Depreciation                                      969034000.0   893077000.0        825652000.0       993414000.0
+Reconciled Cost Of Revenue                                  2151502000.0  2272770000.0       2477053000.0      2375024000.0
+EBITDA                                                        83572000.0   958168000.0       2178177000.0      1553281000.0
+EBIT                                                        -885462000.0    65091000.0       1352525000.0       559867000.0
+Net Interest Income                                          -29199000.0   -34045000.0        -60169000.0       -93784000.0
+Interest Expense                                              62104000.0    50853000.0         70540000.0        97247000.0
+Interest Income                                               32905000.0    16808000.0         10371000.0         3463000.0
+Normalized Income                                           -899820600.0    24764000.0  1000406991.832978  349969006.765812
+Net Income From Continuing And Discontinued Operation       -899775000.0    24772000.0       1000398000.0       350004000.0
+Total Expenses                                              2397523000.0  2502717000.0       2772506000.0      2667602000.0
+Diluted Average Shares                                       802377000.0   806992000.0        810566000.0       810673000.0
+Basic Average Shares                                         802377000.0   806460000.0        806949000.0       806949000.0
+Diluted EPS                                                        -1.12          0.03               1.23              0.43
+Basic EPS                                                          -1.12          0.03               1.24              0.43
+Diluted NI Availto Com Stockholders                         -899775000.0    24772000.0       1000398000.0       350004000.0
+Net Income Common Stockholders                              -899775000.0    24772000.0       1000398000.0       350004000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0                0.0               0.0
+Net Income                                                  -899775000.0    24772000.0       1000398000.0       350004000.0
+Minority Interests                                            51392000.0    -4493000.0        -47547000.0        -9742000.0
+Net Income Including Noncontrolling Interests               -951167000.0    29265000.0       1047945000.0       359746000.0
+Net Income Continuous Operations                            -951167000.0    29265000.0       1047945000.0       359746000.0
+Tax Provision                                                  3601000.0   -15027000.0        234040000.0       102874000.0
+Pretax Income                                               -947566000.0    14238000.0       1281985000.0       462620000.0
+Other Non Operating Income Expenses                          147273000.0   145027000.0        338849000.0       137562000.0
+Special Income Charges                                           57000.0       10000.0           -11000.0           45000.0
+Write Off                                                       -57000.0      -10000.0            11000.0          -45000.0
+Net Non Operating Interest Income Expense                    -29199000.0   -34045000.0        -60169000.0       -93784000.0
+Interest Expense Non Operating                                62104000.0    50853000.0         70540000.0        97247000.0
+Interest Income Non Operating                                 32905000.0    16808000.0         10371000.0         3463000.0
+Operating Income                                           -1065697000.0   -96754000.0       1003316000.0       418797000.0
+Operating Expense                                            246021000.0   229947000.0        295453000.0       292578000.0
+Research And Development                                      27916000.0    32765000.0         33939000.0        40679000.0
+Selling General And Administration                           218105000.0   197182000.0        261514000.0       251899000.0
+Selling And Marketing Expense                                 42631000.0    30223000.0         36360000.0        27311000.0
+General And Administrative Expense                           175474000.0   166959000.0        225154000.0       224588000.0
+Gross Profit                                                -819676000.0   133193000.0       1298769000.0       711375000.0
+Cost Of Revenue                                             2151502000.0  2272770000.0       2477053000.0      2375024000.0
+Total Revenue                                               1331826000.0  2405963000.0       3775822000.0      3086399000.0
+Operating Revenue                                           1331826000.0  2405963000.0       3775822000.0      3086399000.0

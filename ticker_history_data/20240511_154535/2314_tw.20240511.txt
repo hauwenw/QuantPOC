@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	No. 1, Innovation Road II
+city	Hsinchu City
+zip	300
+country	Taiwan
+phone	886 3 577 3335
+fax	886 3 577 7121
+website	https://www.mtigroup.com
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Microelectronics Technology Inc. designs, manufactures, and sells microwave and satellite communication products in the United States, Mainland China, and internationally. The company offers wireless communication products, including satellite communication equipment, terrestrial microwave radios for cellular backhaul, mobile transceiver base station modules and subsystems, wireless broadband access terminals, and radio frequency identification (RFID) readers and modules. It also provides low noise block down converters; very small aperture terminal RF equipment for satellite broadband applications; transceivers and flat panel antenna modules; 4G/5G radio units; microwave and millimeter-wave transceivers and outdoor units; and RFID products. The company was incorporated in 1983 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Eugene  Wu', 'title': 'President, GM & CEO', 'fiscalYear': 2021, 'totalPay': 3812000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Dunga  Wu', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 3187000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Vivian  Chiu', 'title': 'VP of Finance & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Xiong  Yu', 'title': 'Chief Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wan-Ping  Su', 'title': 'Assistant Vice President of Sales', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hualin  Chi', 'title': 'Vice President of Human Resource Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger  Chang', 'title': 'President of Jupiter Technology', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	30.2
+open	30.6
+dayLow	30.0
+dayHigh	30.6
+regularMarketPreviousClose	30.2
+regularMarketOpen	30.6
+regularMarketDayLow	30.0
+regularMarketDayHigh	30.6
+exDividendDate	1562630400	 (2019-07-09 08:00:00)
+beta	1.236
+forwardPE	22.169117
+volume	398638
+regularMarketVolume	398638
+averageVolume	1102173
+averageVolume10days	552903
+averageDailyVolume10Day	552903
+bid	30.15
+ask	30.2
+marketCap	7598644224
+fiftyTwoWeekLow	29.9
+fiftyTwoWeekHigh	49.463017
+priceToSalesTrailing12Months	2.265684
+fiftyDayAverage	32.386
+twoHundredDayAverage	35.880802
+currency	TWD
+enterpriseValue	9262926848
+profitMargins	-0.18479
+floatShares	205082744
+sharesOutstanding	252028000
+heldPercentInsiders	0.19632
+heldPercentInstitutions	0.00559
+impliedSharesOutstanding	257270000
+bookValue	7.467
+priceToBook	4.037766
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-619758016
+trailingEps	-3.06
+forwardEps	1.36
+lastSplitFactor	0.5:1
+lastSplitDate	1474243200	 (2016-09-19 08:00:00)
+enterpriseToRevenue	2.762
+enterpriseToEbitda	-22.887
+52WeekChange	-0.3529232
+SandP52WeekChange	0.26265144
+lastDividendValue	0.196343
+lastDividendDate	1562630400	 (2019-07-09 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2314.TW
+underlyingSymbol	2314.TW
+shortName	MICROELECTRONICS TECHNOLOGY
+longName	Microelectronics Technology Inc.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7b5a2358-99ac-30b1-b223-2c564a4811c7
+messageBoardId	finmb_31509
+gmtOffSetMilliseconds	28800000
+currentPrice	30.15
+recommendationKey	none
+totalCash	1024734016
+totalCashPerShare	4.066
+ebitda	-404716000
+totalDebt	2689017088
+quickRatio	0.61
+currentRatio	1.256
+totalRevenue	3353797120
+debtToEquity	142.879
+revenuePerShare	14.051
+returnOnAssets	-0.054759998
+returnOnEquity	-0.31304002
+freeCashflow	-70027872
+operatingCashflow	-197494000
+revenueGrowth	-0.639
+grossMargins	0.12926
+ebitdaMargins	-0.120670006
+operatingMargins	-0.48459998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31        2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -2994600.0    -1132000.0    -196926.633043      -49800.0
+Tax Rate For Calcs                                                   0.2           0.2          0.018307           0.2
+Normalized EBITDA                                           -225952000.0  -194615000.0      -234746000.0    97850000.0
+Total Unusual Items                                          -14973000.0    -5660000.0       -10757000.0     -249000.0
+Total Unusual Items Excluding Goodwill                       -14973000.0    -5660000.0       -10757000.0     -249000.0
+Net Income From Continuing Operation Net Minority Interest  -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Reconciled Depreciation                                      231729000.0   217225000.0       192665000.0   162730000.0
+Reconciled Cost Of Revenue                                  2920279000.0  3852993000.0      3414680000.0  3210125000.0
+EBITDA                                                      -240925000.0  -200275000.0      -245503000.0    97601000.0
+EBIT                                                        -472654000.0  -417500000.0      -438168000.0   -65129000.0
+Net Interest Income                                          -71314000.0   -44128000.0       -16314000.0    -8929000.0
+Interest Expense                                              81204000.0    48609000.0        20240000.0    15416000.0
+Interest Income                                                9890000.0     4481000.0         3926000.0     6487000.0
+Normalized Income                                           -607779600.0  -481883000.0 -439455926.633043   -95215800.0
+Net Income From Continuing And Discontinued Operation       -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Total Expenses                                              3865407000.0  4895380000.0      4394257000.0  4086757000.0
+Diluted Average Shares                                       238368462.0   236121845.0       230503535.0   232275186.0
+Basic Average Shares                                         238368462.0   236121845.0       230503535.0   232275186.0
+Diluted EPS                                                         -2.6         -2.06         -1.948843      -0.41232
+Basic EPS                                                           -2.6         -2.06         -1.948843      -0.41232
+Diluted NI Availto Com Stockholders                         -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Net Income Common Stockholders                              -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0               0.0           0.0
+Net Income                                                  -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Minority Interests                                                   NaN           NaN               0.0           0.0
+Net Income Including Noncontrolling Interests               -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Net Income Continuous Operations                            -619758000.0  -486411000.0      -450016000.0   -95415000.0
+Tax Provision                                                 65900000.0    20302000.0        -8392000.0    14870000.0
+Pretax Income                                               -553858000.0  -466109000.0      -458408000.0   -80545000.0
+Other Non Operating Income Expenses                           44039000.0    -3242000.0        33068000.0    65393000.0
+Special Income Charges                                       -14973000.0    -5660000.0       -10757000.0     -249000.0
+Write Off                                                     14973000.0     5660000.0        10757000.0      249000.0
+Net Non Operating Interest Income Expense                    -71314000.0   -44128000.0       -16314000.0    -8929000.0
+Interest Expense Non Operating                                81204000.0    48609000.0        20240000.0    15416000.0
+Interest Income Non Operating                                  9890000.0     4481000.0         3926000.0     6487000.0
+Operating Income                                            -511610000.0  -413079000.0      -464405000.0  -136760000.0
+Operating Expense                                            945128000.0  1042387000.0       979577000.0   876632000.0
+Research And Development                                     682354000.0   731186000.0       701953000.0   604499000.0
+Selling General And Administration                           262774000.0   311201000.0       277624000.0   272133000.0
+Selling And Marketing Expense                                123038000.0   160882000.0       150219000.0   139715000.0
+General And Administrative Expense                           139736000.0   150319000.0       127405000.0   132418000.0
+Gross Profit                                                 433518000.0   629308000.0       515172000.0   739872000.0
+Cost Of Revenue                                             2920279000.0  3852993000.0      3414680000.0  3210125000.0
+Total Revenue                                               3353797000.0  4482301000.0      3929852000.0  3949997000.0
+Operating Revenue                                           3353797000.0  4482301000.0      3929852000.0  3949997000.0

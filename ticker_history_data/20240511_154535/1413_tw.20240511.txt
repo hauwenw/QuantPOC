@@ -1,0 +1,138 @@
+=== Ticker Info ===
+address1	No. 607, Ruiguang Road
+address2	7th Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2657 5859
+fax	886 2 8797 7888
+website	https://www.hungchou.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hung Chou Fiber Ind. Co., Ltd manufactures and sells polyester filaments in Taiwan and internationally. It offers polyester chips, polyester pre-oriented yarns, polyester fully drawn yarns, polyester drawn textured yarns, and biodegradable yarns. The company also provides functional MB non-woven fabrics for medical application; antibacterial fibers for medical disposable, personal care, apparel, and filtration application; and dyeable graphene fibers for garment, apparel, bedding, sheet, sportswear, outfits, and protective gear application. In addition, it engages in the manufacture, processing, and trading of synthetic chemical fibers and plastic spinning products. The company was formerly known as Hung Chou Chemical Industries Co. Ltd. and changed its name to Hung Chou Fiber Ind. Co., Ltd in June 2015. Hung Chou Fiber Ind. Co., Ltd was founded in 1968 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	196
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng Tien  Chan', 'title': 'Chairman & Manager', 'fiscalYear': 2013, 'totalPay': 108000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Jin  Chen', 'title': 'Executive Director', 'fiscalYear': 2013, 'totalPay': 465000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'G. L.  Lin', 'title': 'General Manager', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wallace  Lin', 'title': 'Accounting Supervisor', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1388448000
+maxAge	86400
+priceHint	2
+previousClose	10.1
+open	10.1
+dayLow	9.81
+dayHigh	10.15
+regularMarketPreviousClose	10.1
+regularMarketOpen	10.1
+regularMarketDayLow	9.81
+regularMarketDayHigh	10.15
+beta	0.404
+volume	468672
+regularMarketVolume	468672
+averageVolume	293974
+averageVolume10days	1348373
+averageDailyVolume10Day	1348373
+bid	9.98
+ask	10.0
+marketCap	1321120000
+fiftyTwoWeekLow	7.96
+fiftyTwoWeekHigh	11.85
+priceToSalesTrailing12Months	0.6620908
+fiftyDayAverage	9.3846
+twoHundredDayAverage	8.7159
+currency	TWD
+enterpriseValue	2115547008
+profitMargins	-0.06655
+floatShares	126580854
+sharesOutstanding	132112000
+heldPercentInsiders	0.54208
+impliedSharesOutstanding	134690000
+bookValue	8.29
+priceToBook	1.2062726
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-132786000
+trailingEps	-0.86
+lastSplitFactor	0.6:1
+lastSplitDate	1415923200	 (2014-11-14 08:00:00)
+enterpriseToRevenue	1.06
+enterpriseToEbitda	-33.324
+52WeekChange	0.09289622
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	1413.TW
+underlyingSymbol	1413.TW
+shortName	HUNG CHOU FIBER IND. CO.  LTD
+longName	Hung Chou Fiber Ind. Co., Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d00f0026-a3ff-3a12-9205-a198627cbdf6
+messageBoardId	finmb_9709548
+gmtOffSetMilliseconds	28800000
+currentPrice	10.0
+recommendationKey	none
+totalCash	63919000
+totalCashPerShare	0.484
+ebitda	-63485000
+totalDebt	858342016
+quickRatio	0.396
+currentRatio	1.128
+totalRevenue	1995376000
+debtToEquity	78.375
+revenuePerShare	15.104
+returnOnAssets	-0.03399
+returnOnEquity	-0.11432
+freeCashflow	72971128
+operatingCashflow	42394000
+revenueGrowth	-0.155
+grossMargins	-0.03951
+ebitdaMargins	-0.03182
+operatingMargins	-0.0437
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.005691      0.006869           0.2           0.2
+Normalized EBITDA                                            -40228000.0   182976000.0   193796000.0   -80545000.0
+Net Income From Continuing Operation Net Minority Interest  -132786000.0    99041000.0   106311000.0  -162038000.0
+Reconciled Depreciation                                       72712000.0    67871000.0    72836000.0    66265000.0
+Reconciled Cost Of Revenue                                  2074211000.0  2937786000.0  2771775000.0  1631827000.0
+EBITDA                                                       -40228000.0   182976000.0   193796000.0   -80545000.0
+EBIT                                                        -112940000.0   115105000.0   120960000.0  -146810000.0
+Net Interest Income                                          -20428000.0   -15306000.0   -14670000.0   -15083000.0
+Interest Expense                                              20606000.0    15379000.0    14684000.0    15102000.0
+Interest Income                                                 178000.0       73000.0       14000.0       19000.0
+Normalized Income                                           -132786000.0    99041000.0   106311000.0  -162038000.0
+Net Income From Continuing And Discontinued Operation       -132786000.0    99041000.0   106311000.0  -162038000.0
+Total Expenses                                              2131573000.0  3061425000.0  2865938000.0  1723030000.0
+Diluted Average Shares                                       132112000.0   132112000.0   132112000.0   132112000.0
+Basic Average Shares                                         132112000.0   132112000.0   132112000.0   132112000.0
+Diluted EPS                                                        -1.01      0.749675           0.8         -1.23
+Basic EPS                                                          -1.01          0.75           0.8         -1.23
+Diluted NI Availto Com Stockholders                         -132786000.0    99041000.0   106311000.0  -162038000.0
+Net Income Common Stockholders                              -132786000.0    99041000.0   106311000.0  -162038000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -132786000.0    99041000.0   106311000.0  -162038000.0
+Net Income Including Noncontrolling Interests               -132786000.0    99041000.0   106311000.0  -162038000.0
+Net Income Continuous Operations                            -132786000.0    99041000.0   106311000.0  -162038000.0
+Tax Provision                                                  -760000.0      685000.0      -35000.0      126000.0
+Pretax Income                                               -133546000.0    99726000.0   106276000.0  -161912000.0
+Other Non Operating Income Expenses                           24119000.0    31910000.0    23986000.0    22078000.0
+Net Non Operating Interest Income Expense                    -20428000.0   -15306000.0   -14670000.0   -15083000.0
+Interest Expense Non Operating                                20606000.0    15379000.0    14684000.0    15102000.0
+Interest Income Non Operating                                   178000.0       73000.0       14000.0       19000.0
+Operating Income                                            -136197000.0    84508000.0    99388000.0  -164067000.0
+Operating Expense                                             57362000.0   123639000.0    94163000.0    91203000.0
+Other Operating Expenses                                             NaN    13395000.0           NaN           NaN
+Selling General And Administration                            57362000.0   110244000.0    94163000.0    91203000.0
+General And Administrative Expense                            57362000.0   110244000.0    94163000.0    91203000.0
+Gross Profit                                                 -78835000.0   208147000.0   193551000.0   -72864000.0
+Cost Of Revenue                                             2074211000.0  2937786000.0  2771775000.0  1631827000.0
+Total Revenue                                               1995376000.0  3145933000.0  2965326000.0  1558963000.0
+Operating Revenue                                           1995376000.0  3145933000.0  2965326000.0  1558963000.0

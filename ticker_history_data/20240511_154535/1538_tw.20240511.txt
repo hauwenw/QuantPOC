@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 93, Dazun Rd.
+address2	Sec. 3 Zhongli Dist.
+city	Taoyuan City
+zip	32051
+country	Taiwan
+phone	886 3 490 4111
+fax	886 3 426 0030
+website	https://www.jennfeng.com
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Jenn Feng Industrial Tools Co., Ltd. designs, manufactures, and sells power tools, lighting technology, and brushless motors in Taiwan. It offers cordless and corded power tools; and brushless motors. The company also provides LED/HID-XENON lighting products, which include LED work lights, LED linear driving lights, LED driving lights, and LED searchlights; and HID-XENON driving lights and HID-XENON searchlights. In addition, it offers automotive lighting products, such as auto driving/fog, head, LED, off-road, work, and other lights, as well as automobile lighting accessories. The company was formerly known as Jenn Feng New Energy Co., Ltd. And changed its name to Jenn Feng Industrial Tools Co., Ltd. in July 2020. Jenn Feng Industrial Tools Co., Ltd. was founded in 1975 and is based in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Peng Zhi Hong', 'title': 'Chief of Finance & Accounting and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yin Wei Gong', 'title': 'Vice President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ya-Ling  Kao', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	16.5
+open	16.65
+dayLow	16.55
+dayHigh	16.65
+regularMarketPreviousClose	16.5
+regularMarketOpen	16.65
+regularMarketDayLow	16.55
+regularMarketDayHigh	16.65
+exDividendDate	1251676800	 (2009-08-31 08:00:00)
+fiveYearAvgDividendYield	2.51
+beta	0.59
+volume	2000
+regularMarketVolume	2000
+averageVolume	34398
+averageVolume10days	29888
+averageDailyVolume10Day	29888
+bid	15.7
+ask	16.55
+marketCap	632555840
+fiftyTwoWeekLow	11.973318
+fiftyTwoWeekHigh	25.5
+priceToSalesTrailing12Months	3.2537878
+fiftyDayAverage	18.969
+twoHundredDayAverage	18.606276
+currency	TWD
+enterpriseValue	727293440
+profitMargins	-0.14531
+sharesOutstanding	38220900
+heldPercentInsiders	0.75414
+impliedSharesOutstanding	38220900
+bookValue	4.042
+priceToBook	4.0945077
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-28249000
+trailingEps	-0.64
+lastSplitFactor	709.9118:1000
+lastSplitDate	1701302400	 (2023-11-30 08:00:00)
+enterpriseToRevenue	3.741
+enterpriseToEbitda	-16.032
+52WeekChange	0.3054489
+SandP52WeekChange	0.26265144
+lastDividendValue	5.416734
+lastDividendDate	1251676800	 (2009-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1538.TW
+underlyingSymbol	1538.TW
+shortName	JENN FENG INDUSTRIAL TOOLS CO L
+longName	Jenn Feng Industrial Tools Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ee7c8364-bf50-32ea-9f4b-d109367cf30a
+messageBoardId	finmb_7186172
+gmtOffSetMilliseconds	28800000
+currentPrice	16.55
+recommendationKey	none
+totalCash	185634000
+totalCashPerShare	3.448
+ebitda	-45365000
+totalDebt	21892000
+quickRatio	2.153
+currentRatio	2.579
+totalRevenue	194406000
+debtToEquity	10.059
+revenuePerShare	4.434
+returnOnAssets	-0.109840006
+returnOnEquity	-0.20254
+freeCashflow	23161250
+operatingCashflow	29196000
+revenueGrowth	-0.57
+grossMargins	0.08866
+ebitdaMargins	-0.23335
+operatingMargins	-0.58917
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                   -251200.0          0.0          0.0  -13223400.0
+Tax Rate For Calcs                                                  0.2          0.0          0.0          0.2
+Normalized EBITDA                                            -1035000.0     386000.0  -21752000.0  101221000.0
+Total Unusual Items                                          -1256000.0     942000.0  -70078000.0  -66117000.0
+Total Unusual Items Excluding Goodwill                       -1256000.0     942000.0  -70078000.0  -66117000.0
+Net Income From Continuing Operation Net Minority Interest  -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Reconciled Depreciation                                      23912000.0   26284000.0   41246000.0   42831000.0
+Reconciled Cost Of Revenue                                  177170000.0  242520000.0  235172000.0  241401000.0
+EBITDA                                                       -2291000.0    1328000.0  -91830000.0   35104000.0
+EBIT                                                        -26203000.0  -24956000.0 -133076000.0   -7727000.0
+Net Interest Income                                            360000.0   -2232000.0   -2310000.0   -3140000.0
+Interest Expense                                              1668000.0    2542000.0    2494000.0    3488000.0
+Interest Income                                               2028000.0     310000.0     184000.0     348000.0
+Normalized Income                                           -27244200.0  -28440000.0  -65492000.0   40591600.0
+Net Income From Continuing And Discontinued Operation       -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Total Expenses                                              247988000.0  324135000.0  335480000.0  361101000.0
+Diluted Average Shares                                              NaN   22065000.0   18749480.0   15345453.0
+Basic Average Shares                                                NaN   22065000.0   18749480.0   15345453.0
+Diluted EPS                                                         NaN        -1.25     -7.22625    -0.802917
+Basic EPS                                                           NaN        -1.25     -7.22625    -0.802917
+Diluted NI Availto Com Stockholders                         -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Net Income Common Stockholders                              -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                  -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Net Income Including Noncontrolling Interests               -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Net Income Continuous Operations                            -28249000.0  -27498000.0 -135570000.0  -12302000.0
+Tax Provision                                                  378000.0          0.0          0.0    1087000.0
+Pretax Income                                               -27871000.0  -27498000.0 -135570000.0  -11215000.0
+Other Non Operating Income Expenses                          26607000.0   12820000.0    6745000.0  143381000.0
+Special Income Charges                                       -1256000.0     942000.0  -70078000.0  -66117000.0
+Write Off                                                     1256000.0    -942000.0   70078000.0   66117000.0
+Net Non Operating Interest Income Expense                      360000.0   -2232000.0   -2310000.0   -3140000.0
+Interest Expense Non Operating                                1668000.0    2542000.0    2494000.0    3488000.0
+Interest Income Non Operating                                 2028000.0     310000.0     184000.0     348000.0
+Operating Income                                            -53582000.0  -39028000.0  -69927000.0  -85339000.0
+Operating Expense                                            70818000.0   81615000.0  100308000.0  119700000.0
+Research And Development                                      8501000.0   12581000.0   13791000.0   14683000.0
+Selling General And Administration                           62317000.0   69034000.0   86517000.0  105017000.0
+Selling And Marketing Expense                                 9673000.0   11382000.0   13604000.0   16131000.0
+General And Administrative Expense                           52644000.0   57652000.0   72913000.0   88886000.0
+Gross Profit                                                 17236000.0   42587000.0   30381000.0   34361000.0
+Cost Of Revenue                                             177170000.0  242520000.0  235172000.0  241401000.0
+Total Revenue                                               194406000.0  285107000.0  265553000.0  275762000.0
+Operating Revenue                                           194406000.0  285107000.0  265553000.0  275762000.0

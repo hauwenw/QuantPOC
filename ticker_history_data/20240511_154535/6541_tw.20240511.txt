@@ -1,0 +1,138 @@
+=== Ticker Info ===
+address1	802 West Bay Road
+address2	Grand Pavilion Hibiscus Way PO Box 31119
+city	George Town
+zip	KY1-1205
+country	Cayman Islands
+website	https://www.tanvex.com
+industry	Biotechnology
+industryKey	biotechnology
+industryDisp	Biotechnology
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Tanvex BioPharma, Inc., a biopharmaceutical company, engages in the research, development, manufacture, and sale of biosimilar products in Taiwan and the United States. The company focuses on delivering biosimilars which target neutropenia, breast cancer, metastatic colorectal cancer, and psoriasis. Its products pipeline includes TX01 and TX-05 which have completed Phase III clinical trials; TX-04 and TX-16 that are in Phase I clinical trial; and TX-52 and other products which are in pre-clinical trial. The company was formerly known as Ruenvex Biotech, Inc. Tanvex BioPharma, Inc. was incorporated in 2013 and is based in George Town, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Lin-Cheng  Chen J.D.', 'age': 52, 'title': 'Chairman & CEO', 'yearBorn': 1971, 'fiscalYear': 2021, 'totalPay': 5000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen Chung Yeh', 'title': 'Chief Financial Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Val  Chen', 'title': 'Director of Operation Management & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. James  Williamson', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Zheng  Xia', 'title': 'Chief Technology Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Linda  Grillo', 'title': 'Director of Sales & Marketing', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsun-Chiang  Hsieh', 'title': 'Secretary', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	43.0
+open	43.0
+dayLow	42.5
+dayHigh	43.25
+regularMarketPreviousClose	43.0
+regularMarketOpen	43.0
+regularMarketDayLow	42.5
+regularMarketDayHigh	43.25
+beta	0.303
+forwardPE	-11.497326
+volume	256799
+regularMarketVolume	256799
+averageVolume	358443
+averageVolume10days	428150
+averageDailyVolume10Day	428150
+bid	42.95
+ask	43.0
+marketCap	7053161472
+fiftyTwoWeekLow	42.2
+fiftyTwoWeekHigh	85.0
+priceToSalesTrailing12Months	114.85176
+fiftyDayAverage	50.33752
+twoHundredDayAverage	61.80888
+currency	TWD
+enterpriseValue	7111432192
+floatShares	78740694
+sharesOutstanding	164027008
+heldPercentInsiders	0.40186
+heldPercentInstitutions	0.01288
+impliedSharesOutstanding	170314000
+bookValue	6.129
+priceToBook	7.015826
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-2137101056
+trailingEps	-16.42
+forwardEps	-3.74
+lastSplitFactor	333.57715:1000
+lastSplitDate	1677715200	 (2023-03-02 08:00:00)
+enterpriseToRevenue	115.801
+enterpriseToEbitda	-3.599
+52WeekChange	-0.4671623
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	6541.TW
+underlyingSymbol	6541.TW
+shortName	TANVEX BIOPHARMA INC
+longName	Tanvex BioPharma, Inc.
+firstTradeDateEpochUtc	1439427600	 (2015-08-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	380b0414-7367-3e8a-b14f-67cf4f0831a1
+messageBoardId	finmb_306254596
+gmtOffSetMilliseconds	28800000
+currentPrice	43.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	380752000
+totalCashPerShare	2.842
+ebitda	-1975862016
+totalDebt	1731780992
+quickRatio	1.148
+currentRatio	1.661
+totalRevenue	61411000
+debtToEquity	210.907
+revenuePerShare	0.476
+returnOnAssets	-0.42469
+returnOnEquity	-1.93176
+freeCashflow	-713055744
+operatingCashflow	-1433809024
+revenueGrowth	0.15
+grossMargins	0.97214997
+operatingMargins	-54.212612
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                          -1754456000.0 -1304828000.0 -1253385000.0 -1865235000.0
+Net Income From Continuing Operation Net Minority Interest -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Reconciled Depreciation                                      324833000.0   281559000.0   243582000.0   220407000.0
+Reconciled Cost Of Revenue                                     1710000.0    41752000.0     1856000.0      157000.0
+EBITDA                                                     -1754456000.0 -1304828000.0 -1253385000.0 -1865235000.0
+EBIT                                                       -2079289000.0 -1586387000.0 -1496967000.0 -2085642000.0
+Net Interest Income                                          -28344000.0   -45123000.0   -43078000.0       85000.0
+Interest Expense                                              57384000.0    54720000.0    46222000.0    18570000.0
+Interest Income                                               29040000.0     9597000.0     3144000.0    18655000.0
+Normalized Income                                          -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Net Income From Continuing And Discontinued Operation      -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Total Expenses                                              2162161000.0  1627921000.0  1604590000.0  2099877000.0
+Diluted Average Shares                                               NaN   118732471.0   111845231.0    93052079.0
+Basic Average Shares                                                 NaN   118732471.0   111845231.0    93052079.0
+Diluted EPS                                                          NaN    -13.817532    -13.794391    -22.816039
+Basic EPS                                                            NaN    -13.817532    -13.794391    -22.816039
+Diluted NI Availto Com Stockholders                        -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Net Income Common Stockholders                             -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                 -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Net Income Including Noncontrolling Interests              -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Net Income Continuous Operations                           -2137101000.0 -1641130000.0 -1543211000.0 -2104236000.0
+Tax Provision                                                   428000.0       23000.0       22000.0       24000.0
+Pretax Income                                              -2136673000.0 -1641107000.0 -1543189000.0 -2104212000.0
+Other Non Operating Income Expenses                           -7579000.0     9533000.0    99073000.0    -4720000.0
+Net Non Operating Interest Income Expense                    -28344000.0   -45123000.0   -43078000.0       85000.0
+Interest Expense Non Operating                                57384000.0    54720000.0    46222000.0    18570000.0
+Interest Income Non Operating                                 29040000.0     9597000.0     3144000.0    18655000.0
+Operating Income                                           -2100750000.0 -1605517000.0 -1599184000.0 -2099577000.0
+Operating Expense                                           2160451000.0  1586169000.0  1602734000.0  2099720000.0
+Research And Development                                    1706743000.0  1351425000.0  1383521000.0  1860600000.0
+Selling General And Administration                           453708000.0   234744000.0   219213000.0   239120000.0
+Selling And Marketing Expense                                 49416000.0    25990000.0    42429000.0    30077000.0
+General And Administrative Expense                           404292000.0   208754000.0   176784000.0   209043000.0
+Gross Profit                                                  59701000.0   -19348000.0     3550000.0      143000.0
+Cost Of Revenue                                                1710000.0    41752000.0     1856000.0      157000.0
+Total Revenue                                                 61411000.0    22404000.0     5406000.0      300000.0
+Operating Revenue                                             61411000.0    22404000.0     5406000.0      300000.0

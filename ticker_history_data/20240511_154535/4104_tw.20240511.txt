@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 880, Zhongzheng Road
+address2	17th Floor Zhonghe District
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 2225 1888
+fax	886 2 2225 8117
+website	https://www.excelsiormedical.com.tw
+industry	Medical Devices
+industryKey	medical-devices
+industryDisp	Medical Devices
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Excelsior Medical Co., Ltd. sells medical supplies and equipment, medicines, and home medical devices in Taiwan, Hong Kong, the Philippines, and Malaysia. The company offers equipment for hemodialysis/plasma exchange; blood bag; artificial stoma; scar care products; and health appliances. It also maintains, leases, and sells medical equipment for beauty treatment; sells consumables of beauty treatment, as well as cosmetic products; retails and wholesales medical equipment, cosmetic health-care products, and medical herbs; sells and treats hair protecting and conditioning; sells aesthetic medical and cosmetic health-care products. In addition, the company offers medical management consultancy, and logistics services, as well as academic training. Further, it engages in the investment, real estate, and leasing businesses, as well as selling of precision instrument. The company was incorporated in 1988 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Cheng  Chang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Hsiao  Chou', 'title': 'CFO, Accounting Chief & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	91.9
+open	91.9
+dayLow	91.5
+dayHigh	92.0
+regularMarketPreviousClose	91.9
+regularMarketOpen	91.9
+regularMarketDayLow	91.5
+regularMarketDayHigh	92.0
+dividendRate	3.8
+dividendYield	0.0414
+exDividendDate	1713484800	 (2024-04-19 08:00:00)
+payoutRatio	0.72720003
+fiveYearAvgDividendYield	5.2
+beta	0.103
+trailingPE	19.20502
+volume	158982
+regularMarketVolume	158982
+averageVolume	303558
+averageVolume10days	162351
+averageDailyVolume10Day	162351
+bid	91.6
+ask	91.8
+marketCap	14285640704
+fiftyTwoWeekLow	84.3
+fiftyTwoWeekHigh	101.90476
+priceToSalesTrailing12Months	1.7350832
+fiftyDayAverage	93.098
+twoHundredDayAverage	88.86038
+trailingAnnualDividendRate	3.8
+trailingAnnualDividendYield	0.04134929
+currency	TWD
+enterpriseValue	14621761536
+profitMargins	0.090679996
+floatShares	77847274
+sharesOutstanding	155616992
+heldPercentInsiders	0.40165
+heldPercentInstitutions	0.02773
+impliedSharesOutstanding	155956992
+bookValue	55.348
+priceToBook	1.6585966
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.195
+netIncomeToCommon	746604992
+trailingEps	4.78
+lastSplitFactor	1050:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	1.776
+enterpriseToEbitda	16.882
+52WeekChange	0.062734246
+SandP52WeekChange	0.26265144
+lastDividendValue	3.8
+lastDividendDate	1713484800	 (2024-04-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4104.TW
+underlyingSymbol	4104.TW
+shortName	EXCELSIOR MEDICAL CO LTD
+longName	Excelsior Medical Co., Ltd.
+firstTradeDateEpochUtc	1198803600	 (2007-12-28 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c5fb0016-b87d-350e-b965-c7f49322c5bb
+messageBoardId	finmb_9870705
+gmtOffSetMilliseconds	28800000
+currentPrice	91.8
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	3406067968
+totalCashPerShare	21.888
+ebitda	866089984
+totalDebt	1442263040
+quickRatio	1.381
+currentRatio	1.601
+totalRevenue	8233403904
+debtToEquity	13.216
+revenuePerShare	52.908
+returnOnAssets	0.02542
+returnOnEquity	0.087019995
+freeCashflow	-84711376
+operatingCashflow	107101000
+earningsGrowth	0.198
+revenueGrowth	0.113
+grossMargins	0.2028
+ebitdaMargins	0.10519
+operatingMargins	0.088999994
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  18598650.321656   19306411.235862   19632179.011738   20871893.472618
+Tax Rate For Calcs                                                  0.193369          0.185119          0.173333          0.193273
+Normalized EBITDA                                               1330771000.0      1092295000.0       972188000.0       899626000.0
+Total Unusual Items                                               96182000.0       104292000.0       113263000.0       107992000.0
+Total Unusual Items Excluding Goodwill                            96182000.0       104292000.0       113263000.0       107992000.0
+Net Income From Continuing Operation Net Minority Interest       746605000.0       667453000.0       607149000.0       571670000.0
+Reconciled Depreciation                                          265676000.0       222438000.0       202954000.0       167467000.0
+Reconciled Cost Of Revenue                                      6563688000.0      5672791000.0      5199126000.0      5368920000.0
+EBITDA                                                          1426953000.0      1196587000.0      1085451000.0      1007618000.0
+EBIT                                                            1161277000.0       974149000.0       882497000.0       840151000.0
+Net Interest Income                                               48103000.0        14454000.0         1931000.0        12487000.0
+Interest Expense                                                  17197000.0        10449000.0         8761000.0        10768000.0
+Interest Income                                                   65300000.0        24903000.0        10692000.0        23255000.0
+Normalized Income                                           669021650.321656  582467411.235862  513518179.011738  484549893.472618
+Net Income From Continuing And Discontinued Operation            746605000.0       667453000.0       607149000.0       571670000.0
+Total Expenses                                                  7537275000.0      6566075000.0      5969667000.0      6143439000.0
+Diluted Average Shares                                                   NaN       156369000.0       149002350.0       155914447.0
+Basic Average Shares                                                     NaN       155617000.0       148206450.0       155068830.0
+Diluted EPS                                                              NaN              4.27           3.87619          3.664399
+Basic EPS                                                                NaN              4.29          3.904762           3.68254
+Diluted NI Availto Com Stockholders                              746605000.0       667453000.0       607149000.0       571670000.0
+Net Income Common Stockholders                                   746605000.0       667453000.0       607149000.0       571670000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       746605000.0       667453000.0       607149000.0       571670000.0
+Minority Interests                                              -176245000.0      -117848000.0      -115140000.0       -97416000.0
+Net Income Including Noncontrolling Interests                    922850000.0       785301000.0       722289000.0       669086000.0
+Net Income Continuous Operations                                 922850000.0       785301000.0       722289000.0       669086000.0
+Tax Provision                                                    221230000.0       178399000.0       151447000.0       160297000.0
+Pretax Income                                                   1144080000.0       963700000.0       873736000.0       829383000.0
+Other Non Operating Income Expenses                              -38636000.0       -66039000.0       -78376000.0       -65179000.0
+Special Income Charges                                            96182000.0       104292000.0       113263000.0       107992000.0
+Other Special Charges                                            -95283000.0      -117508000.0      -120315000.0      -110901000.0
+Write Off                                                          -899000.0        13216000.0         7052000.0         2909000.0
+Net Non Operating Interest Income Expense                         48103000.0        14454000.0         1931000.0        12487000.0
+Interest Expense Non Operating                                    17197000.0        10449000.0         8761000.0        10768000.0
+Interest Income Non Operating                                     65300000.0        24903000.0        10692000.0        23255000.0
+Operating Income                                                 696129000.0       620753000.0       603485000.0       532055000.0
+Operating Expense                                                973587000.0       893284000.0       770541000.0       774519000.0
+Other Operating Expenses                                                 NaN               NaN         1407000.0           76000.0
+Selling General And Administration                               973587000.0       893284000.0       770541000.0       774519000.0
+Selling And Marketing Expense                                    622683000.0       585199000.0       509139000.0       495902000.0
+General And Administrative Expense                               350904000.0       308085000.0       261402000.0       278617000.0
+Gross Profit                                                    1669716000.0      1514037000.0      1374026000.0      1306574000.0
+Cost Of Revenue                                                 6563688000.0      5672791000.0      5199126000.0      5368920000.0
+Total Revenue                                                   8233404000.0      7186828000.0      6573152000.0      6675494000.0
+Operating Revenue                                               8233404000.0      7186828000.0      6573152000.0      6675494000.0

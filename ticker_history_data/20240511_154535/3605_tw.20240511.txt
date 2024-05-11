@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 13, Dongyuan Road
+address2	Zhongli District
+city	Taoyuan City
+zip	32063
+country	Taiwan
+phone	886 3463 2808
+fax	886 3463 1800
+website	https://www.acesconn.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	ACES Electronics Co., Ltd. researches, develops, manufactures, and sells electronic connectors Taiwan and China. It offers wire to board, FFC/FPC, board to board, card, pin header, mini and micro luck, RJ, power, SATA, SlimSAS, universal serial 3.0 (USBP), and USB type C connectors, as well as SAS connectors. The company also provides battery and high-definition multimedia interface connectors; DC jacks; and camera modules, device and harness, and EV products. Its products are used various applications, such as transportation, telecom/datacom, computer and peripherals, industrial, medical, smart home appliances, cloud computing and server, automotive, and consumer electronics. ACES Electronics Co., Ltd. was founded in 1996 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ling Yang  Tsung', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	39.75
+open	39.7
+dayLow	39.7
+dayHigh	41.2
+regularMarketPreviousClose	39.75
+regularMarketOpen	39.7
+regularMarketDayLow	39.7
+regularMarketDayHigh	41.2
+dividendRate	0.55
+dividendYield	0.0134000005
+exDividendDate	1692230400	 (2023-08-17 08:00:00)
+payoutRatio	0.9145
+fiveYearAvgDividendYield	2.55
+beta	0.986
+forwardPE	13.834459
+volume	1099205
+regularMarketVolume	1099205
+averageVolume	1638845
+averageVolume10days	960379
+averageDailyVolume10Day	960379
+bid	40.9
+ask	41.0
+marketCap	5504417280
+fiftyTwoWeekLow	26.1
+fiftyTwoWeekHigh	44.75
+priceToSalesTrailing12Months	0.6486294
+fiftyDayAverage	38.692
+twoHundredDayAverage	32.7955
+currency	TWD
+enterpriseValue	7587595264
+profitMargins	-0.03141
+sharesOutstanding	134418000
+heldPercentInsiders	0.32152998
+heldPercentInstitutions	0.01951
+impliedSharesOutstanding	135448992
+bookValue	39.093
+priceToBook	1.0475022
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-266543008
+trailingEps	-0.75
+forwardEps	2.96
+lastSplitFactor	1298.742:1000
+lastSplitDate	1284508800	 (2010-09-15 08:00:00)
+enterpriseToRevenue	0.894
+enterpriseToEbitda	27.851
+52WeekChange	0.46249998
+SandP52WeekChange	0.26265144
+lastDividendValue	0.55
+lastDividendDate	1692230400	 (2023-08-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3605.TW
+underlyingSymbol	3605.TW
+shortName	ACES ELECTRONIC CO. LTD.
+longName	ACES Electronics Co., Ltd.
+firstTradeDateEpochUtc	1238029200	 (2009-03-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1c42cda0-1cb7-3b01-baa6-c2e373285e17
+messageBoardId	finmb_39130214
+gmtOffSetMilliseconds	28800000
+currentPrice	40.95
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2058205952
+totalCashPerShare	15.312
+ebitda	272432000
+totalDebt	4139639040
+quickRatio	1.029
+currentRatio	1.324
+totalRevenue	8486227968
+debtToEquity	78.753
+revenuePerShare	63.133
+returnOnAssets	-0.01648
+returnOnEquity	-0.04916
+freeCashflow	-498729760
+operatingCashflow	663318976
+revenueGrowth	-0.03
+grossMargins	0.20643
+ebitdaMargins	0.0321
+operatingMargins	-0.022130001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      2710.29174    -130434.357573     936964.930304     467101.703353
+Tax Rate For Calcs                                                 0.005577          0.291148          0.137103          0.196261
+Normalized EBITDA                                               544979000.0      1099237000.0      1221064000.0       821830000.0
+Total Unusual Items                                                486000.0         -448000.0         6834000.0         2380000.0
+Total Unusual Items Excluding Goodwill                             486000.0         -448000.0         6834000.0         2380000.0
+Net Income From Continuing Operation Net Minority Interest     -266543000.0       225319000.0       510855000.0       276373000.0
+Reconciled Depreciation                                         706432000.0       698657000.0       593173000.0       465955000.0
+Reconciled Cost Of Revenue                                     6734424000.0      8159619000.0      8146641000.0      6226899000.0
+EBITDA                                                          545465000.0      1098789000.0      1227898000.0       824210000.0
+EBIT                                                           -160967000.0       400132000.0       634725000.0       358255000.0
+Net Interest Income                                             -58995000.0       -57857000.0       -22047000.0       -20011000.0
+Interest Expense                                                108725000.0        85069000.0        45812000.0        34834000.0
+Interest Income                                                  49730000.0        27212000.0        23765000.0        14823000.0
+Normalized Income                                          -267026289.70826  225636565.642427  504957964.930304  274460101.703353
+Net Income From Continuing And Discontinued Operation          -266543000.0       225319000.0       510855000.0       276373000.0
+Total Expenses                                                 8817443000.0     10335309000.0     10068693000.0      7716707000.0
+Diluted Average Shares                                                  NaN       147913000.0       135744000.0       125096000.0
+Basic Average Shares                                                    NaN       134406000.0       122922000.0       124054000.0
+Diluted EPS                                                             NaN              1.64              3.78              2.24
+Basic EPS                                                               NaN              1.68              4.16              2.26
+Diluted NI Availto Com Stockholders                            -266543000.0       225319000.0       510855000.0       276373000.0
+Net Income Common Stockholders                                 -266543000.0       225319000.0       510855000.0       276373000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                     -266543000.0       225319000.0       510855000.0       276373000.0
+Minority Interests                                                1645000.0         1986000.0         2684000.0        16427000.0
+Net Income Including Noncontrolling Interests                  -268188000.0       223333000.0       508171000.0       259946000.0
+Net Income Continuous Operations                               -268188000.0       223333000.0       508171000.0       259946000.0
+Tax Provision                                                    -1504000.0        91730000.0        80742000.0        63475000.0
+Pretax Income                                                  -269692000.0       315063000.0       588913000.0       323421000.0
+Other Non Operating Income Expenses                             130680000.0       306072000.0        65693000.0       -77902000.0
+Special Income Charges                                             486000.0         -448000.0         6834000.0         2380000.0
+Write Off                                                         -486000.0          448000.0        -6834000.0        -2380000.0
+Net Non Operating Interest Income Expense                       -58995000.0       -57857000.0       -22047000.0       -20011000.0
+Interest Expense Non Operating                                  108725000.0        85069000.0        45812000.0        34834000.0
+Interest Income Non Operating                                    49730000.0        27212000.0        23765000.0        14823000.0
+Operating Income                                               -331215000.0        57195000.0       507169000.0       346158000.0
+Operating Expense                                              2083019000.0      2175690000.0      1922052000.0      1489808000.0
+Research And Development                                        621268000.0       573935000.0       481414000.0       364656000.0
+Selling General And Administration                             1461751000.0      1601755000.0      1440638000.0      1125152000.0
+Selling And Marketing Expense                                   585051000.0       686463000.0       599081000.0       477702000.0
+General And Administrative Expense                              876700000.0       915292000.0       841557000.0       647450000.0
+Gross Profit                                                   1751804000.0      2232885000.0      2429221000.0      1835966000.0
+Cost Of Revenue                                                6734424000.0      8159619000.0      8146641000.0      6226899000.0
+Total Revenue                                                  8486228000.0     10392504000.0     10575862000.0      8062865000.0
+Operating Revenue                                              8486228000.0     10392504000.0     10575862000.0      8062865000.0

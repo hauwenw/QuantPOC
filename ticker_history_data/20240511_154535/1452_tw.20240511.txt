@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 66, Tacheng Street
+address2	6th Floor Datong District
+city	Taipei
+zip	103
+country	Taiwan
+phone	886 2 2552 1191
+fax	886 2 2552 3610
+website	https://www.hongyilon.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hong Yi Fiber Ind. Co., Ltd. manufactures and sells polyester processed yarns in Taiwan. It offers global recycled standard certified products. The company was founded in 1968 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chao Chia  Lo', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Shyan  Shih', 'title': 'Assistant VP of Finance & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wang Qing  Rong', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.4
+open	17.4
+dayLow	17.25
+dayHigh	17.45
+regularMarketPreviousClose	17.4
+regularMarketOpen	17.4
+regularMarketDayLow	17.25
+regularMarketDayHigh	17.45
+dividendRate	0.8
+dividendYield	0.0461
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	6.1538
+fiveYearAvgDividendYield	6.79
+trailingPE	133.46155
+forwardPE	8.762627
+volume	96392
+regularMarketVolume	96392
+averageVolume	162099
+averageVolume10days	233863
+averageDailyVolume10Day	233863
+bid	17.35
+ask	17.4
+marketCap	2301321472
+fiftyTwoWeekLow	16.1
+fiftyTwoWeekHigh	17.85
+priceToSalesTrailing12Months	1.8100532
+fiftyDayAverage	16.745
+twoHundredDayAverage	16.70225
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.017241381
+currency	TWD
+enterpriseValue	1330467456
+profitMargins	0.04779
+sharesOutstanding	132641000
+heldPercentInsiders	0.19413
+heldPercentInstitutions	0.01899
+impliedSharesOutstanding	133428000
+bookValue	16.946
+priceToBook	1.0238405
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	60757000
+trailingEps	0.13
+forwardEps	1.98
+lastSplitFactor	1.04:1
+lastSplitDate	1310688000	 (2011-07-15 08:00:00)
+enterpriseToRevenue	1.046
+enterpriseToEbitda	-284.653
+52WeekChange	-0.00287354
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1452.TW
+underlyingSymbol	1452.TW
+shortName	HONG YI FIBER IND
+longName	Hong Yi Fiber Ind. Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5b3f3084-1cd4-3002-9d4f-1cae5deaa002
+messageBoardId	finmb_5458789
+gmtOffSetMilliseconds	28800000
+currentPrice	17.35
+recommendationKey	none
+totalCash	1480865024
+totalCashPerShare	9.15
+ebitda	-4674000
+totalDebt	3235000
+quickRatio	13.71
+currentRatio	16.313
+totalRevenue	1271410944
+debtToEquity	0.118
+revenuePerShare	9.066
+returnOnAssets	-0.01086
+returnOnEquity	0.02269
+freeCashflow	-64953000
+operatingCashflow	432783008
+revenueGrowth	0.278
+grossMargins	0.0414
+ebitdaMargins	-0.00368
+operatingMargins	-0.01727
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2022-12-31        2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                    340918.831068    -190905.652912     39893.03956
+Tax Rate For Calcs                                                  0.205993          0.141307        0.053262
+Normalized EBITDA                                                214898000.0       468435000.0     163156000.0
+Total Unusual Items                                                1655000.0        -1351000.0        749000.0
+Total Unusual Items Excluding Goodwill                             1655000.0        -1351000.0        749000.0
+Net Income From Continuing Operation Net Minority Interest       128244000.0       351579000.0      97497000.0
+Reconciled Depreciation                                           55005000.0        57596000.0      60911000.0
+Reconciled Cost Of Revenue                                      1600211000.0      1721339000.0    1124021000.0
+EBITDA                                                           216553000.0       467084000.0     163905000.0
+EBIT                                                             161548000.0       409488000.0     102994000.0
+Net Interest Income                                                8141000.0         2571000.0       6494000.0
+Interest Expense                                                     33000.0           53000.0         12000.0
+Interest Income                                                    8174000.0         2624000.0       6506000.0
+Normalized Income                                           126929918.831068  352739094.347088  96787893.03956
+Net Income From Continuing And Discontinued Operation            128244000.0       351579000.0      97497000.0
+Total Expenses                                                  1717744000.0      1861742000.0    1231206000.0
+Diluted Average Shares                                           133032000.0       133346000.0     132898000.0
+Basic Average Shares                                             132641000.0       132641000.0     132641000.0
+Diluted EPS                                                             0.96              2.64            0.73
+Basic EPS                                                               0.97              2.65            0.74
+Diluted NI Availto Com Stockholders                              128244000.0       351579000.0      97497000.0
+Net Income Common Stockholders                                   128244000.0       351579000.0      97497000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0             0.0
+Net Income                                                       128244000.0       351579000.0      97497000.0
+Net Income Including Noncontrolling Interests                    128244000.0       351579000.0      97497000.0
+Net Income Continuous Operations                                 128244000.0       351579000.0      97497000.0
+Tax Provision                                                     33271000.0        57856000.0       5485000.0
+Pretax Income                                                    161515000.0       409435000.0     102982000.0
+Other Non Operating Income Expenses                               51039000.0       172285000.0      55040000.0
+Special Income Charges                                             1655000.0        -1351000.0        749000.0
+Write Off                                                         -1655000.0         1351000.0       -749000.0
+Net Non Operating Interest Income Expense                          8141000.0         2571000.0       6494000.0
+Interest Expense Non Operating                                       33000.0           53000.0         12000.0
+Interest Income Non Operating                                      8174000.0         2624000.0       6506000.0
+Operating Income                                                 100680000.0       235930000.0      40699000.0
+Operating Expense                                                117533000.0       140403000.0     107185000.0
+Research And Development                                          10036000.0        10437000.0       8070000.0
+Selling General And Administration                               107497000.0       129966000.0      99115000.0
+Selling And Marketing Expense                                     54368000.0        60770000.0      49899000.0
+General And Administrative Expense                                53129000.0        69196000.0      49216000.0
+Gross Profit                                                     218213000.0       376333000.0     147884000.0
+Cost Of Revenue                                                 1600211000.0      1721339000.0    1124021000.0
+Total Revenue                                                   1818424000.0      2097672000.0    1271905000.0
+Operating Revenue                                               1818424000.0      2097672000.0    1271905000.0

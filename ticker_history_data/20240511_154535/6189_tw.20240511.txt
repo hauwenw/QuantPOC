@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 32, Huan Shan Road
+address2	4th Floor Section 1 Nei Hu District
+city	Taipei
+zip	11442
+country	Taiwan
+phone	886 2 2659 0303
+fax	886 2 2658 0988
+website	https://www.promate.com.tw
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Promate Electronic Co.,Ltd. engages in the distribution and sale of electronic/electrical components, and computer software and electrical products in Taiwan. The company operates through Application Specific and LCD Display Product; Linear/Distributed Components; Image Processing ICs; Application Specific ICs; and Others segments. It distributes electronic components for analog, automotive, communication, computer, consumer, display, and LED solutions; and value-added design-in services for IT, industrial, communication, automotive, and consumer electronic industries. The company also provides system integration solutions in the areas of software, optical, mechanical, and electrical engineering integration, as well as product development and manufacturing. In addition, it offers electronic components, such as LCD display products, linear/distributed components, image processing ICs, embedded control system, and medical displays and modules. The company was founded in 1986 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Huaiqi  Du', 'age': 67, 'title': 'COO & Chairman', 'yearBorn': 1956, 'fiscalYear': 2021, 'totalPay': 14463000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Eric  Chen', 'age': 70, 'title': 'CEO & GM', 'yearBorn': 1953, 'fiscalYear': 2021, 'totalPay': 13695000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jasmine  Wu', 'title': 'Finance Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mandy  Chiu', 'title': 'Accounting Manager & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin-Long  Sie', 'title': 'Senior Vice General Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark  Chen', 'title': 'Senior Executive Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chu-Ying  Yang', 'title': 'Vice General Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Chen', 'title': 'C.S.O.', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guo Wei  Zhang', 'title': 'Deputy General Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	86.1
+open	87.0
+dayLow	84.3
+dayHigh	87.7
+regularMarketPreviousClose	86.1
+regularMarketOpen	87.0
+regularMarketDayLow	84.3
+regularMarketDayHigh	87.7
+dividendRate	3.43
+dividendYield	0.0402
+exDividendDate	1691712000	 (2023-08-11 08:00:00)
+payoutRatio	0.8706
+fiveYearAvgDividendYield	7.13
+beta	0.391
+trailingPE	21.649746
+volume	4227981
+regularMarketVolume	4227981
+averageVolume	9280644
+averageVolume10days	5268051
+averageDailyVolume10Day	5268051
+bid	85.2
+ask	85.3
+marketCap	18120366080
+fiftyTwoWeekLow	41.45
+fiftyTwoWeekHigh	98.6
+priceToSalesTrailing12Months	0.61395985
+fiftyDayAverage	84.75
+twoHundredDayAverage	62.128
+trailingAnnualDividendRate	3.5
+trailingAnnualDividendYield	0.04065041
+currency	TWD
+enterpriseValue	19773100032
+profitMargins	0.02871
+floatShares	182756514
+sharesOutstanding	212431008
+heldPercentInsiders	0.13989
+heldPercentInstitutions	0.04188
+impliedSharesOutstanding	214644000
+bookValue	25.386
+priceToBook	3.3601198
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.504
+netIncomeToCommon	847417984
+trailingEps	3.94
+lastSplitFactor	105.0055:100
+lastSplitDate	1217376000	 (2008-07-30 08:00:00)
+enterpriseToRevenue	0.67
+enterpriseToEbitda	15.184
+52WeekChange	1.0480192
+SandP52WeekChange	0.26265144
+lastDividendValue	3.430223
+lastDividendDate	1691712000	 (2023-08-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6189.TW
+underlyingSymbol	6189.TW
+shortName	PROMATE ELECTRONIC CO
+longName	Promate Electronic Co.,Ltd.
+firstTradeDateEpochUtc	1085360400	 (2004-05-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d88a847c-7e4a-3cd0-bbc8-9d88dfd0fbd0
+messageBoardId	finmb_9516531
+gmtOffSetMilliseconds	28800000
+currentPrice	85.3
+recommendationKey	none
+totalCash	2575270912
+totalCashPerShare	12.123
+ebitda	1302221056
+totalDebt	3818573056
+quickRatio	1.031
+currentRatio	1.515
+totalRevenue	29513926656
+debtToEquity	65.814
+revenuePerShare	139.255
+returnOnAssets	0.050380003
+returnOnEquity	0.16584998
+freeCashflow	556102272
+operatingCashflow	777697984
+earningsGrowth	-0.503
+revenueGrowth	0.265
+grossMargins	0.0844
+ebitdaMargins	0.044120003
+operatingMargins	0.04936
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.172845       0.218156       0.198737       0.191193
+Normalized EBITDA                                            1371767000.0   1319412000.0   1181730000.0    887985000.0
+Net Income From Continuing Operation Net Minority Interest    847418000.0    820324000.0    793979000.0    536016000.0
+Reconciled Depreciation                                        74094000.0     69411000.0     65877000.0     65880000.0
+Reconciled Cost Of Revenue                                  27023072000.0  25891565000.0  30102015000.0  24713479000.0
+EBITDA                                                       1371767000.0   1319412000.0   1181730000.0    887985000.0
+EBIT                                                         1297673000.0   1250001000.0   1115853000.0    822105000.0
+Net Interest Income                                          -129933000.0   -107815000.0    -54006000.0    -69046000.0
+Interest Expense                                              162088000.0    116902000.0     56396000.0     74490000.0
+Interest Income                                                32155000.0      9087000.0      2390000.0      5444000.0
+Normalized Income                                             847418000.0    820324000.0    793979000.0    536016000.0
+Net Income From Continuing And Discontinued Operation         847418000.0    820324000.0    793979000.0    536016000.0
+Total Expenses                                              28242956000.0  27136845000.0  31234236000.0  25678332000.0
+Diluted Average Shares                                                NaN    215232000.0    213842000.0    198650000.0
+Basic Average Shares                                                  NaN    200851000.0    184310000.0    179059000.0
+Diluted EPS                                                           NaN           3.83           3.75           2.73
+Basic EPS                                                             NaN           4.08           4.31           2.99
+Diluted NI Availto Com Stockholders                           847418000.0    820324000.0    793979000.0    536016000.0
+Net Income Common Stockholders                                847418000.0    820324000.0    793979000.0    536016000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                    847418000.0    820324000.0    793979000.0    536016000.0
+Minority Interests                                            -91887000.0    -65583000.0    -54925000.0    -68660000.0
+Net Income Including Noncontrolling Interests                 939305000.0    885907000.0    848904000.0    604676000.0
+Net Income Continuous Operations                              939305000.0    885907000.0    848904000.0    604676000.0
+Tax Provision                                                 196280000.0    247192000.0    210553000.0    142939000.0
+Pretax Income                                                1135585000.0   1133099000.0   1059457000.0    747615000.0
+Other Non Operating Income Expenses                            -5452000.0    304554000.0   -120747000.0   -212371000.0
+Net Non Operating Interest Income Expense                    -129933000.0   -107815000.0    -54006000.0    -69046000.0
+Interest Expense Non Operating                                162088000.0    116902000.0     56396000.0     74490000.0
+Interest Income Non Operating                                  32155000.0      9087000.0      2390000.0      5444000.0
+Operating Income                                             1270970000.0    936360000.0   1234817000.0   1032481000.0
+Operating Expense                                            1219884000.0   1245280000.0   1132221000.0    964853000.0
+Research And Development                                      100665000.0     81970000.0     70364000.0     70959000.0
+Selling General And Administration                           1119219000.0   1163310000.0   1061857000.0    893894000.0
+Selling And Marketing Expense                                 963798000.0   1005204000.0    924717000.0    759411000.0
+General And Administrative Expense                            155421000.0    158106000.0    137140000.0    134483000.0
+Gross Profit                                                 2490854000.0   2181640000.0   2367038000.0   1997334000.0
+Cost Of Revenue                                             27023072000.0  25891565000.0  30102015000.0  24713479000.0
+Total Revenue                                               29513926000.0  28073205000.0  32469053000.0  26710813000.0
+Operating Revenue                                           29513926000.0  28073205000.0  32469053000.0  26710813000.0

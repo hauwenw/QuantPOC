@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 9, Wuquan 6th Road
+address2	New Taipei Industrial Park
+city	New Taipei City
+zip	248
+country	Taiwan
+phone	886 2 2299 2121
+fax	886 2 2299 2890
+website	https://www.texyear.com
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Tex Year Industries Inc. manufactures and sells of glues, adhesives, hot-melt glues and medical equipment in Taiwan, rest of Asia, Europe, Americas, and internationally. The company offers hot melt adhesives that include general hot-melt adhesives, hot melt glue sticks, water-based pressure sensitive hot-melt adhesives, hot-melt glue guns, and super glues. It also provides specialty chemicals, such as HumiSeal, a circuit board moisture coating/conformal coating; HARDLOC, a structural adhesive; and super glues, release agents/mold release agents, specialty adhesives, and water-based adhesives. In addition, the company offers infection control products and services that include medical/dental detergents, and sterilization pouches, as well as tabletop computerized steam autoclaves and CSSD floor-stand autoclaves; large and small vibrating equipment; home appliance pleatable synthetic HEPA filter media and medium-high efficiency automotive cabin filter media products; water-based pressure sensitive adhesives; UV curing and TOYOBO ITO conductive films; and thermal interface material. Tex Year Industries Inc. was founded in 1976 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsiang-Chih  Hsiao', 'title': 'CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shih-Kuang  Lue', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Tsung  Hsiao', 'title': 'Founder & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Wen  Kao', 'title': 'CFO & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yeh  John', 'title': 'CTO & Vice GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Chen  Yao', 'title': 'Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yao  Linda', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.85
+open	17.95
+dayLow	17.2
+dayHigh	17.95
+regularMarketPreviousClose	17.85
+regularMarketOpen	17.95
+regularMarketDayLow	17.2
+regularMarketDayHigh	17.95
+dividendRate	0.2
+dividendYield	0.0115
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	0.5882
+fiveYearAvgDividendYield	2.95
+beta	0.661
+trailingPE	51.323532
+volume	1304345
+regularMarketVolume	1304345
+averageVolume	998072
+averageVolume10days	1022104
+averageDailyVolume10Day	1022104
+bid	17.45
+ask	17.5
+marketCap	1810559744
+fiftyTwoWeekLow	13.85
+fiftyTwoWeekHigh	18.7
+priceToSalesTrailing12Months	0.54687166
+fiftyDayAverage	16.482
+twoHundredDayAverage	15.4345
+trailingAnnualDividendRate	0.55
+trailingAnnualDividendYield	0.030812325
+currency	TWD
+enterpriseValue	2214723584
+profitMargins	0.0231
+sharesOutstanding	103757000
+heldPercentInsiders	0.52342
+impliedSharesOutstanding	103757000
+bookValue	13.124
+priceToBook	1.3296252
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	76466000
+trailingEps	0.34
+lastSplitFactor	1048.531:1000
+lastSplitDate	1631145600	 (2021-09-09 08:00:00)
+enterpriseToRevenue	0.669
+enterpriseToEbitda	18.04
+52WeekChange	0.19112623
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4720.TW
+underlyingSymbol	4720.TW
+shortName	TEX YEAR INDUSTRIES
+longName	Tex Year Industries Inc.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e260b0d8-aa4d-31b5-a4d5-8d0fb1324008
+messageBoardId	finmb_9794124
+gmtOffSetMilliseconds	28800000
+currentPrice	17.45
+recommendationKey	none
+totalCash	574040000
+totalCashPerShare	5.533
+ebitda	122767000
+totalDebt	852529984
+quickRatio	1.006
+currentRatio	1.425
+totalRevenue	3310757888
+debtToEquity	57.319
+revenuePerShare	31.909
+returnOnAssets	0.00597
+returnOnEquity	0.04197
+freeCashflow	283379360
+operatingCashflow	401243008
+revenueGrowth	-0.039
+grossMargins	0.19840999
+ebitdaMargins	0.03708
+operatingMargins	-0.00677
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -192667.868168   -506178.077165
+Tax Rate For Calcs                                                 0.356792         0.295148
+Normalized EBITDA                                               167990000.0      261053000.0
+Total Unusual Items                                               -540000.0       -1715000.0
+Total Unusual Items Excluding Goodwill                            -540000.0       -1715000.0
+Net Income From Continuing Operation Net Minority Interest       28877000.0       69740000.0
+Reconciled Depreciation                                          97596000.0       99134000.0
+Reconciled Cost Of Revenue                                     2904273000.0     2457267000.0
+EBITDA                                                          167450000.0      259338000.0
+EBIT                                                             69854000.0      160204000.0
+Net Interest Income                                             -11926000.0      -13928000.0
+Interest Expense                                                 13813000.0       15761000.0
+Interest Income                                                   1887000.0        1833000.0
+Normalized Income                                           29224332.131832  70948821.922835
+Net Income From Continuing And Discontinued Operation            28877000.0       69740000.0
+Total Expenses                                                 3481748000.0     3025750000.0
+Diluted Average Shares                                          114475000.0      112477000.0
+Basic Average Shares                                             97214000.0       93802000.0
+Diluted EPS                                                            0.28             0.65
+Basic EPS                                                               0.3             0.74
+Diluted NI Availto Com Stockholders                              28877000.0       69740000.0
+Net Income Common Stockholders                                   28877000.0       69740000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0
+Net Income                                                       28877000.0       69740000.0
+Minority Interests                                               -7169000.0      -32071000.0
+Net Income Including Noncontrolling Interests                    36046000.0      101811000.0
+Net Income Continuous Operations                                 36046000.0      101811000.0
+Tax Provision                                                    19995000.0       42632000.0
+Pretax Income                                                    56041000.0      144443000.0
+Other Non Operating Income Expenses                              13902000.0       30138000.0
+Special Income Charges                                              82000.0         -25000.0
+Other Special Charges                                              -82000.0          25000.0
+Net Non Operating Interest Income Expense                       -11926000.0      -13928000.0
+Interest Expense Non Operating                                   13813000.0       15761000.0
+Interest Income Non Operating                                     1887000.0        1833000.0
+Operating Income                                                 68634000.0      136918000.0
+Operating Expense                                               577475000.0      568483000.0
+Other Operating Expenses                                           -83000.0          88000.0
+Research And Development                                         86189000.0      106584000.0
+Selling General And Administration                              491286000.0      461899000.0
+Selling And Marketing Expense                                   350125000.0      311844000.0
+General And Administrative Expense                              141161000.0      150055000.0
+Gross Profit                                                    646109000.0      705401000.0
+Cost Of Revenue                                                2904273000.0     2457267000.0
+Total Revenue                                                  3550382000.0     3162668000.0
+Operating Revenue                                              3550382000.0     3162668000.0

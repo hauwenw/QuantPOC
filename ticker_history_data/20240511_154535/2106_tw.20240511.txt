@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 146, Zhongshan Road
+address2	Section 1
+city	Yuanlin
+zip	510
+country	Taiwan
+phone	886 4 834 5171
+fax	886 4 833 1865
+website	https://www.kendatire.com/en-us/
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Kenda Rubber Industrial Co. Ltd. designs, manufactures, and trades in tires in Taiwan, China, the United States, and Vietnam. It offers automotive, bicycle, wheelchair, and power sport, as well as turf, trailer, specialty tires. The company also provides inner tubes and tires for bicycles, scooters, industrial trucks, and cars, as well as various products of carbon fiber. It also manufactures and sells wheels and rims; and provides marketing planning services. Kenda Rubber Industrial Co. Ltd. was incorporated in 1962 and is based in Yuanlin, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chao-Jung  Chen', 'title': 'Director & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuei-Chun  Liu', 'title': 'Assistant VP of Finance & Finance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.3
+open	33.4
+dayLow	33.05
+dayHigh	33.85
+regularMarketPreviousClose	33.3
+regularMarketOpen	33.4
+regularMarketDayLow	33.05
+regularMarketDayHigh	33.85
+dividendRate	0.5
+dividendYield	0.0148
+exDividendDate	1689292800	 (2023-07-14 08:00:00)
+payoutRatio	0.5435
+fiveYearAvgDividendYield	2.62
+beta	0.293
+trailingPE	36.68478
+forwardPE	23.767607
+volume	911613
+regularMarketVolume	911613
+averageVolume	827570
+averageVolume10days	665692
+averageDailyVolume10Day	665692
+bid	33.75
+ask	33.8
+marketCap	32227536896
+fiftyTwoWeekLow	28.618761
+fiftyTwoWeekHigh	34.35
+priceToSalesTrailing12Months	0.935659
+fiftyDayAverage	32.103
+twoHundredDayAverage	30.5995
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.03003003
+currency	TWD
+enterpriseValue	40230830080
+profitMargins	0.02558
+floatShares	588365022
+sharesOutstanding	954889984
+heldPercentInsiders	0.38257998
+heldPercentInstitutions	0.08911
+impliedSharesOutstanding	954889984
+bookValue	20.498
+priceToBook	1.6465021
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	880982016
+trailingEps	0.92
+forwardEps	1.42
+lastSplitFactor	1050.0105:1000
+lastSplitDate	1689292800	 (2023-07-14 08:00:00)
+enterpriseToRevenue	1.168
+enterpriseToEbitda	13.744
+52WeekChange	0.1734389
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1689292800	 (2023-07-14 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2106.TW
+underlyingSymbol	2106.TW
+shortName	KENDA RUBBER INDUSTRY
+longName	Kenda Rubber Industrial Co. Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d02eedb5-7489-32ca-96de-aa7ea976d3a5
+messageBoardId	finmb_11500010
+gmtOffSetMilliseconds	28800000
+currentPrice	33.75
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	9929162752
+totalCashPerShare	10.398
+ebitda	2927132928
+totalDebt	17932453888
+quickRatio	1.322
+currentRatio	2.352
+totalRevenue	34443677696
+debtToEquity	91.616
+revenuePerShare	36.071
+returnOnAssets	0.01792
+returnOnEquity	0.045229997
+freeCashflow	4329564160
+operatingCashflow	5619871232
+revenueGrowth	0.025
+grossMargins	0.19373
+ebitdaMargins	0.08498
+operatingMargins	0.07495
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31     2022-12-31     2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   1830488.782851     -1648600.0     -2129000.0   -7227616.95999
+Tax Rate For Calcs                                                  0.325016            0.2            0.2         0.247191
+Normalized EBITDA                                               3669994000.0   2935315000.0   3442998000.0     3055437000.0
+Total Unusual Items                                                5632000.0     -8243000.0    -10645000.0      -29239000.0
+Total Unusual Items Excluding Goodwill                             5632000.0     -8243000.0    -10645000.0      -29239000.0
+Net Income From Continuing Operation Net Minority Interest       880982000.0    338151000.0    917933000.0      972225000.0
+Reconciled Depreciation                                         1812677000.0   1843144000.0   1562132000.0     1493293000.0
+Reconciled Cost Of Revenue                                     27771016000.0  32947434000.0  27746346000.0    22910212000.0
+EBITDA                                                          3675626000.0   2927072000.0   3432353000.0     3026198000.0
+EBIT                                                            1862949000.0   1083928000.0   1870221000.0     1532905000.0
+Net Interest Income                                             -301739000.0   -218193000.0    -65846000.0     -133271000.0
+Interest Expense                                                 557760000.0    372672000.0    187121000.0      241442000.0
+Interest Income                                                  256021000.0    154479000.0    121275000.0      108171000.0
+Normalized Income                                           877180488.782851    344745400.0    926449000.0  994236383.04001
+Net Income From Continuing And Discontinued Operation            880982000.0    338151000.0    917933000.0      972225000.0
+Total Expenses                                                 33154330000.0  38379085000.0  33144456000.0    28695007000.0
+Diluted Average Shares                                                   NaN    955155000.0    955302653.0      955329954.0
+Basic Average Shares                                                     NaN    954890000.0    954889999.0      954889999.0
+Diluted EPS                                                              NaN           0.35       0.961895         1.019037
+Basic EPS                                                                NaN           0.35       0.961895         1.019037
+Diluted NI Availto Com Stockholders                              880982000.0    338151000.0    917933000.0      972225000.0
+Net Income Common Stockholders                                   880982000.0    338151000.0    917933000.0      972225000.0
+Otherunder Preferred Stock Dividend                                      0.0            0.0            0.0              0.0
+Net Income                                                       880982000.0    338151000.0    917933000.0      972225000.0
+Minority Interests                                                       NaN            NaN            NaN              0.0
+Net Income Including Noncontrolling Interests                    880982000.0    338151000.0    917933000.0      972225000.0
+Net Income Continuous Operations                                 880982000.0    338151000.0    917933000.0      972225000.0
+Tax Provision                                                    424207000.0    373105000.0    765167000.0      319238000.0
+Pretax Income                                                   1305189000.0    711256000.0   1683100000.0     1291463000.0
+Other Non Operating Income Expenses                              299211000.0    677982000.0      7708000.0     -113545000.0
+Special Income Charges                                             5632000.0     -8243000.0    -10645000.0      -29239000.0
+Write Off                                                         -5632000.0      8243000.0     10645000.0       29239000.0
+Net Non Operating Interest Income Expense                       -301739000.0   -218193000.0    -65846000.0     -133271000.0
+Interest Expense Non Operating                                   557760000.0    372672000.0    187121000.0      241442000.0
+Interest Income Non Operating                                    256021000.0    154479000.0    121275000.0      108171000.0
+Operating Income                                                1289346000.0    238796000.0   1751672000.0     1565178000.0
+Operating Expense                                               5383314000.0   5431651000.0   5398110000.0     5784795000.0
+Other Operating Expenses                                                 NaN       300000.0      1848000.0      937582000.0
+Research And Development                                        1489427000.0   1490297000.0   1451484000.0     1326430000.0
+Selling General And Administration                              3893887000.0   3941054000.0   3944778000.0     3520783000.0
+Selling And Marketing Expense                                   2407157000.0   2563037000.0   2638727000.0     2304290000.0
+General And Administrative Expense                              1486730000.0   1378017000.0   1306051000.0     1216493000.0
+Gross Profit                                                    6672660000.0   5670447000.0   7149782000.0     7349973000.0
+Cost Of Revenue                                                27771016000.0  32947434000.0  27746346000.0    22910212000.0
+Total Revenue                                                  34443676000.0  38617881000.0  34896128000.0    30260185000.0
+Operating Revenue                                              34443676000.0  38617881000.0  34896128000.0    30260185000.0

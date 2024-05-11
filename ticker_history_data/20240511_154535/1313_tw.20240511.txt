@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	Building A
+address2	9th Floor, Sec.1 No.209, Nangang Road Nangang District
+city	Taipei City
+zip	115018
+country	Taiwan
+phone	886 2 2651 7889
+fax	886 2 2651 5818
+website	https://www.upc.com.tw
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	UPC Technology Corporation, together with its subsidiaries, engages in manufacture and sale of petrochemical products in Taiwan and internationally. The company offers phthalic anhydride, plasticizers, polyvinyl chloride, acids, unsaturated polyester resins, polyester polyol, fatty ester, and other specialty chemicals for industrial applications. It also engages in logistics, terminal operations and pipeline transfer for bulk chemicals, road transportation and agency, chemical storage tanks, warehouse storage, and consultancy activities. In addition, the company is involved in investment and trading, and real estate management businesses. The company was formerly known as Union Petrochemical Corp. and changed its name to UPC Technology Corporation in 2001. UPC Technology Corporation was incorporated in 1976 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Feng-Chiang  Miau', 'age': 76, 'title': 'Chairman of the Board', 'yearBorn': 1947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ann  Bih', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hung-Ching  Fang', 'title': 'Factory Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Chien  Wu', 'title': 'VP & Company Secretary', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	13.25
+open	13.25
+dayLow	13.15
+dayHigh	13.25
+regularMarketPreviousClose	13.25
+regularMarketOpen	13.25
+regularMarketDayLow	13.15
+regularMarketDayHigh	13.25
+dividendRate	0.2
+dividendYield	0.0150999995
+exDividendDate	1711065600	 (2024-03-22 08:00:00)
+payoutRatio	1.4599
+fiveYearAvgDividendYield	3.33
+beta	1.122
+forwardPE	-13.802084
+volume	1447409
+regularMarketVolume	1447409
+averageVolume	1565516
+averageVolume10days	1678994
+averageDailyVolume10Day	1678994
+bid	13.2
+ask	13.25
+marketCap	17573343232
+fiftyTwoWeekLow	13.0
+fiftyTwoWeekHigh	17.75
+priceToSalesTrailing12Months	0.24008597
+fiftyDayAverage	13.604
+twoHundredDayAverage	14.88725
+trailingAnnualDividendRate	0.2
+trailingAnnualDividendYield	0.01509434
+currency	TWD
+enterpriseValue	34277513216
+profitMargins	-0.00386
+floatShares	677334762
+sharesOutstanding	1326290048
+heldPercentInsiders	0.45758998
+heldPercentInstitutions	0.056599997
+impliedSharesOutstanding	1326290048
+bookValue	22.68
+priceToBook	0.58421516
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-282825984
+trailingEps	-0.82
+forwardEps	-0.96
+lastSplitFactor	1029.768:1000
+lastSplitDate	1566777600	 (2019-08-26 08:00:00)
+enterpriseToRevenue	0.468
+enterpriseToEbitda	21.525
+52WeekChange	-0.06028366
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1711065600	 (2024-03-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1313.TW
+underlyingSymbol	1313.TW
+shortName	UPC TECHNOLOGY CO
+longName	UPC Technology Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8e9310d0-5e29-3cd8-9f59-2a7a135302cc
+messageBoardId	finmb_9736053
+gmtOffSetMilliseconds	28800000
+currentPrice	13.25
+recommendationKey	none
+totalCash	4566173184
+totalCashPerShare	3.446
+ebitda	1592427008
+totalDebt	21288601600
+quickRatio	1.167
+currentRatio	2.519
+totalRevenue	73196044288
+debtToEquity	70.845
+revenuePerShare	55.433
+returnOnAssets	-0.00232
+returnOnEquity	-0.01007
+freeCashflow	-2146503808
+operatingCashflow	-59627000
+revenueGrowth	0.2
+grossMargins	0.03016
+ebitdaMargins	0.021760002
+operatingMargins	-0.00715
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                      797400.0     1391490.840321    -1270254.392586    -1138927.104141
+Tax Rate For Calcs                                                    0.2           0.282192           0.224427           0.204585
+Normalized EBITDA                                            2276565000.0        558491000.0       4963219000.0       4895553000.0
+Total Unusual Items                                             3987000.0          4931000.0         -5660000.0         -5567000.0
+Total Unusual Items Excluding Goodwill                          3987000.0          4931000.0         -5660000.0         -5567000.0
+Net Income From Continuing Operation Net Minority Interest   -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Reconciled Depreciation                                      2035153000.0       1997869000.0       1954995000.0       1932662000.0
+Reconciled Cost Of Revenue                                  70988639000.0      72475633000.0      76803852000.0      47232128000.0
+EBITDA                                                       2280552000.0        563422000.0       4957559000.0       4889986000.0
+EBIT                                                          245399000.0      -1434447000.0       3002564000.0       2957324000.0
+Net Interest Income                                          -348616000.0       -258373000.0       -206972000.0       -229480000.0
+Interest Expense                                              401935000.0        287775000.0        233694000.0        274044000.0
+Interest Income                                                53319000.0         29402000.0         26722000.0         44564000.0
+Normalized Income                                            -286015600.0 -1239763509.159679  2151851745.607414  2138748072.895859
+Net Income From Continuing And Discontinued Operation        -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Total Expenses                                              73397544000.0      75197200000.0      79488879000.0      49588062000.0
+Diluted Average Shares                                                NaN       1313101000.0       1324165000.0       1317481481.0
+Basic Average Shares                                                  NaN       1313101000.0       1297478000.0       1317481481.0
+Diluted EPS                                                           NaN              -0.94               1.62               1.62
+Basic EPS                                                             NaN              -0.94               1.66               1.62
+Diluted NI Availto Com Stockholders                          -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Net Income Common Stockholders                               -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0                0.0                0.0
+Net Income                                                   -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Minority Interests                                                    NaN                NaN                NaN                0.0
+Net Income Including Noncontrolling Interests                -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Net Income Continuous Operations                             -282826000.0      -1236224000.0       2147462000.0       2134320000.0
+Tax Provision                                                 126290000.0       -485998000.0        621408000.0        548960000.0
+Pretax Income                                                -156536000.0      -1722222000.0       2768870000.0       2683280000.0
+Other Non Operating Income Expenses                           388900000.0        908644000.0        527941000.0        639934000.0
+Special Income Charges                                          3987000.0          4931000.0         -5660000.0         -5567000.0
+Write Off                                                      -3987000.0         -4931000.0          5660000.0          5567000.0
+Net Non Operating Interest Income Expense                    -348616000.0       -258373000.0       -206972000.0       -229480000.0
+Interest Expense Non Operating                                401935000.0        287775000.0        233694000.0        274044000.0
+Interest Income Non Operating                                  53319000.0         29402000.0         26722000.0         44564000.0
+Operating Income                                             -201498000.0      -2377557000.0       2453549000.0       2278777000.0
+Operating Expense                                            2408905000.0       2721567000.0       2685027000.0       2355934000.0
+Selling General And Administration                           2408905000.0       2721567000.0       2685027000.0       2355934000.0
+Selling And Marketing Expense                                1374302000.0       1655065000.0       1609480000.0       1342444000.0
+General And Administrative Expense                           1034603000.0       1066502000.0       1075547000.0       1013490000.0
+Gross Profit                                                 2207407000.0        344010000.0       5138576000.0       4634711000.0
+Cost Of Revenue                                             70988639000.0      72475633000.0      76803852000.0      47232128000.0
+Total Revenue                                               73196046000.0      72819643000.0      81942428000.0      51866839000.0
+Operating Revenue                                           73196046000.0      72819643000.0      81942428000.0      51866839000.0

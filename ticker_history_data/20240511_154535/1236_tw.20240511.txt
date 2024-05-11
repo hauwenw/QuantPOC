@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	20F-6, No. 86, Section 1
+address2	Beixin Road Xindian District
+city	New Taipei City
+zip	23147
+country	Taiwan
+phone	800 060 515
+website	https://www.hunya.com.tw
+industry	Confectioners
+industryKey	confectioners
+industryDisp	Confectioners
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Hunya Foods Co., Ltd. provides food products in Taiwan. The company offers nougat, chocolate, and wafers. It also provides its products online. The company offers its products under 77, Rivon, and Republic Of Chocolate brands. Hunya Foods Co., Ltd. was founded in 1976 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Yun Qi  Zhang', 'title': 'Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zheng Er  Guo', 'title': 'Head of Finance/Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tian  Zhang', 'title': 'Executive Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhe Wei Wu', 'title': 'Vice President of Production and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.0
+open	24.15
+dayLow	23.95
+dayHigh	24.15
+regularMarketPreviousClose	24.0
+regularMarketOpen	24.15
+regularMarketDayLow	23.95
+regularMarketDayHigh	24.15
+dividendRate	3.25
+dividendYield	0.1351
+exDividendDate	1721260800	 (2024-07-18 08:00:00)
+payoutRatio	14.7727
+fiveYearAvgDividendYield	3.66
+beta	0.638
+trailingPE	109.31818
+volume	26039
+regularMarketVolume	26039
+averageVolume	24422
+averageVolume10days	18932
+averageDailyVolume10Day	18932
+bid	23.95
+ask	24.0
+marketCap	2084509696
+fiftyTwoWeekLow	22.6
+fiftyTwoWeekHigh	30.0
+priceToSalesTrailing12Months	1.0800831
+fiftyDayAverage	23.634
+twoHundredDayAverage	24.769625
+trailingAnnualDividendRate	0.65
+trailingAnnualDividendYield	0.027083332
+currency	TWD
+enterpriseValue	2760346624
+profitMargins	0.00813
+sharesOutstanding	86674000
+heldPercentInsiders	0.58905
+impliedSharesOutstanding	86674000
+bookValue	27.82
+priceToBook	0.864486
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.907
+netIncomeToCommon	15690000
+trailingEps	0.22
+lastSplitFactor	800:1000
+lastSplitDate	1695772800	 (2023-09-27 08:00:00)
+enterpriseToRevenue	1.43
+enterpriseToEbitda	16.506
+52WeekChange	-0.17777777
+SandP52WeekChange	0.26265144
+lastDividendValue	0.65
+lastDividendDate	1721260800	 (2024-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1236.TW
+underlyingSymbol	1236.TW
+shortName	HUNYA FOODS CO
+longName	Hunya Foods Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	47f24f77-dc6e-3993-9d5d-0ad421863758
+messageBoardId	finmb_9794176
+gmtOffSetMilliseconds	28800000
+currentPrice	24.05
+recommendationKey	none
+totalCash	118829000
+totalCashPerShare	1.371
+ebitda	167232992
+totalDebt	794665984
+quickRatio	0.715
+currentRatio	1.137
+totalRevenue	1929953024
+debtToEquity	32.956
+revenuePerShare	19.351
+returnOnAssets	0.00207
+returnOnEquity	0.00587
+freeCashflow	109182496
+operatingCashflow	273219008
+earningsGrowth	-0.906
+revenueGrowth	-0.215
+grossMargins	0.27849
+ebitdaMargins	0.08665
+operatingMargins	-0.01475
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2      0.091443      0.101074           0.2
+Normalized EBITDA                                            229335000.0   666457000.0   153076000.0   171384000.0
+Total Unusual Items                                                  NaN           NaN           0.0           0.0
+Total Unusual Items Excluding Goodwill                               NaN           NaN           0.0           0.0
+Net Income From Continuing Operation Net Minority Interest    15690000.0   424156000.0   -27357000.0      180000.0
+Reconciled Depreciation                                      184254000.0   191762000.0   177706000.0   165631000.0
+Reconciled Cost Of Revenue                                  1392477000.0  1539923000.0  1302824000.0  1168904000.0
+EBITDA                                                       229335000.0   666457000.0   153076000.0   171384000.0
+EBIT                                                          45081000.0   474695000.0   -24630000.0     5753000.0
+Net Interest Income                                           -9878000.0    -7849000.0    -5803000.0    -5418000.0
+Interest Expense                                               9878000.0     7849000.0     5803000.0     5578000.0
+Interest Income                                                      NaN           NaN       78000.0      160000.0
+Normalized Income                                             15690000.0   424156000.0   -27357000.0      180000.0
+Net Income From Continuing And Discontinued Operation         15690000.0   424156000.0   -27357000.0      180000.0
+Total Expenses                                              1916759000.0  2104281000.0  1803722000.0  1648772000.0
+Diluted Average Shares                                        99734000.0   108343000.0    86674400.0    86674400.0
+Basic Average Shares                                          99734000.0   108343000.0    86674400.0    86674400.0
+Diluted EPS                                                         0.16          3.91       -0.3125      0.002077
+Basic EPS                                                           0.16          3.91       -0.3125      0.002077
+Diluted NI Availto Com Stockholders                           15690000.0   424156000.0   -27357000.0      180000.0
+Net Income Common Stockholders                                15690000.0   424156000.0   -27357000.0      180000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    15690000.0   424156000.0   -27357000.0      180000.0
+Net Income Including Noncontrolling Interests                 15690000.0   424156000.0   -27357000.0      180000.0
+Net Income Continuous Operations                              15690000.0   424156000.0   -27357000.0      180000.0
+Tax Provision                                                 19513000.0    42690000.0    -3076000.0       -5000.0
+Pretax Income                                                 35203000.0   466846000.0   -30433000.0      175000.0
+Other Non Operating Income Expenses                           31887000.0   470323000.0    23977000.0    17085000.0
+Special Income Charges                                               NaN           NaN           0.0           0.0
+Write Off                                                            NaN           NaN           0.0           0.0
+Net Non Operating Interest Income Expense                     -9878000.0    -7849000.0    -5803000.0    -5418000.0
+Interest Expense Non Operating                                 9878000.0     7849000.0     5803000.0     5578000.0
+Interest Income Non Operating                                        NaN           NaN       78000.0      160000.0
+Operating Income                                              13194000.0     4372000.0   -48607000.0   -11492000.0
+Operating Expense                                            524282000.0   564358000.0   500898000.0   479868000.0
+Research And Development                                      24407000.0    17995000.0    15052000.0    12282000.0
+Selling General And Administration                           499875000.0   546363000.0   485846000.0   467586000.0
+Selling And Marketing Expense                                403106000.0   419121000.0   400069000.0   394841000.0
+General And Administrative Expense                            96769000.0   127242000.0    85777000.0    72745000.0
+Gross Profit                                                 537476000.0   568730000.0   452291000.0   468376000.0
+Cost Of Revenue                                             1392477000.0  1539923000.0  1302824000.0  1168904000.0
+Total Revenue                                               1929953000.0  2108653000.0  1755115000.0  1637280000.0
+Operating Revenue                                           1929953000.0  2108653000.0  1755115000.0  1637280000.0

@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 67, Dunhua South Road
+address2	20th Floor Sec. 2 Da'an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2784 9730
+fax	886 2 2705 7895
+website	https://www.ckgroup.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Chien Kuo Construction Co., Ltd. engages in the construction business in Taiwan and China. The company offers construction services for residential buildings, commercial/hotels, high-tech industrial facilities, healthcare/schools, and public infrastructure; and offers electrical engineering services for mechanical, electrical, and plumbing projects. It manufactures and sells concrete products; and computer software technology development and consultation services. In addition, the company focuses on development of real estate for housing; health; and culture and leisure industry. Chien Kuo Construction Co., Ltd. was founded in 1931 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chi-Te  Chen', 'age': 65, 'title': 'Vice Chairman of the Board & Chief Investment Officer', 'yearBorn': 1958, 'fiscalYear': 2021, 'totalPay': 1793000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pai-Tso  Sun', 'title': 'CFO & Director', 'fiscalYear': 2021, 'totalPay': 4317000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Feng  Yang', 'title': 'Assistant President of Accounting', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	23.85
+open	23.65
+dayLow	23.4
+dayHigh	23.9
+regularMarketPreviousClose	23.85
+regularMarketOpen	23.65
+regularMarketDayLow	23.4
+regularMarketDayHigh	23.9
+dividendRate	1.0
+dividendYield	0.0424
+exDividendDate	1689638400	 (2023-07-18 08:00:00)
+payoutRatio	0.7463
+fiveYearAvgDividendYield	5.9
+beta	0.475
+trailingPE	17.61194
+volume	2866241
+regularMarketVolume	2866241
+averageVolume	5600491
+averageVolume10days	4230875
+averageDailyVolume10Day	4230875
+bid	23.6
+ask	23.65
+marketCap	5947200000
+fiftyTwoWeekLow	13.15
+fiftyTwoWeekHigh	29.85
+priceToSalesTrailing12Months	1.4206139
+fiftyDayAverage	21.968
+twoHundredDayAverage	16.983
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.04192872
+currency	TWD
+enterpriseValue	1188928000
+profitMargins	0.080860004
+sharesOutstanding	252000000
+heldPercentInsiders	0.45400003
+heldPercentInstitutions	0.01496
+impliedSharesOutstanding	254530000
+bookValue	19.245
+priceToBook	1.2262925
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.328
+netIncomeToCommon	338512992
+trailingEps	1.34
+lastSplitFactor	800:1000
+lastSplitDate	1574812800	 (2019-11-27 08:00:00)
+enterpriseToRevenue	0.284
+enterpriseToEbitda	11.706
+52WeekChange	0.7546469
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1689638400	 (2023-07-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5515.TW
+underlyingSymbol	5515.TW
+shortName	CHIEN KUO CONSTRUCTION CO
+longName	Chien Kuo Construction Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	763ecb00-76a6-3acb-9152-7cb5e74d7806
+messageBoardId	finmb_9870752
+gmtOffSetMilliseconds	28800000
+currentPrice	23.6
+recommendationKey	none
+totalCash	4799749120
+totalCashPerShare	19.047
+ebitda	101566000
+totalDebt	41477000
+quickRatio	2.435
+currentRatio	2.569
+totalRevenue	4186359040
+debtToEquity	0.855
+revenuePerShare	16.613
+returnOnAssets	0.00453
+returnOnEquity	0.07059
+freeCashflow	2069978240
+operatingCashflow	1564573952
+earningsGrowth	0.317
+revenueGrowth	-0.085
+grossMargins	0.092980005
+ebitdaMargins	0.024260001
+operatingMargins	0.00133
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   1526030.300195    3279781.196944           0.0           0.0
+Tax Rate For Calcs                                                  0.143965          0.150573      0.257567      0.213222
+Normalized EBITDA                                                454059000.0       238623000.0   576404000.0   421330000.0
+Total Unusual Items                                               10600000.0        21782000.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                            10600000.0        21782000.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest       338513000.0       184115000.0   405150000.0   301136000.0
+Reconciled Depreciation                                           61069000.0        31446000.0    21479000.0    25707000.0
+Reconciled Cost Of Revenue                                      3797123000.0      4517166000.0  4702057000.0  6250304000.0
+EBITDA                                                           464659000.0       260405000.0   576404000.0   421330000.0
+EBIT                                                             403590000.0       228959000.0   554925000.0   395623000.0
+Net Interest Income                                               -8147000.0       -12207000.0    -9219000.0   -11811000.0
+Interest Expense                                                   8147000.0        12207000.0     9219000.0    11811000.0
+Normalized Income                                           329439030.300195  165612781.196944   405150000.0   301136000.0
+Net Income From Continuing And Discontinued Operation            338513000.0       184115000.0   405150000.0   373905000.0
+Total Expenses                                                  4139418000.0      4832500000.0  5040411000.0  6540947000.0
+Diluted Average Shares                                                   NaN       255260000.0   258761000.0   261899000.0
+Basic Average Shares                                                     NaN       254382000.0   257440000.0   260603000.0
+Diluted EPS                                                              NaN              0.72          1.57          1.43
+Basic EPS                                                                NaN              0.72          1.57          1.43
+Diluted NI Availto Com Stockholders                              338513000.0       184115000.0   405150000.0   373905000.0
+Net Income Common Stockholders                                   338513000.0       184115000.0   405150000.0   373905000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0           0.0
+Net Income                                                       338513000.0       184115000.0   405150000.0   373905000.0
+Minority Interests                                                       NaN               NaN           0.0     -839000.0
+Net Income Including Noncontrolling Interests                    338513000.0       184115000.0   405150000.0   374744000.0
+Net Income Discontinuous Operations                                      NaN               NaN           0.0    72769000.0
+Net Income Continuous Operations                                 338513000.0       184115000.0   405150000.0   301975000.0
+Tax Provision                                                     56930000.0        32637000.0   140556000.0    81837000.0
+Pretax Income                                                    395443000.0       216752000.0   545706000.0   383812000.0
+Other Non Operating Income Expenses                              346187000.0       -25804000.0   268905000.0   174178000.0
+Special Income Charges                                            10600000.0        21782000.0           NaN           NaN
+Write Off                                                        -10600000.0       -21782000.0           NaN           NaN
+Net Non Operating Interest Income Expense                         -8147000.0       -12207000.0    -9219000.0   -11811000.0
+Interest Expense Non Operating                                     8147000.0        12207000.0     9219000.0    11811000.0
+Operating Income                                                  46941000.0       233201000.0   286020000.0   221871000.0
+Operating Expense                                                342295000.0       315334000.0   338354000.0   290643000.0
+Other Operating Expenses                                                 NaN       293552000.0   338354000.0   290643000.0
+Selling General And Administration                               342295000.0       315334000.0           NaN           NaN
+General And Administrative Expense                               342295000.0       315334000.0           NaN           NaN
+Gross Profit                                                     389236000.0       548535000.0   624374000.0   512514000.0
+Cost Of Revenue                                                 3797123000.0      4517166000.0  4702057000.0  6250304000.0
+Total Revenue                                                   4186359000.0      5065701000.0  5326431000.0  6762818000.0
+Operating Revenue                                               4186359000.0      5065701000.0  5326431000.0  6762818000.0

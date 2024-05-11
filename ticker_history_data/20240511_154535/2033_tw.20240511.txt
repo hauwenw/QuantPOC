@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 16, Chung Cheng North Road
+address2	Lane 317 YongKang District
+city	Tainan City
+country	Taiwan
+phone	886 6 2533 117
+fax	886 6 2533 932
+website	https://www.ctworld.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chia Ta World Co., Ltd. engages in the manufacture, processing, and distribution of steel products. The company's products include high carbon and galvanized steel wires, un-galvanized and galvanized steel wire strands, un-galvanized steel ropes, pre-stressed concrete (PC) steel wires and strands, hard drawn steel wires, and uncoated and zinc-coated PC steel bars, as well as oil-tempered wires. Its products are used in the spring/suspension, mattress manufacturing, PC products, and construction industries, as well as infrastructure applications, such as bridges, beams, and civil engineering. Chia Ta World Co., Ltd. was founded in 1973 and is headquartered in Tainan City, Taiwan.
+fullTimeEmployees	120
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zhengping  Chen', 'title': 'General Manager', 'fiscalYear': 2022, 'totalPay': 7907624, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Qiuyue  Wang', 'title': 'Accounting Supervisor & Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	16.3
+open	16.3
+dayLow	16.1
+dayHigh	16.4
+regularMarketPreviousClose	16.3
+regularMarketOpen	16.3
+regularMarketDayLow	16.1
+regularMarketDayHigh	16.4
+exDividendDate	1658448000	 (2022-07-22 08:00:00)
+fiveYearAvgDividendYield	1.73
+beta	0.756
+trailingPE	202.50002
+forwardPE	70.434784
+volume	108606
+regularMarketVolume	108606
+averageVolume	294146
+averageVolume10days	134261
+averageDailyVolume10Day	134261
+bid	16.2
+ask	16.25
+marketCap	1307250944
+fiftyTwoWeekLow	13.85
+fiftyTwoWeekHigh	20.8
+priceToSalesTrailing12Months	2.2287195
+fiftyDayAverage	16.599
+twoHundredDayAverage	15.75675
+currency	TWD
+enterpriseValue	1401632512
+profitMargins	-0.0053100004
+floatShares	71054767
+sharesOutstanding	80694496
+heldPercentInsiders	0.49484003
+impliedSharesOutstanding	80694496
+bookValue	12.747
+priceToBook	1.2708874
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-3112000
+trailingEps	0.08
+forwardEps	0.23
+lastSplitFactor	1.09:1
+lastSplitDate	1249430400	 (2009-08-05 08:00:00)
+enterpriseToRevenue	2.39
+enterpriseToEbitda	104.358
+52WeekChange	0.087248325
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1658448000	 (2022-07-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2033.TW
+underlyingSymbol	2033.TW
+shortName	CHIA TA WORLD
+longName	Chia Ta World Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c35fdf8d-3ec0-357b-83bc-de6404b76016
+messageBoardId	finmb_9830200
+gmtOffSetMilliseconds	28800000
+currentPrice	16.2
+recommendationKey	none
+totalCash	63720000
+totalCashPerShare	0.79
+ebitda	13430966
+totalDebt	158100992
+quickRatio	1.145
+currentRatio	2.468
+totalRevenue	586547968
+debtToEquity	15.37
+revenuePerShare	7.269
+returnOnAssets	-0.0029699998
+returnOnEquity	-0.00303
+freeCashflow	48940000
+operatingCashflow	58458000
+revenueGrowth	-0.199
+grossMargins	0.08886
+ebitdaMargins	0.0229
+operatingMargins	0.02479
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31       2022-12-31      2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   24091.762812      9399.033816     49090.58566   -256651.607164
+Tax Rate For Calcs                                                0.165012         0.123671        0.194034         0.233745
+Normalized EBITDA                                               19240000.0        9374000.0      38978000.0       48881000.0
+Total Unusual Items                                               146000.0          76000.0        253000.0       -1098000.0
+Total Unusual Items Excluding Goodwill                            146000.0          76000.0        253000.0       -1098000.0
+Net Income From Continuing Operation Net Minority Interest      -3112000.0      -12698000.0      14725000.0       19810000.0
+Reconciled Depreciation                                         19969000.0       20277000.0      19265000.0       20664000.0
+Reconciled Cost Of Revenue                                     534430000.0      759243000.0     758856000.0      656220000.0
+EBITDA                                                          19386000.0        9450000.0      39231000.0       47783000.0
+EBIT                                                             -583000.0      -10827000.0      19966000.0       27119000.0
+Net Interest Income                                             -2903000.0       -3531000.0      -1643000.0       -1146000.0
+Interest Expense                                                 3144000.0        3663000.0       1696000.0        1266000.0
+Interest Income                                                   241000.0         132000.0         53000.0         120000.0
+Normalized Income                                          -3233908.237188 -12764600.966184  14521090.58566  20651348.392836
+Net Income From Continuing And Discontinued Operation           -3112000.0      -12698000.0      14725000.0       19810000.0
+Total Expenses                                                 592600000.0      825860000.0     830230000.0      736497000.0
+Rent Expense Supplemental                                         118000.0          38000.0         43000.0          39000.0
+Diluted Average Shares                                          80694536.0       80694536.0      80728141.0       80753261.0
+Basic Average Shares                                            80694536.0       80694536.0      80694536.0       80694536.0
+Diluted EPS                                                          -0.04            -0.16            0.18             0.25
+Basic EPS                                                            -0.04            -0.16            0.18             0.25
+Diluted NI Availto Com Stockholders                             -3112000.0      -12698000.0      14725000.0       19810000.0
+Net Income Common Stockholders                                  -3112000.0      -12698000.0      14725000.0       19810000.0
+Otherunder Preferred Stock Dividend                                    0.0              0.0             0.0              0.0
+Net Income                                                      -3112000.0      -12698000.0      14725000.0       19810000.0
+Net Income Including Noncontrolling Interests                   -3112000.0      -12698000.0      14725000.0       19810000.0
+Net Income Continuous Operations                                -3112000.0      -12698000.0      14725000.0       19810000.0
+Tax Provision                                                    -615000.0       -1792000.0       3545000.0        6043000.0
+Pretax Income                                                   -3727000.0      -14490000.0      18270000.0       25853000.0
+Other Non Operating Income Expenses                              4460000.0        5834000.0       5861000.0        4323000.0
+Special Income Charges                                            146000.0          76000.0        253000.0       -1098000.0
+Other Special Charges                                            -146000.0         -76000.0       -247000.0         -20000.0
+Write Off                                                              NaN              0.0         -6000.0        1118000.0
+Net Non Operating Interest Income Expense                       -2903000.0       -3531000.0      -1643000.0       -1146000.0
+Interest Expense Non Operating                                   3144000.0        3663000.0       1696000.0        1266000.0
+Interest Income Non Operating                                     241000.0         132000.0         53000.0         120000.0
+Operating Income                                                -6052000.0      -15057000.0      14554000.0       21276000.0
+Operating Expense                                               58170000.0       66617000.0      71374000.0       80277000.0
+Other Operating Expenses                                         1076000.0        1436000.0        994000.0        1280000.0
+Depreciation And Amortization In Income Statement                2914000.0        3011000.0       2892000.0        4813000.0
+Depreciation Income Statement                                    2914000.0        3011000.0       2892000.0        4813000.0
+Selling General And Administration                              23137000.0       28435000.0      30383000.0       36847000.0
+Selling And Marketing Expense                                   10156000.0       14215000.0      16482000.0       21902000.0
+General And Administrative Expense                              12981000.0       14220000.0      13901000.0       14945000.0
+Rent And Landing Fees                                             118000.0          38000.0         43000.0          39000.0
+Gross Profit                                                    52118000.0       51560000.0      85928000.0      101553000.0
+Cost Of Revenue                                                534430000.0      759243000.0     758856000.0      656220000.0
+Total Revenue                                                  586548000.0      810803000.0     844784000.0      757773000.0
+Operating Revenue                                              586548000.0      810803000.0     844784000.0      757773000.0

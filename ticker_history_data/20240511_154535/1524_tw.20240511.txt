@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 48, Nieh Hsi Road
+address2	Luchu District
+city	Taoyuan City
+zip	338
+country	Taiwan
+phone	886 3 324 4011
+fax	886 3 324 8375
+website	https://www.gordon.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Gordon Auto Body Parts Co., Ltd. manufactures and sells automotive sheet metal replacement crash parts worldwide. It offers side panels, wheel flares, tailgates, engine under covers, radiators, mirrors, hoods, handles, fenders, steel and front bumpers, inner fenders, and other products. The company was founded in 1986 and is headquartered in Taoyuan City, Taiwan.
+fullTimeEmployees	457
+companyOfficers	[{'maxAge': 1, 'name': 'Qi Min Chen', 'title': 'Head of Accounting and Head of Finance', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	35.4
+open	36.35
+dayLow	35.1
+dayHigh	37.5
+regularMarketPreviousClose	35.4
+regularMarketOpen	36.35
+regularMarketDayLow	35.1
+regularMarketDayHigh	37.5
+dividendRate	1.3
+dividendYield	0.0349
+exDividendDate	1712793600	 (2024-04-11 08:00:00)
+payoutRatio	0.47169998
+fiveYearAvgDividendYield	3.24
+beta	0.465
+trailingPE	17.54717
+forwardPE	32.920353
+volume	16639606
+regularMarketVolume	16639606
+averageVolume	7751667
+averageVolume10days	6288907
+averageDailyVolume10Day	6288907
+bid	37.15
+ask	37.2
+marketCap	6149532160
+fiftyTwoWeekLow	20.2
+fiftyTwoWeekHigh	39.3
+priceToSalesTrailing12Months	2.2796707
+fiftyDayAverage	35.655
+twoHundredDayAverage	30.1995
+trailingAnnualDividendRate	1.3
+trailingAnnualDividendYield	0.03672316
+currency	TWD
+enterpriseValue	7270898688
+profitMargins	0.13033
+sharesOutstanding	165310000
+heldPercentInsiders	0.33847
+heldPercentInstitutions	0.02911
+impliedSharesOutstanding	166518000
+bookValue	16.321
+priceToBook	2.2792723
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.912
+netIncomeToCommon	351560000
+trailingEps	2.12
+forwardEps	1.13
+lastSplitFactor	920:1000
+lastSplitDate	1603324800	 (2020-10-22 08:00:00)
+enterpriseToRevenue	2.695
+enterpriseToEbitda	9.431
+52WeekChange	0.706422
+SandP52WeekChange	0.26265144
+lastDividendValue	1.3
+lastDividendDate	1712793600	 (2024-04-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1524.TW
+underlyingSymbol	1524.TW
+shortName	GORDON AUTO BODY PARTS CO
+longName	Gordon Auto Body Parts Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	80245c4d-f738-3247-ba5e-b6568db28065
+messageBoardId	finmb_9845895
+gmtOffSetMilliseconds	28800000
+currentPrice	37.2
+recommendationKey	none
+totalCash	703518976
+totalCashPerShare	4.256
+ebitda	770926976
+totalDebt	1824871040
+quickRatio	1.131
+currentRatio	1.802
+totalRevenue	2697552896
+debtToEquity	67.639
+revenuePerShare	16.318
+returnOnAssets	0.05059
+returnOnEquity	0.13459
+freeCashflow	642648512
+operatingCashflow	908972032
+earningsGrowth	0.912
+revenueGrowth	0.188
+grossMargins	0.27023
+ebitdaMargins	0.28579
+operatingMargins	0.20617001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                    843026.562077    3152617.418832   4779919.685636    530701.59782
+Tax Rate For Calcs                                                  0.193177          0.194967         0.189506        0.023754
+Normalized EBITDA                                                801524000.0       795573000.0      431519000.0     390950000.0
+Total Unusual Items                                                4364000.0        16170000.0       25223000.0      22342000.0
+Total Unusual Items Excluding Goodwill                             4364000.0        16170000.0       25223000.0      22342000.0
+Net Income From Continuing Operation Net Minority Interest       351560000.0       336445000.0       62083000.0      36537000.0
+Reconciled Depreciation                                          340276000.0       362562000.0      357194000.0     353543000.0
+Reconciled Cost Of Revenue                                      1968591000.0      1883014000.0     1641907000.0    1617362000.0
+EBITDA                                                           805888000.0       811743000.0      456742000.0     413292000.0
+EBIT                                                             465612000.0       449181000.0       99548000.0      59749000.0
+Net Interest Income                                              -12865000.0       -20560000.0      -24013000.0     -18774000.0
+Interest Expense                                                  29878000.0        31254000.0       22949000.0      22323000.0
+Interest Income                                                   18589000.0        12810000.0        1101000.0       5591000.0
+Normalized Income                                           348039026.562077  323427617.418832  41639919.685636  14725701.59782
+Net Income From Continuing And Discontinued Operation            351560000.0       336445000.0       62083000.0      36537000.0
+Total Expenses                                                  2260069000.0      2155756000.0     1880796000.0    1853256000.0
+Diluted Average Shares                                                   NaN       165841000.0      165523000.0     174222000.0
+Basic Average Shares                                                     NaN       165310000.0      165310000.0     174108000.0
+Diluted EPS                                                              NaN              2.03             0.38            0.21
+Basic EPS                                                                NaN              2.04             0.38            0.21
+Diluted NI Availto Com Stockholders                              351560000.0       336445000.0       62083000.0      36537000.0
+Net Income Common Stockholders                                   351560000.0       336445000.0       62083000.0      36537000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0             0.0
+Net Income                                                       351560000.0       336445000.0       62083000.0      36537000.0
+Net Income Including Noncontrolling Interests                    351560000.0       336445000.0       62083000.0      36537000.0
+Net Income Continuous Operations                                 351560000.0       336445000.0       62083000.0      36537000.0
+Tax Provision                                                     84174000.0        81482000.0       14516000.0        889000.0
+Pretax Income                                                    435734000.0       417927000.0       76599000.0      37426000.0
+Other Non Operating Income Expenses                                3391000.0         5359000.0        4579000.0      19530000.0
+Special Income Charges                                             3879000.0        16682000.0       24960000.0      22044000.0
+Other Special Charges                                             -5713000.0       -17303000.0      -23852000.0     -22142000.0
+Write Off                                                          1834000.0          621000.0       -1108000.0         98000.0
+Net Non Operating Interest Income Expense                        -12865000.0       -20560000.0      -24013000.0     -18774000.0
+Total Other Finance Cost                                           1576000.0         2116000.0        2165000.0       2042000.0
+Interest Expense Non Operating                                    29878000.0        31254000.0       22949000.0      22323000.0
+Interest Income Non Operating                                     18589000.0        12810000.0        1101000.0       5591000.0
+Operating Income                                                 437484000.0       283696000.0       82629000.0      55530000.0
+Operating Expense                                                291478000.0       272742000.0      238889000.0     235894000.0
+Research And Development                                           4833000.0         4539000.0        4159000.0       3857000.0
+Selling General And Administration                               286645000.0       268203000.0      234730000.0     232037000.0
+Selling And Marketing Expense                                    186130000.0       174262000.0      162242000.0     162190000.0
+General And Administrative Expense                               100515000.0        93941000.0       72488000.0      69847000.0
+Gross Profit                                                     728962000.0       556438000.0      321518000.0     291424000.0
+Cost Of Revenue                                                 1968591000.0      1883014000.0     1641907000.0    1617362000.0
+Total Revenue                                                   2697553000.0      2439452000.0     1963425000.0    1908786000.0
+Operating Revenue                                               2697553000.0      2439452000.0     1963425000.0    1908786000.0

@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No.139, Zhengzhou Road
+address2	6th Floor Datong District
+city	Taipei
+country	Taiwan
+phone	886 2 2162 6288
+website	https://www.secom.com.tw
+industry	Security & Protection Services
+industryKey	security-protection-services
+industryDisp	Security & Protection Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Taiwan Secom Co., Ltd. provides security services in Taiwan. It operates through four segments: Electronic System, Security Service, Cash Delivery Service, and Logistics Service. The company manufactures, processes, and sells security-related equipment and parts. It also offers corporate and building security guarding services; in-flight catering and related services; and cash delivery, logistic, air cargo transporting, building management, automated teller machine, custom broker, vehicle maintenance, educational and recreational, car parking lot, light controlling system, and technology support services. In addition, the company sells electric, telecommunication, fireproof, and other products; produces and sells instant foods; connects police-citizens; retails POS systems; and rents automated external defibrillators and mini-storage, as well as rents and sells videos. Further, it manufactures and sells digital signage and monitors; wholesales and installs fire safety equipment; and retails and rents medical equipment, as well as acts as an insurance broker. The company was incorporated in 1977 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jian-Han  Lin', 'title': 'Manager, CEO & Chairman', 'fiscalYear': 2022, 'totalPay': 38366000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Sheng  Lin', 'title': 'Chief Strategy Officer & Vice Chairman', 'fiscalYear': 2022, 'totalPay': 15264000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsing-Kuo  Chou', 'title': 'Chief Executive Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jung-Kuei  Li', 'title': 'Chief Executive Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tzu-Hsin  Lin', 'title': 'General Manager & Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Su Ling  Chen', 'title': 'Chief Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hung-Chun  Yen', 'title': 'Chief Information Security Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jheng-Jhih  Wu', 'title': 'Legal Manager & Corporate Governance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lan-Ying  Hsu', 'title': 'GM & Director', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sato  Sadahiro', 'age': 63, 'title': 'Executive Director', 'yearBorn': 1960, 'fiscalYear': 2022, 'totalPay': 6504000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	130.5
+open	130.5
+dayLow	130.0
+dayHigh	131.0
+regularMarketPreviousClose	130.5
+regularMarketOpen	130.5
+regularMarketDayLow	130.0
+regularMarketDayHigh	131.0
+dividendRate	5.0
+dividendYield	0.0382
+exDividendDate	1687219200	 (2023-06-20 08:00:00)
+payoutRatio	0.8547
+fiveYearAvgDividendYield	4.63
+beta	0.211
+trailingPE	22.354948
+forwardPE	19.20821
+volume	190148
+regularMarketVolume	190148
+averageVolume	466199
+averageVolume10days	271463
+averageDailyVolume10Day	271463
+bid	130.0
+ask	131.0
+marketCap	58080161792
+fiftyTwoWeekLow	102.5
+fiftyTwoWeekHigh	133.0
+priceToSalesTrailing12Months	3.4016774
+fiftyDayAverage	123.84
+twoHundredDayAverage	116.59
+trailingAnnualDividendRate	5.2
+trailingAnnualDividendYield	0.03984674
+currency	TWD
+enterpriseValue	59830120448
+profitMargins	0.15177
+floatShares	231895165
+sharesOutstanding	443360000
+heldPercentInsiders	0.47624
+heldPercentInstitutions	0.20526
+impliedSharesOutstanding	445092000
+bookValue	28.392
+priceToBook	4.6139755
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.002
+netIncomeToCommon	2591252992
+trailingEps	5.86
+forwardEps	6.82
+lastSplitFactor	1015:1000
+lastSplitDate	1409184000	 (2014-08-28 08:00:00)
+enterpriseToRevenue	3.504
+enterpriseToEbitda	15.711
+52WeekChange	0.196347
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1687219200	 (2023-06-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9917.TW
+underlyingSymbol	9917.TW
+shortName	TAIWAN SECOM CO
+longName	Taiwan Secom Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	7bdef180-c0f0-33a8-b9bf-2a86b94dd4dd
+messageBoardId	finmb_9768803
+gmtOffSetMilliseconds	28800000
+currentPrice	131.0
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	4934039040
+totalCashPerShare	11.129
+ebitda	3808171008
+totalDebt	6209516032
+quickRatio	0.942
+currentRatio	1.152
+totalRevenue	17073977344
+debtToEquity	47.538
+revenuePerShare	38.571
+returnOnAssets	0.06255
+returnOnEquity	0.20491
+freeCashflow	1382195968
+operatingCashflow	3327406080
+revenueGrowth	0.107
+grossMargins	0.32672
+ebitdaMargins	0.22304001
+operatingMargins	0.13894
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -927388.127293    -1860063.507104     -857005.456263     -955650.913681
+Tax Rate For Calcs                                                    0.17855           0.167107           0.164177           0.183497
+Normalized EBITDA                                                4939858000.0       4721744000.0       4627274000.0       4509374000.0
+Total Unusual Items                                                -5194000.0        -11131000.0         -5220000.0         -5208000.0
+Total Unusual Items Excluding Goodwill                             -5194000.0        -11131000.0         -5220000.0         -5208000.0
+Net Income From Continuing Operation Net Minority Interest       2591253000.0       2578741000.0       2526684000.0       2388900000.0
+Reconciled Depreciation                                          1630237000.0       1513176000.0       1487225000.0       1478883000.0
+Reconciled Cost Of Revenue                                      11495601000.0      10283900000.0       9100685000.0       8697290000.0
+EBITDA                                                           4934664000.0       4710613000.0       4622054000.0       4504166000.0
+EBIT                                                             3304427000.0       3197437000.0       3134829000.0       3025283000.0
+Net Interest Income                                               -84102000.0        -52849000.0        -39362000.0        -22748000.0
+Interest Expense                                                  112518000.0         66244000.0         49384000.0         40325000.0
+Interest Income                                                    28416000.0         13395000.0         10022000.0         17577000.0
+Normalized Income                                           2595519611.872707  2588011936.492896  2531046994.543737  2393152349.086319
+Net Income From Continuing And Discontinued Operation            2591253000.0       2578741000.0       2526684000.0       2388900000.0
+Total Expenses                                                  14428369000.0      12882257000.0      11463791000.0      11061161000.0
+Diluted Average Shares                                                    NaN        441413000.0        441206000.0        441245000.0
+Basic Average Shares                                                      NaN        441111000.0        440923000.0        440923000.0
+Diluted EPS                                                               NaN               5.84               5.73               5.41
+Basic EPS                                                                 NaN               5.85               5.73               5.42
+Diluted NI Availto Com Stockholders                              2591253000.0       2578741000.0       2526684000.0       2388900000.0
+Net Income Common Stockholders                                   2591253000.0       2578741000.0       2526684000.0       2388900000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       2591253000.0       2578741000.0       2526684000.0       2388900000.0
+Minority Interests                                                -30741000.0        -29209000.0        -52201000.0        -48328000.0
+Net Income Including Noncontrolling Interests                    2621994000.0       2607950000.0       2578885000.0       2437228000.0
+Net Income Discontinuous Operations                                       0.0                0.0                0.0                0.0
+Net Income Continuous Operations                                 2621994000.0       2607950000.0       2578885000.0       2437228000.0
+Tax Provision                                                     569915000.0        523243000.0        506560000.0        547730000.0
+Pretax Income                                                    3191909000.0       3131193000.0       3085445000.0       2984958000.0
+Other Non Operating Income Expenses                                94776000.0         58211000.0         14664000.0         13224000.0
+Special Income Charges                                             -5194000.0        -11131000.0         -5220000.0         -5208000.0
+Write Off                                                           5194000.0         11131000.0          5220000.0          5208000.0
+Net Non Operating Interest Income Expense                         -84102000.0        -52849000.0        -39362000.0        -22748000.0
+Interest Expense Non Operating                                    112518000.0         66244000.0         49384000.0         40325000.0
+Interest Income Non Operating                                      28416000.0         13395000.0         10022000.0         17577000.0
+Operating Income                                                 2645608000.0       2475188000.0       2671106000.0       2645204000.0
+Operating Expense                                                2932768000.0       2598357000.0       2363106000.0       2363871000.0
+Research And Development                                          118886000.0        123194000.0        112028000.0        111575000.0
+Selling General And Administration                               2813882000.0       2475163000.0       2251078000.0       2252296000.0
+Selling And Marketing Expense                                    1043014000.0        869303000.0        805649000.0        754027000.0
+General And Administrative Expense                               1770868000.0       1605860000.0       1445429000.0       1498269000.0
+Gross Profit                                                     5578376000.0       5073545000.0       5034212000.0       5009075000.0
+Cost Of Revenue                                                 11495601000.0      10283900000.0       9100685000.0       8697290000.0
+Total Revenue                                                   17073977000.0      15357445000.0      14134897000.0      13706365000.0
+Operating Revenue                                               17073977000.0      15357445000.0      14134897000.0      13706365000.0

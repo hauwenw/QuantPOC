@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No.9 Jianye East Road
+address2	Torch Hi-tech Development Zone
+city	Zhongshan
+country	China
+phone	86 760 2338 1357
+fax	86 760 2338 2117
+website	https://www.shunsintech.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	ShunSin Technology Holdings Limited, through its subsidiaries, engages in the assembly, testing, and sale of various integrated circuits related to semiconductors in Mainland China, the United States, Taiwan, Malaysia, Singapore, Ireland, and internationally. The company's products include system in package module, including 2G/2.5G/3G/4G front end and power Amplifier (PA), PA, WiFi front end, mobile WiFi, and antenna switch modules; optical transceivers; thick film integrated circuit; and MEMS modules and sensors, such as accelerometers, gyroscopes, G-sensors, pressure and gesture sensors, light and proximity sensors, BAW filters, and TOF sensors. It also offers engineering services, such as assembly and testing. The company was formerly known as Amtec Holdings Limited and changed its name to ShunSin Technology Holdings Limited in August 2013. The company was incorporated in 2008 and is based in Zhongshan, China. ShunSin Technology Holdings Limited is a subsidiary of Foxconn (Far East) Limited.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wen Yi  Hsu', 'title': 'GM & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yao-Wei  Wang', 'title': 'Manager, Financial & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wah Lo  Chi', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Barry  Lin', 'title': 'Director of Marketing Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zheng Yi Lin', 'title': 'Human Resources Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	177.5
+open	177.0
+dayLow	168.5
+dayHigh	179.0
+regularMarketPreviousClose	177.5
+regularMarketOpen	177.0
+regularMarketDayLow	168.5
+regularMarketDayHigh	179.0
+dividendRate	1.17
+dividendYield	0.0068
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.2881
+fiveYearAvgDividendYield	2.77
+beta	1.08
+trailingPE	42.22222
+volume	3027235
+regularMarketVolume	3027235
+averageVolume	4291299
+averageVolume10days	7694331
+averageDailyVolume10Day	7694331
+bid	171.0
+ask	171.5
+marketCap	18155753472
+fiftyTwoWeekLow	80.1
+fiftyTwoWeekHigh	239.5
+priceToSalesTrailing12Months	3.483304
+fiftyDayAverage	182.3
+twoHundredDayAverage	152.148
+currency	TWD
+enterpriseValue	17066459136
+profitMargins	0.08331
+floatShares	38584621
+sharesOutstanding	106174000
+heldPercentInsiders	0.63604
+heldPercentInstitutions	0.00877
+impliedSharesOutstanding	106757000
+bookValue	59.656
+priceToBook	2.8664343
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	434216992
+trailingEps	4.05
+enterpriseToRevenue	3.274
+enterpriseToEbitda	23.095
+52WeekChange	1.1085081
+SandP52WeekChange	0.26265144
+lastDividendValue	1.169612
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6451.TW
+underlyingSymbol	6451.TW
+shortName	SHUNSIN TECHNOLOGY HOLDINGS LTD
+longName	ShunSin Technology Holdings Limited
+firstTradeDateEpochUtc	1422234000	 (2015-01-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b6e1a5bf-ea73-392e-bc5b-ad8b479394f0
+messageBoardId	finmb_276786558
+gmtOffSetMilliseconds	28800000
+currentPrice	171.0
+recommendationKey	none
+totalCash	8072144896
+totalCashPerShare	76.028
+ebitda	738956032
+totalDebt	6074964992
+quickRatio	1.295
+currentRatio	1.364
+totalRevenue	5212221952
+debtToEquity	83.887
+revenuePerShare	49.24
+returnOnAssets	0.01143
+returnOnEquity	0.06716
+freeCashflow	300136512
+operatingCashflow	1864568960
+revenueGrowth	-0.171
+grossMargins	0.23429
+ebitdaMargins	0.14177
+operatingMargins	0.047140002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  31888608.411761   -15073170.0    -7977960.0  -20253473.097893
+Tax Rate For Calcs                                                  0.175137          0.21          0.27          0.284999
+Normalized EBITDA                                               1056306000.0   728111000.0   819589000.0      1638355000.0
+Total Unusual Items                                              182078000.0   -71777000.0   -29548000.0       -71065000.0
+Total Unusual Items Excluding Goodwill                           182078000.0   -71777000.0   -29548000.0       -71065000.0
+Net Income From Continuing Operation Net Minority Interest       434217000.0   205674000.0   403082000.0       724859000.0
+Reconciled Depreciation                                          493720000.0   512151000.0   510649000.0       495055000.0
+Reconciled Cost Of Revenue                                      3991035000.0  4668217000.0  3347948000.0      3269332000.0
+EBITDA                                                          1238384000.0   656334000.0   790041000.0      1567290000.0
+EBIT                                                             744664000.0   144183000.0   279392000.0      1072235000.0
+Net Interest Income                                               13851000.0    73594000.0   145867000.0       107644000.0
+Interest Expense                                                 178005000.0   127703000.0    73220000.0        65864000.0
+Interest Income                                                  191856000.0   201297000.0   219087000.0       173508000.0
+Normalized Income                                           284027608.411761   262377830.0   424652040.0  775670526.902107
+Net Income From Continuing And Discontinued Operation            434217000.0   205674000.0   403082000.0       724859000.0
+Total Expenses                                                  4928261000.0  5398988000.0  4226629000.0      3887057000.0
+Diluted Average Shares                                                   NaN   107369000.0   117262000.0       115697000.0
+Basic Average Shares                                                     NaN   107035000.0   107014000.0       105336000.0
+Diluted EPS                                                              NaN          1.92          3.72              6.52
+Basic EPS                                                                NaN          1.92          3.77              6.88
+Diluted NI Availto Com Stockholders                              434217000.0   205674000.0   403082000.0       724859000.0
+Net Income Common Stockholders                                   434217000.0   205674000.0   403082000.0       724859000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0           0.0               0.0
+Net Income                                                       434217000.0   205674000.0   403082000.0       724859000.0
+Minority Interests                                               -33199000.0    22943000.0    24475000.0         5303000.0
+Net Income Including Noncontrolling Interests                    467416000.0   182731000.0   378607000.0       719556000.0
+Net Income Continuous Operations                                 467416000.0   182731000.0   378607000.0       719556000.0
+Tax Provision                                                     99243000.0  -166251000.0  -172435000.0       286815000.0
+Pretax Income                                                    566659000.0    16480000.0   206172000.0      1006371000.0
+Other Non Operating Income Expenses                               76183000.0    66830000.0    59260000.0        52267000.0
+Special Income Charges                                            -1277000.0     9609000.0    10619000.0        -2893000.0
+Other Special Charges                                              1277000.0    -9609000.0     4622000.0         1867000.0
+Write Off                                                                0.0           0.0   -15241000.0         1026000.0
+Net Non Operating Interest Income Expense                         13851000.0    73594000.0   145867000.0       107644000.0
+Interest Expense Non Operating                                   178005000.0   127703000.0    73220000.0        65864000.0
+Interest Income Non Operating                                    191856000.0   201297000.0   219087000.0       173508000.0
+Operating Income                                                 283961000.0   -81047000.0    43771000.0       962632000.0
+Operating Expense                                                937226000.0   730771000.0   878681000.0       617725000.0
+Research And Development                                         386959000.0   310505000.0   429555000.0       272144000.0
+Selling General And Administration                               550267000.0   420266000.0   449126000.0       345581000.0
+Selling And Marketing Expense                                     48375000.0    56412000.0    39317000.0        38811000.0
+General And Administrative Expense                               501892000.0   363854000.0   409809000.0       306770000.0
+Gross Profit                                                    1221187000.0   649724000.0   922452000.0      1580357000.0
+Cost Of Revenue                                                 3991035000.0  4668217000.0  3347948000.0      3269332000.0
+Total Revenue                                                   5212222000.0  5317941000.0  4270400000.0      4849689000.0
+Operating Revenue                                               5212222000.0  5317941000.0  4270400000.0      4849689000.0

@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 5-2, Chi-Lin North Road
+address2	Chung-Li District
+city	Taoyuan City
+zip	320030
+country	Taiwan
+phone	886 3 452 7005
+fax	886 3 462 8021
+website	https://www.kaori.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kaori Heat Treatment Co., Ltd. develops, manufactures, and sells heat exchanger solutions in Taiwan, rest of Asia, the United States, Europe, and internationally. The company offers brazed and gasketed plate heat exchangers, methanol fuel cells, hydrogen generators, and automatic methanol mixers; brazing and welding products; fuel cell reactor components and reformers; liquid-cooled heat dissipation systems; and data center and advanced liquid cooling solutions. It also engages in the production of mechanical hardware products; processing of fabricated metals; and manufacture and development of thermal products. The company serves refrigeration and HVAC, semiconductor and electronics, energy, machinery and manufacturing, marine and transportation, healthcare, and data center industries. The company was incorporated in 1970 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Hsin-Wu  Wang', 'title': 'GM & Director', 'fiscalYear': 2022, 'totalPay': 4743000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hung-Hsing  Huang', 'title': 'C.S.O.', 'fiscalYear': 2022, 'totalPay': 1021000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hung-Yi  Chiu', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'totalPay': 2371000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wu-Hsing  Chou', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'totalPay': 4576000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung Cheng  Hsu', 'title': 'Assistant Manager', 'fiscalYear': 2022, 'totalPay': 2875000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chiu Ming  Chu', 'title': 'Assistant Manager', 'fiscalYear': 2022, 'totalPay': 2788000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jui-Chin  Chuang', 'title': 'Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wan-Ching  Chang', 'title': 'Accounting Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rui Zhong Xu', 'title': 'Deputy General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	425.0
+open	430.0
+dayLow	415.0
+dayHigh	433.0
+regularMarketPreviousClose	425.0
+regularMarketOpen	430.0
+regularMarketDayLow	415.0
+regularMarketDayHigh	433.0
+dividendRate	3.98
+dividendYield	0.0094
+exDividendDate	1713398400	 (2024-04-18 08:00:00)
+payoutRatio	0.237
+fiveYearAvgDividendYield	3.97
+beta	1.086
+trailingPE	66.64037
+forwardPE	31.71922
+volume	1486523
+regularMarketVolume	1486523
+averageVolume	9940094
+averageVolume10days	10269366
+averageDailyVolume10Day	10269366
+bid	422.0
+ask	422.5
+marketCap	37764739072
+fiftyTwoWeekLow	204.5
+fiftyTwoWeekHigh	447.0
+priceToSalesTrailing12Months	8.730377
+fiftyDayAverage	351.52
+twoHundredDayAverage	282.4875
+trailingAnnualDividendRate	4.0
+trailingAnnualDividendYield	0.009411764
+currency	TWD
+enterpriseValue	38504882176
+profitMargins	0.13328
+floatShares	75772672
+sharesOutstanding	89384000
+heldPercentInsiders	0.19743
+heldPercentInstitutions	0.12792
+impliedSharesOutstanding	90039600
+bookValue	30.248
+priceToBook	13.967866
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.64
+netIncomeToCommon	576526016
+trailingEps	6.34
+forwardEps	13.32
+lastSplitFactor	1100:1000
+lastSplitDate	1439510400	 (2015-08-14 08:00:00)
+enterpriseToRevenue	8.901
+enterpriseToEbitda	45.968
+52WeekChange	1.0410628
+SandP52WeekChange	0.26265144
+lastDividendValue	3.981422
+lastDividendDate	1713398400	 (2024-04-18 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8996.TW
+underlyingSymbol	8996.TW
+shortName	KAORI HEAT TREATMENT CO
+longName	Kaori Heat Treatment Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e816b56e-7694-3d59-a531-7cfa38e230cb
+messageBoardId	finmb_20385250
+gmtOffSetMilliseconds	28800000
+currentPrice	422.5
+targetHighPrice	505.0
+targetLowPrice	400.0
+targetMeanPrice	461.25
+targetMedianPrice	470.0
+recommendationMean	1.2
+recommendationKey	strong_buy
+numberOfAnalystOpinions	4
+totalCash	612572032
+totalCashPerShare	6.853
+ebitda	837646016
+totalDebt	1352679936
+quickRatio	1.417
+currentRatio	2.713
+totalRevenue	4325670912
+debtToEquity	50.031
+revenuePerShare	48.394
+returnOnAssets	0.098979995
+returnOnEquity	0.24209999
+freeCashflow	145410496
+operatingCashflow	679041984
+earningsGrowth	-0.643
+grossMargins	0.28295
+ebitdaMargins	0.19364999
+operatingMargins	0.08141
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -382146.301083    -917603.535179     254679.500818    -205188.374033
+Tax Rate For Calcs                                                  0.209855          0.227863          0.237132          0.272495
+Normalized EBITDA                                                894025000.0       521066000.0       317409000.0       279211000.0
+Total Unusual Items                                               -1821000.0        -4027000.0         1074000.0         -753000.0
+Total Unusual Items Excluding Goodwill                            -1821000.0        -4027000.0         1074000.0         -753000.0
+Net Income From Continuing Operation Net Minority Interest       576526000.0       301020000.0       149156000.0       112524000.0
+Reconciled Depreciation                                          129164000.0       113842000.0       112633000.0       115081000.0
+Reconciled Cost Of Revenue                                      3101722000.0      2057910000.0      1637670000.0      1547977000.0
+EBITDA                                                           892204000.0       517039000.0       318483000.0       278458000.0
+EBIT                                                             763040000.0       403197000.0       205850000.0       163377000.0
+Net Interest Income                                              -25120000.0       -11610000.0        -7756000.0        -5368000.0
+Interest Expense                                                  33394000.0        13344000.0        10330000.0         8706000.0
+Interest Income                                                    8274000.0         1734000.0         2574000.0         3338000.0
+Normalized Income                                           577964853.698917  304129396.464821  148336679.500818  113071811.625967
+Net Income From Continuing And Discontinued Operation            576526000.0       301020000.0       149156000.0       112524000.0
+Total Expenses                                                  3612412000.0      2493377000.0      2001992000.0      1905327000.0
+Diluted Average Shares                                                   NaN        89442000.0        89461000.0        89476000.0
+Basic Average Shares                                                     NaN        89384000.0        89384000.0        89384000.0
+Diluted EPS                                                              NaN              3.37              1.67          1.257589
+Basic EPS                                                                NaN              3.37              1.67              1.26
+Diluted NI Availto Com Stockholders                              576526000.0       301020000.0       149156000.0       112524000.0
+Net Income Common Stockholders                                   576526000.0       301020000.0       149156000.0       112524000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       576526000.0       301020000.0       149156000.0       112524000.0
+Net Income Including Noncontrolling Interests                    576526000.0       301020000.0       149156000.0       112524000.0
+Net Income Continuous Operations                                 576526000.0       301020000.0       149156000.0       112524000.0
+Tax Provision                                                    153120000.0        88833000.0        46364000.0        42147000.0
+Pretax Income                                                    729646000.0       389853000.0       195520000.0       154671000.0
+Other Non Operating Income Expenses                               43328000.0        55327000.0       -27079000.0       -10240000.0
+Special Income Charges                                            -1821000.0        -4027000.0         1074000.0         -753000.0
+Write Off                                                          1821000.0         4027000.0        -1074000.0          753000.0
+Net Non Operating Interest Income Expense                        -25120000.0       -11610000.0        -7756000.0        -5368000.0
+Interest Expense Non Operating                                    33394000.0        13344000.0        10330000.0         8706000.0
+Interest Income Non Operating                                      8274000.0         1734000.0         2574000.0         3338000.0
+Operating Income                                                 713259000.0       350163000.0       229281000.0       171032000.0
+Operating Expense                                                510690000.0       435467000.0       364322000.0       357350000.0
+Research And Development                                          83813000.0        80506000.0        68481000.0        77051000.0
+Selling General And Administration                               426877000.0       354961000.0       295841000.0       280299000.0
+Selling And Marketing Expense                                    139414000.0       131574000.0       111261000.0        99571000.0
+General And Administrative Expense                               287463000.0       223387000.0       184580000.0       180728000.0
+Gross Profit                                                    1223949000.0       785630000.0       593603000.0       528382000.0
+Cost Of Revenue                                                 3101722000.0      2057910000.0      1637670000.0      1547977000.0
+Total Revenue                                                   4325671000.0      2843540000.0      2231273000.0      2076359000.0
+Operating Revenue                                               4325671000.0      2843540000.0      2231273000.0      2076359000.0

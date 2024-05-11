@@ -1,0 +1,143 @@
+=== Ticker Info ===
+address1	No. 170, Chung Cheng 4th Rd.
+address2	Chien Chin Dist.
+city	Kaohsiung
+country	Taiwan
+phone	886 7 281 4161
+fax	886 7 281 0539
+website	https://www.fcht.com.tw
+industry	Copper
+industryKey	copper
+industryDisp	Copper
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	First Copper Technology Co., Ltd. produces and sells copper and copper alloy strips in Taiwan and internationally. The company's products primarily include brass, phosphor bronze, environmental reflow tin plate, copper, and nickel silver; copper alloys for lead frame; tin-plated copper alloys; and special copper alloys for high performance terminals, etc. It supplies its products to electronic, semi-conductive, etc. industries. The company was formerly known as First Copper & Iron Co., Ltd. First Copper Technology Co., Ltd. was founded in 1969 and is headquartered in Kaohsiung City, Taiwan.
+fullTimeEmployees	243
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mao Yang  Hung', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jue-Qian  Hong', 'title': 'Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jia-Yu  Wu', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	45.3
+open	46.0
+dayLow	45.5
+dayHigh	46.75
+regularMarketPreviousClose	45.3
+regularMarketOpen	46.0
+regularMarketDayLow	45.5
+regularMarketDayHigh	46.75
+dividendRate	0.4
+dividendYield	0.0086
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	3.3332999
+forwardPE	47.886597
+volume	4364684
+regularMarketVolume	4364684
+averageVolume	12655537
+averageVolume10days	11750123
+averageDailyVolume10Day	11750123
+bid	46.4
+ask	46.45
+marketCap	16704443392
+fiftyTwoWeekLow	27.55
+fiftyTwoWeekHigh	56.3
+priceToSalesTrailing12Months	6.2571664
+fiftyDayAverage	41.35
+twoHundredDayAverage	33.1925
+currency	TWD
+enterpriseValue	18261741568
+profitMargins	-0.00461
+floatShares	134933833
+sharesOutstanding	359622016
+heldPercentInsiders	0.54255
+heldPercentInstitutions	0.00322
+impliedSharesOutstanding	371296000
+bookValue	16.628
+priceToBook	2.7934809
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.795
+netIncomeToCommon	-12307000
+trailingEps	-0.04
+forwardEps	0.97
+lastSplitFactor	100.5:100
+lastSplitDate	1060128000	 (2003-08-06 08:00:00)
+enterpriseToRevenue	6.841
+enterpriseToEbitda	1257.869
+52WeekChange	0.4864
+SandP52WeekChange	0.26265144
+lastDividendValue	0.4
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2009.TW
+underlyingSymbol	2009.TW
+shortName	FIRST COPPER TECHNOLOGY
+longName	First Copper Technology Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	928674a8-f6b8-348a-990d-a78b46aae8da
+messageBoardId	finmb_9844268
+gmtOffSetMilliseconds	28800000
+currentPrice	46.45
+recommendationKey	none
+totalCash	55249000
+totalCashPerShare	0.154
+ebitda	14518000
+totalDebt	1612541056
+quickRatio	0.192
+currentRatio	1.261
+totalRevenue	2669649920
+debtToEquity	20.854
+revenuePerShare	7.358
+returnOnAssets	-0.0053100004
+returnOnEquity	-0.0019699999
+freeCashflow	47612752
+operatingCashflow	175895008
+revenueGrowth	0.037
+grossMargins	-0.00513
+ebitdaMargins	0.0054400004
+operatingMargins	-0.00162
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2           0.2      0.093936      0.022569
+Normalized EBITDA                                            117347000.0   270910000.0   543062000.0   153661000.0
+Net Income From Continuing Operation Net Minority Interest    -9494000.0   196940000.0   422675000.0    79210000.0
+Reconciled Depreciation                                       84679000.0    80202000.0    69950000.0    64851000.0
+Reconciled Cost Of Revenue                                  2657368000.0  2943882000.0  2896491000.0  2281757000.0
+EBITDA                                                       117347000.0   270910000.0   543062000.0   153661000.0
+EBIT                                                          32668000.0   190708000.0   473112000.0    88810000.0
+Net Interest Income                                          -26438000.0   -16115000.0    -6598000.0    -7739000.0
+Interest Expense                                              26890000.0    16297000.0     6616000.0     7771000.0
+Interest Income                                                 452000.0      182000.0       18000.0       32000.0
+Normalized Income                                             -9494000.0   196940000.0   422675000.0    79210000.0
+Net Income From Continuing And Discontinued Operation         -9494000.0   196940000.0   422675000.0    79210000.0
+Total Expenses                                              2713498000.0  3006491000.0  2962391000.0  2336499000.0
+Diluted Average Shares                                               NaN   359872000.0   359969000.0   359718000.0
+Basic Average Shares                                                 NaN   359622000.0   359622000.0   359622000.0
+Diluted EPS                                                          NaN          0.55          1.17          0.22
+Basic EPS                                                            NaN          0.55          1.18          0.22
+Diluted NI Availto Com Stockholders                           -9494000.0   196940000.0   422675000.0    79210000.0
+Net Income Common Stockholders                                -9494000.0   196940000.0   422675000.0    79210000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    -9494000.0   196940000.0   422675000.0    79210000.0
+Net Income Including Noncontrolling Interests                 -9494000.0   196940000.0   422675000.0    79210000.0
+Net Income Continuous Operations                              -9494000.0   196940000.0   422675000.0    79210000.0
+Tax Provision                                                 15272000.0   -22529000.0    43821000.0     1829000.0
+Pretax Income                                                  5778000.0   174411000.0   466496000.0    81039000.0
+Other Non Operating Income Expenses                           99563000.0   301565000.0   216635000.0   164680000.0
+Net Non Operating Interest Income Expense                    -26438000.0   -16115000.0    -6598000.0    -7739000.0
+Interest Expense Non Operating                                26890000.0    16297000.0     6616000.0     7771000.0
+Interest Income Non Operating                                   452000.0      182000.0       18000.0       32000.0
+Operating Income                                             -67349000.0  -111079000.0   256413000.0   -75903000.0
+Operating Expense                                             56130000.0    62609000.0    65900000.0    54742000.0
+Other Operating Expenses                                      56130000.0    62609000.0    65900000.0    54742000.0
+Gross Profit                                                 -11219000.0   -48470000.0   322313000.0   -21161000.0
+Cost Of Revenue                                             2657368000.0  2943882000.0  2896491000.0  2281757000.0
+Total Revenue                                               2646149000.0  2895412000.0  3218804000.0  2260596000.0
+Operating Revenue                                           2646149000.0  2895412000.0  3218804000.0  2260596000.0

@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	71, Zhongshan Rd.
+address2	Tucheng Dist.
+city	New Taipei City
+zip	23680
+country	Taiwan
+phone	886 2 2268 1314
+fax	886 2 2268 7815
+website	https://www.rectron.com
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Rectron Limited manufactures and sells discrete semiconductors in Taiwan and internationally. Its products include bridge rectifiers, ESD diodes, high voltage products, recovery rectifiers, schottky diodes, signal-switching diodes, silicon carbide schottky, standard rectifiers, transistors, TVS and zener diodes, MOSFET, and other products. The company also offers various rectifiers and other semiconductor components; and medical equipment. In addition, it engages in real estate rental; and liquor trading businesses. The company was founded in 1976 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Wang You Zeng', 'title': 'Deputy General Manager of Environmental Protection Department and Director', 'fiscalYear': 2011, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhou Yu Huang', 'title': 'Deputy General Manager of Environmental Protection Department', 'fiscalYear': 2011, 'totalPay': 1774000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1325289600
+maxAge	86400
+priceHint	2
+previousClose	17.3
+open	17.3
+dayLow	17.15
+dayHigh	17.3
+regularMarketPreviousClose	17.3
+regularMarketOpen	17.3
+regularMarketDayLow	17.15
+regularMarketDayHigh	17.3
+dividendRate	0.8
+dividendYield	0.0462
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	1.5385001
+beta	0.853
+trailingPE	33.26923
+volume	103559
+regularMarketVolume	103559
+averageVolume	463323
+averageVolume10days	151137
+averageDailyVolume10Day	151137
+bid	17.25
+ask	17.3
+marketCap	2877041920
+fiftyTwoWeekLow	16.3
+fiftyTwoWeekHigh	22.0
+priceToSalesTrailing12Months	4.0151587
+fiftyDayAverage	17.789
+twoHundredDayAverage	17.99625
+trailingAnnualDividendRate	0.31
+trailingAnnualDividendYield	0.017919077
+currency	TWD
+enterpriseValue	2303342848
+profitMargins	0.12123
+sharesOutstanding	166303008
+heldPercentInsiders	0.62384
+impliedSharesOutstanding	167284000
+bookValue	10.677
+priceToBook	1.6203053
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.73
+netIncomeToCommon	86869000
+trailingEps	0.52
+lastSplitFactor	1030.998:1000
+lastSplitDate	1439424000	 (2015-08-13 08:00:00)
+enterpriseToRevenue	3.215
+enterpriseToEbitda	18.81
+52WeekChange	-0.094240844
+SandP52WeekChange	0.26265144
+lastDividendValue	0.8
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2302.TW
+underlyingSymbol	2302.TW
+shortName	RECTRON
+longName	Rectron Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2736dd8f-8302-3050-9118-b70dde37136e
+messageBoardId	finmb_11478027
+gmtOffSetMilliseconds	28800000
+currentPrice	17.3
+recommendationKey	none
+totalCash	596220032
+totalCashPerShare	3.585
+ebitda	122453000
+totalDebt	22521000
+quickRatio	1.418
+currentRatio	1.718
+totalRevenue	716545024
+debtToEquity	1.268
+revenuePerShare	4.316
+returnOnAssets	0.01986
+returnOnEquity	0.047930002
+freeCashflow	456728992
+operatingCashflow	143566000
+earningsGrowth	-0.764
+revenueGrowth	-0.357
+grossMargins	0.35923
+ebitdaMargins	0.17089
+operatingMargins	0.07175
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31   2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  2177816.748861    -792416.843803          0.0      37507.713404
+Tax Rate For Calcs                                                 0.183984          0.139485     0.062419          0.047002
+Normalized EBITDA                                               149869000.0       269252000.0  150073000.0       163497000.0
+Total Unusual Items                                              11837000.0        -5681000.0          0.0          798000.0
+Total Unusual Items Excluding Goodwill                           11837000.0        -5681000.0          0.0          798000.0
+Net Income From Continuing Operation Net Minority Interest       86869000.0       176100000.0   84972000.0       105636000.0
+Reconciled Depreciation                                          54657000.0        57789000.0   57735000.0        51208000.0
+Reconciled Cost Of Revenue                                      459141000.0       533784000.0  494220000.0       464314000.0
+EBITDA                                                          161706000.0       263571000.0  150073000.0       164295000.0
+EBIT                                                            107049000.0       205782000.0   92338000.0       113087000.0
+Net Interest Income                                               -594000.0        -1137000.0   -1709000.0        -2241000.0
+Interest Expense                                                   594000.0         1137000.0    1709000.0         2241000.0
+Normalized Income                                           77209816.748861  180988583.156197   84972000.0  104875507.713404
+Net Income From Continuing And Discontinued Operation            86869000.0       176100000.0   84972000.0       105636000.0
+Total Expenses                                                  645247000.0       706893000.0  663977000.0       618250000.0
+Diluted Average Shares                                                  NaN       166132075.0  166370000.0       166347000.0
+Basic Average Shares                                                    NaN       166132075.0  166303000.0       166303000.0
+Diluted EPS                                                             NaN              1.06         0.51              0.64
+Basic EPS                                                               NaN              1.06         0.51              0.64
+Diluted NI Availto Com Stockholders                              86869000.0       176100000.0   84972000.0       105636000.0
+Net Income Common Stockholders                                   86869000.0       176100000.0   84972000.0       105636000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0          0.0               0.0
+Net Income                                                       86869000.0       176100000.0   84972000.0       105636000.0
+Net Income Including Noncontrolling Interests                    86869000.0       176100000.0   84972000.0       105636000.0
+Net Income Continuous Operations                                 86869000.0       176100000.0   84972000.0       105636000.0
+Tax Provision                                                    19586000.0        28545000.0    5657000.0         5210000.0
+Pretax Income                                                   106455000.0       204645000.0   90629000.0       110846000.0
+Other Non Operating Income Expenses                               5335000.0         2226000.0    8812000.0         3791000.0
+Special Income Charges                                               9000.0         -173000.0          0.0          798000.0
+Other Special Charges                                               -9000.0          173000.0          NaN               NaN
+Write Off                                                               0.0               0.0          0.0        -2120000.0
+Impairment Of Capital Assets                                            0.0               0.0          0.0         1322000.0
+Net Non Operating Interest Income Expense                         -594000.0        -1137000.0   -1709000.0        -2241000.0
+Interest Expense Non Operating                                     594000.0         1137000.0    1709000.0         2241000.0
+Operating Income                                                 71298000.0       170740000.0   81873000.0       141108000.0
+Operating Expense                                               186106000.0       173109000.0  169757000.0       153936000.0
+Research And Development                                         12463000.0        10522000.0   11175000.0        12145000.0
+Selling General And Administration                              173643000.0       162587000.0  158582000.0       141791000.0
+Selling And Marketing Expense                                    46591000.0        42625000.0   27712000.0        25481000.0
+General And Administrative Expense                              127052000.0       119962000.0  130870000.0       116310000.0
+Gross Profit                                                    257404000.0       343849000.0  251630000.0       295044000.0
+Cost Of Revenue                                                 459141000.0       533784000.0  494220000.0       464314000.0
+Total Revenue                                                   716545000.0       877633000.0  745850000.0       759358000.0
+Operating Revenue                                               716545000.0       877633000.0  745850000.0       759358000.0

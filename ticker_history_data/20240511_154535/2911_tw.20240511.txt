@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 60, Yangkwang Street
+address2	Lane 321
+city	Taipei
+country	Taiwan
+phone	886 2 8797 6699
+fax	886 2 8797 8698
+website	https://www.enphants.com
+industry	Apparel Retail
+industryKey	apparel-retail
+industryDisp	Apparel Retail
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Les Enphants Co., Ltd. manufactures and sells clothes, toys, and supplies for children and infants. The company sells its products under its own and licensed brands. It sells its products through retail stores and internet. Les Enphants Co., Ltd. was founded in 1971 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ming-Chi  Tsai', 'title': 'VP of Financial Administration Management Group', 'fiscalYear': 2022, 'totalPay': 2328000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu Ling  Cheng', 'title': 'Director of Human Resources Department', 'fiscalYear': 2022, 'totalPay': 2110000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wilson  Chen', 'title': 'General Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ricardo S.  Davila', 'title': 'Vice President of Brand & Operation Group', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ming-Yueh  Huang', 'title': 'Assistant Vice President of Information Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	6.79
+open	6.77
+dayLow	6.75
+dayHigh	6.79
+regularMarketPreviousClose	6.79
+regularMarketOpen	6.77
+regularMarketDayLow	6.75
+regularMarketDayHigh	6.79
+exDividendDate	1531353600	 (2018-07-12 08:00:00)
+fiveYearAvgDividendYield	2.46
+beta	0.448
+forwardPE	-9.782609
+volume	82758
+regularMarketVolume	82758
+averageVolume	172378
+averageVolume10days	146905
+averageDailyVolume10Day	146905
+bid	6.76
+ask	6.78
+marketCap	946134016
+fiftyTwoWeekLow	6.65
+fiftyTwoWeekHigh	10.680555
+priceToSalesTrailing12Months	0.3078802
+fiftyDayAverage	7.245445
+twoHundredDayAverage	8.666291
+currency	TWD
+enterpriseValue	2707335936
+profitMargins	-0.17029
+sharesOutstanding	140168000
+heldPercentInsiders	0.40581
+heldPercentInstitutions	0.00774
+impliedSharesOutstanding	141200000
+bookValue	6.053
+priceToBook	1.1151495
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-523307008
+trailingEps	-5.32
+forwardEps	-0.69
+lastSplitFactor	720:1000
+lastSplitDate	1709164800	 (2024-02-29 08:00:00)
+enterpriseToRevenue	0.881
+enterpriseToEbitda	-5.709
+52WeekChange	-0.31837302
+SandP52WeekChange	0.26265144
+lastDividendValue	0.515126
+lastDividendDate	1531353600	 (2018-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2911.TW
+underlyingSymbol	2911.TW
+shortName	LES ENPHANTS
+longName	Les Enphants Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	33e0fc7f-d5bb-323f-817f-505b1eaf6a74
+messageBoardId	finmb_9206331
+gmtOffSetMilliseconds	28800000
+currentPrice	6.75
+recommendationKey	none
+totalCash	434977984
+totalCashPerShare	3.103
+ebitda	-474244000
+totalDebt	2137353984
+quickRatio	0.393
+currentRatio	0.905
+totalRevenue	3073059072
+debtToEquity	235.584
+revenuePerShare	22.222
+returnOnAssets	-0.08478
+returnOnEquity	-0.46097
+freeCashflow	104500872
+operatingCashflow	16162000
+revenueGrowth	-0.118
+grossMargins	0.40311
+ebitdaMargins	-0.15432
+operatingMargins	-0.21127
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   -4838600.0    -1367800.0      163200.0     -339400.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                           -138853000.0  -163483000.0   162266000.0   109219000.0
+Total Unusual Items                                          -24193000.0    -6839000.0      816000.0    -1697000.0
+Total Unusual Items Excluding Goodwill                       -24193000.0    -6839000.0      816000.0    -1697000.0
+Net Income From Continuing Operation Net Minority Interest  -529190000.0  -630696000.0  -243083000.0  -319547000.0
+Reconciled Depreciation                                      276418000.0   348859000.0   344392000.0   342498000.0
+Reconciled Cost Of Revenue                                  1834272000.0  1963532000.0  2080980000.0  2247990000.0
+EBITDA                                                      -163046000.0  -170322000.0   163082000.0   107522000.0
+EBIT                                                        -439464000.0  -519181000.0  -181310000.0  -234976000.0
+Net Interest Income                                          -73734000.0   -72115000.0   -48424000.0   -44518000.0
+Interest Expense                                              75050000.0    73634000.0    49130000.0    45714000.0
+Interest Income                                                1316000.0     1519000.0      706000.0     1196000.0
+Normalized Income                                           -509835600.0  -625224800.0  -243735800.0  -318189400.0
+Net Income From Continuing And Discontinued Operation       -529190000.0  -630696000.0  -243083000.0  -319547000.0
+Total Expenses                                              3610101000.0  3970908000.0  4235452000.0  4349636000.0
+Diluted Average Shares                                               NaN    95736960.0   132968160.0   133407360.0
+Basic Average Shares                                                 NaN    95736960.0   132968160.0   133407360.0
+Diluted EPS                                                          NaN     -6.583333     -1.833333     -2.388889
+Basic EPS                                                            NaN     -6.583333     -1.833333     -2.388889
+Diluted NI Availto Com Stockholders                         -529190000.0  -630696000.0  -243083000.0  -319547000.0
+Net Income Common Stockholders                              -529190000.0  -630696000.0  -243083000.0  -319547000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -529190000.0  -630696000.0  -243083000.0  -319547000.0
+Minority Interests                                            -5883000.0    -4126000.0     2977000.0    -2309000.0
+Net Income Including Noncontrolling Interests               -523307000.0  -626570000.0  -246060000.0  -317238000.0
+Net Income Continuous Operations                            -523307000.0  -626570000.0  -246060000.0  -317238000.0
+Tax Provision                                                  8793000.0    33755000.0    15620000.0    36548000.0
+Pretax Income                                               -514514000.0  -592815000.0  -230440000.0  -280690000.0
+Other Non Operating Income Expenses                          115286000.0   107418000.0   346088000.0    93314000.0
+Special Income Charges                                       -24193000.0    -6839000.0      816000.0    -1697000.0
+Write Off                                                     24193000.0     6839000.0     -816000.0     1697000.0
+Net Non Operating Interest Income Expense                    -73734000.0   -72115000.0   -48424000.0   -44518000.0
+Interest Expense Non Operating                                75050000.0    73634000.0    49130000.0    45714000.0
+Interest Income Non Operating                                  1316000.0     1519000.0      706000.0     1196000.0
+Operating Income                                            -537042000.0  -631998000.0  -523704000.0  -324075000.0
+Operating Expense                                           1775829000.0  2007376000.0  2154472000.0  2101646000.0
+Selling General And Administration                          1775829000.0  2007376000.0  2154472000.0  2101646000.0
+Selling And Marketing Expense                               1396242000.0  1593961000.0  1620707000.0  1657533000.0
+General And Administrative Expense                           379587000.0   413415000.0   533765000.0   444113000.0
+Gross Profit                                                1238787000.0  1375378000.0  1630768000.0  1777571000.0
+Cost Of Revenue                                             1834272000.0  1963532000.0  2080980000.0  2247990000.0
+Total Revenue                                               3073059000.0  3338910000.0  3711748000.0  4025561000.0
+Operating Revenue                                           3073059000.0  3338910000.0  3711748000.0  4025561000.0

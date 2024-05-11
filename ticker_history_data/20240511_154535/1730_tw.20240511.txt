@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No.230, Sec.3, Chengde Rd.
+address2	13F Datong District
+city	Taipei
+zip	103
+country	Taiwan
+phone	886 2 2592 2860
+website	https://www.farcent.com.tw
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Farcent Enterprise Co.,Ltd provides consumer products and services in Taiwan. The company offers air freshener sprayers; deodorizers; cleaning tools, such as mops, kitchen wet wipes, wet cleaning cloths, and dust cloths; dehumidifier; and perfumes, shampoos, shower gels, and diffusers under the Farcent, Ms. Bright, LPF, CHU, and HI TEA brands. The company was formerly known as Eutech Enterprise Co., Ltd and changed its name to Farcent Enterprise Co., Ltd in 1996. Farcent Enterprise Co., Ltd was founded in 1983 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chia Yu Wang', 'title': 'CEO & Vice Chairperson of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	56.2
+open	56.2
+dayLow	56.1
+dayHigh	56.4
+regularMarketPreviousClose	56.2
+regularMarketOpen	56.2
+regularMarketDayLow	56.1
+regularMarketDayHigh	56.4
+dividendRate	3.0
+dividendYield	0.053600002
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	0.90629995
+fiveYearAvgDividendYield	5.22
+beta	0.279
+trailingPE	17.039276
+volume	18116
+regularMarketVolume	18116
+averageVolume	33663
+averageVolume10days	28532
+averageDailyVolume10Day	28532
+bid	56.2
+ask	56.3
+marketCap	3566397696
+fiftyTwoWeekLow	55.5
+fiftyTwoWeekHigh	60.9
+priceToSalesTrailing12Months	1.3631727
+fiftyDayAverage	56.41
+twoHundredDayAverage	57.068
+trailingAnnualDividendRate	2.8
+trailingAnnualDividendYield	0.049822062
+currency	TWD
+enterpriseValue	2771288832
+profitMargins	0.088290006
+floatShares	63234000
+sharesOutstanding	63234000
+heldPercentInsiders	0.53611
+heldPercentInstitutions	0.04093
+impliedSharesOutstanding	63684100
+bookValue	29.086
+priceToBook	1.9390773
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.191
+netIncomeToCommon	230986000
+trailingEps	3.31
+lastSplitFactor	107:100
+lastSplitDate	1091664000	 (2004-08-05 08:00:00)
+enterpriseToRevenue	1.059
+enterpriseToEbitda	7.967
+52WeekChange	-0.04568529
+SandP52WeekChange	0.26265144
+lastDividendValue	3.0
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1730.TW
+underlyingSymbol	1730.TW
+shortName	FARCENT ENTERPRISE
+longName	Farcent Enterprise Co.,Ltd
+firstTradeDateEpochUtc	948243600	 (2000-01-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	026cbcc9-79e8-35ab-8e53-e66ff0b1aa65
+messageBoardId	finmb_9794197
+gmtOffSetMilliseconds	28800000
+currentPrice	56.4
+recommendationKey	none
+totalCash	944140032
+totalCashPerShare	14.931
+ebitda	347839008
+totalDebt	35865000
+quickRatio	2.684
+currentRatio	3.378
+totalRevenue	2616248064
+debtToEquity	1.825
+revenuePerShare	41.374
+returnOnAssets	0.07314
+returnOnEquity	0.13383001
+freeCashflow	378827744
+operatingCashflow	451016000
+earningsGrowth	0.191
+revenueGrowth	-0.008
+grossMargins	0.47397998
+ebitdaMargins	0.13295001
+operatingMargins	0.11521
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1946324.044804    2111897.237067    2482192.054768   39907873.891232
+Tax Rate For Calcs                                                  0.209147           0.19206           0.21199          0.236762
+Normalized EBITDA                                                374091000.0       391141000.0       416230000.0       398928000.0
+Total Unusual Items                                                9306000.0        10996000.0        11709000.0       168557000.0
+Total Unusual Items Excluding Goodwill                             9306000.0        10996000.0        11709000.0       168557000.0
+Net Income From Continuing Operation Net Minority Interest       230986000.0       253404000.0       261507000.0       348114000.0
+Reconciled Depreciation                                           53735000.0        56523000.0        59689000.0        62608000.0
+Reconciled Cost Of Revenue                                      1376194000.0      1514705000.0      1761515000.0      1661362000.0
+EBITDA                                                           383397000.0       402137000.0       427939000.0       567485000.0
+EBIT                                                             329662000.0       345614000.0       368250000.0       504877000.0
+Net Interest Income                                                8626000.0         2281000.0         2062000.0          867000.0
+Interest Expense                                                   1300000.0         2066000.0         1464000.0         1954000.0
+Interest Income                                                    9926000.0         4347000.0         3526000.0         2821000.0
+Normalized Income                                           223626324.044804  244519897.237067  252280192.054768  219464873.891232
+Net Income From Continuing And Discontinued Operation            230986000.0       253404000.0       261507000.0       348114000.0
+Total Expenses                                                  2320881000.0      2458965000.0      2802514000.0      2743808000.0
+Diluted Average Shares                                                   NaN        63234000.0        63234000.0        63234000.0
+Basic Average Shares                                                     NaN        63234000.0        63234000.0        63234000.0
+Diluted EPS                                                              NaN              4.01              4.14              5.51
+Basic EPS                                                                NaN              4.01              4.14              5.51
+Diluted NI Availto Com Stockholders                              230986000.0       253404000.0       261507000.0       348114000.0
+Net Income Common Stockholders                                   230986000.0       253404000.0       261507000.0       348114000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       230986000.0       253404000.0       261507000.0       348114000.0
+Minority Interests                                               -28700000.0       -24162000.0       -27524000.0       -35736000.0
+Net Income Including Noncontrolling Interests                    259686000.0       277566000.0       289031000.0       383850000.0
+Net Income Continuous Operations                                 259686000.0       277566000.0       289031000.0       383850000.0
+Tax Provision                                                     68676000.0        65982000.0        77755000.0       119073000.0
+Pretax Income                                                    328362000.0       343548000.0       366786000.0       502923000.0
+Other Non Operating Income Expenses                                6997000.0        -2354000.0          861000.0         1306000.0
+Special Income Charges                                            10307000.0        11016000.0        12039000.0       168033000.0
+Other Special Charges                                            -10307000.0       -11016000.0       -12039000.0      -168033000.0
+Restructuring And Mergern Acquisition                                    NaN               NaN               NaN               0.0
+Net Non Operating Interest Income Expense                          8626000.0         2281000.0         2062000.0          867000.0
+Interest Expense Non Operating                                     1300000.0         2066000.0         1464000.0         1954000.0
+Interest Income Non Operating                                      9926000.0         4347000.0         3526000.0         2821000.0
+Operating Income                                                 295367000.0       325650000.0       336277000.0       314951000.0
+Operating Expense                                                944687000.0       944260000.0      1040999000.0      1082446000.0
+Other Operating Expenses                                                 NaN               NaN         -318000.0         -220000.0
+Research And Development                                          37422000.0        45830000.0        45633000.0        43976000.0
+Selling General And Administration                               907265000.0       898430000.0       995366000.0      1038470000.0
+Selling And Marketing Expense                                    767845000.0       772263000.0       865101000.0       886742000.0
+General And Administrative Expense                               139420000.0       126167000.0       130265000.0       151728000.0
+Gross Profit                                                    1240054000.0      1269910000.0      1377276000.0      1397397000.0
+Cost Of Revenue                                                 1376194000.0      1514705000.0      1761515000.0      1661362000.0
+Total Revenue                                                   2616248000.0      2784615000.0      3138791000.0      3058759000.0
+Operating Revenue                                               2616248000.0      2784615000.0      3138791000.0      3058759000.0

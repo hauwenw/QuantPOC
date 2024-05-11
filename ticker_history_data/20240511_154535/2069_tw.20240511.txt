@@ -1,0 +1,147 @@
+=== Ticker Info ===
+address1	No. 235, JungJeng 4th Road
+address2	13th Floor ChianJin Chiu
+city	Kaohsiung
+country	Taiwan
+phone	886 7 969 5858
+fax	886 7 968 5768
+website	https://www.yuenchang.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Yuen Chang Stainless Steel Co., Ltd. engages in the processing and manufacturing of stainless steel products in Taiwan and internationally. The company offers stainless steel coils, sheets, plates, and strips. Further, it involves in the stainless steel shearing, splitting, surface treatment, and processing services. Its products are used in information technology, medical instruments, computer and peripherals, auto parts, home appliances, etc. Yuen Chang Stainless Steel Co., Ltd. was incorporated in 1987 and is headquartered in Kaohsiung, Taiwan.
+maxAge	86400
+priceHint	2
+previousClose	16.55
+open	16.55
+dayLow	16.4
+dayHigh	16.55
+regularMarketPreviousClose	16.55
+regularMarketOpen	16.55
+regularMarketDayLow	16.4
+regularMarketDayHigh	16.55
+dividendRate	1.0
+dividendYield	0.0592
+exDividendDate	1689033600	 (2023-07-11 08:00:00)
+payoutRatio	4.7826
+fiveYearAvgDividendYield	7.11
+beta	0.642
+volume	94270
+regularMarketVolume	94270
+averageVolume	182667
+averageVolume10days	161485
+averageDailyVolume10Day	161485
+bid	16.5
+ask	16.55
+marketCap	2745385728
+fiftyTwoWeekLow	15.15
+fiftyTwoWeekHigh	20.5
+priceToSalesTrailing12Months	0.23191588
+fiftyDayAverage	16.218
+twoHundredDayAverage	16.5735
+currency	TWD
+enterpriseValue	6948849664
+profitMargins	-0.0126
+sharesOutstanding	166387008
+heldPercentInsiders	0.44990003
+heldPercentInstitutions	0.00495
+impliedSharesOutstanding	167408000
+bookValue	22.705
+priceToBook	0.72671217
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-149148992
+trailingEps	-1.18
+lastSplitFactor	1020:1000
+lastSplitDate	1443657600	 (2015-10-01 08:00:00)
+enterpriseToRevenue	0.587
+enterpriseToEbitda	38.541
+52WeekChange	-0.13612568
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1689033600	 (2023-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2069.TW
+underlyingSymbol	2069.TW
+shortName	YUEN CHANG STAINLESS STEEL CO L
+longName	Yuen Chang Stainless Steel Co., Ltd.
+firstTradeDateEpochUtc	1423098000	 (2015-02-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f9e6c1af-dd43-3c5c-bcf1-23e7a8f1b395
+messageBoardId	finmb_279383695
+gmtOffSetMilliseconds	28800000
+currentPrice	16.5
+recommendationKey	none
+totalCash	227912992
+totalCashPerShare	1.37
+ebitda	180296000
+totalDebt	4423057920
+quickRatio	0.346
+currentRatio	1.042
+totalRevenue	11837851648
+debtToEquity	117.077
+revenuePerShare	71.611
+returnOnAssets	-0.00382
+returnOnEquity	-0.0377
+freeCashflow	-181306000
+operatingCashflow	-91680000
+revenueGrowth	-0.028
+grossMargins	0.0348
+ebitdaMargins	0.01523
+operatingMargins	0.00465
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    -11688.645252      31556.584831     -44351.519097    121297.561405
+Tax Rate For Calcs                                                  0.259748           0.21322          0.196246         0.116185
+Normalized EBITDA                                                222045000.0       626149000.0      1280006000.0      377246000.0
+Total Unusual Items                                                 -45000.0          148000.0         -226000.0        1044000.0
+Total Unusual Items Excluding Goodwill                              -45000.0          148000.0         -226000.0        1044000.0
+Net Income From Continuing Operation Net Minority Interest      -149149000.0       191610000.0       740740000.0       40157000.0
+Reconciled Depreciation                                          236878000.0       229899000.0       216867000.0      208246000.0
+Reconciled Cost Of Revenue                                     11425845000.0     12871784000.0     12327626000.0     6927021000.0
+EBITDA                                                           222000000.0       626297000.0      1279780000.0      378290000.0
+EBIT                                                             -14878000.0       396398000.0      1062913000.0      170044000.0
+Net Interest Income                                             -175876000.0      -142161000.0      -136219000.0     -120426000.0
+Interest Expense                                                 186606000.0       152861000.0       141313000.0      124608000.0
+Interest Income                                                   10730000.0        10700000.0         5094000.0        4182000.0
+Normalized Income                                          -149115688.645252  191493556.584831  740921648.480903  39234297.561405
+Net Income From Continuing And Discontinued Operation           -149149000.0       191610000.0       740740000.0       40157000.0
+Total Expenses                                                 11891672000.0     13669536000.0     13301652000.0     7323468000.0
+Diluted Average Shares                                           165307000.0       174956000.0       158110000.0      156402000.0
+Basic Average Shares                                             165307000.0       165037000.0       156608000.0      156369000.0
+Diluted EPS                                                             -0.9              1.08              4.68             0.26
+Basic EPS                                                               -0.9              1.16              4.73             0.26
+Diluted NI Availto Com Stockholders                             -149149000.0       191610000.0       740740000.0       40157000.0
+Net Income Common Stockholders                                  -149149000.0       191610000.0       740740000.0       40157000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0              0.0
+Net Income                                                      -149149000.0       191610000.0       740740000.0       40157000.0
+Net Income Including Noncontrolling Interests                   -149149000.0       191610000.0       740740000.0       40157000.0
+Net Income Continuous Operations                                -149149000.0       191610000.0       740740000.0       40157000.0
+Tax Provision                                                    -52335000.0        51927000.0       180860000.0        5279000.0
+Pretax Income                                                   -201484000.0       243537000.0       921600000.0       45436000.0
+Other Non Operating Income Expenses                               28257000.0        12421000.0        99281000.0       54683000.0
+Special Income Charges                                              -45000.0          148000.0         -226000.0        1044000.0
+Other Special Charges                                                    NaN               NaN               NaN        -531000.0
+Write Off                                                            45000.0         -148000.0          226000.0       -1044000.0
+Net Non Operating Interest Income Expense                       -175876000.0      -142161000.0      -136219000.0     -120426000.0
+Interest Expense Non Operating                                   186606000.0       152861000.0       141313000.0      124608000.0
+Interest Income Non Operating                                     10730000.0        10700000.0         5094000.0        4182000.0
+Operating Income                                                 -53820000.0       373129000.0       958764000.0      110135000.0
+Operating Expense                                                465827000.0       797752000.0       974026000.0      396447000.0
+Research And Development                                          20216000.0        29373000.0        36221000.0       31507000.0
+Selling General And Administration                               445611000.0       768379000.0       937805000.0      364940000.0
+Selling And Marketing Expense                                    295101000.0       636927000.0       766436000.0      251432000.0
+General And Administrative Expense                               150510000.0       131452000.0       171369000.0      113508000.0
+Gross Profit                                                     412007000.0      1170881000.0      1932790000.0      506582000.0
+Cost Of Revenue                                                11425845000.0     12871784000.0     12327626000.0     6927021000.0
+Total Revenue                                                  11837852000.0     14042665000.0     14260416000.0     7433603000.0
+Operating Revenue                                              11837852000.0     14042665000.0     14260416000.0     7433603000.0

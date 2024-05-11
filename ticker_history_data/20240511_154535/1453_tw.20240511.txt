@@ -1,0 +1,137 @@
+=== Ticker Info ===
+address1	No. 71, Dunhua South Road
+address2	6th Floor Section 2 Daan District
+city	Taipei
+zip	10682
+country	Taiwan
+phone	886 2 2706 9999
+fax	886 2 2706 1166
+website	https://www.tajiang.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Ta Jiang Co., Ltd. engages in the textile and construction businesses in Taiwan. The company is engaged in dyeing, finishing, processing, and trading of spinning, weaving, and raw materials and products; manufacturing, processing, and trading of woven garments, knitted garments, and sweaters; and manufacturing, dyeing and finishing, and sale of chemical fibers, as well as manufacturing of related machinery and equipment. It also designs and contracts various pollution, which includes waste water, waste gas, garbage, water and fertilizer, and sanitary sewer treatment projects; and water treatment and solar hot water heating projects. In addition, the company exports and sells water spray, and spray equipment and parts; develops, rents, and sells residential and building properties; invests in the construction of public construction industry; and develops, sells, and rents industrial plants. Further, it offers anti-pilling ball blending yarn, micro fibers, and lycra rhythm fabrics. The company was founded in 1967 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Jingyi  Lin', 'title': 'Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bobby  Su', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	25.85
+open	26.25
+dayLow	24.8
+dayHigh	26.25
+regularMarketPreviousClose	25.85
+regularMarketOpen	26.25
+regularMarketDayLow	24.8
+regularMarketDayHigh	26.25
+beta	0.621
+trailingPE	43.77193
+volume	3256487
+regularMarketVolume	3256487
+averageVolume	2116521
+averageVolume10days	7530568
+averageDailyVolume10Day	7530568
+bid	24.95
+ask	25.0
+marketCap	2663237888
+fiftyTwoWeekLow	12.8
+fiftyTwoWeekHigh	33.3
+priceToSalesTrailing12Months	13.063284
+fiftyDayAverage	19.003
+twoHundredDayAverage	15.342546
+currency	TWD
+enterpriseValue	2723919872
+profitMargins	0.29778
+sharesOutstanding	106743000
+heldPercentInsiders	0.72824997
+impliedSharesOutstanding	113286000
+bookValue	13.439
+priceToBook	1.856537
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	60709000
+trailingEps	0.57
+lastSplitFactor	1030:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	13.361
+enterpriseToEbitda	128.992
+52WeekChange	0.72473156
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	1453.TW
+underlyingSymbol	1453.TW
+shortName	TA JIANG DEVELOPMENT CORP
+longName	Ta Jiang Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ac756085-e134-386c-a8aa-bf830dd8257d
+messageBoardId	finmb_7692644
+gmtOffSetMilliseconds	28800000
+currentPrice	24.95
+recommendationKey	none
+totalCash	429240000
+totalCashPerShare	4.021
+ebitda	21117000
+totalDebt	476665984
+quickRatio	0.926
+currentRatio	4.056
+totalRevenue	203872000
+debtToEquity	32.924
+revenuePerShare	1.91
+returnOnAssets	0.00564
+returnOnEquity	0.04287
+freeCashflow	-174761248
+operatingCashflow	-59664000
+revenueGrowth	1188.234
+grossMargins	0.31841
+ebitdaMargins	0.10358
+operatingMargins	0.21147
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                             0.071066          0.2     0.052271          0.2
+Normalized EBITDA                                            74055000.0   -2521000.0  115456000.0   18795000.0
+Net Income From Continuing Operation Net Minority Interest   60709000.0  -12303000.0  106039000.0   14950000.0
+Reconciled Depreciation                                       5447000.0    3814000.0    3413000.0    3819000.0
+Reconciled Cost Of Revenue                                  138957000.0  231979000.0   18379000.0  174701000.0
+EBITDA                                                       74055000.0   -2521000.0  115456000.0   18795000.0
+EBIT                                                         68608000.0   -6335000.0  112043000.0   14976000.0
+Net Interest Income                                          -2698000.0   -2598000.0     -63000.0     166000.0
+Interest Expense                                              3190000.0    2687000.0     165000.0          0.0
+Interest Income                                                492000.0      89000.0     102000.0     166000.0
+Normalized Income                                            60709000.0  -12303000.0  106039000.0   14950000.0
+Net Income From Continuing And Discontinued Operation        60709000.0  -12303000.0  106039000.0   14950000.0
+Total Expenses                                              186212000.0  284020000.0   53912000.0  208781000.0
+Diluted Average Shares                                              NaN  106743000.0  106874860.0  106760488.0
+Basic Average Shares                                                NaN  106743000.0  106743020.0  106742453.0
+Diluted EPS                                                         NaN        -0.12     0.990291     0.141389
+Basic EPS                                                           NaN        -0.12     0.990291     0.141389
+Diluted NI Availto Com Stockholders                          60709000.0  -12303000.0  106039000.0   14950000.0
+Net Income Common Stockholders                               60709000.0  -12303000.0  106039000.0   14950000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                   60709000.0  -12303000.0  106039000.0   14950000.0
+Minority Interests                                             -60000.0     -14000.0       9000.0    -351000.0
+Net Income Including Noncontrolling Interests                60769000.0  -12289000.0  106030000.0   15301000.0
+Net Income Continuous Operations                             60769000.0  -12289000.0  106030000.0   15301000.0
+Tax Provision                                                 4649000.0    3267000.0    5848000.0    -325000.0
+Pretax Income                                                65418000.0   -9022000.0  111878000.0   14976000.0
+Other Non Operating Income Expenses                          50456000.0   29041000.0  121567000.0    4180000.0
+Net Non Operating Interest Income Expense                    -2698000.0   -2598000.0     -63000.0     166000.0
+Interest Expense Non Operating                                3190000.0    2687000.0     165000.0          0.0
+Interest Income Non Operating                                  492000.0      89000.0     102000.0     166000.0
+Operating Income                                             17660000.0  -35465000.0   -9626000.0   10630000.0
+Operating Expense                                            47255000.0   52041000.0   35533000.0   34080000.0
+Selling General And Administration                           47255000.0   52041000.0   35533000.0   34080000.0
+Selling And Marketing Expense                                10104000.0   15456000.0    2659000.0    1925000.0
+General And Administrative Expense                           37151000.0   36585000.0   32874000.0   32155000.0
+Gross Profit                                                 64915000.0   16576000.0   25907000.0   44710000.0
+Cost Of Revenue                                             138957000.0  231979000.0   18379000.0  174701000.0
+Total Revenue                                               203872000.0  248555000.0   44286000.0  219411000.0
+Operating Revenue                                           203872000.0  248555000.0   44286000.0  219411000.0

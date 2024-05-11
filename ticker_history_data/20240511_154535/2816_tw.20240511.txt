@@ -1,0 +1,138 @@
+=== Ticker Info ===
+address1	No. 219, Zhongxiao East Road
+address2	12th Floor Sec. 4 Da¡¦an District
+city	Taipei City
+zip	106
+country	Taiwan
+phone	886 2 2776 5567
+fax	886 2 2711 8610
+website	https://www.wwunion.com
+industry	Insurance - Diversified
+industryKey	insurance-diversified
+industryDisp	Insurance - Diversified
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Union Insurance Co., Ltd. provides insurance products and services in Taiwan. It underwrites motor, traveler accident, fire property, marine, casualty, accident and health, automobile, engineering, and liability insurance, as well as reinsurance. The company was incorporated in 1963 and is headquartered in Taipei City, Taiwan.
+fullTimeEmployees	1108
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Ming  Liu', 'title': 'GM, President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Hsiao  Hsueh', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Fei-Wen  Kuo', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ching-Hua  Ke', 'title': 'Chief Compliance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tai-Lung  Chen', 'title': 'Head of HR & Legal Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Wan-Hua  Tsai', 'title': 'Assistant Vice President of Marketing & Planning Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Hung  Wang', 'title': 'Chief Audit Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Chuan  Wu', 'title': 'Head of Risk Management Specialist', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.9
+open	34.0
+dayLow	34.0
+dayHigh	35.25
+regularMarketPreviousClose	33.9
+regularMarketOpen	34.0
+regularMarketDayLow	34.0
+regularMarketDayHigh	35.25
+exDividendDate	1659571200	 (2022-08-04 08:00:00)
+fiveYearAvgDividendYield	4.52
+beta	0.253
+trailingPE	5.54054
+volume	1195241
+regularMarketVolume	1195241
+averageVolume	1255833
+averageVolume10days	1527342
+averageDailyVolume10Day	1527342
+bid	34.8
+ask	34.9
+marketCap	7792738304
+fiftyTwoWeekLow	16.95
+fiftyTwoWeekHigh	42.0
+priceToSalesTrailing12Months	0.7384906
+fiftyDayAverage	31.927
+twoHundredDayAverage	32.31425
+currency	TWD
+enterpriseValue	2609962752
+profitMargins	0.11375
+sharesOutstanding	223608000
+heldPercentInsiders	0.73346
+heldPercentInstitutions	0.00236
+impliedSharesOutstanding	223608000
+bookValue	27.283
+priceToBook	1.2773521
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	1200345984
+trailingEps	6.29
+lastSplitFactor	1050:1000
+lastSplitDate	1599696000	 (2020-09-10 08:00:00)
+enterpriseToRevenue	0.247
+enterpriseToEbitda	1.907
+52WeekChange	1.0261629
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1659571200	 (2022-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2816.TW
+underlyingSymbol	2816.TW
+shortName	UNION INSURANCE CO. LTD.
+longName	Union Insurance Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	20565031-63dc-3a4a-9d5d-8fe540d85898
+messageBoardId	finmb_4484087
+gmtOffSetMilliseconds	28800000
+currentPrice	34.85
+recommendationKey	none
+totalCash	5200705024
+totalCashPerShare	23.258
+ebitda	1368390016
+totalDebt	17929000
+quickRatio	0.427
+currentRatio	0.787
+totalRevenue	10552251392
+debtToEquity	0.294
+revenuePerShare	47.191
+returnOnAssets	0.04275
+returnOnEquity	0.22014
+freeCashflow	-18924000
+operatingCashflow	716193984
+revenueGrowth	0.306
+grossMargins	0.33093
+ebitdaMargins	0.12968001
+operatingMargins	0.080469996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                           0.0           0.0           0.0      11992.962275
+Tax Rate For Calcs                                               0.083432      0.000319      0.135927          0.005602
+Total Unusual Items                                                   NaN           0.0           0.0         2141000.0
+Total Unusual Items Excluding Goodwill                                NaN           0.0           0.0         2141000.0
+Net Income From Continuing Operation Net Minority Interest   1200346000.0 -1322207000.0   696668000.0       702097000.0
+Reconciled Depreciation                                        77273000.0    70806000.0    68466000.0        71298000.0
+EBIT                                                         1316874000.0 -1314843000.0   810951000.0       708536000.0
+Net Interest Income                                            -7265000.0    -7786000.0    -4690000.0        -2484000.0
+Interest Expense                                                7265000.0     7786000.0     4690000.0         2484000.0
+Interest Income                                               129927000.0    93447000.0    73657000.0        78337000.0
+Normalized Income                                            1200346000.0 -1322207000.0   696668000.0  699967992.962275
+Net Income From Continuing And Discontinued Operation        1200346000.0 -1322207000.0   696668000.0       702097000.0
+Total Expenses                                               8867904000.0  9823499000.0  8003650000.0      7531730000.0
+Diluted Average Shares                                                NaN   223608000.0   225371000.0       225340000.0
+Basic Average Shares                                                  NaN   223608000.0   223608000.0       223608000.0
+Diluted EPS                                                           NaN         -5.91          3.09              3.12
+Basic EPS                                                             NaN         -5.91          3.12              3.14
+Diluted NI Availto Com Stockholders                          1200346000.0 -1322207000.0   696668000.0       702097000.0
+Net Income Common Stockholders                               1200346000.0 -1322207000.0   696668000.0       702097000.0
+Net Income                                                   1200346000.0 -1322207000.0   696668000.0       702097000.0
+Minority Interests                                                    NaN           NaN           NaN               0.0
+Net Income Including Noncontrolling Interests                1200346000.0 -1322207000.0   696668000.0       702097000.0
+Net Income Continuous Operations                             1200346000.0 -1322207000.0   696668000.0       702097000.0
+Tax Provision                                                 109263000.0     -422000.0   109593000.0         3955000.0
+Pretax Income                                                1309609000.0 -1322629000.0   806261000.0       706052000.0
+Other Income Expense                                           58173000.0    72153000.0    30602000.0        64259000.0
+Special Income Charges                                                NaN           0.0           0.0         2141000.0
+Other Special Charges                                                 NaN           0.0           0.0        -2141000.0
+Net Non Operating Interest Income Expense                      -7265000.0    -7786000.0    -4690000.0        -2484000.0
+Interest Expense Non Operating                                  7265000.0     7786000.0     4690000.0         2484000.0
+Other Operating Expenses                                       41755000.0    58229000.0   -13936000.0        22901000.0
+Selling General And Administration                           2151752000.0  2004256000.0  2044434000.0      2045573000.0
+General And Administrative Expense                           2151752000.0  2004256000.0  2044434000.0      2045573000.0
+Total Revenue                                               10177513000.0  8500870000.0  8809911000.0      8237782000.0
+Operating Revenue                                           10177513000.0  8500870000.0  8809911000.0      8237782000.0

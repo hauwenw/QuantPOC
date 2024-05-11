@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 699, Silin Road
+address2	Yanchao District
+city	Kaohsiung
+country	Taiwan
+phone	886 7 611 6616
+fax	886 7 616 8938
+website	https://www.e-nonwoven.com.tw
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Nan Liu Enterprise Co., Ltd. manufactures and sells household goods in Taiwan. It offers air-through and thermal bonded fabrics for top layer and sub-layer diapers and female napkins, etc.; spunlace nonwoven fabrics used in wet wipes for restaurants, disposable washcloth for hotels, towels and clean wipes, household wipes, facemask fabrics, soft wipes etc.; and high-tech woodpulp spunlace fabrics for surgical gowns, medical drapes, medical isolation gowns, and for base fabrics of medical creams, and high-tech low-lint industrial wipes. The company also provides biotech materials, facial masks, tightening toners, essences, and wet wipes. It also exports its products to Japan, the United States, Southeast Asia, etc. Nan Liu Enterprise Co., Ltd. was founded in 1973 and is headquartered in Kaohsiung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Shih-Chung  Huang', 'title': 'GM & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng Hsu  Chang', 'title': 'Accounting Manager, Accounting Officer, Financial Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Rui-Hua  Yang', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu-Feng  Lin', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	71.9
+open	72.5
+dayLow	71.9
+dayHigh	72.5
+regularMarketPreviousClose	71.9
+regularMarketOpen	72.5
+regularMarketDayLow	71.9
+regularMarketDayHigh	72.5
+dividendRate	1.0
+dividendYield	0.0138
+exDividendDate	1694476800	 (2023-09-12 08:00:00)
+payoutRatio	0.4016
+fiveYearAvgDividendYield	4.2
+beta	0.653
+trailingPE	29.116467
+forwardPE	25.892859
+volume	81555
+regularMarketVolume	81555
+averageVolume	80041
+averageVolume10days	53168
+averageDailyVolume10Day	53168
+bid	72.5
+ask	72.6
+marketCap	5263499776
+fiftyTwoWeekLow	68.3
+fiftyTwoWeekHigh	89.2
+priceToSalesTrailing12Months	0.85183126
+fiftyDayAverage	71.0
+twoHundredDayAverage	74.049
+trailingAnnualDividendRate	1.1
+trailingAnnualDividendYield	0.015299027
+currency	TWD
+enterpriseValue	9242372096
+profitMargins	0.0194
+sharesOutstanding	72600000
+heldPercentInsiders	0.54059
+heldPercentInstitutions	0.03403
+impliedSharesOutstanding	72702096
+bookValue	48.235
+priceToBook	1.503058
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	119871000
+trailingEps	2.49
+forwardEps	2.8
+lastSplitFactor	1.13636:1
+lastSplitDate	1315180800	 (2011-09-05 08:00:00)
+enterpriseToRevenue	1.496
+enterpriseToEbitda	13.064
+52WeekChange	-0.10493827
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1694476800	 (2023-09-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6504.TW
+underlyingSymbol	6504.TW
+shortName	NAN LIU ENTERPRISE CO LTD
+longName	Nan Liu Enterprise Co., Ltd.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2ad39390-cfb4-30d8-a08c-635350b77a5d
+messageBoardId	finmb_25601475
+gmtOffSetMilliseconds	28800000
+currentPrice	72.5
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1748886016
+totalCashPerShare	24.089
+ebitda	707473024
+totalDebt	5727623168
+quickRatio	0.738
+currentRatio	1.015
+totalRevenue	6179040256
+debtToEquity	163.552
+revenuePerShare	85.111
+returnOnAssets	0.01107
+returnOnEquity	0.03423
+freeCashflow	65936752
+operatingCashflow	489288992
+revenueGrowth	0.001
+grossMargins	0.11942001
+ebitdaMargins	0.1145
+operatingMargins	0.03996
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     438000.0     2142200.0     6383400.0    -8544114.8948
+Tax Rate For Calcs                                                   0.2           0.2           0.2         0.270435
+Normalized EBITDA                                            833828000.0   774456000.0   774130000.0     2496938000.0
+Total Unusual Items                                            2190000.0    10711000.0    31917000.0      -31594000.0
+Total Unusual Items Excluding Goodwill                         2190000.0    10711000.0    31917000.0      -31594000.0
+Net Income From Continuing Operation Net Minority Interest   119866000.0    57735000.0   117268000.0     1453723000.0
+Reconciled Depreciation                                      542671000.0   541977000.0   522518000.0      436625000.0
+Reconciled Cost Of Revenue                                  5441109000.0  5358782000.0  5867976000.0     6626279000.0
+EBITDA                                                       836018000.0   785167000.0   806047000.0     2465344000.0
+EBIT                                                         293347000.0   243190000.0   283529000.0     2028719000.0
+Net Interest Income                                          -25968000.0   -25386000.0   -23077000.0      -14148000.0
+Interest Expense                                              90061000.0    54356000.0    33292000.0       36131000.0
+Interest Income                                               64093000.0    28970000.0    10215000.0       21983000.0
+Normalized Income                                            118114000.0    49166200.0    91734400.0  1476772885.1052
+Net Income From Continuing And Discontinued Operation        119866000.0    57735000.0   117268000.0     1453723000.0
+Total Expenses                                              5997015000.0  5938232000.0  6552431000.0     7263162000.0
+Diluted Average Shares                                        72621000.0    72614000.0    72634000.0       72728000.0
+Basic Average Shares                                          72600000.0    72600000.0    72600000.0       72600000.0
+Diluted EPS                                                         1.65           0.8          1.61            19.99
+Basic EPS                                                           1.65           0.8          1.62            20.02
+Diluted NI Availto Com Stockholders                          119866000.0    57735000.0   117268000.0     1453723000.0
+Net Income Common Stockholders                               119866000.0    57735000.0   117268000.0     1453723000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0              0.0
+Net Income                                                   119866000.0    57735000.0   117268000.0     1453723000.0
+Minority Interests                                               -5000.0           0.0           NaN              NaN
+Net Income Including Noncontrolling Interests                119871000.0    57735000.0   117268000.0     1453723000.0
+Net Income Continuous Operations                             119871000.0    57735000.0   117268000.0     1453723000.0
+Tax Provision                                                 83415000.0   131099000.0   132969000.0      538865000.0
+Pretax Income                                                203286000.0   188834000.0   250237000.0     1992588000.0
+Other Non Operating Income Expenses                           45039000.0   155395000.0     9676000.0      -69918000.0
+Special Income Charges                                         2190000.0    10711000.0    31917000.0      -31594000.0
+Write Off                                                     -2190000.0   -10711000.0   -31917000.0       31594000.0
+Net Non Operating Interest Income Expense                    -25968000.0   -25386000.0   -23077000.0      -14148000.0
+Interest Expense Non Operating                                90061000.0    54356000.0    33292000.0       36131000.0
+Interest Income Non Operating                                 64093000.0    28970000.0    10215000.0       21983000.0
+Operating Income                                             182025000.0    48114000.0   231721000.0     2108248000.0
+Operating Expense                                            555906000.0   579450000.0   684455000.0      636883000.0
+Research And Development                                      74037000.0    39643000.0    65609000.0       66257000.0
+Selling General And Administration                           481869000.0   539807000.0   618846000.0      570626000.0
+Selling And Marketing Expense                                219870000.0   284588000.0   367393000.0      300409000.0
+General And Administrative Expense                           261999000.0   255219000.0   251453000.0      270217000.0
+Gross Profit                                                 737931000.0   627564000.0   916176000.0     2745131000.0
+Cost Of Revenue                                             5441109000.0  5358782000.0  5867976000.0     6626279000.0
+Total Revenue                                               6179040000.0  5986346000.0  6784152000.0     9371410000.0
+Operating Revenue                                           6179040000.0  5986346000.0  6784152000.0     9371410000.0

@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	260, Chang Nan Road
+address2	Section 2
+city	Changhua
+country	Taiwan
+phone	886 4 738 3991
+fax	886 4 738 4013
+website	https://www.sdi.com.tw
+industry	Semiconductor Equipment & Materials
+industryKey	semiconductor-equipment-materials
+industryDisp	Semiconductor Equipment & Materials
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	SDI Corporation, together with its subsidiaries, manufactures and sells semiconductor lead frames, LED lead frames, stationery and office products, and high precision dies in Taiwan, China, Japan, Malaysia, and internationally. The company engages in the smelting and rolling of metal strips; manufacturing and processing of electronic components; and international trade business. SDI Corporation was founded in 1953 and is headquartered in Changhua, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wei Te  Chen', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ray  Huang', 'title': 'Associate Manage of Finance & Chief of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jerome  Chen', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Daniel  Chen', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	107.5
+open	108.0
+dayLow	104.5
+dayHigh	109.0
+regularMarketPreviousClose	107.5
+regularMarketOpen	108.0
+regularMarketDayLow	104.5
+regularMarketDayHigh	109.0
+dividendRate	3.2
+dividendYield	0.03
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	0.78620005
+fiveYearAvgDividendYield	2.91
+beta	1.312
+trailingPE	26.167074
+forwardPE	16.460588
+volume	1224250
+regularMarketVolume	1224250
+averageVolume	940988
+averageVolume10days	2133547
+averageDailyVolume10Day	2133547
+bid	106.0
+ask	106.5
+marketCap	19397910528
+fiftyTwoWeekLow	92.2
+fiftyTwoWeekHigh	139.0
+priceToSalesTrailing12Months	1.7867503
+fiftyDayAverage	101.324
+twoHundredDayAverage	105.6965
+trailingAnnualDividendRate	2.6
+trailingAnnualDividendYield	0.024186045
+currency	TWD
+enterpriseValue	21544216576
+profitMargins	0.06842
+floatShares	116658849
+sharesOutstanding	182140000
+heldPercentInsiders	0.25496
+heldPercentInstitutions	0.12117
+impliedSharesOutstanding	188824000
+bookValue	37.154
+priceToBook	2.866448
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.272
+netIncomeToCommon	742758016
+trailingEps	4.07
+forwardEps	6.47
+lastSplitFactor	104.0672:100
+lastSplitDate	1091577600	 (2004-08-04 08:00:00)
+enterpriseToRevenue	1.984
+enterpriseToEbitda	13.253
+52WeekChange	-0.08189654
+SandP52WeekChange	0.26265144
+lastDividendValue	3.2
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2351.TW
+underlyingSymbol	2351.TW
+shortName	SDI CORP
+longName	SDI Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ae45b918-b4ba-3d89-9b16-c9bde2aa655e
+messageBoardId	finmb_9829237
+gmtOffSetMilliseconds	28800000
+currentPrice	106.5
+targetHighPrice	116.0
+targetLowPrice	100.0
+targetMeanPrice	109.33
+targetMedianPrice	112.0
+recommendationMean	2.3
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	855955968
+totalCashPerShare	4.699
+ebitda	1625603968
+totalDebt	2652568064
+quickRatio	0.902
+currentRatio	2.112
+totalRevenue	10856530944
+debtToEquity	37.271
+revenuePerShare	59.605
+returnOnAssets	0.04882
+returnOnEquity	0.11073
+freeCashflow	727344000
+operatingCashflow	1726156032
+earningsGrowth	-0.273
+revenueGrowth	-0.087
+grossMargins	0.1708
+ebitdaMargins	0.14974
+operatingMargins	0.07832
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    262298.89557    -365213.391342     593911.984247    1418823.762615
+Tax Rate For Calcs                                                 0.219865          0.212828          0.220294          0.219973
+Normalized EBITDA                                              1735185000.0      2006209000.0      1897310000.0      1261350000.0
+Total Unusual Items                                               1193000.0        -1716000.0         2696000.0         6450000.0
+Total Unusual Items Excluding Goodwill                            1193000.0        -1716000.0         2696000.0         6450000.0
+Net Income From Continuing Operation Net Minority Interest      742758000.0       940519000.0       852244000.0       349147000.0
+Reconciled Depreciation                                         671806000.0       660729000.0       673997000.0       695894000.0
+Reconciled Cost Of Revenue                                     9002214000.0      9645688000.0      9042560000.0      7118232000.0
+EBITDA                                                         1736378000.0      2004493000.0      1900006000.0      1267800000.0
+EBIT                                                           1064572000.0      1343764000.0      1226009000.0       571906000.0
+Net Interest Income                                             -50201000.0       -71238000.0       -57352000.0       -55894000.0
+Interest Expense                                                 63694000.0        73839000.0        58468000.0        57333000.0
+Interest Income                                                  13493000.0         2601000.0         1116000.0         1439000.0
+Normalized Income                                           741827298.89557  941869786.608658  850141911.984247  344115823.762615
+Net Income From Continuing And Discontinued Operation           742758000.0       940519000.0       852244000.0       349147000.0
+Total Expenses                                                 9878510000.0     10553065000.0      9929827000.0      7855474000.0
+Diluted Average Shares                                                  NaN       182271124.0       182246000.0       182235000.0
+Basic Average Shares                                                    NaN       182271124.0       182140000.0       182140000.0
+Diluted EPS                                                             NaN              5.16              4.68              1.92
+Basic EPS                                                               NaN              5.16              4.68              1.92
+Diluted NI Availto Com Stockholders                             742758000.0       940519000.0       852244000.0       349147000.0
+Net Income Common Stockholders                                  742758000.0       940519000.0       852244000.0       349147000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                      742758000.0       940519000.0       852244000.0       349147000.0
+Minority Interests                                              -38062000.0       -59130000.0       -58095000.0       -52234000.0
+Net Income Including Noncontrolling Interests                   780820000.0       999649000.0       910339000.0       401381000.0
+Net Income Continuous Operations                                780820000.0       999649000.0       910339000.0       401381000.0
+Tax Provision                                                   220058000.0       270276000.0       257202000.0       113192000.0
+Pretax Income                                                  1000878000.0      1269925000.0      1167541000.0       514573000.0
+Other Non Operating Income Expenses                              71865000.0       171665000.0         -526000.0       -31120000.0
+Special Income Charges                                            1193000.0        -1716000.0         2696000.0         6450000.0
+Write Off                                                        -1193000.0         1716000.0        -2696000.0        -6450000.0
+Net Non Operating Interest Income Expense                       -50201000.0       -71238000.0       -57352000.0       -55894000.0
+Interest Expense Non Operating                                   63694000.0        73839000.0        58468000.0        57333000.0
+Interest Income Non Operating                                    13493000.0         2601000.0         1116000.0         1439000.0
+Operating Income                                                978021000.0      1171214000.0      1222723000.0       595137000.0
+Operating Expense                                               876296000.0       907377000.0       887267000.0       737242000.0
+Research And Development                                        242101000.0       254486000.0       247850000.0       207140000.0
+Selling General And Administration                              634195000.0       652891000.0       639417000.0       530102000.0
+Selling And Marketing Expense                                   298480000.0       319506000.0       311191000.0       273859000.0
+General And Administrative Expense                              335715000.0       333385000.0       328226000.0       256243000.0
+Gross Profit                                                   1854317000.0      2078591000.0      2109990000.0      1332379000.0
+Cost Of Revenue                                                9002214000.0      9645688000.0      9042560000.0      7118232000.0
+Total Revenue                                                 10856531000.0     11724279000.0     11152550000.0      8450611000.0
+Operating Revenue                                             10856531000.0     11724279000.0     11152550000.0      8450611000.0

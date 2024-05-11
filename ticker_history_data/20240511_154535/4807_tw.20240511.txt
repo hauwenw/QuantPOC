@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre
+address2	Oleander Way 802 West Bay Road PO Box 32052
+city	Grand Cayman
+zip	KY 1-1208
+country	Cayman Islands
+website	https://www.regaljewelrygroup.com
+industry	Luxury Goods
+industryKey	luxury-goods
+industryDisp	Luxury Goods
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Regal Holding Co., Ltd. designs, manufactures, electroplates, and sells jewelry and gems in Thailand, the United States, France, the United Kingdom, Canada, and internationally. The company offers pendants, rings, wristbands, earrings, bracelets, necklaces, and accessories. It is also involved in the wholesale of diamonds; sale of precious jewelry; and trading activities. Regal Holding Co., Ltd. was founded in 2014 and is based in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Phacharapon  Phaiboonsuntorn', 'title': 'Chairman of the Board and Deputy GM of R&D', 'fiscalYear': 2021, 'totalPay': 3099000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ju-Ying  Lin', 'title': 'CEO & GM', 'fiscalYear': 2021, 'totalPay': 2843000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chiu-I  Lin', 'title': 'Deputy GM of Sales & Director', 'fiscalYear': 2021, 'totalPay': 1735000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sarayuth  Mungchitvitsavakorn', 'title': 'Director & Deputy GM of Production', 'fiscalYear': 2021, 'totalPay': 2159000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Narissa Kieatbuny Arit', 'title': 'Director of Finance & Accountant Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	18.2
+open	18.3
+dayLow	18.05
+dayHigh	18.35
+regularMarketPreviousClose	18.2
+regularMarketOpen	18.3
+regularMarketDayLow	18.05
+regularMarketDayHigh	18.35
+dividendRate	0.45
+dividendYield	0.0249
+exDividendDate	1688947200	 (2023-07-10 08:00:00)
+payoutRatio	1.9526
+beta	0.933
+forwardPE	4.227166
+volume	13002
+regularMarketVolume	13002
+averageVolume	22386
+averageVolume10days	16668
+averageDailyVolume10Day	16668
+bid	18.0
+ask	18.05
+marketCap	693047744
+fiftyTwoWeekLow	15.95
+fiftyTwoWeekHigh	21.0
+priceToSalesTrailing12Months	0.6033165
+fiftyDayAverage	17.353
+twoHundredDayAverage	17.25025
+currency	TWD
+enterpriseValue	635803392
+profitMargins	-0.13767
+sharesOutstanding	38396000
+heldPercentInsiders	0.70598
+impliedSharesOutstanding	38941400
+bookValue	19.99
+priceToBook	0.9029514
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-158144000
+trailingEps	-4.5
+forwardEps	4.27
+enterpriseToRevenue	0.553
+enterpriseToEbitda	-3.952
+52WeekChange	-0.10643566
+SandP52WeekChange	0.26265144
+lastDividendValue	0.45
+lastDividendDate	1688947200	 (2023-07-10 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4807.TW
+underlyingSymbol	4807.TW
+shortName	REGAL HOLDING CO LTD
+longName	Regal Holding Co., Ltd.
+firstTradeDateEpochUtc	1480381200	 (2016-11-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	bcb931f8-7f2f-3f9d-8053-ecb87a1a2982
+messageBoardId	finmb_406833703
+gmtOffSetMilliseconds	28800000
+currentPrice	18.05
+recommendationKey	none
+totalCash	139418000
+totalCashPerShare	3.631
+ebitda	-160867008
+totalDebt	399000
+quickRatio	1.159
+currentRatio	2.42
+totalRevenue	1148729984
+debtToEquity	0.047
+revenuePerShare	29.918
+returnOnAssets	-0.10038
+returnOnEquity	-0.17242001
+freeCashflow	-46599124
+operatingCashflow	-87545000
+revenueGrowth	-0.083
+grossMargins	0.03751
+ebitdaMargins	-0.14004
+operatingMargins	-0.05647
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     -83000.0   -5505280.040598   2192666.484303
+Tax Rate For Calcs                                                   0.2          0.321683         0.214379
+Normalized EBITDA                                            142788000.0       283482000.0      177569000.0
+Total Unusual Items                                            -415000.0       -17114000.0       10228000.0
+Total Unusual Items Excluding Goodwill                         -415000.0       -17114000.0       10228000.0
+Net Income From Continuing Operation Net Minority Interest    32529000.0       126949000.0       88343000.0
+Reconciled Depreciation                                       60698000.0        55156000.0       54825000.0
+Reconciled Cost Of Revenue                                  1328911000.0      1600569000.0     1363969000.0
+EBITDA                                                       142373000.0       266368000.0      187797000.0
+EBIT                                                          81675000.0       211212000.0      132972000.0
+Net Interest Income                                           -4297000.0        -7877000.0       -8035000.0
+Interest Expense                                               5690000.0         8245000.0        8678000.0
+Interest Income                                                1393000.0          368000.0         643000.0
+Normalized Income                                             32861000.0  138557719.959402  80307666.484303
+Net Income From Continuing And Discontinued Operation         32529000.0       126949000.0       88343000.0
+Total Expenses                                              1597576000.0      1890032000.0     1660890000.0
+Diluted Average Shares                                        38416000.0        46641000.0       38894000.0
+Basic Average Shares                                          38395000.0        38283000.0       38170000.0
+Diluted EPS                                                         0.85              2.83             2.29
+Basic EPS                                                           0.85              3.32             2.31
+Diluted NI Availto Com Stockholders                           32529000.0       126949000.0       88343000.0
+Net Income Common Stockholders                                32529000.0       126949000.0       88343000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0              0.0
+Net Income                                                    32529000.0       126949000.0       88343000.0
+Minority Interests                                           -11030000.0       -10727000.0       -9305000.0
+Net Income Including Noncontrolling Interests                 43559000.0       137676000.0       97648000.0
+Net Income Continuous Operations                              43559000.0       137676000.0       97648000.0
+Tax Provision                                                 32426000.0        65291000.0       26646000.0
+Pretax Income                                                 75985000.0       202967000.0      124294000.0
+Other Non Operating Income Expenses                           27367000.0        29627000.0       17434000.0
+Special Income Charges                                         -415000.0       -17114000.0       10228000.0
+Write Off                                                       415000.0        17114000.0      -10228000.0
+Net Non Operating Interest Income Expense                     -4297000.0        -7877000.0       -8035000.0
+Interest Expense Non Operating                                 5690000.0         8245000.0        8678000.0
+Interest Income Non Operating                                  1393000.0          368000.0         643000.0
+Operating Income                                              53330000.0       198331000.0      104667000.0
+Operating Expense                                            268665000.0       289463000.0      296921000.0
+Research And Development                                      58529000.0        57697000.0       60775000.0
+Selling General And Administration                           210136000.0       231766000.0      236146000.0
+Selling And Marketing Expense                                 56860000.0        62662000.0       69764000.0
+General And Administrative Expense                           153276000.0       169104000.0      166382000.0
+Gross Profit                                                 321995000.0       487794000.0      401588000.0
+Cost Of Revenue                                             1328911000.0      1600569000.0     1363969000.0
+Total Revenue                                               1650906000.0      2088363000.0     1765557000.0
+Operating Revenue                                           1650906000.0      2088363000.0     1765557000.0

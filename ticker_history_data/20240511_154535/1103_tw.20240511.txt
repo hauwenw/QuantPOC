@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No.96, Zhongshan North Road
+address2	Section 2 Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2551 5211
+fax	886 2 2581 8320
+website	https://www.chcgroup.com.tw
+industry	Building Materials
+industryKey	building-materials
+industryDisp	Building Materials
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chia Hsin Cement Corporation engages in the manufacture and sale of cement in Taiwan and internationally. The company's activities include the wholesale and retail sale of building materials; non-metallic mining; manufacturing of mixed concrete; international trade; leasing, construction, and development of residences and buildings, and industrial factory buildings; real estate commerce; real estate rental and leasing; reconstruction within the renewal area; warehousing and storage; healthcare; fitness and training; manufacturing of beverages and bakery products; hotel management; and energy technology services. Chia Hsin Cement Corporation was incorporated in 1954 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Li-Hsin  Wang', 'age': 50, 'title': 'Pres., Exec. VP, CEO of HO, Chief Off. of Corp. Gov., Chief Sstnblty. Off. & Chief Info. Sec. off.', 'yearBorn': 1973, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yueh-Chen  Chou', 'title': 'Finance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Mars  Feng', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.2
+open	18.2
+dayLow	18.05
+dayHigh	18.3
+regularMarketPreviousClose	18.2
+regularMarketOpen	18.2
+regularMarketDayLow	18.05
+regularMarketDayHigh	18.3
+dividendRate	0.3
+dividendYield	0.0164
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	1.13
+fiveYearAvgDividendYield	4.59
+beta	0.675
+trailingPE	67.77777
+forwardPE	42.558136
+volume	366744
+regularMarketVolume	366744
+averageVolume	522817
+averageVolume10days	1161582
+averageDailyVolume10Day	1161582
+bid	18.25
+ask	18.3
+marketCap	12057759744
+fiftyTwoWeekLow	17.0
+fiftyTwoWeekHigh	23.333332
+priceToSalesTrailing12Months	4.1413074
+fiftyDayAverage	17.668
+twoHundredDayAverage	18.442
+currency	TWD
+enterpriseValue	14405149696
+profitMargins	0.02785
+floatShares	335535181
+sharesOutstanding	658894016
+heldPercentInsiders	0.47043
+heldPercentInstitutions	0.03284
+impliedSharesOutstanding	662475008
+bookValue	32.906
+priceToBook	0.5561296
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	81082000
+trailingEps	0.27
+forwardEps	0.43
+lastSplitFactor	1020:1000
+lastSplitDate	1690416000	 (2023-07-27 08:00:00)
+enterpriseToRevenue	4.948
+enterpriseToEbitda	74.047
+52WeekChange	-0.050076306
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1103.TW
+underlyingSymbol	1103.TW
+shortName	CHIA HSIN CEMENT CORPORATION
+longName	Chia Hsin Cement Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fc4df25d-839d-3ed1-996f-ef4791a26456
+messageBoardId	finmb_880515
+gmtOffSetMilliseconds	28800000
+currentPrice	18.3
+recommendationKey	none
+totalCash	9913313280
+totalCashPerShare	15.045
+ebitda	194540000
+totalDebt	11523596288
+quickRatio	3.129
+currentRatio	3.195
+totalRevenue	2911582976
+debtToEquity	51.402
+revenuePerShare	4.419
+returnOnAssets	-0.00253
+returnOnEquity	0.0043200003
+freeCashflow	88631128
+operatingCashflow	-75003000
+revenueGrowth	0.207
+grossMargins	0.12585
+ebitdaMargins	0.06682
+operatingMargins	-0.02633
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     -50600.0      19412.198604      -12030.822747
+Tax Rate For Calcs                                                   0.2          0.087838           0.127987
+Normalized EBITDA                                            545828000.0      1506664000.0       2842550000.0
+Total Unusual Items                                            -253000.0          221000.0           -94000.0
+Total Unusual Items Excluding Goodwill                         -253000.0          221000.0           -94000.0
+Net Income From Continuing Operation Net Minority Interest  -180762000.0       657848000.0       1762867000.0
+Reconciled Depreciation                                      497439000.0       527463000.0        572834000.0
+Reconciled Cost Of Revenue                                  2121073000.0      2189455000.0       2202158000.0
+EBITDA                                                       545575000.0      1506885000.0       2842456000.0
+EBIT                                                          48136000.0       979422000.0       2269622000.0
+Net Interest Income                                          -93324000.0      -106970000.0        -78719000.0
+Interest Expense                                             169438000.0       159902000.0        163580000.0
+Interest Income                                               76114000.0        52932000.0         84861000.0
+Normalized Income                                           -180559600.0  657646412.198604  1762948969.177253
+Net Income From Continuing And Discontinued Operation       -180762000.0       657848000.0       1764366000.0
+Total Expenses                                              2648776000.0      2746111000.0       1235756000.0
+Diluted Average Shares                                       658894500.0       657997920.0        656938140.0
+Basic Average Shares                                         658894500.0       657430800.0        656295540.0
+Diluted EPS                                                     -0.27451               1.0           2.686275
+Basic EPS                                                       -0.27451               1.0           2.686275
+Diluted NI Availto Com Stockholders                         -180762000.0       657848000.0       1764366000.0
+Net Income Common Stockholders                              -180762000.0       657848000.0       1764366000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0                0.0
+Net Income                                                  -180762000.0       657848000.0       1764366000.0
+Minority Interests                                            -6876000.0       -89687000.0        -73628000.0
+Net Income Including Noncontrolling Interests               -173886000.0       747535000.0       1837994000.0
+Net Income Discontinuous Operations                                  NaN               0.0          1499000.0
+Net Income Continuous Operations                            -173886000.0       747535000.0       1836495000.0
+Tax Provision                                                 52584000.0        71985000.0        269547000.0
+Pretax Income                                               -121302000.0       819520000.0       2106042000.0
+Other Non Operating Income Expenses                          227497000.0      1573403000.0       1299583000.0
+Special Income Charges                                         -253000.0          221000.0           -94000.0
+Write Off                                                       253000.0         -221000.0            94000.0
+Net Non Operating Interest Income Expense                    -93324000.0      -106970000.0        -78719000.0
+Interest Expense Non Operating                               169438000.0       159902000.0        163580000.0
+Interest Income Non Operating                                 76114000.0        52932000.0         84861000.0
+Operating Income                                            -395117000.0      -525857000.0        822661000.0
+Operating Expense                                            527703000.0       556656000.0       -966402000.0
+Other Operating Expenses                                             NaN               NaN      -1569463000.0
+Selling General And Administration                           527703000.0       556656000.0        603061000.0
+Selling And Marketing Expense                                 42016000.0        32965000.0         30794000.0
+General And Administrative Expense                           485687000.0       523691000.0        572267000.0
+Gross Profit                                                 132586000.0        30799000.0       -143741000.0
+Cost Of Revenue                                             2121073000.0      2189455000.0       2202158000.0
+Total Revenue                                               2253659000.0      2220254000.0       2058417000.0
+Operating Revenue                                           2253659000.0      2220254000.0       2058417000.0

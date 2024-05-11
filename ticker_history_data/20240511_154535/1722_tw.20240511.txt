@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 170, Jingmao 1st Rd.
+address2	17th Floor Nangang Dist.
+city	Taipei
+zip	115018
+country	Taiwan
+phone	886 2 2542 2231
+fax	886 2 2563 4597
+website	https://www.taifer.com.tw
+industry	Agricultural Inputs
+industryKey	agricultural-inputs
+industryDisp	Agricultural Inputs
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Taiwan Fertilizer Co., Ltd., together with its subsidiaries, manufactures and sells inorganic and organic fertilizers, and other chemical products in Taiwan, the Middle East, and internationally. It provides fertilizer products, such as ammonium sulfate, urea, granular phosphate, calcium ammonium nitrate, single super phosphate, potassium chloride, potassium sulfate, organic and nitro phosphate, biotec organic compound fertilizers, organic fertilizers, instant water-soluble fertilizers, taifer biopower stimulants, and dolomite products. The company also offers chemical products, including urea for industrial applications, melamine, sulfamic acid, anhydrous ammonia, nitric acid, sulfuric acid, and oleum. In addition, it provides electronic and precision chemicals products, such as hydrochloric, nitric, sulfuric, phosphoric, and acetic acid; and ammonium water, sodium and potassium hydroxide, hydrogen peroxide, photoresist stripper, dimethyl sulfoxide, monoethanolamine, isopropyl alcohol, acetone, n-methyl-2-pyrrolidone, cyclopentanone, edge bead remover, and propylene glycol methyl ether and ether acetate. Further, the company engages development and leasing of real estate; wholesale of beverages, foods, and cosmetics; and wholesale of fertilizer, as well as gas station and health businesses. Taiwan Fertilizer Co., Ltd. was incorporated in 1946 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chang-Lang  Chang', 'title': 'Acting President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shen-Long  Peng', 'title': 'Deputy GM & Chief of Administration Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuo-Ying  Liu', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsang-Hsien  Hsu', 'title': 'Miaoli Factory Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yeong Dar  Huang', 'title': 'Hualien Factory Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chyuan Hsu  Sung', 'title': 'Keelung Factory Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chi-Ching  Liu', 'title': 'TFC Manager of Conference Affairs, Chief of Board of Directors & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.taifer.com.tw/
+maxAge	86400
+priceHint	2
+previousClose	64.6
+open	64.5
+dayLow	64.0
+dayHigh	64.9
+regularMarketPreviousClose	64.6
+regularMarketOpen	64.5
+regularMarketDayLow	64.0
+regularMarketDayHigh	64.9
+dividendRate	2.5
+dividendYield	0.038599998
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.65790004
+fiveYearAvgDividendYield	4.19
+beta	0.428
+trailingPE	17.026316
+forwardPE	22.233675
+volume	3112768
+regularMarketVolume	3112768
+averageVolume	2562146
+averageVolume10days	3516565
+averageDailyVolume10Day	3516565
+bid	64.7
+ask	64.8
+marketCap	63405998080
+fiftyTwoWeekLow	58.1
+fiftyTwoWeekHigh	70.5
+priceToSalesTrailing12Months	4.2229033
+fiftyDayAverage	64.488
+twoHundredDayAverage	63.5285
+trailingAnnualDividendRate	2.6
+trailingAnnualDividendYield	0.04024768
+currency	TWD
+enterpriseValue	58444050432
+profitMargins	0.26101
+floatShares	654365600
+sharesOutstanding	980000000
+heldPercentInsiders	0.37228
+heldPercentInstitutions	0.15889
+impliedSharesOutstanding	980000000
+bookValue	55.857
+priceToBook	1.158315
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.575
+netIncomeToCommon	3919051008
+trailingEps	3.8
+forwardEps	2.91
+enterpriseToRevenue	3.892
+enterpriseToEbitda	14.975
+52WeekChange	0.08739495
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1722.TW
+underlyingSymbol	1722.TW
+shortName	TAIWAN FERTILIZER CO
+longName	Taiwan Fertilizer Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3bf4841b-ff52-360f-b602-69d738b89cb6
+messageBoardId	finmb_9663472
+gmtOffSetMilliseconds	28800000
+currentPrice	64.7
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	5076359168
+totalCashPerShare	5.18
+ebitda	3902749952
+totalDebt	114409000
+quickRatio	2.452
+currentRatio	3.599
+totalRevenue	15014788096
+debtToEquity	0.209
+revenuePerShare	15.321
+returnOnAssets	0.021240002
+returnOnEquity	0.07271
+freeCashflow	3832371712
+operatingCashflow	6058527232
+earningsGrowth	-0.582
+revenueGrowth	-0.25
+grossMargins	0.27427
+ebitdaMargins	0.25993
+operatingMargins	0.07016
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0     -138237.545977     -512934.920565            0.0
+Tax Rate For Calcs                                               0.099575           0.190148           0.199663       0.172826
+Normalized EBITDA                                            5614869000.0       4473314000.0       4964348000.0   4050827000.0
+Total Unusual Items                                                   0.0          -727000.0         -2569000.0            0.0
+Total Unusual Items Excluding Goodwill                                0.0          -727000.0         -2569000.0            0.0
+Net Income From Continuing Operation Net Minority Interest   3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Reconciled Depreciation                                      1259641000.0       1171969000.0       1165876000.0   1080891000.0
+Reconciled Cost Of Revenue                                  10896618000.0      13760212000.0      11520431000.0   7580633000.0
+EBITDA                                                       5614869000.0       4472587000.0       4961779000.0   4050827000.0
+EBIT                                                         4355228000.0       3300618000.0       3795903000.0   2969936000.0
+Net Interest Income                                            86917000.0         33297000.0         13927000.0     39519000.0
+Interest Expense                                                2781000.0          4153000.0          4229000.0      4561000.0
+Interest Income                                                89698000.0         37450000.0         18156000.0     44080000.0
+Normalized Income                                            3919051000.0  2670237762.454023  3036672065.079435   2452881000.0
+Net Income From Continuing And Discontinued Operation        3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Total Expenses                                              12257153000.0      15540047000.0      13149513000.0   8922053000.0
+Rent Expense Supplemental                                     935857000.0        834875000.0        752865000.0    730230000.0
+Diluted Average Shares                                                NaN        981803000.0        981651000.0    981711000.0
+Basic Average Shares                                                  NaN        980000000.0        980000000.0    980000000.0
+Diluted EPS                                                           NaN               2.72               3.09            2.5
+Basic EPS                                                             NaN               2.72                3.1            2.5
+Diluted NI Availto Com Stockholders                          3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Net Income Common Stockholders                               3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0                0.0            0.0
+Net Income                                                   3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Net Income Including Noncontrolling Interests                3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Net Income Continuous Operations                             3919051000.0       2669649000.0       3034616000.0   2452881000.0
+Tax Provision                                                 433396000.0        626816000.0        757058000.0    512494000.0
+Pretax Income                                                4352447000.0       3296465000.0       3791674000.0   2965375000.0
+Other Non Operating Income Expenses                          -227648000.0        260075000.0        211301000.0   1099963000.0
+Special Income Charges                                                0.0          -727000.0         -2569000.0            0.0
+Write Off                                                             0.0           727000.0          2569000.0            0.0
+Net Non Operating Interest Income Expense                      86917000.0         33297000.0         13927000.0     39519000.0
+Interest Expense Non Operating                                  2781000.0          4153000.0          4229000.0      4561000.0
+Interest Income Non Operating                                  89698000.0         37450000.0         18156000.0     44080000.0
+Operating Income                                             2757635000.0       -487796000.0        509893000.0   1247689000.0
+Operating Expense                                            1360535000.0       1779835000.0       1629082000.0   1341420000.0
+Research And Development                                       44543000.0         42570000.0         58695000.0     66584000.0
+Selling General And Administration                           1315992000.0       1737265000.0       1570387000.0   1274836000.0
+Selling And Marketing Expense                                 319572000.0        667786000.0        545061000.0    299990000.0
+General And Administrative Expense                            996420000.0       1069479000.0       1025326000.0    974846000.0
+Gross Profit                                                 4118170000.0       1292039000.0       2138975000.0   2589109000.0
+Cost Of Revenue                                             10896618000.0      13760212000.0      11520431000.0   7580633000.0
+Total Revenue                                               15014788000.0      15052251000.0      13659406000.0  10169742000.0
+Operating Revenue                                           15014788000.0      15052251000.0      13659406000.0  10169742000.0

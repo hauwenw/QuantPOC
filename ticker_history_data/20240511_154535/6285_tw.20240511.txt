@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	20 Park Avenue II
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	308
+country	Taiwan
+phone	886 3 666 7799
+fax	886 3 666 7711
+website	https://www.wnc.com.tw
+industry	Communication Equipment
+industryKey	communication-equipment
+industryDisp	Communication Equipment
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Wistron NeWeb Corporation engages in research and development, manufacture, and sale of satellite communication systems, and mobile and portable communication equipment in the Americas, Europe, and Asia. The company offers wired communication equipment, wireless communication networking equipment, electronic components, regulated telecommunication radio frequency equipment, and satellite communication systems. It also provides satellite communications products, such as DTH TV dish antenna systems, single cable multi-output outdoor receiver systems and derivative products, satellite digital signal convertors, digital satellite radio receiver systems, digital HD radio receiver systems, satellite communications transmitters, 4K/8K high-definition digital satellite radio receivers, and high-frequency satellite two-way communications receivers. In addition, the company also offers mobile and home communications products, including wireless broadband access network communications equipment and modules, mobile indoor and outdoor broadband network terminal devices, next-generation mmWave mobile broadband home gateways, embedded antennas for mobile devices, fiber-optic connectivity devices, surveillance cameras, miniaturized high-definition interior car cameras, V2X communication end devices, automotive cellular Wi-Fi/BT modules, Wi-Fi mesh routers, BLE modules and sensors, high-speed data center network switches, mobile broadband home gateways, and smart home devices with voice assistant. Further, it provides other wireless products comprising high-frequency forward collision warning automotive radar devices, automotive cameras, mmWave transmission modules, industrial cellular modem, IoT asset-tracking devices, and RFID portal antennas. The company was founded in 1996 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hong-Po  Hsieh', 'age': 68, 'title': 'Chief Strategy Officer & Chairman', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeffrey  Gau', 'title': 'President, CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jona  Song', 'title': 'CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guan  Fion', 'title': 'Chief Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Horen  Chen', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fayu  Chen', 'title': 'Senior VP & GM of Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Larry  Lee', 'title': 'Executive VP & GM of Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Johnson  Hsu', 'title': 'Senior VP & GM of BG', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. F. C. Frank  Lin', 'age': 68, 'title': 'Chief Staff Officer & Representative Director', 'yearBorn': 1955, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy  Hsu', 'title': 'Chief Supply Chain Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.wnc.com.tw/IR/IR.htm
+maxAge	86400
+priceHint	2
+previousClose	148.5
+open	148.5
+dayLow	144.5
+dayHigh	149.0
+regularMarketPreviousClose	148.5
+regularMarketOpen	148.5
+regularMarketDayLow	144.5
+regularMarketDayHigh	149.0
+dividendRate	4.77
+dividendYield	0.0326
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.5392
+fiveYearAvgDividendYield	3.61
+beta	0.628
+trailingPE	16.534542
+forwardPE	13.272727
+volume	6065099
+regularMarketVolume	6065099
+averageVolume	6960756
+averageVolume10days	3337874
+averageDailyVolume10Day	3337874
+bid	146.0
+ask	146.5
+marketCap	70436823040
+fiftyTwoWeekLow	81.71522
+fiftyTwoWeekHigh	173.5
+priceToSalesTrailing12Months	0.6357807
+fiftyDayAverage	152.23
+twoHundredDayAverage	141.5062
+currency	TWD
+enterpriseValue	73731497984
+profitMargins	0.03433
+floatShares	353689419
+sharesOutstanding	482444000
+heldPercentInsiders	0.27289
+heldPercentInstitutions	0.24566
+impliedSharesOutstanding	487174016
+bookValue	63.202
+priceToBook	2.3100536
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.156
+netIncomeToCommon	3802830080
+trailingEps	8.83
+forwardEps	11.0
+pegRatio	1.21
+lastSplitFactor	1020.002:1000
+lastSplitDate	1533772800	 (2018-08-09 08:00:00)
+enterpriseToRevenue	0.666
+enterpriseToEbitda	11.171
+52WeekChange	0.75705576
+SandP52WeekChange	0.26265144
+lastDividendValue	4.766484
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6285.TW
+underlyingSymbol	6285.TW
+shortName	WISTRON NEWEB CORPORATION
+longName	Wistron NeWeb Corporation
+firstTradeDateEpochUtc	1064192400	 (2003-09-22 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	25d54d01-2d16-36a6-b94b-57097adc6386
+messageBoardId	finmb_7916774
+gmtOffSetMilliseconds	28800000
+currentPrice	146.0
+targetHighPrice	200.0
+targetLowPrice	139.22
+targetMeanPrice	164.3
+targetMedianPrice	159.0
+recommendationMean	1.9
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	11210489856
+totalCashPerShare	23.237
+ebitda	6600415232
+totalDebt	14505150464
+quickRatio	0.987
+currentRatio	1.566
+totalRevenue	110787919872
+debtToEquity	47.571
+revenuePerShare	261.738
+returnOnAssets	0.04322
+returnOnEquity	0.14958
+freeCashflow	2766983424
+operatingCashflow	7144012800
+earningsGrowth	-0.185
+revenueGrowth	0.02
+grossMargins	0.12271
+ebitdaMargins	0.059580002
+operatingMargins	0.04395
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -607017.163365   -49121869.940459     1227246.309146    -2782018.950579
+Tax Rate For Calcs                                                   0.207954           0.169783           0.127163           0.149982
+Normalized EBITDA                                                7484845000.0       6103672000.0       3025795000.0       3393314000.0
+Total Unusual Items                                                -2919000.0       -289322000.0          9651000.0        -18549000.0
+Total Unusual Items Excluding Goodwill                             -2919000.0       -289322000.0          9651000.0        -18549000.0
+Net Income From Continuing Operation Net Minority Interest       3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Reconciled Depreciation                                          2084612000.0       1790036000.0       1558120000.0       1582612000.0
+Reconciled Cost Of Revenue                                      97193472000.0      83662736000.0      59975671000.0      55697894000.0
+EBITDA                                                           7481926000.0       5814350000.0       3035446000.0       3374765000.0
+EBIT                                                             5397314000.0       4024314000.0       1477326000.0       1792153000.0
+Net Interest Income                                              -552735000.0       -252725000.0        -42669000.0        -34011000.0
+Interest Expense                                                  596041000.0        264190000.0         65661000.0         66401000.0
+Interest Income                                                    43306000.0         11465000.0         22992000.0         32390000.0
+Normalized Income                                           3805141982.836635  3361920130.059541  1223730246.309146  1482686981.049421
+Net Income From Continuing And Discontinued Operation            3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Total Expenses                                                 106113822000.0      91730496000.0      66358514000.0      61157719000.0
+Diluted Average Shares                                            443079000.0        421436000.0        404189564.0        400400918.0
+Basic Average Shares                                              423278000.0        393613000.0        397113024.0        396288257.0
+Diluted EPS                                                               8.6               7.43           3.052014           3.662417
+Basic EPS                                                                8.98               7.93            3.10124           3.701798
+Diluted NI Availto Com Stockholders                              3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Net Income Common Stockholders                                   3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0                0.0
+Net Income                                                       3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Net Income Including Noncontrolling Interests                    3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Net Income Continuous Operations                                 3802830000.0       3121720000.0       1232154000.0       1466920000.0
+Tax Provision                                                     998443000.0        638404000.0        179511000.0        258832000.0
+Pretax Income                                                    4801273000.0       3760124000.0       1411665000.0       1725752000.0
+Other Non Operating Income Expenses                               690208000.0        787304000.0        583715000.0        291154000.0
+Special Income Charges                                             -2919000.0       -289322000.0          9651000.0        -18549000.0
+Write Off                                                           2919000.0        289322000.0         -9651000.0         18549000.0
+Net Non Operating Interest Income Expense                        -552735000.0       -252725000.0        -42669000.0        -34011000.0
+Interest Expense Non Operating                                    596041000.0        264190000.0         65661000.0         66401000.0
+Interest Income Non Operating                                      43306000.0         11465000.0         22992000.0         32390000.0
+Operating Income                                                 4674095000.0       3526955000.0        871085000.0       1491012000.0
+Operating Expense                                                8920350000.0       8067760000.0       6382843000.0       5459825000.0
+Research And Development                                         4006750000.0       3583889000.0       2801742000.0       2563770000.0
+Selling General And Administration                               4913600000.0       4483871000.0       3581101000.0       2896055000.0
+Selling And Marketing Expense                                    3277202000.0       2994461000.0       2461715000.0       1893493000.0
+General And Administrative Expense                               1636398000.0       1489410000.0       1119386000.0       1002562000.0
+Gross Profit                                                    13594445000.0      11594715000.0       7253928000.0       6950837000.0
+Cost Of Revenue                                                 97193472000.0      83662736000.0      59975671000.0      55697894000.0
+Total Revenue                                                  110787917000.0      95257451000.0      67229599000.0      62648731000.0
+Operating Revenue                                              110787917000.0      95257451000.0      67229599000.0      62648731000.0

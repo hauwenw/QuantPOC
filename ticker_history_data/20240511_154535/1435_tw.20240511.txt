@@ -1,0 +1,137 @@
+=== Ticker Info ===
+address1	No. 666, Jingping Road
+address2	2nd Floor Zhonghe District
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 8242 2881
+fax	886 2 2245 7595
+website	https://www.chungfutex.com.tw
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Chung Fu Tex-International Corporation engages in the development rental, and sale of warehousing, housing, and buildings business. It is also involved in the tobacco and alcohol retail business. The company was formerly known as Chung Fu Zhenye Co., Ltd. and changed its name to Chung Fu Tex-International Corporation in July 2010. Chung Fu Tex-International Corporation was founded in 1960 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Li Zhong  Huang', 'title': 'Chairman of the Board of Directors and President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Chang  Huang', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi Wen  Chen', 'title': 'Manager of the Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	49.0
+open	49.8
+dayLow	48.8
+dayHigh	49.8
+regularMarketPreviousClose	49.0
+regularMarketOpen	49.8
+regularMarketDayLow	48.8
+regularMarketDayHigh	49.8
+beta	0.036
+volume	3456
+regularMarketVolume	3456
+averageVolume	10554
+averageVolume10days	4670
+averageDailyVolume10Day	4670
+bid	47.85
+ask	49.75
+marketCap	6821263872
+fiftyTwoWeekLow	25.5
+fiftyTwoWeekHigh	62.5
+priceToSalesTrailing12Months	724.2026
+fiftyDayAverage	48.959
+twoHundredDayAverage	42.665
+currency	TWD
+enterpriseValue	6364915200
+sharesOutstanding	139780000
+heldPercentInsiders	0.72046
+impliedSharesOutstanding	140364992
+bookValue	7.017
+priceToBook	6.954539
+lastFiscalYearEnd	1672444800	 (2022-12-31 08:00:00)
+nextFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+mostRecentQuarter	1696032000	 (2023-09-30 08:00:00)
+netIncomeToCommon	-392825984
+trailingEps	-0.31
+enterpriseToRevenue	675.753
+enterpriseToEbitda	-130.029
+52WeekChange	0.85551333
+SandP52WeekChange	0.26265144
+exchange	TAI
+quoteType	EQUITY
+symbol	1435.TW
+underlyingSymbol	1435.TW
+shortName	CHUNG FU TEX-INTERNATIONAL CORP
+longName	Chung Fu Tex-International Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	42276f10-5e40-351f-8bfb-355416578dd4
+messageBoardId	finmb_20334645
+gmtOffSetMilliseconds	28800000
+currentPrice	48.8
+recommendationKey	none
+totalCash	456376992
+totalCashPerShare	3.265
+ebitda	-48950000
+totalDebt	28000
+quickRatio	47.769
+currentRatio	48.415
+totalRevenue	9419000
+debtToEquity	0.003
+revenuePerShare	0.067
+returnOnAssets	-0.024149999
+returnOnEquity	-0.34361
+freeCashflow	208301744
+operatingCashflow	4589000
+revenueGrowth	-0.326
+grossMargins	0.90487
+operatingMargins	-6.57995
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                            2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                    -8000.0          0.0          0.0          0.0
+Tax Rate For Calcs                                                 0.2          0.0          0.0          0.2
+Normalized EBITDA                                          -38615000.0 -223843000.0   13076000.0  -14596000.0
+Total Unusual Items                                           -40000.0   -2797000.0          0.0          0.0
+Total Unusual Items Excluding Goodwill                        -40000.0   -2797000.0          0.0          0.0
+Net Income From Continuing Operation Net Minority Interest -41819000.0 -230650000.0    6920000.0  -21435000.0
+Reconciled Depreciation                                      2587000.0    3936000.0    6201000.0    6639000.0
+Reconciled Cost Of Revenue                                    808000.0    1339000.0    1105000.0    1016000.0
+EBITDA                                                     -38655000.0 -226640000.0   13076000.0  -14596000.0
+EBIT                                                       -41242000.0 -230576000.0    6875000.0  -21235000.0
+Net Interest Income                                          3612000.0    4199000.0    3145000.0    2847000.0
+Interest Expense                                              172000.0      74000.0      74000.0      53000.0
+Interest Income                                              3784000.0    4273000.0    3219000.0    2900000.0
+Normalized Income                                          -41787000.0 -227853000.0    6920000.0  -21435000.0
+Net Income From Continuing And Discontinued Operation      -41819000.0 -230650000.0    6920000.0  -21435000.0
+Total Expenses                                              61083000.0   57322000.0   47492000.0   35286000.0
+Rent Expense Supplemental                                     808000.0     962000.0     969000.0     946000.0
+Diluted Average Shares                                             NaN  139780000.0  135677000.0  125352000.0
+Basic Average Shares                                               NaN  139780000.0  135677000.0  125352000.0
+Diluted EPS                                                        NaN        -1.65         0.05        -0.17
+Basic EPS                                                          NaN        -1.65         0.05        -0.17
+Diluted NI Availto Com Stockholders                        -41819000.0 -230650000.0    6920000.0  -21435000.0
+Net Income Common Stockholders                             -41819000.0 -230650000.0    6920000.0  -21435000.0
+Otherunder Preferred Stock Dividend                                0.0          0.0          0.0          0.0
+Net Income                                                 -41819000.0 -230650000.0    6920000.0  -21435000.0
+Minority Interests                                                 NaN          0.0     119000.0          0.0
+Net Income Including Noncontrolling Interests              -41819000.0 -230650000.0    6801000.0  -21435000.0
+Net Income Continuous Operations                           -41819000.0 -230650000.0    6801000.0  -21435000.0
+Tax Provision                                                 405000.0          0.0          0.0     147000.0
+Pretax Income                                              -41414000.0 -230650000.0    6801000.0  -21288000.0
+Other Non Operating Income Expenses                         13590000.0   -7115000.0   -2669000.0   -3902000.0
+Special Income Charges                                        -40000.0   -2797000.0          0.0          0.0
+Write Off                                                      40000.0    2797000.0          0.0          0.0
+Net Non Operating Interest Income Expense                    3612000.0    4199000.0    3145000.0    2847000.0
+Interest Expense Non Operating                                172000.0      74000.0      74000.0      53000.0
+Interest Income Non Operating                                3784000.0    4273000.0    3219000.0    2900000.0
+Operating Income                                           -52583000.0  -44225000.0  -33444000.0  -20233000.0
+Operating Expense                                           60275000.0   55983000.0   46387000.0   34270000.0
+Other Operating Expenses                                           NaN          NaN      43000.0          NaN
+Selling General And Administration                          60275000.0   55983000.0   46387000.0   34270000.0
+General And Administrative Expense                          60275000.0   55983000.0   46387000.0   34270000.0
+Gross Profit                                                 7692000.0   11758000.0   12943000.0   14037000.0
+Cost Of Revenue                                               808000.0    1339000.0    1105000.0    1016000.0
+Total Revenue                                                8500000.0   13097000.0   14048000.0   15053000.0
+Operating Revenue                                            8500000.0   13097000.0   14048000.0   15053000.0

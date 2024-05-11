@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	No.575, Hegang Road
+address2	Hemei Township
+city	Changhua
+zip	508
+country	Taiwan
+phone	886 4 756 5307
+fax	886 4 756 5787
+website	https://www.paiho.com
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Taiwan Paiho Limited manufactures and sells touch fastener, webbings, elastic, easy tapes, and fabrics in Taiwan and internationally. The company offers general footwear and webbings for garments, shoelaces, and pull strings; touch fasteners; knitted elastic, flat woven elastic, jacquard elastic, and multi-directional textile with elasticity; easy tape products for applications in paper diapers, medical equipment, computer pipelines, outdoor sporting goods, car seats and interiors, and other accessories; bamboo charcoal yarn, bamboo charcoal insulation cotton, recycled pet yarn, and other processed products; powder coating products; and jacquard digital woven fabric, jacquard engineered mesh, and other fabrics for use in footwear, garment, boutique suitcase and bags, and home decor. It also sells houses and apartment buildings built by the construction enterprises. In addition, the company engages in the production and marketing of embroidery, consumer electronic accessories, and masks and non-woven products; commercial property management; planning consultant, development, and leasing of real estate; and provision of design decoration services, as well as engages in international investment and trading activities. The company was formerly known as San Ho Hsin Limited and changed its name to Taiwan Paiho Limited in 1986. Taiwan Paiho Limited was founded in 1979 and is headquartered in Changhua, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sen Mei  Cheng', 'title': 'Chairman & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yao-Da  Huang', 'title': 'Vice Senior Manager of Finance Department & Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Tsung  Cheng', 'title': 'Executive Vice GM of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hui Huang  Huang', 'title': 'Senior Manager & Head of Factory', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Wei  Cheng', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Lun  Cheng', 'title': 'Manager & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Huan-Tung  Tseng', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.paiho.com/en_investor_01.html
+maxAge	86400
+priceHint	2
+previousClose	62.8
+open	63.3
+dayLow	62.7
+dayHigh	65.6
+regularMarketPreviousClose	62.8
+regularMarketOpen	63.3
+regularMarketDayLow	62.7
+regularMarketDayHigh	65.6
+dividendRate	2.5
+dividendYield	0.0385
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	1.2821001
+fiveYearAvgDividendYield	4.33
+beta	1.012
+trailingPE	33.333332
+forwardPE	13.978495
+volume	2687465
+regularMarketVolume	2687465
+averageVolume	1693778
+averageVolume10days	2273419
+averageDailyVolume10Day	2273419
+bid	64.9
+ask	65.0
+marketCap	19367659520
+fiftyTwoWeekLow	46.0
+fiftyTwoWeekHigh	65.9
+priceToSalesTrailing12Months	1.5562348
+fiftyDayAverage	59.024
+twoHundredDayAverage	56.739
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.015923567
+currency	TWD
+enterpriseValue	30907217920
+profitMargins	0.0467
+floatShares	248195073
+sharesOutstanding	297964000
+heldPercentInsiders	0.15149
+heldPercentInstitutions	0.19157
+impliedSharesOutstanding	301929984
+bookValue	38.804
+priceToBook	1.675085
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.224
+netIncomeToCommon	581179008
+trailingEps	1.95
+forwardEps	4.65
+pegRatio	6.88
+lastSplitFactor	1.07:1
+lastSplitDate	1346371200	 (2012-08-31 08:00:00)
+enterpriseToRevenue	2.483
+enterpriseToEbitda	13.37
+52WeekChange	0.19047618
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9938.TW
+underlyingSymbol	9938.TW
+shortName	TAIWAN PAIHO
+longName	Taiwan Paiho Limited
+firstTradeDateEpochUtc	979606800	 (2001-01-16 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0dd30bd3-1b5c-3f24-b86c-f531fd8c79ad
+messageBoardId	finmb_9829333
+gmtOffSetMilliseconds	28800000
+currentPrice	65.0
+targetHighPrice	77.0
+targetLowPrice	50.0
+targetMeanPrice	63.5
+targetMedianPrice	63.5
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	3761089024
+totalCashPerShare	12.623
+ebitda	2311621120
+totalDebt	12961717248
+quickRatio	0.601
+currentRatio	1.064
+totalRevenue	12445203456
+debtToEquity	93.242
+revenuePerShare	41.767
+returnOnAssets	0.02066
+returnOnEquity	0.01953
+freeCashflow	-406590016
+operatingCashflow	1363088000
+earningsGrowth	0.246
+revenueGrowth	0.066
+grossMargins	0.30759
+ebitdaMargins	0.18574
+operatingMargins	0.077659994
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -2169200.0    29666284.569099    -6317438.41921    -4581627.292924
+Tax Rate For Calcs                                                    0.2           0.304148          0.337939           0.329093
+Normalized EBITDA                                            2427852000.0       4017848000.0      5464868000.0       4154116000.0
+Total Unusual Items                                           -10846000.0         97539000.0       -18694000.0        -13922000.0
+Total Unusual Items Excluding Goodwill                        -10846000.0         97539000.0       -18694000.0        -13922000.0
+Net Income From Continuing Operation Net Minority Interest    581179000.0       1520410000.0      2059783000.0       1551805000.0
+Reconciled Depreciation                                      1328576000.0       1255001000.0      1281380000.0       1264024000.0
+Reconciled Cost Of Revenue                                   8617228000.0      10679805000.0     11359265000.0       9269352000.0
+EBITDA                                                       2417006000.0       4115387000.0      5446174000.0       4140194000.0
+EBIT                                                         1088430000.0       2860386000.0      4164794000.0       2876170000.0
+Net Interest Income                                          -557662000.0       -242463000.0       -49152000.0       -112437000.0
+Interest Expense                                              617646000.0        289752000.0       137897000.0        192588000.0
+Interest Income                                                59984000.0         47289000.0        88745000.0         80151000.0
+Normalized Income                                             589855800.0  1452537284.569099  2072159561.58079  1561145372.707076
+Net Income From Continuing And Discontinued Operation         581179000.0       1520410000.0      2059783000.0       1551805000.0
+Total Expenses                                              11384559000.0      13653177000.0     14291280000.0      11822323000.0
+Diluted Average Shares                                                NaN        298546000.0       298486000.0        298446000.0
+Basic Average Shares                                                  NaN        297964000.0       297964000.0        297964000.0
+Diluted EPS                                                           NaN               5.09               6.9                5.2
+Basic EPS                                                             NaN                5.1              6.91               5.21
+Diluted NI Availto Com Stockholders                           581179000.0       1520410000.0      2059783000.0       1551805000.0
+Net Income Common Stockholders                                581179000.0       1520410000.0      2059783000.0       1551805000.0
+Otherunder Preferred Stock Dividend                                   0.0                0.0               0.0                0.0
+Net Income                                                    581179000.0       1520410000.0      2059783000.0       1551805000.0
+Minority Interests                                            303983000.0       -268371000.0      -606267000.0       -248630000.0
+Net Income Including Noncontrolling Interests                 277196000.0       1788781000.0      2666050000.0       1800435000.0
+Net Income Continuous Operations                              277196000.0       1788781000.0      2666050000.0       1800435000.0
+Tax Provision                                                 193588000.0        781853000.0      1360847000.0        883147000.0
+Pretax Income                                                 470784000.0       2570634000.0      4026897000.0       2683582000.0
+Other Non Operating Income Expenses                             4547000.0        -13164000.0       115712000.0         69927000.0
+Special Income Charges                                        -10846000.0         97539000.0       -18694000.0        -13922000.0
+Write Off                                                      10846000.0        -97539000.0        18694000.0         13922000.0
+Net Non Operating Interest Income Expense                    -557662000.0       -242463000.0       -49152000.0       -112437000.0
+Interest Expense Non Operating                                617646000.0        289752000.0       137897000.0        192588000.0
+Interest Income Non Operating                                  59984000.0         47289000.0        88745000.0         80151000.0
+Operating Income                                             1060644000.0       2617209000.0      3996506000.0       2822954000.0
+Operating Expense                                            2767331000.0       2973372000.0      2932015000.0       2552971000.0
+Research And Development                                      514007000.0        543759000.0       558247000.0        554562000.0
+Selling General And Administration                           2253324000.0       2429613000.0      2373768000.0       1998409000.0
+Selling And Marketing Expense                                1293282000.0       1449409000.0      1447989000.0       1272576000.0
+General And Administrative Expense                            960042000.0        980204000.0       925779000.0        725833000.0
+Gross Profit                                                 3827975000.0       5590581000.0      6928521000.0       5375925000.0
+Cost Of Revenue                                              8617228000.0      10679805000.0     11359265000.0       9269352000.0
+Total Revenue                                               12445203000.0      16270386000.0     18287786000.0      14645277000.0
+Operating Revenue                                           12445203000.0      16270386000.0     18287786000.0      14645277000.0

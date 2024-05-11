@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	Hsinchu Science Park
+address2	3rd Floor No. 6-8, Duxing Road East District
+city	Hsinchu City
+zip	300
+country	Taiwan
+phone	886 3 5788 618
+fax	886 3 5788 836
+website	https://www.fitipower.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Fitipower Integrated Technology Inc. engages in the research, design, development, production, and sale of display screen integrated circuits (ICs) and power management ICs in Taiwan. It offers LCD driver, LED driver, and E paper display driver ICs; and power management IC products comprising EPD Panel Power, Switching Regulator, motor driver IC, USB power switch IC, reset IC, Li-on charger IC, low dropout regulator, and integrated power management IC products. The company's products are used for various applications consisting of consumer, Internet of Things, automotive, communications, and industrial and commercial markets. Fitipower Integrated Technology Inc. was incorporated in 1995 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yung-Chieh  Lin', 'title': 'Chairperson & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po-Chang  Chen', 'title': 'Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Hui  Chiu', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Hsien  Tsai', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuei-Kai  Chang', 'title': 'Vice General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yi-Hui  Chen', 'title': 'Head of Corporate Governance', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	267.0
+open	268.0
+dayLow	262.5
+dayHigh	269.0
+regularMarketPreviousClose	267.0
+regularMarketOpen	268.0
+regularMarketDayLow	262.5
+regularMarketDayHigh	269.0
+dividendRate	16.58
+dividendYield	0.0621
+exDividendDate	1694044800	 (2023-09-07 08:00:00)
+payoutRatio	1.1723
+fiveYearAvgDividendYield	4.69
+trailingPE	18.869259
+forwardPE	12.225275
+volume	1721098
+regularMarketVolume	1721098
+averageVolume	3619284
+averageVolume10days	2902465
+averageDailyVolume10Day	2902465
+bid	266.0
+ask	267.0
+marketCap	32317413376
+fiftyTwoWeekLow	192.3077
+fiftyTwoWeekHigh	302.0
+priceToSalesTrailing12Months	2.0107138
+fiftyDayAverage	254.74
+twoHundredDayAverage	249.57039
+currency	TWD
+enterpriseValue	23496742912
+profitMargins	0.13152
+floatShares	87285590
+sharesOutstanding	121039000
+heldPercentInsiders	0.27111998
+heldPercentInstitutions	0.09147
+impliedSharesOutstanding	121065000
+bookValue	146.072
+priceToBook	1.8278656
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.086
+netIncomeToCommon	2113924992
+trailingEps	14.15
+forwardEps	21.84
+lastSplitFactor	650:1000
+lastSplitDate	1694044800	 (2023-09-07 08:00:00)
+enterpriseToRevenue	1.462
+enterpriseToEbitda	8.813
+52WeekChange	0.1726352
+SandP52WeekChange	0.26265144
+lastDividendValue	3.5
+lastDividendDate	1694044800	 (2023-09-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4961.TW
+underlyingSymbol	4961.TW
+shortName	FITIPOWER INTEGRATED TECHNOLOGY
+longName	Fitipower Integrated Technology Inc.
+firstTradeDateEpochUtc	1340154000	 (2012-06-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4b0cf98a-6dca-3fc4-abfd-11742a7d04aa
+messageBoardId	finmb_35245975
+gmtOffSetMilliseconds	28800000
+currentPrice	267.0
+targetHighPrice	330.0
+targetLowPrice	330.0
+targetMeanPrice	330.0
+targetMedianPrice	330.0
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	1
+totalCash	12883127296
+totalCashPerShare	106.31
+ebitda	2666216960
+totalDebt	112481000
+quickRatio	4.268
+currentRatio	4.932
+totalRevenue	16072607744
+debtToEquity	0.52
+revenuePerShare	110.443
+returnOnAssets	0.05468
+returnOnEquity	0.11013
+freeCashflow	1446245120
+operatingCashflow	2856827904
+earningsGrowth	-0.087
+revenueGrowth	-0.054
+grossMargins	0.32333001
+ebitdaMargins	0.16589001
+operatingMargins	0.10285
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      47771.774966     1161869.331947    -1083582.151274    1989794.313318
+Tax Rate For Calcs                                                   0.155103           0.173699           0.179401          0.124964
+Normalized EBITDA                                                3339288000.0       4365092000.0       8044214000.0      1007849000.0
+Total Unusual Items                                                  308000.0          6689000.0         -6040000.0        15923000.0
+Total Unusual Items Excluding Goodwill                               308000.0          6689000.0         -6040000.0        15923000.0
+Net Income From Continuing Operation Net Minority Interest       2150213000.0       3070306000.0       5852244000.0       665581000.0
+Reconciled Depreciation                                           535276000.0        392045000.0        239318000.0       180192000.0
+Reconciled Cost Of Revenue                                      11004044000.0      12535400000.0      12204261000.0      8498524000.0
+EBITDA                                                           3339596000.0       4371781000.0       8038174000.0      1023772000.0
+EBIT                                                             2804320000.0       3979736000.0       7798856000.0       843580000.0
+Net Interest Income                                               219909000.0         61081000.0         36457000.0         4010000.0
+Interest Expense                                                    2559000.0         23329000.0         12306000.0         7240000.0
+Interest Income                                                   222468000.0         84410000.0         48763000.0        11250000.0
+Normalized Income                                           2149952771.774966  3064778869.331947  5857200417.848726  651647794.313318
+Net Income From Continuing And Discontinued Operation            2150213000.0       3070306000.0       5852244000.0       665581000.0
+Total Expenses                                                  13940783000.0      15818294000.0      15145081000.0     10102375000.0
+Diluted Average Shares                                            162469000.0        122390000.0        113305400.0       107133650.0
+Basic Average Shares                                              161741000.0        121014000.0        112433100.0       106224950.0
+Diluted EPS                                                             13.23              16.31          51.646154          6.215385
+Basic EPS                                                               13.29              16.49          52.046154          6.261538
+Diluted NI Availto Com Stockholders                              2150213000.0       3070306000.0       5852244000.0       665581000.0
+Net Income Common Stockholders                                   2150213000.0       3070306000.0       5852244000.0       665581000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0               0.0
+Net Income                                                       2150213000.0       3070306000.0       5852244000.0       665581000.0
+Minority Interests                                               -216986000.0       -198879000.0       -537391000.0       -66247000.0
+Net Income Including Noncontrolling Interests                    2367199000.0       3269185000.0       6389635000.0       731828000.0
+Net Income Continuous Operations                                 2367199000.0       3269185000.0       6389635000.0       731828000.0
+Tax Provision                                                     434562000.0        687222000.0       1396915000.0       104512000.0
+Pretax Income                                                    2801761000.0       3956407000.0       7786550000.0       836340000.0
+Other Non Operating Income Expenses                               235807000.0         26506000.0         32976000.0        39082000.0
+Special Income Charges                                               308000.0          6689000.0         -6040000.0        15923000.0
+Write Off                                                           -308000.0         -6689000.0          6040000.0       -15923000.0
+Net Non Operating Interest Income Expense                         219909000.0         61081000.0         36457000.0         4010000.0
+Interest Expense Non Operating                                      2559000.0         23329000.0         12306000.0         7240000.0
+Interest Income Non Operating                                     222468000.0         84410000.0         48763000.0        11250000.0
+Operating Income                                                 2345737000.0       3862131000.0       7723157000.0       777325000.0
+Operating Expense                                                2936739000.0       3282894000.0       2940820000.0      1603851000.0
+Research And Development                                         2245262000.0       2442571000.0       2168797000.0      1146018000.0
+Selling General And Administration                                691477000.0        840323000.0        772023000.0       457833000.0
+Selling And Marketing Expense                                     353227000.0        409600000.0        386959000.0       260681000.0
+General And Administrative Expense                                338250000.0        430723000.0        385064000.0       197152000.0
+Gross Profit                                                     5282476000.0       7145025000.0      10663977000.0      2381176000.0
+Cost Of Revenue                                                 11004044000.0      12535400000.0      12204261000.0      8498524000.0
+Total Revenue                                                   16286520000.0      19680425000.0      22868238000.0     10879700000.0
+Operating Revenue                                               16286520000.0      19680425000.0      22868238000.0     10879700000.0

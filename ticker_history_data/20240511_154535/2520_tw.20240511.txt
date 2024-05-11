@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 131, Heping East Road
+address2	2nd Floor Section 3 Da'an District
+city	Taipei
+zip	106
+country	Taiwan
+phone	886 2 2378 6789
+website	https://www.kindom.com.tw
+industry	Real Estate - Diversified
+industryKey	real-estate-diversified
+industryDisp	Real Estate - Diversified
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Kindom Development Co., Ltd. engages in the real estate development business in Taiwan. It operates through Development, Construction, and Shopping Mall segments. The company develops residential properties; leases and sells commercial buildings; operates department stores and supermarkets; wholesales medical equipment; and offers information software and management consultancy services. It also engages in the installation and engineering of electrical and fire safety equipment; investment and operation of shopping malls; and trading and non-store retailing business. Kindom Development Co., Ltd. was incorporated in 1979 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Chin  Hung', 'title': 'GM of Sales & Marketing Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Si Han  Chen', 'title': 'Acting Vice General Manager & Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-An  Chang', 'title': 'Vice GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Ya  Chen', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ching-Yuan  Lin', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiao-Chiang  Yuan', 'title': 'Information Security Chief Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	57.1
+open	57.8
+dayLow	56.5
+dayHigh	59.8
+regularMarketPreviousClose	57.1
+regularMarketOpen	57.8
+regularMarketDayLow	56.5
+regularMarketDayHigh	59.8
+dividendRate	1.75
+dividendYield	0.0308
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.35709998
+fiveYearAvgDividendYield	5.37
+beta	0.461
+trailingPE	11.588595
+forwardPE	11.222879
+volume	23123820
+regularMarketVolume	23123820
+averageVolume	10456599
+averageVolume10days	27984150
+averageDailyVolume10Day	27984150
+bid	56.9
+ask	57.0
+marketCap	31475372032
+fiftyTwoWeekLow	28.5
+fiftyTwoWeekHigh	63.9
+priceToSalesTrailing12Months	1.6188952
+fiftyDayAverage	45.365
+twoHundredDayAverage	38.163
+trailingAnnualDividendRate	1.8
+trailingAnnualDividendYield	0.03152364
+currency	TWD
+enterpriseValue	41700618240
+profitMargins	0.12319
+floatShares	353278664
+sharesOutstanding	553169984
+heldPercentInsiders	0.42143002
+heldPercentInstitutions	0.08106
+impliedSharesOutstanding	569334016
+bookValue	36.797
+priceToBook	1.5463217
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.292
+netIncomeToCommon	2395148032
+trailingEps	4.91
+forwardEps	5.07
+lastSplitFactor	1100:1000
+lastSplitDate	1628467200	 (2021-08-09 08:00:00)
+enterpriseToRevenue	2.145
+enterpriseToEbitda	10.034
+52WeekChange	0.94529915
+SandP52WeekChange	0.26265144
+lastDividendValue	1.753164
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2520.TW
+underlyingSymbol	2520.TW
+shortName	KINDOM DEVELOPMENT CO LTD
+longName	Kindom Development Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6d13bd8b-bf12-3756-ad5d-33315f2b8cae
+messageBoardId	finmb_6489508
+gmtOffSetMilliseconds	28800000
+currentPrice	56.9
+recommendationMean	1.0
+recommendationKey	strong_buy
+totalCash	15037263872
+totalCashPerShare	27.72
+ebitda	4156122112
+totalDebt	22492289024
+quickRatio	0.678
+currentRatio	1.649
+totalRevenue	19442501632
+debtToEquity	96.367
+revenuePerShare	35.906
+returnOnAssets	0.043330003
+returnOnEquity	0.13662
+freeCashflow	343885120
+operatingCashflow	1909299968
+earningsGrowth	0.287
+revenueGrowth	-0.25
+grossMargins	0.30199
+ebitdaMargins	0.21375999
+operatingMargins	0.24574
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                     -48235.98716      258198.661844    -2332730.645194            0.0
+Tax Rate For Calcs                                                  0.198502           0.184956           0.181042       0.201207
+Normalized EBITDA                                               4564398000.0       4568627000.0       5740737000.0   5662509000.0
+Total Unusual Items                                                -243000.0          1396000.0        -12885000.0            0.0
+Total Unusual Items Excluding Goodwill                             -243000.0          1396000.0        -12885000.0            0.0
+Net Income From Continuing Operation Net Minority Interest      2395148000.0       2333896000.0       3508103000.0   3353971000.0
+Reconciled Depreciation                                          468930000.0        427246000.0        434049000.0    406914000.0
+Reconciled Cost Of Revenue                                     13571128000.0      15582332000.0      18173783000.0  20234794000.0
+EBITDA                                                          4564155000.0       4570023000.0       5727852000.0   5662509000.0
+EBIT                                                            4095225000.0       4142777000.0       5293803000.0   5255595000.0
+Net Interest Income                                             -120971000.0       -231044000.0       -289681000.0   -345760000.0
+Interest Expense                                                 268110000.0        302865000.0        315117000.0    366796000.0
+Interest Income                                                  147139000.0         71821000.0         25436000.0     21036000.0
+Normalized Income                                           2395342764.01284  2332758198.661844  3518655269.354806   3353971000.0
+Net Income From Continuing And Discontinued Operation           2395148000.0       2333896000.0       3508103000.0   3353971000.0
+Total Expenses                                                 15510023000.0      17479114000.0      20013856000.0  22176573000.0
+Diluted Average Shares                                                   NaN        543883000.0        544353000.0    544976000.0
+Basic Average Shares                                                     NaN        542098000.0        542479000.0    542479000.0
+Diluted EPS                                                              NaN               4.29               6.44           6.15
+Basic EPS                                                                NaN               4.31               6.47           6.18
+Diluted NI Availto Com Stockholders                             2395148000.0       2333896000.0       3508103000.0   3353971000.0
+Net Income Common Stockholders                                  2395148000.0       2333896000.0       3508103000.0   3353971000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0            0.0
+Net Income                                                      2395148000.0       2333896000.0       3508103000.0   3353971000.0
+Minority Interests                                              -672277000.0       -795801000.0       -569230000.0   -551166000.0
+Net Income Including Noncontrolling Interests                   3067425000.0       3129697000.0       4077333000.0   3905137000.0
+Net Income Continuous Operations                                3067425000.0       3129697000.0       4077333000.0   3905137000.0
+Tax Provision                                                    759690000.0        710215000.0        901353000.0    983662000.0
+Pretax Income                                                   3827115000.0       3839912000.0       4978686000.0   4888799000.0
+Other Non Operating Income Expenses                                6830000.0         41574000.0        109357000.0     65726000.0
+Special Income Charges                                             -243000.0          1396000.0        -12885000.0            0.0
+Write Off                                                           243000.0         -1396000.0         12885000.0            0.0
+Net Non Operating Interest Income Expense                       -120971000.0       -231044000.0       -289681000.0   -345760000.0
+Interest Expense Non Operating                                   268110000.0        302865000.0        315117000.0    366796000.0
+Interest Income Non Operating                                    147139000.0         71821000.0         25436000.0     21036000.0
+Operating Income                                                3932478000.0       4026988000.0       5177282000.0   5168832000.0
+Operating Expense                                               1938895000.0       1896782000.0       1840073000.0   1941779000.0
+Selling General And Administration                              1938895000.0       1896782000.0       1840073000.0   1941779000.0
+Selling And Marketing Expense                                    163646000.0        219758000.0        255126000.0    425871000.0
+General And Administrative Expense                              1775249000.0       1677024000.0       1584947000.0   1515908000.0
+Gross Profit                                                    5871373000.0       5923770000.0       7017355000.0   7110611000.0
+Cost Of Revenue                                                13571128000.0      15582332000.0      18173783000.0  20234794000.0
+Total Revenue                                                  19442501000.0      21506102000.0      25191138000.0  27345405000.0
+Operating Revenue                                              19442501000.0      21506102000.0      25191138000.0  27345405000.0

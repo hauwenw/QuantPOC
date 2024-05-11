@@ -1,0 +1,165 @@
+=== Ticker Info ===
+address1	No. 10, Jill Road
+address2	Zhongli District
+city	Taoyuan City
+zip	32063
+country	Taiwan
+phone	886 3 452 6111
+fax	886 3 451 2833
+website	https://www.fortune.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Fortune Electric Co., Ltd. develops power transmission, distribution, energy storage, and self-operated charging stations Taiwan. It offers power, distribution, cast resin, and amorphous metal core transformers; and metal-clad switchgears, gas insulated switches, switchgear panels, motor control centers, and transmission and distribution apparatus. The company was incorporated in 1969 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. I-Sheng  Hsu', 'title': 'CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. H. L. Hsu', 'title': 'Founder', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. I-Yang  Hsu', 'title': 'Head of Management, Head of Corporate Governance & Finance Division and Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsu-Lan  Chiu', 'title': 'Account Head, Accounting Supervisor & Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hsiao-Li  Lee', 'title': 'Head of Technology Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng-Chin  Lin', 'title': 'Head of Information Center Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. I-Te  Hsu', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Ming  Sun', 'title': 'Head of Procurement Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Meng-Yueh  Chen', 'title': 'Head of Domestic Business Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Chen  Ku', 'title': 'Head of Electrical Engineering Division', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	835.0
+open	838.0
+dayLow	798.0
+dayHigh	848.0
+regularMarketPreviousClose	835.0
+regularMarketOpen	838.0
+regularMarketDayLow	798.0
+regularMarketDayHigh	848.0
+dividendRate	2.5
+dividendYield	0.0031
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.2538
+fiveYearAvgDividendYield	1.9
+beta	0.696
+trailingPE	81.26273
+forwardPE	28.8399
+volume	8196268
+regularMarketVolume	8196268
+averageVolume	7647084
+averageVolume10days	9324119
+averageDailyVolume10Day	9324119
+bid	800.0
+ask	800.0
+marketCap	208325083136
+fiftyTwoWeekLow	99.9
+fiftyTwoWeekHigh	988.0
+priceToSalesTrailing12Months	14.987697
+fiftyDayAverage	742.68
+twoHundredDayAverage	419.6025
+trailingAnnualDividendRate	6.0
+trailingAnnualDividendYield	0.0071856286
+currency	TWD
+enterpriseValue	207125823488
+profitMargins	0.18541999
+floatShares	120055813
+sharesOutstanding	261059008
+heldPercentInsiders	0.49293
+heldPercentInstitutions	0.091730006
+impliedSharesOutstanding	267938000
+bookValue	23.085
+priceToBook	34.5679
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.334
+netIncomeToCommon	2577260032
+trailingEps	9.82
+forwardEps	27.67
+lastSplitFactor	1050:1000
+lastSplitDate	1283472000	 (2010-09-03 08:00:00)
+enterpriseToRevenue	14.901
+enterpriseToEbitda	69.577
+52WeekChange	6.6
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1519.TW
+underlyingSymbol	1519.TW
+shortName	FORTUNE ELECTRIC CO LTD
+longName	Fortune Electric Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	257c0020-3d5c-3445-9a90-279d3bcc4392
+messageBoardId	finmb_9917173
+gmtOffSetMilliseconds	28800000
+currentPrice	798.0
+targetHighPrice	1200.0
+targetLowPrice	850.0
+targetMeanPrice	1037.5
+targetMedianPrice	1050.0
+recommendationMean	1.4
+recommendationKey	strong_buy
+numberOfAnalystOpinions	4
+totalCash	1938256000
+totalCashPerShare	7.425
+ebitda	2976932096
+totalDebt	632902976
+quickRatio	0.737
+currentRatio	1.432
+totalRevenue	13899740160
+debtToEquity	10.32
+revenuePerShare	53.244
+returnOnAssets	0.13237001
+returnOnEquity	0.49275002
+freeCashflow	3423327488
+operatingCashflow	4281299968
+earningsGrowth	1.353
+revenueGrowth	1.105
+grossMargins	0.31181
+ebitdaMargins	0.21417
+operatingMargins	0.22
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    2783294.386865    2728886.723241   -1874000.281488   -1992601.243119
+Tax Rate For Calcs                                                   0.166107          0.134216          0.214245          0.166064
+Normalized EBITDA                                                3277034000.0      1126356000.0       545165000.0       717801000.0
+Total Unusual Items                                                16756000.0        20332000.0        -8747000.0       -11999000.0
+Total Unusual Items Excluding Goodwill                             16756000.0        20332000.0        -8747000.0       -11999000.0
+Net Income From Continuing Operation Net Minority Interest       2577260000.0       838249000.0       289883000.0       457514000.0
+Reconciled Depreciation                                           172425000.0       149997000.0       139919000.0       130205000.0
+Reconciled Cost Of Revenue                                       9565721000.0      6163119000.0      7613188000.0      7117542000.0
+EBITDA                                                           3293790000.0      1146688000.0       536418000.0       705802000.0
+EBIT                                                             3121365000.0       996691000.0       396499000.0       575597000.0
+Net Interest Income                                               -22450000.0       -38692000.0       -29239000.0       -26585000.0
+Interest Expense                                                   49285000.0        46911000.0        30586000.0        26977000.0
+Interest Income                                                    26835000.0         8219000.0         1347000.0          392000.0
+Normalized Income                                           2563287294.386865  820645886.723241  296755999.718512  467520398.756881
+Net Income From Continuing And Discontinued Operation            2577260000.0       838249000.0       289883000.0       457514000.0
+Total Expenses                                                  11062303000.0      7345326000.0      8619381000.0      7985500000.0
+Diluted Average Shares                                                    NaN       262199000.0       262199000.0       261751000.0
+Basic Average Shares                                                      NaN       261059000.0       261059000.0       261059000.0
+Diluted EPS                                                               NaN               3.2              1.11              1.75
+Basic EPS                                                                 NaN              3.21              1.11              1.75
+Diluted NI Availto Com Stockholders                              2577260000.0       838249000.0       289883000.0       457514000.0
+Net Income Common Stockholders                                   2577260000.0       838249000.0       289883000.0       457514000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0               0.0               0.0
+Net Income                                                       2577260000.0       838249000.0       289883000.0       457514000.0
+Minority Interests                                                 15475000.0        15945000.0         2365000.0               0.0
+Net Income Including Noncontrolling Interests                    2561785000.0       822304000.0       287518000.0       457514000.0
+Net Income Continuous Operations                                 2561785000.0       822304000.0       287518000.0       457514000.0
+Tax Provision                                                     510295000.0       127476000.0        78395000.0        91106000.0
+Pretax Income                                                    3072080000.0       949780000.0       365913000.0       548620000.0
+Other Non Operating Income Expenses                               214388000.0       514130000.0         1753000.0       101490000.0
+Special Income Charges                                             15709000.0        20276000.0        -8747000.0       -11999000.0
+Other Special Charges                                                436000.0         3550000.0               NaN               NaN
+Write Off                                                         -16145000.0       -23826000.0         8747000.0        11999000.0
+Restructuring And Mergern Acquisition                                     NaN               NaN               NaN               0.0
+Net Non Operating Interest Income Expense                         -22450000.0       -38692000.0       -29239000.0       -26585000.0
+Interest Expense Non Operating                                     49285000.0        46911000.0        30586000.0        26977000.0
+Interest Income Non Operating                                      26835000.0         8219000.0         1347000.0          392000.0
+Operating Income                                                 2837437000.0       405401000.0       400713000.0       486092000.0
+Operating Expense                                                1496582000.0      1182207000.0      1006193000.0       867958000.0
+Research And Development                                          214461000.0       148317000.0       127873000.0       127381000.0
+Selling General And Administration                               1282121000.0      1033890000.0       878320000.0       740577000.0
+Selling And Marketing Expense                                     800760000.0       766511000.0       655262000.0       560598000.0
+General And Administrative Expense                                481361000.0       267379000.0       223058000.0       179979000.0
+Gross Profit                                                     4334019000.0      1587608000.0      1406906000.0      1354050000.0
+Cost Of Revenue                                                  9565721000.0      6163119000.0      7613188000.0      7117542000.0
+Total Revenue                                                   13899740000.0      7750727000.0      9020094000.0      8471592000.0
+Operating Revenue                                               13899740000.0      7750727000.0      9020094000.0      8471592000.0

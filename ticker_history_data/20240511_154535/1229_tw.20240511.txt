@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 44, Chengde Road
+address2	6th floor Section 1 Datong District
+city	Taipei
+zip	103
+country	Taiwan
+phone	886 2 2786 1188
+fax	886 2 2786 3232
+website	https://www.lhicholdings.com
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Lien Hwa Industrial Holdings Corporation, together with its subsidiaries produces and sells flour products. It operates through five segments: Rental Business, Noodle Business, Noodle Business Overseas, Administrative Resource Center, and System Integration Service business. The company engages in the real property rental and provision of development services; manufacturing and sale of various noodles and processed foods; and investments management and other electronic businesses. It also offers system integration services, automatic systems, and applied software design solutions, as well as sells industrial computers. In addition, the company is involved in the rental and leasing business; flour production and sale; wholesaling and retailing business; restaurant business; business management and business information consulting activities; rental, sale, and maintenance of telephone switching systems and data communication products; contracting of communication system projects; semiconductor facility monitoring and control system engineering; network communication system engineering; railway E and M system engineering; environmental protection solutions engineering; and research and development of radio frequency identification technology. Further, it provides consulting for and development of libraries and information systems; and software research and development, and software design services. The company serves distributors, chained stores, and food companies. The company was founded in 1951 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Feng-Chiang  Miau', 'age': 76, 'title': 'Chairman of the Board & CSO', 'yearBorn': 1947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Roger  Lin', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Feng-Sheng  Miao', 'title': 'Vice Chairman & Vice CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Chris  Yen', 'title': 'CFO & Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jessie  Chen', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joseph  Miau', 'title': 'Chief Information Security Officer, Administration & MIS Center Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tsao-Hua  Hsu', 'title': 'Chief of Staff', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	67.4
+open	67.3
+dayLow	67.0
+dayHigh	67.7
+regularMarketPreviousClose	67.4
+regularMarketOpen	67.3
+regularMarketDayLow	67.0
+regularMarketDayHigh	67.7
+dividendRate	1.3
+dividendYield	0.019299999
+exDividendDate	1690329600	 (2023-07-26 08:00:00)
+payoutRatio	0.5143
+fiveYearAvgDividendYield	3.88
+beta	0.424
+trailingPE	26.640318
+forwardPE	23.003412
+volume	616715
+regularMarketVolume	616715
+averageVolume	1042962
+averageVolume10days	681921
+averageDailyVolume10Day	681921
+bid	67.4
+ask	67.6
+marketCap	106314063872
+fiftyTwoWeekLow	55.42056
+fiftyTwoWeekHigh	69.7
+priceToSalesTrailing12Months	7.818094
+fiftyDayAverage	67.022
+twoHundredDayAverage	64.525
+trailingAnnualDividendRate	1.3
+trailingAnnualDividendYield	0.019287832
+currency	TWD
+enterpriseValue	133487263744
+profitMargins	0.30578
+floatShares	907658308
+sharesOutstanding	1577360000
+heldPercentInsiders	0.45416
+heldPercentInstitutions	0.054770004
+impliedSharesOutstanding	1579699968
+bookValue	28.912
+priceToBook	2.331212
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.275
+netIncomeToCommon	4158205952
+trailingEps	2.53
+forwardEps	2.93
+lastSplitFactor	1070:1000
+lastSplitDate	1690329600	 (2023-07-26 08:00:00)
+enterpriseToRevenue	9.816
+enterpriseToEbitda	89.895
+52WeekChange	0.18420362
+SandP52WeekChange	0.26265144
+lastDividendValue	1.3
+lastDividendDate	1690329600	 (2023-07-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1229.TW
+underlyingSymbol	1229.TW
+shortName	LIEN HWA INDUSTRIAL HOLDINGS CO
+longName	Lien Hwa Industrial Holdings Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	51a624ea-6a79-3216-98e9-662160949a17
+messageBoardId	finmb_9846046
+gmtOffSetMilliseconds	28800000
+currentPrice	67.4
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	6077770240
+totalCashPerShare	3.853
+ebitda	1484930048
+totalDebt	13488845824
+quickRatio	0.977
+currentRatio	1.121
+totalRevenue	13598464000
+debtToEquity	20.635
+revenuePerShare	8.621
+returnOnAssets	0.00942
+returnOnEquity	0.0804
+freeCashflow	1028349888
+operatingCashflow	3539921920
+earningsGrowth	0.293
+revenueGrowth	0.4
+grossMargins	0.18265
+ebitdaMargins	0.1092
+operatingMargins	0.029790001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -160802.112384       17251.21429     -143330.166897
+Tax Rate For Calcs                                                   0.016748           0.01564           0.036592
+Normalized EBITDA                                                5468013000.0      5260270000.0       4027240000.0
+Total Unusual Items                                                -9601000.0         1103000.0         -3917000.0
+Total Unusual Items Excluding Goodwill                             -9601000.0         1103000.0         -3917000.0
+Net Income From Continuing Operation Net Minority Interest       3871653000.0      4089143000.0       3098730000.0
+Reconciled Depreciation                                           389578000.0       353340000.0        325312000.0
+Reconciled Cost Of Revenue                                       9634282000.0      8801727000.0       7507842000.0
+EBITDA                                                           5458412000.0      5261373000.0       4023323000.0
+EBIT                                                             5068834000.0      4908033000.0       3698011000.0
+Net Interest Income                                              -125089000.0       -76215000.0        -50090000.0
+Interest Expense                                                  147192000.0        88550000.0         65642000.0
+Interest Income                                                    22103000.0        12335000.0         15552000.0
+Normalized Income                                           3881093197.887616  4088057251.21429  3102503669.833103
+Net Income From Continuing And Discontinued Operation            3871653000.0      4089143000.0       3098730000.0
+Total Expenses                                                  10762812000.0      9880048000.0       8490182000.0
+Diluted Average Shares                                           1577451780.0      1575301080.0       1575318895.0
+Basic Average Shares                                             1577355480.0      1575213340.0       1575213286.0
+Diluted EPS                                                          2.457944          2.598131           1.967067
+Basic EPS                                                            2.457944          2.598131           1.967067
+Diluted NI Availto Com Stockholders                              3871653000.0      4089143000.0       3098730000.0
+Net Income Common Stockholders                                   3871653000.0      4089143000.0       3098730000.0
+Otherunder Preferred Stock Dividend                                       0.0               0.0                0.0
+Net Income                                                       3871653000.0      4089143000.0       3098730000.0
+Minority Interests                                               -967559000.0      -654962000.0       -400724000.0
+Net Income Including Noncontrolling Interests                    4839212000.0      4744105000.0       3499454000.0
+Net Income Continuous Operations                                 4839212000.0      4744105000.0       3499454000.0
+Tax Provision                                                      82430000.0        75378000.0        132915000.0
+Pretax Income                                                    4921642000.0      4819483000.0       3632369000.0
+Other Non Operating Income Expenses                               550993000.0       377005000.0        265051000.0
+Special Income Charges                                             -9601000.0         1103000.0         -3917000.0
+Write Off                                                           9601000.0        -1103000.0          3917000.0
+Net Non Operating Interest Income Expense                        -125089000.0       -76215000.0        -50090000.0
+Interest Expense Non Operating                                    147192000.0        88550000.0         65642000.0
+Interest Income Non Operating                                      22103000.0        12335000.0         15552000.0
+Operating Income                                                 1563553000.0      1442766000.0       1053979000.0
+Operating Expense                                                1128530000.0      1078321000.0        982340000.0
+Research And Development                                           47652000.0        47791000.0         39745000.0
+Selling General And Administration                               1080878000.0      1030530000.0        942595000.0
+Selling And Marketing Expense                                     632553000.0       618908000.0        542076000.0
+General And Administrative Expense                                448325000.0       411622000.0        400519000.0
+Gross Profit                                                     2692083000.0      2521087000.0       2036319000.0
+Cost Of Revenue                                                  9634282000.0      8801727000.0       7507842000.0
+Total Revenue                                                   12326365000.0     11322814000.0       9544161000.0
+Operating Revenue                                               12326365000.0     11322814000.0       9544161000.0

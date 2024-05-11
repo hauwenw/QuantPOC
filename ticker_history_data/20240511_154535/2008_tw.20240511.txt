@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 318, Zhonghua 1st Road
+address2	Gushan District
+city	Kaohsiung
+zip	804
+country	Taiwan
+phone	886 7 555 6111
+fax	886 7 552 5323
+website	https://www.khc.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Kao Hsing Chang Iron & Steel Corp. produces and sells steel pipes and plates, and tin plates in Taiwan. It offers cold and hot rolled and coated steel coils. The company also engages in metal building structures, components manufacturing, leasing, parking lot management, and other wholesale business activities. The company was founded in 1966 and is based in Kaohsiung City, Taiwan.
+fullTimeEmployees	219
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Lu Rong Feng  Sheng', 'title': 'GM & Representative Director', 'fiscalYear': 2021, 'totalPay': 2911000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Mei  Chao', 'title': 'Manager of Finance & Accounting Department', 'fiscalYear': 2021, 'totalPay': 878000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tzu-Hui  Lin', 'title': 'Chief Corporate Governance Officer & Representative Director', 'fiscalYear': 2021, 'totalPay': 1389000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	28.15
+open	27.75
+dayLow	25.4
+dayHigh	28.7
+regularMarketPreviousClose	28.15
+regularMarketOpen	27.75
+regularMarketDayLow	25.4
+regularMarketDayHigh	28.7
+dividendRate	0.53
+dividendYield	0.0207
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.2349
+beta	0.427
+trailingPE	11.361608
+volume	2447715
+regularMarketVolume	2447715
+averageVolume	209875
+averageVolume10days	964660
+averageDailyVolume10Day	964660
+bid	25.45
+ask	25.65
+marketCap	4857183744
+fiftyTwoWeekLow	19.15
+fiftyTwoWeekHigh	28.7
+priceToSalesTrailing12Months	3.326166
+fiftyDayAverage	22.976
+twoHundredDayAverage	21.57575
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.03552398
+currency	TWD
+enterpriseValue	7333670912
+profitMargins	0.29639998
+sharesOutstanding	190852000
+heldPercentInsiders	0.77254
+impliedSharesOutstanding	190852000
+bookValue	18.064
+priceToBook	1.4088796
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	432836000
+trailingEps	2.24
+lastSplitFactor	0.65:1
+lastSplitDate	1386892800	 (2013-12-13 08:00:00)
+enterpriseToRevenue	5.022
+enterpriseToEbitda	51.281
+52WeekChange	0.2886076
+SandP52WeekChange	0.26265144
+lastDividendValue	0.526198
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2008.TW
+underlyingSymbol	2008.TW
+shortName	KAO HSIUNG CHANG IRON & STEEL C
+longName	Kao Hsing Chang Iron & Steel Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	68db8939-334e-37e0-b8b0-183210c9f5c0
+messageBoardId	finmb_9776630
+gmtOffSetMilliseconds	28800000
+currentPrice	25.45
+recommendationKey	none
+totalCash	1261837056
+totalCashPerShare	6.612
+ebitda	143009728
+totalDebt	3738317056
+quickRatio	0.749
+currentRatio	1.148
+totalRevenue	1460295040
+debtToEquity	108.432
+revenuePerShare	7.555
+returnOnAssets	0.00749
+returnOnEquity	0.13821
+freeCashflow	125597376
+operatingCashflow	109610000
+revenueGrowth	-0.405
+grossMargins	0.13801
+ebitdaMargins	0.09793
+operatingMargins	0.077259995
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   65900000.0     -55023.043016           0.0           0.0
+Tax Rate For Calcs                                                   0.2          0.061685      0.326871           0.2
+Normalized EBITDA                                            228989000.0       254212000.0   173407000.0    65651000.0
+Total Unusual Items                                          329500000.0         -892000.0           NaN           NaN
+Total Unusual Items Excluding Goodwill                       329500000.0         -892000.0           NaN           NaN
+Net Income From Continuing Operation Net Minority Interest   432836000.0       112184000.0    42117000.0   -32794000.0
+Reconciled Depreciation                                       57655000.0        55772000.0    54485000.0    55546000.0
+Reconciled Cost Of Revenue                                  1258760000.0      1888923000.0  1356051000.0   940489000.0
+EBITDA                                                       558489000.0       253320000.0   173407000.0    65651000.0
+EBIT                                                         500834000.0       197548000.0   118922000.0    10105000.0
+Net Interest Income                                          -85462000.0       -77360000.0   -56248000.0   -41056000.0
+Interest Expense                                              88662000.0        77989000.0    56353000.0    41190000.0
+Interest Income                                                3200000.0          629000.0      105000.0      134000.0
+Normalized Income                                            169236000.0  113020976.956984    42117000.0   -32794000.0
+Net Income From Continuing And Discontinued Operation        432836000.0       112184000.0    42117000.0   -32794000.0
+Total Expenses                                              1371650000.0      2077580000.0  1453662000.0  1031132000.0
+Diluted Average Shares                                               NaN       200890568.0   200868734.0   200852293.0
+Basic Average Shares                                                 NaN       200852293.0   200852293.0   200852293.0
+Diluted EPS                                                          NaN              0.56          0.21         -0.16
+Basic EPS                                                            NaN              0.56          0.21         -0.16
+Diluted NI Availto Com Stockholders                          432836000.0       112184000.0    42117000.0   -32794000.0
+Net Income Common Stockholders                               432836000.0       112184000.0    42117000.0   -32794000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0           0.0           0.0
+Net Income                                                   432836000.0       112184000.0    42117000.0   -32794000.0
+Net Income Including Noncontrolling Interests                432836000.0       112184000.0    42117000.0   -32794000.0
+Net Income Continuous Operations                             432836000.0       112184000.0    42117000.0   -32794000.0
+Tax Provision                                                -20664000.0         7375000.0    20452000.0     1709000.0
+Pretax Income                                                412172000.0       119559000.0    62569000.0   -31085000.0
+Other Non Operating Income Expenses                           64176000.0        49288000.0    13432000.0    79331000.0
+Special Income Charges                                       329500000.0         -892000.0           NaN           NaN
+Other Special Charges                                       -329500000.0          892000.0           NaN           NaN
+Net Non Operating Interest Income Expense                    -85462000.0       -77360000.0   -56248000.0   -41056000.0
+Interest Expense Non Operating                                88662000.0        77989000.0    56353000.0    41190000.0
+Interest Income Non Operating                                  3200000.0          629000.0      105000.0      134000.0
+Operating Income                                              88645000.0       138474000.0    96962000.0   -68622000.0
+Operating Expense                                            112890000.0       188657000.0    97611000.0    90643000.0
+Selling General And Administration                           112890000.0       188657000.0    97611000.0    90643000.0
+Selling And Marketing Expense                                 35144000.0       120872000.0    33868000.0    25679000.0
+General And Administrative Expense                            77746000.0        67785000.0    63743000.0    64964000.0
+Gross Profit                                                 201535000.0       327131000.0   194573000.0    22021000.0
+Cost Of Revenue                                             1258760000.0      1888923000.0  1356051000.0   940489000.0
+Total Revenue                                               1460295000.0      2216054000.0  1550624000.0   962510000.0
+Operating Revenue                                           1460295000.0      2216054000.0  1550624000.0   962510000.0

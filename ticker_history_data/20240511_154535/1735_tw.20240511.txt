@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	NAN-GANG Industrial Park
+address2	No.7, Gongye South 2nd Road
+city	Nantou City
+zip	54066
+country	Taiwan
+phone	886 4 9225 5356
+fax	886 4 9225 5358
+website	https://www.twemc.com
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Evermore Chemical Industry Co., Ltd. produces and sells synthetic leather resin in China, Taiwan, and internationally. The company offers solvent based PU resin, thermoplastic PU components, PU adhesives, aqueous based PU dispersion, polyurethane system polyester, poly isocyanates cross-linking agent hardners, polyester polyol, and UV monomer/oligomer, as well as synthetic chemistry. It also involved in the investment related business. The company serves various industries, such as footwear, synthetic leather, optical electronics, textiles, adhesives, coating, paints and ink, tube and hose, optical glass, etc. Evermore Chemical Industry Co., Ltd. was incorporated in 1989 and is based in Nantou City, Taiwan. Evermore Chemical Industry Co., Ltd. is a subsidiary of Aica Kogyo Company, Limited.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chng-Tze  Huang', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pao Hua  Wu', 'title': 'Assistant VP of Administration Department & Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Hsiang-Li  Chen', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	17.3
+open	17.25
+dayLow	17.2
+dayHigh	17.4
+regularMarketPreviousClose	17.3
+regularMarketOpen	17.25
+regularMarketDayLow	17.2
+regularMarketDayHigh	17.4
+dividendRate	0.5
+dividendYield	0.028900001
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.6667
+fiveYearAvgDividendYield	2.77
+beta	0.217
+trailingPE	23.066666
+forwardPE	20.116278
+volume	19906
+regularMarketVolume	19906
+averageVolume	29793
+averageVolume10days	14629
+averageDailyVolume10Day	14629
+bid	17.25
+ask	17.3
+marketCap	1719412352
+fiftyTwoWeekLow	15.95
+fiftyTwoWeekHigh	18.75
+priceToSalesTrailing12Months	0.72625285
+fiftyDayAverage	17.2
+twoHundredDayAverage	17.0455
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.028901735
+currency	TWD
+enterpriseValue	2685882368
+profitMargins	0.031770002
+sharesOutstanding	99388000
+heldPercentInsiders	0.79802
+impliedSharesOutstanding	100247000
+bookValue	15.069
+priceToBook	1.1480522
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.051
+netIncomeToCommon	75215000
+trailingEps	0.75
+forwardEps	0.86
+lastSplitFactor	104:100
+lastSplitDate	1216857600	 (2008-07-24 08:00:00)
+enterpriseToRevenue	1.134
+enterpriseToEbitda	14.01
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1735.TW
+underlyingSymbol	1735.TW
+shortName	EVERMORE CHEMICAL INDUSRY CO
+longName	Evermore Chemical Industry Co., Ltd.
+firstTradeDateEpochUtc	1030410000	 (2002-08-27 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b157771e-39ad-367c-a440-28f16b357173
+messageBoardId	finmb_9777556
+gmtOffSetMilliseconds	28800000
+currentPrice	17.3
+recommendationKey	none
+totalCash	372784000
+totalCashPerShare	3.751
+ebitda	191704992
+totalDebt	1339254016
+quickRatio	0.679
+currentRatio	1.127
+totalRevenue	2367512064
+debtToEquity	89.423
+revenuePerShare	23.821
+returnOnAssets	0.01711
+returnOnEquity	0.05026
+freeCashflow	352079488
+operatingCashflow	456880992
+earningsGrowth	0.047
+revenueGrowth	-0.019
+grossMargins	0.18579
+ebitdaMargins	0.080970004
+operatingMargins	0.05988
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31    2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                  4228830.157541  -2132109.203646    -6260400.0    998162.40462
+Tax Rate For Calcs                                                  0.18336         0.185369           0.2        0.046066
+Normalized EBITDA                                               204317000.0      187326000.0   156779000.0     172397000.0
+Total Unusual Items                                              23063000.0      -11502000.0   -31302000.0      21668000.0
+Total Unusual Items Excluding Goodwill                           23063000.0      -11502000.0   -31302000.0      21668000.0
+Net Income From Continuing Operation Net Minority Interest       75215000.0       35210000.0    10057000.0      74010000.0
+Reconciled Depreciation                                         110322000.0      105825000.0   101700000.0     104808000.0
+Reconciled Cost Of Revenue                                     1927663000.0     2571177000.0  2767913000.0    1906186000.0
+EBITDA                                                          227380000.0      175824000.0   125477000.0     194065000.0
+EBIT                                                            117058000.0       69999000.0    23777000.0      89257000.0
+Net Interest Income                                             -17922000.0      -25220000.0   -16571000.0     -11117000.0
+Interest Expense                                                 24955000.0       26777000.0    17369000.0      11673000.0
+Interest Income                                                   7033000.0        1557000.0      798000.0        556000.0
+Normalized Income                                           56380830.157541  44579890.796354    35098600.0  53340162.40462
+Net Income From Continuing And Discontinued Operation            75215000.0       35210000.0    10057000.0      74010000.0
+Total Expenses                                                 2298851000.0     2949525000.0  3138515000.0    2247593000.0
+Diluted Average Shares                                                  NaN       99546000.0    99444000.0      99705000.0
+Basic Average Shares                                                    NaN       99388000.0    99388000.0      99388000.0
+Diluted EPS                                                             NaN             0.35           0.1            0.74
+Basic EPS                                                               NaN             0.35           0.1            0.74
+Diluted NI Availto Com Stockholders                              75215000.0       35210000.0    10057000.0      74010000.0
+Net Income Common Stockholders                                   75215000.0       35210000.0    10057000.0      74010000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0           0.0             0.0
+Net Income                                                       75215000.0       35210000.0    10057000.0      74010000.0
+Minority Interests                                                      NaN              NaN           0.0             0.0
+Net Income Including Noncontrolling Interests                    75215000.0       35210000.0    10057000.0      74010000.0
+Net Income Continuous Operations                                 75215000.0       35210000.0    10057000.0      74010000.0
+Tax Provision                                                    16888000.0        8012000.0    -3649000.0       3574000.0
+Pretax Income                                                    92103000.0       43222000.0     6408000.0      77584000.0
+Other Non Operating Income Expenses                              10502000.0       32273000.0     7954000.0     -18016000.0
+Special Income Charges                                           23063000.0      -11502000.0   -31302000.0      21668000.0
+Other Special Charges                                             -189000.0         543000.0           NaN             NaN
+Write Off                                                       -22874000.0       10959000.0    31302000.0     -21668000.0
+Net Non Operating Interest Income Expense                       -17922000.0      -25220000.0   -16571000.0     -11117000.0
+Interest Expense Non Operating                                   24955000.0       26777000.0    17369000.0      11673000.0
+Interest Income Non Operating                                     7033000.0        1557000.0      798000.0        556000.0
+Operating Income                                                 68661000.0        7666000.0    62591000.0     115822000.0
+Operating Expense                                               371188000.0      378348000.0   370602000.0     341407000.0
+Research And Development                                         64164000.0       71174000.0    70427000.0      70287000.0
+Selling General And Administration                              307024000.0      307174000.0   300175000.0     271120000.0
+Selling And Marketing Expense                                   138123000.0      157367000.0   158756000.0     133159000.0
+General And Administrative Expense                              168901000.0      149807000.0   141419000.0     137961000.0
+Gross Profit                                                    439849000.0      386014000.0   433193000.0     457229000.0
+Cost Of Revenue                                                1927663000.0     2571177000.0  2767913000.0    1906186000.0
+Total Revenue                                                  2367512000.0     2957191000.0  3201106000.0    2363415000.0
+Operating Revenue                                              2367512000.0     2957191000.0  3201106000.0    2363415000.0

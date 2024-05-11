@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	Grand Pavilion Hibiscus Way
+address2	802 West Bay Road PO Box 31119
+city	Grand Cayman
+zip	KY1-1205
+country	Cayman Islands
+website	https://www.zdtco.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Zhen Ding Technology Holding Limited, together with its subsidiaries, manufactures and sells various printed circuit board (PCB) products in the United States, Mainland China, Taiwan, Singapore, and internationally. The company offers flexible circuit boards, substrate-like PCBs, high-density interconnect PCBs, rigid printed circuit boards, IC substrates, rigid-flex PCBs, chip-on-films, and modules. Its products are used in various applications, including mobile phone, computer, wearable, AR/VR, smart home, other consumer, data center, base station, networking, and automotive and industrial. The company was formerly known as Foxconn Advanced Technology Limited and changed its name to Zhen Ding Technology Holding Limited in June 2011. Zhen Ding Technology Holding Limited was incorporated in 2006 and is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ting-Chuan  Lee', 'title': 'Director', 'fiscalYear': 2020, 'totalPay': 16723066, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ling  Duen', 'title': 'Corporate Governance Officer & Spokesperson', 'fiscalYear': 2020, 'totalPay': 4016235, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Fang  Shen', 'title': 'President & Chairman', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chien-Yi Chiang Chiang', 'title': 'CFO & Senior Manager of Finance Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Chi  Chang', 'title': 'Senior Director of Corporate Planning & Investment Department', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan-Sheng  Wang', 'title': 'Chief Accounting Officer & Assistant VP of Finance Division', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yang  Huang', 'title': 'Senior Director of Sales Marketing Department', 'fiscalYear': 2020, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1609372800
+maxAge	86400
+priceHint	2
+previousClose	121.0
+open	121.0
+dayLow	118.5
+dayHigh	121.0
+regularMarketPreviousClose	121.0
+regularMarketOpen	121.0
+regularMarketDayLow	118.5
+regularMarketDayHigh	121.0
+dividendRate	3.28
+dividendYield	0.0273
+exDividendDate	1717632000	 (2024-06-06 08:00:00)
+payoutRatio	0.8772
+fiveYearAvgDividendYield	4.41
+beta	0.782
+trailingPE	17.54386
+forwardPE	10.092514
+volume	6556946
+regularMarketVolume	6556946
+averageVolume	8445501
+averageVolume10days	5108983
+averageDailyVolume10Day	5108983
+bid	119.5
+ask	120.0
+marketCap	113394720768
+fiftyTwoWeekLow	93.5
+fiftyTwoWeekHigh	134.0
+priceToSalesTrailing12Months	0.7489841
+fiftyDayAverage	113.154
+twoHundredDayAverage	104.405
+trailingAnnualDividendRate	3.275
+trailingAnnualDividendYield	0.027066117
+currency	TWD
+enterpriseValue	140396265472
+profitMargins	0.04088
+floatShares	634717604
+sharesOutstanding	944956032
+heldPercentInsiders	0.32259998
+heldPercentInstitutions	0.33101
+impliedSharesOutstanding	953172992
+bookValue	101.272
+priceToBook	1.1849277
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.255
+netIncomeToCommon	6188728832
+trailingEps	6.84
+forwardEps	11.89
+pegRatio	0.52
+lastSplitFactor	1.05:1
+lastSplitDate	1374710400	 (2013-07-25 08:00:00)
+enterpriseToRevenue	0.927
+enterpriseToEbitda	5.681
+52WeekChange	0.1428572
+SandP52WeekChange	0.26265144
+lastDividendValue	3.275
+lastDividendDate	1717632000	 (2024-06-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4958.TW
+underlyingSymbol	4958.TW
+shortName	ZHEN DING TECHNOLOGY HOLDING LT
+longName	Zhen Ding Technology Holding Limited
+firstTradeDateEpochUtc	1324861200	 (2011-12-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ed00b0b2-8190-37ce-b8ca-88f2852f324f
+messageBoardId	finmb_140596767
+gmtOffSetMilliseconds	28800000
+currentPrice	120.0
+targetHighPrice	180.0
+targetLowPrice	105.0
+targetMeanPrice	123.38
+targetMedianPrice	115.5
+recommendationMean	2.2
+recommendationKey	buy
+numberOfAnalystOpinions	8
+totalCash	65970040832
+totalCashPerShare	69.813
+ebitda	24714121216
+totalDebt	54343340032
+quickRatio	1.232
+currentRatio	1.445
+totalRevenue	151398039552
+debtToEquity	40.456
+revenuePerShare	160.217
+returnOnAssets	0.02409
+returnOnEquity	0.0706
+freeCashflow	2113084544
+operatingCashflow	33608165376
+earningsGrowth	-0.3
+revenueGrowth	0.028
+grossMargins	0.18136999
+ebitdaMargins	0.16324
+operatingMargins	0.114980005
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    -613127.017955      -542931.328218     2418472.159019    -3784150.263992
+Tax Rate For Calcs                                                   0.061313            0.124984           0.155649           0.165703
+Normalized EBITDA                                               28333748000.0       39012733000.0      28603391000.0      22685212000.0
+Total Unusual Items                                               -10000000.0          -4344000.0         15538000.0        -22837000.0
+Total Unusual Items Excluding Goodwill                            -10000000.0          -4344000.0         15538000.0        -22837000.0
+Net Income From Continuing Operation Net Minority Interest       6188729000.0       14197040000.0       9651297000.0       8094547000.0
+Reconciled Depreciation                                         16323326000.0       14638051000.0      11874913000.0       8405017000.0
+Reconciled Cost Of Revenue                                     123938549000.0      131468413000.0     124484711000.0     104694389000.0
+EBITDA                                                          28323748000.0       39008389000.0      28618929000.0      22662375000.0
+EBIT                                                            12000422000.0       24370338000.0      16744016000.0      14257358000.0
+Net Interest Income                                               548090000.0        -134278000.0       -226250000.0        223432000.0
+Interest Expense                                                 1952504000.0         901834000.0        525209000.0        463368000.0
+Interest Income                                                  2500594000.0         767556000.0        298959000.0        686800000.0
+Normalized Income                                           6198115872.982045  14200841068.671782  9638177472.159019  8113599849.736008
+Net Income From Continuing And Discontinued Operation            6188729000.0       14197040000.0       9651297000.0       8094547000.0
+Total Expenses                                                 142228354000.0      148905390000.0     139256279000.0     117115484000.0
+Diluted Average Shares                                                    NaN        1035674000.0       1028249000.0        949218000.0
+Basic Average Shares                                                      NaN         944956000.0        944956000.0        909001000.0
+Diluted EPS                                                               NaN               13.92               9.58               8.64
+Basic EPS                                                                 NaN               15.02              10.21                8.9
+Diluted NI Availto Com Stockholders                              6188729000.0       14197040000.0       9651297000.0       8094547000.0
+Net Income Common Stockholders                                   6188729000.0       14197040000.0       9651297000.0       8094547000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                0.0                0.0
+Net Income                                                       6188729000.0       14197040000.0       9651297000.0       8094547000.0
+Minority Interests                                              -3243124000.0       -6338272000.0      -4043071000.0      -3413743000.0
+Net Income Including Noncontrolling Interests                    9431853000.0       20535312000.0      13694368000.0      11508290000.0
+Net Income Continuous Operations                                 9431853000.0       20535312000.0      13694368000.0      11508290000.0
+Tax Provision                                                     616065000.0        2933192000.0       2524439000.0       2285700000.0
+Pretax Income                                                   10047918000.0       23468504000.0      16218807000.0      13793990000.0
+Other Non Operating Income Expenses                               356238000.0        1147129000.0        673528000.0       -569658000.0
+Special Income Charges                                            -10000000.0          -4344000.0         15538000.0        -22837000.0
+Write Off                                                          10000000.0           4344000.0        -15538000.0         22837000.0
+Net Non Operating Interest Income Expense                         548090000.0        -134278000.0       -226250000.0        223432000.0
+Interest Expense Non Operating                                   1952504000.0         901834000.0        525209000.0        463368000.0
+Interest Income Non Operating                                    2500594000.0         767556000.0        298959000.0        686800000.0
+Operating Income                                                 9169684000.0       22451105000.0      15765918000.0      14163053000.0
+Operating Expense                                               18289805000.0       17436977000.0      14771568000.0      12421095000.0
+Research And Development                                         9665484000.0        8279766000.0       7302208000.0       5545496000.0
+Selling General And Administration                               8624321000.0        9157211000.0       7469360000.0       6875599000.0
+Selling And Marketing Expense                                    1899653000.0        1959988000.0       1646890000.0       1929601000.0
+General And Administrative Expense                               6724668000.0        7197223000.0       5822470000.0       4945998000.0
+Gross Profit                                                    27459489000.0       39888082000.0      30537486000.0      26584148000.0
+Cost Of Revenue                                                123938549000.0      131468413000.0     124484711000.0     104694389000.0
+Total Revenue                                                  151398038000.0      171356495000.0     155022197000.0     131278537000.0
+Operating Revenue                                              151398038000.0      171356495000.0     155022197000.0     131278537000.0

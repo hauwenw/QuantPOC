@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No.17, Ln. 5
+address2	Sec. 2 Nanshan Rd. Luzhu Dist.
+city	Taoyuan City
+zip	338
+country	Taiwan
+phone	886 3 322 2226
+website	https://www.chinpoon.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Chin-Poon Industrial Co., Ltd. engages in the manufacturing, processing, and selling of printed circuit boards (PCBs) and electronic materials in Taiwan, China, and internationally. It provides single-sided, double-sided, high frequency, multilayer, metal base and pedestal, HDI and IVH, heavy copper, flexible, and Cu inlay and Busbar PCBs. The company serves automotive, industry and medical, telecommunication, consumer, and other fields. Chin-Poon Industrial Co., Ltd. was incorporated in 1979 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Alan  Hwang', 'title': 'CEO & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Rachel  Lin', 'title': 'VP & CFO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Nu  Lin', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Charlie  Tseng', 'title': 'Chief Executive Officer in China', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Chiao  Huang', 'title': 'Chief Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	40.95
+open	40.95
+dayLow	40.2
+dayHigh	41.0
+regularMarketPreviousClose	40.95
+regularMarketOpen	40.95
+regularMarketDayLow	40.2
+regularMarketDayHigh	41.0
+dividendRate	0.85
+dividendYield	0.0208
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.4427
+fiveYearAvgDividendYield	2.23
+beta	1.102
+trailingPE	21.25
+forwardPE	11.999999
+volume	1707609
+regularMarketVolume	1707609
+averageVolume	6496503
+averageVolume10days	2042463
+averageDailyVolume10Day	2042463
+bid	40.75
+ask	40.8
+marketCap	16217795584
+fiftyTwoWeekLow	29.95
+fiftyTwoWeekHigh	58.0
+priceToSalesTrailing12Months	0.9682604
+fiftyDayAverage	44.907
+twoHundredDayAverage	43.084
+trailingAnnualDividendRate	1.25
+trailingAnnualDividendYield	0.03052503
+currency	TWD
+enterpriseValue	10004024320
+profitMargins	0.045560002
+floatShares	342918937
+sharesOutstanding	397495008
+heldPercentInsiders	0.12647
+heldPercentInstitutions	0.16299
+impliedSharesOutstanding	400892000
+bookValue	40.509
+priceToBook	1.0071836
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.181
+netIncomeToCommon	763033024
+trailingEps	1.92
+forwardEps	3.4
+pegRatio	1.02
+lastSplitFactor	1.001:1
+lastSplitDate	1249430400	 (2009-08-05 08:00:00)
+enterpriseToRevenue	0.597
+enterpriseToEbitda	5.503
+52WeekChange	0.36
+SandP52WeekChange	0.26265144
+lastDividendValue	0.85
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2355.TW
+underlyingSymbol	2355.TW
+shortName	CHIN-POON INDUSTRIAL
+longName	Chin-Poon Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c02cf7f0-8bc4-38b1-b1fd-918f68ac5362
+messageBoardId	finmb_9587474
+gmtOffSetMilliseconds	28800000
+currentPrice	40.8
+targetHighPrice	58.0
+targetLowPrice	46.7
+targetMeanPrice	52.35
+targetMedianPrice	52.35
+recommendationMean	1.8
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	7462653952
+totalCashPerShare	18.774
+ebitda	1817931008
+totalDebt	1248432000
+quickRatio	1.928
+currentRatio	2.506
+totalRevenue	16749415424
+debtToEquity	7.753
+revenuePerShare	42.137
+returnOnAssets	0.02269
+returnOnEquity	0.04774
+freeCashflow	2130981376
+operatingCashflow	2395335936
+earningsGrowth	0.188
+revenueGrowth	-0.065
+grossMargins	0.13073
+ebitdaMargins	0.10854
+operatingMargins	0.07947
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                 -45377323.064659      60061.351882   -1973930.630568      1744400.0
+Tax Rate For Calcs                                                  0.337654          0.331831          0.266928            0.2
+Normalized EBITDA                                               2388398000.0      1902338000.0      1593943000.0   1174487000.0
+Total Unusual Items                                             -134390000.0          181000.0        -7395000.0      8722000.0
+Total Unusual Items Excluding Goodwill                          -134390000.0          181000.0        -7395000.0      8722000.0
+Net Income From Continuing Operation Net Minority Interest       763033000.0       496591000.0       337782000.0     46118000.0
+Reconciled Depreciation                                         1044452000.0      1131509000.0      1103977000.0   1125070000.0
+Reconciled Cost Of Revenue                                     14559833000.0     16107201000.0     17085633000.0  14443453000.0
+EBITDA                                                          2254008000.0      1902519000.0      1586548000.0   1183209000.0
+EBIT                                                            1209556000.0       771010000.0       482571000.0     58139000.0
+Net Interest Income                                              105826000.0        70445000.0        78983000.0     69947000.0
+Interest Expense                                                  57963000.0        28327000.0        21907000.0     33413000.0
+Interest Income                                                  163789000.0        98772000.0       100890000.0    103360000.0
+Normalized Income                                           852045676.935341  496470061.351882  343203069.369432     39140400.0
+Net Income From Continuing And Discontinued Operation            763033000.0       496591000.0       337782000.0     46118000.0
+Total Expenses                                                 15792279000.0     17341832000.0     18397539000.0  15445778000.0
+Diluted Average Shares                                                   NaN       398083000.0       397749000.0    397677000.0
+Basic Average Shares                                                     NaN       397495000.0       397495000.0    397495000.0
+Diluted EPS                                                              NaN              1.25              0.85           0.12
+Basic EPS                                                                NaN              1.25              0.85           0.12
+Diluted NI Availto Com Stockholders                              763033000.0       496591000.0       337782000.0     46118000.0
+Net Income Common Stockholders                                   763033000.0       496591000.0       337782000.0     46118000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0            0.0
+Net Income                                                       763033000.0       496591000.0       337782000.0     46118000.0
+Minority Interests                                                  280000.0          353000.0           82000.0       416000.0
+Net Income Including Noncontrolling Interests                    762753000.0       496238000.0       337700000.0     45702000.0
+Net Income Continuous Operations                                 762753000.0       496238000.0       337700000.0     45702000.0
+Tax Provision                                                    388840000.0       246445000.0       122964000.0    -20976000.0
+Pretax Income                                                   1151593000.0       742683000.0       460664000.0     24726000.0
+Other Non Operating Income Expenses                              223021000.0       399561000.0       567335000.0     78550000.0
+Special Income Charges                                          -134390000.0          181000.0        -7395000.0      8722000.0
+Write Off                                                        134390000.0         -181000.0         7395000.0     -8722000.0
+Net Non Operating Interest Income Expense                        105826000.0        70445000.0        78983000.0     69947000.0
+Interest Expense Non Operating                                    57963000.0        28327000.0        21907000.0     33413000.0
+Interest Income Non Operating                                    163789000.0        98772000.0       100890000.0    103360000.0
+Operating Income                                                 957136000.0       272496000.0      -178259000.0   -132493000.0
+Operating Expense                                               1232446000.0      1234631000.0      1311906000.0   1002325000.0
+Research And Development                                         330006000.0       322180000.0       306422000.0     81783000.0
+Selling General And Administration                               902440000.0       912451000.0      1005484000.0    920542000.0
+Selling And Marketing Expense                                    369503000.0       448420000.0       579715000.0    486778000.0
+General And Administrative Expense                               532937000.0       464031000.0       425769000.0    433764000.0
+Gross Profit                                                    2189582000.0      1507127000.0      1133647000.0    869832000.0
+Cost Of Revenue                                                14559833000.0     16107201000.0     17085633000.0  14443453000.0
+Total Revenue                                                  16749415000.0     17614328000.0     18219280000.0  15313285000.0
+Operating Revenue                                              16749415000.0     17614328000.0     18219280000.0  15313285000.0

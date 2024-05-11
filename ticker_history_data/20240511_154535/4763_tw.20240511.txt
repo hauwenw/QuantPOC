@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	The Grand Pavilion Commercial Centre
+address2	Oleander Way 802 West Bay Road P.O. Box 32052
+city	Grand Cayman
+zip	KY1-1208
+country	Cayman Islands
+website	https://www.acetek.com.cn
+industry	Chemicals
+industryKey	chemicals
+industryDisp	Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Jinan Acetate Chemical Co., Ltd. engages in the research and development, production, and sale of cellulose diacetate, cellulose acetate tows, and other related products in Asia, the United States, Africa, and Europe. Its products are used in cigarette filters, water-based pen refills, diaper absorbing lining, and clothes; and glasses frame and tool handles. The company was founded in 1999 and is headquartered in Grand Cayman, the Cayman Islands.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ching-Li  Meng', 'title': 'President, GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chieh-Jui  Chen', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	760.0
+open	765.0
+dayLow	765.0
+dayHigh	794.0
+regularMarketPreviousClose	760.0
+regularMarketOpen	765.0
+regularMarketDayLow	765.0
+regularMarketDayHigh	794.0
+dividendRate	12.46
+dividendYield	0.0159
+exDividendDate	1701129600	 (2023-11-28 08:00:00)
+payoutRatio	0.1458
+fiveYearAvgDividendYield	3.23
+beta	1.152
+trailingPE	12.610726
+forwardPE	5.7991405
+volume	1794144
+regularMarketVolume	1794144
+averageVolume	2826407
+averageVolume10days	2096325
+averageDailyVolume10Day	2096325
+bid	783.0
+ask	784.0
+marketCap	67262832640
+fiftyTwoWeekLow	431.32138
+fiftyTwoWeekHigh	1265.0
+priceToSalesTrailing12Months	6.1005816
+fiftyDayAverage	874.32
+twoHundredDayAverage	886.60297
+currency	TWD
+enterpriseValue	58832662528
+profitMargins	0.46943
+floatShares	42014787
+sharesOutstanding	85904000
+heldPercentInsiders	0.51265997
+heldPercentInstitutions	0.053049996
+impliedSharesOutstanding	89905000
+bookValue	118.727
+priceToBook	6.5949616
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	4.508
+netIncomeToCommon	5175744000
+trailingEps	62.09
+forwardEps	135.02
+lastSplitFactor	1141.026:1000
+lastSplitDate	1696291200	 (2023-10-03 08:00:00)
+enterpriseToRevenue	5.336
+enterpriseToEbitda	9.308
+52WeekChange	0.7423204
+SandP52WeekChange	0.26265144
+lastDividendValue	4.356271
+lastDividendDate	1701129600	 (2023-11-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4763.TW
+underlyingSymbol	4763.TW
+shortName	JINAN ACETATE CHEMICAL CO.
+longName	Jinan Acetate Chemical Co., Ltd.
+firstTradeDateEpochUtc	1447030800	 (2015-11-09 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0668e74c-f18d-37c4-9f46-06509c476afa
+messageBoardId	finmb_246773111
+gmtOffSetMilliseconds	28800000
+currentPrice	783.0
+targetHighPrice	1200.0
+targetLowPrice	1200.0
+targetMeanPrice	1200.0
+targetMedianPrice	1200.0
+recommendationMean	1.5
+recommendationKey	strong_buy
+numberOfAnalystOpinions	1
+totalCash	8553839104
+totalCashPerShare	99.574
+ebitda	6320945152
+quickRatio	5.379
+currentRatio	5.879
+totalRevenue	11025642496
+revenuePerShare	133.189
+returnOnAssets	0.43423998
+returnOnEquity	0.74744004
+freeCashflow	4238104576
+operatingCashflow	6249797120
+earningsGrowth	5.852
+revenueGrowth	2.12
+grossMargins	0.62479
+ebitdaMargins	0.57329
+operatingMargins	0.60778
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      81406.090827    24813443.099428     667846.072175    4353745.015827
+Tax Rate For Calcs                                                   0.148823           0.098647          0.014352          0.078265
+Normalized EBITDA                                                6431113000.0       1376412000.0       488550000.0       628458000.0
+Total Unusual Items                                                  547000.0        251538000.0        46532000.0        55628000.0
+Total Unusual Items Excluding Goodwill                               547000.0        251538000.0        46532000.0        55628000.0
+Net Income From Continuing Operation Net Minority Interest       5175744000.0       1249816000.0       357500000.0       504558000.0
+Reconciled Depreciation                                           277447000.0        179882000.0       134565000.0       105376000.0
+Reconciled Cost Of Revenue                                       4136950000.0       2585821000.0      1899781000.0      1564853000.0
+EBITDA                                                           6431660000.0       1627950000.0       535082000.0       684086000.0
+EBIT                                                             6154213000.0       1448068000.0       400517000.0       578710000.0
+Net Interest Income                                               134128000.0        -26644000.0       -32826000.0       -24082000.0
+Interest Expense                                                   18199000.0         34207000.0        35073000.0        25860000.0
+Interest Income                                                   152327000.0          7563000.0         2247000.0         1778000.0
+Normalized Income                                           5175278406.090827  1023091443.099428  311635846.072175  453283745.015827
+Net Income From Continuing And Discontinued Operation            5175744000.0       1249816000.0       357500000.0       504558000.0
+Total Expenses                                                   4977079000.0       3192578000.0      2362613000.0      1854165000.0
+Diluted Average Shares                                                    NaN         82942000.0        78270838.0        72444367.0
+Basic Average Shares                                                      NaN         70892000.0        66680923.0        67054635.0
+Diluted EPS                                                               NaN              15.65          4.580099          7.452711
+Basic EPS                                                                 NaN              17.63          5.363537          7.521479
+Diluted NI Availto Com Stockholders                              5175744000.0       1249816000.0       357500000.0       504558000.0
+Net Income Common Stockholders                                   5175744000.0       1249816000.0       357500000.0       504558000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0               0.0
+Net Income                                                       5175744000.0       1249816000.0       357500000.0       504558000.0
+Minority Interests                                                -47091000.0        -24572000.0        -2699000.0        -5023000.0
+Net Income Including Noncontrolling Interests                    5222835000.0       1274388000.0       360199000.0       509581000.0
+Net Income Continuous Operations                                 5222835000.0       1274388000.0       360199000.0       509581000.0
+Tax Provision                                                     913179000.0        139473000.0         5245000.0        43269000.0
+Pretax Income                                                    6136014000.0       1413861000.0       365444000.0       552850000.0
+Other Non Operating Income Expenses                                15497000.0         13987000.0        28044000.0        48454000.0
+Special Income Charges                                              -252000.0        284181000.0         -223000.0          -22000.0
+Other Special Charges                                                252000.0       -284181000.0          223000.0           22000.0
+Net Non Operating Interest Income Expense                         134128000.0        -26644000.0       -32826000.0       -24082000.0
+Interest Expense Non Operating                                     18199000.0         34207000.0        35073000.0        25860000.0
+Interest Income Non Operating                                     152327000.0          7563000.0         2247000.0         1778000.0
+Operating Income                                                 6048563000.0       1076813000.0       352253000.0       499215000.0
+Operating Expense                                                 840129000.0        606757000.0       462832000.0       289312000.0
+Research And Development                                          187499000.0        171295000.0       190486000.0        97428000.0
+Selling General And Administration                                652630000.0        435462000.0       272346000.0       191884000.0
+Selling And Marketing Expense                                     386789000.0        324932000.0       192040000.0       126578000.0
+General And Administrative Expense                                265841000.0        110530000.0        80306000.0        65306000.0
+Gross Profit                                                     6888692000.0       1683570000.0       815085000.0       788527000.0
+Cost Of Revenue                                                  4136950000.0       2585821000.0      1899781000.0      1564853000.0
+Total Revenue                                                   11025642000.0       4269391000.0      2714866000.0      2353380000.0
+Operating Revenue                                               11025642000.0       4269391000.0      2714866000.0      2353380000.0

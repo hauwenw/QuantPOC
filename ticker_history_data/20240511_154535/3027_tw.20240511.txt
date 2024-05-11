@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No. 192, Zhongxing Road
+address2	8th Floor Section 2 Xindian District
+city	New Taipei City
+zip	23146
+country	Taiwan
+phone	886 2 2914 5665
+website	https://www.billion.com
+industry	Conglomerates
+industryKey	conglomerates
+industryDisp	Conglomerates
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Billion Electric Co., Ltd. engages in networking and communication, and power and energy management businesses. It offers modems, gateways, routers, switches, multi-service modulars, and and rugged outdoor platforms; connectivity solutions, such as LTE-A, LTE-A Pro, Gigabit LTE, and 5G for homes, businesses, service providers, and government organizations; fixed wireless solutions; all-in-one multi-WAN platforms supporting carrier services, such as ADSL2+, VDSL2, xDSL bonding, and FTTH for various sectors, including enterprise, retail, education, healthcare, industrial, transportation, energy, and smart cities. The company also offers high-potential testers, energy storage inverters, power conversion systems, battery impedance meters, automatic laser welding machines, battery impedance meters, tensile testing machines, programmable AC and DC power chroma AC and DC power sources, regenerative battery pack test, digital phosphor oscilloscopes, PV simulation, and power quality analyzers; electric boat solutions; and outdoor LED drivers, AC/DC power adapters, open frame power supply, and PoE injectors. The company provides its products under the BILLION brand. Billion Electric Co., Ltd. was founded in 1973 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Shu-Mei  Chang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Felix  Cheng', 'title': 'Chief Operating Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kai-Cheng  Yang', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ted  Ho', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	43.55
+open	43.85
+dayLow	42.7
+dayHigh	43.9
+regularMarketPreviousClose	43.55
+regularMarketOpen	43.85
+regularMarketDayLow	42.7
+regularMarketDayHigh	43.9
+dividendRate	0.26
+dividendYield	0.006
+exDividendDate	1692576000	 (2023-08-21 08:00:00)
+payoutRatio	0.4034
+fiveYearAvgDividendYield	1.0
+beta	1.455
+trailingPE	67.42188
+forwardPE	19.263393
+volume	1597479
+regularMarketVolume	1597479
+averageVolume	4247803
+averageVolume10days	1952596
+averageDailyVolume10Day	1952596
+bid	43.15
+ask	43.2
+marketCap	4930880000
+fiftyTwoWeekLow	35.8
+fiftyTwoWeekHigh	58.4
+priceToSalesTrailing12Months	2.6963103
+fiftyDayAverage	44.976
+twoHundredDayAverage	42.184
+currency	TWD
+enterpriseValue	4508356096
+profitMargins	0.03891
+floatShares	96945785
+sharesOutstanding	114273000
+heldPercentInsiders	0.33077
+heldPercentInstitutions	0.00348
+impliedSharesOutstanding	114273000
+bookValue	19.002
+priceToBook	2.2708135
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	71148000
+trailingEps	0.64
+forwardEps	2.24
+lastSplitFactor	1015:1000
+lastSplitDate	1503273600	 (2017-08-21 08:00:00)
+enterpriseToRevenue	2.465
+enterpriseToEbitda	102.247
+52WeekChange	0.04733014
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2582
+lastDividendDate	1692576000	 (2023-08-21 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3027.TW
+underlyingSymbol	3027.TW
+shortName	BILLION ELECTRONIC
+longName	Billion Electric Co., Ltd.
+firstTradeDateEpochUtc	948330000	 (2000-01-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2b19b889-1242-394e-8657-7e1bd861b3a8
+messageBoardId	finmb_23038926
+gmtOffSetMilliseconds	28800000
+currentPrice	43.15
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	920062016
+totalCashPerShare	8.051
+ebitda	44093000
+totalDebt	302904992
+quickRatio	1.034
+currentRatio	2.109
+totalRevenue	1828750976
+debtToEquity	12.802
+revenuePerShare	16.496
+returnOnAssets	-0.00042
+returnOnEquity	0.05489
+freeCashflow	-335790624
+operatingCashflow	-207768000
+revenueGrowth	0.224
+grossMargins	0.21851
+ebitdaMargins	0.02411
+operatingMargins	-0.033800002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31    2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                  -199731.091561   -337777.302794      867200.0   -389307.812832
+Tax Rate For Calcs                                                 0.164523         0.237037           0.2         0.074225
+Normalized EBITDA                                               217911000.0      119448000.0   109936000.0       76501000.0
+Total Unusual Items                                              -1214000.0       -1425000.0     4336000.0       -5245000.0
+Total Unusual Items Excluding Goodwill                           -1214000.0       -1425000.0     4336000.0       -5245000.0
+Net Income From Continuing Operation Net Minority Interest       71148000.0       39905000.0    27004000.0       31216000.0
+Reconciled Depreciation                                          70233000.0       41393000.0    32337000.0       27039000.0
+Reconciled Cost Of Revenue                                     1429142000.0      914214000.0   726881000.0      520434000.0
+EBITDA                                                          216697000.0      118023000.0   114272000.0       71256000.0
+EBIT                                                            146464000.0       76630000.0    81935000.0       44217000.0
+Net Interest Income                                              19420000.0       -2545000.0    -1029000.0        1841000.0
+Interest Expense                                                 12106000.0        9961000.0     6977000.0        6561000.0
+Interest Income                                                  31526000.0        7416000.0     5948000.0        8402000.0
+Normalized Income                                           72162268.908439  40992222.697206    23535200.0  36071692.187168
+Net Income From Continuing And Discontinued Operation            71148000.0       39905000.0    27004000.0       31216000.0
+Total Expenses                                                 1829880000.0     1204232000.0  1047698000.0      805100000.0
+Diluted Average Shares                                                  NaN       98717000.0    98618000.0       99863000.0
+Basic Average Shares                                                    NaN       98038000.0    97568000.0       98856000.0
+Diluted EPS                                                             NaN              0.4          0.27             0.31
+Basic EPS                                                               NaN             0.41          0.28             0.32
+Diluted NI Availto Com Stockholders                              71148000.0       39905000.0    27004000.0       31216000.0
+Net Income Common Stockholders                                   71148000.0       39905000.0    27004000.0       31216000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0           0.0              0.0
+Net Income                                                       71148000.0       39905000.0    27004000.0       31216000.0
+Minority Interests                                              -41105000.0      -10961000.0    -8520000.0       -3645000.0
+Net Income Including Noncontrolling Interests                   112253000.0       50866000.0    35524000.0       34861000.0
+Net Income Discontinuous Operations                                     NaN              NaN           0.0              0.0
+Net Income Continuous Operations                                112253000.0       50866000.0    35524000.0       34861000.0
+Tax Provision                                                    22105000.0       15803000.0    39434000.0        2795000.0
+Pretax Income                                                   134358000.0       66669000.0    74958000.0       37656000.0
+Other Non Operating Income Expenses                             117109000.0       63445000.0    70909000.0        2178000.0
+Special Income Charges                                           -1214000.0       -1425000.0     4336000.0       -5245000.0
+Write Off                                                         1214000.0        1425000.0    -4336000.0        5245000.0
+Net Non Operating Interest Income Expense                        19420000.0       -2545000.0    -1029000.0        1841000.0
+Interest Expense Non Operating                                   12106000.0        9961000.0     6977000.0        6561000.0
+Interest Income Non Operating                                    31526000.0        7416000.0     5948000.0        8402000.0
+Operating Income                                                 -1129000.0        7186000.0     1249000.0       44724000.0
+Operating Expense                                               400738000.0      290018000.0   320817000.0      284666000.0
+Other Operating Expenses                                                NaN      -16739000.0     -132000.0        -511000.0
+Research And Development                                         99140000.0       86540000.0    92872000.0       75500000.0
+Selling General And Administration                              301598000.0      220217000.0   228077000.0      209677000.0
+Selling And Marketing Expense                                   142146000.0       78754000.0    80922000.0       52634000.0
+General And Administrative Expense                              159452000.0      141463000.0   147155000.0      157043000.0
+Gross Profit                                                    399609000.0      297204000.0   322066000.0      329390000.0
+Cost Of Revenue                                                1429142000.0      914214000.0   726881000.0      520434000.0
+Total Revenue                                                  1828751000.0     1211418000.0  1048947000.0      849824000.0
+Operating Revenue                                              1828751000.0     1211418000.0  1048947000.0      849824000.0

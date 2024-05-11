@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 38, Bo¡¦ai Road
+address2	8th Floor Jhongjheng District
+city	Taipei
+zip	100
+country	Taiwan
+phone	886 2 2388 2898
+website	https://www.hhe.com.tw
+industry	Real Estate - Diversified
+industryKey	real-estate-diversified
+industryDisp	Real Estate - Diversified
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Huang Hsiang Construction Corporation, together with its subsidiaries, builds, sells, and rents public housing and commercial building in Taiwan. The company was formerly known as Huang Ming Construction Corporation, LCC and changed its name to Huang Hsiang Construction Corporation in April 1996. Huang Hsiang Construction Corporation was founded in 1991 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yu-Hsiang  Liao', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chonghui  Li', 'title': 'Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	58.4
+open	58.9
+dayLow	56.9
+dayHigh	60.0
+regularMarketPreviousClose	58.4
+regularMarketOpen	58.9
+regularMarketDayLow	56.9
+regularMarketDayHigh	60.0
+dividendRate	4.6
+dividendYield	0.0804
+exDividendDate	1687737600	 (2023-06-26 08:00:00)
+payoutRatio	1.9828
+fiveYearAvgDividendYield	8.61
+beta	0.525
+trailingPE	24.655174
+volume	4227087
+regularMarketVolume	4227087
+averageVolume	1741172
+averageVolume10days	5964649
+averageDailyVolume10Day	5964649
+bid	57.2
+ask	57.3
+marketCap	18746441728
+fiftyTwoWeekLow	37.85
+fiftyTwoWeekHigh	68.3
+priceToSalesTrailing12Months	3.9498699
+fiftyDayAverage	48.913
+twoHundredDayAverage	42.542
+trailingAnnualDividendRate	2.3
+trailingAnnualDividendYield	0.03938356
+currency	TWD
+enterpriseValue	56924987392
+profitMargins	0.16049999
+floatShares	107352877
+sharesOutstanding	327735008
+heldPercentInsiders	0.70442003
+heldPercentInstitutions	0.02575
+impliedSharesOutstanding	352740992
+bookValue	35.035
+priceToBook	1.6326531
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.92
+netIncomeToCommon	761769984
+trailingEps	2.32
+lastSplitFactor	1.15:1
+lastSplitDate	1249862400	 (2009-08-10 08:00:00)
+enterpriseToRevenue	11.994
+enterpriseToEbitda	41.686
+52WeekChange	0.27111113
+SandP52WeekChange	0.26265144
+lastDividendValue	4.6
+lastDividendDate	1687737600	 (2023-06-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2545.TW
+underlyingSymbol	2545.TW
+shortName	HUANG HSIANG CONSTRUCTION
+longName	Huang Hsiang Construction Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2bd7cb6f-f867-3dda-a9c2-2b53d5441a1f
+messageBoardId	finmb_9709008
+gmtOffSetMilliseconds	28800000
+currentPrice	57.2
+recommendationKey	none
+totalCash	1772702976
+totalCashPerShare	5.409
+ebitda	1365563008
+totalDebt	39951249408
+quickRatio	0.081
+currentRatio	1.269
+totalRevenue	4746091008
+debtToEquity	347.94
+revenuePerShare	14.481
+returnOnAssets	0.01497
+returnOnEquity	0.06426
+freeCashflow	-1111574912
+operatingCashflow	-852752000
+earningsGrowth	3.906
+revenueGrowth	1.172
+grossMargins	0.41059
+ebitdaMargins	0.28772
+operatingMargins	0.37852
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.170018      0.036358      0.026842      0.010662
+Normalized EBITDA                                           1722431000.0  2670965000.0  3072269000.0  2282927000.0
+Net Income From Continuing Operation Net Minority Interest   761770000.0  1895828000.0  2446318000.0  1746646000.0
+Reconciled Depreciation                                      167956000.0   176477000.0   178639000.0   156952000.0
+Reconciled Cost Of Revenue                                  2797400000.0  4044894000.0  4119312000.0  3586608000.0
+EBITDA                                                      1722431000.0  2670965000.0  3072269000.0  2282927000.0
+EBIT                                                        1554475000.0  2494488000.0  2893630000.0  2125975000.0
+Net Interest Income                                         -630330000.0  -525372000.0  -378258000.0  -359767000.0
+Interest Expense                                             636660000.0   527130000.0   379837000.0   360506000.0
+Interest Income                                                6330000.0     1758000.0     1579000.0      739000.0
+Normalized Income                                            761770000.0  1895828000.0  2446318000.0  1746646000.0
+Net Income From Continuing And Discontinued Operation        761770000.0  1895828000.0  2446318000.0  1746646000.0
+Total Expenses                                              3492794000.0  5057454000.0  5001013000.0  4382632000.0
+Diluted Average Shares                                               NaN   328352000.0   328208000.0   328208000.0
+Basic Average Shares                                                 NaN   327735000.0   327735000.0   327735000.0
+Diluted EPS                                                          NaN          5.77          7.45          5.32
+Basic EPS                                                            NaN          5.78          7.46          5.33
+Diluted NI Availto Com Stockholders                          761770000.0  1895828000.0  2446318000.0  1746646000.0
+Net Income Common Stockholders                               761770000.0  1895828000.0  2446318000.0  1746646000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                   761770000.0  1895828000.0  2446318000.0  1746646000.0
+Net Income Including Noncontrolling Interests                761770000.0  1895828000.0  2446318000.0  1746646000.0
+Net Income Continuous Operations                             761770000.0  1895828000.0  2446318000.0  1746646000.0
+Tax Provision                                                156045000.0    71530000.0    67475000.0    18823000.0
+Pretax Income                                                917815000.0  1967358000.0  2513793000.0  1765469000.0
+Other Non Operating Income Expenses                          294848000.0   480794000.0    42889000.0    51448000.0
+Net Non Operating Interest Income Expense                   -630330000.0  -525372000.0  -378258000.0  -359767000.0
+Interest Expense Non Operating                               636660000.0   527130000.0   379837000.0   360506000.0
+Interest Income Non Operating                                  6330000.0     1758000.0     1579000.0      739000.0
+Operating Income                                            1253297000.0  2011936000.0  2849162000.0  2073788000.0
+Operating Expense                                            695394000.0  1012560000.0   881701000.0   796024000.0
+Selling General And Administration                           695394000.0  1012560000.0   881701000.0   796024000.0
+Selling And Marketing Expense                                135854000.0   381340000.0   282231000.0   356908000.0
+General And Administrative Expense                           559540000.0   631220000.0   599470000.0   439116000.0
+Gross Profit                                                1948691000.0  3024496000.0  3730863000.0  2869812000.0
+Cost Of Revenue                                             2797400000.0  4044894000.0  4119312000.0  3586608000.0
+Total Revenue                                               4746091000.0  7069390000.0  7850175000.0  6456420000.0
+Operating Revenue                                           4746091000.0  7069390000.0  7850175000.0  6456420000.0

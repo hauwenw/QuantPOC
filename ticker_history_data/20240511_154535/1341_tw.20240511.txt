@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	Km9, Pham Van Dong street
+address2	Hai Thanh Ward Duong Kinh district
+city	Hai phong
+country	Vietnam
+phone	84 225 3860 399
+fax	84 225 3860 373
+website	https://www.fulinvn.com
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Fulin Plastic Industry (Cayman) Holding Co., Ltd. engages in the production and sale of artificial leather and rubber fabric. The company offers latex, soft, TPU/PU, PVC solid, PVC sponge, and PVC casting leather products; tapes; PVC sheets; tarpaulins; and non-woven fabrics, as well as various embossing products. Its products are used in leather bags, shoes, furniture, vehicle, balls, raincoats, printing sheets, transparent bags, and overlays. The company was incorporated in 1997 and is headquartered in Hai Phong, Vietnam.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng-Hung  Huang', 'title': 'GM, Head of Technical R&D Department & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tien-Peng  Hsu', 'title': 'Manager, Financial Officer, Accounting Officer & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	67.1
+open	67.7
+dayLow	67.7
+dayHigh	69.8
+regularMarketPreviousClose	67.1
+regularMarketOpen	67.7
+regularMarketDayLow	67.7
+regularMarketDayHigh	69.8
+dividendRate	12.12
+dividendYield	0.17799999
+exDividendDate	1688601600	 (2023-07-06 08:00:00)
+payoutRatio	0.67440003
+beta	0.23
+trailingPE	15.37246
+volume	57267
+regularMarketVolume	57267
+averageVolume	29849
+averageVolume10days	39622
+averageDailyVolume10Day	39622
+bid	67.8
+ask	68.3
+marketCap	3537181952
+fiftyTwoWeekLow	60.4
+fiftyTwoWeekHigh	72.8
+priceToSalesTrailing12Months	1.4058479
+fiftyDayAverage	64.014
+twoHundredDayAverage	64.5765
+trailingAnnualDividendRate	4.5
+trailingAnnualDividendYield	0.067064084
+currency	TWD
+enterpriseValue	3617672704
+profitMargins	0.09149
+floatShares	44677350
+sharesOutstanding	51941000
+heldPercentInsiders	0.81306
+heldPercentInstitutions	0.0057599996
+impliedSharesOutstanding	51941000
+bookValue	25.223
+priceToBook	2.6999168
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.263
+netIncomeToCommon	230190000
+trailingEps	4.43
+enterpriseToRevenue	1.438
+enterpriseToEbitda	9.377
+52WeekChange	-0.027142882
+SandP52WeekChange	0.26265144
+lastDividendValue	2.987505
+lastDividendDate	1688601600	 (2023-07-06 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1341.TW
+underlyingSymbol	1341.TW
+shortName	FULIN PLASTIC INDUSTRY(CAYMAN) 
+longName	Fulin Plastic Industry (Cayman) Holding Co., Ltd.
+firstTradeDateEpochUtc	1545613200	 (2018-12-24 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	28309197-e3c4-3778-870e-b2047cce02ab
+messageBoardId	finmb_572067046
+gmtOffSetMilliseconds	28800000
+currentPrice	68.1
+recommendationKey	none
+totalCash	407492992
+totalCashPerShare	7.885
+ebitda	385801984
+totalDebt	505961984
+quickRatio	1.127
+currentRatio	1.894
+totalRevenue	2516048896
+debtToEquity	38.817
+revenuePerShare	48.951
+returnOnAssets	0.08028
+returnOnEquity	0.1833
+freeCashflow	492294016
+operatingCashflow	587601024
+earningsGrowth	-0.328
+revenueGrowth	-0.127
+grossMargins	0.21254998
+ebitdaMargins	0.15334
+operatingMargins	0.10393
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -541807.972064   -2383808.395892    -369717.682139     -79359.128405
+Tax Rate For Calcs                                                  0.215774          0.208703          0.210306          0.216237
+Normalized EBITDA                                                418731000.0       505697000.0       486440000.0       521254000.0
+Total Unusual Items                                               -2511000.0       -11422000.0        -1758000.0         -367000.0
+Total Unusual Items Excluding Goodwill                            -2511000.0       -11422000.0        -1758000.0         -367000.0
+Net Income From Continuing Operation Net Minority Interest       230190000.0       300199000.0       297676000.0       310881000.0
+Reconciled Depreciation                                           97506000.0        95328000.0        97163000.0       109209000.0
+Reconciled Cost Of Revenue                                      1981268000.0      2442310000.0      2180658000.0      2036482000.0
+EBITDA                                                           416220000.0       494275000.0       484682000.0       520887000.0
+EBIT                                                             318714000.0       398947000.0       387519000.0       411678000.0
+Net Interest Income                                              -15160000.0       -10245000.0        -3129000.0        -8814000.0
+Interest Expense                                                  25189000.0        19571000.0        10568000.0        15026000.0
+Interest Income                                                   10029000.0         9326000.0         7439000.0         6212000.0
+Normalized Income                                           232159192.027936  309237191.604108  299064282.317861  311168640.871595
+Net Income From Continuing And Discontinued Operation            230190000.0       300199000.0       297676000.0       310881000.0
+Total Expenses                                                  2221149000.0      2678014000.0      2409281000.0      2270485000.0
+Diluted Average Shares                                                   NaN        52692000.0        50690000.0        49546000.0
+Basic Average Shares                                                     NaN        50457000.0        49732000.0        49400000.0
+Diluted EPS                                                              NaN              5.71               5.7              6.27
+Basic EPS                                                                NaN              5.95              5.99              6.29
+Diluted NI Availto Com Stockholders                              230190000.0       300199000.0       297676000.0       310881000.0
+Net Income Common Stockholders                                   230190000.0       300199000.0       297676000.0       310881000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       230190000.0       300199000.0       297676000.0       310881000.0
+Net Income Including Noncontrolling Interests                    230190000.0       300199000.0       297676000.0       310881000.0
+Net Income Continuous Operations                                 230190000.0       300199000.0       297676000.0       310881000.0
+Tax Provision                                                     63335000.0        79177000.0        79275000.0        85771000.0
+Pretax Income                                                    293525000.0       379376000.0       376951000.0       396652000.0
+Other Non Operating Income Expenses                               16296000.0        33329000.0        25607000.0        11902000.0
+Special Income Charges                                            -2511000.0       -11422000.0        -1758000.0         -367000.0
+Write Off                                                          2511000.0        11422000.0         1758000.0          367000.0
+Net Non Operating Interest Income Expense                        -15160000.0       -10245000.0        -3129000.0        -8814000.0
+Interest Expense Non Operating                                    25189000.0        19571000.0        10568000.0        15026000.0
+Interest Income Non Operating                                     10029000.0         9326000.0         7439000.0         6212000.0
+Operating Income                                                 294900000.0       367714000.0       356231000.0       393931000.0
+Operating Expense                                                239881000.0       235704000.0       228623000.0       234003000.0
+Research And Development                                          17963000.0        15438000.0        13919000.0        14126000.0
+Selling General And Administration                               221918000.0       220266000.0       214704000.0       219877000.0
+Selling And Marketing Expense                                     82718000.0        83257000.0        70279000.0        74771000.0
+General And Administrative Expense                               139200000.0       137009000.0       144425000.0       145106000.0
+Gross Profit                                                     534781000.0       603418000.0       584854000.0       627934000.0
+Cost Of Revenue                                                 1981268000.0      2442310000.0      2180658000.0      2036482000.0
+Total Revenue                                                   2516049000.0      3045728000.0      2765512000.0      2664416000.0
+Operating Revenue                                               2516049000.0      3045728000.0      2765512000.0      2664416000.0

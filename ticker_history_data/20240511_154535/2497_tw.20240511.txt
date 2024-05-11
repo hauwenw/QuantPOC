@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 37 Gungdung 1st Road
+address2	Xidi Village Shengang Township
+city	Changhua
+country	Taiwan
+phone	886 4 797 7277
+fax	886 4 797 7165
+website	https://www.e-lead.com.tw
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	E-Lead Electronic Co., Ltd. designs and manufactures electronics devices for automotive industry in Taiwan and internationally. The company provides HUD heads-up display, passenger HUD, windshield HUD, combined HUD, windshield reflection HUD, virtual intelligent holographic assistant, and digital dashboard; driving safety protection products comprising driving assistance system, 2D/3D AVM, anti-collision millimeter, car air purifier, front and rear footage, and blind spot detection products. It also offers USB dual charger, electronic rearview mirror driving recorder, digital virtual 3D rearview mirror. In addition, the company provides LCD touch screen and smartphone linked video player. E-Lead Electronic Co., Ltd. was founded in 1983 and is based in Changhua, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Xi Xun  Chen', 'title': 'GM & Chairman', 'fiscalYear': 2013, 'totalPay': 3072000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Bi Huan Chen', 'title': 'Manager of Finance Unit', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhen Hao Wu', 'title': 'First Division In Charge of Marketing', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Qian-You  Chen', 'title': 'Vice President', 'fiscalYear': 2013, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1388448000
+maxAge	86400
+priceHint	2
+previousClose	56.7
+open	56.8
+dayLow	54.6
+dayHigh	56.8
+regularMarketPreviousClose	56.7
+regularMarketOpen	56.8
+regularMarketDayLow	54.6
+regularMarketDayHigh	56.8
+dividendRate	0.7
+dividendYield	0.0127
+exDividendDate	1690934400	 (2023-08-02 08:00:00)
+payoutRatio	0.3483
+fiveYearAvgDividendYield	3.95
+beta	0.913
+trailingPE	27.462687
+forwardPE	14.759358
+volume	869252
+regularMarketVolume	869252
+averageVolume	622478
+averageVolume10days	1406808
+averageDailyVolume10Day	1406808
+bid	55.2
+ask	55.3
+marketCap	6778449920
+fiftyTwoWeekLow	48.6
+fiftyTwoWeekHigh	79.0
+priceToSalesTrailing12Months	1.799767
+fiftyDayAverage	54.87
+twoHundredDayAverage	62.2185
+trailingAnnualDividendRate	1.0
+trailingAnnualDividendYield	0.017636685
+currency	TWD
+enterpriseValue	7165828608
+profitMargins	0.06176
+floatShares	59840693
+sharesOutstanding	122798000
+heldPercentInsiders	0.4177
+heldPercentInstitutions	0.00644
+impliedSharesOutstanding	123904000
+bookValue	17.811
+priceToBook	3.0992084
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.497
+netIncomeToCommon	232592000
+trailingEps	2.01
+forwardEps	3.74
+lastSplitFactor	105:100
+lastSplitDate	1221696000	 (2008-09-18 08:00:00)
+enterpriseToRevenue	1.903
+enterpriseToEbitda	18.414
+52WeekChange	-0.18343192
+SandP52WeekChange	0.26265144
+lastDividendValue	0.7
+lastDividendDate	1690934400	 (2023-08-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2497.TW
+underlyingSymbol	2497.TW
+shortName	E-LEAD ELECTRONIC CO LTD
+longName	E-Lead Electronic Co., Ltd.
+firstTradeDateEpochUtc	1012870800	 (2002-02-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ce704044-e566-3281-a658-ab7d889b0975
+messageBoardId	finmb_9709543
+gmtOffSetMilliseconds	28800000
+currentPrice	55.2
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	861347008
+totalCashPerShare	7.014
+ebitda	389145984
+totalDebt	1248726016
+quickRatio	1.237
+currentRatio	1.949
+totalRevenue	3766292992
+debtToEquity	57.095
+revenuePerShare	30.671
+returnOnAssets	0.03733
+returnOnEquity	0.10981
+freeCashflow	192045632
+operatingCashflow	469883008
+earningsGrowth	-0.491
+revenueGrowth	-0.019
+grossMargins	0.23871
+ebitdaMargins	0.103319995
+operatingMargins	0.09175
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                  -2246082.244905   -2868837.930674     9140000.0     67348.12069
+Tax Rate For Calcs                                                  0.149043          0.289285           0.2        0.014057
+Normalized EBITDA                                                466355000.0       669604000.0   259731000.0      39571000.0
+Total Unusual Items                                              -15070000.0        -9917000.0    45700000.0       4791000.0
+Total Unusual Items Excluding Goodwill                           -15070000.0        -9917000.0    45700000.0       4791000.0
+Net Income From Continuing Operation Net Minority Interest       232592000.0       346571000.0    96520000.0     -81921000.0
+Reconciled Depreciation                                          142885000.0       142820000.0   127028000.0     113164000.0
+Reconciled Cost Of Revenue                                      2867240000.0      2615293000.0  1815985000.0    1254004000.0
+EBITDA                                                           451285000.0       659687000.0   305431000.0      44362000.0
+EBIT                                                             308400000.0       516867000.0   178403000.0     -68802000.0
+Net Interest Income                                              -22864000.0       -27847000.0   -13444000.0     -12418000.0
+Interest Expense                                                  35070000.0        29230000.0    14480000.0      14287000.0
+Interest Income                                                   12206000.0         1383000.0     1036000.0       1869000.0
+Normalized Income                                           245415917.755095  353619162.069326    59960000.0 -86644651.87931
+Net Income From Continuing And Discontinued Operation            232592000.0       346571000.0    96520000.0     -81921000.0
+Total Expenses                                                  3502176000.0      3247293000.0  2350043000.0    1726389000.0
+Diluted Average Shares                                           126515000.0       122139000.0   119160494.0     119367055.0
+Basic Average Shares                                             122798000.0       120278000.0   119160494.0     119367055.0
+Diluted EPS                                                             1.87              2.85          0.81       -0.686711
+Basic EPS                                                               1.89              2.88          0.81       -0.686711
+Diluted NI Availto Com Stockholders                              232592000.0       346571000.0    96520000.0     -81921000.0
+Net Income Common Stockholders                                   232592000.0       346571000.0    96520000.0     -81921000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0             0.0
+Net Income                                                       232592000.0       346571000.0    96520000.0     -81921000.0
+Net Income Including Noncontrolling Interests                    232592000.0       346571000.0    96520000.0     -81921000.0
+Net Income Continuous Operations                                 232592000.0       346571000.0    96520000.0     -81921000.0
+Tax Provision                                                     40738000.0       141066000.0    67403000.0      -1168000.0
+Pretax Income                                                    273330000.0       487637000.0   163923000.0     -83089000.0
+Other Non Operating Income Expenses                               47145000.0       205673000.0     4051000.0      17598000.0
+Special Income Charges                                           -15070000.0        -9917000.0    45700000.0       4791000.0
+Other Special Charges                                                    NaN               NaN           NaN      -2295000.0
+Write Off                                                         15070000.0         9917000.0   -45700000.0      -4791000.0
+Net Non Operating Interest Income Expense                        -22864000.0       -27847000.0   -13444000.0     -12418000.0
+Interest Expense Non Operating                                    35070000.0        29230000.0    14480000.0      14287000.0
+Interest Income Non Operating                                     12206000.0         1383000.0     1036000.0       1869000.0
+Operating Income                                                 264117000.0       318461000.0   125684000.0     -93038000.0
+Operating Expense                                                634936000.0       632000000.0   534058000.0     472385000.0
+Research And Development                                         316620000.0       290428000.0   239530000.0     206091000.0
+Selling General And Administration                               318316000.0       341572000.0   294528000.0     266294000.0
+Selling And Marketing Expense                                    121168000.0       142465000.0   144769000.0     128972000.0
+General And Administrative Expense                               197148000.0       199107000.0   149759000.0     137322000.0
+Gross Profit                                                     899053000.0       950461000.0   659742000.0     379347000.0
+Cost Of Revenue                                                 2867240000.0      2615293000.0  1815985000.0    1254004000.0
+Total Revenue                                                   3766293000.0      3565754000.0  2475727000.0    1633351000.0
+Operating Revenue                                               3766293000.0      3565754000.0  2475727000.0    1633351000.0

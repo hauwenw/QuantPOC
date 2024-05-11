@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 492, Chongxin Road
+address2	1-8F, Section 5 Sanchong District
+city	New Taipei City
+zip	24160
+country	Taiwan
+phone	886 2 2995 6645
+fax	886 2 2995 6649
+website	https://www.geniusnet.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	KYE Systems Corp. engages in the manufacturing, processing, and trading of computer peripheral products. The company offers mouse, keyboards, card readers, and video imaging products, such as network and security cameras, earphone speakers, game console peripherals, and other consumer electronics products. KYE Systems Corp. was founded in 1983 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Kun  Tso', 'title': 'Chairman & Senior Advisor', 'fiscalYear': 2021, 'totalPay': 4518000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pai-Hsiang  Li', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 1998000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. An-Min  Kao', 'title': 'VP, Accounting Manager & Chief Corporate Governance Officer', 'fiscalYear': 2021, 'totalPay': 2668000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	20.1
+open	20.2
+dayLow	19.9
+dayHigh	20.55
+regularMarketPreviousClose	20.1
+regularMarketOpen	20.2
+regularMarketDayLow	19.9
+regularMarketDayHigh	20.55
+dividendRate	0.2
+dividendYield	0.0099
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.4878
+fiveYearAvgDividendYield	2.58
+beta	0.497
+trailingPE	49.14634
+volume	3200269
+regularMarketVolume	3200269
+averageVolume	11706836
+averageVolume10days	4740225
+averageDailyVolume10Day	4740225
+bid	20.15
+ask	20.2
+marketCap	4463789056
+fiftyTwoWeekLow	10.35
+fiftyTwoWeekHigh	25.95
+priceToSalesTrailing12Months	5.800526
+fiftyDayAverage	20.891
+twoHundredDayAverage	15.2745
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.014925374
+currency	TWD
+enterpriseValue	3573833216
+profitMargins	0.09382
+sharesOutstanding	221528000
+heldPercentInsiders	0.29021
+heldPercentInstitutions	0.02009
+impliedSharesOutstanding	226254000
+bookValue	13.474
+priceToBook	1.4954728
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	72201000
+trailingEps	0.41
+lastSplitFactor	1041.681:1000
+lastSplitDate	1447027200	 (2015-11-09 08:00:00)
+enterpriseToRevenue	4.644
+enterpriseToEbitda	92.166
+52WeekChange	0.9282297
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2365.TW
+underlyingSymbol	2365.TW
+shortName	KYE SYSTEM CORP
+longName	KYE Systems Corp.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ee99aabe-fa49-3d86-8e26-a30f822d3232
+messageBoardId	finmb_108680
+gmtOffSetMilliseconds	28800000
+currentPrice	20.15
+recommendationKey	none
+totalCash	1298104064
+totalCashPerShare	5.86
+ebitda	38776000
+totalDebt	376982016
+quickRatio	5.409
+currentRatio	6.245
+totalRevenue	769548992
+debtToEquity	12.5
+revenuePerShare	3.474
+returnOnAssets	0.00118
+returnOnEquity	0.02391
+freeCashflow	104484000
+operatingCashflow	174652000
+revenueGrowth	0.176
+grossMargins	0.37765998
+ebitdaMargins	0.05039
+operatingMargins	-0.05416
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -69963.787062      5967.855959   2049460.278054    1611936.265379
+Tax Rate For Calcs                                                 0.223526          0.00961         0.387495          0.204509
+Normalized EBITDA                                               158086000.0      111811000.0      142499000.0       252756000.0
+Total Unusual Items                                               -313000.0         621000.0        5289000.0         7882000.0
+Total Unusual Items Excluding Goodwill                            -313000.0         621000.0        5289000.0         7882000.0
+Net Income From Continuing Operation Net Minority Interest       72201000.0       54408000.0       50512000.0       146236000.0
+Reconciled Depreciation                                          57484000.0       52398000.0       60040000.0        71810000.0
+Reconciled Cost Of Revenue                                      478921000.0      731981000.0     1023797000.0      1137698000.0
+EBITDA                                                          157773000.0      112432000.0      147788000.0       260638000.0
+EBIT                                                            100289000.0       60034000.0       87748000.0       188828000.0
+Net Interest Income                                              26342000.0        3475000.0       -2512000.0         4798000.0
+Interest Expense                                                  8112000.0        5716000.0        5174000.0         4156000.0
+Interest Income                                                  34454000.0        9191000.0        2662000.0         8954000.0
+Normalized Income                                           72444036.212938  53792967.855959  47272460.278054  139965936.265379
+Net Income From Continuing And Discontinued Operation            72201000.0       54408000.0       50512000.0       146236000.0
+Total Expenses                                                  762604000.0     1010180000.0     1320197000.0      1499356000.0
+Diluted Average Shares                                                  NaN      221676000.0      223142000.0       228964000.0
+Basic Average Shares                                                    NaN      221528000.0      222903000.0       228307000.0
+Diluted EPS                                                             NaN             0.25             0.23              0.64
+Basic EPS                                                               NaN             0.25             0.23              0.64
+Diluted NI Availto Com Stockholders                              72201000.0       54408000.0       50512000.0       146236000.0
+Net Income Common Stockholders                                   72201000.0       54408000.0       50512000.0       146236000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0              0.0               0.0
+Net Income                                                       72201000.0       54408000.0       50512000.0       146236000.0
+Minority Interests                                                 628000.0         612000.0         -65000.0         -669000.0
+Net Income Including Noncontrolling Interests                    71573000.0       53796000.0       50577000.0       146905000.0
+Net Income Continuous Operations                                 71573000.0       53796000.0       50577000.0       146905000.0
+Tax Provision                                                    20604000.0         522000.0       31997000.0        37767000.0
+Pretax Income                                                    92177000.0       54318000.0       82574000.0       184672000.0
+Other Non Operating Income Expenses                              44497000.0       44082000.0       32085000.0        16855000.0
+Special Income Charges                                            -313000.0         621000.0        5289000.0         7882000.0
+Write Off                                                          313000.0        -621000.0       -5289000.0        -7882000.0
+Net Non Operating Interest Income Expense                        26342000.0        3475000.0       -2512000.0         4798000.0
+Interest Expense Non Operating                                    8112000.0        5716000.0        5174000.0         4156000.0
+Interest Income Non Operating                                    34454000.0        9191000.0        2662000.0         8954000.0
+Operating Income                                                  6945000.0       10495000.0       45716000.0       153913000.0
+Operating Expense                                               283683000.0      278199000.0      296400000.0       361658000.0
+Research And Development                                          6597000.0        2099000.0        1091000.0         2131000.0
+Selling General And Administration                              277086000.0      276100000.0      295309000.0       359527000.0
+Selling And Marketing Expense                                    76326000.0       76383000.0       99068000.0       106373000.0
+General And Administrative Expense                              200760000.0      199717000.0      196241000.0       253154000.0
+Gross Profit                                                    290628000.0      288694000.0      342116000.0       515571000.0
+Cost Of Revenue                                                 478921000.0      731981000.0     1023797000.0      1137698000.0
+Total Revenue                                                   769549000.0     1020675000.0     1365913000.0      1653269000.0
+Operating Revenue                                               769549000.0     1020675000.0     1365913000.0      1653269000.0

@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 200, Keelung Road
+address2	23rd Floor-1 Section 1 Xinyi District
+city	Taipei
+country	Taiwan
+phone	886 3 399 2888
+website	https://www.ftz.com.tw
+industry	Specialty Business Services
+industryKey	specialty-business-services
+industryDisp	Specialty Business Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Farglory Free Trade Zone Investment Holding Co., Ltd., an investment holding company, provides free trade zone and logistics services in Taiwan. It offers air cargo, air container, and cargo tray devanning, untraying, and unloading services. The company also engages in the warehouse business; and leasing plants, offices, and warehouses. Farglory Free Trade Zone Investment Holding Co., Ltd. was incorporated in 1991 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	653
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Chia-Ling  Lai', 'title': 'President, Head of MIS Planning Dept, Head of HR Dept and Head of Safety & Health Dept.', 'fiscalYear': 2021, 'totalPay': 3908000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chueh-Wei  Hsu', 'title': 'Financial Manager', 'fiscalYear': 2021, 'totalPay': 2196000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sung-Tsao  Chen', 'title': 'Head of Business Management Planning Department', 'fiscalYear': 2021, 'totalPay': 2652000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Lin  Lin', 'title': 'Head of Auditing Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	55.7
+open	56.0
+dayLow	55.9
+dayHigh	57.0
+regularMarketPreviousClose	55.7
+regularMarketOpen	56.0
+regularMarketDayLow	55.9
+regularMarketDayHigh	57.0
+dividendRate	1.18
+dividendYield	0.021
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	0.4525
+fiveYearAvgDividendYield	2.35
+trailingPE	21.57088
+forwardPE	18.580858
+volume	603488
+regularMarketVolume	603488
+averageVolume	1415423
+averageVolume10days	1263559
+averageDailyVolume10Day	1263559
+bid	56.3
+ask	56.4
+marketCap	18938023936
+fiftyTwoWeekLow	46.0
+fiftyTwoWeekHigh	76.133865
+priceToSalesTrailing12Months	6.2566047
+fiftyDayAverage	58.066
+twoHundredDayAverage	55.513683
+trailingAnnualDividendRate	1.7
+trailingAnnualDividendYield	0.030520646
+currency	TWD
+enterpriseValue	31391698944
+profitMargins	0.27074
+floatShares	155562780
+sharesOutstanding	336376992
+heldPercentInsiders	0.61756
+heldPercentInstitutions	0.01179
+impliedSharesOutstanding	342299008
+bookValue	29.854
+priceToBook	1.8858445
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.317
+netIncomeToCommon	819497024
+trailingEps	2.61
+forwardEps	3.03
+lastSplitFactor	1100:1000
+lastSplitDate	1690156800	 (2023-07-24 08:00:00)
+enterpriseToRevenue	10.371
+enterpriseToEbitda	20.603
+52WeekChange	-0.09452748
+SandP52WeekChange	0.26265144
+lastDividendValue	1.180925
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	5607.TW
+underlyingSymbol	5607.TW
+shortName	FARGLORY FREE TRADE ZONE INVEST
+longName	Farglory Free Trade Zone Investment Holding Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	23b0387b-6c0b-3e90-af3b-b11bcf646fad
+messageBoardId	finmb_9407409
+gmtOffSetMilliseconds	28800000
+currentPrice	56.3
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1306803968
+totalCashPerShare	3.844
+ebitda	1523677952
+totalDebt	13560785920
+quickRatio	0.516
+currentRatio	0.528
+totalRevenue	3026885120
+debtToEquity	133.629
+revenuePerShare	9.579
+returnOnAssets	0.024030002
+returnOnEquity	0.08925
+freeCashflow	1094300416
+operatingCashflow	1229432064
+earningsGrowth	-0.395
+revenueGrowth	0.173
+grossMargins	0.46925998
+ebitdaMargins	0.50338
+operatingMargins	0.34043998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     302800.0      113534.433374    -333894.151598      34898.291984
+Tax Rate For Calcs                                                   0.2           0.112857          0.207259          0.013982
+Normalized EBITDA                                           1586373000.0       1876278000.0      1407322000.0      1035442000.0
+Total Unusual Items                                            1514000.0          1006000.0        -1611000.0         2496000.0
+Total Unusual Items Excluding Goodwill                         1514000.0          1006000.0        -1611000.0         2496000.0
+Net Income From Continuing Operation Net Minority Interest   892203000.0       1095847000.0       570953000.0       461159000.0
+Reconciled Depreciation                                      599548000.0        397577000.0       372373000.0       339948000.0
+Reconciled Cost Of Revenue                                  1477873000.0       1257138000.0      1053301000.0       852821000.0
+EBITDA                                                      1587887000.0       1877284000.0      1405711000.0      1037938000.0
+EBIT                                                         988339000.0       1479707000.0      1033338000.0       697990000.0
+Net Interest Income                                         -215871000.0       -124949000.0      -112137000.0      -101015000.0
+Interest Expense                                             222695000.0        126848000.0       112625000.0       101567000.0
+Interest Income                                                6824000.0          1899000.0          488000.0          552000.0
+Normalized Income                                            890991800.0  1094954534.433374  572230105.848402  458697898.291984
+Net Income From Continuing And Discontinued Operation        892203000.0       1095847000.0       570953000.0       461159000.0
+Total Expenses                                              1958655000.0       1759619000.0      1501484000.0      1234381000.0
+Diluted Average Shares                                       306565000.0        282856000.0       257210718.0       257331437.0
+Basic Average Shares                                         306363000.0        282617000.0       257063173.0       257063173.0
+Diluted EPS                                                         2.91               3.87          2.218707           1.78928
+Basic EPS                                                           2.91               3.88          2.218707          1.798226
+Diluted NI Availto Com Stockholders                          892203000.0       1095847000.0       570953000.0       461159000.0
+Net Income Common Stockholders                               892203000.0       1095847000.0       570953000.0       461159000.0
+Otherunder Preferred Stock Dividend                                  0.0                0.0               0.0               0.0
+Net Income                                                   892203000.0       1095847000.0       570953000.0       461159000.0
+Minority Interests                                                   0.0       -104332000.0      -158934000.0      -126925000.0
+Net Income Including Noncontrolling Interests                892203000.0       1200179000.0       729887000.0       588084000.0
+Net Income Continuous Operations                             892203000.0       1200179000.0       729887000.0       588084000.0
+Tax Provision                                               -126559000.0        152680000.0       190826000.0         8339000.0
+Pretax Income                                                765644000.0       1352859000.0       920713000.0       596423000.0
+Other Non Operating Income Expenses                           30730000.0         39190000.0         8308000.0        21934000.0
+Special Income Charges                                         1514000.0          1006000.0        -1611000.0         2496000.0
+Write Off                                                     -1514000.0         -1006000.0         1611000.0        -2496000.0
+Net Non Operating Interest Income Expense                   -215871000.0       -124949000.0      -112137000.0      -101015000.0
+Interest Expense Non Operating                               222695000.0        126848000.0       112625000.0       101567000.0
+Interest Income Non Operating                                  6824000.0          1899000.0          488000.0          552000.0
+Operating Income                                             949356000.0       1437725000.0      1026153000.0       673008000.0
+Operating Expense                                            480782000.0        502481000.0       448183000.0       381560000.0
+Selling General And Administration                           480782000.0        502481000.0       448183000.0       381560000.0
+Selling And Marketing Expense                                105565000.0        127663000.0       128246000.0       102270000.0
+General And Administrative Expense                           375217000.0        374818000.0       319937000.0       279290000.0
+Gross Profit                                                1430138000.0       1940206000.0      1474336000.0      1054568000.0
+Cost Of Revenue                                             1477873000.0       1257138000.0      1053301000.0       852821000.0
+Total Revenue                                               2908011000.0       3197344000.0      2527637000.0      1907389000.0
+Operating Revenue                                           2908011000.0       3197344000.0      2527637000.0      1907389000.0

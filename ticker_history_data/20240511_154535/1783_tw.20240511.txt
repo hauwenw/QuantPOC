@@ -1,0 +1,149 @@
+=== Ticker Info ===
+address1	No.88, Keji 1st Road
+address2	Guishan District
+city	Taoyuan City
+zip	333
+country	Taiwan
+phone	886 3 328 7222
+fax	886 3 328 7333
+website	https://mbi-bio.com
+industry	Medical Instruments & Supplies
+industryKey	medical-instruments-supplies
+industryDisp	Medical Instruments & Supplies
+sector	Healthcare
+sectorKey	healthcare
+sectorDisp	Healthcare
+longBusinessSummary	Maxigen Biotech Inc. researches, develops, produces, and sells implantable medical device and cosmetic products in Taiwan, America, Europe, rest of Asia, and internationally. It operates in two segments, Biomedical Products and Consumer Products. The company offers intra-articular injections under the ArtiAid, ArtiAid Plus, and ArtiBest names to treat osteoarthritis; Foramic, a bone substitute granule; FormaGraft, a bone graft substitute; GingivAid, a collagen dental grafts for use in dental implant surgery; and BestAid, a collagen bone graft. It also provides FormaAid, a guided tissue regeneration membrane; HealiAid, a collagen wound dressing product for dental and surgical use; PreviscAid, an ophthalmic viscoelastic device; BiVisc, an ophthalmic viscoelastic system; ViscAid, an ophthalmic viscoelastic device; and dermal filler injections under the Formaderm brand. In addition, the company engages in the manufacturing and sales of beauty care products. Maxigen Biotech Inc. was incorporated in 1998 and is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Ching-Ting  Chen', 'title': 'GM & Representative Director', 'fiscalYear': 2021, 'totalPay': 1322000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ruei Yi  Wu', 'title': 'Financial Officer & Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Lee', 'title': 'Senior Manager of Administration', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	42.3
+open	42.6
+dayLow	42.6
+dayHigh	43.85
+regularMarketPreviousClose	42.3
+regularMarketOpen	42.6
+regularMarketDayLow	42.6
+regularMarketDayHigh	43.85
+dividendRate	0.5
+dividendYield	0.0115
+exDividendDate	1694044800	 (2023-09-07 08:00:00)
+payoutRatio	0.303
+trailingPE	26.303032
+volume	226142
+regularMarketVolume	226142
+averageVolume	143041
+averageVolume10days	106085
+averageDailyVolume10Day	106085
+bid	43.4
+ask	43.5
+marketCap	3860733952
+fiftyTwoWeekLow	41.8
+fiftyTwoWeekHigh	64.28571
+priceToSalesTrailing12Months	6.3693137
+fiftyDayAverage	44.66
+twoHundredDayAverage	49.27413
+currency	TWD
+enterpriseValue	3369282048
+profitMargins	0.24712999
+sharesOutstanding	88957000
+heldPercentInsiders	0.4473
+heldPercentInstitutions	0.018480001
+impliedSharesOutstanding	88957000
+bookValue	15.239
+priceToBook	2.847956
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.361
+netIncomeToCommon	149795008
+trailingEps	1.65
+lastSplitFactor	1050:1000
+lastSplitDate	1694044800	 (2023-09-07 08:00:00)
+enterpriseToRevenue	5.559
+enterpriseToEbitda	20.464
+52WeekChange	-0.25172412
+SandP52WeekChange	0.26265144
+lastDividendValue	0.5
+lastDividendDate	1694044800	 (2023-09-07 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1783.TW
+underlyingSymbol	1783.TW
+shortName	MAXIGEN BIOTECH INC
+longName	Maxigen Biotech Inc.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	c0d2eaf9-665a-3718-828a-2e0e738d0a6f
+messageBoardId	finmb_33303243
+gmtOffSetMilliseconds	28800000
+currentPrice	43.4
+recommendationKey	none
+totalCash	484638016
+totalCashPerShare	5.458
+ebitda	164640992
+quickRatio	4.18
+currentRatio	4.818
+totalRevenue	606145984
+revenuePerShare	6.753
+returnOnAssets	0.05775
+returnOnEquity	0.11108
+freeCashflow	122224624
+operatingCashflow	200891008
+earningsGrowth	-0.354
+revenueGrowth	-0.112
+grossMargins	0.6849
+ebitdaMargins	0.27162
+operatingMargins	0.19941
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31      2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    -28142.434064    -750327.035831   -304025.77309     16970.196518
+Tax Rate For Calcs                                                  0.141419          0.159102        0.100538          0.17495
+Normalized EBITDA                                                220957000.0       200146000.0     133587000.0      110081000.0
+Total Unusual Items                                                -199000.0        -4716000.0      -3024000.0          97000.0
+Total Unusual Items Excluding Goodwill                             -199000.0        -4716000.0      -3024000.0          97000.0
+Net Income From Continuing Operation Net Minority Interest       165828000.0       139404000.0      87667000.0       63311000.0
+Reconciled Depreciation                                           27616000.0        29582000.0      32901000.0       33192000.0
+Reconciled Cost Of Revenue                                       198021000.0       230439000.0     250949000.0      243171000.0
+EBITDA                                                           220758000.0       195430000.0     130563000.0      110178000.0
+EBIT                                                             193142000.0       165848000.0      97662000.0       76986000.0
+Net Interest Income                                               12307000.0         3113000.0        285000.0         525000.0
+Interest Expense                                                         0.0           68000.0        196000.0         250000.0
+Interest Income                                                   12307000.0         3181000.0        481000.0         775000.0
+Normalized Income                                           165998857.565936  143369672.964169  90386974.22691  63230970.196518
+Net Income From Continuing And Discontinued Operation            165828000.0       139404000.0      87667000.0       63311000.0
+Total Expenses                                                   472066000.0       471099000.0     419005000.0      396683000.0
+Diluted Average Shares                                            89453000.0        89392000.0      84507150.0       80631705.0
+Basic Average Shares                                              88934000.0        88934000.0      84231000.0       80232075.0
+Diluted EPS                                                             1.85              1.56        1.038095         0.787879
+Basic EPS                                                               1.86              1.57        1.038095         0.787879
+Diluted NI Availto Com Stockholders                              165828000.0       139404000.0      87667000.0       63311000.0
+Net Income Common Stockholders                                   165828000.0       139404000.0      87667000.0       63311000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0             0.0              0.0
+Net Income                                                       165828000.0       139404000.0      87667000.0       63311000.0
+Minority Interests                                                       NaN               NaN             0.0              0.0
+Net Income Including Noncontrolling Interests                    165828000.0       139404000.0      87667000.0       63311000.0
+Net Income Continuous Operations                                 165828000.0       139404000.0      87667000.0       63311000.0
+Tax Provision                                                     27314000.0        26376000.0       9799000.0       13425000.0
+Pretax Income                                                    193142000.0       165780000.0      97466000.0       76736000.0
+Other Non Operating Income Expenses                               30985000.0        34051000.0       7234000.0       15106000.0
+Special Income Charges                                             -199000.0        -4716000.0      -3024000.0          97000.0
+Write Off                                                           199000.0         4716000.0       3024000.0         -97000.0
+Net Non Operating Interest Income Expense                         12307000.0         3113000.0        285000.0         525000.0
+Interest Expense Non Operating                                           0.0           68000.0        196000.0         250000.0
+Interest Income Non Operating                                     12307000.0         3181000.0        481000.0         775000.0
+Operating Income                                                 150049000.0       133332000.0      92971000.0       61008000.0
+Operating Expense                                                274045000.0       240660000.0     168056000.0      153512000.0
+Research And Development                                          68595000.0        99632000.0      75681000.0       69150000.0
+Selling General And Administration                               205450000.0       141028000.0      92375000.0       84362000.0
+Selling And Marketing Expense                                    132882000.0        78015000.0      39533000.0       34180000.0
+General And Administrative Expense                                72568000.0        63013000.0      52842000.0       50182000.0
+Gross Profit                                                     424094000.0       373992000.0     261027000.0      214520000.0
+Cost Of Revenue                                                  198021000.0       230439000.0     250949000.0      243171000.0
+Total Revenue                                                    622115000.0       604431000.0     511976000.0      457691000.0
+Operating Revenue                                                622115000.0       604431000.0     511976000.0      457691000.0

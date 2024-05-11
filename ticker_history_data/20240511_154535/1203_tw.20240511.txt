@@ -1,0 +1,162 @@
+=== Ticker Info ===
+address1	No. 79, Chungshan N. Rd.
+address2	5th Floor Section 2
+city	Taipei
+country	Taiwan
+phone	886 2 2571 7271
+fax	886 2 2571 2920
+website	https://www.vewong.com
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Ve Wong Corporation produces and distributes foods, drinks, and seasonings in Taiwan, Thailand, and Vietnam. The company offers instant noodles and soups, monosodium glutamate (MSG), IG-enriched MSG, soup base seasonings, spice powder mixes, soy sauces, canned fried glutens, and canned mixed porridge-Chinese style. It also provides canned drinks of asparagus, lemon tea, peach, guava, orange, mixed fruits and vegetables, winter melon, honey herbal jelly, paochong tea, barley, etc.; pre-cooked fast foods-Chinese style; and mineral water. In addition, the company imports Canada's canola cooking oil, Japanese spirits, and Alaskan pure glacier water. Further, it engages in the residential, and building and industrial plant development, as well as leasing and selling activities; investment and construction of public construction works; and imports tobacco, alcohol, and beverages. The company offers its products under the Ve Wong, A-One, Vihuongto, Champion, Prince, Kung-Fu, Kim Ve Wong, Rarity, and Hot of Hots brand names. Ve Wong Corporation was incorporated in 1959 and is based in Taipei, Taiwan.
+fullTimeEmployees	1793
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kung-Pin  Chen', 'title': 'GM, MD & Director', 'fiscalYear': 2021, 'totalPay': 3047000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Chieh  Lu', 'title': 'Manager of Finance & Accounting', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Egawa  Manwa', 'title': 'MD & Representative Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chi-Fang  Liao', 'title': 'MD & Independent Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Yu  Kan', 'title': 'MD & Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	50.4
+open	50.3
+dayLow	50.3
+dayHigh	50.7
+regularMarketPreviousClose	50.4
+regularMarketOpen	50.3
+regularMarketDayLow	50.3
+regularMarketDayHigh	50.7
+dividendRate	1.1
+dividendYield	0.0217
+exDividendDate	1693440000	 (2023-08-31 08:00:00)
+payoutRatio	0.6114
+fiveYearAvgDividendYield	3.16
+beta	0.307
+trailingPE	28.166668
+forwardPE	28.483147
+volume	6255
+regularMarketVolume	6255
+averageVolume	20152
+averageVolume10days	12242
+averageDailyVolume10Day	12242
+bid	50.6
+ask	50.8
+marketCap	12051694592
+fiftyTwoWeekLow	37.25
+fiftyTwoWeekHigh	59.5
+priceToSalesTrailing12Months	1.8819854
+fiftyDayAverage	50.564
+twoHundredDayAverage	48.4445
+trailingAnnualDividendRate	1.1
+trailingAnnualDividendYield	0.021825397
+currency	TWD
+enterpriseValue	12118030336
+profitMargins	0.06679
+floatShares	67118704
+sharesOutstanding	237706000
+heldPercentInsiders	0.61233
+heldPercentInstitutions	0.01875
+impliedSharesOutstanding	237706000
+bookValue	24.274
+priceToBook	2.0886545
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.209
+netIncomeToCommon	427700000
+trailingEps	1.8
+forwardEps	1.78
+lastSplitFactor	1092.317:1000
+lastSplitDate	1284508800	 (2010-09-15 08:00:00)
+enterpriseToRevenue	1.892
+enterpriseToEbitda	12.359
+52WeekChange	0.33421052
+SandP52WeekChange	0.26265144
+lastDividendValue	1.1
+lastDividendDate	1693440000	 (2023-08-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1203.TW
+underlyingSymbol	1203.TW
+shortName	VE WONG CORPORATION
+longName	Ve Wong Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d4ca856a-738e-30e7-be67-472a94f14174
+messageBoardId	finmb_9870721
+gmtOffSetMilliseconds	28800000
+currentPrice	50.7
+recommendationKey	none
+totalCash	1968387968
+totalCashPerShare	8.281
+ebitda	980473984
+totalDebt	1042609024
+quickRatio	1.33
+currentRatio	2.423
+totalRevenue	6403713024
+debtToEquity	15.418
+revenuePerShare	26.94
+returnOnAssets	0.053150002
+returnOnEquity	0.098620005
+freeCashflow	1059940480
+operatingCashflow	1314630016
+earningsGrowth	0.209
+revenueGrowth	-0.005
+grossMargins	0.29141
+ebitdaMargins	0.15311
+operatingMargins	0.17436
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -431932.353168   22261970.546598    -269087.617042    -981550.016467
+Tax Rate For Calcs                                                  0.284916          0.206642          0.240042          0.262798
+Normalized EBITDA                                               1084870000.0      1172515000.0      1071866000.0      1121692000.0
+Total Unusual Items                                               -1516000.0       107732000.0        -1121000.0        -3735000.0
+Total Unusual Items Excluding Goodwill                            -1516000.0       107732000.0        -1121000.0        -3735000.0
+Net Income From Continuing Operation Net Minority Interest       427700000.0       625396000.0       447878000.0       429096000.0
+Reconciled Depreciation                                          141158000.0       142161000.0       139215000.0       162350000.0
+Reconciled Cost Of Revenue                                      4537602000.0      4560378000.0      3928723000.0      3999778000.0
+EBITDA                                                          1083354000.0      1280247000.0      1070745000.0      1117957000.0
+EBIT                                                             942196000.0      1138086000.0       931530000.0       955607000.0
+Net Interest Income                                               22603000.0         8805000.0         -862000.0         5348000.0
+Interest Expense                                                  22419000.0        17061000.0        14334000.0        14317000.0
+Interest Income                                                   45022000.0        25866000.0        13472000.0        19665000.0
+Normalized Income                                           428784067.646832  539925970.546598  448729912.382958  431849449.983533
+Net Income From Continuing And Discontinued Operation            427700000.0       625396000.0       447878000.0       429096000.0
+Total Expenses                                                  5547030000.0      5550414000.0      4960471000.0      5063806000.0
+Rent Expense Supplemental                                         32892000.0        32854000.0        34157000.0        33299000.0
+Diluted Average Shares                                                   NaN       237706000.0       237706000.0       237706000.0
+Basic Average Shares                                                     NaN       237706000.0       237706000.0       237706000.0
+Diluted EPS                                                              NaN              2.63              1.88              1.81
+Basic EPS                                                                NaN              2.63              1.88              1.81
+Diluted NI Availto Com Stockholders                              427700000.0       625396000.0       447878000.0       429096000.0
+Net Income Common Stockholders                                   427700000.0       625396000.0       447878000.0       429096000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       427700000.0       625396000.0       447878000.0       429096000.0
+Minority Interests                                              -230018000.0      -263978000.0      -249152000.0      -264825000.0
+Net Income Including Noncontrolling Interests                    657718000.0       889374000.0       697030000.0       693921000.0
+Net Income Discontinuous Operations                                      0.0               0.0               0.0               0.0
+Net Income Continuous Operations                                 657718000.0       889374000.0       697030000.0       693921000.0
+Tax Provision                                                    262059000.0       231651000.0       220166000.0       247369000.0
+Pretax Income                                                    919777000.0      1121025000.0       917196000.0       941290000.0
+Other Non Operating Income Expenses                                9109000.0        10415000.0        14702000.0        10106000.0
+Special Income Charges                                            -1516000.0       107732000.0        -7694000.0       -10954000.0
+Other Special Charges                                                88000.0      -170374000.0          124000.0         2978000.0
+Write Off                                                          1428000.0        76832000.0         7570000.0         4983000.0
+Impairment Of Capital Assets                                             0.0       -14190000.0               0.0         2993000.0
+Net Non Operating Interest Income Expense                         22603000.0         8805000.0         -862000.0         5348000.0
+Interest Expense Non Operating                                    22419000.0        17061000.0        14334000.0        14317000.0
+Interest Income Non Operating                                     45022000.0        25866000.0        13472000.0        19665000.0
+Operating Income                                                 856683000.0       835143000.0       864367000.0       979894000.0
+Operating Expense                                               1009428000.0       990036000.0      1031748000.0      1064028000.0
+Research And Development                                           8464000.0         7933000.0         9769000.0         8492000.0
+Selling General And Administration                              1000964000.0       982103000.0      1021979000.0      1055536000.0
+Selling And Marketing Expense                                    676440000.0       661348000.0       694919000.0       731548000.0
+General And Administrative Expense                               324524000.0       320755000.0       327060000.0       323988000.0
+Gross Profit                                                    1866111000.0      1825179000.0      1896115000.0      2043922000.0
+Cost Of Revenue                                                 4537602000.0      4560378000.0      3928723000.0      3999778000.0
+Total Revenue                                                   6403713000.0      6385557000.0      5824838000.0      6043700000.0
+Operating Revenue                                               6403713000.0      6385557000.0      5824838000.0      6043700000.0

@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 453, Shatian Road
+address2	Section 1 Dadu District
+city	Taichung
+zip	432
+country	Taiwan
+phone	886 4 2693 3621
+fax	886 4 2693 0555
+website	https://www.fopco.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Formosa Oilseed Processing Co., Ltd. produces and sells oil and feed products in Taiwan. It offers soybean and palm oil; soybean meat; and feed products, such as soybean, corn, wheat, and barley. The company was incorporated in 1986 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chih-Pin  Chang', 'title': 'President & Vice General Manager', 'fiscalYear': 2021, 'totalPay': 2576000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Yu  Chang', 'title': 'Senior Assistant Manager', 'fiscalYear': 2021, 'totalPay': 1793000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Pao-Sheng  Chiu', 'title': 'Assistant Manager', 'fiscalYear': 2021, 'totalPay': 1757000, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	67.0
+open	67.1
+dayLow	66.7
+dayHigh	67.2
+regularMarketPreviousClose	67.0
+regularMarketOpen	67.1
+regularMarketDayLow	66.7
+regularMarketDayHigh	67.2
+dividendRate	1.5
+dividendYield	0.0224
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	0.9375
+fiveYearAvgDividendYield	2.91
+beta	0.232
+trailingPE	41.9375
+volume	52659
+regularMarketVolume	52659
+averageVolume	35025
+averageVolume10days	54085
+averageDailyVolume10Day	54085
+bid	66.7
+ask	67.1
+marketCap	15408709632
+fiftyTwoWeekLow	52.0
+fiftyTwoWeekHigh	67.2
+priceToSalesTrailing12Months	1.0594686
+fiftyDayAverage	57.702
+twoHundredDayAverage	54.77938
+trailingAnnualDividendRate	1.4
+trailingAnnualDividendYield	0.020895522
+currency	TWD
+enterpriseValue	19041214464
+profitMargins	0.025290001
+floatShares	37782340
+sharesOutstanding	229638000
+heldPercentInsiders	0.68886
+heldPercentInstitutions	0.00311
+impliedSharesOutstanding	229638000
+bookValue	15.294
+priceToBook	4.3873415
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	3.767
+netIncomeToCommon	367879008
+trailingEps	1.6
+lastSplitFactor	1050:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	1.309
+enterpriseToEbitda	31.854
+52WeekChange	0.16840792
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1225.TW
+underlyingSymbol	1225.TW
+shortName	FORMOSA OILSEED PROCESSING
+longName	Formosa Oilseed Processing Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	f68441cc-5a69-31b5-9f01-e140bbeb885e
+messageBoardId	finmb_9754577
+gmtOffSetMilliseconds	28800000
+currentPrice	67.1
+recommendationKey	none
+totalCash	945308032
+totalCashPerShare	4.117
+ebitda	597766016
+totalDebt	4156990976
+quickRatio	0.898
+currentRatio	1.554
+totalRevenue	14543808512
+debtToEquity	105.696
+revenuePerShare	63.334
+returnOnAssets	0.02893
+returnOnEquity	0.10512
+freeCashflow	792123648
+operatingCashflow	1021088000
+earningsGrowth	3.757
+revenueGrowth	-0.098
+grossMargins	0.072919995
+ebitdaMargins	0.041100003
+operatingMargins	0.04543
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      -495.095709     182326.433925     164028.893042     956459.882594
+Tax Rate For Calcs                                                  0.165032          0.176844          0.183889          0.258154
+Normalized EBITDA                                                758282000.0       653396000.0       751939000.0       720175000.0
+Total Unusual Items                                                  -3000.0         1031000.0          892000.0         3705000.0
+Total Unusual Items Excluding Goodwill                               -3000.0         1031000.0          892000.0         3705000.0
+Net Income From Continuing Operation Net Minority Interest       367879000.0       368994000.0       453112000.0       375757000.0
+Reconciled Depreciation                                          193445000.0       177797000.0       130944000.0       132023000.0
+Reconciled Cost Of Revenue                                     13483212000.0     14305096000.0     11968692000.0      9143081000.0
+EBITDA                                                           758279000.0       654427000.0       752831000.0       723880000.0
+EBIT                                                             564834000.0       476630000.0       621887000.0       591857000.0
+Net Interest Income                                              -67836000.0       -51206000.0       -21367000.0       -18026000.0
+Interest Expense                                                  74753000.0        54903000.0        25342000.0        28685000.0
+Interest Income                                                    6917000.0         3697000.0         3975000.0        10659000.0
+Normalized Income                                           367881504.904291  368145326.433925  452384028.893042  373008459.882594
+Net Income From Continuing And Discontinued Operation            367879000.0       368994000.0       453112000.0       375757000.0
+Total Expenses                                                 14081104000.0     14914413000.0     12573977000.0      9708728000.0
+Diluted Average Shares                                                   NaN       229845000.0       229921650.0       229962600.0
+Basic Average Shares                                                     NaN       229638000.0       229638150.0       229638150.0
+Diluted EPS                                                              NaN              1.61          1.971429          1.638095
+Basic EPS                                                                NaN              1.61          1.971429          1.638095
+Diluted NI Availto Com Stockholders                              367879000.0       368994000.0       453112000.0       375757000.0
+Net Income Common Stockholders                                   367879000.0       368994000.0       453112000.0       375757000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       367879000.0       368994000.0       453112000.0       375757000.0
+Minority Interests                                               -41323000.0        21847000.0       -33735000.0       -42030000.0
+Net Income Including Noncontrolling Interests                    409202000.0       347147000.0       486847000.0       417787000.0
+Net Income Continuous Operations                                 409202000.0       347147000.0       486847000.0       417787000.0
+Tax Provision                                                     80879000.0        74580000.0       109698000.0       145385000.0
+Pretax Income                                                    490081000.0       421727000.0       596545000.0       563172000.0
+Other Non Operating Income Expenses                                7281000.0         3275000.0         5535000.0         6465000.0
+Special Income Charges                                               -3000.0         1031000.0          892000.0         3705000.0
+Write Off                                                             3000.0        -1031000.0         -892000.0        -3705000.0
+Net Non Operating Interest Income Expense                        -67836000.0       -51206000.0       -21367000.0       -18026000.0
+Interest Expense Non Operating                                    74753000.0        54903000.0        25342000.0        28685000.0
+Interest Income Non Operating                                      6917000.0         3697000.0         3975000.0        10659000.0
+Operating Income                                                 462705000.0       359948000.0       529977000.0       504765000.0
+Operating Expense                                                597892000.0       609317000.0       605285000.0       565647000.0
+Other Operating Expenses                                         -42802000.0       -30635000.0       -21893000.0       -42951000.0
+Research And Development                                          41894000.0        38584000.0        36724000.0        35115000.0
+Selling General And Administration                               598800000.0       601368000.0       590454000.0       573483000.0
+Selling And Marketing Expense                                    400927000.0       420922000.0       400859000.0       387243000.0
+General And Administrative Expense                               197873000.0       180446000.0       189595000.0       186240000.0
+Gross Profit                                                    1060597000.0       969265000.0      1135262000.0      1070412000.0
+Cost Of Revenue                                                13483212000.0     14305096000.0     11968692000.0      9143081000.0
+Total Revenue                                                  14543809000.0     15274361000.0     13103954000.0     10213493000.0
+Operating Revenue                                              14543809000.0     15274361000.0     13103954000.0     10213493000.0

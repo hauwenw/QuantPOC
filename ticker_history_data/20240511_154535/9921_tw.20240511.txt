@@ -1,0 +1,166 @@
+=== Ticker Info ===
+address1	No. 999 Dongda Road
+address2	Sec. 1 Xitun District
+city	Taichung
+zip	40763
+country	Taiwan
+phone	886 4 2460 9099
+website	https://www.giant-bicycles.com
+industry	Leisure
+industryKey	leisure
+industryDisp	Leisure
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Giant Manufacturing Co., Ltd., together with its subsidiaries, manufactures and sells bicycles, electric bicycles, and related parts worldwide. It operates through Bicycle, Materials, and Others segments. The company offers on-road, x-road, off-road, youth, rider gear, bike gear, and service gear bicycles. It markets its products through approximately 12,000 retail stores. Giant Manufacturing Co., Ltd. was incorporated in 1972 and is headquartered in Taichung City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yuon-Chan  Liu', 'title': 'CEO & Director', 'fiscalYear': 2022, 'totalPay': 66350000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Piao  Liu', 'title': 'Founder & Director', 'fiscalYear': 2022, 'totalPay': 19263000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Pi-Yu  Wang', 'title': 'Global Chief of Finance', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chiao-Li  Pan', 'title': 'Head of Accounting', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ken  Li', 'title': 'Head of Marketing & Global Public Relations of Greater China Region', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kam Hoi  Koo', 'title': 'Global Head of Sales', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Huo-Ming  Wang', 'title': 'President of Taiwan Factory', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Hsin  Yen', 'title': 'Head of Global Manufacturing Center', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Chang  Chang', 'title': 'Global Head of R&D', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Su-Jyuan  Liu', 'title': 'Global Head of CMO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	207.5
+open	209.0
+dayLow	208.5
+dayHigh	214.5
+regularMarketPreviousClose	207.5
+regularMarketOpen	209.0
+regularMarketDayLow	208.5
+regularMarketDayHigh	214.5
+dividendRate	7.8
+dividendYield	0.0366
+exDividendDate	1692921600	 (2023-08-25 08:00:00)
+payoutRatio	0.9242
+fiveYearAvgDividendYield	2.96
+beta	1.12
+trailingPE	25.266903
+forwardPE	18.441559
+volume	1577814
+regularMarketVolume	1577814
+averageVolume	2695011
+averageVolume10days	1486292
+averageDailyVolume10Day	1486292
+bid	213.0
+ask	213.5
+marketCap	83509846016
+fiftyTwoWeekLow	160.0
+fiftyTwoWeekHigh	247.0
+priceToSalesTrailing12Months	1.0851982
+fiftyDayAverage	215.66
+twoHundredDayAverage	192.7375
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.024096385
+currency	TWD
+enterpriseValue	97970536448
+profitMargins	0.0442
+floatShares	309151094
+sharesOutstanding	392064992
+heldPercentInsiders	0.20289
+heldPercentInstitutions	0.23031999
+impliedSharesOutstanding	396603008
+bookValue	85.907
+priceToBook	2.4794254
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.319
+netIncomeToCommon	3401393920
+trailingEps	8.43
+forwardEps	11.55
+pegRatio	-57.98
+lastSplitFactor	1.2:1
+lastSplitDate	1249516800	 (2009-08-06 08:00:00)
+enterpriseToRevenue	1.273
+enterpriseToEbitda	14.652
+52WeekChange	0.07575762
+SandP52WeekChange	0.26265144
+lastDividendValue	7.8
+lastDividendDate	1692921600	 (2023-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9921.TW
+underlyingSymbol	9921.TW
+shortName	GIANT MANUFACTURING CO
+longName	Giant Manufacturing Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1c4448c6-76ba-325a-92ee-f30418af2a0f
+messageBoardId	finmb_9549315
+gmtOffSetMilliseconds	28800000
+currentPrice	213.0
+targetHighPrice	270.0
+targetLowPrice	155.0
+targetMeanPrice	233.67
+targetMedianPrice	240.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	9
+totalCash	15770084352
+totalCashPerShare	40.223
+ebitda	6686434816
+totalDebt	27586746368
+quickRatio	0.781
+currentRatio	1.765
+totalRevenue	76953542656
+debtToEquity	75.944
+revenuePerShare	196.278
+returnOnAssets	0.03304
+returnOnEquity	0.09876
+freeCashflow	6993856000
+operatingCashflow	10589802496
+earningsGrowth	0.283
+revenueGrowth	-0.298
+grossMargins	0.22057
+ebitdaMargins	0.086890005
+operatingMargins	0.01869
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                 -127166411.892646  -169017386.682267    -6065926.677787    -3067843.42134
+Tax Rate For Calcs                                                   0.256868           0.293143           0.277363          0.242498
+Normalized EBITDA                                                8840777000.0      11886240000.0      10913849000.0      8853703000.0
+Total Unusual Items                                              -495066000.0       -576570000.0        -21870000.0       -12651000.0
+Total Unusual Items Excluding Goodwill                           -495066000.0       -576570000.0        -21870000.0       -12651000.0
+Net Income From Continuing Operation Net Minority Interest       3401394000.0       5843875000.0       5930074000.0      4948959000.0
+Reconciled Depreciation                                          2422759000.0       2143995000.0       1946415000.0      1769494000.0
+Reconciled Cost Of Revenue                                      59980253000.0      71219652000.0      62075731000.0     53842103000.0
+EBITDA                                                           8345711000.0      11309670000.0      10891979000.0      8841052000.0
+EBIT                                                             5922952000.0       9165675000.0       8945564000.0      7071558000.0
+Net Interest Income                                              -495695000.0       -100795000.0         68496000.0        20833000.0
+Interest Expense                                                 1123818000.0        427656000.0        217104000.0       238692000.0
+Interest Income                                                   628123000.0        326861000.0        285600000.0       259525000.0
+Normalized Income                                           3769293588.107354  6251427613.317733  5945878073.322213  4958542156.57866
+Net Income From Continuing And Discontinued Operation            3401394000.0       5843875000.0       5930074000.0      4948959000.0
+Total Expenses                                                  71719246000.0      83551897000.0      73120662000.0     63129114000.0
+Diluted Average Shares                                            408036000.0        387570000.0        379997000.0       380232438.0
+Basic Average Shares                                              392065000.0        376834000.0        377990000.0       377990085.0
+Diluted EPS                                                              8.44              15.14              15.73         13.018471
+Basic EPS                                                                8.68              15.51              15.81         13.087929
+Diluted NI Availto Com Stockholders                              3401394000.0       5843875000.0       5930074000.0      4948959000.0
+Net Income Common Stockholders                                   3401394000.0       5843875000.0       5930074000.0      4948959000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0                0.0               0.0
+Net Income                                                       3401394000.0       5843875000.0       5930074000.0      4948959000.0
+Minority Interests                                               -164998000.0       -332656000.0       -377435000.0      -226950000.0
+Net Income Including Noncontrolling Interests                    3566392000.0       6176531000.0       6307509000.0      5175909000.0
+Net Income Continuous Operations                                 3566392000.0       6176531000.0       6307509000.0      5175909000.0
+Tax Provision                                                    1232742000.0       2561488000.0       2420951000.0      1656957000.0
+Pretax Income                                                    4799134000.0       8738019000.0       8728460000.0      6832866000.0
+Other Non Operating Income Expenses                               243018000.0        213945000.0        267335000.0       233125000.0
+Special Income Charges                                           -526436000.0       -564096000.0        -29212000.0        -6935000.0
+Other Special Charges                                               1456000.0        -13243000.0         19291000.0       -16527000.0
+Write Off                                                         524980000.0        577339000.0          9921000.0        23462000.0
+Impairment Of Capital Assets                                              NaN                NaN                NaN               0.0
+Net Non Operating Interest Income Expense                        -495695000.0       -100795000.0         68496000.0        20833000.0
+Interest Expense Non Operating                                   1123818000.0        427656000.0        217104000.0       238692000.0
+Interest Income Non Operating                                     628123000.0        326861000.0        285600000.0       259525000.0
+Operating Income                                                 5234300000.0       8491778000.0       8719208000.0      6881735000.0
+Operating Expense                                               11738993000.0      12332245000.0      11044931000.0      9287011000.0
+Research And Development                                         1455205000.0       1531809000.0       1041133000.0       939896000.0
+Selling General And Administration                              10283788000.0      10800436000.0      10003798000.0      8347115000.0
+Selling And Marketing Expense                                    7629180000.0       7944478000.0       7484368000.0      6519331000.0
+General And Administrative Expense                               2654608000.0       2855958000.0       2519430000.0      1827784000.0
+Gross Profit                                                    16973293000.0      20824023000.0      19764139000.0     16168746000.0
+Cost Of Revenue                                                 59980253000.0      71219652000.0      62075731000.0     53842103000.0
+Total Revenue                                                   76953546000.0      92043675000.0      81839870000.0     70010849000.0
+Operating Revenue                                               76953546000.0      92043675000.0      81839870000.0     70010849000.0

@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 27-8, Zhongzheng East Road
+address2	13 Floor Section 2 Tamsui District
+city	New Taipei City
+zip	25170
+country	Taiwan
+phone	886 2 2808 6333
+fax	886 2 2809 6161
+website	https://www.ezconn.com
+industry	Electronic Components
+industryKey	electronic-components
+industryDisp	Electronic Components
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	EZconn Corporation, together with its subsidiaries, provides electronic products, optical fiber components, and precision metal components. The company offers RF solutions comprising RF coaxial connectors, precision adaptors, jumpers, surge arrestors, filters, amplifiers, and dipole antennas, as well as CATV connector/component, shielding can for STB/cable modem, microwave connector and dipole, base station connector/arrester, LAB adaptor, and FAKRA/HDMI-E products for use in lightning protector, antenna, filter, RF connector, and POE home terminal AV/data MoCA filter applications. It also provides equipment distribution products, including OSA, passive, and other fiber optics products for access, metro-core/long haul, and transceiver applications; and ODM services. The company serves 5G, IT datacom, automotive, military, energy, aerospace, broadband, healthcare, and consumer product markets. EZconn Corporation was incorporated in 1996 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Ying-Hua  Chang', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-An  Chuang', 'title': 'Chief Financial Officer of the Finance & Accounting Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming-Feng  Chien', 'title': 'Director of Research & Sales Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ssu-Fen  Huang', 'title': 'Chief Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Ying  Lan', 'title': 'OP Technical Marketing Director & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Joshua  Chen', 'title': 'Manager & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	166.0
+open	168.0
+dayLow	168.0
+dayHigh	173.5
+regularMarketPreviousClose	166.0
+regularMarketOpen	168.0
+regularMarketDayLow	168.0
+regularMarketDayHigh	173.5
+dividendRate	2.07
+dividendYield	0.012200001
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.49830002
+fiveYearAvgDividendYield	3.31
+beta	1.056
+trailingPE	40.843372
+forwardPE	90.15958
+volume	2352759
+regularMarketVolume	2352759
+averageVolume	5408622
+averageVolume10days	12868313
+averageDailyVolume10Day	12868313
+bid	169.0
+ask	169.5
+marketCap	12814199808
+fiftyTwoWeekLow	45.187542
+fiftyTwoWeekHigh	177.5
+priceToSalesTrailing12Months	4.8958025
+fiftyDayAverage	139.67
+twoHundredDayAverage	89.73248
+currency	TWD
+enterpriseValue	10705367040
+profitMargins	0.0642
+sharesOutstanding	75600000
+heldPercentInsiders	0.45712003
+heldPercentInstitutions	0.00997
+impliedSharesOutstanding	80894896
+bookValue	30.931
+priceToBook	5.4799395
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.982
+netIncomeToCommon	168042000
+trailingEps	4.15
+forwardEps	1.88
+lastSplitFactor	1050:1000
+lastSplitDate	1563753600	 (2019-07-22 08:00:00)
+enterpriseToRevenue	4.09
+enterpriseToEbitda	36.053
+52WeekChange	2.6788216
+SandP52WeekChange	0.26265144
+lastDividendValue	2.069658
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6442.TW
+underlyingSymbol	6442.TW
+shortName	EZCONN CORPORATION
+longName	EZconn Corporation
+firstTradeDateEpochUtc	1395018000	 (2014-03-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	01f4e267-8d5a-3e8f-b879-958ea7ea1969
+messageBoardId	finmb_12402610
+gmtOffSetMilliseconds	28800000
+currentPrice	169.5
+recommendationKey	none
+totalCash	1094685952
+totalCashPerShare	16.511
+ebitda	296931008
+totalDebt	562203008
+quickRatio	1.506
+currentRatio	2.136
+totalRevenue	2617384960
+debtToEquity	27.415
+revenuePerShare	39.478
+returnOnAssets	0.041789997
+returnOnEquity	0.083129995
+freeCashflow	266516880
+operatingCashflow	570060992
+earningsGrowth	1.976
+revenueGrowth	0.062
+grossMargins	0.35546002
+ebitdaMargins	0.113450006
+operatingMargins	0.14383
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                   1646000.153379     711456.008312   8918764.471999    -15709.188811
+Tax Rate For Calcs                                                  0.321736          0.245584         0.313621         0.167119
+Normalized EBITDA                                                345924000.0       521385000.0      215820000.0       48305000.0
+Total Unusual Items                                                5116000.0         2897000.0       28438000.0         -94000.0
+Total Unusual Items Excluding Goodwill                             5116000.0         2897000.0       28438000.0         -94000.0
+Net Income From Continuing Operation Net Minority Interest       168042000.0       321665000.0      103405000.0      -38051000.0
+Reconciled Depreciation                                           90549000.0        88436000.0       86438000.0       88139000.0
+Reconciled Cost Of Revenue                                      1686998000.0      2004967000.0     2211763000.0     2006106000.0
+EBITDA                                                           351040000.0       524282000.0      244258000.0       48211000.0
+EBIT                                                             260491000.0       435846000.0      157820000.0      -39928000.0
+Net Interest Income                                               12462000.0        -3197000.0       -5081000.0         395000.0
+Interest Expense                                                  12738000.0         9470000.0        7167000.0        5758000.0
+Interest Income                                                   25200000.0         6273000.0        2086000.0        6153000.0
+Normalized Income                                           164572000.153379  319479456.008312  83885764.471999 -37972709.188811
+Net Income From Continuing And Discontinued Operation            168042000.0       321665000.0      103405000.0      -38051000.0
+Total Expenses                                                  2396568000.0      2653159000.0     2660616000.0     2386171000.0
+Diluted Average Shares                                            67650439.0        68024849.0       67514475.0       67271971.0
+Basic Average Shares                                              67271971.0        67271971.0       67271971.0       67271971.0
+Diluted EPS                                                          2.48359          4.730648         1.527605        -0.561764
+Basic EPS                                                           2.493446          4.779925         1.537461        -0.561764
+Diluted NI Availto Com Stockholders                              168042000.0       321665000.0      103405000.0      -38051000.0
+Net Income Common Stockholders                                   168042000.0       321665000.0      103405000.0      -38051000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0              0.0
+Net Income                                                       168042000.0       321665000.0      103405000.0      -38051000.0
+Net Income Including Noncontrolling Interests                    168042000.0       321665000.0      103405000.0      -38051000.0
+Net Income Discontinuous Operations                                      NaN               NaN              NaN              0.0
+Net Income Continuous Operations                                 168042000.0       321665000.0      103405000.0      -38051000.0
+Tax Provision                                                     79711000.0       104711000.0       47248000.0       -7635000.0
+Pretax Income                                                    247753000.0       426376000.0      150653000.0      -45686000.0
+Other Non Operating Income Expenses                               25871000.0       142965000.0      -25104000.0      -73364000.0
+Special Income Charges                                             5116000.0         2897000.0       28438000.0         -94000.0
+Write Off                                                         -5116000.0        -2897000.0      -28438000.0          94000.0
+Net Non Operating Interest Income Expense                         12462000.0        -3197000.0       -5081000.0         395000.0
+Interest Expense Non Operating                                    12738000.0         9470000.0        7167000.0        5758000.0
+Interest Income Non Operating                                     25200000.0         6273000.0        2086000.0        6153000.0
+Operating Income                                                 220817000.0       287029000.0      152400000.0       27377000.0
+Operating Expense                                                709570000.0       648192000.0      448853000.0      380065000.0
+Research And Development                                         104354000.0       107090000.0       99405000.0      113189000.0
+Selling General And Administration                               605216000.0       541102000.0      349448000.0      266876000.0
+Selling And Marketing Expense                                    350379000.0       291309000.0      142093000.0       92478000.0
+General And Administrative Expense                               254837000.0       249793000.0      207355000.0      174398000.0
+Gross Profit                                                     930387000.0       935221000.0      601253000.0      407442000.0
+Cost Of Revenue                                                 1686998000.0      2004967000.0     2211763000.0     2006106000.0
+Total Revenue                                                   2617385000.0      2940188000.0     2813016000.0     2413548000.0
+Operating Revenue                                               2617385000.0      2940188000.0     2813016000.0     2413548000.0

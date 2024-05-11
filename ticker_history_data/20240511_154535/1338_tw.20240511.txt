@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	3rd Industrial Zone
+address2	Qiaotou, Houjie Town
+city	Dongguan
+country	China
+phone	86 76 9892 78888
+fax	86 76 9859 03818
+website	https://www.hirosawa.com.cn
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Hiroca Holdings Ltd., through its subsidiaries, manufactures and sells automobile accessories in China. The company offers various solutions for process design and development, video frames, airbag covers, steering wheel, console, decorative door systems, and outside decoration. It also engages in the surface printing, surface coating, plating, real wood processing, and in-mold injection of vehicle interiors, as well as offers velvet stickers, paste paper, restructuring, and other products. In addition, the company exports its products in Japan, the Americas, Europe, Africa, and internationally. Hiroca Holdings Ltd. was founded in 2009 and is based in Dongguan, China.
+companyOfficers	[{'maxAge': 1, 'name': 'Jianzhong  Huang', 'title': 'GM & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shengchang  Huang', 'title': 'CFO & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Jiaxiang  Zhang', 'title': 'Senior VP of Operations & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.45
+open	33.9
+dayLow	33.5
+dayHigh	33.95
+regularMarketPreviousClose	33.45
+regularMarketOpen	33.9
+regularMarketDayLow	33.5
+regularMarketDayHigh	33.95
+dividendRate	2.0
+dividendYield	0.0591
+exDividendDate	1689552000	 (2023-07-17 08:00:00)
+payoutRatio	1.8382001
+fiveYearAvgDividendYield	5.81
+beta	0.681
+forwardPE	3.926914
+volume	63690
+regularMarketVolume	63690
+averageVolume	102018
+averageVolume10days	67432
+averageDailyVolume10Day	67432
+bid	33.8
+ask	33.85
+marketCap	2837984000
+fiftyTwoWeekLow	32.9
+fiftyTwoWeekHigh	46.35
+priceToSalesTrailing12Months	0.49259537
+fiftyDayAverage	35.259
+twoHundredDayAverage	37.90275
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.014947683
+currency	TWD
+enterpriseValue	3281289984
+profitMargins	-0.02852
+sharesOutstanding	83840000
+heldPercentInsiders	0.33014
+heldPercentInstitutions	0.04753
+impliedSharesOutstanding	84714600
+bookValue	72.803
+priceToBook	0.46495333
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-164316000
+trailingEps	-1.96
+forwardEps	8.62
+lastSplitFactor	1.1:1
+lastSplitDate	1373414400	 (2013-07-10 08:00:00)
+enterpriseToRevenue	0.57
+enterpriseToEbitda	6.193
+52WeekChange	-0.1997636
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1689552000	 (2023-07-17 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1338.TW
+underlyingSymbol	1338.TW
+shortName	HIROCA HOLDINGS LTD
+longName	Hiroca Holdings Ltd.
+firstTradeDateEpochUtc	1351731600	 (2012-11-01 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	9bd77481-8973-3da3-b09f-b2a2ad1a75a9
+messageBoardId	finmb_113105885
+gmtOffSetMilliseconds	28800000
+currentPrice	33.85
+recommendationKey	none
+totalCash	3020993024
+totalCashPerShare	36.033
+ebitda	529831008
+totalDebt	3137214976
+quickRatio	1.49
+currentRatio	1.788
+totalRevenue	5761288192
+debtToEquity	48.784
+revenuePerShare	68.718
+returnOnAssets	0.00248
+returnOnEquity	-0.02586
+freeCashflow	435798880
+operatingCashflow	950147008
+revenueGrowth	-0.056
+grossMargins	0.22122
+ebitdaMargins	0.09196
+operatingMargins	0.00756
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     515250.0  -13829584.975234    -930769.542981    -374354.872699
+Tax Rate For Calcs                                                  0.25          0.375753          0.223904          0.311962
+Normalized EBITDA                                            637089000.0       964479000.0      1102993000.0      1005488000.0
+Total Unusual Items                                            2061000.0       -36805000.0        -4157000.0        -1200000.0
+Total Unusual Items Excluding Goodwill                         2061000.0       -36805000.0        -4157000.0        -1200000.0
+Net Income From Continuing Operation Net Minority Interest  -164316000.0       136329000.0       339066000.0       294505000.0
+Reconciled Depreciation                                      610176000.0       638533000.0       597980000.0       550157000.0
+Reconciled Cost Of Revenue                                  4486785000.0      5849352000.0      5775024000.0      4772317000.0
+EBITDA                                                       639150000.0       927674000.0      1098836000.0      1004288000.0
+EBIT                                                          28974000.0       289141000.0       500856000.0       454131000.0
+Net Interest Income                                         -108289000.0       -52896000.0       -33576000.0         4654000.0
+Interest Expense                                             148345000.0        79780000.0        48993000.0        36539000.0
+Interest Income                                               40056000.0        26884000.0        15417000.0        41193000.0
+Normalized Income                                           -165861750.0  159304415.024766  342292230.457019  295330645.127301
+Net Income From Continuing And Discontinued Operation       -164316000.0       136329000.0       339066000.0       294505000.0
+Total Expenses                                              5718937000.0      7098050000.0      7057222000.0      5909240000.0
+Diluted Average Shares                                               NaN        92674000.0        92279000.0        84062000.0
+Basic Average Shares                                                 NaN        83840000.0        83840000.0        83840000.0
+Diluted EPS                                                          NaN              1.36              3.31               3.5
+Basic EPS                                                            NaN              1.63              4.04              3.51
+Diluted NI Availto Com Stockholders                         -164316000.0       136329000.0       339066000.0       294505000.0
+Net Income Common Stockholders                              -164316000.0       136329000.0       339066000.0       294505000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0               0.0
+Net Income                                                  -164316000.0       136329000.0       339066000.0       294505000.0
+Minority Interests                                             6008000.0         5636000.0       -11623000.0         7186000.0
+Net Income Including Noncontrolling Interests               -170324000.0       130693000.0       350689000.0       287319000.0
+Net Income Continuous Operations                            -170324000.0       130693000.0       350689000.0       287319000.0
+Tax Provision                                                 50953000.0        78668000.0       101174000.0       130273000.0
+Pretax Income                                               -119371000.0       209361000.0       451863000.0       417592000.0
+Other Non Operating Income Expenses                          -13512000.0       138717000.0       215859000.0       189854000.0
+Special Income Charges                                         2061000.0       -36805000.0        -4157000.0        -1200000.0
+Write Off                                                     -2061000.0        36805000.0         4157000.0         1200000.0
+Net Non Operating Interest Income Expense                   -108289000.0       -52896000.0       -33576000.0         4654000.0
+Interest Expense Non Operating                               148345000.0        79780000.0        48993000.0        36539000.0
+Interest Income Non Operating                                 40056000.0        26884000.0        15417000.0        41193000.0
+Operating Income                                              42351000.0       246790000.0       257657000.0       257238000.0
+Operating Expense                                           1232152000.0      1248698000.0      1282198000.0      1136923000.0
+Research And Development                                     259332000.0       226506000.0       295304000.0       296567000.0
+Selling General And Administration                           972820000.0      1022192000.0       986894000.0       840356000.0
+Selling And Marketing Expense                                300701000.0       334581000.0       325305000.0       257731000.0
+General And Administrative Expense                           672119000.0       687611000.0       661589000.0       582625000.0
+Gross Profit                                                1274503000.0      1495488000.0      1539855000.0      1394161000.0
+Cost Of Revenue                                             4486785000.0      5849352000.0      5775024000.0      4772317000.0
+Total Revenue                                               5761288000.0      7344840000.0      7314879000.0      6166478000.0
+Operating Revenue                                           5761288000.0      7344840000.0      7314879000.0      6166478000.0

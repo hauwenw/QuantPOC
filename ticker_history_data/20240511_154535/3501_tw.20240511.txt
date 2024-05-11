@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 196, Xinhu 3rd Road
+address2	Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2791 1119
+fax	886 2 2791 9901
+website	https://www.wellshin.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Well Shin Technology Co., Ltd. engages in the manufacture, wholesales, and retail of wire and cable products, electronic components, and electronic materials in Asia, the United States, Europe, and internationally. It offers locking cords, AC power cord sets, AC/DC adapter kits, and AC sockets. The company also provides AC plugs and connectors, AC plug and connector assemblies, adapters, sockets, power strips, AC/DC power chargers, hardware and terminal products, PVC and rubber wires and cables, halogen free cables, electric vehicle cables and connectors, and other products; smart home and travel kit products; and warehouse leasing services. It offers its products under the Smartbears, PLUGO, and Conntek brand names. The company was formerly known as Well Shin Enterprise Co., Ltd. and changed its name to Well Shin Technology Co., Ltd. in 2002. Well Shin Technology Co., Ltd. was founded in 1986 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Rui Xiong  Wu', 'title': 'Chairman of the Board & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Js  Wu', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dick  Chou', 'title': 'Finance Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Andy  Yu', 'title': 'Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhong Xin Wu', 'title': 'Vice President of Material Management Division and Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	65.5
+open	65.9
+dayLow	62.7
+dayHigh	65.9
+regularMarketPreviousClose	65.5
+regularMarketOpen	65.9
+regularMarketDayLow	62.7
+regularMarketDayHigh	65.9
+dividendRate	4.0
+dividendYield	0.0635
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.78900003
+fiveYearAvgDividendYield	6.08
+beta	0.385
+trailingPE	12.426035
+forwardPE	11.413044
+volume	1416948
+regularMarketVolume	1416948
+averageVolume	477427
+averageVolume10days	849326
+averageDailyVolume10Day	849326
+bid	62.9
+ask	63.0
+marketCap	7450253824
+fiftyTwoWeekLow	48.6
+fiftyTwoWeekHigh	65.9
+priceToSalesTrailing12Months	1.3981147
+fiftyDayAverage	58.058
+twoHundredDayAverage	52.46575
+trailingAnnualDividendRate	3.0
+trailingAnnualDividendYield	0.045801528
+currency	TWD
+enterpriseValue	5068789760
+profitMargins	0.095240004
+sharesOutstanding	118258000
+heldPercentInsiders	0.42139998
+heldPercentInstitutions	0.01683
+impliedSharesOutstanding	121017000
+bookValue	55.308
+priceToBook	1.1390758
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.187
+netIncomeToCommon	507511008
+trailingEps	5.07
+forwardEps	5.52
+lastSplitFactor	1.02:1
+lastSplitDate	1311292800	 (2011-07-22 08:00:00)
+enterpriseToRevenue	0.951
+enterpriseToEbitda	6.678
+52WeekChange	0.16236162
+SandP52WeekChange	0.26265144
+lastDividendValue	4.0
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3501.TW
+underlyingSymbol	3501.TW
+shortName	WELL SHIN TECHNOLOGY CO LTD
+longName	Well Shin Technology Co., Ltd.
+firstTradeDateEpochUtc	1190250000	 (2007-09-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	bc6e6ad0-54bc-3a33-bb01-3aaba2560f53
+messageBoardId	finmb_30993853
+gmtOffSetMilliseconds	28800000
+currentPrice	63.0
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	2458266880
+totalCashPerShare	20.787
+ebitda	759033024
+totalDebt	76809000
+quickRatio	4.061
+currentRatio	5.809
+totalRevenue	5328785920
+debtToEquity	1.174
+revenuePerShare	45.061
+returnOnAssets	0.04513
+returnOnEquity	0.07729
+freeCashflow	1255923328
+operatingCashflow	1497710976
+earningsGrowth	-0.175
+revenueGrowth	-0.116
+grossMargins	0.23878999
+ebitdaMargins	0.14244
+operatingMargins	0.13784
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     30023.572478    -624188.976662    2152291.718988    1969466.382952
+Tax Rate For Calcs                                                  0.265695          0.239153           0.30844          0.247079
+Normalized EBITDA                                                843927000.0      1157510000.0       645659000.0       703039000.0
+Total Unusual Items                                                 113000.0        -2610000.0         6978000.0         7971000.0
+Total Unusual Items Excluding Goodwill                              113000.0        -2610000.0         6978000.0         7971000.0
+Net Income From Continuing Operation Net Minority Interest       507511000.0       759540000.0       345312000.0       424076000.0
+Reconciled Depreciation                                          149862000.0       150061000.0       147681000.0       144509000.0
+Reconciled Cost Of Revenue                                      4056348000.0      4750863000.0      4513601000.0      3531257000.0
+EBITDA                                                           844040000.0      1154900000.0       652637000.0       711010000.0
+EBIT                                                             694178000.0      1004839000.0       504956000.0       566501000.0
+Net Interest Income                                               35078000.0        10695000.0        15778000.0        22502000.0
+Interest Expense                                                   3033000.0         6557000.0         5633000.0         3260000.0
+Interest Income                                                   38111000.0        17252000.0        21411000.0        25762000.0
+Normalized Income                                           507428023.572478  761525811.023338  340486291.718988  418074466.382952
+Net Income From Continuing And Discontinued Operation            507511000.0       759540000.0       345312000.0       424076000.0
+Total Expenses                                                  4716259000.0      5422807000.0      5145570000.0      4126233000.0
+Diluted Average Shares                                                   NaN       119166000.0       118759000.0       118880000.0
+Basic Average Shares                                                     NaN       118258000.0       118258000.0       118258000.0
+Diluted EPS                                                              NaN              6.37              2.91              3.57
+Basic EPS                                                                NaN              6.42              2.92              3.59
+Diluted NI Availto Com Stockholders                              507511000.0       759540000.0       345312000.0       424076000.0
+Net Income Common Stockholders                                   507511000.0       759540000.0       345312000.0       424076000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       507511000.0       759540000.0       345312000.0       424076000.0
+Minority Interests                                                       NaN               NaN               NaN               0.0
+Net Income Including Noncontrolling Interests                    507511000.0       759540000.0       345312000.0       424076000.0
+Net Income Continuous Operations                                 507511000.0       759540000.0       345312000.0       424076000.0
+Tax Provision                                                    183634000.0       238742000.0       154011000.0       139165000.0
+Pretax Income                                                    691145000.0       998282000.0       499323000.0       563241000.0
+Other Non Operating Income Expenses                               43427000.0       253517000.0        39924000.0        -1962000.0
+Special Income Charges                                              113000.0        -2610000.0         6978000.0         7971000.0
+Write Off                                                          -113000.0         2610000.0        -6978000.0        -7971000.0
+Net Non Operating Interest Income Expense                         35078000.0        10695000.0        15778000.0        22502000.0
+Interest Expense Non Operating                                     3033000.0         6557000.0         5633000.0         3260000.0
+Interest Income Non Operating                                     38111000.0        17252000.0        21411000.0        25762000.0
+Operating Income                                                 612527000.0       736680000.0       436643000.0       534730000.0
+Operating Expense                                                659911000.0       671944000.0       631969000.0       594976000.0
+Research And Development                                          53045000.0        43824000.0        41515000.0        40755000.0
+Selling General And Administration                               606866000.0       628120000.0       590454000.0       554221000.0
+Selling And Marketing Expense                                    342293000.0       362935000.0       337340000.0       317561000.0
+General And Administrative Expense                               264573000.0       265185000.0       253114000.0       236660000.0
+Gross Profit                                                    1272438000.0      1408624000.0      1068612000.0      1129706000.0
+Cost Of Revenue                                                 4056348000.0      4750863000.0      4513601000.0      3531257000.0
+Total Revenue                                                   5328786000.0      6159487000.0      5582213000.0      4660963000.0
+Operating Revenue                                               5328786000.0      6159487000.0      5582213000.0      4660963000.0

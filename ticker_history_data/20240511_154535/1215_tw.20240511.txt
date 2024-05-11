@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 87, Songjiang Road
+address2	17th Floor
+city	Taipei
+country	Taiwan
+phone	886 2 2507 7071
+website	https://www.cptwn.com.tw
+industry	Packaged Foods
+industryKey	packaged-foods
+industryDisp	Packaged Foods
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Charoen Pokphand Enterprise (Taiwan) Co., Ltd. engages in the agriculture, animal husbandry, and meat businesses in Taiwan and Asia. The company operates through Feed Business Group, Meat Processing Business, Food Processing Business, Egg Chicken Business, and Other segments. It produces and sells feed for chickens, pigs, ducks, cattle, and other animals; develops and sells chicken processed products; and imports and supplies vaccines poultry vaccines, pig vaccines, antimicrobial, feed additives, feed quality raw materials, natural health agents, cleaning and disinfectant products, and diluent for artificial insemination. In addition, it engages in the provision of husbandry management services for chickens to produce eggs and meat; chicken and pig breeding; and electric slaughtering of poultry. The company was formerly known as Taiwan Pokphand Feed Co., Ltd. and changed its name to Charoen Pokphand Enterprise (Taiwan) Co., Ltd. in 1988. The company was founded in 1921 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Thong  Chotirat', 'age': 72, 'title': 'CEO & Representative Director', 'yearBorn': 1951, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Monchai  Leelaharat', 'age': 61, 'title': 'CFO & Representative Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Su Hua  Lee', 'title': 'VP of Accounting Department & Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei Yue  Chang', 'title': 'Senior Vice President of Meat/Further Processing Plant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ning  Wang', 'title': 'Senior Vice President of Breeder Pig Business Operation', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih Cheng  Liu', 'title': 'Senior Vice President - CEO Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yen Chun  Liu', 'title': 'Senior Vice President of Taichung Plant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chao Jen  Chen', 'title': 'Senior Vice President of Technical R&D Dept.', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun Lung  Hsiao', 'title': 'Senior Vice President of Food R&D', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	106.0
+open	105.5
+dayLow	105.5
+dayHigh	106.5
+regularMarketPreviousClose	106.0
+regularMarketOpen	105.5
+regularMarketDayLow	105.5
+regularMarketDayHigh	106.5
+dividendRate	5.5
+dividendYield	0.0521
+exDividendDate	1719360000	 (2024-06-26 08:00:00)
+payoutRatio	0.466
+fiveYearAvgDividendYield	4.92
+beta	0.215
+trailingPE	14.0479355
+forwardPE	12.382628
+volume	526232
+regularMarketVolume	526232
+averageVolume	517393
+averageVolume10days	567217
+averageDailyVolume10Day	567217
+bid	105.5
+ask	106.0
+marketCap	31100346368
+fiftyTwoWeekLow	89.1
+fiftyTwoWeekHigh	114.0
+priceToSalesTrailing12Months	1.0665505
+fiftyDayAverage	104.7
+twoHundredDayAverage	97.432
+currency	TWD
+enterpriseValue	45254422528
+profitMargins	0.077810004
+floatShares	185184130
+sharesOutstanding	294790016
+heldPercentInsiders	0.43053
+heldPercentInstitutions	0.14027001
+impliedSharesOutstanding	298961984
+bookValue	33.086
+priceToBook	3.18866
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.652
+netIncomeToCommon	2268965120
+trailingEps	7.51
+forwardEps	8.52
+lastSplitFactor	1100:1000
+lastSplitDate	1661385600	 (2022-08-25 08:00:00)
+enterpriseToRevenue	1.552
+enterpriseToEbitda	11.687
+52WeekChange	0.15300548
+SandP52WeekChange	0.26265144
+lastDividendValue	5.5
+lastDividendDate	1719360000	 (2024-06-26 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1215.TW
+underlyingSymbol	1215.TW
+shortName	CHAROEN POKPHAND ENTERPRISES CO
+longName	Charoen Pokphand Enterprise (Taiwan) Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	542e7b9a-ad92-333d-80c2-f58cf8e5b815
+messageBoardId	finmb_11500558
+gmtOffSetMilliseconds	28800000
+currentPrice	105.5
+recommendationKey	none
+totalCash	275584992
+totalCashPerShare	0.935
+ebitda	3872291072
+totalDebt	13960568832
+quickRatio	0.408
+currentRatio	0.993
+totalRevenue	29159749632
+debtToEquity	136.568
+revenuePerShare	98.917
+returnOnAssets	0.06718
+returnOnEquity	0.22895999
+freeCashflow	1092829696
+operatingCashflow	4140610048
+earningsGrowth	0.656
+revenueGrowth	-0.065
+grossMargins	0.17153999
+ebitdaMargins	0.1328
+operatingMargins	0.10622
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -4708810.935897     1448951.148792    -1812934.21979    -1098136.171255
+Tax Rate For Calcs                                                   0.198399           0.196069          0.201303            0.19865
+Normalized EBITDA                                                4111117000.0       3028290000.0      2543214000.0       2865768000.0
+Total Unusual Items                                               -23734000.0          7390000.0        -9006000.0         -5528000.0
+Total Unusual Items Excluding Goodwill                            -23734000.0          7390000.0        -9006000.0         -5528000.0
+Net Income From Continuing Operation Net Minority Interest       2268965000.0       1555380000.0      1355652000.0       1659332000.0
+Reconciled Depreciation                                          1063876000.0        960004000.0       807420000.0        734252000.0
+Reconciled Cost Of Revenue                                      24157745000.0      25082443000.0     21441119000.0      18664912000.0
+EBITDA                                                           4087383000.0       3035680000.0      2534208000.0       2860240000.0
+EBIT                                                             3023507000.0       2075676000.0      1726788000.0       2125988000.0
+Net Interest Income                                              -205853000.0       -146722000.0       -81679000.0        -75887000.0
+Interest Expense                                                  208594000.0        147433000.0        82038000.0         76789000.0
+Interest Income                                                     2741000.0           711000.0          359000.0           902000.0
+Normalized Income                                           2287990189.064103  1549438951.148792  1362845065.78021  1663761863.828745
+Net Income From Continuing And Discontinued Operation            2268965000.0       1555380000.0      1355652000.0       1657082000.0
+Total Expenses                                                  26208681000.0      26962931000.0     23240799000.0      20285509000.0
+Diluted Average Shares                                            295153000.0        295086000.0       295090000.0        295207000.0
+Basic Average Shares                                              294790000.0        294790000.0       294790000.0        294790100.0
+Diluted EPS                                                              7.69               5.27              4.59           5.609091
+Basic EPS                                                                 7.7               5.28               4.6           5.618182
+Diluted NI Availto Com Stockholders                              2268965000.0       1555380000.0      1355652000.0       1657082000.0
+Net Income Common Stockholders                                   2268965000.0       1555380000.0      1355652000.0       1657082000.0
+Otherunder Preferred Stock Dividend                                       0.0                0.0               0.0                0.0
+Net Income                                                       2268965000.0       1555380000.0      1355652000.0       1657082000.0
+Minority Interests                                                 12529000.0          5206000.0        41995000.0         17206000.0
+Net Income Including Noncontrolling Interests                    2256436000.0       1550174000.0      1313657000.0       1639876000.0
+Net Income Discontinuous Operations                                       NaN                NaN               0.0         -2250000.0
+Net Income Continuous Operations                                 2256436000.0       1550174000.0      1313657000.0       1642126000.0
+Tax Provision                                                     558477000.0        378069000.0       331093000.0        407073000.0
+Pretax Income                                                    2814913000.0       1928243000.0      1644750000.0       2049199000.0
+Other Non Operating Income Expenses                                96746000.0         76733000.0       134609000.0        226608000.0
+Special Income Charges                                            -23734000.0          7390000.0        -9006000.0         -5528000.0
+Write Off                                                          23734000.0         -7390000.0         9006000.0          5528000.0
+Net Non Operating Interest Income Expense                        -205853000.0       -146722000.0       -81679000.0        -75887000.0
+Interest Expense Non Operating                                    208594000.0        147433000.0        82038000.0         76789000.0
+Interest Income Non Operating                                       2741000.0           711000.0          359000.0           902000.0
+Operating Income                                                 2951068000.0       1996289000.0      1600546000.0       1904126000.0
+Operating Expense                                                2050936000.0       1880488000.0      1799680000.0       1620597000.0
+Other Operating Expenses                                          -37910000.0        -21509000.0        12738000.0        -26843000.0
+Selling General And Administration                               2088846000.0       1901997000.0      1786942000.0       1647440000.0
+Selling And Marketing Expense                                    1279208000.0       1151245000.0      1067159000.0        998409000.0
+General And Administrative Expense                                809638000.0        750752000.0       719783000.0        649031000.0
+Gross Profit                                                     5002004000.0       3876777000.0      3400226000.0       3524723000.0
+Cost Of Revenue                                                 24157745000.0      25082443000.0     21441119000.0      18664912000.0
+Total Revenue                                                   29159749000.0      28959220000.0     24841345000.0      22189635000.0
+Operating Revenue                                               29159749000.0      28959220000.0     24841345000.0      22189635000.0

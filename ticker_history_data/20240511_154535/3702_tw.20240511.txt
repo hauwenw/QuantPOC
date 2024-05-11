@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 189, Jingmao 2nd Road
+address2	22nd Floor Nangang District
+city	Taipei
+zip	11568
+country	Taiwan
+phone	886 2 2191 0068
+fax	886 2 2653 3598
+website	https://www.wpgholdings.com
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	WPG Holdings Limited distributes and sells electronic and electrical components, computer software, and electrical products in Taiwan, Mainland China, and internationally. It offers analog IC, discrete IC, logic IC, memory, mixed signal components, optical components, magnetic components, and passive connector. It also engages in warehousing services; investment activities; trading, import, and export of electronic components; sales of office machinery and equipment; manufacturing of computer and peripherals; and operates e-commerce platform and children's indoor amusement park. The company was founded in 1980 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Mike  Chang', 'title': 'President, GM, CEO, Chief Marketing, Sales, Information Security Officer & Director', 'fiscalYear': 2021, 'totalPay': 62797000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Tung  Tseng', 'title': 'Chief Sustainability Officer & Director', 'fiscalYear': 2021, 'totalPay': 14227000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cliff  Yuan', 'title': 'VP, CFO, Accounting Supervisor & Financial Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Lucia  Tai', 'title': 'VP & Chief Legal Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Li', 'title': 'VP & Chief Human Resource Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Tracy  Cheng', 'title': 'VP & Chief Marketing Communications Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Irene  Cheng', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Scott  Lin', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Lu', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jessica  Lee', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+irWebsite	http://www.wpgholdings.com/iframe_ir.php
+maxAge	86400
+priceHint	2
+previousClose	89.6
+open	89.4
+dayLow	89.1
+dayHigh	93.0
+regularMarketPreviousClose	89.6
+regularMarketOpen	89.4
+regularMarketDayLow	89.1
+regularMarketDayHigh	93.0
+dividendRate	3.85
+dividendYield	0.0418
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	0.83879995
+fiveYearAvgDividendYield	6.16
+beta	0.274
+trailingPE	20.06536
+forwardPE	16.045296
+volume	7697774
+regularMarketVolume	7697774
+averageVolume	10040016
+averageVolume10days	5860662
+averageDailyVolume10Day	5860662
+bid	92.1
+ask	92.2
+marketCap	154641416192
+fiftyTwoWeekLow	49.1
+fiftyTwoWeekHigh	101.5
+priceToSalesTrailing12Months	0.23015948
+fiftyDayAverage	90.782
+twoHundredDayAverage	75.99225
+currency	TWD
+enterpriseValue	260103782400
+profitMargins	0.01207
+floatShares	1454231268
+sharesOutstanding	1679059968
+heldPercentInsiders	0.07008
+heldPercentInstitutions	0.44474998
+impliedSharesOutstanding	1710630016
+bookValue	48.625
+priceToBook	1.8940873
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	1.494
+netIncomeToCommon	7709407232
+trailingEps	4.59
+forwardEps	5.74
+pegRatio	1.54
+lastSplitFactor	920:1000
+lastSplitDate	1537401600	 (2018-09-20 08:00:00)
+enterpriseToRevenue	0.387
+enterpriseToEbitda	23.815
+52WeekChange	0.84939754
+SandP52WeekChange	0.26265144
+lastDividendValue	3.85
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3702.TW
+underlyingSymbol	3702.TW
+shortName	WPG HOLDINGS LIMITED
+longName	WPG Holdings Limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ea218839-5c79-365d-b28d-59b1abb19beb
+messageBoardId	finmb_24624725
+gmtOffSetMilliseconds	28800000
+currentPrice	92.1
+targetHighPrice	95.0
+targetLowPrice	95.0
+targetMeanPrice	95.0
+targetMedianPrice	95.0
+recommendationMean	3.0
+recommendationKey	hold
+numberOfAnalystOpinions	1
+totalCash	22294202368
+totalCashPerShare	13.278
+ebitda	10921909248
+totalDebt	124757409792
+quickRatio	0.804
+currentRatio	1.33
+totalRevenue	671888113664
+debtToEquity	147.391
+revenuePerShare	400.158
+returnOnAssets	0.020610001
+returnOnEquity	0.09844
+freeCashflow	13125698560
+operatingCashflow	16203553792
+earningsGrowth	1.49
+revenueGrowth	0.037
+grossMargins	0.03778
+ebitdaMargins	0.01626
+operatingMargins	0.01651
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31          2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -71841637.908706    -22085573.498474     -2571590.039576     3886974.185524
+Tax Rate For Calcs                                                   0.202726            0.167808            0.178298           0.170624
+Normalized EBITDA                                               18442210000.0       18601061000.0       17244946000.0      12620167000.0
+Total Unusual Items                                              -354378000.0        -131612000.0         -14423000.0         22781000.0
+Total Unusual Items Excluding Goodwill                           -354378000.0        -131612000.0         -14423000.0         22781000.0
+Net Income From Continuing Operation Net Minority Interest       8109407000.0       10512466000.0       11496933000.0       8123355000.0
+Reconciled Depreciation                                          1125167000.0        1022882000.0         973081000.0        829359000.0
+Reconciled Cost Of Revenue                                     646502451000.0      745644021000.0      748871952000.0     586835742000.0
+EBITDA                                                          18087832000.0       18469449000.0       17230523000.0      12642948000.0
+EBIT                                                            16962665000.0       17446567000.0       16257442000.0      11813589000.0
+Net Interest Income                                             -6311860000.0       -4631421000.0       -2052627000.0      -1889175000.0
+Interest Expense                                                 6680457000.0        4736235000.0        2082342000.0       1926036000.0
+Interest Income                                                   368597000.0         104814000.0          29715000.0         36861000.0
+Normalized Income                                           8391943362.091294  10621992426.501526  11508784409.960424  8104460974.185524
+Net Income From Continuing And Discontinued Operation            8109407000.0       10512466000.0       11496933000.0       8123355000.0
+Total Expenses                                                 661139045000.0      760400677000.0      764754736000.0     599858784000.0
+Diluted Average Shares                                                    NaN        1680959000.0        1680865000.0       1680235000.0
+Basic Average Shares                                                      NaN        1679057000.0        1679057000.0       1679057000.0
+Diluted EPS                                                               NaN                6.02                 6.6               4.77
+Basic EPS                                                                 NaN                6.02                6.61               4.77
+Diluted NI Availto Com Stockholders                              8109407000.0       10512466000.0       11496933000.0       8123355000.0
+Net Income Common Stockholders                                   8109407000.0       10512466000.0       11496933000.0       8123355000.0
+Otherunder Preferred Stock Dividend                                       0.0                 0.0                 0.0                0.0
+Net Income                                                       8109407000.0       10512466000.0       11496933000.0       8123355000.0
+Minority Interests                                                -88330000.0         -64968000.0        -150777000.0        -77149000.0
+Net Income Including Noncontrolling Interests                    8197737000.0       10577434000.0       11647710000.0       8200504000.0
+Net Income Continuous Operations                                 8197737000.0       10577434000.0       11647710000.0       8200504000.0
+Tax Provision                                                    2084471000.0        2132898000.0        2527390000.0       1687049000.0
+Pretax Income                                                   10282208000.0       12710332000.0       14175100000.0       9887553000.0
+Other Non Operating Income Expenses                              5442704000.0         984017000.0         604338000.0        865199000.0
+Special Income Charges                                           -354378000.0        -131612000.0         -14423000.0         22781000.0
+Write Off                                                         354378000.0         131612000.0          14423000.0        -22781000.0
+Net Non Operating Interest Income Expense                       -6311860000.0       -4631421000.0       -2052627000.0      -1889175000.0
+Interest Expense Non Operating                                   6680457000.0        4736235000.0        2082342000.0       1926036000.0
+Interest Income Non Operating                                     368597000.0         104814000.0          29715000.0         36861000.0
+Operating Income                                                10749086000.0       14831745000.0       13817979000.0      10027087000.0
+Operating Expense                                               14636594000.0       14756656000.0       15882784000.0      13023042000.0
+Selling General And Administration                              14636594000.0       14756656000.0       15882784000.0      13023042000.0
+Selling And Marketing Expense                                   10025323000.0        9941007000.0       10758599000.0       9089289000.0
+General And Administrative Expense                               4611271000.0        4815649000.0        5124185000.0       3933753000.0
+Gross Profit                                                    25385680000.0       29588401000.0       29700763000.0      23050129000.0
+Cost Of Revenue                                                646502451000.0      745644021000.0      748871952000.0     586835742000.0
+Total Revenue                                                  671888131000.0      775232422000.0      778572715000.0     609885871000.0
+Operating Revenue                                              671888131000.0      775232422000.0      778572715000.0     609885871000.0

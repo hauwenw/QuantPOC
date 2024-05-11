@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No.3, Gongqu 6th Road
+address2	Fangyuan Township
+city	Changhua
+zip	528
+country	Taiwan
+phone	886 4 896 7892
+fax	886 4 896 7907
+website	https://www.cryomaxcooling.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Cryomax Cooling System Corp. engages in the manufacture and sale of automotive radiators in Taiwan and internationally. It offers copper and aluminum radiators for passenger cars/vans, military vehicles, and commercial vehicles/trucks; and condensers for cars. The company was founded in 1984 and is headquartered in Changhua, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yan Di  Liu', 'title': 'Chairman of the Board, President & Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu Xin Pan', 'title': 'Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nailong  Xu', 'title': 'Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	77.1
+open	77.9
+dayLow	69.4
+dayHigh	78.0
+regularMarketPreviousClose	77.1
+regularMarketOpen	77.9
+regularMarketDayLow	69.4
+regularMarketDayHigh	78.0
+dividendRate	0.5
+dividendYield	0.0072000003
+exDividendDate	1717113600	 (2024-05-31 08:00:00)
+payoutRatio	1.6392999
+fiveYearAvgDividendYield	2.56
+beta	0.995
+trailingPE	113.77049
+forwardPE	93.78378
+volume	13732578
+regularMarketVolume	13732578
+averageVolume	5017102
+averageVolume10days	15987753
+averageDailyVolume10Day	15987753
+ask	69.4
+marketCap	4745155584
+fiftyTwoWeekLow	21.6
+fiftyTwoWeekHigh	80.8
+priceToSalesTrailing12Months	2.236107
+fiftyDayAverage	40.866
+twoHundredDayAverage	27.77925
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.0064850845
+currency	TWD
+enterpriseValue	5640291840
+profitMargins	0.01982
+floatShares	62238258
+sharesOutstanding	68374000
+heldPercentInsiders	0.45793
+impliedSharesOutstanding	69819296
+bookValue	19.993
+priceToBook	3.471215
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.989
+netIncomeToCommon	42061000
+trailingEps	0.61
+forwardEps	0.74
+lastSplitFactor	1050:1000
+lastSplitDate	1630540800	 (2021-09-02 08:00:00)
+enterpriseToRevenue	2.658
+enterpriseToEbitda	29.335
+52WeekChange	2.1121075
+SandP52WeekChange	0.26265144
+lastDividendValue	0.501828
+lastDividendDate	1717113600	 (2024-05-31 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1587.TW
+underlyingSymbol	1587.TW
+shortName	CRYOMAX COOLING SYSTEM CORP
+longName	Cryomax Cooling System Corp.
+firstTradeDateEpochUtc	1340586000	 (2012-06-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	296fe445-350c-3782-a6e5-93ff312cf74a
+messageBoardId	finmb_50003663
+gmtOffSetMilliseconds	28800000
+currentPrice	69.4
+recommendationKey	none
+totalCash	564040000
+totalCashPerShare	8.219
+ebitda	192268992
+totalDebt	1441794944
+quickRatio	0.683
+currentRatio	1.238
+totalRevenue	2122061056
+debtToEquity	105.087
+revenuePerShare	30.923
+returnOnAssets	0.010570001
+returnOnEquity	0.030369999
+freeCashflow	-140084752
+operatingCashflow	345472000
+revenueGrowth	-0.114
+grossMargins	0.20954001
+ebitdaMargins	0.09060001
+operatingMargins	0.0119
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0           0.0
+Tax Rate For Calcs                                              0.276768      0.301402       0.31827      0.217851
+Normalized EBITDA                                            266903000.0   397523000.0   327195000.0   387845000.0
+Net Income From Continuing Operation Net Minority Interest    42061000.0   136905000.0   102477000.0   173670000.0
+Reconciled Depreciation                                      177692000.0   180340000.0   163393000.0   151773000.0
+Reconciled Cost Of Revenue                                  1677394000.0  1945906000.0  1821592000.0  1276679000.0
+EBITDA                                                       266903000.0   397523000.0   327195000.0   387845000.0
+EBIT                                                          89211000.0   217183000.0   163802000.0   236072000.0
+Net Interest Income                                          -21319000.0   -19539000.0   -12084000.0   -11993000.0
+Interest Expense                                              31054000.0    21212000.0    13483000.0    14030000.0
+Interest Income                                                9735000.0     1673000.0     1399000.0     2037000.0
+Normalized Income                                             42061000.0   136905000.0   102477000.0   173670000.0
+Net Income From Continuing And Discontinued Operation         42061000.0   136905000.0   102477000.0   173670000.0
+Total Expenses                                              2067149000.0  2368938000.0  2196517000.0  1594316000.0
+Diluted Average Shares                                               NaN    68904000.0    68832000.0    69191000.0
+Basic Average Shares                                                 NaN    68624000.0    68624000.0    68931000.0
+Diluted EPS                                                          NaN          1.99          1.49          2.51
+Basic EPS                                                            NaN           2.0          1.49          2.52
+Diluted NI Availto Com Stockholders                           42061000.0   136905000.0   102477000.0   173670000.0
+Net Income Common Stockholders                                42061000.0   136905000.0   102477000.0   173670000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                    42061000.0   136905000.0   102477000.0   173670000.0
+Minority Interests                                                   NaN           NaN           NaN           0.0
+Net Income Including Noncontrolling Interests                 42061000.0   136905000.0   102477000.0   173670000.0
+Net Income Continuous Operations                              42061000.0   136905000.0   102477000.0   173670000.0
+Tax Provision                                                 16096000.0    59066000.0    47842000.0    48372000.0
+Pretax Income                                                 58157000.0   195971000.0   150319000.0   222042000.0
+Other Non Operating Income Expenses                           24564000.0    49152000.0     5677000.0   102622000.0
+Net Non Operating Interest Income Expense                    -21319000.0   -19539000.0   -12084000.0   -11993000.0
+Interest Expense Non Operating                                31054000.0    21212000.0    13483000.0    14030000.0
+Interest Income Non Operating                                  9735000.0     1673000.0     1399000.0     2037000.0
+Operating Income                                              54912000.0   166358000.0   156726000.0   131413000.0
+Operating Expense                                            389755000.0   423032000.0   374925000.0   317637000.0
+Research And Development                                      44027000.0    60726000.0    46779000.0    34505000.0
+Selling General And Administration                           345728000.0   362306000.0   328146000.0   283132000.0
+Selling And Marketing Expense                                212725000.0   245777000.0   226089000.0   178638000.0
+General And Administrative Expense                           133003000.0   116529000.0   102057000.0   104494000.0
+Gross Profit                                                 444667000.0   589390000.0   531651000.0   449050000.0
+Cost Of Revenue                                             1677394000.0  1945906000.0  1821592000.0  1276679000.0
+Total Revenue                                               2122061000.0  2535296000.0  2353243000.0  1725729000.0
+Operating Revenue                                           2122061000.0  2535296000.0  2353243000.0  1725729000.0

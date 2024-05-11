@@ -1,0 +1,155 @@
+=== Ticker Info ===
+address1	No.381, Wufong North Road
+address2	5th Floor
+city	Chiayi
+zip	600
+country	Taiwan
+phone	886 5 278 8687
+fax	886 5 278 9699
+website	https://www.yusin.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Yusin Holding Corp. manufactures and sells vehicle's brake systems in Asia, North America, Central and South America, Europe, and internationally. Its products include brake master cylinders, brake cylinders, clutch master cylinders, clutch slave cylinder, brake calipers, brake pads, bicycle brake systems, and other related components for the automobile brake system. The company also manufactures and sells various vehicles parts, as well as involved in the general investment activity. Yusin Holding Corp. was founded in 1992 and is based in Chiayi, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Yao-Jen  Hsu', 'age': 55, 'title': 'President & Director', 'yearBorn': 1968, 'fiscalYear': 2021, 'totalPay': 3630000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuan-Chi  Cjan', 'title': 'Finance Director', 'fiscalYear': 2021, 'totalPay': 2041000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chung Chuang  Chi', 'title': 'President of Production Department', 'fiscalYear': 2021, 'totalPay': 1542000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Cheng Chen  Chia', 'title': 'Manager of Internal Auditing', 'fiscalYear': 2021, 'totalPay': 1738000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Geoffrey D. M.  Bourne', 'title': 'President of GDM Bourne Inc', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	119.5
+open	120.0
+dayLow	119.5
+dayHigh	120.0
+regularMarketPreviousClose	119.5
+regularMarketOpen	120.0
+regularMarketDayLow	119.5
+regularMarketDayHigh	120.0
+dividendRate	7.0
+dividendYield	0.0583
+exDividendDate	1687824000	 (2023-06-27 08:00:00)
+payoutRatio	0.7511
+fiveYearAvgDividendYield	6.24
+trailingPE	12.875537
+forwardPE	18.518518
+volume	48471
+regularMarketVolume	48471
+averageVolume	126683
+averageVolume10days	68410
+averageDailyVolume10Day	68410
+bid	120.0
+ask	120.5
+marketCap	5036616192
+fiftyTwoWeekLow	98.6
+fiftyTwoWeekHigh	133.0
+priceToSalesTrailing12Months	1.5246562
+fiftyDayAverage	121.93
+twoHundredDayAverage	113.5775
+trailingAnnualDividendRate	6.0
+trailingAnnualDividendYield	0.050209206
+currency	TWD
+enterpriseValue	5150953984
+profitMargins	0.118710004
+floatShares	34073414
+sharesOutstanding	41971800
+heldPercentInsiders	0.38022998
+heldPercentInstitutions	0.00463
+impliedSharesOutstanding	42151200
+bookValue	52.152
+priceToBook	2.3009665
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.229
+netIncomeToCommon	392150016
+trailingEps	9.32
+forwardEps	6.48
+enterpriseToRevenue	1.559
+enterpriseToEbitda	8.775
+52WeekChange	0.05726874
+SandP52WeekChange	0.26265144
+lastDividendValue	7.0
+lastDividendDate	1687824000	 (2023-06-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4557.TW
+underlyingSymbol	4557.TW
+shortName	YUSIN HOLDING CORP
+longName	Yusin Holding Corp.
+firstTradeDateEpochUtc	1444698000	 (2015-10-13 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6eb148f5-1e60-3148-8d29-86ec9c1facdd
+messageBoardId	finmb_292659872
+gmtOffSetMilliseconds	28800000
+currentPrice	120.0
+recommendationKey	none
+totalCash	1138412032
+totalCashPerShare	27.12
+ebitda	587012992
+totalDebt	1053992000
+quickRatio	1.399
+currentRatio	1.719
+totalRevenue	3303443968
+debtToEquity	44.15
+revenuePerShare	78.701
+returnOnAssets	0.072909996
+returnOnEquity	0.17649001
+freeCashflow	-206231376
+operatingCashflow	103149000
+earningsGrowth	0.229
+revenueGrowth	0.1
+grossMargins	0.30749
+ebitdaMargins	0.1777
+operatingMargins	0.11181
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -697981.099315   -1119373.051448   -1304744.190612    -514171.788546
+Tax Rate For Calcs                                                  0.185831          0.196692           0.16474          0.182784
+Normalized EBITDA                                                670293000.0       759834000.0       360228000.0       274504000.0
+Total Unusual Items                                               -3756000.0        -5691000.0        -7920000.0        -2813000.0
+Total Unusual Items Excluding Goodwill                            -3756000.0        -5691000.0        -7920000.0        -2813000.0
+Net Income From Continuing Operation Net Minority Interest       378703000.0       508479000.0       207528000.0       143602000.0
+Reconciled Depreciation                                          132973000.0       100687000.0       101126000.0        95862000.0
+Reconciled Cost Of Revenue                                      2227816000.0      2082304000.0      1472746000.0      1021819000.0
+EBITDA                                                           666537000.0       754143000.0       352308000.0       271691000.0
+EBIT                                                             533564000.0       653456000.0       251182000.0       175829000.0
+Net Interest Income                                              -31312000.0       -17036000.0        -1905000.0        -1537000.0
+Interest Expense                                                  54957000.0        25682000.0         6664000.0         5579000.0
+Interest Income                                                   23645000.0         8646000.0         4759000.0         4042000.0
+Normalized Income                                           381761018.900685  513050626.948552  214143255.809388  145900828.211454
+Net Income From Continuing And Discontinued Operation            378703000.0       508479000.0       207528000.0       143602000.0
+Total Expenses                                                  2748615000.0      2476188000.0      1757212000.0      1289979000.0
+Diluted Average Shares                                            42101000.0        42121000.0        40383000.0        39983000.0
+Basic Average Shares                                              41972000.0        41972000.0        40211000.0        39808000.0
+Diluted EPS                                                              9.0             12.07              5.14              3.59
+Basic EPS                                                               9.02             12.11              5.16              3.61
+Diluted NI Availto Com Stockholders                              378703000.0       508479000.0       207528000.0       143602000.0
+Net Income Common Stockholders                                   378703000.0       508479000.0       207528000.0       143602000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0               0.0
+Net Income                                                       378703000.0       508479000.0       207528000.0       143602000.0
+Minority Interests                                               -10964000.0         4183000.0         3292000.0         4471000.0
+Net Income Including Noncontrolling Interests                    389667000.0       504296000.0       204236000.0       139131000.0
+Net Income Continuous Operations                                 389667000.0       504296000.0       204236000.0       139131000.0
+Tax Provision                                                     88940000.0       123478000.0        40282000.0        31119000.0
+Pretax Income                                                    478607000.0       627774000.0       244518000.0       170250000.0
+Other Non Operating Income Expenses                               28123000.0       131757000.0        13794000.0       -27099000.0
+Special Income Charges                                            -3756000.0        -5691000.0        -7920000.0        -2813000.0
+Write Off                                                          3756000.0         5691000.0         7920000.0         2813000.0
+Net Non Operating Interest Income Expense                        -31312000.0       -17036000.0        -1905000.0        -1537000.0
+Interest Expense Non Operating                                    54957000.0        25682000.0         6664000.0         5579000.0
+Interest Income Non Operating                                     23645000.0         8646000.0         4759000.0         4042000.0
+Operating Income                                                 485552000.0       518744000.0       240549000.0       201699000.0
+Operating Expense                                                520799000.0       393884000.0       284466000.0       268160000.0
+Research And Development                                         108783000.0        71293000.0        48996000.0        49924000.0
+Selling General And Administration                               412016000.0       322591000.0       235470000.0       218236000.0
+Selling And Marketing Expense                                    179906000.0       133315000.0       103433000.0        91847000.0
+General And Administrative Expense                               232110000.0       189276000.0       132037000.0       126389000.0
+Gross Profit                                                    1006351000.0       912628000.0       525015000.0       469859000.0
+Cost Of Revenue                                                 2227816000.0      2082304000.0      1472746000.0      1021819000.0
+Total Revenue                                                   3234167000.0      2994932000.0      1997761000.0      1491678000.0
+Operating Revenue                                               3234167000.0      2994932000.0      1997761000.0      1491678000.0

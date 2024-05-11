@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	No. 203, Jiayuan Road
+address2	Section 3 Shulin District
+city	New Taipei City
+zip	238
+country	Taiwan
+phone	886 2 2680 5868
+fax	886 2 2680 7588
+website	https://www.topoint.tw
+industry	Tools & Accessories
+industryKey	tools-accessories
+industryDisp	Tools & Accessories
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Topoint Technology Co., Ltd., engages in the development and manufacture of precision micro-drills for PCB manufacture in Taiwan, China, and internationally. The company offers drill bit, a product used in PCB mechanical drilling process; router bit, a material used for achieving necessary outlines; and slot drills used in cutting forces. It also provides drilling services comprising mechanical and laser drilling services. In addition, the company engages in the international investment and trade; selling of electronic components; manufacturing, selling, and processing of print circuit board; manufacturing and selling of precision equipment and measurement facilities; and processing of metal products. Further, the company offers vacuum coating and router bits; testing of drill bits and mounting plate blot holes; and cutting tools. Topoint Technology Co., Ltd. was incorporated in 1996 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Ruo-Ping  Lin', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Li-Ching  Ko', 'title': 'Financial Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Irene  Tsai', 'title': 'IR Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sheng-Jhou  Wong', 'title': 'Executive Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+irWebsite	http://www.corpasia.net/taiwan/8021/irwebsite/
+maxAge	86400
+priceHint	2
+previousClose	30.5
+open	30.65
+dayLow	30.2
+dayHigh	30.7
+regularMarketPreviousClose	30.5
+regularMarketOpen	30.65
+regularMarketDayLow	30.2
+regularMarketDayHigh	30.7
+dividendRate	2.0
+dividendYield	0.0651
+exDividendDate	1691107200	 (2023-08-04 08:00:00)
+payoutRatio	1.3608999
+fiveYearAvgDividendYield	5.68
+beta	0.719
+forwardPE	18.16568
+volume	473384
+regularMarketVolume	473384
+averageVolume	521121
+averageVolume10days	414888
+averageDailyVolume10Day	414888
+bid	30.65
+ask	30.7
+marketCap	4364956672
+fiftyTwoWeekLow	26.1
+fiftyTwoWeekHigh	35.95
+priceToSalesTrailing12Months	1.5881314
+fiftyDayAverage	29.178
+twoHundredDayAverage	28.20875
+trailingAnnualDividendRate	0.8
+trailingAnnualDividendYield	0.026229508
+currency	TWD
+enterpriseValue	2864766720
+profitMargins	-0.01311
+floatShares	116936763
+sharesOutstanding	142180992
+heldPercentInsiders	0.22381
+heldPercentInstitutions	0.03592
+impliedSharesOutstanding	144607008
+bookValue	30.464
+priceToBook	1.0077468
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.423
+netIncomeToCommon	-36026000
+trailingEps	-0.21
+forwardEps	1.69
+lastSplitFactor	1.00787:1
+lastSplitDate	1376265600	 (2013-08-12 08:00:00)
+enterpriseToRevenue	1.042
+enterpriseToEbitda	6.727
+52WeekChange	0.060449004
+SandP52WeekChange	0.26265144
+lastDividendValue	2.0
+lastDividendDate	1691107200	 (2023-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8021.TW
+underlyingSymbol	8021.TW
+shortName	TOPOINT TECHNOLOGY CO LTD
+longName	Topoint Technology Co., Ltd.
+firstTradeDateEpochUtc	1200877200	 (2008-01-21 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	65e3c5db-f2d4-3f1b-b92d-42740a19add1
+messageBoardId	finmb_20376237
+gmtOffSetMilliseconds	28800000
+currentPrice	30.7
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	2659930112
+totalCashPerShare	18.708
+ebitda	425875008
+totalDebt	584814016
+quickRatio	3.519
+currentRatio	4.166
+totalRevenue	2748485888
+debtToEquity	11.92
+revenuePerShare	19.331
+returnOnAssets	0.00671
+returnOnEquity	-0.0075499997
+freeCashflow	-15484500
+operatingCashflow	417900992
+earningsGrowth	-0.415
+revenueGrowth	-0.054
+grossMargins	0.2244
+ebitdaMargins	0.15495
+operatingMargins	0.05847
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     522000.0   -2485737.903782    -509357.924432   -9765522.957299
+Tax Rate For Calcs                                                   0.2          0.318848          0.261612          0.347998
+Normalized EBITDA                                            530970000.0       916316000.0      1007082000.0       814842000.0
+Total Unusual Items                                            2610000.0        -7796000.0        -1947000.0       -28062000.0
+Total Unusual Items Excluding Goodwill                         2610000.0        -7796000.0        -1947000.0       -28062000.0
+Net Income From Continuing Operation Net Minority Interest   -36026000.0       332245000.0       447175000.0       281567000.0
+Reconciled Depreciation                                      379568000.0       349845000.0       325855000.0       311547000.0
+Reconciled Cost Of Revenue                                  2131722000.0      2448078000.0      2538247000.0      2004162000.0
+EBITDA                                                       533580000.0       908520000.0      1005135000.0       786780000.0
+EBIT                                                         154012000.0       558675000.0       679280000.0       475233000.0
+Net Interest Income                                           40857000.0        37276000.0        30691000.0         8771000.0
+Interest Expense                                              16992000.0        15096000.0        12494000.0         9673000.0
+Interest Income                                               57849000.0        52372000.0        43185000.0        18444000.0
+Normalized Income                                            -38114000.0  337555262.096218  448612642.075568  299863477.042701
+Net Income From Continuing And Discontinued Operation        -36026000.0       332245000.0       447175000.0       281567000.0
+Total Expenses                                              2666684000.0      3001196000.0      3134347000.0      2510422000.0
+Diluted Average Shares                                       142181000.0       145294000.0       144553000.0       144573000.0
+Basic Average Shares                                         142181000.0       142181000.0       142181000.0       142181000.0
+Diluted EPS                                                        -0.25              2.29              3.09              1.95
+Basic EPS                                                          -0.25              2.34              3.15              1.98
+Diluted NI Availto Com Stockholders                          -36026000.0       332245000.0       447175000.0       281567000.0
+Net Income Common Stockholders                               -36026000.0       332245000.0       447175000.0       281567000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0               0.0               0.0
+Net Income                                                   -36026000.0       332245000.0       447175000.0       281567000.0
+Minority Interests                                             2521000.0       -38015000.0       -45172000.0       -21979000.0
+Net Income Including Noncontrolling Interests                -38547000.0       370260000.0       492347000.0       303546000.0
+Net Income Continuous Operations                             -38547000.0       370260000.0       492347000.0       303546000.0
+Tax Provision                                                175567000.0       173319000.0       174439000.0       162014000.0
+Pretax Income                                                137020000.0       543579000.0       666786000.0       465560000.0
+Other Non Operating Income Expenses                            6313000.0         5774000.0         6309000.0        20110000.0
+Special Income Charges                                        -5020000.0       -10429000.0       -20884000.0       -90997000.0
+Write Off                                                      5020000.0        10429000.0        20884000.0        90997000.0
+Net Non Operating Interest Income Expense                     40857000.0        37276000.0        30691000.0         8771000.0
+Interest Expense Non Operating                                16992000.0        15096000.0        12494000.0         9673000.0
+Interest Income Non Operating                                 57849000.0        52372000.0        43185000.0        18444000.0
+Operating Income                                              81802000.0       509204000.0       639399000.0       463004000.0
+Operating Expense                                            534962000.0       553118000.0       596100000.0       506260000.0
+Other Operating Expenses                                      -6158000.0       -46240000.0       -17775000.0         4688000.0
+Research And Development                                     126484000.0       125473000.0       121259000.0       111785000.0
+Selling General And Administration                           414636000.0       473885000.0       492616000.0       389787000.0
+Selling And Marketing Expense                                125958000.0       138260000.0       144173000.0       126987000.0
+General And Administrative Expense                           288678000.0       335625000.0       348443000.0       262800000.0
+Gross Profit                                                 616764000.0      1062322000.0      1235499000.0       969264000.0
+Cost Of Revenue                                             2131722000.0      2448078000.0      2538247000.0      2004162000.0
+Total Revenue                                               2748486000.0      3510400000.0      3773746000.0      2973426000.0
+Operating Revenue                                           2748486000.0      3510400000.0      3773746000.0      2973426000.0

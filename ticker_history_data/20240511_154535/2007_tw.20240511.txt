@@ -1,0 +1,142 @@
+=== Ticker Info ===
+address1	No. 369, Baomi Road
+address2	Baimi Village Gangshan District
+city	Kaohsiung
+zip	82053
+country	Taiwan
+phone	886 7 611 1111
+fax	886 7 625 6758
+website	https://www.yheco.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Yieh Hsing Enterprise Co., Ltd. produces and sells steel products in Taiwan. It offers stainless, carbon, alloy, and free-cutting steel wire rods, as well as deformed bars. Its products are used in manufacturing of nuts, screws, wires, automobile parts, machine parts, hardware, tools, etc. The company also exports its products to North America, South America, China, India, Southeast Asia, Northeast Asia, Europe, and the Middle East. The company was founded in 1978 and is based in Kaohsiung, Taiwan. Yieh Hsing Enterprise Co., Ltd. operates as a subsidiary of Yieh Phui Enterprise Co., Ltd.
+fullTimeEmployees	445
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Sen-Long  Chen', 'age': 62, 'title': 'President & Director', 'yearBorn': 1961, 'fiscalYear': 2021, 'totalPay': 4006000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung-Hsien  Chen', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 636000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shen-Chi  Yen', 'title': 'Senior Manager of the Rolled Steel Production Division', 'fiscalYear': 2021, 'totalPay': 1649000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Huang-Chi  Hsu', 'title': 'Senior Manager', 'fiscalYear': 2021, 'totalPay': 1634000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. T. H.  Wang', 'title': 'Financial Assistant VP and Financial & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Fu-Yun  Shih', 'title': 'Accounting Officer & Assistant Manager of the Financial', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po Chih  Lee', 'title': 'Manager of the Technology Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Kai  Huang', 'title': 'Senior Manager of Information Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yue Han  Chang', 'title': 'Senior Manager of the Administration & Management Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming Chang  Ho', 'title': 'Senior Manager of the Global Marketing & Sales Division', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	11.2
+open	11.2
+dayLow	11.1
+dayHigh	11.35
+regularMarketPreviousClose	11.2
+regularMarketOpen	11.2
+regularMarketDayLow	11.1
+regularMarketDayHigh	11.35
+exDividendDate	1317772800	 (2011-10-05 08:00:00)
+beta	0.731
+volume	608448
+regularMarketVolume	608448
+averageVolume	1265511
+averageVolume10days	784639
+averageDailyVolume10Day	784639
+bid	11.3
+ask	11.35
+marketCap	6022900224
+fiftyTwoWeekLow	9.16
+fiftyTwoWeekHigh	13.8
+priceToSalesTrailing12Months	1.2009414
+fiftyDayAverage	10.881
+twoHundredDayAverage	10.6438
+currency	TWD
+enterpriseValue	11611214848
+profitMargins	-0.19567
+sharesOutstanding	530652000
+heldPercentInsiders	0.75797
+heldPercentInstitutions	0.00059
+impliedSharesOutstanding	530652000
+bookValue	10.969
+priceToBook	1.0347342
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-981331968
+trailingEps	-1.77
+lastSplitFactor	1.02:1
+lastSplitDate	1317772800	 (2011-10-05 08:00:00)
+enterpriseToRevenue	2.315
+enterpriseToEbitda	-34.054
+52WeekChange	0.101941705
+SandP52WeekChange	0.26265144
+lastDividendValue	0.196078
+lastDividendDate	1317772800	 (2011-10-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2007.TW
+underlyingSymbol	2007.TW
+shortName	YIEH HSING ENTERPRISE CO
+longName	Yieh Hsing Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e3a321db-27a7-32e7-a113-10f9d2951293
+messageBoardId	finmb_9342736
+gmtOffSetMilliseconds	28800000
+currentPrice	11.35
+recommendationKey	none
+totalCash	490924000
+totalCashPerShare	0.925
+ebitda	-340968000
+totalDebt	6079242752
+quickRatio	0.283
+currentRatio	0.921
+totalRevenue	5015149056
+debtToEquity	104.446
+revenuePerShare	9.451
+returnOnAssets	-0.03338
+returnOnEquity	-0.15562999
+freeCashflow	-1037512640
+operatingCashflow	-519684992
+revenueGrowth	-0.064
+grossMargins	-0.09325
+ebitdaMargins	-0.06799
+operatingMargins	-0.17468001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                          0.0           0.0           0.0
+Tax Rate For Calcs                                                   0.2      0.160607           0.2
+Normalized EBITDA                                           -254584000.0   442539000.0   -44017000.0
+Net Income From Continuing Operation Net Minority Interest  -694654000.0    13160000.0  -470090000.0
+Reconciled Depreciation                                      302959000.0   306998000.0   304863000.0
+Reconciled Cost Of Revenue                                  6895194000.0  6453502000.0  5753100000.0
+EBITDA                                                      -254584000.0   442539000.0   -44017000.0
+EBIT                                                        -557543000.0   135541000.0  -348880000.0
+Net Interest Income                                         -125080000.0  -119718000.0  -132023000.0
+Interest Expense                                             126493000.0   119863000.0   132265000.0
+Interest Income                                                1413000.0      145000.0      242000.0
+Normalized Income                                           -694654000.0    13160000.0  -470090000.0
+Net Income From Continuing And Discontinued Operation       -694654000.0    13160000.0  -470090000.0
+Total Expenses                                              7106399000.0  6638478000.0  5943404000.0
+Diluted Average Shares                                       530652000.0   530653000.0   530652000.0
+Basic Average Shares                                         530652000.0   530652000.0   530652000.0
+Diluted EPS                                                        -1.31          0.02         -0.89
+Basic EPS                                                          -1.31          0.02         -0.89
+Diluted NI Availto Com Stockholders                         -694654000.0    13160000.0  -470090000.0
+Net Income Common Stockholders                              -694654000.0    13160000.0  -470090000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0
+Net Income                                                  -694654000.0    13160000.0  -470090000.0
+Minority Interests                                                   NaN           0.0    14670000.0
+Net Income Including Noncontrolling Interests               -694654000.0    13160000.0  -484760000.0
+Net Income Continuous Operations                            -694654000.0    13160000.0  -484760000.0
+Tax Provision                                                 10618000.0     2518000.0     3615000.0
+Pretax Income                                               -684036000.0    15678000.0  -481145000.0
+Other Non Operating Income Expenses                           36709000.0     3799000.0    49919000.0
+Net Non Operating Interest Income Expense                   -125080000.0  -119718000.0  -132023000.0
+Interest Expense Non Operating                               126493000.0   119863000.0   132265000.0
+Interest Income Non Operating                                  1413000.0      145000.0      242000.0
+Operating Income                                            -277703000.0   380308000.0  -353613000.0
+Operating Expense                                            211205000.0   184976000.0   190304000.0
+Selling General And Administration                           211205000.0   184976000.0   190304000.0
+Selling And Marketing Expense                                112932000.0    97317000.0    81847000.0
+General And Administrative Expense                            98273000.0    87659000.0   108457000.0
+Gross Profit                                                 -66498000.0   565284000.0  -163309000.0
+Cost Of Revenue                                             6895194000.0  6453502000.0  5753100000.0
+Total Revenue                                               6828696000.0  7018786000.0  5589791000.0
+Operating Revenue                                           6828696000.0  7018786000.0  5589791000.0

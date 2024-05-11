@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 426, Linsen North Road
+address2	2nd Floor
+city	Taipei
+zip	10451
+country	Taiwan
+phone	886 2 2521 5155
+fax	886 2 2581 9770
+website	https://www.texray.com
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Tex-Ray Industrial Co., Ltd. engages in weaving, manufacturing, processing, dyeing, spinning, finishing, printing, and trading cottons, textiles, yarns, and fabrics. The company is also involved in the processing and trading of garments; and manufacturing, processing, and trading of ramie and flax. It has operations in Taiwan, the United States, rest of Asia, Mexico, Africa, and internationally. The company was founded in 1978 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zui-Yeh  Lin', 'age': 68, 'title': 'Chairman & CEO', 'yearBorn': 1955, 'fiscalYear': 2022, 'totalPay': 3442000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wan Kuei  Yao', 'title': 'Deputy CEO & Vice Chairman', 'fiscalYear': 2022, 'totalPay': 13860755, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Yi  Lin', 'title': 'President & COO', 'fiscalYear': 2022, 'totalPay': 2973000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei-Han  Yang', 'title': 'Chief Strategy Officer', 'fiscalYear': 2022, 'totalPay': 3748000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Yen  Tseng', 'title': 'President of Eswatini Business Division', 'fiscalYear': 2022, 'totalPay': 4142000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Chung  Wu', 'title': 'CFO, Chief Accounting Officer & Chief Corporate Governance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chin-Huei  Chang', 'title': 'Vice President of Apparel Business Division', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Feng-Ying  Yeh', 'title': 'Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Han  Lin', 'title': 'Vice President of Fabric Business Unit', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	11.8
+open	11.85
+dayLow	11.85
+dayHigh	12.2
+regularMarketPreviousClose	11.8
+regularMarketOpen	11.85
+regularMarketDayLow	11.85
+regularMarketDayHigh	12.2
+exDividendDate	1631491200	 (2021-09-13 08:00:00)
+fiveYearAvgDividendYield	7.77
+beta	0.784
+volume	2524135
+regularMarketVolume	2524135
+averageVolume	1760880
+averageVolume10days	1100068
+averageDailyVolume10Day	1100068
+bid	12.1
+ask	12.15
+marketCap	2838543616
+fiftyTwoWeekLow	10.8
+fiftyTwoWeekHigh	13.15
+priceToSalesTrailing12Months	0.62312293
+fiftyDayAverage	11.353
+twoHundredDayAverage	11.40175
+currency	TWD
+enterpriseValue	4946373120
+profitMargins	-0.03639
+floatShares	111179658
+sharesOutstanding	233624992
+heldPercentInsiders	0.54683
+heldPercentInstitutions	0.00717
+impliedSharesOutstanding	235620992
+bookValue	11.833
+priceToBook	1.0267894
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-165763008
+trailingEps	-0.71
+lastSplitFactor	1.02:1
+lastSplitDate	1344297600	 (2012-08-07 08:00:00)
+enterpriseToRevenue	1.086
+enterpriseToEbitda	-295.412
+52WeekChange	0.056521773
+SandP52WeekChange	0.26265144
+lastDividendValue	0.7
+lastDividendDate	1631491200	 (2021-09-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1467.TW
+underlyingSymbol	1467.TW
+shortName	TEX-RAY INDUSTRIAL CO LTD
+longName	Tex-Ray Industrial Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4d676ddf-2888-3846-bada-f6123f13aa06
+messageBoardId	finmb_11478936
+gmtOffSetMilliseconds	28800000
+currentPrice	12.15
+recommendationKey	none
+totalCash	2328775936
+totalCashPerShare	9.968
+ebitda	-16744000
+totalDebt	4298564096
+quickRatio	1.031
+currentRatio	1.378
+totalRevenue	4555351040
+debtToEquity	148.096
+revenuePerShare	19.499
+returnOnAssets	-0.013409999
+returnOnEquity	-0.053990003
+freeCashflow	70677128
+operatingCashflow	220244000
+revenueGrowth	-0.189
+grossMargins	0.16896999
+ebitdaMargins	-0.00368
+operatingMargins	-0.02338
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    4901000.0   -14141200.0    -4649600.0  -59277576.671094
+Tax Rate For Calcs                                                   0.2           0.2           0.2          0.381712
+Normalized EBITDA                                            257849000.0   436877000.0   415842000.0       772998000.0
+Total Unusual Items                                           24505000.0   -70706000.0   -23248000.0      -155294000.0
+Total Unusual Items Excluding Goodwill                        24505000.0   -70706000.0   -23248000.0      -155294000.0
+Net Income From Continuing Operation Net Minority Interest  -165763000.0   -38383000.0   -30882000.0       168120000.0
+Reconciled Depreciation                                      230332000.0   220887000.0   224013000.0       254735000.0
+Reconciled Cost Of Revenue                                  3785652000.0  4828337000.0  5311863000.0      6382107000.0
+EBITDA                                                       282354000.0   366171000.0   392594000.0       617704000.0
+EBIT                                                          52022000.0   145284000.0   168581000.0       362969000.0
+Net Interest Income                                          -36638000.0   -67541000.0   -73992000.0       -81792000.0
+Interest Expense                                             118872000.0    99981000.0    94919000.0        96467000.0
+Interest Income                                               82234000.0    32440000.0    20927000.0        14675000.0
+Normalized Income                                           -185367000.0    18181800.0   -12283600.0  264136423.328906
+Net Income From Continuing And Discontinued Operation       -165763000.0   -38383000.0   -30882000.0       168120000.0
+Total Expenses                                              4761451000.0  6027891000.0  6520654000.0      8010732000.0
+Diluted Average Shares                                               NaN   233625000.0   233625000.0       233788000.0
+Basic Average Shares                                                 NaN   233625000.0   233625000.0       233625000.0
+Diluted EPS                                                          NaN         -0.16         -0.13          0.719113
+Basic EPS                                                            NaN         -0.16         -0.13              0.72
+Diluted NI Availto Com Stockholders                         -165763000.0   -38383000.0   -30882000.0       168120000.0
+Net Income Common Stockholders                              -165763000.0   -38383000.0   -30882000.0       168120000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0               0.0
+Net Income                                                  -165763000.0   -38383000.0   -30882000.0       168120000.0
+Minority Interests                                             -512000.0     3291000.0    11873000.0         3345000.0
+Net Income Including Noncontrolling Interests               -165251000.0   -41674000.0   -42755000.0       164775000.0
+Net Income Continuous Operations                            -165251000.0   -41674000.0   -42755000.0       164775000.0
+Tax Provision                                                 98401000.0    86977000.0   116417000.0       101727000.0
+Pretax Income                                                -66850000.0    45303000.0    73662000.0       266502000.0
+Other Non Operating Income Expenses                          150837000.0    82221000.0    53620000.0       -83507000.0
+Special Income Charges                                        24505000.0   -70706000.0   -23248000.0      -155294000.0
+Write Off                                                    -24505000.0    70706000.0    23248000.0       155294000.0
+Net Non Operating Interest Income Expense                    -36638000.0   -67541000.0   -73992000.0       -81792000.0
+Interest Expense Non Operating                               118872000.0    99981000.0    94919000.0        96467000.0
+Interest Income Non Operating                                 82234000.0    32440000.0    20927000.0        14675000.0
+Operating Income                                            -206100000.0   101329000.0   117282000.0       587855000.0
+Operating Expense                                            975799000.0  1199554000.0  1208791000.0      1628625000.0
+Research And Development                                      85069000.0    77898000.0    56694000.0        57702000.0
+Selling General And Administration                           890730000.0  1121656000.0  1152097000.0      1570923000.0
+Selling And Marketing Expense                                408954000.0   587327000.0   667571000.0      1002826000.0
+General And Administrative Expense                           481776000.0   534329000.0   484526000.0       568097000.0
+Gross Profit                                                 769699000.0  1300883000.0  1326073000.0      2216480000.0
+Cost Of Revenue                                             3785652000.0  4828337000.0  5311863000.0      6382107000.0
+Total Revenue                                               4555351000.0  6129220000.0  6637936000.0      8598587000.0
+Operating Revenue                                           4555351000.0  6129220000.0  6637936000.0      8598587000.0

@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	Building F
+address2	No. 4, Minxiang Street Zhonghe District
+city	New Taipei City
+zip	235010
+country	Taiwan
+phone	886 2 2222 6112
+fax	886 2 2222 6196
+website	https://www.lastertech.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Laster Tech Co., Ltd. engages in the manufacture and sale of LED lighting products in Taiwan and internationally. It offers automotive lighting products, including tail lights, brake lights, fog lights, turn signals, side markers, and day time running lamps; industrial, indoor, outdoor, and landscape lighting products; and chip products, such as Lumileds LED chips. It also engages in the assembly of LED automotive lighting and LED lighting fixtures-related products; and investment business. The company was founded in 1999 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mei-Shiu  Liu', 'title': 'GM & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	42.25
+open	43.25
+dayLow	42.65
+dayHigh	45.2
+regularMarketPreviousClose	42.25
+regularMarketOpen	43.25
+regularMarketDayLow	42.65
+regularMarketDayHigh	45.2
+dividendRate	0.28
+dividendYield	0.0064999997
+exDividendDate	1693872000	 (2023-09-05 08:00:00)
+payoutRatio	0.1065
+fiveYearAvgDividendYield	3.8
+beta	1.056
+trailingPE	16.415094
+forwardPE	10.357143
+volume	3780454
+regularMarketVolume	3780454
+averageVolume	1718080
+averageVolume10days	915103
+averageDailyVolume10Day	915103
+bid	43.5
+ask	43.55
+marketCap	4938207232
+fiftyTwoWeekLow	38.7
+fiftyTwoWeekHigh	57.5
+priceToSalesTrailing12Months	0.582816
+fiftyDayAverage	46.577
+twoHundredDayAverage	48.2075
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.03550296
+currency	TWD
+enterpriseValue	6846451200
+profitMargins	0.036679998
+sharesOutstanding	113522000
+heldPercentInsiders	0.24018998
+heldPercentInstitutions	0.015620001
+impliedSharesOutstanding	113522000
+bookValue	28.921
+priceToBook	1.5040973
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.181
+netIncomeToCommon	310800000
+trailingEps	2.65
+forwardEps	4.2
+lastSplitFactor	1.02:1
+lastSplitDate	1343952000	 (2012-08-03 08:00:00)
+enterpriseToRevenue	0.808
+enterpriseToEbitda	11.901
+52WeekChange	0.12113404
+SandP52WeekChange	0.26265144
+lastDividendValue	0.282144
+lastDividendDate	1693872000	 (2023-09-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3346.TW
+underlyingSymbol	3346.TW
+shortName	LASTER TECH CORPORATION LTD
+longName	Laster Tech Co., Ltd.
+firstTradeDateEpochUtc	1354669200	 (2012-12-05 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0ef21abf-2da8-3102-b1bb-b64d11bad33f
+messageBoardId	finmb_20353786
+gmtOffSetMilliseconds	28800000
+currentPrice	43.5
+targetHighPrice	75.0
+targetLowPrice	60.0
+targetMeanPrice	67.5
+targetMedianPrice	67.5
+recommendationMean	1.6
+recommendationKey	buy
+numberOfAnalystOpinions	2
+totalCash	1304299008
+totalCashPerShare	11.489
+ebitda	575262016
+totalDebt	3212542976
+quickRatio	0.904
+currentRatio	1.438
+totalRevenue	8473012224
+debtToEquity	97.85
+revenuePerShare	77.223
+returnOnAssets	0.02456
+returnOnEquity	0.10326
+freeCashflow	-208024992
+operatingCashflow	176543008
+earningsGrowth	0.097
+revenueGrowth	-0.037
+grossMargins	0.14432
+ebitdaMargins	0.06789
+operatingMargins	0.06425
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     896800.0   -3110706.339637 -15781524.279941
+Tax Rate For Calcs                                                   0.2          0.189135          0.21002
+Normalized EBITDA                                            330792000.0       419081000.0      344474000.0
+Total Unusual Items                                            4484000.0       -16447000.0      -75143000.0
+Total Unusual Items Excluding Goodwill                         4484000.0       -16447000.0      -75143000.0
+Net Income From Continuing Operation Net Minority Interest    30980000.0        96171000.0       12315000.0
+Reconciled Depreciation                                      244502000.0       249300000.0      206255000.0
+Reconciled Cost Of Revenue                                  5768449000.0      4792043000.0     3635915000.0
+EBITDA                                                       335276000.0       402634000.0      269331000.0
+EBIT                                                          90774000.0       153334000.0       63076000.0
+Net Interest Income                                          -48787000.0       -22810000.0      -31634000.0
+Interest Expense                                              60431000.0        34731000.0       47487000.0
+Interest Income                                               11644000.0        11921000.0       15853000.0
+Normalized Income                                             27392800.0  109507293.660363  71676475.720059
+Net Income From Continuing And Discontinued Operation         30980000.0        96171000.0       12315000.0
+Total Expenses                                              6548204000.0      5551453000.0     4264844000.0
+Diluted Average Shares                                       104257000.0        99265000.0       78745529.0
+Basic Average Shares                                         104195000.0        93583000.0       78737446.0
+Diluted EPS                                                          0.3               1.0         0.158349
+Basic EPS                                                            0.3              1.03         0.158349
+Diluted NI Availto Com Stockholders                           30980000.0        96171000.0       12315000.0
+Net Income Common Stockholders                                30980000.0        96171000.0       12315000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0              0.0
+Net Income                                                    30980000.0        96171000.0       12315000.0
+Minority Interests                                                   NaN               0.0              0.0
+Net Income Including Noncontrolling Interests                 30980000.0        96171000.0       12315000.0
+Net Income Continuous Operations                              30980000.0        96171000.0       12315000.0
+Tax Provision                                                  -637000.0        22432000.0        3274000.0
+Pretax Income                                                 30343000.0       118603000.0       15589000.0
+Other Non Operating Income Expenses                           10235000.0        49620000.0       41358000.0
+Special Income Charges                                         4484000.0       -16447000.0      -75143000.0
+Write Off                                                     -4484000.0        16447000.0       75143000.0
+Net Non Operating Interest Income Expense                    -48787000.0       -22810000.0      -31634000.0
+Interest Expense Non Operating                                60431000.0        34731000.0       47487000.0
+Interest Income Non Operating                                 11644000.0        11921000.0       15853000.0
+Operating Income                                              64411000.0       108240000.0       81008000.0
+Operating Expense                                            779755000.0       759410000.0      628929000.0
+Other Operating Expenses                                      -5735000.0               NaN              NaN
+Research And Development                                     290218000.0       293375000.0      245432000.0
+Selling General And Administration                           495272000.0       466035000.0      383497000.0
+Selling And Marketing Expense                                278779000.0       252880000.0      158545000.0
+General And Administrative Expense                           216493000.0       213155000.0      224952000.0
+Gross Profit                                                 844166000.0       867650000.0      709937000.0
+Cost Of Revenue                                             5768449000.0      4792043000.0     3635915000.0
+Total Revenue                                               6612615000.0      5659693000.0     4345852000.0
+Operating Revenue                                           6612615000.0      5659693000.0     4345852000.0

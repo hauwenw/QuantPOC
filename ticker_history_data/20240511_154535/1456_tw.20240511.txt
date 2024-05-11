@@ -1,0 +1,144 @@
+=== Ticker Info ===
+address1	No. 392, Neihu Road
+address2	12th Floor Section 1
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 8797 8100
+fax	886 2 8797 8106
+website	https://www.ihwa.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	I-Hwa Industrial Co.,Ltd engages in real estate and textile businesses in Taiwan. It is involved in the land and buildings development activities; and construction and leasing of houses and residential projects, as well as manufacturing and trading of finished fabrics, woolen yarn, cotton yarn, and dyestuffs. The company also offers general advertising services and e-commerce services; and engages in the general investment activities. I-Hwa Industrial Co.,Ltd was founded in 1957 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Hao  Huang', 'title': 'Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	20.1
+open	20.15
+dayLow	20.05
+dayHigh	20.45
+regularMarketPreviousClose	20.1
+regularMarketOpen	20.15
+regularMarketDayLow	20.05
+regularMarketDayHigh	20.45
+exDividendDate	1655337600	 (2022-06-16 08:00:00)
+beta	0.894
+trailingPE	92.27273
+volume	169110
+regularMarketVolume	169110
+averageVolume	542353
+averageVolume10days	390350
+averageDailyVolume10Day	390350
+bid	20.3
+ask	20.35
+marketCap	1902515968
+fiftyTwoWeekLow	14.85
+fiftyTwoWeekHigh	24.95
+priceToSalesTrailing12Months	1.1291599
+fiftyDayAverage	20.393
+twoHundredDayAverage	17.45875
+currency	TWD
+enterpriseValue	11680545792
+profitMargins	0.00302
+sharesOutstanding	93720000
+heldPercentInsiders	0.82466006
+impliedSharesOutstanding	99702096
+bookValue	16.351
+priceToBook	1.2415142
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	5084000
+trailingEps	0.22
+lastSplitFactor	0.44:1
+lastSplitDate	1453334400	 (2016-01-21 08:00:00)
+enterpriseToRevenue	6.933
+enterpriseToEbitda	29.583
+52WeekChange	0.2265861
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1655337600	 (2022-06-16 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1456.TW
+underlyingSymbol	1456.TW
+shortName	I-HWA INDUSTRIAL
+longName	I-Hwa Industrial Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3a1e952d-10c9-31d3-ba84-ed1a191ad8d7
+messageBoardId	finmb_9844274
+gmtOffSetMilliseconds	28800000
+currentPrice	20.3
+recommendationKey	none
+totalCash	136952000
+totalCashPerShare	1.461
+ebitda	394836000
+totalDebt	9914982400
+quickRatio	0.024
+currentRatio	1.233
+totalRevenue	1684894976
+debtToEquity	646.999
+revenuePerShare	17.978
+returnOnAssets	0.02084
+returnOnEquity	0.00332
+freeCashflow	-1196871424
+operatingCashflow	-962659968
+revenueGrowth	0.739
+grossMargins	0.33396
+ebitdaMargins	0.23434
+operatingMargins	0.18583
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31   2022-12-31        2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                       5800.0      18400.0       5860.254246    -18082.846575
+Tax Rate For Calcs                                                   0.2          0.2          0.005186         0.027949
+Normalized EBITDA                                            396557000.0  149377000.0       602724000.0      171461000.0
+Total Unusual Items                                              29000.0      92000.0         1130000.0        -647000.0
+Total Unusual Items Excluding Goodwill                           29000.0      92000.0         1130000.0        -647000.0
+Net Income From Continuing Operation Net Minority Interest     5084000.0  -75463000.0       454432000.0       68064000.0
+Reconciled Depreciation                                       15180000.0   15465000.0        13882000.0       16475000.0
+Reconciled Cost Of Revenue                                  1122215000.0  442848000.0      1711267000.0      589930000.0
+EBITDA                                                       396586000.0  149469000.0       603854000.0      170814000.0
+EBIT                                                         381406000.0  134004000.0       589972000.0      154339000.0
+Net Interest Income                                         -360150000.0 -207876000.0      -132945000.0      -84212000.0
+Interest Expense                                             362858000.0  208564000.0       133171000.0       84318000.0
+Interest Income                                                2708000.0     688000.0          226000.0         106000.0
+Normalized Income                                              5060800.0  -75536600.0  453307860.254246  68692917.153425
+Net Income From Continuing And Discontinued Operation          5084000.0  -75463000.0       454432000.0       68064000.0
+Total Expenses                                              1287268000.0  499507000.0      1779992000.0      564842000.0
+Diluted Average Shares                                        93727000.0   93720000.0        93830000.0       93744000.0
+Basic Average Shares                                          93720000.0   93720000.0        93720000.0       93720000.0
+Diluted EPS                                                         0.05        -0.81              4.84             0.73
+Basic EPS                                                           0.05        -0.81              4.85             0.73
+Diluted NI Availto Com Stockholders                            5084000.0  -75463000.0       454432000.0       68064000.0
+Net Income Common Stockholders                                 5084000.0  -75463000.0       454432000.0       68064000.0
+Otherunder Preferred Stock Dividend                                  0.0          0.0               0.0              0.0
+Net Income                                                     5084000.0  -75463000.0       454432000.0       68064000.0
+Net Income Including Noncontrolling Interests                  5084000.0  -75463000.0       454432000.0       68064000.0
+Net Income Continuous Operations                               5084000.0  -75463000.0       454432000.0       68064000.0
+Tax Provision                                                 13464000.0     903000.0         2369000.0        1957000.0
+Pretax Income                                                 18548000.0  -74560000.0       456801000.0       70021000.0
+Other Non Operating Income Expenses                           -1645000.0   23497000.0         8117000.0        3265000.0
+Special Income Charges                                           29000.0      92000.0         1130000.0        -647000.0
+Write Off                                                       -29000.0     -92000.0        -1130000.0         647000.0
+Net Non Operating Interest Income Expense                   -360150000.0 -207876000.0      -132945000.0      -84212000.0
+Interest Expense Non Operating                               362858000.0  208564000.0       133171000.0       84318000.0
+Interest Income Non Operating                                  2708000.0     688000.0          226000.0         106000.0
+Operating Income                                             397627000.0  117743000.0       583244000.0      151615000.0
+Operating Expense                                            165053000.0   56659000.0        68725000.0      -25088000.0
+Other Operating Expenses                                     -18000000.0  -50700000.0      -143800000.0     -107701000.0
+Selling General And Administration                           183053000.0  107359000.0       212525000.0       82613000.0
+Selling And Marketing Expense                                116554000.0   48083000.0       151699000.0       39291000.0
+General And Administrative Expense                            66499000.0   59276000.0        60826000.0       43322000.0
+Gross Profit                                                 562680000.0  174402000.0       651969000.0      126527000.0
+Cost Of Revenue                                             1122215000.0  442848000.0      1711267000.0      589930000.0
+Total Revenue                                               1684895000.0  617250000.0      2363236000.0      716457000.0
+Operating Revenue                                           1684895000.0  617250000.0      2363236000.0      716457000.0

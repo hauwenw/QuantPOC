@@ -1,0 +1,128 @@
+=== Ticker Info ===
+address1	No. 6, Minquan East Road
+address2	3rd Floor Section 3 Zhongshan District
+city	Taipei
+zip	10491
+country	Taiwan
+phone	886 2 2509 9001
+fax	886 2 2517 3655
+website	https://www.mli.com.tw
+industry	Insurance - Life
+industryKey	insurance-life
+industryDisp	Insurance - Life
+sector	Financial Services
+sectorKey	financial-services
+sectorDisp	Financial Services
+longBusinessSummary	Mercuries Life Insurance Company Ltd. provides life insurance products primarily in Taiwan. The company offers health, accident, annuities, group, travel, universal, operational loss, and investment-linked insurance products. It operates through branch offices located in Taipei, Taichung, Chiayi, Tainan, and Kaohsiung. Mercuries Life Insurance Company Ltd. was incorporated in 1993 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	5474
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hung-Sheng  Chen', 'title': 'President', 'fiscalYear': 2022, 'totalPay': 112000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Pi-Hua  Lin', 'title': 'Chief Financial Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Hsiang  Lin', 'title': 'Senior VP & COO', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Kuang-Chih  Tsao', 'title': 'Chief Investment Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. S.M.  Fang', 'title': 'Chief Accountant, VP & Accounting Supervisor', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ming-Ching  Hsieh', 'title': 'Senior VP & Chief Information Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhou  Xiaoting', 'title': 'Investor Relations Manager', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Shu-Fang  Hsieh', 'title': 'VP & Chief Compliance Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Money  Chang', 'title': 'Executive VP & Chief Marketing Officer', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Chung  Huang', 'title': 'Executive Vice President', 'fiscalYear': 2022, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1672444800
+maxAge	86400
+priceHint	2
+previousClose	5.78
+open	5.8
+dayLow	5.8
+dayHigh	5.87
+regularMarketPreviousClose	5.78
+regularMarketOpen	5.8
+regularMarketDayLow	5.8
+regularMarketDayHigh	5.87
+exDividendDate	1438560000	 (2015-08-03 08:00:00)
+beta	0.628
+volume	11862455
+regularMarketVolume	11862455
+averageVolume	15459076
+averageVolume10days	13959339
+averageDailyVolume10Day	13959339
+bid	5.85
+ask	5.86
+marketCap	29883070464
+fiftyTwoWeekLow	4.78
+fiftyTwoWeekHigh	6.4
+priceToSalesTrailing12Months	0.28798586
+fiftyDayAverage	5.2366
+twoHundredDayAverage	5.1179943
+currency	TWD
+enterpriseValue	-125127376896
+profitMargins	-0.091709994
+floatShares	3004167060
+sharesOutstanding	5099500032
+heldPercentInsiders	0.46675998
+heldPercentInstitutions	0.03731
+impliedSharesOutstanding	5099500032
+bookValue	7.832
+priceToBook	0.7482125
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-9515988992
+trailingEps	-2.11
+lastSplitFactor	1014.259:1000
+lastSplitDate	1633996800	 (2021-10-12 08:00:00)
+enterpriseToRevenue	-1.206
+enterpriseToEbitda	7.695
+52WeekChange	0.14320588
+SandP52WeekChange	0.26265144
+lastDividendValue	0.172684
+lastDividendDate	1438560000	 (2015-08-03 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2867.TW
+underlyingSymbol	2867.TW
+shortName	MERCURIES LIFE INSURANCE CO LTD
+longName	Mercuries Life Insurance Company Ltd.
+firstTradeDateEpochUtc	1349226000	 (2012-10-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ac8df9f2-d1a4-334f-80c9-49e49aef0ebb
+messageBoardId	finmb_1054516
+gmtOffSetMilliseconds	28800000
+currentPrice	5.86
+recommendationKey	none
+totalCash	163853434880
+totalCashPerShare	32.131
+ebitda	-16260911104
+totalDebt	8842983424
+quickRatio	11.476
+currentRatio	14.061
+totalRevenue	103765753856
+debtToEquity	22.14
+revenuePerShare	22.957
+returnOnAssets	-0.00696
+returnOnEquity	-0.27667
+freeCashflow	-68590673920
+operatingCashflow	-40041189376
+revenueGrowth	0.167
+grossMargins	-0.1137
+ebitdaMargins	-0.15671
+operatingMargins	0.34375998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                0.264378        0.092901             0.2        0.169954
+Net Income From Continuing Operation Net Minority Interest   -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Reconciled Depreciation                                        505981000.0     489767000.0     489323000.0     507680000.0
+Interest Income                                              36674379000.0   34794244000.0   31403469000.0   32896682000.0
+Normalized Income                                            -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Net Income From Continuing And Discontinued Operation        -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Total Expenses                                              136174905000.0  124486326000.0  143733200000.0  155182270000.0
+Diluted Average Shares                                                 NaN    3166410000.0    2626386865.0    2516687310.0
+Basic Average Shares                                                   NaN    3166410000.0    2626152365.0    2515108337.0
+Diluted EPS                                                            NaN           -4.34        0.417314        0.576071
+Basic EPS                                                              NaN           -4.34        0.417314        0.576071
+Diluted NI Availto Com Stockholders                          -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Net Income Common Stockholders                               -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Net Income                                                   -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Net Income Including Noncontrolling Interests                -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Net Income Continuous Operations                             -9515989000.0  -13658802000.0    1090798000.0    1444538000.0
+Tax Provision                                                -3419996000.0   -1398874000.0   -2136635000.0     295773000.0
+Pretax Income                                               -12935985000.0  -15057676000.0   -1045837000.0    1740311000.0
+Other Income Expense                                         19929775000.0   55808979000.0   -5212338000.0  -12337720000.0
+Other Operating Expenses                                       527876000.0     232183000.0     386500000.0     386020000.0
+Selling General And Administration                            4595772000.0    4667668000.0    4523196000.0    4540382000.0
+General And Administrative Expense                            4595772000.0    4667668000.0    4523196000.0    4540382000.0
+Total Revenue                                               123238920000.0  109428650000.0  142687363000.0  156922581000.0
+Operating Revenue                                           123238920000.0  109428650000.0  142687363000.0  156922581000.0

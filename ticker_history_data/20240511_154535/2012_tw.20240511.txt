@@ -1,0 +1,157 @@
+=== Ticker Info ===
+address1	No. 100, Tapao Street
+address2	Kangshan District
+city	Kaohsiung
+zip	82063
+country	Taiwan
+phone	886 7 622 4111
+fax	886 7 621 6697
+website	https://www.chunyu.com.tw
+industry	Steel
+industryKey	steel
+industryDisp	Steel
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Chun Yu Works & Co., Ltd. manufactures and sells various fastener products in Taiwan, Hong Kong, the United States, and internationally. It offers automotive, bike, railway system, construction and building, steel structure, electronic, heavy industry and machinery, aerospace, and green energy fasteners; and collated screws, collated auto feed screwdrivers, cold drawn and annealing wires, and bright steel bars and wire rods. The company also provides surface and phosphating treatment, and environmental protection engineering services, as well as waste treatment systems. Chun Yu Works & Co., Ltd. was founded in 1949 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Huei-Jeng  Lin', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yin Gui Chen', 'title': 'Finance Department Head', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ping-Tien  Fang', 'title': 'Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin-Yi  Liao', 'title': 'Assistant Vice President of Technology Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.05
+open	24.1
+dayLow	24.05
+dayHigh	24.45
+regularMarketPreviousClose	24.05
+regularMarketOpen	24.1
+regularMarketDayLow	24.05
+regularMarketDayHigh	24.45
+dividendRate	1.5
+dividendYield	0.0619
+exDividendDate	1719532800	 (2024-06-28 08:00:00)
+payoutRatio	1.2048
+fiveYearAvgDividendYield	5.14
+beta	0.647
+trailingPE	29.216867
+forwardPE	6.792717
+volume	78729
+regularMarketVolume	78729
+averageVolume	59402
+averageVolume10days	50720
+averageDailyVolume10Day	50720
+bid	24.15
+ask	24.25
+marketCap	6759275008
+fiftyTwoWeekLow	21.85
+fiftyTwoWeekHigh	28.8
+priceToSalesTrailing12Months	0.7989082
+fiftyDayAverage	23.506
+twoHundredDayAverage	23.62475
+trailingAnnualDividendRate	0.91
+trailingAnnualDividendYield	0.03783784
+currency	TWD
+enterpriseValue	9836359680
+profitMargins	0.029979998
+sharesOutstanding	278732992
+heldPercentInsiders	0.60027003
+heldPercentInstitutions	0.01047
+impliedSharesOutstanding	280460992
+bookValue	15.347
+priceToBook	1.5801134
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.218
+netIncomeToCommon	253624992
+trailingEps	0.83
+forwardEps	3.57
+lastSplitFactor	1050:1000
+lastSplitDate	1662595200	 (2022-09-08 08:00:00)
+enterpriseToRevenue	1.163
+enterpriseToEbitda	13.742
+52WeekChange	-0.0900563
+SandP52WeekChange	0.26265144
+lastDividendValue	0.91
+lastDividendDate	1719532800	 (2024-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2012.TW
+underlyingSymbol	2012.TW
+shortName	CHUN YU WORKS & CO
+longName	Chun Yu Works & Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ee6f5d99-6e88-38ec-9974-b6e469ca7a62
+messageBoardId	finmb_9858013
+gmtOffSetMilliseconds	28800000
+currentPrice	24.25
+recommendationMean	2.0
+recommendationKey	buy
+totalCash	2854139904
+totalCashPerShare	10.24
+ebitda	715795968
+totalDebt	5129873920
+quickRatio	2.472
+currentRatio	4.285
+totalRevenue	8460640768
+debtToEquity	101.0
+revenuePerShare	30.354
+returnOnAssets	0.02301
+returnOnEquity	0.07108
+freeCashflow	1257314176
+operatingCashflow	1395468032
+earningsGrowth	0.214
+revenueGrowth	-0.136
+grossMargins	0.15591
+ebitdaMargins	0.0846
+operatingMargins	0.05289
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1279438.10268     376426.360161     641631.762746   -1486401.020334
+Tax Rate For Calcs                                                 0.305793          0.247486          0.218838          0.239703
+Normalized EBITDA                                               940588000.0      1286739000.0      1497932000.0       772164000.0
+Total Unusual Items                                              -4184000.0         1521000.0         2932000.0        -6201000.0
+Total Unusual Items Excluding Goodwill                           -4184000.0         1521000.0         2932000.0        -6201000.0
+Net Income From Continuing Operation Net Minority Interest      253625000.0       537503000.0       744730000.0       197147000.0
+Reconciled Depreciation                                         295386000.0       285528000.0       283223000.0       310947000.0
+Reconciled Cost Of Revenue                                     7141577000.0      9247148000.0      9744419000.0      6905334000.0
+EBITDA                                                          936404000.0      1288260000.0      1500864000.0       765963000.0
+EBIT                                                            641018000.0      1002732000.0      1217641000.0       455016000.0
+Net Interest Income                                             -84989000.0      -105556000.0       -83547000.0       -97837000.0
+Interest Expense                                                121464000.0       121531000.0        98569000.0       109051000.0
+Interest Income                                                  36475000.0        15975000.0        15022000.0        11214000.0
+Normalized Income                                           256529561.89732  536358426.360161  742439631.762746  201861598.979666
+Net Income From Continuing And Discontinued Operation           253625000.0       537503000.0       744730000.0       197147000.0
+Total Expenses                                                 8000169000.0     10187423000.0     10711841000.0      7697953000.0
+Diluted Average Shares                                          321765000.0       301475000.0       278506000.0       277440450.0
+Basic Average Shares                                            278733000.0       278733000.0       277919000.0       277141200.0
+Diluted EPS                                                            0.82              1.81              2.67          0.714286
+Basic EPS                                                              0.91              1.93              2.68          0.714286
+Diluted NI Availto Com Stockholders                             253625000.0       537503000.0       744730000.0       197147000.0
+Net Income Common Stockholders                                  253625000.0       537503000.0       744730000.0       197147000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                      253625000.0       537503000.0       744730000.0       197147000.0
+Minority Interests                                             -107053000.0      -125613000.0      -129447000.0       -65889000.0
+Net Income Including Noncontrolling Interests                   360678000.0       663116000.0       874177000.0       263036000.0
+Net Income Continuous Operations                                360678000.0       663116000.0       874177000.0       263036000.0
+Tax Provision                                                   158876000.0       218085000.0       244895000.0        82929000.0
+Pretax Income                                                   519554000.0       881201000.0      1119072000.0       345965000.0
+Other Non Operating Income Expenses                             148255000.0       123018000.0       101286000.0        93341000.0
+Special Income Charges                                           -4184000.0         1521000.0         2932000.0        -6201000.0
+Write Off                                                         4184000.0        -1521000.0        -2932000.0         6201000.0
+Net Non Operating Interest Income Expense                       -84989000.0      -105556000.0       -83547000.0       -97837000.0
+Interest Expense Non Operating                                  121464000.0       121531000.0        98569000.0       109051000.0
+Interest Income Non Operating                                    36475000.0        15975000.0        15022000.0        11214000.0
+Operating Income                                                460472000.0       862218000.0      1098401000.0       356662000.0
+Operating Expense                                               858592000.0       940275000.0       967422000.0       792619000.0
+Research And Development                                         62903000.0        66419000.0        84250000.0        62304000.0
+Selling General And Administration                              795689000.0       873856000.0       883172000.0       730315000.0
+Selling And Marketing Expense                                   289537000.0       357854000.0       392798000.0       284061000.0
+General And Administrative Expense                              506152000.0       516002000.0       490374000.0       446254000.0
+Gross Profit                                                   1319064000.0      1802493000.0      2065823000.0      1149281000.0
+Cost Of Revenue                                                7141577000.0      9247148000.0      9744419000.0      6905334000.0
+Total Revenue                                                  8460641000.0     11049641000.0     11810242000.0      8054615000.0
+Operating Revenue                                              8460641000.0     11049641000.0     11810242000.0      8054615000.0

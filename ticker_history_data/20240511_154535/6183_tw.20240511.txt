@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 19-13, Sanchong Road
+address2	6th Floor Nangang District
+city	Taipei
+zip	115
+country	Taiwan
+phone	886 2 2655 1188
+fax	886 2 2655 0598
+website	https://www.tradevan.com.tw
+industry	Specialty Business Services
+industryKey	specialty-business-services
+industryDisp	Specialty Business Services
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Trade-Van Information Services Co. provides cloud value-added services in Taiwan and internationally. The company offers electronic data exchanging and related services; database buildup and related consulting services; and data message design services, as well as computer software and hardware agency services. It also provides custom clearance, cross-border electronic transaction, online land administration, electronic tax filing, automobile liability insurance, asset management, financial monitoring, government systems integration, e-commerce, information security, global logistics and supply chain, e-marketplace platform, trade2cash, and big data services. In addition, the company is involved in the development of information and internet technology; wholesaling of electronic products and daily miscellaneous goods; and provision of import, export, and agency services. Trade-Van Information Services Co. was founded in 1990 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Guo-Feng  Kao', 'title': 'President & Representative Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Xin-Bai  Shi', 'title': 'CFO, Senior Manager, Chief Accounting Officer, Chief Governance Officer & Accounting Supervisor', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Su-Jen  Shih', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Nien-Te  Fang', 'title': 'VP & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui-Ping  Yen', 'title': 'Chief Internal Auditor, Audit Supervisor & Head of Internal Audit', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	73.4
+open	73.8
+dayLow	73.4
+dayHigh	74.3
+regularMarketPreviousClose	73.4
+regularMarketOpen	73.8
+regularMarketDayLow	73.4
+regularMarketDayHigh	74.3
+dividendRate	2.5
+dividendYield	0.034
+exDividendDate	1692662400	 (2023-08-22 08:00:00)
+payoutRatio	0.78620005
+fiveYearAvgDividendYield	3.66
+trailingPE	23.144653
+volume	28062
+regularMarketVolume	28062
+averageVolume	48255
+averageVolume10days	28318
+averageDailyVolume10Day	28318
+bid	73.5
+ask	73.6
+marketCap	11040000000
+fiftyTwoWeekLow	62.0
+fiftyTwoWeekHigh	76.3
+priceToSalesTrailing12Months	4.7214575
+fiftyDayAverage	73.004
+twoHundredDayAverage	68.607
+trailingAnnualDividendRate	2.75
+trailingAnnualDividendYield	0.037465937
+currency	TWD
+enterpriseValue	10009435136
+profitMargins	0.20547001
+floatShares	53978341
+sharesOutstanding	150000000
+heldPercentInsiders	0.62535
+heldPercentInstitutions	0.049879998
+impliedSharesOutstanding	150203008
+bookValue	18.197
+priceToBook	4.0446224
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.002
+netIncomeToCommon	480433984
+trailingEps	3.18
+lastSplitFactor	0.758626:1
+lastSplitDate	1252540800	 (2009-09-10 08:00:00)
+enterpriseToRevenue	4.281
+enterpriseToEbitda	15.01
+52WeekChange	0.18138039
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1692662400	 (2023-08-22 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6183.TW
+underlyingSymbol	6183.TW
+shortName	TRADE-VAN INFORMATION
+longName	Trade-Van Information Services Co.
+firstTradeDateEpochUtc	1199062800	 (2007-12-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	b394eb99-0dfe-3b68-8f83-42ee4d8b8a1d
+messageBoardId	finmb_9794180
+gmtOffSetMilliseconds	28800000
+currentPrice	73.6
+recommendationKey	none
+totalCash	1057473984
+totalCashPerShare	7.081
+ebitda	666851008
+totalDebt	75304000
+quickRatio	1.201
+currentRatio	2.151
+totalRevenue	2338260992
+debtToEquity	2.771
+revenuePerShare	15.597
+returnOnAssets	0.09274
+returnOnEquity	0.18136999
+freeCashflow	-21195250
+operatingCashflow	601888000
+earningsGrowth	-0.011
+revenueGrowth	0.077
+grossMargins	0.43477002
+ebitdaMargins	0.28519
+operatingMargins	0.22610001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    419805.514005     244529.53154      93734.852377   -1831870.750357
+Tax Rate For Calcs                                                  0.177358         0.191638          0.190132          0.197018
+Normalized EBITDA                                                736625000.0      724695000.0       658439000.0       547871000.0
+Total Unusual Items                                                2367000.0        1276000.0          493000.0        -9298000.0
+Total Unusual Items Excluding Goodwill                             2367000.0        1276000.0          493000.0        -9298000.0
+Net Income From Continuing Operation Net Minority Interest       480665000.0      464093000.0       425662000.0       337210000.0
+Reconciled Depreciation                                          153878000.0      150868000.0       132016000.0       117824000.0
+Reconciled Cost Of Revenue                                      1284798000.0     1279517000.0      1327075000.0      1141678000.0
+EBITDA                                                           738992000.0      725971000.0       658932000.0       538573000.0
+EBIT                                                             585114000.0      575103000.0       526916000.0       420749000.0
+Net Interest Income                                               14839000.0        5828000.0         2557000.0         3087000.0
+Interest Expense                                                    820000.0         988000.0         1322000.0          802000.0
+Interest Income                                                   15659000.0        6816000.0         3879000.0         3889000.0
+Normalized Income                                           478717805.514005  463061529.53154  425262734.852377  344676129.249643
+Net Income From Continuing And Discontinued Operation            480665000.0      464093000.0       425662000.0       337210000.0
+Total Expenses                                                  1737943000.0     1714712000.0      1717989000.0      1478131000.0
+Diluted Average Shares                                           150551000.0      150615000.0       150629000.0       150524000.0
+Basic Average Shares                                             150000000.0      150000000.0       150000000.0       150000000.0
+Diluted EPS                                                             3.19             3.08              2.83              2.24
+Basic EPS                                                                3.2             3.09              2.84              2.25
+Diluted NI Availto Com Stockholders                              480665000.0      464093000.0       425662000.0       337210000.0
+Net Income Common Stockholders                                   480665000.0      464093000.0       425662000.0       337210000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                       480665000.0      464093000.0       425662000.0       337210000.0
+Net Income Including Noncontrolling Interests                    480665000.0      464093000.0       425662000.0       337210000.0
+Net Income Discontinuous Operations                                      NaN              NaN               NaN               0.0
+Net Income Continuous Operations                                 480665000.0      464093000.0       425662000.0       337210000.0
+Tax Provision                                                    103629000.0      110022000.0        99932000.0        82737000.0
+Pretax Income                                                    584294000.0      574115000.0       525594000.0       419947000.0
+Other Non Operating Income Expenses                                2892000.0        2304000.0         1923000.0         2056000.0
+Special Income Charges                                             -225000.0        -646000.0         -121000.0            8000.0
+Other Special Charges                                                 1000.0              NaN               NaN               NaN
+Write Off                                                           224000.0         646000.0          121000.0           -8000.0
+Net Non Operating Interest Income Expense                         14839000.0        5828000.0         2557000.0         3087000.0
+Interest Expense Non Operating                                      820000.0         988000.0         1322000.0          802000.0
+Interest Income Non Operating                                     15659000.0        6816000.0         3879000.0         3889000.0
+Operating Income                                                 559301000.0      554060000.0       516109000.0       421308000.0
+Operating Expense                                                453145000.0      435195000.0       390914000.0       336453000.0
+Other Operating Expenses                                           1258000.0         459000.0          245000.0        -1518000.0
+Research And Development                                          34666000.0       19753000.0        21963000.0        20324000.0
+Selling General And Administration                               417221000.0      414983000.0       368706000.0       317647000.0
+Selling And Marketing Expense                                     87883000.0       99690000.0        90064000.0        89190000.0
+General And Administrative Expense                               329338000.0      315293000.0       278642000.0       228457000.0
+Gross Profit                                                    1012446000.0      989255000.0       907023000.0       757761000.0
+Cost Of Revenue                                                 1284798000.0     1279517000.0      1327075000.0      1141678000.0
+Total Revenue                                                   2297244000.0     2268772000.0      2234098000.0      1899439000.0
+Operating Revenue                                               2297244000.0     2268772000.0      2234098000.0      1899439000.0

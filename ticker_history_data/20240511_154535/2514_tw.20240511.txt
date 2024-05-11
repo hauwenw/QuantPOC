@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 50, Zhongxiao West Road
+address2	9th Floor Section 1 Zhongzheng District
+city	Taipei City
+zip	100
+country	Taiwan
+phone	886 2 2375 6595
+fax	886 2 2375 6326
+website	https://www.longbon.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Long Bon International Co.,Ltd, through its subsidiaries, engages in financial investment, construction, and real estate development and investment businesses in Taiwan. The company constructs residential and commercial buildings, technology plants, public works, and turnkey projects. It also invests in, develops, rents, and sells real estate properties. Long Bon International Co.,Ltd was founded in 1977 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wei-Long  Liu', 'title': 'GM & Director', 'fiscalYear': 2021, 'totalPay': 6487000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Ching  Dong', 'title': 'CFO & Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yingjia  Tsai', 'title': 'Accounting Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yalan  Hsu', 'title': 'Chief Audit Executive', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	18.05
+open	18.1
+dayLow	17.85
+dayHigh	18.3
+regularMarketPreviousClose	18.05
+regularMarketOpen	18.1
+regularMarketDayLow	17.85
+regularMarketDayHigh	18.3
+exDividendDate	1575504000	 (2019-12-05 08:00:00)
+fiveYearAvgDividendYield	2.99
+beta	0.119
+trailingPE	7.3360653
+volume	1445249
+regularMarketVolume	1445249
+averageVolume	1640557
+averageVolume10days	3006230
+averageDailyVolume10Day	3006230
+bid	17.9
+ask	18.0
+marketCap	6410348032
+fiftyTwoWeekLow	15.2
+fiftyTwoWeekHigh	19.45
+priceToSalesTrailing12Months	0.3511057
+fiftyDayAverage	16.335
+twoHundredDayAverage	16.0145
+currency	TWD
+enterpriseValue	18040842240
+profitMargins	0.04842
+floatShares	123268721
+sharesOutstanding	358120000
+heldPercentInsiders	0.68661004
+heldPercentInstitutions	0.10735
+impliedSharesOutstanding	367740992
+bookValue	31.921
+priceToBook	0.56075937
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	7.022
+netIncomeToCommon	884091008
+trailingEps	2.44
+lastSplitFactor	800:1000
+lastSplitDate	1575504000	 (2019-12-05 08:00:00)
+enterpriseToRevenue	0.988
+enterpriseToEbitda	16.594
+52WeekChange	0.07507503
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1575504000	 (2019-12-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2514.TW
+underlyingSymbol	2514.TW
+shortName	LONG BON INTERNATIONAL CO. LTD.
+longName	Long Bon International Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e31902cc-8937-3088-aa46-dd8424eb47bf
+messageBoardId	finmb_11500564
+gmtOffSetMilliseconds	28800000
+currentPrice	17.9
+recommendationKey	none
+totalCash	3543966976
+totalCashPerShare	9.896
+ebitda	1087172992
+totalDebt	6726686208
+quickRatio	0.575
+currentRatio	1.121
+totalRevenue	18257602560
+debtToEquity	33.837
+revenuePerShare	50.471
+returnOnAssets	0.01685
+returnOnEquity	0.064720005
+freeCashflow	-1124191488
+operatingCashflow	2084030976
+earningsGrowth	7.2
+revenueGrowth	1.412
+grossMargins	0.113850005
+ebitdaMargins	0.05955
+operatingMargins	-0.0019699999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31        2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                    261023.891077      91016.618114     -40885.052418     1353129.019423
+Tax Rate For Calcs                                                  0.215189          0.288027            0.1105           0.083785
+Normalized EBITDA                                               1651725000.0       664870000.0      1228652000.0       1390617000.0
+Total Unusual Items                                                1213000.0          316000.0         -370000.0         16150000.0
+Total Unusual Items Excluding Goodwill                             1213000.0          316000.0         -370000.0         16150000.0
+Net Income From Continuing Operation Net Minority Interest       884091000.0       327473000.0       886384000.0       1100637000.0
+Reconciled Depreciation                                          188257000.0        70913000.0        66306000.0         62965000.0
+Reconciled Cost Of Revenue                                     16178955000.0      8562681000.0     10615684000.0       9996651000.0
+EBITDA                                                          1652938000.0       665186000.0      1228282000.0       1406767000.0
+EBIT                                                            1464681000.0       594273000.0      1161976000.0       1343802000.0
+Net Interest Income                                             -140228000.0      -105261000.0      -130534000.0        -83835000.0
+Interest Expense                                                 204336000.0       128456000.0       138466000.0        112282000.0
+Interest Income                                                   64108000.0        23195000.0         7932000.0         28447000.0
+Normalized Income                                           883139023.891077  327248016.618114  886713114.947582  1085840129.019423
+Net Income From Continuing And Discontinued Operation            884091000.0       327473000.0       886384000.0       1100637000.0
+Total Expenses                                                 17359899000.0      8913156000.0     11099053000.0      10439145000.0
+Diluted Average Shares                                                   NaN       361905000.0       362449000.0        365030000.0
+Basic Average Shares                                                     NaN       361744000.0       361744000.0        364039000.0
+Diluted EPS                                                              NaN               0.9              2.45               3.05
+Basic EPS                                                                NaN              0.91              2.45               3.05
+Diluted NI Availto Com Stockholders                              884091000.0       327473000.0       886384000.0       1100637000.0
+Net Income Common Stockholders                                   884091000.0       327473000.0       886384000.0       1100637000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0               0.0                0.0
+Net Income                                                       884091000.0       327473000.0       886384000.0       1100637000.0
+Minority Interests                                              -105042000.0        -4176000.0       -24028000.0        -27700000.0
+Net Income Including Noncontrolling Interests                    989133000.0       331649000.0       910412000.0       1128337000.0
+Net Income Continuous Operations                                 989133000.0       331649000.0       910412000.0       1128337000.0
+Tax Provision                                                    271212000.0       134168000.0       113098000.0        103183000.0
+Pretax Income                                                   1260345000.0       465817000.0      1023510000.0       1231520000.0
+Other Non Operating Income Expenses                             1016861000.0        52623000.0       831733000.0        963247000.0
+Special Income Charges                                             1213000.0          316000.0         -370000.0         16150000.0
+Write Off                                                         -1213000.0         -316000.0          370000.0        -16150000.0
+Net Non Operating Interest Income Expense                       -140228000.0      -105261000.0      -130534000.0        -83835000.0
+Interest Expense Non Operating                                   204336000.0       128456000.0       138466000.0        112282000.0
+Interest Income Non Operating                                     64108000.0        23195000.0         7932000.0         28447000.0
+Operating Income                                                 462920000.0       255638000.0       326571000.0        337179000.0
+Operating Expense                                               1180944000.0       350475000.0       483369000.0        442494000.0
+Other Operating Expenses                                                 NaN               NaN       -13593000.0                NaN
+Selling General And Administration                              1180944000.0       350475000.0       496962000.0        442494000.0
+Selling And Marketing Expense                                    697268000.0        71595000.0        82773000.0         56356000.0
+General And Administrative Expense                               483676000.0       278880000.0       414189000.0        386138000.0
+Gross Profit                                                    1643864000.0       606113000.0       809940000.0        779673000.0
+Cost Of Revenue                                                16178955000.0      8562681000.0     10615684000.0       9996651000.0
+Total Revenue                                                  17822819000.0      9168794000.0     11425624000.0      10776324000.0
+Operating Revenue                                              17822819000.0      9168794000.0     11425624000.0      10776324000.0

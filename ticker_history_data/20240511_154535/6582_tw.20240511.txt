@@ -1,0 +1,145 @@
+=== Ticker Info ===
+address1	No. 55, Jhongshan Road
+address2	Section 3 Fangliao
+city	Pingtung
+zip	94048
+country	Taiwan
+phone	886 8 866 0088
+fax	886 8 866 1188
+website	https://www.shinfoong.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Shin Foong Specialty and Applied Materials Co., Ltd. engages in the manufacture and sale of synthetic latex products in Taiwan. The company offers synthetic SBR and NBR rubber latex products; acrylic products; and bio-latex, a water-based non-toxic apply to color layer of thermal paper. Its products are used in various applications, such as medical and healthcare, adhesives, building and construction, energy, and fiber and textiles. The company was formerly known as Shin Foong Chemical Industry Co., Ltd and changed its name to Shin Foong Specialty and Applied Materials Co., Ltd. in September 2016. Shin Foong Specialty and Applied Materials Co., Ltd. was founded in 1979 and is headquartered in Pingtung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chi Min  Sheu', 'title': 'Chairperson & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiuying  Qiu', 'title': 'Chief Strategy Officer & Director', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	50.9
+open	50.7
+dayLow	50.6
+dayHigh	51.0
+regularMarketPreviousClose	50.9
+regularMarketOpen	50.7
+regularMarketDayLow	50.6
+regularMarketDayHigh	51.0
+dividendRate	1.5
+dividendYield	0.0295
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	75.0
+fiveYearAvgDividendYield	8.51
+volume	37530
+regularMarketVolume	37530
+averageVolume	69162
+averageVolume10days	60139
+averageDailyVolume10Day	60139
+bid	50.7
+ask	50.9
+marketCap	5393638912
+fiftyTwoWeekLow	47.9
+fiftyTwoWeekHigh	59.9
+priceToSalesTrailing12Months	6.0078382
+fiftyDayAverage	49.278
+twoHundredDayAverage	51.27225
+currency	TWD
+enterpriseValue	4794091520
+profitMargins	-0.122489996
+sharesOutstanding	106174000
+heldPercentInsiders	0.74246
+heldPercentInstitutions	0.02224
+impliedSharesOutstanding	106389000
+bookValue	55.224
+priceToBook	0.9198899
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+netIncomeToCommon	-109963000
+trailingEps	-1.04
+enterpriseToRevenue	5.34
+enterpriseToEbitda	-52.812
+52WeekChange	-0.09123433
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6582.TW
+underlyingSymbol	6582.TW
+shortName	SHIN FOONG SPECIALTY AND APPLIE
+longName	Shin Foong Specialty and Applied Materials Co., Ltd.
+firstTradeDateEpochUtc	1467248400	 (2016-06-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	30a186fe-f68c-3323-92f7-e3245e4a816a
+messageBoardId	finmb_41135978
+gmtOffSetMilliseconds	28800000
+currentPrice	50.8
+recommendationKey	none
+totalCash	671534016
+totalCashPerShare	6.246
+ebitda	-90777000
+totalDebt	3742000
+quickRatio	2.913
+currentRatio	3.524
+totalRevenue	897766976
+debtToEquity	0.063
+revenuePerShare	8.46
+returnOnAssets	-0.022650002
+returnOnEquity	-0.0187
+freeCashflow	-360718880
+operatingCashflow	-146880992
+revenueGrowth	0.016
+grossMargins	0.00513
+ebitdaMargins	-0.101110004
+operatingMargins	-0.22867
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   -140351.898454   -4281904.129732      513580.966018      960384.599411
+Tax Rate For Calcs                                                     0.204          0.395959           0.202516           0.193939
+Normalized EBITDA                                                 10297000.0       446763000.0       4507691000.0       2347781000.0
+Total Unusual Items                                                -688000.0       -10814000.0          2536000.0          4952000.0
+Total Unusual Items Excluding Goodwill                             -688000.0       -10814000.0          2536000.0          4952000.0
+Net Income From Continuing Operation Net Minority Interest      -107862000.0       174993000.0       3476386000.0       1777831000.0
+Reconciled Depreciation                                          144935000.0       145947000.0        150385000.0        146547000.0
+Reconciled Cost Of Revenue                                       872982000.0      1273176000.0       3236563000.0       2604477000.0
+EBITDA                                                             9609000.0       435949000.0       4510227000.0       2352733000.0
+EBIT                                                            -135326000.0       290002000.0       4359842000.0       2206186000.0
+Net Interest Income                                               21451000.0        27149000.0         18350000.0         10122000.0
+Interest Expense                                                    179000.0          298000.0           649000.0           608000.0
+Interest Income                                                   21630000.0        27447000.0         18999000.0         10730000.0
+Normalized Income                                          -107314351.898454  181525095.870268  3474363580.966018  1773839384.599411
+Net Income From Continuing And Discontinued Operation           -107862000.0       174993000.0       3476386000.0       1777831000.0
+Total Expenses                                                  1109938000.0      1493046000.0       3798078000.0       3071511000.0
+Diluted Average Shares                                           106174000.0       106325000.0        106637607.0        106200000.0
+Basic Average Shares                                             106174000.0       106174000.0        106181613.0        105495000.0
+Diluted EPS                                                            -1.02              1.65               32.6              16.74
+Basic EPS                                                              -1.02              1.65              32.74              16.85
+Diluted NI Availto Com Stockholders                             -107862000.0       174993000.0       3476386000.0       1777831000.0
+Net Income Common Stockholders                                  -107862000.0       174993000.0       3476386000.0       1777831000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0                0.0                0.0
+Net Income                                                      -107862000.0       174993000.0       3476386000.0       1777831000.0
+Net Income Including Noncontrolling Interests                   -107862000.0       174993000.0       3476386000.0       1777831000.0
+Net Income Continuous Operations                                -107862000.0       174993000.0       3476386000.0       1777831000.0
+Tax Provision                                                    -27643000.0       114711000.0        882807000.0        427747000.0
+Pretax Income                                                   -135505000.0       289704000.0       4359193000.0       2205578000.0
+Other Non Operating Income Expenses                               59332000.0        63852000.0        -25329000.0         -6404000.0
+Special Income Charges                                             -688000.0       -10814000.0          2536000.0          4952000.0
+Write Off                                                           688000.0        10814000.0         -2536000.0         -4952000.0
+Net Non Operating Interest Income Expense                         21451000.0        27149000.0         18350000.0         10122000.0
+Interest Expense Non Operating                                      179000.0          298000.0           649000.0           608000.0
+Interest Income Non Operating                                     21630000.0        27447000.0         18999000.0         10730000.0
+Operating Income                                                -215600000.0       209517000.0       4363636000.0       2196908000.0
+Operating Expense                                                236956000.0       219870000.0        561515000.0        467034000.0
+Research And Development                                          26227000.0        32933000.0         60566000.0         47472000.0
+Selling General And Administration                               210729000.0       186937000.0        500949000.0        419562000.0
+Selling And Marketing Expense                                    104093000.0       107946000.0        299521000.0        261500000.0
+General And Administrative Expense                               106636000.0        78991000.0        201428000.0        158062000.0
+Gross Profit                                                      21356000.0       429387000.0       4925151000.0       2663942000.0
+Cost Of Revenue                                                  872982000.0      1273176000.0       3236563000.0       2604477000.0
+Total Revenue                                                    894338000.0      1702563000.0       8161714000.0       5268419000.0
+Operating Revenue                                                894338000.0      1702563000.0       8161714000.0       5268419000.0

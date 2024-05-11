@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 52, Emei Street
+address2	Wanhua District
+city	Taipei
+country	Taiwan
+phone	886 2 2381 4307
+fax	886 2 2331 5386
+website	https://www.wanhwa.com.tw
+industry	Real Estate Services
+industryKey	real-estate-services
+industryDisp	Real Estate Services
+sector	Real Estate
+sectorKey	real-estate
+sectorDisp	Real Estate
+longBusinessSummary	Wan Hwa Enterprise Company Ltd. engages in the rental of commercial buildings in Taiwan. The company leases shopping malls, department stores, bookstores, restaurants, supermarkets, and business hotels. It is involved in the operation of cinemas and amusement parks. Wan Hwa Enterprise Company Ltd. was incorporated in 1958 and is headquartered in Taipei, Taiwan.
+fullTimeEmployees	25
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Ya-Chen  Wu', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 1342995, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Wen  Liang', 'title': 'Chief Accountant & Accounting Officer', 'fiscalYear': 2021, 'totalPay': 768715, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shih-Yu  Huang', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 512184, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tsung-Tse  Chen', 'title': 'Chief Information Security Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	13.0
+open	13.0
+dayLow	13.0
+dayHigh	13.25
+regularMarketPreviousClose	13.0
+regularMarketOpen	13.0
+regularMarketDayLow	13.0
+regularMarketDayHigh	13.25
+dividendRate	0.25
+dividendYield	0.0191
+exDividendDate	1694476800	 (2023-09-12 08:00:00)
+payoutRatio	0.47169998
+fiveYearAvgDividendYield	2.38
+beta	0.258
+trailingPE	24.716984
+volume	671153
+regularMarketVolume	671153
+averageVolume	281125
+averageVolume10days	516006
+averageDailyVolume10Day	516006
+bid	13.1
+ask	13.15
+marketCap	5894580736
+fiftyTwoWeekLow	12.0
+fiftyTwoWeekHigh	15.6
+priceToSalesTrailing12Months	17.095404
+fiftyDayAverage	12.573
+twoHundredDayAverage	12.62625
+trailingAnnualDividendRate	0.28
+trailingAnnualDividendYield	0.021538462
+currency	TWD
+enterpriseValue	5488116736
+profitMargins	0.68833
+sharesOutstanding	449968000
+heldPercentInsiders	0.77131
+heldPercentInstitutions	0.00193
+impliedSharesOutstanding	455140000
+bookValue	18.412
+priceToBook	0.7114925
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.326
+netIncomeToCommon	237340000
+trailingEps	0.53
+lastSplitFactor	1025.5:1000
+lastSplitDate	1534896000	 (2018-08-22 08:00:00)
+enterpriseToRevenue	15.917
+enterpriseToEbitda	25.196
+52WeekChange	0.031496048
+SandP52WeekChange	0.26265144
+lastDividendValue	0.25
+lastDividendDate	1694476800	 (2023-09-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2701.TW
+underlyingSymbol	2701.TW
+shortName	WAN HWA ENTERPRISE
+longName	Wan Hwa Enterprise Company Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	191ba1ec-b84f-37b8-833a-cfec2e4e214e
+messageBoardId	finmb_9647542
+gmtOffSetMilliseconds	28800000
+currentPrice	13.1
+recommendationKey	none
+totalCash	406464000
+totalCashPerShare	0.903
+ebitda	217819008
+quickRatio	2.53
+currentRatio	10.848
+totalRevenue	344804992
+revenuePerShare	0.766
+returnOnAssets	0.0143099995
+returnOnEquity	0.029289998
+freeCashflow	147555120
+operatingCashflow	161336000
+earningsGrowth	2.326
+revenueGrowth	0.879
+grossMargins	0.77629
+ebitdaMargins	0.63172
+operatingMargins	0.6072
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    248568.335897      85700.523308     29813.030172      76526.544788
+Tax Rate For Calcs                                                  0.181569          0.150881         0.133691          0.169307
+Normalized EBITDA                                                168830000.0       109319000.0      125269000.0       146008000.0
+Total Unusual Items                                                1369000.0          568000.0         223000.0          452000.0
+Total Unusual Items Excluding Goodwill                             1369000.0          568000.0         223000.0          452000.0
+Net Income From Continuing Operation Net Minority Interest       237340000.0       211749000.0       84356000.0       174120000.0
+Reconciled Depreciation                                            3422000.0         3898000.0        6867000.0         8520000.0
+Reconciled Cost Of Revenue                                        97562000.0        90442000.0       92001000.0        96349000.0
+EBITDA                                                           170199000.0       109887000.0      125492000.0       146460000.0
+EBIT                                                             166777000.0       105989000.0      118625000.0       137940000.0
+Net Interest Income                                               22455000.0        12097000.0       10129000.0        12212000.0
+Interest Income                                                   22455000.0        12097000.0       10129000.0        12212000.0
+Normalized Income                                           236219568.335897  211266700.523308  84162813.030172  173744526.544788
+Net Income From Continuing And Discontinued Operation            237340000.0       211749000.0       84356000.0       174120000.0
+Total Expenses                                                   130408000.0       120646000.0      121311000.0       126751000.0
+Rent Expense Supplemental                                         32924000.0        32765000.0       32955000.0        35615000.0
+Diluted Average Shares                                                   NaN       449968000.0      449968000.0       449968000.0
+Basic Average Shares                                                     NaN       449968000.0      449968000.0       449968000.0
+Diluted EPS                                                              NaN              0.47             0.19              0.39
+Basic EPS                                                                NaN              0.47             0.19              0.39
+Diluted NI Availto Com Stockholders                              237340000.0       211749000.0       84356000.0       174120000.0
+Net Income Common Stockholders                                   237340000.0       211749000.0       84356000.0       174120000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0              0.0               0.0
+Net Income                                                       237340000.0       211749000.0       84356000.0       174120000.0
+Minority Interests                                                       NaN               NaN              0.0               0.0
+Net Income Including Noncontrolling Interests                    237340000.0       211749000.0       84356000.0       174120000.0
+Net Income Discontinuous Operations                                      NaN               NaN              0.0               0.0
+Net Income Continuous Operations                                 237340000.0       211749000.0       84356000.0       174120000.0
+Tax Provision                                                     52654000.0        37626000.0       13018000.0        35488000.0
+Pretax Income                                                    289994000.0       249375000.0       97374000.0       209608000.0
+Other Non Operating Income Expenses                                6365000.0         6169000.0        8498000.0         8540000.0
+Net Non Operating Interest Income Expense                         22455000.0        12097000.0       10129000.0        12212000.0
+Interest Income Non Operating                                     22455000.0        12097000.0       10129000.0        12212000.0
+Operating Income                                                 166777000.0       105989000.0      118625000.0       137940000.0
+Operating Expense                                                 32846000.0        30204000.0       29310000.0        30402000.0
+Other Operating Expenses                                          32846000.0        30204000.0       29310000.0        30402000.0
+Gross Profit                                                     199623000.0       136193000.0      147935000.0       168342000.0
+Cost Of Revenue                                                   97562000.0        90442000.0       92001000.0        96349000.0
+Total Revenue                                                    297185000.0       226635000.0      239936000.0       264691000.0
+Operating Revenue                                                297185000.0       226635000.0      239936000.0       264691000.0

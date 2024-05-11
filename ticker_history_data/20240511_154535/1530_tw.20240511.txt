@@ -1,0 +1,159 @@
+=== Ticker Info ===
+address1	629, Suezhetou Section
+address2	Kwanpu Road Wenshan Li Xinpu
+city	Hsinchu City
+zip	305
+country	Taiwan
+phone	886 3 588 5191
+fax	886 3 588 5194
+website	https://www.awea.com
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Awea mechantronic co.,ltd researches, designs, manufactures, assembles, tests, monitors, sells, and services various CNC machines in Taiwan and internationally. It offers vertical, production bridge, high-speed bridge, 5-face bridge, horizontal, and 5-axis milling, as well as horizontal boring machines; and tapping and automation products. The company was founded in 1975 and is based in Hsinchu City, Taiwan.
+fullTimeEmployees	532
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Te-Hwa  Yang', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	32.45
+open	32.5
+dayLow	32.3
+dayHigh	32.7
+regularMarketPreviousClose	32.45
+regularMarketOpen	32.5
+regularMarketDayLow	32.3
+regularMarketDayHigh	32.7
+dividendRate	1.6
+dividendYield	0.0494
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.73730004
+fiveYearAvgDividendYield	5.68
+beta	0.518
+trailingPE	14.930876
+forwardPE	19.285715
+volume	73659
+regularMarketVolume	73659
+averageVolume	73327
+averageVolume10days	71953
+averageDailyVolume10Day	71953
+bid	32.4
+ask	32.5
+marketCap	3129652224
+fiftyTwoWeekLow	29.5
+fiftyTwoWeekHigh	35.0
+priceToSalesTrailing12Months	1.3250475
+fiftyDayAverage	32.279
+twoHundredDayAverage	31.311
+trailingAnnualDividendRate	1.5
+trailingAnnualDividendYield	0.04622496
+currency	TWD
+enterpriseValue	3478047232
+profitMargins	0.08925
+sharesOutstanding	96594200
+heldPercentInsiders	0.7225
+heldPercentInstitutions	0.058330003
+impliedSharesOutstanding	96594200
+bookValue	34.1
+priceToBook	0.95014673
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.505
+netIncomeToCommon	210811008
+trailingEps	2.17
+forwardEps	1.68
+lastSplitFactor	1050:1000
+lastSplitDate	1471996800	 (2016-08-24 08:00:00)
+enterpriseToRevenue	1.473
+enterpriseToEbitda	26.881
+52WeekChange	-0.0076569915
+SandP52WeekChange	0.26265144
+lastDividendValue	1.6
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1530.TW
+underlyingSymbol	1530.TW
+shortName	AWEA MECHANTRONIC CO
+longName	Awea mechantronic co.,ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3b2ca815-2573-3b12-b779-264fb863693a
+messageBoardId	finmb_9681479
+gmtOffSetMilliseconds	28800000
+currentPrice	32.4
+recommendationKey	none
+totalCash	1403101952
+totalCashPerShare	14.526
+ebitda	129388000
+totalDebt	1657757056
+quickRatio	0.807
+currentRatio	1.559
+totalRevenue	2361916928
+debtToEquity	48.936
+revenuePerShare	24.452
+returnOnAssets	0.0032300001
+returnOnEquity	0.056339998
+freeCashflow	499176992
+operatingCashflow	399439008
+earningsGrowth	-0.505
+revenueGrowth	-0.246
+grossMargins	0.15205
+ebitdaMargins	0.054780003
+operatingMargins	-0.03955
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   1374470.763381    3273539.372493    -1904000.0     1270800.0
+Tax Rate For Calcs                                                  0.190528           0.24033           0.2           0.2
+Normalized EBITDA                                                375183000.0       590214000.0   381549000.0   696036000.0
+Total Unusual Items                                                7214000.0        13621000.0    -9520000.0     6354000.0
+Total Unusual Items Excluding Goodwill                             7214000.0        13621000.0    -9520000.0     6354000.0
+Net Income From Continuing Operation Net Minority Interest       210811000.0       354143000.0   130860000.0   378605000.0
+Reconciled Depreciation                                          114538000.0       118045000.0   119788000.0   124334000.0
+Reconciled Cost Of Revenue                                      2002794000.0      2432617000.0  2951020000.0  2612792000.0
+EBITDA                                                           382397000.0       603835000.0   372029000.0   702390000.0
+EBIT                                                             267859000.0       485790000.0   252241000.0   578056000.0
+Net Interest Income                                               -2631000.0       -10030000.0   -10215000.0   -15097000.0
+Interest Expense                                                  32760000.0        26002000.0    14441000.0    22636000.0
+Interest Income                                                   30129000.0        15972000.0     4226000.0     7539000.0
+Normalized Income                                           204971470.763381  343795539.372493   138476000.0   373521800.0
+Net Income From Continuing And Discontinued Operation            210811000.0       354143000.0   130860000.0   378605000.0
+Total Expenses                                                  2335921000.0      2811013000.0  3355237000.0  3062013000.0
+Diluted Average Shares                                                   NaN        97110000.0    96955000.0    97041000.0
+Basic Average Shares                                                     NaN        96594000.0    96594000.0    96594000.0
+Diluted EPS                                                              NaN              3.65          1.35           3.9
+Basic EPS                                                                NaN              3.67          1.35          3.92
+Diluted NI Availto Com Stockholders                              210811000.0       354143000.0   130860000.0   378605000.0
+Net Income Common Stockholders                                   210811000.0       354143000.0   130860000.0   378605000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0           0.0
+Net Income                                                       210811000.0       354143000.0   130860000.0   378605000.0
+Minority Interests                                                20505000.0         4856000.0     8827000.0  -215597000.0
+Net Income Including Noncontrolling Interests                    190306000.0       349287000.0   122033000.0   594202000.0
+Net Income Continuous Operations                                 190306000.0       349287000.0   122033000.0   594202000.0
+Tax Provision                                                     44793000.0       110501000.0   115767000.0   -38782000.0
+Pretax Income                                                    235099000.0       459788000.0   237800000.0   555420000.0
+Other Non Operating Income Expenses                              197342000.0       158911000.0   -22896000.0   531000000.0
+Special Income Charges                                             7214000.0        13621000.0    -9520000.0     6354000.0
+Other Special Charges                                                    NaN               NaN    -1924000.0    -1800000.0
+Write Off                                                         -7214000.0       -13621000.0    11444000.0    -4554000.0
+Net Non Operating Interest Income Expense                         -2631000.0       -10030000.0   -10215000.0   -15097000.0
+Interest Expense Non Operating                                    32760000.0        26002000.0    14441000.0    22636000.0
+Interest Income Non Operating                                     30129000.0        15972000.0     4226000.0     7539000.0
+Operating Income                                                  25996000.0       289504000.0   275719000.0    31570000.0
+Operating Expense                                                333127000.0       378396000.0   404217000.0   449221000.0
+Other Operating Expenses                                                 NaN               NaN    -1924000.0    -1800000.0
+Research And Development                                          53729000.0        61671000.0    60627000.0    82247000.0
+Selling General And Administration                               279398000.0       316725000.0   343590000.0   366974000.0
+Selling And Marketing Expense                                    149424000.0       188205000.0   217903000.0   228579000.0
+General And Administrative Expense                               129974000.0       128520000.0   125687000.0   138395000.0
+Gross Profit                                                     359123000.0       667900000.0   679936000.0   480791000.0
+Cost Of Revenue                                                 2002794000.0      2432617000.0  2951020000.0  2612792000.0
+Total Revenue                                                   2361917000.0      3100517000.0  3630956000.0  3093583000.0
+Operating Revenue                                               2361917000.0      3100517000.0  3630956000.0  3093583000.0

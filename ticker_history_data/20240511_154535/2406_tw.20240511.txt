@@ -1,0 +1,148 @@
+=== Ticker Info ===
+address1	No. 3, Industrial 1st Road
+address2	Hukou Township
+city	Hsinchu City
+zip	30351
+country	Taiwan
+phone	886 3 598 5510
+fax	886 3 598 4455
+website	https://www.gigastorage.com.tw
+industry	Solar
+industryKey	solar
+industryDisp	Solar
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Gigastorage Corporation operates in the optoelectronics industry in Taiwan, Mainland China, and internationally. The company operates in Silicon Products Division, Photovoltaic Materials Division, and Solar Power Plant Division segments. The Silicon Products Division segment produces, processes, and sells solar silicon accessories and wafers; and diamond wires. The Photovoltaic Materials Division segment engages in the research and development, manufacturing, and sale of solar conductive plasma. The Solar Power Plant Division segment constructs solar power plants; generates solar power; and sells electricity. It also manufactures and trades energy materials, precision chemical materials, wire materials, lithium battery materials, and thick film materials for passive components; provides lithium-ion battery technology development and consulting services, photovoltaic process testing and technical services, wafer surface treatment, silicon processing, silicon materials for solar energy, OEM business, etc. In addition, the company engages in solar energy related business and general investment activities. Further, it manufactures and sells photovoltaic (PV) materials, such as PV ribbons, as well as provides PV systems; provides ground type solar power stations, as well as roof type solar power stations for private houses, public-owned buildings, and factory buildings, as well as cottages; and PCB/BGA milling cutters and drill coating products, such as coated milling cutters and drills. Additionally, the company develops low-temp die attach, LED insulation die bond, electrical conductivity Ag, and insulation pastes; provides biotech materials comprising blood glucose strip conductive Ag paste and carbon paste. The company was founded in 1997 and is based in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chi-Ming  Chen', 'title': 'GM & Chairman', 'fiscalYear': 2021, 'totalPay': 4178000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kao-Yuan  Chung', 'title': 'President', 'fiscalYear': 2021, 'totalPay': 1190000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jyh-Pyng  Tsai', 'title': 'Head of Department of Finance & Accounting Officer', 'fiscalYear': 2021, 'totalPay': 1959000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jiang-Ching  Lin', 'title': 'Vice General Manager', 'fiscalYear': 2021, 'totalPay': 2300000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Min-Min  Chen', 'title': 'Junior Manager of Investment Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	19.9
+open	21.2
+dayLow	21.15
+dayHigh	21.85
+regularMarketPreviousClose	19.9
+regularMarketOpen	21.2
+regularMarketDayLow	21.15
+regularMarketDayHigh	21.85
+exDividendDate	1347408000	 (2012-09-12 08:00:00)
+beta	0.379
+volume	8828468
+regularMarketVolume	8828468
+averageVolume	4795264
+averageVolume10days	4101523
+averageDailyVolume10Day	4101523
+bid	21.85
+ask	21.55
+marketCap	7667295744
+fiftyTwoWeekLow	14.25
+fiftyTwoWeekHigh	22.0
+priceToSalesTrailing12Months	1.9459711
+fiftyDayAverage	19.429
+twoHundredDayAverage	16.98075
+currency	TWD
+enterpriseValue	15260951552
+profitMargins	-0.08825
+floatShares	306200576
+sharesOutstanding	350905984
+heldPercentInsiders	0.14035
+heldPercentInstitutions	0.038259998
+impliedSharesOutstanding	365264992
+bookValue	11.181
+priceToBook	1.9542081
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-347720000
+trailingEps	-0.99
+lastSplitFactor	607.2857:1000
+lastSplitDate	1574640000	 (2019-11-25 08:00:00)
+enterpriseToRevenue	3.873
+enterpriseToEbitda	-23.414
+52WeekChange	0.21052635
+SandP52WeekChange	0.26265144
+lastDividendValue	0.793772
+lastDividendDate	1347408000	 (2012-09-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2406.TW
+underlyingSymbol	2406.TW
+shortName	GIGASTORAGE CORP
+longName	Gigastorage Corporation
+firstTradeDateEpochUtc	957229200	 (2000-05-02 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0685fe2e-5e4f-30e0-9871-57656c41cba4
+messageBoardId	finmb_9857925
+gmtOffSetMilliseconds	28800000
+currentPrice	21.85
+recommendationKey	none
+totalCash	2320944128
+totalCashPerShare	6.614
+ebitda	-651779968
+totalDebt	4889398784
+quickRatio	1.209
+currentRatio	1.944
+totalRevenue	3940087040
+debtToEquity	54.639
+revenuePerShare	11.228
+returnOnAssets	-0.04117
+returnOnEquity	-0.1302
+freeCashflow	-606966400
+operatingCashflow	360320000
+revenueGrowth	-0.138
+grossMargins	-0.00161
+ebitdaMargins	-0.16542
+operatingMargins	-0.22541
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31    2022-12-31    2021-12-31    2020-12-31
+Tax Effect Of Unusual Items                                   10348600.0   -18156800.0     1044400.0    -5312600.0
+Tax Rate For Calcs                                                   0.2           0.2           0.2           0.2
+Normalized EBITDA                                           -798233000.0    22233000.0   166013000.0   124141000.0
+Total Unusual Items                                           51743000.0   -90784000.0     5222000.0   -26563000.0
+Total Unusual Items Excluding Goodwill                        51743000.0   -90784000.0     5222000.0   -26563000.0
+Net Income From Continuing Operation Net Minority Interest  -347720000.0  -154537000.0    24796000.0  -535475000.0
+Reconciled Depreciation                                      370315000.0   320816000.0   330668000.0   322792000.0
+Reconciled Cost Of Revenue                                  3946414000.0  6060376000.0  7683909000.0  8323634000.0
+EBITDA                                                      -746490000.0   -68551000.0   171235000.0    97578000.0
+EBIT                                                       -1116805000.0  -389367000.0  -159433000.0  -225214000.0
+Net Interest Income                                          -34862000.0   -76683000.0  -101020000.0  -269080000.0
+Interest Expense                                              79609000.0    86051000.0   105281000.0   272427000.0
+Interest Income                                               44747000.0     9368000.0     4261000.0     3347000.0
+Normalized Income                                           -389114400.0   -81909800.0    20618400.0  -514224600.0
+Net Income From Continuing And Discontinued Operation       -347720000.0  -154537000.0    24796000.0  -535475000.0
+Total Expenses                                              4977184000.0  7083977000.0  8441286000.0  9741609000.0
+Diluted Average Shares                                       351232323.0   341289000.0   290644000.0   254689665.0
+Basic Average Shares                                         351232323.0   341289000.0   290644000.0   254689665.0
+Diluted EPS                                                        -0.99         -0.45          0.09     -2.134627
+Basic EPS                                                          -0.99         -0.45          0.09     -2.134627
+Diluted NI Availto Com Stockholders                         -347720000.0  -154537000.0    24796000.0  -535475000.0
+Net Income Common Stockholders                              -347720000.0  -154537000.0    24796000.0  -535475000.0
+Otherunder Preferred Stock Dividend                                  0.0           0.0           0.0           0.0
+Net Income                                                  -347720000.0  -154537000.0    24796000.0  -535475000.0
+Minority Interests                                           886551000.0   376753000.0   298453000.0    25505000.0
+Net Income Including Noncontrolling Interests              -1234271000.0  -531290000.0  -273657000.0  -560980000.0
+Net Income Continuous Operations                           -1234271000.0  -531290000.0  -273657000.0  -560980000.0
+Tax Provision                                                 37857000.0    55872000.0     8943000.0    63339000.0
+Pretax Income                                              -1196414000.0  -475418000.0  -264714000.0  -497641000.0
+Other Non Operating Income Expenses                         -130348000.0    50930000.0   -77389000.0   -15417000.0
+Special Income Charges                                        51743000.0   -90784000.0     5222000.0   -26563000.0
+Write Off                                                    -51743000.0    90784000.0    -5222000.0    26563000.0
+Net Non Operating Interest Income Expense                    -34862000.0   -76683000.0  -101020000.0  -269080000.0
+Interest Expense Non Operating                                79609000.0    86051000.0   105281000.0   272427000.0
+Interest Income Non Operating                                 44747000.0     9368000.0     4261000.0     3347000.0
+Operating Income                                           -1037097000.0  -352866000.0   -93468000.0  -186874000.0
+Operating Expense                                           1030770000.0  1023601000.0   757377000.0  1417975000.0
+Other Operating Expenses                                             NaN           NaN  -254805000.0   409885000.0
+Research And Development                                     336684000.0   328727000.0   318943000.0   318379000.0
+Selling General And Administration                           694086000.0   694874000.0   693239000.0   689711000.0
+Selling And Marketing Expense                                251479000.0   229686000.0   257653000.0   257497000.0
+General And Administrative Expense                           442607000.0   465188000.0   435586000.0   432214000.0
+Gross Profit                                                  -6327000.0   670735000.0   663909000.0  1231101000.0
+Cost Of Revenue                                             3946414000.0  6060376000.0  7683909000.0  8323634000.0
+Total Revenue                                               3940087000.0  6731111000.0  8347818000.0  9554735000.0
+Operating Revenue                                           3940087000.0  6731111000.0  8347818000.0  9554735000.0

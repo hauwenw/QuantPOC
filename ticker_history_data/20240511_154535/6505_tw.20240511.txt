@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 1-1, Taisu Industrial Park
+address2	Mailiao Township Yunlin County
+city	Mailiao
+zip	638
+country	Taiwan
+phone	886 5 681 2345
+website	https://www.fpcc.com.tw
+industry	Oil & Gas Refining & Marketing
+industryKey	oil-gas-refining-marketing
+industryDisp	Oil & Gas Refining & Marketing
+sector	Energy
+sectorKey	energy
+sectorDisp	Energy
+longBusinessSummary	Formosa Petrochemical Corporation, together with its subsidiaries, engages in the petrochemical business in Taiwan, Australia, Korea, the Philippines, Singapore, Malaysia, Mainland China, and internationally. The company is involved in the refining of crude oil; selling of refined petroleum products; and producing and selling of olefins, including ethylene, propylene, butadiene, and BTX. Its products include gasoline, diesel, liquefied petroleum gas, jet fuel/kerosene, naphtha, petrochemical raw material, fuel oil/asphalt/sulphur, base oil, and lubricants. The company also produces and sells water, electricity, and steam. In addition, it engages in the Sales Retailing; Transportation; exploration and production of oil and gas; leasing of ships; and investing activities. Formosa Petrochemical Corporation was incorporated in 1992 and is headquartered in Mailiao, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Bao-Lang  Chen', 'title': 'Executive Chairman of the Board', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsao  Mihn', 'title': 'President & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Tang  Tsai', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tsung-Lin  Chen', 'title': 'Accounting Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Chiao  Wang', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Keh-Yen  Lin', 'title': 'Executive VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chang-Pang  Chang', 'age': 76, 'title': 'MD & Independent Director', 'yearBorn': 1947, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ruey-Yu  Wang', 'age': 61, 'title': 'MD & Director', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen-Yuan  Wong', 'title': 'MD & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Te-Hsiung  Hsu', 'age': 66, 'title': 'Senior Vice President of Oil Products Division & Director', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	69.8
+open	70.2
+dayLow	69.8
+dayHigh	70.6
+regularMarketPreviousClose	69.8
+regularMarketOpen	70.2
+regularMarketDayLow	69.8
+regularMarketDayHigh	70.6
+dividendRate	1.1
+dividendYield	0.0156
+exDividendDate	1686614400	 (2023-06-13 08:00:00)
+payoutRatio	0.4661
+fiveYearAvgDividendYield	3.07
+beta	0.361
+trailingPE	29.788137
+forwardPE	20.02849
+volume	2132548
+regularMarketVolume	2132548
+averageVolume	3884142
+averageVolume10days	2784001
+averageDailyVolume10Day	2784001
+bid	70.3
+ask	70.4
+marketCap	669674962944
+fiftyTwoWeekLow	67.6
+fiftyTwoWeekHigh	90.0
+priceToSalesTrailing12Months	0.95786786
+fiftyDayAverage	71.284
+twoHundredDayAverage	77.5265
+trailingAnnualDividendRate	2.0
+trailingAnnualDividendYield	0.028653294
+currency	TWD
+enterpriseValue	616441643008
+profitMargins	0.03215
+floatShares	1178170733
+sharesOutstanding	9525959680
+heldPercentInsiders	0.87558997
+heldPercentInstitutions	0.02227
+impliedSharesOutstanding	9645030400
+bookValue	33.663
+priceToBook	2.0883465
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.133
+netIncomeToCommon	22479632384
+trailingEps	2.36
+forwardEps	3.51
+pegRatio	-6.47
+lastSplitFactor	1.03:1
+lastSplitDate	1246924800	 (2009-07-07 08:00:00)
+enterpriseToRevenue	0.882
+enterpriseToEbitda	22.995
+52WeekChange	-0.17584991
+SandP52WeekChange	0.26265144
+lastDividendValue	1.1
+lastDividendDate	1686614400	 (2023-06-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6505.TW
+underlyingSymbol	6505.TW
+shortName	FORMOSA PETROCHEMICAL CORPORATI
+longName	Formosa Petrochemical Corporation
+firstTradeDateEpochUtc	1072400400	 (2003-12-26 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8b92bcff-31a7-3dca-9e44-e37494fa6261
+messageBoardId	finmb_8954107
+gmtOffSetMilliseconds	28800000
+currentPrice	70.3
+targetHighPrice	100.0
+targetLowPrice	65.0
+targetMeanPrice	78.11
+targetMedianPrice	74.5
+recommendationMean	2.7
+recommendationKey	hold
+numberOfAnalystOpinions	8
+totalCash	91623538688
+totalCashPerShare	9.618
+ebitda	26808020992
+totalDebt	33077325824
+quickRatio	2.422
+currentRatio	4.093
+totalRevenue	699130839040
+debtToEquity	10.147
+revenuePerShare	73.392
+returnOnAssets	0.021440001
+returnOnEquity	0.0696
+freeCashflow	24821374976
+operatingCashflow	31186569216
+earningsGrowth	0.133
+revenueGrowth	-0.073
+grossMargins	0.0372
+ebitdaMargins	0.038340002
+operatingMargins	0.01874
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                    2023-12-31          2022-12-31          2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                     7390981.524057       -5854148.6487    -31764583.298249    18277310.059758
+Tax Rate For Calcs                                                    0.114111            0.151383            0.183865           0.149173
+Normalized EBITDA                                                41333732000.0       33809894000.0       75533648000.0      23043497000.0
+Total Unusual Items                                                 64770000.0         -38671000.0        -172760000.0        122524000.0
+Total Unusual Items Excluding Goodwill                              64770000.0         -38671000.0        -172760000.0        122524000.0
+Net Income From Continuing Operation Net Minority Interest       21888842000.0       14421560000.0       49401403000.0       7429609000.0
+Reconciled Depreciation                                          16162733000.0       16245936000.0       14499709000.0      14084185000.0
+Reconciled Cost Of Revenue                                      685553532000.0      831832945000.0      554282477000.0     402313818000.0
+EBITDA                                                           41398502000.0       33771223000.0       75360888000.0      23166021000.0
+EBIT                                                             25235769000.0       17525287000.0       60861179000.0       9081836000.0
+Net Interest Income                                                517842000.0         -85626000.0         -32408000.0         22833000.0
+Interest Expense                                                   542090000.0         556891000.0         376204000.0        416787000.0
+Interest Income                                                   1059932000.0         471265000.0         343796000.0        439620000.0
+Normalized Income                                           21831462981.524055  14454376851.351299  49542398416.701752  7325362310.059758
+Net Income From Continuing And Discontinued Operation            21888842000.0       14421560000.0       49401403000.0       7429609000.0
+Total Expenses                                                  697236409000.0      842589688000.0      564712181000.0     412635520000.0
+Diluted Average Shares                                            9525960000.0        9525960000.0        9525960000.0       9525960000.0
+Basic Average Shares                                              9525960000.0        9525960000.0        9525960000.0       9525960000.0
+Diluted EPS                                                            2.29781                1.51            5.185976           0.779933
+Basic EPS                                                                  2.3                1.51                5.19               0.78
+Diluted NI Availto Com Stockholders                              21888842000.0       14421560000.0       49401403000.0       7429609000.0
+Net Income Common Stockholders                                   21888842000.0       14421560000.0       49401403000.0       7429609000.0
+Otherunder Preferred Stock Dividend                                        0.0                 0.0                 0.0                0.0
+Net Income                                                       21888842000.0       14421560000.0       49401403000.0       7429609000.0
+Minority Interests                                                  12988000.0          21898000.0          37521000.0         57154000.0
+Net Income Including Noncontrolling Interests                    21875854000.0       14399662000.0       49363882000.0       7372455000.0
+Net Income Continuous Operations                                 21875854000.0       14399662000.0       49363882000.0       7372455000.0
+Tax Provision                                                     2817825000.0        2568734000.0       11121093000.0       1292594000.0
+Pretax Income                                                    24693679000.0       16968396000.0       60484975000.0       8665049000.0
+Other Non Operating Income Expenses                               5788125000.0       12322118000.0        4846803000.0       4368545000.0
+Special Income Charges                                              64770000.0         -38671000.0        -172760000.0        122524000.0
+Write Off                                                          -64770000.0          38671000.0         172760000.0       -122524000.0
+Net Non Operating Interest Income Expense                          517842000.0         -85626000.0         -32408000.0         22833000.0
+Interest Expense Non Operating                                     542090000.0         556891000.0         376204000.0        416787000.0
+Interest Income Non Operating                                     1059932000.0         471265000.0         343796000.0        439620000.0
+Operating Income                                                 15339785000.0        5458808000.0       55350145000.0       2646244000.0
+Operating Expense                                                11682877000.0       10756743000.0       10429704000.0      10321702000.0
+Research And Development                                           405458000.0         406561000.0         310509000.0        235403000.0
+Selling General And Administration                               11277419000.0       10350182000.0       10119195000.0      10086299000.0
+Selling And Marketing Expense                                     6477175000.0        5918811000.0        5379248000.0       5592394000.0
+General And Administrative Expense                                4800244000.0        4431371000.0        4739947000.0       4493905000.0
+Gross Profit                                                     27022662000.0       16215551000.0       65779849000.0      12967946000.0
+Cost Of Revenue                                                 685553532000.0      831832945000.0      554282477000.0     402313818000.0
+Total Revenue                                                   712576194000.0      848048496000.0      620062326000.0     415281764000.0
+Operating Revenue                                               712576194000.0      848048496000.0      620062326000.0     415281764000.0

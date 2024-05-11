@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 12, Tunghsing Road
+address2	6th Floor Songshan District
+city	Taipei
+country	Taiwan
+phone	886 2 8787 6687
+fax	886 2 8787 6987
+website	https://www.bes.com.tw
+industry	Engineering & Construction
+industryKey	engineering-construction
+industryDisp	Engineering & Construction
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	BES Engineering Corporation engages in construction and engineering business. It operates through Construction, Construction Development, and Other segments. The company undertakes various civil engineering projects, such as roads, bridges, tunnels, ports, airports, metro systems, industrial zones, high-tech factories, hospitals, refined residences, and other projects; invests in construction of buildings and development of industrial districts; and develops industrial parks. It leases engineering machinery and equipment; wholesales construction materials; and retails food products and groceries. In addition, the company offers security management, human resources consulting, theater entertainment, movie broadcasting, engineering, business management consulting, and parking lots services, as well as apartment management, maintenance, and related services. BES Engineering Corporation was founded in 1950 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chih-Ming  Chou', 'title': 'Chief Information Security Officer, CEO & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li Cheng  You', 'title': 'Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu Min  Su', 'title': 'Manager of Accounting Department & Deputy Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'An-tzu  Cheng', 'title': 'Director of The Marketing & Customer Service Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Aishan  Jiao', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	16.1
+open	16.2
+dayLow	16.1
+dayHigh	16.4
+regularMarketPreviousClose	16.1
+regularMarketOpen	16.2
+regularMarketDayLow	16.1
+regularMarketDayHigh	16.4
+dividendRate	0.53
+dividendYield	0.0326
+exDividendDate	1689811200	 (2023-07-20 08:00:00)
+payoutRatio	1.2829
+fiveYearAvgDividendYield	3.38
+beta	0.602
+trailingPE	39.390244
+volume	21963024
+regularMarketVolume	21963024
+averageVolume	65323533
+averageVolume10days	96076616
+averageDailyVolume10Day	96076616
+bid	16.15
+ask	16.2
+marketCap	24724033536
+fiftyTwoWeekLow	9.73
+fiftyTwoWeekHigh	19.55
+priceToSalesTrailing12Months	1.3040557
+fiftyDayAverage	14.862
+twoHundredDayAverage	12.285
+trailingAnnualDividendRate	0.52
+trailingAnnualDividendYield	0.032298137
+currency	TWD
+enterpriseValue	38319697920
+profitMargins	0.03295
+floatShares	1279694470
+sharesOutstanding	1530899968
+heldPercentInsiders	0.18236
+heldPercentInstitutions	0.09512
+impliedSharesOutstanding	1595849984
+bookValue	14.672
+priceToBook	1.100736
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.141
+netIncomeToCommon	624718976
+trailingEps	0.41
+lastSplitFactor	105:100
+lastSplitDate	1189555200	 (2007-09-12 08:00:00)
+enterpriseToRevenue	2.021
+enterpriseToEbitda	37.806
+52WeekChange	0.591133
+SandP52WeekChange	0.26265144
+lastDividendValue	0.526
+lastDividendDate	1689811200	 (2023-07-20 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2515.TW
+underlyingSymbol	2515.TW
+shortName	BES ENGINEERING
+longName	BES Engineering Corporation
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	a5a6a501-1dc1-3e3d-b0b2-75ac01665921
+messageBoardId	finmb_9844177
+gmtOffSetMilliseconds	28800000
+currentPrice	16.15
+recommendationKey	none
+totalCash	5415247872
+totalCashPerShare	3.537
+ebitda	1013579008
+totalDebt	18173046784
+quickRatio	0.856
+currentRatio	2.358
+totalRevenue	18959339520
+debtToEquity	78.0
+revenuePerShare	12.384
+returnOnAssets	0.011510001
+returnOnEquity	0.02722
+freeCashflow	-7217410048
+operatingCashflow	-6051185152
+earningsGrowth	-0.144
+revenueGrowth	0.142
+grossMargins	0.08031
+ebitdaMargins	0.053460002
+operatingMargins	0.053000003
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31     2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                      6973.040878   -4460216.304335        32600.0     -33817.508623
+Tax Rate For Calcs                                                   0.19923          0.195735            0.2          0.245054
+Normalized EBITDA                                               1179139000.0      1367876000.0   2789295000.0      1128394000.0
+Total Unusual Items                                                  35000.0       -22787000.0       163000.0         -138000.0
+Total Unusual Items Excluding Goodwill                               35000.0       -22787000.0       163000.0         -138000.0
+Net Income From Continuing Operation Net Minority Interest       624719000.0       821315000.0   2676758000.0       618959000.0
+Reconciled Depreciation                                          166217000.0       160142000.0    160707000.0       164116000.0
+Reconciled Cost Of Revenue                                     17436809000.0     13715550000.0  16856799000.0     12524915000.0
+EBITDA                                                          1179174000.0      1345089000.0   2789458000.0      1128256000.0
+EBIT                                                            1012957000.0      1184947000.0   2628751000.0       964140000.0
+Net Interest Income                                             -149074000.0       260234000.0    -78579000.0       -64162000.0
+Interest Expense                                                 231663000.0       183839000.0    150282000.0       170908000.0
+Interest Income                                                   82589000.0       444073000.0     71703000.0       106746000.0
+Normalized Income                                           624690973.040878  839641783.695665   2676627600.0  619063182.491377
+Net Income From Continuing And Discontinued Operation            624719000.0       821315000.0   2676758000.0       618959000.0
+Total Expenses                                                 18027810000.0     14317198000.0  17555467000.0     13095777000.0
+Diluted Average Shares                                                   NaN      1534631000.0   1536968000.0      1532879000.0
+Basic Average Shares                                                     NaN      1530899000.0   1530899000.0      1530899000.0
+Diluted EPS                                                              NaN              0.54           1.74               0.4
+Basic EPS                                                                NaN              0.54           1.75               0.4
+Diluted NI Availto Com Stockholders                              624719000.0       821315000.0   2676758000.0       618959000.0
+Net Income Common Stockholders                                   624719000.0       821315000.0   2676758000.0       618959000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0            0.0               0.0
+Net Income                                                       624719000.0       821315000.0   2676758000.0       618959000.0
+Minority Interests                                                 -918000.0        16159000.0     14582000.0        20112000.0
+Net Income Including Noncontrolling Interests                    625637000.0       805156000.0   2662176000.0       598847000.0
+Net Income Continuous Operations                                 625637000.0       805156000.0   2662176000.0       598847000.0
+Tax Provision                                                    155657000.0       195952000.0   -183707000.0       194385000.0
+Pretax Income                                                    781294000.0      1001108000.0   2478469000.0       793232000.0
+Other Non Operating Income Expenses                               58895000.0         7533000.0   2919186000.0       613609000.0
+Special Income Charges                                               35000.0       -22787000.0       163000.0         -138000.0
+Write Off                                                           -35000.0        22787000.0      -163000.0          138000.0
+Net Non Operating Interest Income Expense                       -149074000.0       260234000.0    -78579000.0       -64162000.0
+Interest Expense Non Operating                                   231663000.0       183839000.0    150282000.0       170908000.0
+Interest Income Non Operating                                     82589000.0       444073000.0     71703000.0       106746000.0
+Operating Income                                                 931529000.0       776174000.0   -358782000.0       375185000.0
+Operating Expense                                                591001000.0       601648000.0    698668000.0       570862000.0
+Research And Development                                          33571000.0        30838000.0     27113000.0        24849000.0
+Selling General And Administration                               557430000.0       570810000.0    671555000.0       546013000.0
+Selling And Marketing Expense                                     94560000.0        99005000.0    133836000.0        88621000.0
+General And Administrative Expense                               462870000.0       471805000.0    537719000.0       457392000.0
+Gross Profit                                                    1522530000.0      1377822000.0    339886000.0       946047000.0
+Cost Of Revenue                                                17436809000.0     13715550000.0  16856799000.0     12524915000.0
+Total Revenue                                                  18959339000.0     15093372000.0  17196685000.0     13470962000.0
+Operating Revenue                                              18959339000.0     15093372000.0  17196685000.0     13470962000.0

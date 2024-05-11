@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 64, Tacheng Street
+address2	4th Floor Datong District
+city	Taipei
+zip	103005
+country	Taiwan
+phone	886 2 2550 3266
+fax	886 2 2550 5080
+website	https://www.evertex.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	evertex fabrinology limited manufactures and sells fabrics in Taiwan and internationally. The company offers Janerino, a hybrid merino wool fabric; BulkyStretch, a mono-material knit fabric; Syncellux, a cellulose synthetic blend fabric; Tonissimo, a synthetic fleece fabric; functional fabrics; fabrics for trims, pocket and collar liners; and linings for casual and outdoor wears. The company was formerly known as Evertex Dyeing & Finishing. evertex fabrinology limited was founded in 1986 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Poliang  Yeh', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shian-Jung  Hung', 'title': 'VP of Main Management Department , CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Nan Hsu  Chao', 'title': 'In-charge Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	19.3
+open	19.3
+dayLow	19.3
+dayHigh	19.5
+regularMarketPreviousClose	19.3
+regularMarketOpen	19.3
+regularMarketDayLow	19.3
+regularMarketDayHigh	19.5
+dividendRate	0.45
+dividendYield	0.0233
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	0.7895
+fiveYearAvgDividendYield	3.03
+trailingPE	33.85965
+volume	13000
+regularMarketVolume	13000
+averageVolume	26471
+averageVolume10days	14147
+averageDailyVolume10Day	14147
+bid	19.3
+ask	19.4
+marketCap	1655303040
+fiftyTwoWeekLow	18.35
+fiftyTwoWeekHigh	21.8
+priceToSalesTrailing12Months	2.5263278
+fiftyDayAverage	20.146
+twoHundredDayAverage	19.48775
+trailingAnnualDividendRate	0.58
+trailingAnnualDividendYield	0.030051814
+currency	TWD
+enterpriseValue	1255440128
+profitMargins	0.07531
+floatShares	72148916
+sharesOutstanding	85767000
+heldPercentInsiders	0.45886
+impliedSharesOutstanding	87318304
+bookValue	11.488
+priceToBook	1.6800139
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	49346000
+trailingEps	0.57
+lastSplitFactor	110:100
+lastSplitDate	962236800	 (2000-06-29 08:00:00)
+enterpriseToRevenue	1.916
+enterpriseToEbitda	15.703
+52WeekChange	-0.02030456
+SandP52WeekChange	0.26265144
+lastDividendValue	0.45
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1470.TW
+underlyingSymbol	1470.TW
+shortName	EVERTEX FABRINOLOGY LTD
+longName	evertex fabrinology limited
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	d1fc2343-50f2-367b-9725-1267682d25c9
+messageBoardId	finmb_9857868
+gmtOffSetMilliseconds	28800000
+currentPrice	19.3
+recommendationKey	none
+totalCash	445313984
+totalCashPerShare	5.192
+ebitda	79947000
+totalDebt	45451000
+quickRatio	3.376
+currentRatio	4.402
+totalRevenue	655220992
+debtToEquity	4.613
+revenuePerShare	7.64
+returnOnAssets	0.0182
+returnOnEquity	0.0504
+freeCashflow	102645248
+operatingCashflow	144744000
+revenueGrowth	0.17
+grossMargins	0.19813
+ebitdaMargins	0.12202
+operatingMargins	-0.0040599997
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31       2022-12-31       2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                    20135.436706     -3774.684506      4817.127837    -47760.770003
+Tax Rate For Calcs                                                 0.136976         0.343153          0.17204         0.132669
+Normalized EBITDA                                               108284000.0      103249000.0      135155000.0       91437000.0
+Total Unusual Items                                                147000.0         -11000.0          28000.0        -360000.0
+Total Unusual Items Excluding Goodwill                             147000.0         -11000.0          28000.0        -360000.0
+Net Income From Continuing Operation Net Minority Interest       49346000.0       32843000.0       65201000.0       35414000.0
+Reconciled Depreciation                                          50353000.0       52680000.0       55955000.0       49694000.0
+Reconciled Cost Of Revenue                                      525403000.0      670834000.0      703668000.0      517086000.0
+EBITDA                                                          108431000.0      103238000.0      135183000.0       91077000.0
+EBIT                                                             58078000.0       50558000.0       79228000.0       41383000.0
+Net Interest Income                                               5474000.0         677000.0         404000.0        1646000.0
+Interest Expense                                                   900000.0         557000.0         479000.0         552000.0
+Interest Income                                                   6374000.0        1234000.0         883000.0        2198000.0
+Normalized Income                                           49219135.436706  32850225.315494  65177817.127837  35726239.229997
+Net Income From Continuing And Discontinued Operation            49346000.0       32843000.0       65201000.0       35414000.0
+Total Expenses                                                  620924000.0      776764000.0      815212000.0      611391000.0
+Diluted Average Shares                                                  NaN       85879000.0       85924000.0       85875000.0
+Basic Average Shares                                                    NaN       85767000.0       85767000.0       85767000.0
+Diluted EPS                                                             NaN             0.38             0.76             0.41
+Basic EPS                                                               NaN             0.38             0.76             0.41
+Diluted NI Availto Com Stockholders                              49346000.0       32843000.0       65201000.0       35414000.0
+Net Income Common Stockholders                                   49346000.0       32843000.0       65201000.0       35414000.0
+Otherunder Preferred Stock Dividend                                     0.0              0.0              0.0              0.0
+Net Income                                                       49346000.0       32843000.0       65201000.0       35414000.0
+Net Income Including Noncontrolling Interests                    49346000.0       32843000.0       65201000.0       35414000.0
+Net Income Continuous Operations                                 49346000.0       32843000.0       65201000.0       35414000.0
+Tax Provision                                                     7832000.0       17158000.0       13548000.0        5417000.0
+Pretax Income                                                    57178000.0       50001000.0       78749000.0       40831000.0
+Other Non Operating Income Expenses                              17260000.0      -19053000.0       -1260000.0       20179000.0
+Special Income Charges                                             147000.0         -11000.0          28000.0        -360000.0
+Write Off                                                         -147000.0          11000.0         -28000.0         360000.0
+Net Non Operating Interest Income Expense                         5474000.0         677000.0         404000.0        1646000.0
+Interest Expense Non Operating                                     900000.0         557000.0         479000.0         552000.0
+Interest Income Non Operating                                     6374000.0        1234000.0         883000.0        2198000.0
+Operating Income                                                 34297000.0       68388000.0       79577000.0       19366000.0
+Operating Expense                                                95521000.0      105930000.0      111544000.0       94305000.0
+Other Operating Expenses                                         -1094000.0              NaN       -1135000.0        -903000.0
+Selling General And Administration                               96615000.0      105930000.0      112679000.0       95208000.0
+Selling And Marketing Expense                                    67191000.0       75166000.0       78820000.0       61944000.0
+General And Administrative Expense                               29424000.0       30764000.0       33859000.0       33264000.0
+Gross Profit                                                    129818000.0      174318000.0      191121000.0      113671000.0
+Cost Of Revenue                                                 525403000.0      670834000.0      703668000.0      517086000.0
+Total Revenue                                                   655221000.0      845152000.0      894789000.0      630757000.0
+Operating Revenue                                               655221000.0      845152000.0      894789000.0      630757000.0

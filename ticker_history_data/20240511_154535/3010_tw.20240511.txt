@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 235, Zhongzheng 4th Road
+address2	10th Floor Qianjin District
+city	Kaohsiung
+zip	801
+country	Taiwan
+phone	886 7 216 4311
+fax	886 7 251 2208
+website	https://www.wahlee.com/EN
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Wah Lee Industrial Corporation engages in the manufacturing of materials, engineering and functional plastics, semiconductor process materials, and printed circuit boards in Taiwan. It also imports and exports various products, such as engineering equipment, optoelectronic products, electronic machine parts, and industrial materials. In addition, the company engages in the engineering of plastic raw materials and high performance composite materials; manufacturing of synthetic resins, industrial plastics, mold machinery and equipment, and chemical materials; and operates solar power generation businesses. Wah Lee Industrial Corporation was founded in 1957 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Tsuen-Hsien  Chang', 'title': 'CEO, GM & Representative Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ren-Chih  Lin', 'title': 'Director of Finance Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kuo-Ping  Li', 'title': 'Director of Accounting Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi Ming  Zheng', 'title': 'Human Resources Associate', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jui-Yu  Chang', 'title': 'Senior Director of Engineering Plastic Division & Head of Taichung Office', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li Jun  Wei', 'title': 'Chief Internal Auditor', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	130.0
+open	131.0
+dayLow	129.0
+dayHigh	131.5
+regularMarketPreviousClose	130.0
+regularMarketOpen	131.0
+regularMarketDayLow	129.0
+regularMarketDayHigh	131.5
+dividendRate	6.1
+dividendYield	0.0466
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.7503
+fiveYearAvgDividendYield	5.47
+beta	0.511
+trailingPE	16.093365
+forwardPE	13.408392
+volume	1391659
+regularMarketVolume	1391659
+averageVolume	2430761
+averageVolume10days	1903545
+averageDailyVolume10Day	1903545
+bid	130.5
+ask	131.0
+marketCap	30947309568
+fiftyTwoWeekLow	79.4
+fiftyTwoWeekHigh	137.5
+priceToSalesTrailing12Months	0.4634051
+fiftyDayAverage	119.86
+twoHundredDayAverage	101.5685
+trailingAnnualDividendRate	5.2
+trailingAnnualDividendYield	0.04
+currency	TWD
+enterpriseValue	40101048320
+profitMargins	0.03165
+floatShares	137096937
+sharesOutstanding	236239008
+heldPercentInsiders	0.38717
+heldPercentInstitutions	0.07798
+impliedSharesOutstanding	236239008
+bookValue	78.701
+priceToBook	1.6645279
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.281
+netIncomeToCommon	2113716992
+trailingEps	8.14
+forwardEps	9.77
+lastSplitFactor	1020:1000
+lastSplitDate	1630540800	 (2021-09-02 08:00:00)
+enterpriseToRevenue	0.6
+enterpriseToEbitda	13.494
+52WeekChange	0.5502958
+SandP52WeekChange	0.26265144
+lastDividendValue	6.1
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3010.TW
+underlyingSymbol	3010.TW
+shortName	WAH LEE INDUSTRIAL CORP
+longName	Wah Lee Industrial Corporation
+firstTradeDateEpochUtc	1027386000	 (2002-07-23 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	1ab0311c-ddc3-3f57-b3a7-024d83a47b92
+messageBoardId	finmb_11421218
+gmtOffSetMilliseconds	28800000
+currentPrice	131.0
+recommendationKey	none
+totalCash	9383872512
+totalCashPerShare	39.759
+ebitda	2971730944
+totalDebt	16717705216
+quickRatio	1.22
+currentRatio	1.514
+totalRevenue	66782408704
+debtToEquity	81.855
+revenuePerShare	282.932
+returnOnAssets	0.03302
+returnOnEquity	0.11889
+freeCashflow	1739390464
+operatingCashflow	3168869120
+earningsGrowth	0.267
+revenueGrowth	0.039
+grossMargins	0.08274999
+ebitdaMargins	0.044499997
+operatingMargins	0.043309998
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                  -30466899.42643     8129362.303707   -10417080.618618   -24661455.923525
+Tax Rate For Calcs                                                  0.247656           0.228906           0.225801           0.223672
+Normalized EBITDA                                               4111326000.0       4297231000.0       4595309000.0       3269498000.0
+Total Unusual Items                                             -123021000.0         35514000.0        -46134000.0       -110257000.0
+Total Unusual Items Excluding Goodwill                          -123021000.0         35514000.0        -46134000.0       -110257000.0
+Net Income From Continuing Operation Net Minority Interest      2113717000.0       2484800000.0       2843277000.0       1859120000.0
+Reconciled Depreciation                                          455961000.0        455251000.0        363749000.0        318957000.0
+Reconciled Cost Of Revenue                                     61256065000.0      68003687000.0      64532617000.0      54280230000.0
+EBITDA                                                          3988305000.0       4332745000.0       4549175000.0       3159241000.0
+EBIT                                                            3532344000.0       3877494000.0       4185426000.0       2840284000.0
+Net Interest Income                                             -281218000.0       -231775000.0       -119889000.0       -152631000.0
+Interest Expense                                                 453732000.0        341905000.0        169443000.0        204649000.0
+Interest Income                                                  172514000.0        110130000.0         49554000.0         52018000.0
+Normalized Income                                           2206271100.57357  2457415362.303707  2878993919.381382  1944715544.076475
+Net Income From Continuing And Discontinued Operation           2113717000.0       2484800000.0       2843277000.0       1859120000.0
+Total Expenses                                                 64157834000.0      70962375000.0      67396459000.0      56862748000.0
+Diluted Average Shares                                                   NaN        260558000.0        244436000.0        242786000.0
+Basic Average Shares                                                     NaN        236018000.0        236018000.0        236018000.0
+Diluted EPS                                                              NaN               9.62              11.64               7.66
+Basic EPS                                                                NaN              10.53              12.05               7.88
+Diluted NI Availto Com Stockholders                             2113717000.0       2484800000.0       2843277000.0       1859120000.0
+Net Income Common Stockholders                                  2113717000.0       2484800000.0       2843277000.0       1859120000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0                0.0
+Net Income                                                      2113717000.0       2484800000.0       2843277000.0       1859120000.0
+Minority Interests                                              -202458000.0       -241472000.0       -265895000.0       -186996000.0
+Net Income Including Noncontrolling Interests                   2316175000.0       2726272000.0       3109172000.0       2046116000.0
+Net Income Continuous Operations                                2316175000.0       2726272000.0       3109172000.0       2046116000.0
+Tax Provision                                                    762437000.0        809317000.0        906811000.0        589519000.0
+Pretax Income                                                   3078612000.0       3535589000.0       4015983000.0       2635635000.0
+Other Non Operating Income Expenses                              238670000.0        243785000.0         82339000.0        100288000.0
+Special Income Charges                                          -123021000.0         35514000.0        -46134000.0       -110257000.0
+Write Off                                                        123021000.0        -35514000.0         46134000.0        110257000.0
+Net Non Operating Interest Income Expense                       -281218000.0       -231775000.0       -119889000.0       -152631000.0
+Interest Expense Non Operating                                   453732000.0        341905000.0        169443000.0        204649000.0
+Interest Income Non Operating                                    172514000.0        110130000.0         49554000.0         52018000.0
+Operating Income                                                2624576000.0       2607921000.0       3118844000.0       2218172000.0
+Operating Expense                                               2901769000.0       2958688000.0       2863842000.0       2582518000.0
+Selling General And Administration                              2901769000.0       2958688000.0       2863842000.0       2582518000.0
+Selling And Marketing Expense                                   2259583000.0       2341164000.0       2272525000.0       2051331000.0
+General And Administrative Expense                               642186000.0        617524000.0        591317000.0        531187000.0
+Gross Profit                                                    5526345000.0       5566609000.0       5982686000.0       4800690000.0
+Cost Of Revenue                                                61256065000.0      68003687000.0      64532617000.0      54280230000.0
+Total Revenue                                                  66782410000.0      73570296000.0      70515303000.0      59080920000.0
+Operating Revenue                                              66782410000.0      73570296000.0      70515303000.0      59080920000.0

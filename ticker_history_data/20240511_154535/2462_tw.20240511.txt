@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No. 272, Beishen Road
+address2	Section 3 Shenkeng District
+city	New Taipei City
+country	Taiwan
+phone	886 2 2662 5600
+fax	886 2 2662 2744
+website	https://www.linetek.com.tw
+industry	Consumer Electronics
+industryKey	consumer-electronics
+industryDisp	Consumer Electronics
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Taiwan Line Tek Electronic Co., Ltd. manufactures and sells electronic wiring sets, signal cables, and power cord sets in Asia, Europe, Africa, and America. The company engages in the manufacture of various computer system power transmission line sets; and processing and trading of power transmission line sets, information peripheral product signal connection lines, and connection line sets of communication systems. It also provides power supply cord sets; PVC plastic pellets; charging cables for smart electric vehicles; and connection wire sets for communication systems. The company was founded in 1967 and is based in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Chih-Ming  Chen', 'title': 'Chief Executive Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	33.25
+open	33.45
+dayLow	33.25
+dayHigh	33.85
+regularMarketPreviousClose	33.25
+regularMarketOpen	33.45
+regularMarketDayLow	33.25
+regularMarketDayHigh	33.85
+dividendRate	0.3
+dividendYield	0.0089
+exDividendDate	1693180800	 (2023-08-28 08:00:00)
+payoutRatio	0.1714
+fiveYearAvgDividendYield	7.16
+beta	0.565
+trailingPE	19.285715
+forwardPE	10.165663
+volume	318117
+regularMarketVolume	318117
+averageVolume	935509
+averageVolume10days	361954
+averageDailyVolume10Day	361954
+bid	33.75
+ask	33.85
+marketCap	5067360256
+fiftyTwoWeekLow	28.446602
+fiftyTwoWeekHigh	44.25
+priceToSalesTrailing12Months	1.2923013
+fiftyDayAverage	35.395
+twoHundredDayAverage	37.153385
+trailingAnnualDividendRate	1.15
+trailingAnnualDividendYield	0.034586467
+currency	TWD
+enterpriseValue	5368340992
+profitMargins	0.06881
+sharesOutstanding	150144000
+heldPercentInsiders	0.42356998
+heldPercentInstitutions	0.00804
+impliedSharesOutstanding	150144000
+bookValue	20.23
+priceToBook	1.6683145
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.863
+netIncomeToCommon	269824992
+trailingEps	1.75
+forwardEps	3.32
+lastSplitFactor	1030:1000
+lastSplitDate	1693180800	 (2023-08-28 08:00:00)
+enterpriseToRevenue	1.369
+enterpriseToEbitda	17.056
+52WeekChange	0.15682197
+SandP52WeekChange	0.26265144
+lastDividendValue	0.3
+lastDividendDate	1693180800	 (2023-08-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2462.TW
+underlyingSymbol	2462.TW
+shortName	TAIWAN LINE TEK ELECTRONIC
+longName	Taiwan Line Tek Electronic Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	344df80c-a62c-3e5b-a227-b6974110b6e0
+messageBoardId	finmb_9844665
+gmtOffSetMilliseconds	28800000
+currentPrice	33.75
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	702222976
+totalCashPerShare	4.677
+ebitda	314740000
+totalDebt	983059008
+quickRatio	1.314
+currentRatio	1.751
+totalRevenue	3921190912
+debtToEquity	32.152
+revenuePerShare	26.959
+returnOnAssets	0.02894
+returnOnEquity	0.09385
+freeCashflow	-63501500
+operatingCashflow	270983008
+earningsGrowth	-0.866
+revenueGrowth	-0.088
+grossMargins	0.16249001
+ebitdaMargins	0.08027001
+operatingMargins	0.057340004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   -769828.345688    -4795600.0     208624.140428   -1055508.694858
+Tax Rate For Calcs                                                  0.054317           0.2          0.086927          0.162261
+Normalized EBITDA                                                400849000.0   297060000.0       228910000.0       238247000.0
+Total Unusual Items                                              -14173000.0   -23978000.0         2400000.0        -6505000.0
+Total Unusual Items Excluding Goodwill                           -14173000.0   -23978000.0         2400000.0        -6505000.0
+Net Income From Continuing Operation Net Minority Interest       269825000.0   208994000.0       117245000.0       123760000.0
+Reconciled Depreciation                                           81968000.0    88195000.0        89999000.0        74305000.0
+Reconciled Cost Of Revenue                                      3284032000.0  4381675000.0      4621587000.0      4054903000.0
+EBITDA                                                           386676000.0   273082000.0       231310000.0       231742000.0
+EBIT                                                             304708000.0   184887000.0       141311000.0       157437000.0
+Net Interest Income                                               -3110000.0   -22998000.0       -10992000.0        -7936000.0
+Interest Expense                                                  19804000.0    26184000.0        12904000.0         9706000.0
+Interest Income                                                   16694000.0     3186000.0         1912000.0         1770000.0
+Normalized Income                                           283228171.654312   228176400.0  115053624.140428  129209491.305142
+Net Income From Continuing And Discontinued Operation            269825000.0   208994000.0       117245000.0       123760000.0
+Total Expenses                                                  3666658000.0  4742813000.0      5073703000.0      4408143000.0
+Diluted Average Shares                                                   NaN   145993000.0       146402140.0       146704960.0
+Basic Average Shares                                                     NaN   145725000.0       146193050.0       146373300.0
+Diluted EPS                                                              NaN          1.43          0.796117           0.84466
+Basic EPS                                                                NaN          1.43          0.805825           0.84466
+Diluted NI Availto Com Stockholders                              269825000.0   208994000.0       117245000.0       123760000.0
+Net Income Common Stockholders                                   269825000.0   208994000.0       117245000.0       123760000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0               0.0
+Net Income                                                       269825000.0   208994000.0       117245000.0       123760000.0
+Minority Interests                                                  396000.0           0.0               0.0               NaN
+Net Income Including Noncontrolling Interests                    269429000.0   208994000.0       117245000.0       123760000.0
+Net Income Continuous Operations                                 269429000.0   208994000.0       117245000.0       123760000.0
+Tax Provision                                                     15475000.0   -50291000.0        11162000.0        23971000.0
+Pretax Income                                                    284904000.0   158703000.0       128407000.0       147731000.0
+Other Non Operating Income Expenses                               30977000.0   146882000.0       275096000.0        36388000.0
+Special Income Charges                                           -14173000.0   -23978000.0         2400000.0        -6505000.0
+Write Off                                                         14173000.0    23978000.0        -2400000.0         6505000.0
+Net Non Operating Interest Income Expense                         -3110000.0   -22998000.0       -10992000.0        -7936000.0
+Interest Expense Non Operating                                    19804000.0    26184000.0        12904000.0         9706000.0
+Interest Income Non Operating                                     16694000.0     3186000.0         1912000.0         1770000.0
+Operating Income                                                 254533000.0    45252000.0      -147677000.0       118771000.0
+Operating Expense                                                382626000.0   361138000.0       452116000.0       353240000.0
+Research And Development                                          81313000.0    64153000.0        85798000.0        29895000.0
+Selling General And Administration                               301313000.0   296985000.0       366318000.0       323345000.0
+Selling And Marketing Expense                                    134372000.0   148290000.0       164145000.0       172960000.0
+General And Administrative Expense                               166941000.0   148695000.0       202173000.0       150385000.0
+Gross Profit                                                     637159000.0   406390000.0       304439000.0       472011000.0
+Cost Of Revenue                                                 3284032000.0  4381675000.0      4621587000.0      4054903000.0
+Total Revenue                                                   3921191000.0  4788065000.0      4926026000.0      4526914000.0
+Operating Revenue                                               3921191000.0  4788065000.0      4926026000.0      4526914000.0

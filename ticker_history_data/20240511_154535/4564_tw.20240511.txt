@@ -1,0 +1,146 @@
+=== Ticker Info ===
+address1	No. 18, Kehu 3rd Road
+address2	Central Science and Industrial Park Huwei Town Huwei Park
+city	Yunlin
+zip	63247
+country	Taiwan
+phone	886 5 636 1867
+fax	886 5 631 3607
+website	https://www.twmosa.com
+industry	Furnishings, Fixtures & Appliances
+industryKey	furnishings-fixtures-appliances
+industryDisp	Furnishings, Fixtures & Appliances
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Mosa Industrial Corporation engages in the manufacture and sale of industrial and consumer products in Taiwan and internationally. It provides tire sealant, cream and soda bottle, cylinder, bicycle inflatable tire repair products, as well as UBAR products and recipes.The company also offers driver and passenger seat, and curtain gas generators, as well as wearable protection products. Mosa Industrial Corporation was founded in 1988 and is based in Yunlin, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. De Xin  Wang', 'title': 'Chairman of the Board of Directors & GM', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming Zhou Liu', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jin Cang  Ye', 'title': 'Chief Technology Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	23.1
+open	23.65
+dayLow	23.0
+dayHigh	23.65
+regularMarketPreviousClose	23.1
+regularMarketOpen	23.65
+regularMarketDayLow	23.0
+regularMarketDayHigh	23.65
+dividendRate	0.2
+dividendYield	0.0085
+exDividendDate	1693353600	 (2023-08-30 08:00:00)
+payoutRatio	4.3332996
+fiveYearAvgDividendYield	4.44
+beta	0.686
+volume	641805
+regularMarketVolume	641805
+averageVolume	741029
+averageVolume10days	897956
+averageDailyVolume10Day	897956
+bid	23.35
+ask	23.4
+marketCap	4745239040
+fiftyTwoWeekLow	21.45
+fiftyTwoWeekHigh	34.1
+priceToSalesTrailing12Months	3.6369846
+fiftyDayAverage	22.965
+twoHundredDayAverage	24.225
+currency	TWD
+enterpriseValue	6764484608
+profitMargins	-0.28440002
+sharesOutstanding	202788000
+heldPercentInsiders	0.24221
+heldPercentInstitutions	0.03279
+impliedSharesOutstanding	202788000
+bookValue	21.266
+priceToBook	1.1003479
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-371062016
+trailingEps	-1.94
+enterpriseToRevenue	5.185
+enterpriseToEbitda	146.598
+52WeekChange	0.019607902
+SandP52WeekChange	0.26265144
+lastDividendValue	0.2
+lastDividendDate	1693353600	 (2023-08-30 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	4564.TW
+underlyingSymbol	4564.TW
+shortName	MOSA INDUSTRIAL CORPORATION
+longName	Mosa Industrial Corporation
+firstTradeDateEpochUtc	1484874000	 (2017-01-20 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	aa2f7475-9156-330c-994b-b99789a4bf1a
+messageBoardId	finmb_50008108
+gmtOffSetMilliseconds	28800000
+currentPrice	23.4
+recommendationKey	none
+totalCash	934219008
+totalCashPerShare	4.607
+ebitda	46143000
+totalDebt	3014300928
+quickRatio	1.973
+currentRatio	2.662
+totalRevenue	1304717952
+debtToEquity	69.898
+revenuePerShare	6.591
+returnOnAssets	-0.02726
+returnOnEquity	-0.08623999
+freeCashflow	169872368
+operatingCashflow	282273984
+revenueGrowth	-0.309
+grossMargins	-0.07786
+ebitdaMargins	0.03537
+operatingMargins	-0.26092
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -6476473.878097    -51408.003991    -550110.257049    3930938.653989
+Tax Rate For Calcs                                                  0.108909         0.005702          0.210851          0.218945
+Normalized EBITDA                                                105599000.0      507853000.0       818462000.0       760985000.0
+Total Unusual Items                                              -59467000.0       -9016000.0        -2609000.0        17954000.0
+Total Unusual Items Excluding Goodwill                           -59467000.0       -9016000.0        -2609000.0        17954000.0
+Net Income From Continuing Operation Net Minority Interest      -371062000.0       55802000.0       319805000.0       298017000.0
+Reconciled Depreciation                                          407649000.0      398526000.0       371545000.0       353016000.0
+Reconciled Cost Of Revenue                                      1406299000.0     1648810000.0      1833772000.0      1500217000.0
+EBITDA                                                            46132000.0      498837000.0       815853000.0       778939000.0
+EBIT                                                            -361517000.0      100311000.0       444308000.0       425923000.0
+Net Interest Income                                              -49904000.0      -43087000.0       -37551000.0       -43116000.0
+Interest Expense                                                  54896000.0       44189000.0        39055000.0        44366000.0
+Interest Income                                                    4992000.0        1102000.0         1504000.0         1250000.0
+Normalized Income                                          -318071473.878097  64766591.996009  321863889.742951  283993938.653989
+Net Income From Continuing And Discontinued Operation           -371062000.0       55802000.0       319805000.0       298017000.0
+Total Expenses                                                  1583068000.0     1823565000.0      2022618000.0      1680606000.0
+Diluted Average Shares                                           197966000.0      185626000.0       186023680.0       184076308.0
+Basic Average Shares                                             197966000.0      185394000.0       185393827.0       183123922.0
+Diluted EPS                                                            -1.87              0.3          1.715543          1.616949
+Basic EPS                                                              -1.87             0.31          1.725403          1.626808
+Diluted NI Availto Com Stockholders                             -371062000.0       55802000.0       319805000.0       298017000.0
+Net Income Common Stockholders                                  -371062000.0       55802000.0       319805000.0       298017000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                      -371062000.0       55802000.0       319805000.0       298017000.0
+Net Income Including Noncontrolling Interests                   -371062000.0       55802000.0       319805000.0       298017000.0
+Net Income Continuous Operations                                -371062000.0       55802000.0       319805000.0       298017000.0
+Tax Provision                                                    -45351000.0         320000.0        85448000.0        83540000.0
+Pretax Income                                                   -416413000.0       56122000.0       405253000.0       381557000.0
+Other Non Operating Income Expenses                              -28062000.0       41481000.0       -12891000.0        25175000.0
+Special Income Charges                                           -59467000.0       -9016000.0        -2609000.0        17954000.0
+Write Off                                                         59467000.0        9016000.0         2609000.0       -17954000.0
+Net Non Operating Interest Income Expense                        -49904000.0      -43087000.0       -37551000.0       -43116000.0
+Interest Expense Non Operating                                    54896000.0       44189000.0        39055000.0        44366000.0
+Interest Income Non Operating                                      4992000.0        1102000.0         1504000.0         1250000.0
+Operating Income                                                -278350000.0       67926000.0       458304000.0       381544000.0
+Operating Expense                                                176769000.0      174755000.0       188846000.0       180389000.0
+Research And Development                                          47217000.0       40121000.0        38468000.0        36057000.0
+Selling General And Administration                               129552000.0      134634000.0       150378000.0       144332000.0
+Selling And Marketing Expense                                     29162000.0       37714000.0        35492000.0        33124000.0
+General And Administrative Expense                               100390000.0       96920000.0       114886000.0       111208000.0
+Gross Profit                                                    -101581000.0      242681000.0       647150000.0       561933000.0
+Cost Of Revenue                                                 1406299000.0     1648810000.0      1833772000.0      1500217000.0
+Total Revenue                                                   1304718000.0     1891491000.0      2480922000.0      2062150000.0
+Operating Revenue                                               1304718000.0     1891491000.0      2480922000.0      2062150000.0

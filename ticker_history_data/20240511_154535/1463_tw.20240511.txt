@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 126, Dagong Road
+address2	Dayuan Township
+city	Taoyuan City
+zip	337
+country	Taiwan
+phone	886 3 386 7661
+website	https://www.csgroup.com.tw
+industry	Textile Manufacturing
+industryKey	textile-manufacturing
+industryDisp	Textile Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Chyang Sheng Dyeing & Finishing Co., Ltd. provides natural and man-made fiber dyeing and finishing products and services in Taiwan. The company is headquartered in Taoyuan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Wei  Sun', 'title': 'President', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	18.55
+open	18.8
+dayLow	18.75
+dayHigh	20.4
+regularMarketPreviousClose	18.55
+regularMarketOpen	18.8
+regularMarketDayLow	18.75
+regularMarketDayHigh	20.4
+dividendRate	0.4
+dividendYield	0.0196
+exDividendDate	1690156800	 (2023-07-24 08:00:00)
+payoutRatio	0.7547
+fiveYearAvgDividendYield	5.21
+beta	0.305
+trailingPE	38.490566
+volume	1465136
+regularMarketVolume	1465136
+averageVolume	178237
+averageVolume10days	324603
+averageDailyVolume10Day	324603
+bid	20.4
+ask	20.25
+marketCap	3353616896
+fiftyTwoWeekLow	14.3
+fiftyTwoWeekHigh	20.4
+priceToSalesTrailing12Months	9.650474
+fiftyDayAverage	18.292
+twoHundredDayAverage	17.13975
+currency	TWD
+enterpriseValue	2727498240
+profitMargins	0.30871
+sharesOutstanding	164392992
+heldPercentInsiders	0.48096
+heldPercentInstitutions	0.01191
+impliedSharesOutstanding	165282000
+bookValue	13.828
+priceToBook	1.4752675
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.427
+netIncomeToCommon	107279000
+trailingEps	0.53
+lastSplitFactor	102.5:100
+lastSplitDate	994896000	 (2001-07-12 08:00:00)
+enterpriseToRevenue	7.849
+enterpriseToEbitda	-240.647
+52WeekChange	0.4068966
+SandP52WeekChange	0.26265144
+lastDividendValue	0.4
+lastDividendDate	1690156800	 (2023-07-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1463.TW
+underlyingSymbol	1463.TW
+shortName	CHYANG SHENG DYEING & FINISHING
+longName	Chyang Sheng Dyeing & Finishing Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3a3a12c6-248e-357f-a14b-005b5b9cd038
+messageBoardId	finmb_9844240
+gmtOffSetMilliseconds	28800000
+currentPrice	20.4
+recommendationKey	none
+totalCash	735593984
+totalCashPerShare	4.475
+ebitda	-11334000
+totalDebt	4532000
+quickRatio	1.904
+currentRatio	3.576
+totalRevenue	347508000
+debtToEquity	0.191
+revenuePerShare	2.114
+returnOnAssets	-0.01191
+returnOnEquity	0.04566
+freeCashflow	-86031248
+operatingCashflow	55291000
+earningsGrowth	-0.43
+revenueGrowth	-0.253
+grossMargins	0.04535
+ebitdaMargins	-0.03262
+operatingMargins	-0.1524
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31      2021-12-31       2020-12-31
+Tax Effect Of Unusual Items                                     89866.893887   -153485.455215     -9271.58228     32266.987103
+Tax Rate For Calcs                                                  0.112334         0.207413        0.168574         0.087921
+Normalized EBITDA                                                169562000.0      134043000.0     139553000.0      107033000.0
+Total Unusual Items                                                 800000.0        -740000.0        -55000.0         367000.0
+Total Unusual Items Excluding Goodwill                              800000.0        -740000.0        -55000.0         367000.0
+Net Income From Continuing Operation Net Minority Interest       107279000.0       68684000.0      80675000.0       53906000.0
+Reconciled Depreciation                                           44133000.0       42540000.0      38282000.0       39785000.0
+Reconciled Cost Of Revenue                                       331750000.0      419379000.0     385595000.0      356858000.0
+EBITDA                                                           170362000.0      133303000.0     139498000.0      107400000.0
+EBIT                                                             126229000.0       90763000.0     101216000.0       67615000.0
+Net Interest Income                                               -2491000.0       -2001000.0       -479000.0        2247000.0
+Interest Expense                                                   5348000.0        3859000.0       2049000.0         623000.0
+Interest Income                                                    2857000.0        1858000.0       1570000.0        2870000.0
+Normalized Income                                           106568866.893887  69270514.544785  80720728.41772  53571266.987103
+Net Income From Continuing And Discontinued Operation            107279000.0       68684000.0      80675000.0       53906000.0
+Total Expenses                                                   403234000.0      490626000.0     457643000.0      433613000.0
+Diluted Average Shares                                           164470000.0      164466000.0     164467000.0      164464000.0
+Basic Average Shares                                             164393000.0      164393000.0     164393000.0      164393000.0
+Diluted EPS                                                             0.65             0.42            0.49             0.33
+Basic EPS                                                               0.65             0.42            0.49             0.33
+Diluted NI Availto Com Stockholders                              107279000.0       68684000.0      80675000.0       53906000.0
+Net Income Common Stockholders                                   107279000.0       68684000.0      80675000.0       53906000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0             0.0              0.0
+Net Income                                                       107279000.0       68684000.0      80675000.0       53906000.0
+Minority Interests                                                  -23000.0        -195000.0      -1775000.0       -7196000.0
+Net Income Including Noncontrolling Interests                    107302000.0       68879000.0      82450000.0       61102000.0
+Net Income Continuous Operations                                 107302000.0       68879000.0      82450000.0       61102000.0
+Tax Provision                                                     13579000.0       18025000.0      16717000.0        5890000.0
+Pretax Income                                                    120881000.0       86904000.0      99167000.0       66992000.0
+Other Non Operating Income Expenses                              138467000.0       51124000.0      74120000.0       55162000.0
+Special Income Charges                                              800000.0        -740000.0        -55000.0         367000.0
+Write Off                                                          -800000.0         740000.0         55000.0        -367000.0
+Net Non Operating Interest Income Expense                         -2491000.0       -2001000.0       -479000.0        2247000.0
+Interest Expense Non Operating                                     5348000.0        3859000.0       2049000.0         623000.0
+Interest Income Non Operating                                      2857000.0        1858000.0       1570000.0        2870000.0
+Operating Income                                                 -55726000.0        5306000.0      -1079000.0        7996000.0
+Operating Expense                                                 71484000.0       71247000.0      72048000.0       76755000.0
+Research And Development                                           9083000.0        9314000.0       9857000.0        9097000.0
+Selling General And Administration                                62401000.0       61933000.0      62191000.0       67658000.0
+Selling And Marketing Expense                                     10408000.0       11908000.0      13529000.0       16204000.0
+General And Administrative Expense                                51993000.0       50025000.0      48662000.0       51454000.0
+Gross Profit                                                      15758000.0       76553000.0      70969000.0       84751000.0
+Cost Of Revenue                                                  331750000.0      419379000.0     385595000.0      356858000.0
+Total Revenue                                                    347508000.0      495932000.0     456564000.0      441609000.0
+Operating Revenue                                                347508000.0      495932000.0     456564000.0      441609000.0

@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 111-8, Xingde Road
+address2	7th Floor Sanchong District
+city	New Taipei City
+zip	241
+country	Taiwan
+phone	886 2 8512 3712
+fax	886 2 8512 3717
+website	https://www.caesar.com.tw
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	Sanitar Co., Ltd. engages in the manufacture and distribution of sanitary porcelain products in Taiwan and internationally. It offers bathroom fixtures, such as bathtubs, toilets, machines, lavatories, cabinets, mirrors, hand showers, and copper faucets. The company was formerly known as Sanken Industrial Co., Ltd. and changed its name to Sanitar Co., Ltd. in 2003. Sanitar Co., Ltd. was founded in 1985 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Wei-Chih  Chen', 'title': 'President & GM', 'fiscalYear': 2021, 'totalPay': 3997000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Yu-Chuan  Chen', 'title': 'Dpt. GM of Finance & Information Mgmnt Div, Sr. Corporate Governance Officer, Acct Supervisor & CS', 'fiscalYear': 2021, 'totalPay': 2247000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ming Chia  Liu', 'title': 'COO & Deputy GM of Business Management Division', 'fiscalYear': 2021, 'totalPay': 1392000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wen Hung  Yen', 'title': 'Deputy General Manager of Administration Division', 'fiscalYear': 2021, 'totalPay': 2519000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hwei-Ling  Lo', 'title': 'Chief Internal Auditor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	39.4
+open	39.6
+dayLow	39.5
+dayHigh	40.4
+regularMarketPreviousClose	39.4
+regularMarketOpen	39.6
+regularMarketDayLow	39.5
+regularMarketDayHigh	40.4
+dividendRate	2.3
+dividendYield	0.0574
+exDividendDate	1687910400	 (2023-06-28 08:00:00)
+payoutRatio	0.6183
+fiveYearAvgDividendYield	5.84
+beta	0.398
+trailingPE	10.766129
+forwardPE	10.539474
+volume	771874
+regularMarketVolume	771874
+averageVolume	273577
+averageVolume10days	832710
+averageDailyVolume10Day	832710
+bid	40.0
+ask	40.05
+marketCap	2886643712
+fiftyTwoWeekLow	34.75
+fiftyTwoWeekHigh	40.4
+priceToSalesTrailing12Months	1.1542734
+fiftyDayAverage	37.768
+twoHundredDayAverage	36.6625
+trailingAnnualDividendRate	1.8
+trailingAnnualDividendYield	0.045685276
+currency	TWD
+enterpriseValue	2722010880
+profitMargins	0.09422
+floatShares	56795167
+sharesOutstanding	72076000
+heldPercentInsiders	0.352
+heldPercentInstitutions	0.00798
+impliedSharesOutstanding	73007200
+bookValue	27.854
+priceToBook	1.4378545
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.226
+netIncomeToCommon	235635008
+trailingEps	3.72
+forwardEps	3.8
+enterpriseToRevenue	1.088
+enterpriseToEbitda	7.254
+52WeekChange	0.041612506
+SandP52WeekChange	0.26265144
+lastDividendValue	2.3
+lastDividendDate	1687910400	 (2023-06-28 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1817.TW
+underlyingSymbol	1817.TW
+shortName	SANITAR CO LTD
+longName	Sanitar Co., Ltd.
+firstTradeDateEpochUtc	1363050000	 (2013-03-12 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	26467994-1ddc-36ae-a50b-dce4e9afb1eb
+messageBoardId	finmb_139202217
+gmtOffSetMilliseconds	28800000
+currentPrice	40.05
+recommendationKey	none
+totalCash	410984992
+totalCashPerShare	5.702
+ebitda	375220992
+totalDebt	206591008
+quickRatio	1.916
+currentRatio	3.836
+totalRevenue	2500832000
+debtToEquity	10.091
+revenuePerShare	34.697
+returnOnAssets	0.06643
+returnOnEquity	0.11666001
+freeCashflow	245568880
+operatingCashflow	335222016
+earningsGrowth	0.215
+revenueGrowth	0.011
+grossMargins	0.34293
+ebitdaMargins	0.15004
+operatingMargins	0.16254999
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1732861.964932     797425.50811    -928321.418392    -559128.899249
+Tax Rate For Calcs                                                   0.22967         0.229872           0.21848          0.240073
+Normalized EBITDA                                                419756000.0      503587000.0       408441000.0       409822000.0
+Total Unusual Items                                                7545000.0        3469000.0        -4249000.0        -2329000.0
+Total Unusual Items Excluding Goodwill                             7545000.0        3469000.0        -4249000.0        -2329000.0
+Net Income From Continuing Operation Net Minority Interest       235635000.0      290827000.0       221368000.0       220092000.0
+Reconciled Depreciation                                          113165000.0      115901000.0       109413000.0       109793000.0
+Reconciled Cost Of Revenue                                      1643210000.0     1750262000.0      1575087000.0      1572353000.0
+EBITDA                                                           427301000.0      507056000.0       404192000.0       407493000.0
+EBIT                                                             314136000.0      391155000.0       294779000.0       297700000.0
+Net Interest Income                                                 744000.0       -3379000.0        -3342000.0        -3346000.0
+Interest Expense                                                   5881000.0        7724000.0         7073000.0         8125000.0
+Interest Income                                                    6625000.0        4345000.0         3731000.0         4779000.0
+Normalized Income                                           229822861.964932  288155425.50811  224688678.581608  221861871.100751
+Net Income From Continuing And Discontinued Operation            235635000.0      290827000.0       221368000.0       220092000.0
+Total Expenses                                                  2213554000.0     2297563000.0      2083425000.0      2015146000.0
+Diluted Average Shares                                            72566000.0       72607000.0        72357000.0        72666000.0
+Basic Average Shares                                              72076000.0       72076000.0        72076000.0        72290000.0
+Diluted EPS                                                             3.25             4.01              3.06              3.03
+Basic EPS                                                               3.27             4.04              3.07              3.04
+Diluted NI Availto Com Stockholders                              235635000.0      290827000.0       221368000.0       220092000.0
+Net Income Common Stockholders                                   235635000.0      290827000.0       221368000.0       220092000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                       235635000.0      290827000.0       221368000.0       220092000.0
+Minority Interests                                                -1823000.0       -4464000.0        -3480000.0           36000.0
+Net Income Including Noncontrolling Interests                    237458000.0      295291000.0       224848000.0       220056000.0
+Net Income Continuous Operations                                 237458000.0      295291000.0       224848000.0       220056000.0
+Tax Provision                                                     70797000.0       88140000.0        62858000.0        69519000.0
+Pretax Income                                                    308255000.0      383431000.0       287706000.0       289575000.0
+Other Non Operating Income Expenses                                2895000.0        1474000.0         2113000.0         2135000.0
+Special Income Charges                                             2949000.0         969000.0        -4249000.0        -2329000.0
+Other Special Charges                                             -1615000.0        -387000.0               NaN               NaN
+Write Off                                                         -1334000.0        -582000.0         4249000.0         2329000.0
+Net Non Operating Interest Income Expense                           744000.0       -3379000.0        -3342000.0        -3346000.0
+Interest Expense Non Operating                                     5881000.0        7724000.0         7073000.0         8125000.0
+Interest Income Non Operating                                      6625000.0        4345000.0         3731000.0         4779000.0
+Operating Income                                                 287278000.0      372043000.0       289213000.0       291375000.0
+Operating Expense                                                570344000.0      547301000.0       508338000.0       442793000.0
+Other Operating Expenses                                                 NaN        -387000.0         2369000.0          631000.0
+Research And Development                                          35185000.0       28607000.0        22831000.0        17706000.0
+Selling General And Administration                               535159000.0      518694000.0       483138000.0       424456000.0
+Selling And Marketing Expense                                    339878000.0      326148000.0       302110000.0       255241000.0
+General And Administrative Expense                               195281000.0      192546000.0       181028000.0       169215000.0
+Gross Profit                                                     857622000.0      919344000.0       797551000.0       734168000.0
+Cost Of Revenue                                                 1643210000.0     1750262000.0      1575087000.0      1572353000.0
+Total Revenue                                                   2500832000.0     2669606000.0      2372638000.0      2306521000.0
+Operating Revenue                                               2500832000.0     2669606000.0      2372638000.0      2306521000.0

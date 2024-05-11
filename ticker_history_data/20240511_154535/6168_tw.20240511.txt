@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No.18, Chung Hwa Road
+address2	Lane 522 Section 5
+city	Hsinchu City
+zip	30094
+country	Taiwan
+phone	886 3 539 9889
+fax	886 3 539 9227
+website	https://www.harvatek.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Harvatek Corporation designs, manufactures, tests, exports, and sells semiconductor chips and LEDs in Taiwan and internationally. The company provides visible LED products, such as PCB, lead frame, CSP, COB, COX, lamp, and PLCC, as well as digital displays; infrared LED products, which include emitters, photo transistors, photo diodes, interrupters, VCSEL, and light sensors; UVC LED products comprising water tank types, water flow types, and air puri products; mini-LEDs; and OD CSP modules/self-made equipment. Its products are used in home appliances, gaming accessories, optical touch screens, mobile devices, wearables, security measures, display applications, illuminations. The company serves OEM manufacturers, trade retailers, and design houses. Harvatek Corporation was founded in 1995 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Ping-Lung  Wang', 'title': 'Founder, Chairman, GM & President', 'fiscalYear': 2021, 'totalPay': 3900000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Feng-Hui  Chuang', 'title': 'Vice President', 'fiscalYear': 2021, 'totalPay': 4146000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hui Su  Yu', 'title': 'Finance Manager, Head of Corporate Governance & Accounting Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Tzu Li  Chia', 'title': 'Manager of Administration Department', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	23.35
+open	23.45
+dayLow	23.3
+dayHigh	23.8
+regularMarketPreviousClose	23.35
+regularMarketOpen	23.45
+regularMarketDayLow	23.3
+regularMarketDayHigh	23.8
+dividendRate	1.5
+dividendYield	0.0637
+exDividendDate	1693267200	 (2023-08-29 08:00:00)
+payoutRatio	2.8888001
+fiveYearAvgDividendYield	2.26
+beta	0.843
+trailingPE	45.384617
+forwardPE	10.042554
+volume	689256
+regularMarketVolume	689256
+averageVolume	2135391
+averageVolume10days	988003
+averageDailyVolume10Day	988003
+bid	23.6
+ask	23.7
+marketCap	4856148480
+fiftyTwoWeekLow	21.5
+fiftyTwoWeekHigh	30.2
+priceToSalesTrailing12Months	2.3885462
+fiftyDayAverage	24.244
+twoHundredDayAverage	25.01625
+trailingAnnualDividendRate	0.5
+trailingAnnualDividendYield	0.021413276
+currency	TWD
+enterpriseValue	3494735360
+profitMargins	0.052670002
+sharesOutstanding	205768992
+heldPercentInsiders	0.41268003
+heldPercentInstitutions	0.0175
+impliedSharesOutstanding	206200000
+bookValue	15.162
+priceToBook	1.556523
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.903
+netIncomeToCommon	107089000
+trailingEps	0.52
+forwardEps	2.35
+lastSplitFactor	1010:1000
+lastSplitDate	1441756800	 (2015-09-09 08:00:00)
+enterpriseToRevenue	1.719
+enterpriseToEbitda	19.432
+52WeekChange	0.030567646
+SandP52WeekChange	0.26265144
+lastDividendValue	1.5022
+lastDividendDate	1693267200	 (2023-08-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6168.TW
+underlyingSymbol	6168.TW
+shortName	HARVATEK CORP
+longName	Harvatek Corporation
+firstTradeDateEpochUtc	1061773200	 (2003-08-25 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	cece1a84-b147-3c0d-a4a3-d6ecfa3bfe04
+messageBoardId	finmb_4597154
+gmtOffSetMilliseconds	28800000
+currentPrice	23.6
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	1592988032
+totalCashPerShare	7.742
+ebitda	179843008
+totalDebt	71890000
+quickRatio	3.552
+currentRatio	4.106
+totalRevenue	2033097984
+debtToEquity	2.192
+revenuePerShare	9.881
+returnOnAssets	0.0066500003
+returnOnEquity	0.02763
+freeCashflow	197919248
+operatingCashflow	287516992
+earningsGrowth	-0.919
+revenueGrowth	0.082
+grossMargins	0.26625
+ebitdaMargins	0.08846
+operatingMargins	0.066700004
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31        2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    -23106.73518    6976471.974275    1802220.942505    5436877.562321
+Tax Rate For Calcs                                                 0.171161          0.152742          0.149661          0.220197
+Normalized EBITDA                                               266890000.0       552169000.0       559625000.0       282507000.0
+Total Unusual Items                                               -135000.0        45675000.0        12042000.0        24691000.0
+Total Unusual Items Excluding Goodwill                            -135000.0        45675000.0        12042000.0        24691000.0
+Net Income From Continuing Operation Net Minority Interest      107089000.0       375225000.0       370318000.0       143339000.0
+Reconciled Depreciation                                         153921000.0       127454000.0       112516000.0       119084000.0
+Reconciled Cost Of Revenue                                     1491791000.0      1717206000.0      2178204000.0      1974626000.0
+EBITDA                                                          266755000.0       597844000.0       571667000.0       307198000.0
+EBIT                                                            112834000.0       470390000.0       459151000.0       188114000.0
+Net Interest Income                                              23162000.0        16578000.0         8528000.0         5606000.0
+Interest Expense                                                  2102000.0         1428000.0         2453000.0         3906000.0
+Interest Income                                                  25264000.0        18006000.0        10981000.0         9512000.0
+Normalized Income                                           107200893.26482  336526471.974275  360078220.942505  124084877.562321
+Net Income From Continuing And Discontinued Operation           107089000.0       375225000.0       370318000.0       143339000.0
+Total Expenses                                                 1984972000.0      2235519000.0      2613555000.0      2308140000.0
+Diluted Average Shares                                                  NaN       208486000.0       207252000.0       206400000.0
+Basic Average Shares                                                    NaN       205994000.0       205814000.0       205675000.0
+Diluted EPS                                                             NaN               1.8              1.79              0.69
+Basic EPS                                                               NaN              1.82               1.8               0.7
+Diluted NI Availto Com Stockholders                             107089000.0       375225000.0       370318000.0       143339000.0
+Net Income Common Stockholders                                  107089000.0       375225000.0       370318000.0       143339000.0
+Otherunder Preferred Stock Dividend                                     0.0               0.0               0.0               0.0
+Net Income                                                      107089000.0       375225000.0       370318000.0       143339000.0
+Minority Interests                                               15310000.0       -22107000.0       -18030000.0         -307000.0
+Net Income Including Noncontrolling Interests                    91779000.0       397332000.0       388348000.0       143646000.0
+Net Income Continuous Operations                                 91779000.0       397332000.0       388348000.0       143646000.0
+Tax Provision                                                    18953000.0        71630000.0        68350000.0        40562000.0
+Pretax Income                                                   110732000.0       468962000.0       456698000.0       184208000.0
+Other Non Operating Income Expenses                              53443000.0       146089000.0        40056000.0       -38839000.0
+Special Income Charges                                            -135000.0        45675000.0        12042000.0        24691000.0
+Write Off                                                          135000.0       -45675000.0       -12042000.0       -24691000.0
+Net Non Operating Interest Income Expense                        23162000.0        16578000.0         8528000.0         5606000.0
+Interest Expense Non Operating                                    2102000.0         1428000.0         2453000.0         3906000.0
+Interest Income Non Operating                                    25264000.0        18006000.0        10981000.0         9512000.0
+Operating Income                                                 48126000.0       234190000.0       386935000.0       199211000.0
+Operating Expense                                               493181000.0       518313000.0       435351000.0       333514000.0
+Research And Development                                        218124000.0       204843000.0       137978000.0       103170000.0
+Selling General And Administration                              275057000.0       313470000.0       297373000.0       230344000.0
+Selling And Marketing Expense                                   124370000.0       149144000.0       170725000.0       132799000.0
+General And Administrative Expense                              150687000.0       164326000.0       126648000.0        97545000.0
+Gross Profit                                                    541307000.0       752503000.0       822286000.0       532725000.0
+Cost Of Revenue                                                1491791000.0      1717206000.0      2178204000.0      1974626000.0
+Total Revenue                                                  2033098000.0      2469709000.0      3000490000.0      2507351000.0
+Operating Revenue                                              2033098000.0      2469709000.0      3000490000.0      2507351000.0

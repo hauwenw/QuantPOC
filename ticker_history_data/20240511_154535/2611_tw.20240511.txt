@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No. 33, Jianguo North Road
+address2	12th Floor Section 2 Zhongshan District
+city	Taipei
+zip	104
+country	Taiwan
+phone	886 2 2509 0036
+fax	886 2 2500 7894
+website	https://www.tsgroup.com.tw
+industry	Marine Shipping
+industryKey	marine-shipping
+industryDisp	Marine Shipping
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Tze Shin International Co., Ltd. primarily provides transportation services in Taiwan. The company offers container, truck, and transportation and terminal services, as well as cargo, automobile, and car freight services; petrochemical and damage goods transportation services; long-distance container transshipment; container haulage; truck freight comprising chemicals; and bulk logistic services. It also engages in the leasing of containers, pallets, and equipment; trading and distribution, import, and export of transportation equipment; and sale of household appliances, sanitary ware, kitchenware, and other equipment, as well as hotel business and water recreation activities. In addition, the company is involved in the development, planning, and construction of factories, shopping malls, and residential buildings; sale and rental of national residences; and development and management of tourist hotels, as well as international trade management activities. The company was formerly known as Tze Shin Transportation & Terminal Co.Ltd and changed its name to Tze Shin International Co., Ltd. in July 2002. Tze Shin International Co., Ltd. was founded in 1973 and is based in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ming-Tan  Hsu', 'title': 'GM & VP', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wen-Lung  Chiang', 'title': 'Chief Financial Officer', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	28.4
+open	28.75
+dayLow	28.3
+dayHigh	29.75
+regularMarketPreviousClose	28.4
+regularMarketOpen	28.75
+regularMarketDayLow	28.3
+regularMarketDayHigh	29.75
+exDividendDate	1659571200	 (2022-08-04 08:00:00)
+fiveYearAvgDividendYield	3.2
+beta	1.015
+trailingPE	11.761133
+volume	13320663
+regularMarketVolume	13320663
+averageVolume	6660377
+averageVolume10days	14583913
+averageDailyVolume10Day	14583913
+bid	29.05
+ask	29.1
+marketCap	5490507776
+fiftyTwoWeekLow	12.15
+fiftyTwoWeekHigh	32.4
+priceToSalesTrailing12Months	8.894003
+fiftyDayAverage	23.769
+twoHundredDayAverage	16.80375
+trailingAnnualDividendRate	2.3
+trailingAnnualDividendYield	0.08098591
+currency	TWD
+enterpriseValue	4759215104
+profitMargins	0.75805
+floatShares	189002000
+sharesOutstanding	189002000
+heldPercentInsiders	0.44044
+heldPercentInstitutions	0.0032
+impliedSharesOutstanding	189320000
+bookValue	15.879
+priceToBook	1.8294603
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	8.251
+netIncomeToCommon	467964000
+trailingEps	2.47
+lastSplitFactor	1100:1000
+lastSplitDate	1659571200	 (2022-08-04 08:00:00)
+enterpriseToRevenue	7.709
+enterpriseToEbitda	-544.844
+52WeekChange	1.3147411
+SandP52WeekChange	0.26265144
+lastDividendValue	1.0
+lastDividendDate	1659571200	 (2022-08-04 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2611.TW
+underlyingSymbol	2611.TW
+shortName	TZE SHIN INTERNATIONAL CO LTD
+longName	Tze Shin International Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	2303a650-530f-3c7c-a1d4-0ffe85e6f305
+messageBoardId	finmb_9830230
+gmtOffSetMilliseconds	28800000
+currentPrice	29.05
+recommendationKey	none
+totalCash	1726008960
+totalCashPerShare	9.132
+ebitda	-8735000
+totalDebt	756771008
+quickRatio	4.841
+currentRatio	6.36
+totalRevenue	617326976
+debtToEquity	23.364
+revenuePerShare	3.266
+returnOnAssets	-0.00794
+returnOnEquity	0.15986
+freeCashflow	-333069376
+operatingCashflow	-18303000
+earningsGrowth	8.164
+revenueGrowth	0.355
+grossMargins	0.23631
+ebitdaMargins	-0.014149999
+operatingMargins	-0.101239994
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31   2022-12-31        2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                    -21960.220879    -619000.0       3007.808548  -59701000.0
+Tax Rate For Calcs                                                  0.008479          0.2           0.03342          0.2
+Normalized EBITDA                                                566105000.0 -151861000.0       433559000.0  339980000.0
+Total Unusual Items                                               -2590000.0   -3095000.0           90000.0 -298505000.0
+Total Unusual Items Excluding Goodwill                            -2590000.0   -3095000.0           90000.0 -298505000.0
+Net Income From Continuing Operation Net Minority Interest       467964000.0 -259843000.0       291201000.0  -17841000.0
+Reconciled Depreciation                                           67253000.0   72969000.0        92536000.0   77208000.0
+Reconciled Cost Of Revenue                                       471448000.0  571803000.0       634531000.0  560111000.0
+EBITDA                                                           563515000.0 -154956000.0       433649000.0   41475000.0
+EBIT                                                             496262000.0 -227925000.0       341113000.0  -35733000.0
+Net Interest Income                                              -10723000.0  -10528000.0       -12757000.0  -21777000.0
+Interest Expense                                                  16362000.0   12603000.0        14932000.0   24513000.0
+Interest Income                                                    5639000.0    2075000.0         2175000.0    2736000.0
+Normalized Income                                           470532039.779121 -257367000.0  291114007.808548  220963000.0
+Net Income From Continuing And Discontinued Operation            467964000.0 -259843000.0       291201000.0  -17841000.0
+Total Expenses                                                   664262000.0  742775000.0       823728000.0  736227000.0
+Diluted Average Shares                                                   NaN  189002000.0       189108000.0  190800500.0
+Basic Average Shares                                                     NaN  189002000.0       189002000.0  190800500.0
+Diluted EPS                                                              NaN        -1.37              1.54    -0.090909
+Basic EPS                                                                NaN        -1.37              1.54    -0.090909
+Diluted NI Availto Com Stockholders                              467964000.0 -259843000.0       291201000.0  -17841000.0
+Net Income Common Stockholders                                   467964000.0 -259843000.0       291201000.0  -17841000.0
+Otherunder Preferred Stock Dividend                                      0.0          0.0               0.0          0.0
+Net Income                                                       467964000.0 -259843000.0       291201000.0  -17841000.0
+Minority Interests                                                -7867000.0  -14681000.0       -24079000.0   43141000.0
+Net Income Including Noncontrolling Interests                    475831000.0 -245162000.0       315280000.0  -60982000.0
+Net Income Continuous Operations                                 475831000.0 -245162000.0       315280000.0  -60982000.0
+Tax Provision                                                      4069000.0    4634000.0        10901000.0     736000.0
+Pretax Income                                                    479900000.0 -240528000.0       326181000.0  -60246000.0
+Other Non Operating Income Expenses                              540148000.0 -214097000.0       371857000.0   46394000.0
+Special Income Charges                                            -2590000.0   -3095000.0           90000.0 -346362000.0
+Other Special Charges                                                    NaN          NaN        26042000.0   -5908000.0
+Write Off                                                          2590000.0    3095000.0          -90000.0   19935000.0
+Impairment Of Capital Assets                                             NaN          NaN               0.0  332335000.0
+Net Non Operating Interest Income Expense                        -10723000.0  -10528000.0       -12757000.0  -21777000.0
+Interest Expense Non Operating                                    16362000.0   12603000.0        14932000.0   24513000.0
+Interest Income Non Operating                                      5639000.0    2075000.0         2175000.0    2736000.0
+Operating Income                                                 -46935000.0  -12808000.0       -31893000.0 -130403000.0
+Operating Expense                                                192814000.0  170972000.0       189197000.0  176116000.0
+Selling General And Administration                               192814000.0  170972000.0       189197000.0  176116000.0
+General And Administrative Expense                               192814000.0  170972000.0       189197000.0  176116000.0
+Gross Profit                                                     145879000.0  158164000.0       157304000.0   45713000.0
+Cost Of Revenue                                                  471448000.0  571803000.0       634531000.0  560111000.0
+Total Revenue                                                    617327000.0  729967000.0       791835000.0  605824000.0
+Operating Revenue                                                617327000.0  729967000.0       791835000.0  605824000.0

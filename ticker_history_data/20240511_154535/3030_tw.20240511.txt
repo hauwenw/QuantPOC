@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 45, Dexing West Road
+address2	7th Floor Shilin District
+city	Taipei City
+zip	11158
+country	Taiwan
+phone	886 2 2832 8918
+fax	886 2 2832 0598
+website	https://www.tri.com.tw
+industry	Scientific & Technical Instruments
+industryKey	scientific-technical-instruments
+industryDisp	Scientific & Technical Instruments
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Test Research, Inc., together with its subsidiaries, designs, assembles, manufactures, sells, and maintains automated inspection and testing equipment in Asia, the United States, Europe, and internationally. The company offers optical inspection solutions, including 3D solder paste inspection, pre-reflow and post-reflow automated optical inspection, and automated X-ray inspection systems; and manufacturing defects analyzers and in-circuit testers. It also provides smart factory solutions, AI-powered systems, and yield management systems. In addition, the company offers test and inspection solutions for automotive, semiconductor, and telecommunication industries. Further, it provides after-sales services, including troubleshooting, failure analysis, periodic calibration, system maintenance, and parts and accessories warranty. Test Research, Inc. was founded in 1978 and is headquartered in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chieh-Yuan  Chen', 'title': 'Founder, Chairman & President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kaun-Yuan  Chen', 'title': 'Director of Finance Department & Accounting Chief', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chiang Huai  Lin', 'title': 'VP of Global Sales Division & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chia-Lang  Tsai', 'title': 'Chief Information Security Officer & Senior Manager of Human Resources Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	116.5
+open	119.0
+dayLow	115.0
+dayHigh	124.0
+regularMarketPreviousClose	116.5
+regularMarketOpen	119.0
+regularMarketDayLow	115.0
+regularMarketDayHigh	124.0
+dividendRate	4.5
+dividendYield	0.0364
+exDividendDate	1686787200	 (2023-06-15 08:00:00)
+payoutRatio	0.8982
+fiveYearAvgDividendYield	6.09
+beta	0.276
+trailingPE	24.650698
+volume	6303314
+regularMarketVolume	6303314
+averageVolume	2434853
+averageVolume10days	6271177
+averageDailyVolume10Day	6271177
+bid	123.0
+ask	123.5
+marketCap	29172676608
+fiftyTwoWeekLow	58.6
+fiftyTwoWeekHigh	124.5
+priceToSalesTrailing12Months	6.57768
+fiftyDayAverage	90.324
+twoHundredDayAverage	69.807
+trailingAnnualDividendRate	3.3
+trailingAnnualDividendYield	0.02832618
+currency	TWD
+enterpriseValue	27871109120
+profitMargins	0.22576
+floatShares	133665186
+sharesOutstanding	236216000
+heldPercentInsiders	0.34882
+heldPercentInstitutions	0.14148
+impliedSharesOutstanding	242286000
+bookValue	30.42
+priceToBook	4.059829
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.13
+netIncomeToCommon	1001254016
+trailingEps	5.01
+lastSplitFactor	1.06:1
+lastSplitDate	1374537600	 (2013-07-23 08:00:00)
+enterpriseToRevenue	6.284
+enterpriseToEbitda	21.123
+52WeekChange	0.9572108
+SandP52WeekChange	0.26265144
+lastDividendValue	4.5
+lastDividendDate	1686787200	 (2023-06-15 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3030.TW
+underlyingSymbol	3030.TW
+shortName	TEST RESEARCH INC
+longName	Test Research, Inc.
+firstTradeDateEpochUtc	1035939600	 (2002-10-30 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	8d7592c4-e644-3696-ac18-04e25fb34afb
+messageBoardId	finmb_11459062
+gmtOffSetMilliseconds	28800000
+currentPrice	123.5
+recommendationKey	none
+totalCash	1350196992
+totalCashPerShare	5.716
+ebitda	1319437952
+totalDebt	48630000
+quickRatio	2.55
+currentRatio	3.444
+totalRevenue	4435101184
+debtToEquity	0.677
+revenuePerShare	18.776
+returnOnAssets	0.08355
+returnOnEquity	0.13856
+freeCashflow	787745344
+operatingCashflow	1877832960
+earningsGrowth	-0.134
+revenueGrowth	-0.074
+grossMargins	0.59314
+ebitdaMargins	0.2975
+operatingMargins	0.31338
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31         2021-12-31         2020-12-31
+Tax Effect Of Unusual Items                                   1285453.608724    -1287382.935699      605242.168549     -662014.687838
+Tax Rate For Calcs                                                  0.202338            0.21695           0.239132           0.204326
+Normalized EBITDA                                               1395114000.0       2602861000.0       1694254000.0       1506583000.0
+Total Unusual Items                                                6353000.0         -5934000.0          2531000.0         -3240000.0
+Total Unusual Items Excluding Goodwill                             6353000.0         -5934000.0          2531000.0         -3240000.0
+Net Income From Continuing Operation Net Minority Interest      1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Reconciled Depreciation                                          143484000.0        140745000.0        137735000.0        128730000.0
+Reconciled Cost Of Revenue                                      1804486000.0       2860203000.0       2558849000.0       2235439000.0
+EBITDA                                                          1401467000.0       2596927000.0       1696785000.0       1503343000.0
+EBIT                                                            1257983000.0       2456182000.0       1559050000.0       1374613000.0
+Net Interest Income                                               11533000.0          6743000.0          6517000.0          6351000.0
+Interest Expense                                                   2747000.0          2334000.0          1548000.0          1368000.0
+Interest Income                                                   14280000.0          9077000.0          8065000.0          7719000.0
+Normalized Income                                           996186453.608724  1926131617.064301  1183128242.168549  1095233985.312162
+Net Income From Continuing And Discontinued Operation           1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Total Expenses                                                  3233108000.0       4549416000.0       4051121000.0       3510130000.0
+Diluted Average Shares                                           236622000.0        236868000.0        236675000.0        236644000.0
+Basic Average Shares                                             236216000.0        236216000.0        236216000.0        236216000.0
+Diluted EPS                                                             4.23               8.11               5.01               4.62
+Basic EPS                                                               4.24               8.13               5.02               4.63
+Diluted NI Availto Com Stockholders                             1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Net Income Common Stockholders                                  1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0                0.0                0.0
+Net Income                                                      1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Net Income Including Noncontrolling Interests                   1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Net Income Continuous Operations                                1001254000.0       1921485000.0       1185054000.0       1092656000.0
+Tax Provision                                                    253982000.0        532363000.0        372448000.0        280589000.0
+Pretax Income                                                   1255236000.0       2453848000.0       1557502000.0       1373245000.0
+Other Non Operating Income Expenses                               35357000.0        293623000.0         -7115000.0        -70431000.0
+Special Income Charges                                             6353000.0         -5934000.0          2531000.0         -3240000.0
+Write Off                                                         -6353000.0          5934000.0         -2531000.0          3240000.0
+Net Non Operating Interest Income Expense                         11533000.0          6743000.0          6517000.0          6351000.0
+Interest Expense Non Operating                                     2747000.0          2334000.0          1548000.0          1368000.0
+Interest Income Non Operating                                     14280000.0          9077000.0          8065000.0          7719000.0
+Operating Income                                                1201993000.0       2159416000.0       1555569000.0       1440565000.0
+Operating Expense                                               1428622000.0       1689213000.0       1492272000.0       1274691000.0
+Research And Development                                         428174000.0        534901000.0        497036000.0        390750000.0
+Selling General And Administration                              1000448000.0       1154312000.0        995236000.0        883941000.0
+Selling And Marketing Expense                                    831136000.0        967934000.0        836385000.0        728124000.0
+General And Administrative Expense                               169312000.0        186378000.0        158851000.0        155817000.0
+Gross Profit                                                    2630615000.0       3848629000.0       3047841000.0       2715256000.0
+Cost Of Revenue                                                 1804486000.0       2860203000.0       2558849000.0       2235439000.0
+Total Revenue                                                   4435101000.0       6708832000.0       5606690000.0       4950695000.0
+Operating Revenue                                               4435101000.0       6708832000.0       5606690000.0       4950695000.0

@@ -1,0 +1,163 @@
+=== Ticker Info ===
+address1	No. 10, Li-Hsin 6th Road
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	300096
+country	Taiwan
+phone	886 3 564 6600
+fax	886 3 563 6386
+website	https://www.guc-asic.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Global Unichip Corp. researches, develops, produces, tests, and sells embedded memory and logic components, cell libraries, and EDA tools for various application ICs in China, the United States, Taiwan, Japan, Korea, and Europe. It offers ASIC and wafer products; and non-recurring engineering services. The company also provides products consulting, design, and technical support services. In addition, it offers SoC design services, such as technology design, design methodology, low power solution, and testability design services; SoC manufacturing services consisting of packaging, testing and product engineering, and quality and reliability, as well as supply chain management services; and IP portfolio, including high bandwidth memory IPs, multi-die interLink IPs, serdes IPs, mixed-signal front-end IPs, and embedded memory IPs. The company was formerly known as Chuangyi Electronics Corporation and changed its name to Global Unichip Corp. in October 1998. Global Unichip Corp. was incorporated in 1998 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Dr. Sean  Tai', 'age': 57, 'title': 'President & Director', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Daniel  Chien', 'title': 'Senior VP, CFO & Corporate Governance Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Blithe  Chiang', 'title': 'Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Asia  Lin', 'title': 'Deputy Director of Financial Planning & Investor Relations Department', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent W. Li', 'title': 'Vice President & CHRO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Louis  Lin', 'title': 'Senior Vice President of Design Service & Core IP RD', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Justin  Hsieh', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Simon  Yen', 'title': 'Vice President', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ren-Tai  Xu', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	1275.0
+open	1280.0
+dayLow	1245.0
+dayHigh	1290.0
+regularMarketPreviousClose	1275.0
+regularMarketOpen	1280.0
+regularMarketDayLow	1245.0
+regularMarketDayHigh	1290.0
+dividendRate	14.0
+dividendYield	0.011
+exDividendDate	1685664000	 (2023-06-02 08:00:00)
+payoutRatio	0.5831
+fiveYearAvgDividendYield	1.35
+beta	1.116
+trailingPE	52.916668
+forwardPE	33.67807
+volume	1567320
+regularMarketVolume	1567320
+averageVolume	2968638
+averageVolume10days	2997589
+averageDailyVolume10Day	2997589
+bid	1300.0
+ask	1305.0
+marketCap	170193977344
+fiftyTwoWeekLow	1090.0
+fiftyTwoWeekHigh	2015.0
+priceToSalesTrailing12Months	6.699958
+fiftyDayAverage	1329.9
+twoHundredDayAverage	1498.075
+trailingAnnualDividendRate	14.0
+trailingAnnualDividendYield	0.010980392
+currency	TWD
+enterpriseValue	158786781184
+profitMargins	0.1274
+floatShares	85775657
+sharesOutstanding	134011000
+heldPercentInsiders	0.37363997
+heldPercentInstitutions	0.32217997
+impliedSharesOutstanding	137578000
+bookValue	77.32
+priceToBook	16.425245
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	-0.291
+netIncomeToCommon	3236363008
+trailingEps	24.0
+forwardEps	37.71
+pegRatio	1.71
+lastSplitFactor	1.0397:1
+lastSplitDate	1247443200	 (2009-07-13 08:00:00)
+enterpriseToRevenue	6.251
+enterpriseToEbitda	42.297
+52WeekChange	0.12389386
+SandP52WeekChange	0.26265144
+lastDividendValue	14.0
+lastDividendDate	1685664000	 (2023-06-02 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3443.TW
+underlyingSymbol	3443.TW
+shortName	GLOBAL UNICHIP CORP.
+longName	Global Unichip Corp.
+firstTradeDateEpochUtc	1162515600	 (2006-11-03 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	ecae75d1-ed50-34d6-835d-e25d4801d454
+messageBoardId	finmb_12406859
+gmtOffSetMilliseconds	28800000
+currentPrice	1270.0
+targetHighPrice	1800.0
+targetLowPrice	1100.0
+targetMeanPrice	1452.08
+targetMedianPrice	1430.0
+recommendationMean	2.5
+recommendationKey	buy
+numberOfAnalystOpinions	12
+totalCash	11641088000
+totalCashPerShare	86.866
+ebitda	3754051072
+totalDebt	232759008
+quickRatio	1.183
+currentRatio	1.819
+totalRevenue	25402245120
+debtToEquity	2.246
+revenuePerShare	189.553
+returnOnAssets	0.10416
+returnOnEquity	0.33438
+freeCashflow	5021643264
+operatingCashflow	6275511808
+earningsGrowth	-0.29
+revenueGrowth	-0.128
+grossMargins	0.29843
+ebitdaMargins	0.14778
+operatingMargins	0.12397
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0     3216500.656691            0.0
+Tax Rate For Calcs                                               0.155801       0.145999           0.161463       0.151319
+Normalized EBITDA                                            4775518000.0   5001184000.0       2397606000.0   1682919000.0
+Total Unusual Items                                                   NaN            0.0         19921000.0            0.0
+Total Unusual Items Excluding Goodwill                                NaN            0.0         19921000.0            0.0
+Net Income From Continuing Operation Net Minority Interest   3507885000.0   3710442000.0       1460149000.0    850007000.0
+Reconciled Depreciation                                       614734000.0    652000000.0        671599000.0    677731000.0
+Reconciled Cost Of Revenue                                  18265019000.0  15704686000.0       9877961000.0   9498564000.0
+EBITDA                                                       4775518000.0   5001184000.0       2417527000.0   1682919000.0
+EBIT                                                         4160784000.0   4349184000.0       1745928000.0   1005188000.0
+Net Interest Income                                            92669000.0     37784000.0          9459000.0      8728000.0
+Interest Expense                                                5504000.0      4411000.0          4623000.0      3625000.0
+Interest Income                                                98173000.0     42195000.0         14082000.0     12353000.0
+Normalized Income                                            3507885000.0   3710442000.0  1443444500.656691    850007000.0
+Net Income From Continuing And Discontinued Operation        3507885000.0   3710442000.0       1460149000.0    850007000.0
+Total Expenses                                              22271944000.0  19940738000.0      13453944000.0  12605508000.0
+Diluted Average Shares                                        134817000.0    135094000.0        134499000.0    134437000.0
+Basic Average Shares                                          134011000.0    134011000.0        134011000.0    134011000.0
+Diluted EPS                                                         26.02          27.47              10.86           6.32
+Basic EPS                                                           26.18          27.69               10.9           6.34
+Diluted NI Availto Com Stockholders                          3507885000.0   3710442000.0       1460149000.0    850007000.0
+Net Income Common Stockholders                               3507885000.0   3710442000.0       1460149000.0    850007000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0                0.0            0.0
+Net Income                                                   3507885000.0   3710442000.0       1460149000.0    850007000.0
+Net Income Including Noncontrolling Interests                3507885000.0   3710442000.0       1460149000.0    850007000.0
+Net Income Continuous Operations                             3507885000.0   3710442000.0       1460149000.0    850007000.0
+Tax Provision                                                 647395000.0    634331000.0        281156000.0    151556000.0
+Pretax Income                                                4155280000.0   4344773000.0       1741305000.0   1001563000.0
+Other Non Operating Income Expenses                            93841000.0    208056000.0         57954000.0     28902000.0
+Special Income Charges                                                NaN            0.0         19921000.0            0.0
+Write Off                                                             NaN            0.0        -19921000.0            0.0
+Net Non Operating Interest Income Expense                      92669000.0     37784000.0          9459000.0      8728000.0
+Interest Expense Non Operating                                  5504000.0      4411000.0          4623000.0      3625000.0
+Interest Income Non Operating                                  98173000.0     42195000.0         14082000.0     12353000.0
+Operating Income                                             3968770000.0   4098933000.0       1653971000.0    963933000.0
+Operating Expense                                            4006925000.0   4236052000.0       3575983000.0   3106944000.0
+Research And Development                                     3116402000.0   3289727000.0       2817903000.0   2504010000.0
+Selling General And Administration                            890523000.0    946325000.0        758080000.0    602934000.0
+Selling And Marketing Expense                                 393573000.0    381394000.0        279373000.0    266020000.0
+General And Administrative Expense                            496950000.0    564931000.0        478707000.0    336914000.0
+Gross Profit                                                 7975695000.0   8334985000.0       5229954000.0   4070877000.0
+Cost Of Revenue                                             18265019000.0  15704686000.0       9877961000.0   9498564000.0
+Total Revenue                                               26240714000.0  24039671000.0      15107915000.0  13569441000.0
+Operating Revenue                                           26240714000.0  24039671000.0      15107915000.0  13569441000.0

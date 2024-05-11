@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No.3, Jhonggang Road
+address2	Siaogang District
+city	Kaohsiung
+zip	81234
+country	Taiwan
+phone	886 7 805 9888
+fax	886 7 802 0805
+website	https://www.csbcnet.com.tw
+industry	Aerospace & Defense
+industryKey	aerospace-defense
+industryDisp	Aerospace & Defense
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	CSBC Corporation engages in building, manufacturing, and repairing various ships and offshore engineering in Taiwa, Europe, rest of Asia, Africa, and the United States. It offers bulk, cement, and product carriers; and container ships, reefer vessels, tankers, tug boats, and naval ships, as well as oil drilling rigs. The company also provides ship repair services; and offshore engineering services; offshore wind steel structures, such as pin piles, transition piece, pile grippers, and ship unloaders, as well as level luffing cranes. In addition, it manufactures marine hardware comprising rudder and stern frames, and lashing bridges; and barge and tug business. The company was formerly known as China Shipbuilding Corporation and changed its name to CSBC Corporation in March 2007. CSBC Corporation was incorporated in 1973 and is headquartered in Kaohsiung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Cheng-Tzu  Wei', 'title': 'Director & President', 'fiscalYear': 2021, 'totalPay': 2435000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. You-Zhen  Xu', 'title': 'Financial Officer & Accounting Officer', 'fiscalYear': 2021, 'totalPay': 1594000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chih-Ming  Chou', 'title': 'Executive Vice President', 'fiscalYear': 2021, 'totalPay': 1992000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jian-Yi  Gao', 'title': 'Executive Vice President', 'fiscalYear': 2021, 'totalPay': 1750000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Zong  Cai', 'title': 'Executive Vice President', 'fiscalYear': 2021, 'totalPay': 1870000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yan-Qiang  Li', 'title': 'Director of Department of Human Resources and Administration & Secretary General', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Guo-Long  Yuan', 'title': 'Department of Sales Director', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kun-Tsung  Tsai', 'title': 'Executive VP & Chief Information Security Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-Ying  Wang', 'title': 'Chief Executive Officer of Innovation & Research Center', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Mu  Yan', 'title': 'Chief Supervisor', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	17.9
+open	17.95
+dayLow	17.85
+dayHigh	18.3
+regularMarketPreviousClose	17.9
+regularMarketOpen	17.95
+regularMarketDayLow	17.85
+regularMarketDayHigh	18.3
+exDividendDate	1468195200	 (2016-07-11 08:00:00)
+fiveYearAvgDividendYield	3.91
+beta	0.958
+forwardPE	-4.214781
+volume	3481879
+regularMarketVolume	3481879
+averageVolume	5125549
+averageVolume10days	2390726
+averageDailyVolume10Day	2390726
+bid	18.2
+ask	18.25
+marketCap	23260356608
+fiftyTwoWeekLow	17.5
+fiftyTwoWeekHigh	25.074175
+priceToSalesTrailing12Months	1.0830677
+fiftyDayAverage	18.465
+twoHundredDayAverage	19.990053
+currency	TWD
+enterpriseValue	29168087040
+profitMargins	-0.18767999
+floatShares	601183382
+sharesOutstanding	1274540032
+heldPercentInsiders	0.26273
+heldPercentInstitutions	0.19658001
+impliedSharesOutstanding	1288659968
+bookValue	7.165
+priceToBook	2.547104
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	-4030606080
+trailingEps	-2.77
+forwardEps	-4.33
+lastSplitFactor	420.9338:1000
+lastSplitDate	1531958400	 (2018-07-19 08:00:00)
+enterpriseToRevenue	1.358
+enterpriseToEbitda	-13.364
+52WeekChange	-0.2274152
+SandP52WeekChange	0.26265144
+lastDividendValue	0.960025
+lastDividendDate	1468195200	 (2016-07-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2208.TW
+underlyingSymbol	2208.TW
+shortName	CSBC CORPORATION TAIWAN
+longName	CSBC Corporation
+firstTradeDateEpochUtc	1229907600	 (2008-12-22 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	5b9b9ed9-bec4-3c19-9f10-05881a6b4dc2
+messageBoardId	finmb_8811726
+gmtOffSetMilliseconds	28800000
+currentPrice	18.25
+recommendationMean	3.0
+recommendationKey	hold
+totalCash	7316749824
+totalCashPerShare	7.838
+ebitda	-2182640128
+totalDebt	19464833024
+quickRatio	0.562
+currentRatio	1.002
+totalRevenue	21476364288
+debtToEquity	291.743
+revenuePerShare	23.015
+returnOnAssets	-0.04125
+returnOnEquity	-0.49145
+freeCashflow	8393085440
+operatingCashflow	8331338752
+revenueGrowth	-0.414
+grossMargins	-0.11228
+ebitdaMargins	-0.10163
+operatingMargins	-0.10536
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                    65206400.0     -4878200.0   -533436.9365       771600.0
+Tax Rate For Calcs                                                    0.2            0.2       0.073873            0.2
+Normalized EBITDA                                           -3182274000.0  -2430750000.0   1032714000.0   -653893000.0
+Total Unusual Items                                           326032000.0    -24391000.0     -7221000.0      3858000.0
+Total Unusual Items Excluding Goodwill                        326032000.0    -24391000.0     -7221000.0      3858000.0
+Net Income From Continuing Operation Net Minority Interest  -4030606000.0  -3526768000.0     13235000.0  -1600087000.0
+Reconciled Depreciation                                       948713000.0    924736000.0    913978000.0    847804000.0
+Reconciled Cost Of Revenue                                  23887681000.0  25090814000.0  18558210000.0  26706103000.0
+EBITDA                                                      -2856242000.0  -2455141000.0   1025493000.0   -650035000.0
+EBIT                                                        -3804955000.0  -3379877000.0    111515000.0  -1497839000.0
+Net Interest Income                                          -182727000.0   -143083000.0    -99951000.0    -94212000.0
+Interest Expense                                              228362000.0    162460000.0    101200000.0    100911000.0
+Interest Income                                                45635000.0     19377000.0      1249000.0      6699000.0
+Normalized Income                                           -4291431600.0  -3507255200.0  19922563.0635  -1603173400.0
+Net Income From Continuing And Discontinued Operation       -4030606000.0  -3526768000.0     13235000.0  -1600087000.0
+Total Expenses                                              24638350000.0  25727998000.0  19109122000.0  27207882000.0
+Diluted Average Shares                                                NaN    931787000.0    851300861.0    488571168.0
+Basic Average Shares                                                  NaN    931787000.0    851300861.0    488571168.0
+Diluted EPS                                                           NaN          -3.78       0.019362      -3.272228
+Basic EPS                                                             NaN          -3.78       0.019362      -3.272228
+Diluted NI Availto Com Stockholders                         -4030606000.0  -3526768000.0     13235000.0  -1600087000.0
+Net Income Common Stockholders                              -4030606000.0  -3526768000.0     13235000.0  -1600087000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                  -4030606000.0  -3526768000.0     13235000.0  -1600087000.0
+Minority Interests                                             20317000.0     21720000.0      3682000.0            0.0
+Net Income Including Noncontrolling Interests               -4050923000.0  -3548488000.0      9553000.0  -1600087000.0
+Net Income Continuous Operations                            -4050923000.0  -3548488000.0      9553000.0  -1600087000.0
+Tax Provision                                                  17606000.0      6151000.0       762000.0      1337000.0
+Pretax Income                                               -4033317000.0  -3542337000.0     10315000.0  -1598750000.0
+Other Non Operating Income Expenses                            88122000.0    388570000.0    155733000.0    422832000.0
+Special Income Charges                                        326032000.0    -24391000.0     -7221000.0      3858000.0
+Write Off                                                    -326032000.0     24391000.0      7221000.0     -3858000.0
+Net Non Operating Interest Income Expense                    -182727000.0   -143083000.0    -99951000.0    -94212000.0
+Interest Expense Non Operating                                228362000.0    162460000.0    101200000.0    100911000.0
+Interest Income Non Operating                                  45635000.0     19377000.0      1249000.0      6699000.0
+Operating Income                                            -3161985000.0  -3733948000.0      4307000.0  -1911253000.0
+Operating Expense                                             750669000.0    637184000.0    550912000.0    501779000.0
+Research And Development                                      288960000.0    209163000.0    124101000.0     94017000.0
+Selling General And Administration                            461709000.0    428021000.0    426811000.0    407762000.0
+Selling And Marketing Expense                                  66969000.0     66007000.0     66478000.0     67767000.0
+General And Administrative Expense                            394740000.0    362014000.0    360333000.0    339995000.0
+Gross Profit                                                -2411316000.0  -3096764000.0    555219000.0  -1409474000.0
+Cost Of Revenue                                             23887681000.0  25090814000.0  18558210000.0  26706103000.0
+Total Revenue                                               21476365000.0  21994050000.0  19113429000.0  25296629000.0
+Operating Revenue                                           21476365000.0  21994050000.0  19113429000.0  25296629000.0

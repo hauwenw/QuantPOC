@@ -1,0 +1,169 @@
+=== Ticker Info ===
+address1	No.1, Yanfa 1st Road
+address2	Hsinchu Science Park
+city	Hsinchu City
+zip	300-092
+country	Taiwan
+phone	886 3 577 0055
+website	https://www.chipmos.com
+industry	Semiconductors
+industryKey	semiconductors
+industryDisp	Semiconductors
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	ChipMOS TECHNOLOGIES INC. researches, develops, manufactures, and sells high-integration and high-precision integrated circuits, and related assembly and testing services in the People's Republic of China, Japan, Singapore, and internationally. It operates through Testing; Assembly; Testing and Assembly for LCD, OLED and Other Display Panel Driver Semiconductors; Bumping; and Others segments. The company provides a range of back-end assembly and testing services, including engineering test, wafer probing, and final test of memory and logic/mixed-signal semiconductors, as well as leadframe-based and organic substrate-based package assembly services for memory and logic/mixed-signal semiconductors; and gold bumping, reel to reel assembly, and test services for LCD, OLED, and other panel display driver semiconductors. Its semiconductors are used in personal computers; graphics applications, such as game consoles; communications equipment; mobile products comprising cellular handsets, tablets, and consumer electronic products; and automotive/industry and display applications, such as display panels. ChipMOS TECHNOLOGIES INC. was incorporated in 1997 and is headquartered in Hsinchu City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shih-Jye  Cheng', 'age': 65, 'title': 'Chairman, CEO & President', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Silvia  Su', 'age': 51, 'title': 'Chief Corporate Governance Officer, VP of Finance & Accounting Management Center and Director', 'yearBorn': 1972, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jesse  Huang', 'age': 57, 'title': 'Senior Vice President of Strategy & Investor Relations', 'yearBorn': 1966, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. D. Y.  Tsai', 'age': 52, 'title': 'Executive VP & Head of Business Management Center', 'yearBorn': 1971, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent  Hsu', 'age': 54, 'title': 'Executive Vice President', 'yearBorn': 1969, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Guang Hui  Chen', 'title': 'Deputy General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. G. S.  Shen', 'title': 'Deputy Director of Strategy & Investor Relations', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	45.2
+open	45.25
+dayLow	43.2
+dayHigh	45.35
+regularMarketPreviousClose	45.2
+regularMarketOpen	45.25
+regularMarketDayLow	43.2
+regularMarketDayHigh	45.35
+dividendRate	2.3
+dividendYield	0.053000003
+exDividendDate	1687996800	 (2023-06-29 08:00:00)
+payoutRatio	0.8582
+fiveYearAvgDividendYield	6.44
+beta	0.538
+trailingPE	16.19403
+forwardPE	8.282443
+volume	8148799
+regularMarketVolume	8148799
+averageVolume	4762249
+averageVolume10days	3024612
+averageDailyVolume10Day	3024612
+bid	43.4
+ask	43.45
+marketCap	31562217472
+fiftyTwoWeekLow	34.55
+fiftyTwoWeekHigh	52.8
+priceToSalesTrailing12Months	1.4778929
+fiftyDayAverage	47.392
+twoHundredDayAverage	41.805
+currency	TWD
+enterpriseValue	35101503488
+profitMargins	0.08866
+floatShares	519591253
+sharesOutstanding	727240000
+heldPercentInsiders	0.17531
+heldPercentInstitutions	0.15932
+impliedSharesOutstanding	757401984
+bookValue	34.175
+priceToBook	1.2699342
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	2.112
+netIncomeToCommon	1893427968
+trailingEps	2.68
+forwardEps	5.24
+pegRatio	3.25
+lastSplitFactor	849.9231:1000
+lastSplitDate	1539820800	 (2018-10-18 08:00:00)
+enterpriseToRevenue	1.644
+enterpriseToEbitda	5.487
+52WeekChange	0.14663148
+SandP52WeekChange	0.26265144
+lastDividendValue	2.3
+lastDividendDate	1687996800	 (2023-06-29 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	8150.TW
+underlyingSymbol	8150.TW
+shortName	CHIPMOS TECHNOLOGIES INC
+longName	ChipMOS TECHNOLOGIES INC.
+firstTradeDateEpochUtc	1366333200	 (2013-04-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	3a7ce48f-bbb2-3305-9bbe-8fc698713347
+messageBoardId	finmb_22676462
+gmtOffSetMilliseconds	28800000
+currentPrice	43.4
+targetHighPrice	55.0
+targetLowPrice	42.5
+targetMeanPrice	49.88
+targetMedianPrice	51.0
+recommendationMean	2.0
+recommendationKey	buy
+numberOfAnalystOpinions	4
+totalCash	12437835776
+totalCashPerShare	17.103
+ebitda	6397562880
+totalDebt	15977119744
+quickRatio	2.474
+currentRatio	3.422
+totalRevenue	21356228608
+debtToEquity	64.285
+revenuePerShare	29.366
+returnOnAssets	0.02606
+returnOnEquity	0.07625
+freeCashflow	-1575680512
+operatingCashflow	6607481856
+earningsGrowth	2.114
+revenueGrowth	0.222
+grossMargins	0.16620001
+ebitdaMargins	0.29955998
+operatingMargins	0.12559
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                   2023-12-31         2022-12-31         2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   19344838.803541    68571293.439811    -3143050.507283   -39725364.42589
+Tax Rate For Calcs                                                   0.132553           0.146026           0.181974          0.199902
+Normalized EBITDA                                                7167576000.0       8452631000.0      10807967000.0      7510002000.0
+Total Unusual Items                                               145940000.0        469582000.0        -17272000.0      -198724000.0
+Total Unusual Items Excluding Goodwill                            145940000.0        469582000.0        -17272000.0      -198724000.0
+Net Income From Continuing Operation Net Minority Interest       1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Reconciled Depreciation                                          4779333000.0       4751902000.0       4634112000.0      4175519000.0
+Reconciled Cost Of Revenue                                      17806803000.0      18605007000.0      20146057000.0     17979208000.0
+EBITDA                                                           7313516000.0       8922213000.0      10790695000.0      7311278000.0
+EBIT                                                             2534183000.0       4170311000.0       6156583000.0      3135759000.0
+Net Interest Income                                               -73201000.0        -96080000.0       -121204000.0      -143704000.0
+Interest Expense                                                  265957000.0        142439000.0        120998000.0       162400000.0
+Interest Income                                                   193189000.0         57199000.0          9980000.0        27778000.0
+Normalized Income                                           1840969838.803541  3038686293.439811  4951395949.492717  2537976635.57411
+Net Income From Continuing And Discontinued Operation            1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Total Expenses                                                  19466330000.0      20373610000.0      21898499000.0     19566498000.0
+Total Operating Income As Reported                               1908452000.0       3216679000.0       5562389000.0      3566502000.0
+Diluted Average Shares                                            734938000.0        742646000.0        742858000.0       736908000.0
+Basic Average Shares                                              727240000.0        727240000.0        727240000.0       727240000.0
+Diluted EPS                                                              2.68               4.63               6.65              3.23
+Basic EPS                                                                2.71               4.73               6.79              3.27
+Diluted NI Availto Com Stockholders                              1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Net Income Common Stockholders                                   1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Net Income                                                       1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Net Income Including Noncontrolling Interests                    1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Net Income Continuous Operations                                 1967565000.0       3439697000.0       4937267000.0      2378978000.0
+Tax Provision                                                     300661000.0        588175000.0       1098318000.0       594381000.0
+Pretax Income                                                    2268226000.0       4027872000.0       6035585000.0      2973359000.0
+Other Income Expense                                              451529000.0        980498000.0        655253000.0      -327820000.0
+Other Non Operating Income Expenses                                85698000.0         57201000.0         46792000.0        18233000.0
+Special Income Charges                                             21924000.0         81073000.0         51928000.0       129287000.0
+Gain On Sale Of Ppe                                                31160000.0         93655000.0         55880000.0       129287000.0
+Gain On Sale Of Business                                                  NaN                NaN                0.0               0.0
+Other Special Charges                                                     NaN          -139000.0          -891000.0               NaN
+Impairment Of Capital Assets                                        9236000.0         12721000.0          4843000.0               0.0
+Earnings From Equity Interest                                     219891000.0        453715000.0        625733000.0      -147329000.0
+Gain On Sale Of Security                                          124016000.0        388509000.0        -69200000.0      -328011000.0
+Net Non Operating Interest Income Expense                         -73201000.0        -96080000.0       -121204000.0      -143704000.0
+Total Other Finance Cost                                             433000.0         10840000.0         10186000.0         9082000.0
+Interest Expense Non Operating                                    265957000.0        142439000.0        120998000.0       162400000.0
+Interest Income Non Operating                                     193189000.0         57199000.0          9980000.0        27778000.0
+Operating Income                                                 1889898000.0       3143454000.0       5501536000.0      3444883000.0
+Operating Expense                                                1659527000.0       1768603000.0       1752442000.0      1587290000.0
+Other Operating Expenses                                          -67389000.0        -56708000.0        -64734000.0       -13959000.0
+Research And Development                                         1093513000.0       1158598000.0       1139219000.0      1015512000.0
+Selling General And Administration                                633403000.0        666713000.0        677957000.0       585737000.0
+Selling And Marketing Expense                                     135661000.0        128029000.0         73928000.0        56978000.0
+General And Administrative Expense                                497742000.0        538684000.0        604029000.0       528759000.0
+Other Gand A                                                      497742000.0        538684000.0        604029000.0       528759000.0
+Gross Profit                                                     3549425000.0       4912057000.0       7253978000.0      5032173000.0
+Cost Of Revenue                                                 17806803000.0      18605007000.0      20146057000.0     17979208000.0
+Total Revenue                                                   21356228000.0      23517064000.0      27400035000.0     23011381000.0
+Operating Revenue                                               21356228000.0      23517064000.0      27400035000.0     23011381000.0

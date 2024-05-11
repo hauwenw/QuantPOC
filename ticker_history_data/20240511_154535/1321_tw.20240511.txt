@@ -1,0 +1,152 @@
+=== Ticker Info ===
+address1	No.310, Juguang Road
+address2	5th and 6th Floors Wanhua District
+city	Taipei
+zip	108
+country	Taiwan
+phone	886 2 2308 2131
+fax	886 2 2306 2320
+website	https://www.opc.com.tw
+industry	Specialty Chemicals
+industryKey	specialty-chemicals
+industryDisp	Specialty Chemicals
+sector	Basic Materials
+sectorKey	basic-materials
+sectorDisp	Basic Materials
+longBusinessSummary	Ocean Plastics Co., Ltd. manufactures and sells plastic raw materials, products, and incidental materials for the plastic industry in Taiwan, India, the United States, China, Japan, and internationally. The company offers eco-friendly DMF-free PU products, including water-based polyurethane resin (WBPU), non-solvent type prepolymer polyurethane resin, WBPU leather, and solvent-free prepolymer PU leather for use in footwear, balls/sporting goods, furniture/home decorations, consumer electronic products, bag materials, garment/textiles, and special applications. It also provides wood plastic composites; and PVC sheets comprising clear PVC sheeting, flexible PVC sheeting, PVC semi-rigid films, and PVC rigid sheeting for stationery, furniture, decoration, and packaging applications, as well as for special grade purposes. In addition, the company offers PVC construction materials, which include PVC pipe, water feed, drainage, and sewage materials; and CELLwood products. Further, it provides PVC raw materials, including PVC compounds for use in bottle moldings, IC tube extrusion, shrinkage film compounds, modified clear PS compounds, PVC foam compounds, conductive PVC compounds, black master batches, and medical grade compounds; and PVC resins for use in general rigid sheets and pipes, insulating materials, vinyl tapes, PVC sheets and leather, blowing bottles, and IC tubes. The company was founded in 1954 and is based in Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Kin-Men  Tan', 'title': 'Chairman & President', 'fiscalYear': 2021, 'totalPay': 6053000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shao-Pin  Shen', 'title': 'Assistant Manager', 'fiscalYear': 2021, 'totalPay': 2254000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yi-Hsiung  Chen', 'title': 'Senior Manager', 'fiscalYear': 2021, 'totalPay': 1895000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Min-Lang  Tu', 'title': 'Vice Plant Manager', 'fiscalYear': 2021, 'totalPay': 1751000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Yu-Hui  Chang', 'title': 'Manager', 'fiscalYear': 2021, 'totalPay': 1709000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yi-Ho  Wang', 'title': 'Manager of Finance and IR & Corporate Governance Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	39.3
+open	39.3
+dayLow	39.1
+dayHigh	39.45
+regularMarketPreviousClose	39.3
+regularMarketOpen	39.3
+regularMarketDayLow	39.1
+regularMarketDayHigh	39.45
+exDividendDate	1661385600	 (2022-08-25 08:00:00)
+beta	0.562
+trailingPE	48.45679
+volume	439219
+regularMarketVolume	439219
+averageVolume	397738
+averageVolume10days	1212599
+averageDailyVolume10Day	1212599
+bid	39.2
+ask	39.4
+marketCap	8661885952
+fiftyTwoWeekLow	33.35
+fiftyTwoWeekHigh	43.8
+priceToSalesTrailing12Months	1.7624961
+fiftyDayAverage	36.632
+twoHundredDayAverage	36.24075
+trailingAnnualDividendRate	0.4
+trailingAnnualDividendYield	0.010178117
+currency	TWD
+enterpriseValue	11883581440
+profitMargins	0.039300002
+floatShares	167626149
+sharesOutstanding	220684992
+heldPercentInsiders	0.23290001
+heldPercentInstitutions	0.04204
+impliedSharesOutstanding	233350000
+bookValue	28.067
+priceToBook	1.3984395
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	193134000
+trailingEps	0.81
+lastSplitFactor	104:100
+lastSplitDate	1153958400	 (2006-07-27 08:00:00)
+enterpriseToRevenue	2.418
+enterpriseToEbitda	52.111
+52WeekChange	0.17339313
+SandP52WeekChange	0.26265144
+lastDividendValue	0.7
+lastDividendDate	1661385600	 (2022-08-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1321.TW
+underlyingSymbol	1321.TW
+shortName	OCEAN PLASTICS
+longName	Ocean Plastics Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	84f16b59-4999-38c1-a149-e3c81e837d8c
+messageBoardId	finmb_11500526
+gmtOffSetMilliseconds	28800000
+currentPrice	39.25
+recommendationKey	none
+totalCash	1018739008
+totalCashPerShare	4.616
+ebitda	228044992
+totalDebt	4240410880
+quickRatio	1.473
+currentRatio	1.914
+totalRevenue	4914555904
+debtToEquity	68.459
+revenuePerShare	22.269
+returnOnAssets	0.00184
+returnOnEquity	0.0319
+freeCashflow	173887376
+operatingCashflow	12660000
+revenueGrowth	-0.009
+grossMargins	0.08417
+ebitdaMargins	0.0464
+operatingMargins	0.03299
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31    2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                  -1670346.050762   -30999600.0     -40466.315359    -265289.258749
+Tax Rate For Calcs                                                  0.155569           0.2           0.09324          0.068746
+Normalized EBITDA                                                487732000.0   378945000.0       574610000.0       632868000.0
+Total Unusual Items                                              -10737000.0  -154998000.0         -434000.0        -3859000.0
+Total Unusual Items Excluding Goodwill                           -10737000.0  -154998000.0         -434000.0        -3859000.0
+Net Income From Continuing Operation Net Minority Interest       193134000.0   -42657000.0       319368000.0       374097000.0
+Reconciled Depreciation                                          224886000.0   213596000.0       206568000.0       207488000.0
+Reconciled Cost Of Revenue                                      4500918000.0  6135998000.0      6005716000.0      4379893000.0
+EBITDA                                                           476995000.0   223947000.0       574176000.0       629009000.0
+EBIT                                                             252109000.0    10351000.0       367608000.0       421521000.0
+Net Interest Income                                               -5715000.0   -10247000.0       -11056000.0       -15333000.0
+Interest Expense                                                  23394000.0    18148000.0        15400000.0        19808000.0
+Interest Income                                                   17679000.0     7901000.0         4344000.0         4475000.0
+Normalized Income                                           202200653.949238    81341400.0  319761533.684641  377690710.741251
+Net Income From Continuing And Discontinued Operation            193134000.0   -42657000.0       319368000.0       715152000.0
+Total Expenses                                                  4884007000.0  6696098000.0      6522300000.0      4743465000.0
+Diluted Average Shares                                                   NaN   220686000.0       220921000.0       220921000.0
+Basic Average Shares                                                     NaN   220686000.0       220686000.0       220686000.0
+Diluted EPS                                                              NaN         -0.19              1.45              3.24
+Basic EPS                                                                NaN         -0.19              1.45              3.24
+Diluted NI Availto Com Stockholders                              193134000.0   -42657000.0       319368000.0       715152000.0
+Net Income Common Stockholders                                   193134000.0   -42657000.0       319368000.0       715152000.0
+Otherunder Preferred Stock Dividend                                      0.0           0.0               0.0               0.0
+Net Income                                                       193134000.0   -42657000.0       319368000.0       715152000.0
+Net Income Including Noncontrolling Interests                    193134000.0   -42657000.0       319368000.0       715152000.0
+Net Income Discontinuous Operations                                      NaN           0.0               0.0       341055000.0
+Net Income Continuous Operations                                 193134000.0   -42657000.0       319368000.0       374097000.0
+Tax Provision                                                     35581000.0    34860000.0        32840000.0        27616000.0
+Pretax Income                                                    228715000.0    -7797000.0       352208000.0       401713000.0
+Other Non Operating Income Expenses                               35559000.0    44901000.0       218980000.0        77756000.0
+Special Income Charges                                           -22488000.0     -445000.0         -434000.0        -3859000.0
+Other Special Charges                                                    NaN    -1120000.0               NaN               NaN
+Write Off                                                         -4179000.0     1565000.0          434000.0         3859000.0
+Impairment Of Capital Assets                                      26667000.0           0.0               NaN               NaN
+Net Non Operating Interest Income Expense                         -5715000.0   -10247000.0       -11056000.0       -15333000.0
+Interest Expense Non Operating                                    23394000.0    18148000.0        15400000.0        19808000.0
+Interest Income Non Operating                                     17679000.0     7901000.0         4344000.0         4475000.0
+Operating Income                                                  30549000.0  -189962000.0       -31967000.0       236553000.0
+Operating Expense                                                383089000.0   560100000.0       516584000.0       363572000.0
+Research And Development                                          15276000.0    15451000.0        11496000.0         8654000.0
+Selling General And Administration                               367813000.0   544649000.0       505088000.0       354918000.0
+Selling And Marketing Expense                                    211618000.0   395760000.0       371412000.0       224452000.0
+General And Administrative Expense                               156195000.0   148889000.0       133676000.0       130466000.0
+Gross Profit                                                     413638000.0   370138000.0       484617000.0       600125000.0
+Cost Of Revenue                                                 4500918000.0  6135998000.0      6005716000.0      4379893000.0
+Total Revenue                                                   4914556000.0  6506136000.0      6490333000.0      4980018000.0
+Operating Revenue                                               4914556000.0  6506136000.0      6490333000.0      4980018000.0

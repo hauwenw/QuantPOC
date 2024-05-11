@@ -1,0 +1,158 @@
+=== Ticker Info ===
+address1	No. 158, Singshan Road
+address2	Neihu
+city	Taipei
+zip	11469
+country	Taiwan
+phone	886 2 6616 9999
+fax	886 2 6612 5188
+website	https://www.wistron.com
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Wistron Corporation, together with its subsidiaries, designs, manufactures, and sells information technology products in Taiwan, Asia, and internationally. The company engages in the research, development, design, manufacture, testing, and sale of desktop computers, notebook computers, motherboards, servers, system platforms, high-speed and multi-function multiple-CPU computer systems, multi-media computers, network computers, consumer-type computers and special computers, microprocessors, CD-ROMs, PDAs, panel PCs, pocket computers, and interface cards. The company also offers video and internet telephones, video conferencing equipment, and telecommunication equipment; digital satellite TV receivers, set-top boxes, digital video decoders, and multi-media appliance products; digital cameras, CD-ROM drives, and DVD-ROM drives; wireless receiver products comprising mobile phones, wireless LAN cards, and Bluetooth communication modules; and LCD TVs and other electronic audio and visual products. In addition, it designs and merchandises computer software and programs; recycles electronic waste; and offers in vitro diagnostic devices, therapeutic equipment, intelligent assistive devices, diagnostic x-ray units, physiological signal diagnostic devices, and medical date systems. Further, the company is involved in the manufacturing, processing, and selling of electronic products for automobiles; maintenance and cleaning of electronics products; import and export trade operations; sale and maintenance of computer products and related parts and components, data storage equipment, and digital monitoring systems; internet platform development; and provision and sale of application services and consultation. The company was incorporated in 2001 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hsien-Ming  Lin', 'age': 70, 'title': 'CSO & Chairman of the Board', 'yearBorn': 1953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jeff  Lin', 'title': 'President & CEO', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Po-Tuan  Hwang', 'age': 66, 'title': 'Vice Chairman of the Board & President of New Business', 'yearBorn': 1957, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Stone  Shih', 'age': 61, 'title': 'Chief Finance Officer', 'yearBorn': 1962, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mike  Liang', 'title': 'Executive Director of PR/Investor Relation & Treasury Management Division', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Donald  Hwang', 'age': 65, 'title': 'President of Advanced Technology Lab', 'yearBorn': 1958, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. David  Shen', 'age': 56, 'title': 'Executive VP & Chief Infrastructure Officer', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Kenny  Wang', 'title': 'Chief Digital & Chief Information Security Officer', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. William  Lin', 'title': 'Wistron Technologies President of Enterprise Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Vincent  Cho', 'title': 'Wistron Smart Devices President of Component Business Group', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	112.0
+open	112.5
+dayLow	111.0
+dayHigh	114.0
+regularMarketPreviousClose	112.0
+regularMarketOpen	112.5
+regularMarketDayLow	111.0
+regularMarketDayHigh	114.0
+dividendRate	2.6
+dividendYield	0.0228
+exDividendDate	1688515200	 (2023-07-05 08:00:00)
+payoutRatio	0.50560004
+fiveYearAvgDividendYield	5.8
+beta	0.879
+trailingPE	22.17899
+forwardPE	13.028571
+volume	38190844
+regularMarketVolume	38190844
+averageVolume	81372260
+averageVolume10days	41175411
+averageDailyVolume10Day	41175411
+bid	113.5
+ask	114.0
+marketCap	327267778560
+fiftyTwoWeekLow	47.7
+fiftyTwoWeekHigh	161.5
+priceToSalesTrailing12Months	0.37744668
+fiftyDayAverage	118.16
+twoHundredDayAverage	108.6415
+currency	TWD
+enterpriseValue	403259195392
+profitMargins	0.01323
+floatShares	2612726021
+sharesOutstanding	2870769920
+heldPercentInsiders	0.04749
+heldPercentInstitutions	0.3089
+impliedSharesOutstanding	2945659904
+bookValue	36.359
+priceToBook	3.1353996
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	-0.181
+netIncomeToCommon	11471616000
+trailingEps	5.14
+forwardEps	8.75
+pegRatio	0.43
+lastSplitFactor	1029.371:1000
+lastSplitDate	1533081600	 (2018-08-01 08:00:00)
+enterpriseToRevenue	0.465
+enterpriseToEbitda	10.616
+52WeekChange	1.3505154
+SandP52WeekChange	0.26265144
+lastDividendValue	2.598721
+lastDividendDate	1688515200	 (2023-07-05 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	3231.TW
+underlyingSymbol	3231.TW
+shortName	WISTRON CORPORATION
+longName	Wistron Corporation
+firstTradeDateEpochUtc	1061254800	 (2003-08-19 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e18414ec-38c1-37f6-ac3b-17c54f39ac62
+messageBoardId	finmb_2907879
+gmtOffSetMilliseconds	28800000
+currentPrice	114.0
+targetHighPrice	180.0
+targetLowPrice	119.0
+targetMeanPrice	152.43
+targetMedianPrice	157.0
+recommendationMean	1.8
+recommendationKey	buy
+numberOfAnalystOpinions	11
+totalCash	80661848064
+totalCashPerShare	28.14
+ebitda	37985419264
+totalDebt	132601331712
+quickRatio	0.729
+currentRatio	1.254
+totalRevenue	867057008640
+debtToEquity	102.981
+revenuePerShare	308.591
+returnOnAssets	0.03867
+returnOnEquity	0.14765
+freeCashflow	20022974464
+operatingCashflow	48219021312
+earningsGrowth	-0.167
+revenueGrowth	-0.126
+grossMargins	0.07956
+ebitdaMargins	0.04381
+operatingMargins	0.045700002
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                2023-12-31      2022-12-31      2021-12-31      2020-12-31
+Tax Effect Of Unusual Items                                            0.0             0.0             0.0             0.0
+Tax Rate For Calcs                                                0.248982        0.230399        0.234293        0.233742
+Normalized EBITDA                                            45423101000.0   42174180000.0   30339477000.0   29253409000.0
+Net Income From Continuing Operation Net Minority Interest   11471616000.0   11162451000.0   10468030000.0    8681762000.0
+Reconciled Depreciation                                      12345160000.0   11475111000.0    9225109000.0   10059863000.0
+Reconciled Cost Of Revenue                                  798074134000.0  914890464000.0  810948132000.0  798958664000.0
+EBITDA                                                       45423101000.0   42174180000.0   30339477000.0   29253409000.0
+EBIT                                                         33077941000.0   30699069000.0   21114368000.0   19193546000.0
+Net Interest Income                                          -6237410000.0   -3998380000.0    -573334000.0    -460129000.0
+Interest Expense                                              8757247000.0    5988155000.0    1880091000.0    2348171000.0
+Interest Income                                               2519837000.0    1989775000.0    1306757000.0    1888042000.0
+Normalized Income                                            11471616000.0   11162451000.0   10468030000.0    8681762000.0
+Net Income From Continuing And Discontinued Operation        11471616000.0   11162451000.0   10468030000.0    8681762000.0
+Total Expenses                                              839666750000.0  957147012000.0  845708210000.0  830540782000.0
+Diluted Average Shares                                        2884650000.0    2909007000.0    2872982000.0    2865676000.0
+Basic Average Shares                                          2809733000.0    2783285000.0    2781843000.0    2802027000.0
+Diluted EPS                                                           3.98            3.84            3.64            3.03
+Basic EPS                                                             4.08            4.01            3.76             3.1
+Diluted NI Availto Com Stockholders                          11471616000.0   11162451000.0   10468030000.0    8681762000.0
+Net Income Common Stockholders                               11471616000.0   11162451000.0   10468030000.0    8681762000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0             0.0             0.0
+Net Income                                                   11471616000.0   11162451000.0   10468030000.0    8681762000.0
+Minority Interests                                           -6793669000.0   -7855096000.0   -4259781000.0   -4226134000.0
+Net Income Including Noncontrolling Interests                18265285000.0   19017547000.0   14727811000.0   12907896000.0
+Net Income Continuous Operations                             18265285000.0   19017547000.0   14727811000.0   12907896000.0
+Tax Provision                                                 6055409000.0    5693367000.0    4506466000.0    3937479000.0
+Pretax Income                                                24320694000.0   24710914000.0   19234277000.0   16845375000.0
+Other Non Operating Income Expenses                           2403698000.0     460816000.0    3315785000.0    2387316000.0
+Net Non Operating Interest Income Expense                    -6237410000.0   -3998380000.0    -573334000.0    -460129000.0
+Interest Expense Non Operating                                8757247000.0    5988155000.0    1880091000.0    2348171000.0
+Interest Income Non Operating                                 2519837000.0    1989775000.0    1306757000.0    1888042000.0
+Operating Income                                             27390257000.0   27472144000.0   16374638000.0   14471062000.0
+Operating Expense                                            41592616000.0   42256548000.0   34760078000.0   31582118000.0
+Research And Development                                     23894253000.0   25007992000.0   20761495000.0   19049271000.0
+Selling General And Administration                           17698363000.0   17248556000.0   13998583000.0   12532847000.0
+Selling And Marketing Expense                                10828131000.0   11433187000.0    9467427000.0    8866295000.0
+General And Administrative Expense                            6870232000.0    5815369000.0    4531156000.0    3666552000.0
+Gross Profit                                                 68982873000.0   69728692000.0   51134716000.0   46053180000.0
+Cost Of Revenue                                             798074134000.0  914890464000.0  810948132000.0  798958664000.0
+Total Revenue                                               867057007000.0  984619156000.0  862082848000.0  845011844000.0
+Operating Revenue                                           867057007000.0  984619156000.0  862082848000.0  845011844000.0

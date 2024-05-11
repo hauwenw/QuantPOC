@@ -1,0 +1,160 @@
+=== Ticker Info ===
+address1	No. 64, Zhongshan Road
+address2	Yingge District
+city	New Taipei City
+zip	239010
+country	Taiwan
+phone	886 2 2679 1931
+fax	886 2 2670 3031
+website	https://www.kinik.com.tw
+industry	Specialty Industrial Machinery
+industryKey	specialty-industrial-machinery
+industryDisp	Specialty Industrial Machinery
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	Kinik Company produces and sells various abrasives, cutting tools, and reclaimed wafers in Taiwan and internationally. It also offers various conventional grinding wheels, diamond/CBN grinding wheels, DLC coatings, reclaimed wafers, porous ceramic chuck tables, CMP diamond disks, ultra precision machining tools, dicing blades, diamond rollers, wafer grinding wheels, diamond and CBN honey comb wheels, and anti-slip type vacuum chucks. The company also engages in buy and sell of wafers, as well as import and export transactions. Kinik Company was founded in 1953 and is headquartered in New Taipei City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Jung-Che  Hsieh', 'title': 'CEO & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yung Sheng  Ku', 'title': 'CFO, Head of Corporate Governance, Finance Director & Accounting Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wei Chang  Li', 'title': 'President of Diamond B.U & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fu-I  Hung', 'title': 'President of Semiconductor Materials B.U. & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ching-Chung  Pai', 'title': 'VP & Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Shao-Chung  Hu', 'title': 'Acting President of Abrasives B.U.', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	250.0
+open	251.0
+dayLow	245.0
+dayHigh	252.0
+regularMarketPreviousClose	250.0
+regularMarketOpen	251.0
+regularMarketDayLow	245.0
+regularMarketDayHigh	252.0
+dividendRate	4.0
+dividendYield	0.0162
+exDividendDate	1689206400	 (2023-07-13 08:00:00)
+payoutRatio	0.6287
+fiveYearAvgDividendYield	3.61
+trailingPE	38.915092
+forwardPE	22.0
+volume	959234
+regularMarketVolume	959234
+averageVolume	4464777
+averageVolume10days	2736702
+averageDailyVolume10Day	2736702
+bid	247.5
+ask	248.0
+marketCap	35907547136
+fiftyTwoWeekLow	108.5
+fiftyTwoWeekHigh	295.0
+priceToSalesTrailing12Months	5.5986814
+fiftyDayAverage	252.06
+twoHundredDayAverage	191.2225
+currency	TWD
+enterpriseValue	36982521856
+profitMargins	0.14501001
+floatShares	100957482
+sharesOutstanding	145080992
+heldPercentInsiders	0.30549
+heldPercentInstitutions	0.1446
+impliedSharesOutstanding	145524992
+bookValue	40.358
+priceToBook	6.1326127
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1711843200	 (2024-03-31 08:00:00)
+earningsQuarterlyGrowth	0.436
+netIncomeToCommon	930054016
+trailingEps	6.36
+forwardEps	11.25
+lastSplitFactor	105:100
+lastSplitDate	1217462400	 (2008-07-31 08:00:00)
+enterpriseToRevenue	5.766
+enterpriseToEbitda	22.769
+52WeekChange	1.2706423
+SandP52WeekChange	0.26265144
+lastDividendValue	3.998751
+lastDividendDate	1689206400	 (2023-07-13 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1560.TW
+underlyingSymbol	1560.TW
+shortName	KINIK CO
+longName	Kinik Company
+firstTradeDateEpochUtc	1107133200	 (2005-01-31 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	4bb4ec34-ba56-3521-97b9-c518e64dfe76
+messageBoardId	finmb_7941522
+gmtOffSetMilliseconds	28800000
+currentPrice	247.5
+targetHighPrice	310.0
+targetLowPrice	288.0
+targetMeanPrice	299.33
+targetMedianPrice	300.0
+recommendationMean	1.7
+recommendationKey	buy
+numberOfAnalystOpinions	3
+totalCash	1699755008
+totalCashPerShare	11.721
+ebitda	1624278016
+totalDebt	2478523904
+quickRatio	0.903
+currentRatio	1.571
+totalRevenue	6413572096
+debtToEquity	40.213
+revenuePerShare	44.383
+returnOnAssets	0.06353
+returnOnEquity	0.15323
+freeCashflow	1049478848
+operatingCashflow	1308770944
+earningsGrowth	0.423
+revenueGrowth	0.021
+grossMargins	0.31504
+ebitdaMargins	0.25326002
+operatingMargins	0.16384001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31         2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     97989.119252      583475.913997    -107684.120754    -871115.965521
+Tax Rate For Calcs                                                  0.187002           0.181712          0.185343          0.210771
+Normalized EBITDA                                               1709608000.0       2211680000.0      1558253000.0      1216634000.0
+Total Unusual Items                                                 524000.0          3211000.0         -581000.0        -4133000.0
+Total Unusual Items Excluding Goodwill                              524000.0          3211000.0         -581000.0        -4133000.0
+Net Income From Continuing Operation Net Minority Interest       852122000.0       1247391000.0       676574000.0       512338000.0
+Reconciled Depreciation                                          606989000.0        618196000.0       630685000.0       511628000.0
+Reconciled Cost Of Revenue                                      4438673000.0       4379157000.0      4165214000.0      3609958000.0
+EBITDA                                                          1710132000.0       2214891000.0      1557672000.0      1212501000.0
+EBIT                                                            1103143000.0       1596695000.0       926987000.0       700873000.0
+Net Interest Income                                               18379000.0        -33083000.0       -39940000.0       -16267000.0
+Interest Expense                                                  42738000.0         39359000.0        41120000.0        17325000.0
+Interest Income                                                   61117000.0          6276000.0         1180000.0         1058000.0
+Normalized Income                                           851695989.119252  1244763475.913997  677047315.879246  515599884.034479
+Net Income From Continuing And Discontinued Operation            852122000.0       1247391000.0       676574000.0       512338000.0
+Total Expenses                                                  5392191000.0       5480055000.0      5093496000.0      4445444000.0
+Diluted Average Shares                                           145921000.0        146205000.0       143244000.0       142295000.0
+Basic Average Shares                                             144291000.0        143242000.0       141641000.0       141032000.0
+Diluted EPS                                                             5.84               8.53              4.72               3.6
+Basic EPS                                                               5.91               8.71              4.78              3.63
+Diluted NI Availto Com Stockholders                              852122000.0       1247391000.0       676574000.0       512338000.0
+Net Income Common Stockholders                                   852122000.0       1247391000.0       676574000.0       512338000.0
+Otherunder Preferred Stock Dividend                                      0.0                0.0               0.0               0.0
+Net Income                                                       852122000.0       1247391000.0       676574000.0       512338000.0
+Minority Interests                                                -9985000.0        -26959000.0       -45104000.0       -27138000.0
+Net Income Including Noncontrolling Interests                    862107000.0       1274350000.0       721678000.0       539476000.0
+Net Income Continuous Operations                                 862107000.0       1274350000.0       721678000.0       539476000.0
+Tax Provision                                                    198298000.0        282986000.0       164189000.0       144072000.0
+Pretax Income                                                   1060405000.0       1557336000.0       885867000.0       683548000.0
+Other Non Operating Income Expenses                               59880000.0        165922000.0        23027000.0        12939000.0
+Special Income Charges                                              524000.0          3211000.0         -581000.0        -4133000.0
+Write Off                                                          -524000.0         -3211000.0          581000.0         4133000.0
+Net Non Operating Interest Income Expense                         18379000.0        -33083000.0       -39940000.0       -16267000.0
+Interest Expense Non Operating                                    42738000.0         39359000.0        41120000.0        17325000.0
+Interest Income Non Operating                                     61117000.0          6276000.0         1180000.0         1058000.0
+Operating Income                                                 988713000.0       1427564000.0       934342000.0       711106000.0
+Operating Expense                                                953518000.0       1100898000.0       928282000.0       835486000.0
+Research And Development                                         156505000.0        164037000.0       136526000.0       125888000.0
+Selling General And Administration                               797013000.0        936861000.0       791756000.0       709598000.0
+Selling And Marketing Expense                                    500562000.0        635105000.0       530381000.0       443485000.0
+General And Administrative Expense                               296451000.0        301756000.0       261375000.0       266113000.0
+Gross Profit                                                    1942231000.0       2528462000.0      1862624000.0      1546592000.0
+Cost Of Revenue                                                 4438673000.0       4379157000.0      4165214000.0      3609958000.0
+Total Revenue                                                   6380904000.0       6907619000.0      6027838000.0      5156550000.0
+Operating Revenue                                               6380904000.0       6907619000.0      6027838000.0      5156550000.0

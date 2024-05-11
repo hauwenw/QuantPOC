@@ -1,0 +1,150 @@
+=== Ticker Info ===
+address1	No. 197, Zhongxiao East Road
+address2	10F-6 Section 4
+city	Taipei
+zip	10690
+country	Taiwan
+phone	886 2 2752 2222
+fax	886 2 2752 9385
+website	https://www.tonlin.com.tw
+industry	Department Stores
+industryKey	department-stores
+industryDisp	Department Stores
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Tonlin Department Store Co.,Ltd. operates department stores in Taiwan. It offers fashion, beauty, and lifestyle products. The company also operates cafes and restaurants. Tonlin Department Store Co., Ltd. was founded in 1971 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Hua-Li  Weng', 'age': 48, 'title': 'President & Director', 'yearBorn': 1975, 'fiscalYear': 2021, 'totalPay': 2000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ju-I  Weng', 'age': 51, 'title': 'CFO & Director', 'yearBorn': 1972, 'fiscalYear': 2021, 'totalPay': 2000000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Wan Yi  Lin', 'title': 'Accounting officer & Finance Manager', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	27.3
+open	27.3
+dayLow	27.05
+dayHigh	27.3
+regularMarketPreviousClose	27.3
+regularMarketOpen	27.3
+regularMarketDayLow	27.05
+regularMarketDayHigh	27.3
+dividendRate	0.34
+dividendYield	0.0125
+exDividendDate	1713916800	 (2024-04-24 08:00:00)
+fiveYearAvgDividendYield	2.89
+beta	0.621
+trailingPE	23.85965
+volume	30001
+regularMarketVolume	30001
+averageVolume	44456
+averageVolume10days	96400
+averageDailyVolume10Day	96400
+bid	27.15
+ask	27.2
+marketCap	4770961920
+fiftyTwoWeekLow	25.0
+fiftyTwoWeekHigh	31.9
+priceToSalesTrailing12Months	6.974285
+fiftyDayAverage	27.312
+twoHundredDayAverage	27.6915
+trailingAnnualDividendRate	0.34
+trailingAnnualDividendYield	0.012454213
+currency	TWD
+enterpriseValue	6477004800
+profitMargins	0.29954
+floatShares	58581094
+sharesOutstanding	175403008
+heldPercentInsiders	0.87825996
+impliedSharesOutstanding	175728000
+bookValue	14.766
+priceToBook	1.8420697
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.79
+netIncomeToCommon	204908992
+trailingEps	1.14
+lastSplitFactor	110:100
+lastSplitDate	963964800	 (2000-07-19 08:00:00)
+enterpriseToRevenue	9.468
+enterpriseToEbitda	22.649
+52WeekChange	-0.06368333
+SandP52WeekChange	0.26265144
+lastDividendValue	0.340296
+lastDividendDate	1713916800	 (2024-04-24 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2910.TW
+underlyingSymbol	2910.TW
+shortName	TONLIN DEPARTMENT STORE CO
+longName	Tonlin Department Store Co.,Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fa483a31-9237-3420-8c4a-2666e2846632
+messageBoardId	finmb_9708446
+gmtOffSetMilliseconds	28800000
+currentPrice	27.2
+recommendationKey	none
+totalCash	788881984
+totalCashPerShare	4.498
+ebitda	285976992
+totalDebt	2494925056
+quickRatio	0.873
+currentRatio	1.16
+totalRevenue	684078976
+debtToEquity	96.327
+revenuePerShare	3.9
+returnOnAssets	0.023120001
+returnOnEquity	0.082329996
+freeCashflow	426364128
+operatingCashflow	285727008
+earningsGrowth	0.8
+revenueGrowth	0.353
+grossMargins	0.58432
+ebitdaMargins	0.41805
+operatingMargins	0.20582001
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                             2023-12-31   2022-12-31   2021-12-31   2020-12-31
+Tax Effect Of Unusual Items                                         0.0          0.0          0.0          0.0
+Tax Rate For Calcs                                              0.11833     0.161243     0.008086      0.26935
+Normalized EBITDA                                           355752000.0  226840000.0  245362000.0  273538000.0
+Total Unusual Items                                                 0.0          0.0          0.0          0.0
+Total Unusual Items Excluding Goodwill                              0.0          0.0          0.0          0.0
+Net Income From Continuing Operation Net Minority Interest  204909000.0   96395000.0  140695000.0  114159000.0
+Reconciled Depreciation                                      77099000.0   75341000.0   73835000.0   82185000.0
+Reconciled Cost Of Revenue                                  284357000.0  360518000.0  206239000.0  190011000.0
+EBITDA                                                      355752000.0  226840000.0  245362000.0  273538000.0
+EBIT                                                        278653000.0  151499000.0  171527000.0  191353000.0
+Net Interest Income                                         -44868000.0  -35484000.0  -29473000.0  -34530000.0
+Interest Expense                                             46243000.0   36573000.0   29685000.0   35110000.0
+Interest Income                                               1375000.0    1089000.0     212000.0     580000.0
+Normalized Income                                           204909000.0   96395000.0  140695000.0  114159000.0
+Net Income From Continuing And Discontinued Operation       204909000.0   96395000.0  140695000.0  114159000.0
+Total Expenses                                              475151000.0  547560000.0  397541000.0  392622000.0
+Diluted Average Shares                                      175412000.0  175409000.0  175435000.0  175429000.0
+Basic Average Shares                                        175403000.0  175403000.0  175403000.0  175403000.0
+Diluted EPS                                                        1.17         0.55          0.8         0.65
+Basic EPS                                                          1.17         0.55          0.8         0.65
+Diluted NI Availto Com Stockholders                         204909000.0   96395000.0  140695000.0  114159000.0
+Net Income Common Stockholders                              204909000.0   96395000.0  140695000.0  114159000.0
+Otherunder Preferred Stock Dividend                                 0.0          0.0          0.0          0.0
+Net Income                                                  204909000.0   96395000.0  140695000.0  114159000.0
+Minority Interests                                                  0.0          0.0          0.0          0.0
+Net Income Including Noncontrolling Interests               204909000.0   96395000.0  140695000.0  114159000.0
+Net Income Continuous Operations                            204909000.0   96395000.0  140695000.0  114159000.0
+Tax Provision                                                27501000.0   18531000.0    1147000.0   42084000.0
+Pretax Income                                               232410000.0  114926000.0  141842000.0  156243000.0
+Other Non Operating Income Expenses                          63268000.0  -18113000.0   36753000.0   24779000.0
+Special Income Charges                                              0.0          0.0          0.0          0.0
+Net Non Operating Interest Income Expense                   -44868000.0  -35484000.0  -29473000.0  -34530000.0
+Interest Expense Non Operating                               46243000.0   36573000.0   29685000.0   35110000.0
+Interest Income Non Operating                                 1375000.0    1089000.0     212000.0     580000.0
+Operating Income                                            208928000.0  164410000.0  131054000.0  161818000.0
+Operating Expense                                           190794000.0  187042000.0  191302000.0  202611000.0
+Other Operating Expenses                                    190794000.0  187042000.0  191302000.0  202611000.0
+Gross Profit                                                399722000.0  351452000.0  322356000.0  364429000.0
+Cost Of Revenue                                             284357000.0  360518000.0  206239000.0  190011000.0
+Total Revenue                                               684079000.0  711970000.0  528595000.0  554440000.0
+Operating Revenue                                           684079000.0  711970000.0  528595000.0  554440000.0

@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No. 236, Xinhu 2nd Road
+address2	3rd Floor Neihu District
+city	Taipei
+zip	114
+country	Taiwan
+phone	886 2 2796 2345
+fax	886 2 8791 9608
+website	https://www.unitech.com.tw
+industry	Computer Hardware
+industryKey	computer-hardware
+industryDisp	Computer Hardware
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Unitech Computer Co., Ltd. engages in the information technology product channel business in Taiwan, rest of Asia, America, Europe, Oceania, and internationally. It is involved in distribution, delivery, and maintenance of various products, including computer, computer assembly and peripheral, consumable, digital product and signage, displays, Macintosh computers, network product, network camera, and printer, as well as enterprise solutions. The company was formerly known as Jingji Industrial Co., Ltd. and changed its name to Unitech Computer Co., Ltd. in June 1991. Unitech Computer Co., Ltd. was incorporated in 1979 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Guo Quan  Ye', 'title': 'Manager & Chairman', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Shu Hui Hu', 'title': 'Finance Department Head', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li Ping Hong', 'title': 'Accounting Department Officer and Associate', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	36.6
+open	36.6
+dayLow	36.6
+dayHigh	36.8
+regularMarketPreviousClose	36.6
+regularMarketOpen	36.6
+regularMarketDayLow	36.6
+regularMarketDayHigh	36.8
+dividendRate	2.5
+dividendYield	0.068
+exDividendDate	1690243200	 (2023-07-25 08:00:00)
+payoutRatio	1.0761
+fiveYearAvgDividendYield	6.6
+beta	0.438
+trailingPE	15.818966
+volume	97885
+regularMarketVolume	97885
+averageVolume	166393
+averageVolume10days	130486
+averageDailyVolume10Day	130486
+bid	36.65
+ask	36.7
+marketCap	5935711232
+fiftyTwoWeekLow	32.05
+fiftyTwoWeekHigh	37.35
+priceToSalesTrailing12Months	0.25673088
+fiftyDayAverage	35.671
+twoHundredDayAverage	34.0545
+trailingAnnualDividendRate	2.2
+trailingAnnualDividendYield	0.060109295
+currency	TWD
+enterpriseValue	7107076096
+profitMargins	0.016649999
+sharesOutstanding	161736000
+heldPercentInsiders	0.47675
+heldPercentInstitutions	0.01332
+impliedSharesOutstanding	162396000
+bookValue	18.815
+priceToBook	1.9505713
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.271
+netIncomeToCommon	384880000
+trailingEps	2.32
+lastSplitFactor	0.8:1
+lastSplitDate	1234137600	 (2009-02-09 08:00:00)
+enterpriseToRevenue	0.307
+enterpriseToEbitda	12.671
+52WeekChange	0.05611515
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1690243200	 (2023-07-25 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2414.TW
+underlyingSymbol	2414.TW
+shortName	UNITECH COMPUTER CO LTD
+longName	Unitech Computer Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	75530c2e-70b0-3a81-bfbc-f2a8af45c072
+messageBoardId	finmb_7405118
+gmtOffSetMilliseconds	28800000
+currentPrice	36.7
+recommendationKey	none
+totalCash	1005894016
+totalCashPerShare	6.219
+ebitda	560876992
+totalDebt	1081208960
+quickRatio	1.227
+currentRatio	1.688
+totalRevenue	23120363520
+debtToEquity	26.173
+revenuePerShare	142.951
+returnOnAssets	0.03492
+returnOnEquity	0.09882
+freeCashflow	1539410176
+operatingCashflow	1772305024
+earningsGrowth	0.273
+revenueGrowth	-0.115
+grossMargins	0.083129995
+ebitdaMargins	0.024260001
+operatingMargins	0.02332
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31       2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                   1800488.846145   -3897926.96273   -1378571.245197     -64459.103699
+Tax Rate For Calcs                                                  0.199522         0.199382          0.215234          0.197727
+Normalized EBITDA                                                640957000.0      842839000.0       850509000.0       582095000.0
+Total Unusual Items                                                9024000.0      -19550000.0        -6405000.0         -326000.0
+Total Unusual Items Excluding Goodwill                             9024000.0      -19550000.0        -6405000.0         -326000.0
+Net Income From Continuing Operation Net Minority Interest       384880000.0      498161000.0       556027000.0       364525000.0
+Reconciled Depreciation                                          108743000.0      105779000.0       102299000.0       103612000.0
+Reconciled Cost Of Revenue                                     21198401000.0    22981781000.0     21789924000.0     19830099000.0
+EBITDA                                                           649981000.0      823289000.0       844104000.0       581769000.0
+EBIT                                                             541238000.0      717510000.0       741805000.0       478157000.0
+Net Interest Income                                               -2590000.0      -21342000.0        -4969000.0       -10994000.0
+Interest Expense                                                  29666000.0       26712000.0         9503000.0        14741000.0
+Interest Income                                                   27076000.0        5370000.0         4534000.0         3747000.0
+Normalized Income                                           377656488.846145  513813073.03727  561053428.754803  364786540.896301
+Net Income From Continuing And Discontinued Operation            384880000.0      498161000.0       556027000.0       364525000.0
+Total Expenses                                                 22621640000.0    24358377000.0     23156864000.0     21093149000.0
+Diluted Average Shares                                           162696000.0      163093000.0       162990000.0       162974000.0
+Basic Average Shares                                             161736000.0      161736000.0       161736000.0       161736000.0
+Diluted EPS                                                             2.37             3.05              3.41              2.24
+Basic EPS                                                               2.38             3.08              3.44              2.25
+Diluted NI Availto Com Stockholders                              384880000.0      498161000.0       556027000.0       364525000.0
+Net Income Common Stockholders                                   384880000.0      498161000.0       556027000.0       364525000.0
+Otherunder Preferred Stock Dividend                                      0.0              0.0               0.0               0.0
+Net Income                                                       384880000.0      498161000.0       556027000.0       364525000.0
+Minority Interests                                               -24622000.0      -54904000.0       -18659000.0        -7261000.0
+Net Income Including Noncontrolling Interests                    409502000.0      553065000.0       574686000.0       371786000.0
+Net Income Continuous Operations                                 409502000.0      553065000.0       574686000.0       371786000.0
+Tax Provision                                                    102070000.0      137733000.0       157616000.0        91630000.0
+Pretax Income                                                    511572000.0      690798000.0       732302000.0       463416000.0
+Other Non Operating Income Expenses                                6415000.0       19509000.0          -20000.0        10412000.0
+Special Income Charges                                             9024000.0      -19550000.0        -6405000.0         -326000.0
+Write Off                                                         -9024000.0       19550000.0         6405000.0          326000.0
+Net Non Operating Interest Income Expense                         -2590000.0      -21342000.0        -4969000.0       -10994000.0
+Interest Expense Non Operating                                    29666000.0       26712000.0         9503000.0        14741000.0
+Interest Income Non Operating                                     27076000.0        5370000.0         4534000.0         3747000.0
+Operating Income                                                 498723000.0      712181000.0       743696000.0       464324000.0
+Operating Expense                                               1423239000.0     1376596000.0      1366940000.0      1263050000.0
+Research And Development                                         149718000.0      137650000.0       150618000.0       124840000.0
+Selling General And Administration                              1273521000.0     1238946000.0      1216322000.0      1138210000.0
+Selling And Marketing Expense                                    909020000.0      871280000.0       841827000.0       808346000.0
+General And Administrative Expense                               364501000.0      367666000.0       374495000.0       329864000.0
+Gross Profit                                                    1921962000.0     2088777000.0      2110636000.0      1727374000.0
+Cost Of Revenue                                                21198401000.0    22981781000.0     21789924000.0     19830099000.0
+Total Revenue                                                  23120363000.0    25070558000.0     23900560000.0     21557473000.0
+Operating Revenue                                              23120363000.0    25070558000.0     23900560000.0     21557473000.0

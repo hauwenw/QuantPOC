@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No. 51, 35th Road
+address2	Taichung Industrial Park
+city	Taichung
+country	Taiwan
+phone	886 4 2359 5511
+fax	886 4 2359 6275
+website	https://www.tahhsin.com.tw
+industry	Apparel Manufacturing
+industryKey	apparel-manufacturing
+industryDisp	Apparel Manufacturing
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Tahsin Industrial Corporation manufactures and trades rainwear, garments, furniture products, office equipment, and corrugated boards in Taiwan. The company offers raincoats for motorcyclists, police, children, fishing, mountaineering, sports, sailing, golf, etc.; garments, such as sports casual clothes, wardrobes, bags, winter and summer student clothes, work clothes for primary and secondary schools, and group employee uniforms, as well as suits, sports suits, windbreaker jackets, and casual wear; and rain shoe products for markets, factories, students, office workers, mountaineers, etc. It provides PP corrugated board products that are used in display boards, stationery, recycling bins, packaging containers, moisture-proof bottom panel, and epidemic prevention partition. The company also provides office equipment, including punching and binding machines, and laminators. In addition, it offers TC garments, leather goods, handbags, file folders, plastic film, and carrier bags. The company also exports its products. The company was formerly known as Tah Hsin Plastics Co., Ltd. and changed its name to Tah Hsin Industrial Corporation in 1970. Tahsin Industrial Corporation was incorporated in 1958 and is headquartered in Taichung, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Zi-Cong  Wu', 'age': 70, 'title': 'Chairman of the Board & GM', 'yearBorn': 1953, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Ken-Min  Lai', 'title': 'VP, Financial Officer, CFO & Chief Accountant', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chun-Jia  Huang', 'title': 'Chief Executive Officer of Overseas Affiliated Business', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bor-Chon  Hu', 'age': 63, 'title': 'CEO of Factory Affairs & Director', 'yearBorn': 1960, 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	71.0
+open	71.0
+dayLow	71.0
+dayHigh	71.6
+regularMarketPreviousClose	71.0
+regularMarketOpen	71.0
+regularMarketDayLow	71.0
+regularMarketDayHigh	71.6
+dividendRate	5.0
+dividendYield	0.070199996
+exDividendDate	1712793600	 (2024-04-11 08:00:00)
+payoutRatio	1.6392999
+fiveYearAvgDividendYield	8.58
+beta	0.314
+trailingPE	19.45355
+volume	37629
+regularMarketVolume	37629
+averageVolume	30345
+averageVolume10days	21846
+averageDailyVolume10Day	21846
+bid	71.1
+ask	71.3
+marketCap	6801522176
+fiftyTwoWeekLow	69.9
+fiftyTwoWeekHigh	73.9
+priceToSalesTrailing12Months	3.1529503
+fiftyDayAverage	71.858
+twoHundredDayAverage	71.681
+trailingAnnualDividendRate	5.0
+trailingAnnualDividendYield	0.07042254
+currency	TWD
+enterpriseValue	538945408
+profitMargins	0.16197
+floatShares	55588117
+sharesOutstanding	95527000
+heldPercentInsiders	0.48393002
+heldPercentInstitutions	0.01001
+impliedSharesOutstanding	95527000
+bookValue	110.905
+priceToBook	0.6419909
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	349399008
+trailingEps	3.66
+lastSplitFactor	715:1000
+lastSplitDate	1639008000	 (2021-12-09 08:00:00)
+enterpriseToRevenue	0.25
+enterpriseToEbitda	5.863
+52WeekChange	0.015691876
+SandP52WeekChange	0.26265144
+lastDividendValue	2.5
+lastDividendDate	1712793600	 (2024-04-11 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1315.TW
+underlyingSymbol	1315.TW
+shortName	TAHHSIN INDUSTRIAL CORP
+longName	Tahsin Industrial Corporation
+firstTradeDateEpochUtc	1127955600	 (2005-09-29 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	fbff0d41-8386-3483-bfb2-aff6b8df1767
+messageBoardId	finmb_9805440
+gmtOffSetMilliseconds	28800000
+currentPrice	71.2
+recommendationKey	none
+totalCash	6494962176
+totalCashPerShare	67.991
+ebitda	91929000
+totalDebt	203655008
+quickRatio	14.887
+currentRatio	16.339
+totalRevenue	2157192960
+debtToEquity	1.917
+revenuePerShare	22.582
+returnOnAssets	0.00078
+returnOnEquity	0.03297
+freeCashflow	140743008
+operatingCashflow	540537024
+revenueGrowth	-0.246
+grossMargins	0.1633
+ebitdaMargins	0.04262
+operatingMargins	-0.05432
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                  2023-12-31        2022-12-31    2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    423116.294375    -427163.121469      756200.0  487343884.034414
+Tax Rate For Calcs                                                  0.046815          0.095992           0.2          0.084771
+Normalized EBITDA                                                447126000.0       860247000.0   336850000.0       244674000.0
+Total Unusual Items                                                9038000.0        -4450000.0     3781000.0      5748924000.0
+Total Unusual Items Excluding Goodwill                             9038000.0        -4450000.0     3781000.0      5748924000.0
+Net Income From Continuing Operation Net Minority Interest       349399000.0       708174000.0     5361000.0      5429260000.0
+Reconciled Depreciation                                           86228000.0        66710000.0    58010000.0        56820000.0
+Reconciled Cost Of Revenue                                      1804934000.0      2164045000.0  2012513000.0      1851340000.0
+EBITDA                                                           456164000.0       855797000.0   340631000.0      5993598000.0
+EBIT                                                             369936000.0       789087000.0   282621000.0      5936778000.0
+Net Interest Income                                               79848000.0        31226000.0    18685000.0        17865000.0
+Interest Expense                                                   2214000.0         2342000.0     1907000.0         3604000.0
+Interest Income                                                   82062000.0        33568000.0    20592000.0        21469000.0
+Normalized Income                                           340784116.294375  712196836.878531     2336200.0  167679884.034414
+Net Income From Continuing And Discontinued Operation            349399000.0       708174000.0     5361000.0      5429260000.0
+Total Expenses                                                  2147047000.0      2497746000.0  2369926000.0      2193288000.0
+Diluted Average Shares                                                   NaN        95588000.0   124000000.0       121747000.0
+Basic Average Shares                                                     NaN        95527000.0   123902000.0       121437000.0
+Diluted EPS                                                              NaN              7.41          0.04             31.89
+Basic EPS                                                                NaN              7.41          0.04             31.97
+Diluted NI Availto Com Stockholders                              349399000.0       708174000.0     5361000.0      5429260000.0
+Net Income Common Stockholders                                   349399000.0       708174000.0     5361000.0      5429260000.0
+Otherunder Preferred Stock Dividend                                      0.0               0.0           0.0               0.0
+Net Income                                                       349399000.0       708174000.0     5361000.0      5429260000.0
+Minority Interests                                                -1108000.0        -3050000.0    -1071000.0         -951000.0
+Net Income Including Noncontrolling Interests                    350507000.0       711224000.0     6432000.0      5430211000.0
+Net Income Continuous Operations                                 350507000.0       711224000.0     6432000.0      5430211000.0
+Tax Provision                                                     17215000.0        75521000.0   274282000.0       502963000.0
+Pretax Income                                                    367722000.0       786745000.0   280714000.0      5933174000.0
+Other Non Operating Income Expenses                               40651000.0        39950000.0    33702000.0       -18381000.0
+Special Income Charges                                             4647000.0         -476000.0     3757000.0      5748974000.0
+Other Special Charges                                              -451000.0         -705000.0     -457000.0     -5756648000.0
+Write Off                                                         -4196000.0         1181000.0    -3300000.0         7674000.0
+Impairment Of Capital Assets                                             NaN               NaN           NaN               0.0
+Net Non Operating Interest Income Expense                         79848000.0        31226000.0    18685000.0        17865000.0
+Interest Expense Non Operating                                     2214000.0         2342000.0     1907000.0         3604000.0
+Interest Income Non Operating                                     82062000.0        33568000.0    20592000.0        21469000.0
+Operating Income                                                  10146000.0       171614000.0     8974000.0        40252000.0
+Operating Expense                                                342113000.0       333701000.0   357413000.0       341948000.0
+Selling General And Administration                               342113000.0       333701000.0   357413000.0       341948000.0
+Selling And Marketing Expense                                    112875000.0       108441000.0   113369000.0       108251000.0
+General And Administrative Expense                               229238000.0       225260000.0   244044000.0       233697000.0
+Gross Profit                                                     352259000.0       505315000.0   366387000.0       382200000.0
+Cost Of Revenue                                                 1804934000.0      2164045000.0  2012513000.0      1851340000.0
+Total Revenue                                                   2157193000.0      2669360000.0  2378900000.0      2233540000.0
+Operating Revenue                                               2157193000.0      2669360000.0  2378900000.0      2233540000.0

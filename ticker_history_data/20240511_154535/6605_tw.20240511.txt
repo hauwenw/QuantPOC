@@ -1,0 +1,156 @@
+=== Ticker Info ===
+address1	No.100, Roosevelt Road
+address2	22nd Floor Section 2 Zhongzheng District
+city	Taipei
+zip	10084
+country	Taiwan
+phone	886 2 2363 5566
+fax	886 2 2363 1378
+website	https://www.depoautolamp.com
+industry	Auto Parts
+industryKey	auto-parts
+industryDisp	Auto Parts
+sector	Consumer Cyclical
+sectorKey	consumer-cyclical
+sectorDisp	Consumer Cyclical
+longBusinessSummary	Depo Auto Parts Industrial Co., Ltd. manufactures and sells automotive and other related lighting products. The company engages in the manufacturing and trading of automobile and scooter parts; processing, production, sale, and export of various automobile and scooter lamps, light bulbs, plastic automobile parts, car lights, signal lights, and other parts and components of vehicles; and research and development, production, and sales of automobile, motorcycle, and automobile lamp accessories, as well as automobile cluster meters and automobile electronic devices. It is also involved in the exporting activities. The company was formerly known as Ming Yang Corp. and changed its name to Depo Auto Parts Industrial Co., Ltd. in August 2002. Depo Auto Parts Industrial Co., Ltd. was founded in 1977 and is headquartered in Taipei, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Shiu-Min  Hsu', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Rui Hua  Lai', 'title': 'President and Director', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Li Feng Lu', 'title': 'Head of the Finance Department and Finance Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Xiu Mei Zhang', 'title': 'Head of Accounting Department and Accounting Manager', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yuen Long  Hu', 'title': 'Vice President of Sales Department', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	216.0
+open	218.5
+dayLow	202.5
+dayHigh	218.5
+regularMarketPreviousClose	216.0
+regularMarketOpen	218.5
+regularMarketDayLow	202.5
+regularMarketDayHigh	218.5
+dividendRate	5.0
+dividendYield	0.024600001
+exDividendDate	1689120000	 (2023-07-12 08:00:00)
+payoutRatio	0.35509998
+fiveYearAvgDividendYield	3.27
+beta	0.648
+trailingPE	14.453125
+volume	4356922
+regularMarketVolume	4356922
+averageVolume	1892763
+averageVolume10days	1455435
+averageDailyVolume10Day	1455435
+bid	203.5
+ask	204.0
+marketCap	33743556608
+fiftyTwoWeekLow	94.5
+fiftyTwoWeekHigh	236.5
+priceToSalesTrailing12Months	1.8187563
+fiftyDayAverage	194.72
+twoHundredDayAverage	151.995
+trailingAnnualDividendRate	6.5
+trailingAnnualDividendYield	0.030092593
+currency	TWD
+enterpriseValue	38095093760
+profitMargins	0.12769
+floatShares	92038049
+sharesOutstanding	165816000
+heldPercentInsiders	0.43591
+heldPercentInstitutions	0.08505999
+impliedSharesOutstanding	167092000
+bookValue	102.557
+priceToBook	1.9842625
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+earningsQuarterlyGrowth	0.841
+netIncomeToCommon	2368990976
+trailingEps	14.08
+lastSplitFactor	105:100
+lastSplitDate	1156982400	 (2006-08-31 08:00:00)
+enterpriseToRevenue	2.053
+enterpriseToEbitda	7.311
+52WeekChange	1.1066253
+SandP52WeekChange	0.26265144
+lastDividendValue	5.0
+lastDividendDate	1689120000	 (2023-07-12 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	6605.TW
+underlyingSymbol	6605.TW
+shortName	DEPO AUTO PARTS IND
+longName	Depo Auto Parts Industrial Co., Ltd.
+firstTradeDateEpochUtc	1079485200	 (2004-03-17 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0fc4d5ea-6513-3d91-af59-f4b6bfc50d80
+messageBoardId	finmb_9857989
+gmtOffSetMilliseconds	28800000
+currentPrice	203.5
+recommendationKey	none
+totalCash	3950685952
+totalCashPerShare	23.826
+ebitda	5210933760
+totalDebt	7823887872
+quickRatio	0.996
+currentRatio	1.711
+totalRevenue	18553094144
+debtToEquity	44.749
+revenuePerShare	111.89
+returnOnAssets	0.05495
+returnOnEquity	0.14033
+freeCashflow	4028509696
+operatingCashflow	5002761216
+earningsGrowth	0.861
+revenueGrowth	0.111
+grossMargins	0.31733
+ebitdaMargins	0.28087
+operatingMargins	0.16162
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                                 2023-12-31         2022-12-31         2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                   -2275804.7289    -9205997.594698    16406121.195493            0.0
+Tax Rate For Calcs                                                 0.268057           0.243667           0.211498       0.286945
+Normalized EBITDA                                              6174307000.0       5339251000.0       4293309000.0   3861638000.0
+Total Unusual Items                                              -8490000.0        -37781000.0         77571000.0            NaN
+Total Unusual Items Excluding Goodwill                           -8490000.0        -37781000.0         77571000.0            NaN
+Net Income From Continuing Operation Net Minority Interest     2368991000.0       1800307000.0       1135836000.0    590450000.0
+Reconciled Depreciation                                        2494768000.0       2619180000.0       2727443000.0   2786713000.0
+Reconciled Cost Of Revenue                                    12665679000.0      12084604000.0      11705764000.0  10806384000.0
+EBITDA                                                         6165817000.0       5301470000.0       4370880000.0   3861638000.0
+EBIT                                                           3671049000.0       2682290000.0       1643437000.0   1074925000.0
+Net Interest Income                                            -417188000.0       -263092000.0       -201098000.0   -289740000.0
+Interest Expense                                                464553000.0        288412000.0        207377000.0    301072000.0
+Interest Income                                                  47365000.0         25320000.0          6279000.0     11332000.0
+Normalized Income                                           2375205195.2711  1828882002.405302  1074671121.195493    590450000.0
+Net Income From Continuing And Discontinued Operation          2368991000.0       1800307000.0       1135836000.0    590450000.0
+Total Expenses                                                15613898000.0      14971012000.0      14482432000.0  13232945000.0
+Diluted Average Shares                                                  NaN        169344000.0        169344000.0    167044000.0
+Basic Average Shares                                                    NaN        165816000.0        165816000.0    165816000.0
+Diluted EPS                                                             NaN              10.63               6.76           3.53
+Basic EPS                                                               NaN              10.86               6.85           3.56
+Diluted NI Availto Com Stockholders                            2368991000.0       1800307000.0       1135836000.0    590450000.0
+Net Income Common Stockholders                                 2368991000.0       1800307000.0       1135836000.0    590450000.0
+Otherunder Preferred Stock Dividend                                     0.0                0.0                0.0            0.0
+Net Income                                                     2368991000.0       1800307000.0       1135836000.0    590450000.0
+Minority Interests                                               22019000.0        -10261000.0          3500000.0     38650000.0
+Net Income Including Noncontrolling Interests                  2346972000.0       1810568000.0       1132336000.0    551800000.0
+Net Income Continuous Operations                               2346972000.0       1810568000.0       1132336000.0    551800000.0
+Tax Provision                                                   859524000.0        583310000.0        303724000.0    222053000.0
+Pretax Income                                                  3206496000.0       2393878000.0       1436060000.0    773853000.0
+Other Non Operating Income Expenses                             692978000.0        493015000.0        -89045000.0     36385000.0
+Special Income Charges                                           -8490000.0        -37781000.0         77571000.0            NaN
+Write Off                                                         8490000.0         37781000.0        -77571000.0            NaN
+Net Non Operating Interest Income Expense                      -417188000.0       -263092000.0       -201098000.0   -289740000.0
+Interest Expense Non Operating                                  464553000.0        288412000.0        207377000.0    301072000.0
+Interest Income Non Operating                                    47365000.0         25320000.0          6279000.0     11332000.0
+Operating Income                                               2939196000.0       2201736000.0       1648632000.0   1027208000.0
+Operating Expense                                              2948219000.0       2886408000.0       2776668000.0   2426561000.0
+Other Operating Expenses                                                NaN                NaN                NaN    -83173000.0
+Research And Development                                        789290000.0        801839000.0        785783000.0    735152000.0
+Selling General And Administration                             2158929000.0       2084569000.0       1990885000.0   1774582000.0
+Selling And Marketing Expense                                  1078049000.0       1046007000.0       1062289000.0    825063000.0
+General And Administrative Expense                             1080880000.0       1038562000.0        928596000.0    949519000.0
+Gross Profit                                                   5887415000.0       5088144000.0       4425300000.0   3453769000.0
+Cost Of Revenue                                               12665679000.0      12084604000.0      11705764000.0  10806384000.0
+Total Revenue                                                 18553094000.0      17172748000.0      16131064000.0  14260153000.0
+Operating Revenue                                             18553094000.0      17172748000.0      16131064000.0  14260153000.0

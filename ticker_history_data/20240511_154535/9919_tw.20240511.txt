@@ -1,0 +1,154 @@
+=== Ticker Info ===
+address1	No.77-1, Tonganliao
+address2	Minan Village Jiali District
+city	Tainan City
+zip	722009
+country	Taiwan
+phone	886 6 722 2173
+fax	886 6 722 2495
+website	https://www.knh.com.tw
+industry	Household & Personal Products
+industryKey	household-personal-products
+industryDisp	Household & Personal Products
+sector	Consumer Defensive
+sectorKey	consumer-defensive
+sectorDisp	Consumer Defensive
+longBusinessSummary	KNH Enterprise Co., Ltd. manufactures and sells household and hygiene goods, non-woven fabric products, and machinery equipment in Taiwan, China, Hong Kong, Australia, Korea, the United Kingdom, and internationally. Its personal care products include feminine care products; wet wipes, including canister wipes, boxed wipes, refilled packs, travel packs, sachet packs, and towelettes; skincare products, such as facial puffs, beauty masks, and makeup removers; baby diapers; and incontinent care products. Its nonwoven products consist of air through, calender bond, air laid, spunlace, melt blown nonwoven products. The company also offers air filtration devices, and wastewater treatment and water purification solutions for industrial and municipal sectors. KNH Enterprise Co., Ltd. was founded in 1969 and is headquartered in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Ms. Hsiu-Ling  Tai', 'title': 'President, GM & Director', 'fiscalYear': 2019, 'totalPay': 3038000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Jeng-Rong  Wu', 'title': 'VP of Group Administration, Financial Officer & Corporate Governance Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ting-Fu  Lai', 'title': 'Accounting Director', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Hsiu-Ching  Tai', 'title': 'GM of Business Division & Director', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Chien-Chung  Su', 'title': 'Assistant Vice President', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1577750400
+maxAge	86400
+priceHint	2
+previousClose	22.3
+open	22.5
+dayLow	21.9
+dayHigh	22.5
+regularMarketPreviousClose	22.3
+regularMarketOpen	22.5
+regularMarketDayLow	21.9
+regularMarketDayHigh	22.5
+dividendRate	0.15
+dividendYield	0.0068
+exDividendDate	1689724800	 (2023-07-19 08:00:00)
+payoutRatio	0.044499997
+fiveYearAvgDividendYield	3.33
+beta	0.603
+trailingPE	6.4985166
+volume	3123627
+regularMarketVolume	3123627
+averageVolume	2554808
+averageVolume10days	4052630
+averageDailyVolume10Day	4052630
+bid	21.9
+ask	21.95
+marketCap	4278449920
+fiftyTwoWeekLow	16.6
+fiftyTwoWeekHigh	34.5
+priceToSalesTrailing12Months	1.456119
+fiftyDayAverage	22.189
+twoHundredDayAverage	22.28725
+trailingAnnualDividendRate	0.3
+trailingAnnualDividendYield	0.0134529155
+currency	TWD
+enterpriseValue	5313161728
+profitMargins	0.22418
+floatShares	141948802
+sharesOutstanding	195363008
+heldPercentInsiders	0.34208
+heldPercentInstitutions	0.01165
+impliedSharesOutstanding	195808000
+bookValue	15.011
+priceToBook	1.4589301
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	658684992
+trailingEps	3.37
+lastSplitFactor	1.01:1
+lastSplitDate	1248048000	 (2009-07-20 08:00:00)
+enterpriseToRevenue	1.808
+enterpriseToEbitda	-17.224
+52WeekChange	0.2478633
+SandP52WeekChange	0.26265144
+lastDividendValue	0.15
+lastDividendDate	1689724800	 (2023-07-19 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	9919.TW
+underlyingSymbol	9919.TW
+shortName	KNH ENTERPRISE CO LTD
+longName	KNH Enterprise Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	e979e308-bb8f-373e-bdd3-5576ba14e4af
+messageBoardId	finmb_9844373
+gmtOffSetMilliseconds	28800000
+currentPrice	21.9
+recommendationKey	none
+totalCash	2623677952
+totalCashPerShare	13.43
+ebitda	-308476000
+totalDebt	3658390016
+quickRatio	2.064
+currentRatio	2.539
+totalRevenue	2938255872
+debtToEquity	124.746
+revenuePerShare	15.04
+returnOnAssets	-0.041360002
+returnOnEquity	0.24899
+freeCashflow	193387008
+operatingCashflow	-92707000
+revenueGrowth	-0.186
+grossMargins	0.042919997
+ebitdaMargins	-0.10499
+operatingMargins	-0.22186
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31        2022-12-31       2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                     729600.0     -22351.013098   -456536.751069     -56582.859581
+Tax Rate For Calcs                                                   0.2          0.020172         0.384614           0.16941
+Normalized EBITDA                                           1411898000.0        52039000.0      487193000.0      1352898000.0
+Total Unusual Items                                            3648000.0        -1108000.0       -1187000.0         -334000.0
+Total Unusual Items Excluding Goodwill                         3648000.0        -1108000.0       -1187000.0         -334000.0
+Net Income From Continuing Operation Net Minority Interest   658685000.0      -262584000.0       98551000.0       879968000.0
+Reconciled Depreciation                                      182497000.0       281916000.0      287751000.0       243323000.0
+Reconciled Cost Of Revenue                                  2812133000.0      3042428000.0     3227188000.0      3584364000.0
+EBITDA                                                      1415546000.0        50931000.0      486006000.0      1352564000.0
+EBIT                                                        1233049000.0      -230985000.0      198255000.0      1109241000.0
+Net Interest Income                                          -39551000.0       -32912000.0      -34698000.0       -46891000.0
+Interest Expense                                              55179000.0        37005000.0       38110000.0        49792000.0
+Interest Income                                               15628000.0         4093000.0        3412000.0         2901000.0
+Normalized Income                                            655766600.0 -261498351.013098  99281463.248931  880245417.140419
+Net Income From Continuing And Discontinued Operation        658685000.0      -262584000.0       98551000.0       879968000.0
+Total Expenses                                              3427589000.0      3646518000.0     3873046000.0      4247234000.0
+Diluted Average Shares                                               NaN       195363000.0      195486000.0       195828000.0
+Basic Average Shares                                                 NaN       195363000.0      195363000.0       195363000.0
+Diluted EPS                                                          NaN             -1.34              0.5              4.49
+Basic EPS                                                            NaN             -1.34              0.5               4.5
+Diluted NI Availto Com Stockholders                          658685000.0      -262584000.0       98551000.0       879968000.0
+Net Income Common Stockholders                               658685000.0      -262584000.0       98551000.0       879968000.0
+Otherunder Preferred Stock Dividend                                  0.0               0.0              0.0               0.0
+Net Income                                                   658685000.0      -262584000.0       98551000.0       879968000.0
+Minority Interests                                                   NaN               NaN              NaN               0.0
+Net Income Including Noncontrolling Interests                658685000.0      -262584000.0       98551000.0       879968000.0
+Net Income Continuous Operations                             658685000.0      -262584000.0       98551000.0       879968000.0
+Tax Provision                                                519185000.0        -5406000.0       61594000.0       179481000.0
+Pretax Income                                               1177870000.0      -267990000.0      160145000.0      1059449000.0
+Other Non Operating Income Expenses                         1703106000.0        60645000.0       41647000.0       267575000.0
+Special Income Charges                                         3648000.0        -1108000.0       -1187000.0         -334000.0
+Write Off                                                     -3648000.0         1108000.0        1187000.0          334000.0
+Net Non Operating Interest Income Expense                    -39551000.0       -32912000.0      -34698000.0       -46891000.0
+Interest Expense Non Operating                                55179000.0        37005000.0       38110000.0        49792000.0
+Interest Income Non Operating                                 15628000.0         4093000.0        3412000.0         2901000.0
+Operating Income                                            -489333000.0      -294615000.0      155302000.0       839528000.0
+Operating Expense                                            615456000.0       604090000.0      645858000.0       662870000.0
+Research And Development                                      45331000.0        36269000.0       49469000.0        50176000.0
+Selling General And Administration                           570125000.0       567821000.0      596389000.0       612694000.0
+Selling And Marketing Expense                                365635000.0       373621000.0      392081000.0       359562000.0
+General And Administrative Expense                           204490000.0       194200000.0      204308000.0       253132000.0
+Gross Profit                                                 126123000.0       309475000.0      801160000.0      1502398000.0
+Cost Of Revenue                                             2812133000.0      3042428000.0     3227188000.0      3584364000.0
+Total Revenue                                               2938256000.0      3351903000.0     4028348000.0      5086762000.0
+Operating Revenue                                           2938256000.0      3351903000.0     4028348000.0      5086762000.0

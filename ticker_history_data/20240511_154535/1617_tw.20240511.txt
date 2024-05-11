@@ -1,0 +1,151 @@
+=== Ticker Info ===
+address1	No. 231, Chung Cheng Road
+address2	Sec. 3 Jen-teh District
+city	Tainan City
+zip	71757
+country	Taiwan
+phone	886 6 270 5211
+fax	886 6 270 4537
+website	https://www.jswire.com.tw
+industry	Electronics & Computer Distribution
+industryKey	electronics-computer-distribution
+industryDisp	Electronics & Computer Distribution
+sector	Technology
+sectorKey	technology
+sectorDisp	Technology
+longBusinessSummary	Jung Shing Wire Co., Ltd. manufactures and sells magnet wires in Taiwan. The company offers general magnet wires for motors, transformers, generators, telecommunication, mobiles, auto-controlling, in-house products, electronic apparatus, and aerospace and aviation related equipment; self-bonding magnet wires; and special magnet wires, including ribbon wires, parallel-laid multi-wires, copper-clad aluminum wires, aluminum wires, litz wires, high-tension magnet wires, silver magnet wires, silver- plate magnet wires, and surge resistance magnet wires. Its products are used in motors, coils, and transformers. The company was founded in 1971 and is based in Tainan City, Taiwan.
+companyOfficers	[{'maxAge': 1, 'name': 'Shouji  Qiu', 'title': 'General Manager', 'exercisedValue': 0, 'unexercisedValue': 0}]
+maxAge	86400
+priceHint	2
+previousClose	24.05
+open	23.8
+dayLow	23.7
+dayHigh	24.9
+regularMarketPreviousClose	24.05
+regularMarketOpen	23.8
+regularMarketDayLow	23.7
+regularMarketDayHigh	24.9
+dividendRate	0.3
+dividendYield	0.012200001
+exDividendDate	1690416000	 (2023-07-27 08:00:00)
+payoutRatio	3.3332
+fiveYearAvgDividendYield	4.2
+beta	0.485
+trailingPE	273.3333
+volume	1469465
+regularMarketVolume	1469465
+averageVolume	2801489
+averageVolume10days	2204080
+averageDailyVolume10Day	2204080
+bid	24.4
+ask	24.65
+marketCap	3881830912
+fiftyTwoWeekLow	15.05
+fiftyTwoWeekHigh	32.8
+priceToSalesTrailing12Months	1.3730842
+fiftyDayAverage	20.295
+twoHundredDayAverage	17.39025
+currency	TWD
+enterpriseValue	3799507968
+profitMargins	0.00519
+sharesOutstanding	157798000
+heldPercentInsiders	0.6946
+impliedSharesOutstanding	160132992
+bookValue	12.935
+priceToBook	1.9018167
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	14682000
+trailingEps	0.09
+lastSplitFactor	101:100
+lastSplitDate	1218672000	 (2008-08-14 08:00:00)
+enterpriseToRevenue	1.344
+enterpriseToEbitda	44.048
+52WeekChange	0.60784316
+SandP52WeekChange	0.26265144
+lastDividendValue	0.299989
+lastDividendDate	1690416000	 (2023-07-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	1617.TW
+underlyingSymbol	1617.TW
+shortName	JUNG SHING WIRE CO
+longName	Jung Shing Wire Co., Ltd.
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	6f2f1f04-f5a6-316b-bdad-f6e803904064
+messageBoardId	finmb_11460977
+gmtOffSetMilliseconds	28800000
+currentPrice	24.6
+recommendationKey	none
+totalCash	1005033024
+totalCashPerShare	6.369
+ebitda	86259000
+totalDebt	911478976
+quickRatio	1.846
+currentRatio	2.225
+totalRevenue	2827088896
+debtToEquity	44.413
+revenuePerShare	17.921
+returnOnAssets	-0.00495
+returnOnEquity	0.00104
+freeCashflow	71068000
+operatingCashflow	152187008
+revenueGrowth	-0.15
+grossMargins	0.0799
+ebitdaMargins	0.03051
+operatingMargins	-0.01507
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                              2023-12-31      2022-12-31        2021-12-31        2020-12-31
+Tax Effect Of Unusual Items                                    3964800.0    956195.21758     262953.996346     833316.566112
+Tax Rate For Calcs                                                   0.2        0.369901          0.191239          0.182106
+Normalized EBITDA                                            119771000.0     179028000.0       347966000.0       254519000.0
+Total Unusual Items                                           19824000.0       2585000.0         1375000.0         4576000.0
+Total Unusual Items Excluding Goodwill                        19824000.0       2585000.0         1375000.0         4576000.0
+Net Income From Continuing Operation Net Minority Interest    14682000.0      50510000.0       209742000.0       146672000.0
+Reconciled Depreciation                                      114402000.0     104975000.0        84774000.0        73172000.0
+Reconciled Cost Of Revenue                                  2601218000.0    3329477000.0      4063671000.0      2554234000.0
+EBITDA                                                       139595000.0     181613000.0       349341000.0       259095000.0
+EBIT                                                          25193000.0      76638000.0       264567000.0       185923000.0
+Net Interest Income                                             586000.0      -9169000.0        -8136000.0        -4681000.0
+Interest Expense                                              15110000.0      12110000.0        10022000.0         7082000.0
+Interest Income                                               15696000.0       2941000.0         1886000.0         2401000.0
+Normalized Income                                             -1177200.0  48881195.21758  208629953.996346  142929316.566112
+Net Income From Continuing And Discontinued Operation         14682000.0      50510000.0       209742000.0       146672000.0
+Total Expenses                                              2852568000.0    3619852000.0      4350766000.0      2791043000.0
+Diluted Average Shares                                               NaN     152188000.0       146033000.0       146012973.0
+Basic Average Shares                                                 NaN     152148000.0       145916000.0       145915853.0
+Diluted EPS                                                          NaN            0.33              1.45          1.008236
+Basic EPS                                                            NaN            0.33              1.45          1.008236
+Diluted NI Availto Com Stockholders                           14682000.0      50510000.0       209742000.0       146672000.0
+Net Income Common Stockholders                                14682000.0      50510000.0       209742000.0       146672000.0
+Otherunder Preferred Stock Dividend                                  0.0             0.0               0.0               0.0
+Net Income                                                    14682000.0      50510000.0       209742000.0       146672000.0
+Minority Interests                                            12513000.0       9851000.0         3876000.0          399000.0
+Net Income Including Noncontrolling Interests                  2169000.0      40659000.0       205866000.0       146273000.0
+Net Income Continuous Operations                               2169000.0      40659000.0       205866000.0       146273000.0
+Tax Provision                                                  7914000.0      23869000.0        48679000.0        32568000.0
+Pretax Income                                                 10083000.0      64528000.0       254545000.0       178841000.0
+Other Non Operating Income Expenses                            5885000.0      20423000.0        15595000.0        18642000.0
+Special Income Charges                                         -407000.0      -4098000.0         1013000.0           88000.0
+Other Special Charges                                           -12000.0         -7000.0         -522000.0            1000.0
+Write Off                                                       419000.0       4105000.0         -491000.0          -89000.0
+Impairment Of Capital Assets                                         0.0             0.0               0.0               0.0
+Net Non Operating Interest Income Expense                       586000.0      -9169000.0        -8136000.0        -4681000.0
+Interest Expense Non Operating                                15110000.0      12110000.0        10022000.0         7082000.0
+Interest Income Non Operating                                 15696000.0       2941000.0         1886000.0         2401000.0
+Operating Income                                             -25479000.0     -38474000.0       268868000.0       193240000.0
+Operating Expense                                            251350000.0     290375000.0       287095000.0       236809000.0
+Research And Development                                      17159000.0      18726000.0        17671000.0        10206000.0
+Selling General And Administration                           234191000.0     271649000.0       269424000.0       226603000.0
+Selling And Marketing Expense                                 45134000.0      48353000.0        50872000.0        41953000.0
+General And Administrative Expense                           189057000.0     223296000.0       218552000.0       184650000.0
+Gross Profit                                                 225871000.0     251901000.0       555963000.0       430049000.0
+Cost Of Revenue                                             2601218000.0    3329477000.0      4063671000.0      2554234000.0
+Total Revenue                                               2827089000.0    3581378000.0      4619634000.0      2984283000.0
+Operating Revenue                                           2827089000.0    3581378000.0      4619634000.0      2984283000.0

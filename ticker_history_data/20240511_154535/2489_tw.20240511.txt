@@ -1,0 +1,153 @@
+=== Ticker Info ===
+address1	No.268, Liancheng Road
+address2	17th Floor Jhonghe
+city	New Taipei City
+zip	235
+country	Taiwan
+phone	886 2 8228 0505
+fax	886 2 8228 0599
+website	https://www.amtran.com.tw
+industry	Electrical Equipment & Parts
+industryKey	electrical-equipment-parts
+industryDisp	Electrical Equipment & Parts
+sector	Industrials
+sectorKey	industrials
+sectorDisp	Industrials
+longBusinessSummary	AmTRAN Technology Co.,Ltd engages in the design, manufacture, and sale of monitors, digital TV, computers, and computer peripherals in Taiwan and internationally. The company offers mini-LEDs; televisions; public displays; sound bars and speakers; collaboration bars and boards; VR and robots; monitors; mouses; and webcams. It also sells computer software and hardware; and provides maintenance, general investment and trading, venture capital, logistics, and after sales services. The company was incorporated in 1994 and is based in New Taipei City, Taiwan.
+fullTimeEmployees	3627
+companyOfficers	[{'maxAge': 1, 'name': 'Mr. Chun-Fa  Wu', 'title': 'Chairman & CEO', 'fiscalYear': 2021, 'totalPay': 11463000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xu-Xuan  Wu', 'title': 'President & Director', 'fiscalYear': 2021, 'totalPay': 9455000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Yu-Ping  Chiu', 'title': 'CFO, Senior VP, Senior Deputy GM, Accounting Supervisor & Corporate Governance Officer', 'fiscalYear': 2021, 'totalPay': 4726000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Zhi-Hong  Shi', 'title': 'Chief Legal Officer', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Chih-Hung  Hsieh', 'title': 'Vice President', 'fiscalYear': 2021, 'exercisedValue': 0, 'unexercisedValue': 0}]
+compensationAsOfEpochDate	1640908800
+maxAge	86400
+priceHint	2
+previousClose	15.6
+open	16.15
+dayLow	15.6
+dayHigh	16.2
+regularMarketPreviousClose	15.6
+regularMarketOpen	16.15
+regularMarketDayLow	15.6
+regularMarketDayHigh	16.2
+dividendRate	0.51
+dividendYield	0.0326
+exDividendDate	1695772800	 (2023-09-27 08:00:00)
+payoutRatio	0.78699994
+fiveYearAvgDividendYield	6.6
+beta	0.933
+trailingPE	24.153847
+forwardPE	157.0
+volume	11139301
+regularMarketVolume	11139301
+averageVolume	7490970
+averageVolume10days	5985293
+averageDailyVolume10Day	5985293
+bid	15.7
+ask	15.75
+marketCap	11619569664
+fiftyTwoWeekLow	11.25
+fiftyTwoWeekHigh	17.4
+priceToSalesTrailing12Months	0.7006589
+fiftyDayAverage	14.597
+twoHundredDayAverage	13.337226
+trailingAnnualDividendRate	0.54
+trailingAnnualDividendYield	0.034615386
+currency	TWD
+enterpriseValue	2610191104
+profitMargins	0.0269
+floatShares	619818948
+sharesOutstanding	740099968
+heldPercentInsiders	0.15777999
+heldPercentInstitutions	0.062470004
+impliedSharesOutstanding	747452032
+bookValue	17.992
+priceToBook	0.87261003
+lastFiscalYearEnd	1703980800	 (2023-12-31 08:00:00)
+nextFiscalYearEnd	1735603200	 (2024-12-31 08:00:00)
+mostRecentQuarter	1703980800	 (2023-12-31 08:00:00)
+netIncomeToCommon	446155008
+trailingEps	0.65
+forwardEps	0.1
+lastSplitFactor	948.8461:1000
+lastSplitDate	1695772800	 (2023-09-27 08:00:00)
+enterpriseToRevenue	0.157
+enterpriseToEbitda	7.892
+52WeekChange	0.25183904
+SandP52WeekChange	0.26265144
+lastDividendValue	0.511538
+lastDividendDate	1695772800	 (2023-09-27 08:00:00)
+exchange	TAI
+quoteType	EQUITY
+symbol	2489.TW
+underlyingSymbol	2489.TW
+shortName	AMTRAN TECHNOLOGY
+longName	AmTRAN Technology Co.,Ltd
+firstTradeDateEpochUtc	946947600	 (2000-01-04 09:00:00)
+timeZoneFullName	Asia/Taipei
+timeZoneShortName	CST
+uuid	0b663ac2-a3ff-3841-8b68-630af2aaf00b
+messageBoardId	finmb_10453151
+gmtOffSetMilliseconds	28800000
+currentPrice	15.7
+recommendationKey	none
+totalCash	9616547840
+totalCashPerShare	12.994
+ebitda	330758016
+totalDebt	446668000
+quickRatio	2.068
+currentRatio	2.455
+totalRevenue	16583775232
+debtToEquity	3.315
+revenuePerShare	21.534
+returnOnAssets	-0.00057
+returnOnEquity	0.03373
+freeCashflow	-272660736
+operatingCashflow	1479164032
+revenueGrowth	0.252
+grossMargins	0.09591
+ebitdaMargins	0.01994
+operatingMargins	0.00331
+financialCurrency	TWD
+trailingPegRatio	None
+
+=== Financials ===
+                                                               2023-12-31     2022-12-31     2021-12-31     2020-12-31
+Tax Effect Of Unusual Items                                           0.0            0.0            0.0            0.0
+Tax Rate For Calcs                                               0.197186       0.190053       0.204194       0.231074
+Normalized EBITDA                                            1001919000.0  -3004285000.0   6819153000.0   1269691000.0
+Net Income From Continuing Operation Net Minority Interest    446155000.0  -2753662000.0   5016637000.0    553163000.0
+Reconciled Depreciation                                       419590000.0    424370000.0    498056000.0    517234000.0
+Reconciled Cost Of Revenue                                  14993300000.0  14865947000.0  20411691000.0  15410170000.0
+EBITDA                                                       1001919000.0  -3004285000.0   6819153000.0   1269691000.0
+EBIT                                                          582329000.0  -3428655000.0   6321097000.0    752457000.0
+Net Interest Income                                           185708000.0     35668000.0      4711000.0     23844000.0
+Interest Expense                                               13152000.0     10381000.0     10040000.0     11723000.0
+Interest Income                                               198860000.0     46049000.0     14751000.0     35567000.0
+Normalized Income                                             446155000.0  -2753662000.0   5016637000.0    553163000.0
+Net Income From Continuing And Discontinued Operation         446155000.0  -2753662000.0   5016637000.0    553163000.0
+Total Expenses                                              16601981000.0  16557945000.0  22561076000.0  17304859000.0
+Diluted Average Shares                                        771724000.0    798000000.0    776047985.0    761744224.0
+Basic Average Shares                                          770109000.0    798000000.0    757179230.0    757179230.0
+Diluted EPS                                                          0.58          -3.45       6.460478       0.682533
+Basic EPS                                                            0.58          -3.45       6.629104       0.682533
+Diluted NI Availto Com Stockholders                           446155000.0  -2753662000.0   5016637000.0    553163000.0
+Net Income Common Stockholders                                446155000.0  -2753662000.0   5016637000.0    553163000.0
+Otherunder Preferred Stock Dividend                                   0.0            0.0            0.0            0.0
+Net Income                                                    446155000.0  -2753662000.0   5016637000.0    553163000.0
+Minority Interests                                            -10788000.0     31776000.0     -5742000.0    -16407000.0
+Net Income Including Noncontrolling Interests                 456943000.0  -2785438000.0   5022379000.0    569570000.0
+Net Income Continuous Operations                              456943000.0  -2785438000.0   5022379000.0    569570000.0
+Tax Provision                                                 112234000.0   -653598000.0   1288678000.0    171164000.0
+Pretax Income                                                 569177000.0  -3439036000.0   6311057000.0    740734000.0
+Other Non Operating Income Expenses                           383466000.0  -3289702000.0   6621691000.0   1279896000.0
+Net Non Operating Interest Income Expense                     185708000.0     35668000.0      4711000.0     23844000.0
+Interest Expense Non Operating                                 13152000.0     10381000.0     10040000.0     11723000.0
+Interest Income Non Operating                                 198860000.0     46049000.0     14751000.0     35567000.0
+Operating Income                                              -18206000.0   -202533000.0   -329158000.0   -556972000.0
+Operating Expense                                            1608681000.0   1691998000.0   2149385000.0   1894689000.0
+Research And Development                                      541269000.0    471716000.0    606226000.0    468905000.0
+Selling General And Administration                           1067412000.0   1220282000.0   1543159000.0   1425784000.0
+Selling And Marketing Expense                                 433067000.0    459167000.0    661738000.0    660063000.0
+General And Administrative Expense                            634345000.0    761115000.0    881421000.0    765721000.0
+Gross Profit                                                 1590475000.0   1489465000.0   1820227000.0   1337717000.0
+Cost Of Revenue                                             14993300000.0  14865947000.0  20411691000.0  15410170000.0
+Total Revenue                                               16583775000.0  16355412000.0  22231918000.0  16747887000.0
+Operating Revenue                                           16583775000.0  16355412000.0  22231918000.0  16747887000.0

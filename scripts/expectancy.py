@@ -12,6 +12,7 @@ import logging
 import multiprocessing
 from FinMind.data import DataLoader
 import platform
+from scipy import stats
 
 if platform.system() == 'Windows':
     pass
@@ -69,6 +70,11 @@ runtime_summary = dict(
 )
 start_time = time.time()
 
+data_period = '3y'
+
+# get TW stock index
+df_TWII = yf.download('^TWII', period=data_period)
+
 for target in targets:
     stock_id = f"{target}.tw"
 
@@ -96,24 +102,35 @@ for target in targets:
 
 
         # get stock price df
-        df = yf.download(stock_id, period='3y')
+        df = yf.download(stock_id, period=data_period)
         df['quarter'] = df.index.to_period('Q')
 
         # calc
         df['sma30'] = pd.Series(df['Close']).rolling(30).mean()
         df['last_4_quarters_eps'] = df['quarter'].apply(lambda x: get_last_4_quarters(x, eps_df))
 
+        # Calculate stock returns
+        df['stock_returns'] = df['Close'].pct_change()
+        # Calculate market returns (use TWII as market benchmark)
+        df['market_returns'] = df_TWII['Adj Close'].pct_change()
+
+        # Drop NaN values
+        df.dropna(subset=['stock_returns', 'market_returns'], inplace=True)
+
+        # Calculate Alpha and Beta using linear regression
+        beta, alpha, _, _, _ = stats.linregress(df['market_returns'], df['stock_returns'])
+
         bt = Backtest(df, get_strategy_cls(stock_id), cash=150000, commission=0.004, exclusive_orders=True)
-        stats = bt.optimize(low_pe=range(5, 20, 2),
+        bt_stats = bt.optimize(low_pe=range(5, 20, 2),
                             high_pe=range(10, 40, 5),
                             maximize='Equity Final [$]',
                             constraint=lambda param: param.low_pe < param.high_pe)
 
         # only keep best 10 stock
-        if stats['Expectancy [%]'] > 0:
+        if bt_stats['Expectancy [%]'] > 0:
             heapq.heappush(heap, (
-                stats['Expectancy [%]'] * -1, stats['Return [%]'], stock_id, stats['_strategy'].low_pe,
-                stats['_strategy'].high_pe))
+                bt_stats['Expectancy [%]'] * -1, bt_stats['Return [%]'], stock_id, bt_stats['_strategy'].low_pe,
+                bt_stats['_strategy'].high_pe, alpha, beta))
 
         runtime_summary['processed'] += 1
     except Exception as e:
@@ -123,10 +140,10 @@ for target in targets:
 
 with open('output.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
-    csvwriter.writerow(['stock_id', 'low_pe', 'high_pe', 'Expectancy [%]', 'Return [%]'])
+    csvwriter.writerow(['stock_id', 'low_pe', 'high_pe', 'Expectancy [%]', 'Return [%]', 'Alpha', 'Beta'])
     while heap:
-        expectancy, return_percent, stock_id, low_pe, high_pe = heapq.heappop(heap)
-        csvwriter.writerow([stock_id, low_pe, high_pe, expectancy * -1, return_percent])
+        expectancy, return_percent, stock_id, low_pe, high_pe, alpha, beta = heapq.heappop(heap)
+        csvwriter.writerow([stock_id, low_pe, high_pe, expectancy * -1, return_percent, alpha, beta])
 
 end_time = time.time()
 runtime_summary['duration'] = end_time - start_time

@@ -11,8 +11,12 @@ import heapq
 import logging
 import multiprocessing
 from FinMind.data import DataLoader
+import platform
 
-multiprocessing.set_start_method('fork')
+if platform.system() == 'Windows':
+    pass
+else:
+    multiprocessing.set_start_method('fork')
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)

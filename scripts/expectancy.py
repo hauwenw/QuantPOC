@@ -80,7 +80,7 @@ for target in targets:
     try:
         # get EPS df
         api = DataLoader()
-        api.login_by_token()
+        # api.login_by_token()
         df = api.taiwan_stock_financial_statement(
             stock_id=target,
             start_date='2019-01-01',
